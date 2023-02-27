@@ -1,1 +1,1 @@
-/opt/lissi/fc/KEYCODE.sh
+./KEYCODE.sh

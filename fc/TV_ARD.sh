@@ -1,1 +1,1 @@
-/opt/lissi/fc/TVPLAYER.sh
+./TVPLAYER.sh

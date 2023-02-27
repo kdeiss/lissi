@@ -1,1 +1,1 @@
-/opt/lissi/fc/PLAYER.sh
+./PLAYER.sh
