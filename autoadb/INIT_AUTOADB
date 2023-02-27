@@ -1,0 +1,22 @@
+#!/bin/bash
+# by k.deiss@it-userdesk.de
+
+# V 0.0.1.23.3.23
+
+MYVERSION="V V 0.0.1.23.3.23"
+BASEDIR=`dirname $0`
+echo $BASEDIR
+if [ " $BASEDIR" == " ." ];then
+    BASEDIR=`pwd`
+fi
+echo $BASEDIR
+
+cp $BASEDIR/10-usb.rules.2 $BASEDIR/10-usb.rules.3
+cp $BASEDIR/10-usb.rules.1 $BASEDIR/10-usb.rules.2
+cp $BASEDIR/10-usb.rules.0 $BASEDIR/10-usb.rules.1
+cp $BASEDIR/10-usb.rules $BASEDIR/10-usb.rules.0
+
+echo "Writing line to $BASEDIR/10-usb.rules"
+echo "SUBSYSTEM==\"usb\", RUN+=\"/bin/sh -c '$BASEDIR/hotplug;'\""
+echo "SUBSYSTEM==\"usb\", RUN+=\"/bin/sh -c '$BASEDIR/hotplug;'\"" > $BASEDIR/10-usb.rules
+

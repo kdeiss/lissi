@@ -1,0 +1,3 @@
+#!/bin/bash
+SEM="/tmp/hotplug.sem"
+touch $SEM

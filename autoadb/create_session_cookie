@@ -1,0 +1,11 @@
+#!/bin/bash
+# by k.deiss@it-userdesk.de
+# this jib is called by cron and is looking for semaphore / if found restart ADB
+# require adb
+# V 0.0.1.22.11.20
+
+CONF="/tmp/autoadb.conf"
+
+echo "DISPLAY=$DISPLAY" > $CONF
+echo "USER=$USER" >> $CONF
+chmod 666 $CONF 2>/dev/null

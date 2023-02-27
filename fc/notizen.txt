@@ -1,0 +1,37 @@
+Check ob app (smarttube vlc etc) im Vordergrund läuft
+
+dumpsys window windows | grep -E 'mCurrentFocus'
+mCurrentFocus=Window{23690a0 u0 com.teamsmart.videomanager.tv/com.liskovsoft.smartyoutubetv2.tv.ui.playback.PlaybackActivity}
+mCurrentFocus=Window{2b99929 u0 org.videolan.vlc/org.videolan.vlc.gui.video.VideoPlayerActivity}
+
+Batteriestatus ausgeben
+dumpsys battery
+
+Liste aller Windows
+dumpsys window windows | grep "Window{"
+
+
+Audio Data
+dumpsys media.audio_flinger
+
+Medien Staus
+dumpsys media_session | grep state
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

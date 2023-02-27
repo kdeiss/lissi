@@ -1,0 +1,309 @@
+#!/bin/bash
+# by k.deiss@it-userdesk.de
+# this jib is called by cron and is looking for semaphore / if found restart ADB
+# require adb
+# V 0.0.1.22.11.20
+# V 0.0.2.23.11.20 added zenity
+# V 0.0.3.24.11.20 extend zenity
+# V 0.0.4.15.02.23 $.cfg enthält eintraege, wenn vorhande adb action ausfuehren!
+# V 0.0.5.16.02.23 cleanup and archive
+# V 0.0.6.16.02.23 dauerpingbefehl
+# V 0.0.7.23.02.23 move location
+
+MYVERSION="V 0.0.7.23.02.23"
+LOG="/tmp/hotplug.log"
+LOGP="/tmp/hotplug_ping.log"
+SEM="/tmp/hotplug.sem"
+INFO="/tmp/adb-info.txt"
+
+BASEDIR="/opt/autoadb"
+BASEDIR=`dirname $0`
+if [ " $BASEDIR" == " ." ];then
+    BASEDIR=`pwd`
+fi
+
+HISTOR="$BASEDIR/autoadb.txt"
+ADB="/usr/bin/adb"
+PINGHOST="web.de"
+let CTR=0
+let MAX=55
+let DEBUG=2
+#let DEBUG=5
+
+
+##############script detection#########################
+LOCKFILE=/tmp/$(basename $0).lck
+
+if [ -f $LOCKFILE ] ; then
+    SPID=`cat $LOCKFILE`
+    ps -e | grep -e $SPID -e $0 >> /dev/null
+    if [ $? -eq 0 ] ; then
+        echo "`date` INF $0 already running" >> $LOG
+        exit 1
+    else
+        echo "`date` WAR $0 has lockfile but is not running!" >> $LOG
+    fi
+fi
+
+
+del_lock()
+{
+    echo "`date` $0 WARNING external signal caught, exiting" >> $LOG
+    rm -f $LOCKFILE
+}
+
+trap "del_lock ; exit 1" 2 9 15
+echo $$ > $LOCKFILE
+##############script detection#########################
+
+
+source ${BASEDIR}/mesglib
+
+function show_log()
+{
+tmpfn="/tmp/hotplug_l18l.log"
+tail -n 20 $LOG > $tmpfn
+text2x $tmpfn &
+rm -f tmpfn 
+}
+
+function restart_adb()
+{
+echo "`date` INF restarting ADB"  >> $LOG
+$ADB kill-server &>>$LOG
+$ADB -a nodaemon server &>>$LOG &
+
+sleep 1
+
+$ADB devices >> $INFO
+$ADB devices >> $LOG
+}
+
+# if there are connected mobiles 
+function ana-adb-info()
+{
+DEVICELIST=""
+rm -f $INFO 2>/dev/null
+touch $INFO
+$ADB devices > $INFO
+let lctr=0
+echo "`date` INF Call to ana-adb-info." >> $LOG
+while read line
+do
+    #echo $lctr
+    if [ $lctr -eq 0 ];then
+	#first line should contain "List of devices attached"
+	echo $line |grep "attached">/dev/null
+	if [ ! $? -eq 0 ];then
+	    m1="ADB did not return expected result!"
+	    echo "`date` ERR $m1"  >> $LOG
+	    err2x "$m1" &
+	    show_log &
+	    return 1
+	else
+	    let lctr=$lctr+1
+	fi
+    else
+	if [ ! -z "$line" ];then
+	    if [ -z "$DEVICELIST" ];then
+		DEVICELIST="$line\n"
+	    else
+		DEVICELIST="$DEVICELIST$line\n"
+	    fi
+	    let lctr=$lctr+1
+	fi
+    fi
+done < $INFO
+
+if [ $lctr -eq 1 ];then
+    m1="ADB did not find any mobile device. Is ADB Debug Mode activated?"
+    echo "`date` ERR $m1"  >> $LOG
+    err2x "$m1" &
+    show_log &
+    echo "RST:$?"
+    return 2
+fi
+
+# jetzt checken ob mit den devices direkte aktionen verbunden sind
+# definitionen in autoadb.cfg
+# aktion 1 = adb over tcpip
+let lctr=0
+while read line
+do
+    #echo $lctr
+    if [ $lctr -eq 0 ];then
+	#first line should contain "List of devices attached"
+	echo $line |grep "attached">/dev/null
+	if [ ! $? -eq 0 ];then
+	    return 1
+	else
+	    let lctr=$lctr+1
+	fi
+    else
+	touch $BASEDIR/$0.cfg
+	let lctr=$lctr+1
+
+	while read entry
+	do
+    	    fe=`echo $entry | cut -f 1 -d ";" `
+    	    se=`echo $entry | cut -f 2 -d ";" `
+	    #echo "ENTRY: $fe / $se" >> $LOG
+	    echo $line | grep "$fe">/dev/null
+	    if [ $? -eq 0 ];then
+		echo "`date` INF line $line requires action: $se" >> $LOG
+		if [ " $se" == " 1" ];then
+		    echo "`date` INF activating adb over tcpip now." >> $LOG
+		    echo "`date` INF commandline: adb -s \"$fe\" ip addr show" >> $LOG
+		    #$ADB -s "$fe" shell netcfg >> $LOG
+		    $ADB -s "$fe" shell ip addr show | grep inet &>>$LOG
+		    AIP=`$ADB -s "$fe" shell ip addr show | grep wlan | grep -e inet`
+		    AIP=`echo $AIP | cut -f 2 -d " "`
+		    echo "`date` INF Assumming IP of device is $AIP" >> $LOG
+		    echo "`date`;$fe;$AIP" >> $HISTOR
+
+		    $ADB -s "$fe" tcpip 5555 &>>$LOG
+		    # this action causes the adb device to reinit
+		    # thus a new sem file will appear - we wait for this
+		    while [ $CTR -lt $MAX ];do
+			CTR=$(date +%S)
+			sleep 1
+			if [ -f $SEM ];then
+			    echo "`date` INF Ignoring and deleting file $SEM as result of adb change." >> $LOG
+			    rm -f $SEM
+			    sleep 1
+			    break
+			fi
+		    done
+		fi
+	    fi
+	done < $0.cfg
+
+    fi
+done < $INFO
+
+echo "DEVICELIST=$DEVICELIST"
+info2x "Found mobile device(s):\n$DEVICELIST" &
+}
+
+# chk the connectivity from the attached device
+function chk4ping()
+{
+DEVICELIST=""
+rm -f $INFO 2>/dev/null
+touch $INFO
+$ADB devices > $INFO
+let lctr=0
+echo "`date` INF Call to chk4ping." >> $LOG
+while read line
+do
+    if [ $lctr -eq 0 ];then
+	#first line should contain "List of devices attached"
+	echo $line |grep "attached">/dev/null
+	if [ ! $? -eq 0 ];then
+	    echo "`date` INF chk4ping: unexpected format of $INFO" >> $LOG
+	    return 1
+	else
+	    let lctr=$lctr+1
+	fi
+    else
+	let lctr=$lctr+1
+    fi
+done < $INFO
+
+if [ $lctr -eq 1 ];then
+    m1="ADB did not find any mobile device. Is ADB Debug Mode activated?"
+    echo "`date` INF $ml" >> $LOG
+    return 2
+fi
+
+if [ ! -f $0.cfg ] ; then
+    echo "`date` WAR no config file $0.cfg" >> $LOG
+    return 3
+fi
+
+# jetzt checken ob mit den devices direkte aktionen verbunden sind
+# definitionen in autoadb.cfg
+# aktion 1 = adb over tcpip
+# aktion 2 = ping from handy
+
+let lctr=0
+while read line
+do
+    if [ $lctr -eq 0 ];then
+	#first line should contain "List of devices attached"
+	echo $line |grep "attached">/dev/null
+	if [ ! $? -eq 0 ];then
+	    return 1
+	else
+	    let lctr=$lctr+1
+	fi
+    else
+	touch $BASEDIR/$0.cfg
+	let lctr=$lctr+1
+
+	while read entry
+	do
+    	    fe=`echo $entry | cut -f 1 -d ";" `
+    	    se=`echo $entry | cut -f 3 -d ";" `
+	    echo $line | grep "$fe">/dev/null
+	    if [ $? -eq 0 ];then
+		if [ " $se" == " 1" ];then
+		    echo "`date` INF 1. sending ping to $PINGHOST with adb from device $fe." >> $LOGP
+		    $ADB -s "$fe" shell "ping -c 1 $PINGHOST" >> $LOGP
+		    if [ ! $? -eq 0 ];then
+			echo "`date` INF ping from device $fe not ok. Offline?" >> $LOGP
+		    else
+			echo "`date` INF ping from device $fe returns 0." >> $LOGP
+		    fi
+		    #echo "`date` INF 2. sending ping to $PINGHOST with adb from device $fe." >> $LOG
+		    #$ADB -s "$fe" shell 'ping -c 1 web.de; echo $?' >> $LOG
+		    #if [ ! $? -eq 0 ];then
+		    #	echo "`date` INF ping from device $fe not ok. Offline?" >> $LOG
+		    #fi
+		fi
+	    fi
+	done < $0.cfg
+    fi
+done < $INFO
+}
+
+
+
+if [ $DEBUG -gt 0 ];then
+    echo "`date` INF startup $0 ($MYVERSION)" >> $LOG
+fi
+while [ $CTR -lt $MAX ];do
+    #let CTR=$CTR+1
+    CTR=$(date +%S)
+    if [ $DEBUG -gt 4 ];then
+	echo "`date` INF $CTR" >> $LOG
+    fi
+
+#look for running adb!
+    if ! pgrep -x "adb" > /dev/null;then
+	echo "`date` WAR ADB failure - will (re)start ADB" >> $LOG
+	restart_adb
+	ana-adb-info
+	sleep 1
+    fi
+
+
+    if [ -f $SEM ];then 
+	rm -f $SEM
+	echo "`date` INF Found semaphore - will (re)start ADB" >> $LOG
+	restart_adb
+	ana-adb-info
+	sleep 1
+    fi
+    sleep 1
+done
+
+chk4ping
+
+if [ $DEBUG -gt 0 ];then
+    echo "`date` INF Status of controlled devices:" >> $LOG
+    $ADB devices &>>$LOG
+    echo "`date` INF stop $0 ($CTR)" >> $LOG
+fi
+
+rm -f $LOCKFILE

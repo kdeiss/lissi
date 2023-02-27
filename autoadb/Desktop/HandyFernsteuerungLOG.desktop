@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=ADB Srvc log
+Comment=Show ADB autostart log
+GenericName=ADBSrvcLog
+Exec=/opt/autoadb/show_log
+Icon=accessibility-directory
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;Utility;
+StartupNotify=true
+NoDisplay=true

@@ -1,0 +1,5 @@
+#!/bin/bash
+PWD=`pwd`
+TARNAME=`basename $PWD`
+echo "Creating archive $TARNAME"
+tar --exclude *.tar -cvf ${TARNAME}.tar .

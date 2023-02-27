@@ -1,0 +1,5 @@
+#!/bin/sh
+#adb -a start-server
+#adb devices
+adb -a nodaemon server
+

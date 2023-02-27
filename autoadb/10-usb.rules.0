@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", RUN+="/bin/sh -c '/opt/autoadb/hotplug;'"

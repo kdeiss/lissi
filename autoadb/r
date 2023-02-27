@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "restarting ADB!"
+/opt/autoadb/create_session_cookie
+echo "START" > /tmp/hotplug.sem

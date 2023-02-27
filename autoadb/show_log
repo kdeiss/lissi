@@ -1,0 +1,29 @@
+#!/bin/bash
+
+CONF="/tmp/autoadb.conf"
+RUN="/tmp/autoadb2zenity"
+
+BASEDIR="/opt/autoadb"
+
+BASEDIR=`dirname $0`
+if [ " $BASEDIR" == " ." ];then
+    BASEDIR=`pwd`
+fi
+
+
+LOG=/$BASEDIR/log/autoadb_`date +"%b-%d-%y"`.log
+
+source $CONF
+source ${BASEDIR}/mesglib
+
+
+echo "DISPLAY=$DISPLAY"
+echo "USER=$USER"
+
+#logfile o.ä
+tmpfn="/tmp/hotplug_l10l.log"
+hotpluglog="/tmp/hotplug.log"
+#tail -n 18 $hotpluglog > $tmpfn
+tac $hotpluglog > $tmpfn
+text2x $tmpfn
+

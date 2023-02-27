@@ -1,0 +1,71 @@
+#!/bin/bash
+
+CONF="/tmp/autoadb.conf"
+RUN="/tmp/autoadb2zenity"
+
+#echo "DISPLAY=$DISPLAY" > $CONF
+#echo "USER=$USER" >> $CONF
+#chmod 666 $CONF 2>/dev/null
+
+source $CONF
+
+#echo DISPLAY=:$DISPLAY
+
+function err2x()
+{
+mesg=$1
+echo "export DISPLAY=$DISPLAY" >$RUN
+echo "zenity --width=400 --error --text \"$mesg\"" >>$RUN
+chown  "$USER:$USER" $RUN
+chmod 755 $RUN
+sudo -u $USER $RUN
+return $?
+}
+
+function info2x()
+{
+mesg=$1
+echo "export DISPLAY=$DISPLAY" >$RUN
+echo "zenity --info --width=400 --text \"$mesg\"" >>$RUN
+chown  "$USER:$USER" $RUN
+chmod 755 $RUN
+sudo -u $USER $RUN
+return $?
+}
+
+function text2x()
+{
+FILE=$1
+echo "export DISPLAY=$DISPLAY" >$RUN
+#echo "zenity --text-info --title=\"Lizenz\" --filename=$FILE --checkbox=\"Ich habe die Bedingungen gelesen und akzeptiere sie.\"" >>$RUN
+echo "zenity --width=800 --height=600 --text-info --title=\"USB Event\" --filename=$FILE" >>$RUN
+
+echo "case \$? in" >>$RUN
+echo "    0)" >>$RUN
+echo "        echo \"OK!\"" >>$RUN
+echo "	;;" >>$RUN
+echo "    1)" >>$RUN
+echo "        echo \"BREAK!\"" >>$RUN
+echo "	;;" >>$RUN
+echo "    -1)" >>$RUN
+echo "        echo \"ERR\"" >>$RUN
+echo "	;;" >>$RUN
+echo "esac" >>$RUN
+
+chown  "$USER:$USER" $RUN
+chmod 755 $RUN
+sudo -u $USER $RUN
+return $?
+}
+
+
+
+#err2x "\"Hi du ekelhafter MOTHERFUCKER _PISS OFF!!\""
+#info2x "\"SACH ICH DOCH MOTHERFUCKER _PISS 2x OFF!!\""
+
+#logfile o.ä
+#tmpfn="/tmp/hotplug_l10l.log"
+#hotpluglog="/tmp/hotplug.log"
+#tail -n 10 $hotpluglog > $tmpfn
+#text2x $tmpfn
+

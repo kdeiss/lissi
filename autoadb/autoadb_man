@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "`date` INF Starting ADB."
+/usr/bin/adb kill-server >> /tmp/hotplug.log
+sleep 1
+/usr/bin/adb -a nodaemon server &
+sleep 1
+/usr/bin/adb devices

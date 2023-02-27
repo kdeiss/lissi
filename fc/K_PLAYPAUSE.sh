@@ -1,0 +1,1 @@
+/opt/lissi/fc/KEYCODE.sh

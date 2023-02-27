@@ -1,0 +1,12 @@
+#!/bin/bash
+
+ADB="/usr/bin/adb"
+fe=0123456789ABCDEF
+
+#AIP=`$ADB -s "$fe" shell ip addr show | grep -e inet -e wlan #| cut -f 2 -d " "`
+
+$ADB -s "$fe" shell ip addr show
+echo "***************************************"
+AIP=`$ADB -s "$fe" shell ip addr show | grep wlan | grep -e inet`
+AIP=`echo $AIP | cut -f 2 -d " "`
+echo "A: $AIP"
