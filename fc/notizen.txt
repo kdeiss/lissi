@@ -17,12 +17,25 @@ dumpsys media.audio_flinger
 Medien Staus
 dumpsys media_session | grep state
 
+Firestick Hauptmenue
+mantis:/ $ dumpsys window windows | grep -E 'mCurrentFocus'
+  mCurrentFocus=Window{576df2e u0 com.amazon.tv.launcher/com.amazon.tv.launcher.ui.HomeActivity_vNext}
+
+Firestick Bildschirmschoner
+mantis:/ $ dumpsys window windows | grep -E 'mCurrentFocus'
+  mCurrentFocus=Window{284d279 u0 Sys2023:dream}
+mantis:/ $
 
 
 
+On Lollipop (Nexus 6), the first command responds with mInteractive=true when the screen is on, or mInteractive=false when off; and the second command responds with Display Power: 
+state=ON when on, and state=OFF when the screen is off. 
 
 
-
+Screen begrenzen / avoid phantom touches
+https://android.stackexchange.com/questions/210440/disable-part-of-a-touchscreen-from-taking-phantom-touches
+Beim alten GS180 Rose 
+adb shell wm overscan 0,160,0,0
 
 
 

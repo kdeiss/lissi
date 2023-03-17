@@ -23,7 +23,7 @@ let ctr=0
 echo "`date` INF Device $DEVICE rebooting!">> $0.log
 while [ $ctr -lt 120 ];do
     let ctr=$ctr+1
-    adb devices | grep $DEVICE > /dev/null
+    adb devices | grep $DEVICE > ./null
     if [ $? -eq 0 ];then
 	echo "`date` INF Device $DEVICE back after $ctr tries" >> $0.log
 	echo "`date` INF Device $DEVICE back after $ctr tries"
@@ -36,3 +36,5 @@ while [ $ctr -lt 120 ];do
     fi
     sleep 1
 done
+
+rm -f ./null
