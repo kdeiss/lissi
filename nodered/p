@@ -1,0 +1,4 @@
+# sicherungskopie nodered anlegen
+# vor commit -a ausführen!
+cp /home/nodered/.node-red/flows.json .
+

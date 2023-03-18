@@ -1,1 +1,0 @@
-./TVPLAYER.sh

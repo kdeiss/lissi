@@ -4,6 +4,7 @@
 # play url with vld via adb 
 # V 0.0.1.15.02.23
 # V 0.0.2.20.02.23 flexible location
+# V 0.0.3.17.03.23 move to subfolder
 
 
 WPATH=`dirname $0`
@@ -21,10 +22,10 @@ if [ -f $LOCKFILE ] ; then
     SPID=`cat $LOCKFILE`
     ps -o cmd -p $SPID |grep `basename $0` >> ./null
     if [ $? -eq 0 ] ; then
-        echo "`date` INF $0 already running"
+        echo "`date` INF `basename $0` already running"
         exit 1
     else
-        echo "`date` WAR $0 has lockfile but is not running!" >> $LOG
+        echo "`date` WAR `basename $0` has lockfile but is not running!" >> $LOG
     fi
 fi
 
@@ -60,7 +61,7 @@ do
 done<$TMP
 
 if [ $ctr -gt 1 ];then
-    echo "`date` WAR duplicate files found for $ARG1.sh.cfg!" |tee -a $LOG
+    echo "`date` WAR `basename $0` duplicate files found for $ARG1.sh.cfg!" |tee -a $LOG
 fi
 
 
@@ -68,11 +69,11 @@ PIC=""
 URL=""
 if [ -f "$ARGFILE" ] ;then
     # here should be implemented some security steps, maybe not to use source!
-    echo "`date` INF using url from $ARGFILE!" |tee -a $LOG
+    echo "`date` INF `basename $0` using url from $ARGFILE!" |tee -a $LOG
     source $ARGFILE
 else
     #echo "URL=\"http://it-userdesk.de/dl/mediathek/radio/notyetspecified.mp3\"" > $ARG1.cfg
-    echo "`date` ERR can't find $ARGFILE!" |tee -a $LOG
+    echo "`date` ERR `basename $0` can't find file <$ARGFILE>!" |tee -a $LOG
     rm -f $LOCKFILE
     exit 1
 fi
@@ -83,7 +84,7 @@ if [ -z $DEVICE ] ;then
     #if devicename is not specified inside $0.cfg we load devicename from PLAYER.cfg
     source $PLAYERCFG
     if [ -z $DEVICE ] ;then
-	echo "`date` ERR device not specified!" |tee -a $LOG
+	echo "`date` ERR `basename $0` device not specified!" |tee -a $LOG
 	rm -f $LOCKFILE
 	exit 2
     fi
@@ -92,7 +93,7 @@ fi
 echo "DEVICE=$DEVICE"|tee -a $LOG
 
 if [ -z $URL ] ;then
-    echo "`date` ERR URL not specified!"
+    echo "`date` ERR `basename $0` URL not specified!"
     rm -f $LOCKFILE
     exit 3
 else
@@ -112,7 +113,7 @@ echo "PIC=$PIC"|tee -a $LOG
 
 
 #show html page - very primitive solution but its just adb....
-echo "`date` INF try to call station logo $PIC."|tee -a $LOG
+echo "`date` INF `basename $0` try to call station logo $PIC."|tee -a $LOG
 adb -s $DEVICE shell am start -a android.intent.action.VIEW -d $PIC
 
 
@@ -131,7 +132,7 @@ done < $TMP
 
 if [ $rst -eq 1 ];then
     # seems that a stream is playing we stop it
-    echo "`date` INF playback detected - going to stop this."|tee -a $LOG
+    echo "`date` INF `basename $0` playback detected - going to stop this."|tee -a $LOG
     adb -s $DEVICE shell input keyevent 85
     sleep 0.1
 fi
@@ -141,14 +142,14 @@ fi
 # this has to be checked for older devices!
 adb -s $DEVICE shell dumpsys input_method | grep "mInteractive=false"
 if [ $? -eq 0 ];then
-    echo "`date` INF Screen is off!"|tee -a $LOG
+    echo "`date` INF `basename $0` Screen is off!"|tee -a $LOG
     adb -s $DEVICE shell input keyevent 26
 fi
 
 
 # if we have screen lock (daydream) send back key
 WHF=`adb -s $DEVICE shell dumpsys window windows | grep -E 'mCurrentFocus'`
-echo "`date` INF prog in foreground: $WHF"|tee -a $LOG
+echo "`date` INF `basename $0` app in foreground is: $WHF"|tee -a $LOG
 echo $WHF | grep "dream" >./null
 # we send this only if daydream has focus
 if [ $? -eq 0 ]; then
@@ -178,7 +179,7 @@ do
     do
 	echo $line | grep "state=3" > ./null
 	if [ $? -eq 0 ];then
-	    echo "`date` INF media playback detected."|tee -a $LOG
+	    echo "`date` INF `basename $0` media playback detected."|tee -a $LOG
 	    let i=$max
 	    let rst=1
 	    break
@@ -186,14 +187,14 @@ do
     done < $TMP
     if [ $i -lt $max ] ; then
 	sleep 15
-	echo "`date` INF retry to start stream again ($i)"|tee -a $LOG
+	echo "`date` INF `basename $0` retry to start stream again ($i)"|tee -a $LOG
 	adb -s $DEVICE shell am start -n org.videolan.vlc/.StartActivity $URL
     fi
 done
 
 
 if [ $rst -eq 0 ] ;then
-    echo "`date` WAR no media playback from this stream!"|tee -a $LOG
+    echo "`date` WAR `basename $0` no media playback from this stream!"|tee -a $LOG
 fi
 
 # echo "SHOW HTML"
