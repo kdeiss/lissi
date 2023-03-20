@@ -32,7 +32,7 @@ adb -s $DEVICE shell getprop > $TMPFNAME
 grep $TMPFNAME -e "product.name" > $TMPFNAME.1
 grep $TMPFNAME -e "ipaddress" >> $TMPFNAME.1
 grep $TMPFNAME -e "hostname" >> $TMPFNAME.1
-grep $TMPFNAME -e "d.version.release" >> $TMPFNAME.1
+grep $TMPFNAME -e "d.version.release]" >> $TMPFNAME.1
 IPA=`adb -s $DEVICE shell ip addr show wlan0 | grep "inet "` 
 echo $IPA >> $TMPFNAME.1
 
