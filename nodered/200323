@@ -175,7 +175,7 @@
         "id": "4eebd6cd0a42ea99",
         "type": "ui_tab",
         "name": "YouTube",
-        "icon": "personal_video",
+        "icon": "tablet",
         "order": 3,
         "disabled": false,
         "hidden": false
@@ -248,7 +248,7 @@
         "id": "74f2d68a2007b065",
         "type": "ui_tab",
         "name": "TV",
-        "icon": "dashboard",
+        "icon": "tv",
         "order": 5,
         "disabled": false,
         "hidden": false
@@ -256,12 +256,12 @@
     {
         "id": "e6481e721d8b2b46",
         "type": "ui_group",
-        "name": "TV",
+        "name": "Oere",
         "tab": "74f2d68a2007b065",
         "order": 1,
         "disp": true,
         "width": "6",
-        "collapse": false,
+        "collapse": true,
         "className": ""
     },
     {
@@ -269,7 +269,7 @@
         "type": "ui_group",
         "name": "Tools",
         "tab": "74f2d68a2007b065",
-        "order": 2,
+        "order": 3,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -289,8 +289,8 @@
     {
         "id": "f4463e899433bee0",
         "type": "ui_tab",
-        "name": "Info Android",
-        "icon": "dashboard",
+        "name": "Android",
+        "icon": "android",
         "order": 6,
         "disabled": false,
         "hidden": false
@@ -300,7 +300,7 @@
         "type": "ui_group",
         "name": "System",
         "tab": "f4463e899433bee0",
-        "order": 1,
+        "order": 2,
         "disp": true,
         "width": "6",
         "collapse": true,
@@ -311,7 +311,7 @@
         "type": "ui_group",
         "name": "Device-Management",
         "tab": "f4463e899433bee0",
-        "order": 2,
+        "order": 1,
         "disp": true,
         "width": "6",
         "collapse": true,
@@ -321,14 +321,14 @@
         "id": "d120fc57903753af",
         "type": "ui_tab",
         "name": "Web",
-        "icon": "dashboard",
+        "icon": "web",
         "disabled": false,
         "hidden": false
     },
     {
         "id": "36cac52121b3db38",
         "type": "ui_group",
-        "name": "Sport",
+        "name": "Videotext",
         "tab": "d120fc57903753af",
         "order": 1,
         "disp": true,
@@ -341,7 +341,7 @@
         "type": "ui_group",
         "name": "Sonstige",
         "tab": "d120fc57903753af",
-        "order": 2,
+        "order": 3,
         "disp": true,
         "width": "6",
         "collapse": true,
@@ -352,7 +352,29 @@
         "type": "ui_group",
         "name": "Tools",
         "tab": "d120fc57903753af",
-        "order": 3,
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "5861fd50fb7ea62c",
+        "type": "ui_group",
+        "name": "Playlist",
+        "tab": "d120fc57903753af",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "a375a50eec6ddc39",
+        "type": "ui_group",
+        "name": "Music",
+        "tab": "74f2d68a2007b065",
+        "order": 2,
         "disp": true,
         "width": "6",
         "collapse": true,
@@ -1567,8 +1589,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 740,
-        "y": 80,
+        "x": 700,
+        "y": 240,
         "wires": []
     },
     {
@@ -1592,7 +1614,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 170,
-        "y": 80,
+        "y": 60,
         "wires": [
             [
                 "78bc4abeff5c2006"
@@ -1620,7 +1642,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 180,
-        "y": 140,
+        "y": 100,
         "wires": [
             [
                 "78bc4abeff5c2006"
@@ -1667,12 +1689,13 @@
         "winHide": false,
         "oldrc": false,
         "name": "exandout",
-        "x": 440,
-        "y": 180,
+        "x": 420,
+        "y": 480,
         "wires": [
             [
                 "78fbb3e8ca226bc0",
-                "423f572bd474e027"
+                "423f572bd474e027",
+                "2232b0f6a428129a"
             ],
             [],
             []
@@ -1692,7 +1715,7 @@
         "layout": "col-center",
         "className": "",
         "x": 730,
-        "y": 480,
+        "y": 600,
         "wires": []
     },
     {
@@ -1714,8 +1737,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 170,
-        "y": 360,
+        "x": 150,
+        "y": 480,
         "wires": [
             [
                 "2c8da44869b43eb7",
@@ -1735,7 +1758,7 @@
         "finalize": "",
         "libs": [],
         "x": 710,
-        "y": 220,
+        "y": 340,
         "wires": [
             [
                 "b1c7b59c4b6e7fae"
@@ -1762,7 +1785,7 @@
         "to": "",
         "reg": false,
         "x": 770,
-        "y": 300,
+        "y": 420,
         "wires": [
             [
                 "78fbb3e8ca226bc0"
@@ -1788,11 +1811,347 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 170,
-        "y": 440,
+        "x": 150,
+        "y": 560,
         "wires": [
             [
                 "78fbb3e8ca226bc0"
+            ]
+        ]
+    },
+    {
+        "id": "b043b9fd1ab20fcd",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "a375a50eec6ddc39",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "VH1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_vh1",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 370,
+        "y": 40,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "623cd0415bf145c5",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "a375a50eec6ddc39",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Latino (Vevo)",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_vevo_latino",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 80,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "478143951f592ffb",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "a375a50eec6ddc39",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Ocko",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_ocko",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 370,
+        "y": 120,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "96e806912d3973aa",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Phoenix",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_PHOENIX",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 180,
+        "y": 140,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "ce58c921fac0ee3b",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Arte",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_ARTE",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 170,
+        "y": 180,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "c91471d2ca0e9a38",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Kika",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_KIKA",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 170,
+        "y": 220,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "87b6c49b525428c1",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "One",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_ONE",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 170,
+        "y": 260,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "67a6ce8516f059a7",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "3SAT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_3SAT",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 170,
+        "y": 300,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "dfc0f01f5c7edfb5",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "BR Alpha",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_ALPHA",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 180,
+        "y": 340,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "393966ba2a916d98",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "DW (Deutsch)",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_DWDEU",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 200,
+        "y": 380,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "2901234e3a2045e2",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "e6481e721d8b2b46",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Tagesschau 24",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_TS24",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 200,
+        "y": 420,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
+            ]
+        ]
+    },
+    {
+        "id": "8cfa117b0843c545",
+        "type": "ui_button",
+        "z": "45fb03d18e38b340",
+        "name": "",
+        "group": "a375a50eec6ddc39",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Test",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "TV_test",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 40,
+        "wires": [
+            [
+                "78bc4abeff5c2006"
             ]
         ]
     },
@@ -1855,7 +2214,7 @@
         "type": "debug",
         "z": "af942e9d7d4bccdc",
         "name": "debug 5",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -1872,7 +2231,7 @@
         "type": "ui_text",
         "z": "af942e9d7d4bccdc",
         "group": "0afa2725ed65e7a7",
-        "order": 2,
+        "order": 3,
         "width": "0",
         "height": "0",
         "name": "",
@@ -1962,7 +2321,7 @@
         "type": "ui_text",
         "z": "af942e9d7d4bccdc",
         "group": "0afa2725ed65e7a7",
-        "order": 3,
+        "order": 4,
         "width": "0",
         "height": "0",
         "name": "",
@@ -1971,7 +2330,7 @@
         "layout": "row-spread",
         "className": "",
         "x": 720,
-        "y": 400,
+        "y": 300,
         "wires": []
     },
     {
@@ -1981,14 +2340,14 @@
         "group": "0afa2725ed65e7a7",
         "order": 5,
         "width": "6",
-        "height": "6",
+        "height": "4",
         "name": "",
         "label": "Device Infos",
         "format": "{{msg.payload}}",
         "layout": "col-center",
         "className": "",
         "x": 710,
-        "y": 320,
+        "y": 360,
         "wires": []
     },
     {
@@ -2172,7 +2531,7 @@
         "type": "ui_text",
         "z": "1378ba83.90c825",
         "group": "0afa2725ed65e7a7",
-        "order": 4,
+        "order": 2,
         "width": "0",
         "height": "0",
         "name": "",
@@ -2330,7 +2689,7 @@
         "z": "6e2b0d184fda5883",
         "name": "",
         "group": "36cac52121b3db38",
-        "order": 1,
+        "order": 2,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -2345,7 +2704,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 120,
-        "y": 60,
+        "y": 100,
         "wires": [
             [
                 "488ef31fa82df9a9"
@@ -2513,7 +2872,7 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 380,
+        "x": 580,
         "y": 60,
         "wires": [
             [
@@ -2527,7 +2886,7 @@
         "z": "6e2b0d184fda5883",
         "name": "",
         "group": "36cac52121b3db38",
-        "order": 1,
+        "order": 3,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -2542,7 +2901,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 120,
-        "y": 100,
+        "y": 140,
         "wires": [
             [
                 "488ef31fa82df9a9"
@@ -2555,7 +2914,7 @@
         "z": "6e2b0d184fda5883",
         "name": "",
         "group": "36cac52121b3db38",
-        "order": 1,
+        "order": 4,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -2570,7 +2929,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 120,
-        "y": 140,
+        "y": 180,
         "wires": [
             [
                 "488ef31fa82df9a9"
@@ -2583,7 +2942,7 @@
         "z": "6e2b0d184fda5883",
         "name": "",
         "group": "36cac52121b3db38",
-        "order": 1,
+        "order": 5,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -2598,7 +2957,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 130,
-        "y": 180,
+        "y": 220,
         "wires": [
             [
                 "488ef31fa82df9a9"
@@ -2625,8 +2984,205 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 650,
+        "x": 790,
         "y": 60,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "455b4976266c35b0",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "36cac52121b3db38",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Oberliga Niederrhein",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_OLN",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 260,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "3072ee352df0e370",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "36cac52121b3db38",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Startseite",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_100",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 100,
+        "y": 60,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "224ce0fe01bcaae4",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "5861fd50fb7ea62c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "1live Playlist",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_pl_1live",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 350,
+        "y": 60,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "8cf763eec06b7cbb",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "5861fd50fb7ea62c",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Cosmo Playlist",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_pl_cosmo",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 360,
+        "y": 140,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "e37e0d64554b86ef",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "5861fd50fb7ea62c",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "1live Diggi Playlist",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_pl_1lidiggi",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 370,
+        "y": 100,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "649ffbf5380b8273",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "5861fd50fb7ea62c",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "WDR2 Playlist",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_pl_wdr2",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 360,
+        "y": 180,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "e5d85d6b4b489817",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "d": true,
+        "name": "",
+        "group": "bb90af547ee34a79",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Rain Alarm",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_rain-alarm",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 590,
+        "y": 100,
         "wires": [
             [
                 "488ef31fa82df9a9"
