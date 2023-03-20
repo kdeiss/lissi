@@ -58,7 +58,7 @@
         "id": "b4b2974d132c0cdc",
         "type": "ui_base",
         "theme": {
-            "name": "theme-light",
+            "name": "theme-dark",
             "lightTheme": {
                 "default": "#0094CE",
                 "baseColor": "#0094CE",
@@ -70,7 +70,8 @@
                 "default": "#097479",
                 "baseColor": "#097479",
                 "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
-                "edited": false
+                "edited": true,
+                "reset": false
             },
             "customTheme": {
                 "name": "Untitled Theme 1",
@@ -80,44 +81,44 @@
             },
             "themeState": {
                 "base-color": {
-                    "default": "#0094CE",
-                    "value": "#0094CE",
+                    "default": "#097479",
+                    "value": "#097479",
                     "edited": false
                 },
                 "page-titlebar-backgroundColor": {
-                    "value": "#0094CE",
+                    "value": "#097479",
                     "edited": false
                 },
                 "page-backgroundColor": {
-                    "value": "#fafafa",
-                    "edited": false
-                },
-                "page-sidebar-backgroundColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "group-textColor": {
-                    "value": "#1bbfff",
-                    "edited": false
-                },
-                "group-borderColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "group-backgroundColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "widget-textColor": {
                     "value": "#111111",
                     "edited": false
                 },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
                 "widget-backgroundColor": {
-                    "value": "#0094ce",
+                    "value": "#097479",
                     "edited": false
                 },
                 "widget-borderColor": {
-                    "value": "#ffffff",
+                    "value": "#333333",
                     "edited": false
                 },
                 "base-font": {
@@ -230,7 +231,7 @@
         "order": 1,
         "disp": true,
         "width": "6",
-        "collapse": false,
+        "collapse": true,
         "className": ""
     },
     {
@@ -1263,7 +1264,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 70,
-        "y": 100,
+        "y": 20,
         "wires": [
             [
                 "8404b0c5f6c9d164",
@@ -1309,7 +1310,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 70,
-        "y": 160,
+        "y": 60,
         "wires": [
             [
                 "8404b0c5f6c9d164",
@@ -1338,7 +1339,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 90,
-        "y": 220,
+        "y": 100,
         "wires": [
             [
                 "8404b0c5f6c9d164",
@@ -1367,7 +1368,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 100,
-        "y": 280,
+        "y": 140,
         "wires": [
             [
                 "8404b0c5f6c9d164",
@@ -1396,7 +1397,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 90,
-        "y": 340,
+        "y": 180,
         "wires": [
             [
                 "8404b0c5f6c9d164",
@@ -1539,7 +1540,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 100,
-        "y": 400,
+        "y": 220,
         "wires": [
             [
                 "9895017f125382d7",
@@ -1568,10 +1569,66 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 70,
-        "y": 460,
+        "y": 260,
         "wires": [
             [
                 "9895017f125382d7",
+                "8404b0c5f6c9d164"
+            ]
+        ]
+    },
+    {
+        "id": "e076b6be4a88ee1b",
+        "type": "ui_button",
+        "z": "90093accf14c360e",
+        "name": "",
+        "group": "01bdf8b287584fa0",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Backward",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "K_BACKWARD",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 80,
+        "y": 300,
+        "wires": [
+            [
+                "8404b0c5f6c9d164"
+            ]
+        ]
+    },
+    {
+        "id": "83610df6ddd62c8a",
+        "type": "ui_button",
+        "z": "90093accf14c360e",
+        "name": "",
+        "group": "01bdf8b287584fa0",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Forward",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "K_FORWARD",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 80,
+        "y": 340,
+        "wires": [
+            [
                 "8404b0c5f6c9d164"
             ]
         ]
@@ -2131,6 +2188,7 @@
         "id": "8cfa117b0843c545",
         "type": "ui_button",
         "z": "45fb03d18e38b340",
+        "d": true,
         "name": "",
         "group": "a375a50eec6ddc39",
         "order": 3,
