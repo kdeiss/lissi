@@ -1,11 +1,10 @@
 #! /bin/bash
-# PLAYER.sh
+# display webpage
 # by k.deiss@it-userdesk.de
-# play url with vld via adb 
 # V 0.0.1.15.02.23
 # V 0.0.2.20.02.23 flexible location
 # V 0.0.3.17.03.23 move to subfolder
-
+# V 0.0.4.20.03.23 clean_exit
 
 WPATH=`dirname $0`
 PLAYERCFG="$WPATH/DEVICE.cfg"
@@ -41,6 +40,13 @@ echo $$ > $LOCKFILE
 
 ##############script detection#########################
 
+function clean_exit
+{
+rm -f $TMP
+rm -f ./null
+rm -f $LOCKFILE
+echo "`date` INF $0 done."|tee -a $LOG
+}
 
 echo "`date` startup $0 with ARG1 $ARG1" |tee -a $LOG
 echo "PLAYERCFG=$PLAYERCFG"|tee -a $LOG
@@ -74,7 +80,7 @@ if [ -f "$ARGFILE" ] ;then
 else
     #echo "URL=\"http://it-userdesk.de/dl/mediathek/radio/notyetspecified.mp3\"" > $ARG1.cfg
     echo "`date` ERR `basename $0` can't find file <$ARGFILE>!" |tee -a $LOG
-    rm -f $LOCKFILE
+    clean_exit
     exit 1
 fi
 
@@ -84,7 +90,7 @@ if [ -z $DEVICE ] ;then
     source $PLAYERCFG
     if [ -z $DEVICE ] ;then
 	echo "`date` ERR `basename $0` device not specified!" |tee -a $LOG
-	rm -f $LOCKFILE
+	clean_exit
 	exit 3
     fi
 fi
@@ -93,7 +99,7 @@ echo "DEVICE=$DEVICE"|tee -a $LOG
 
 if [ -z $URL ] ;then
     echo "`date` ERR `basename $0` URL not specified!" |tee -a $LOG
-    rm -f $LOCKFILE
+    clean_exit
     exit 3
 else
     # if PIC is not explicitely defined in .cfg we use the standard PIC
@@ -137,6 +143,7 @@ else
     echo "`date` INF `basename $0` no webcall, just stop background."|tee -a $LOG
     echo "`date` INF `basename $0` try to call vlc and exit."|tee -a $LOG
     adb -s $DEVICE shell am start -n org.videolan.vlc/.StartActivity $URL
+    clean_exit    
     exit 0
 fi
 
@@ -155,6 +162,7 @@ done < $TMP
 if [ $rst -eq 1 ];then
     # seems that a stream is already playing we exit
     echo "`date` INF `basename $0` Stream is already playing skip recall."|tee -a $LOG
+    clean_exit    
     exit 0
 fi
 
@@ -163,11 +171,5 @@ fi
 echo "`date` INF try to call vlc."|tee -a $LOG
 adb -s $DEVICE shell am start -n org.videolan.vlc/.StartActivity $URL
 
-
-echo "`date` INF $0 done."|tee -a $LOG
-
-
-rm -f $TMP
-rm -f ./null
-rm -f $LOCKFILE
+clean_exit
 exit 0

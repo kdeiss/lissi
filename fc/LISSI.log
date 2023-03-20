@@ -1,416 +1,293 @@
-Fr 17. Mär 23:59:08 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Fr 17. Mär 23:59:08 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_stopstream
-Fr 17. Mär 23:59:08 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_stopstream.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=NIL
-PIC=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-Fr 17. Mär 23:59:08 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{12845455 u0 org.videolan.vlc/org.videolan.vlc.gui.onboarding.OnboardingActivity}
-Fr 17. Mär 23:59:08 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
-Fr 17. Mär 23:59:08 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
-Fr 17. Mär 23:59:26 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Fr 17. Mär 23:59:26 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_stopstream
-Fr 17. Mär 23:59:26 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_stopstream.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=NIL
-PIC=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-Fr 17. Mär 23:59:27 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{12845455 u0 org.videolan.vlc/org.videolan.vlc.gui.onboarding.OnboardingActivity}
-Fr 17. Mär 23:59:27 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
-Fr 17. Mär 23:59:27 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
-Sa 18. Mär 00:00:01 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:00:01 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_2Bundesliga
-Sa 18. Mär 00:00:01 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_2Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/228.html
-Sa 18. Mär 00:00:01 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c62bd78 u0 dream}
-Sa 18. Mär 00:00:02 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
-Sa 18. Mär 00:00:03 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:00:06 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:00:06 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_3Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_3Bundesliga
-Sa 18. Mär 00:00:06 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_3Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/231.html
-Sa 18. Mär 00:00:06 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:00:06 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/231.html.
-Sa 18. Mär 00:00:07 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:00:09 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:00:09 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_RLW
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_RLW
-Sa 18. Mär 00:00:09 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_RLW.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/233.html
-Sa 18. Mär 00:00:10 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:00:10 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/233.html.
-Sa 18. Mär 00:00:10 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:07:15 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:07:15 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_3Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_3Bundesliga
-Sa 18. Mär 00:07:16 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_3Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/231.html
-Sa 18. Mär 00:07:16 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{3f21e9a u0 dream}
-Sa 18. Mär 00:07:17 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/231.html.
-Sa 18. Mär 00:07:18 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:07:23 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:07:23 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_stopstream
-Sa 18. Mär 00:07:23 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_stopstream.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-PIC=NIL
-Sa 18. Mär 00:07:24 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:07:24 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
-Sa 18. Mär 00:07:24 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
-Sa 18. Mär 00:07:41 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:07:41 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_stopstream
-Sa 18. Mär 00:07:41 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_stopstream.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-PIC=NIL
-Sa 18. Mär 00:07:42 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{12845455 u0 org.videolan.vlc/org.videolan.vlc.gui.onboarding.OnboardingActivity}
-Sa 18. Mär 00:07:42 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
-Sa 18. Mär 00:07:42 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
-Sa 18. Mär 00:08:11 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:08:11 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:08:11 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:08:11 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:08:11 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{12845455 u0 org.videolan.vlc/org.videolan.vlc.gui.onboarding.OnboardingActivity}
-Sa 18. Mär 00:08:11 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:08:12 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:08:13 CET 2023 INF /opt/lissi/fc/WEBPAGE.sh done.
-Sa 18. Mär 00:08:20 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_2Bundesliga
-Sa 18. Mär 00:08:20 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_2Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/228.html
-Sa 18. Mär 00:08:20 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{b48b334 u0 dream}
-Sa 18. Mär 00:08:21 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
-Sa 18. Mär 00:08:22 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:08:33 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:08:33 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:08:33 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:08:33 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:08:33 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:08:33 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:08:34 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:08:45 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:08:45 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_RLW
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_RLW
-Sa 18. Mär 00:08:45 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_RLW.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/233.html
-Sa 18. Mär 00:08:45 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:08:45 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/233.html.
-Sa 18. Mär 00:08:46 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:08:48 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:08:48 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:08:48 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:08:48 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:08:48 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:08:48 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:08:49 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:08:51 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:08:51 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_2Bundesliga
-Sa 18. Mär 00:08:51 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_2Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/228.html
-Sa 18. Mär 00:08:51 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:08:51 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
-Sa 18. Mär 00:08:52 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:08:54 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:08:54 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_3Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_3Bundesliga
-Sa 18. Mär 00:08:54 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_3Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/231.html
-Sa 18. Mär 00:08:54 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:08:54 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/231.html.
-Sa 18. Mär 00:08:55 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:09:04 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:09:04 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:09:04 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:09:04 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:09:05 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:09:05 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:09:05 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:10:45 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:10:45 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:10:45 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:10:45 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:10:45 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{1be6c336 u0 dream}
-Sa 18. Mär 00:10:47 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:10:47 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:12:19 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:12:19 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_2Bundesliga
-Sa 18. Mär 00:12:19 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_2Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/228.html
-Sa 18. Mär 00:12:19 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{724ae11 u0 dream}
-Sa 18. Mär 00:12:20 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
-Sa 18. Mär 00:12:21 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:13:28 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 ausklang
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=ausklang
-Sa 18. Mär 00:13:29 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/other/ausklang.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-PIC=http://it-userdesk.de/dl/mediathek/radio/ausklang.html
-Sa 18. Mär 00:13:29 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/ausklang.html.
-Sa 18. Mär 00:13:30 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
-Sa 18. Mär 00:13:31 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:13:31 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:13:37 CET 2023 INF RPLAYER.sh media playback detected.
-Sa 18. Mär 00:13:52 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 1lidiggi
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=1lidiggi
-Sa 18. Mär 00:13:52 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/1lidiggi.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.html
-Sa 18. Mär 00:13:52 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/1lidiggi.html.
-Sa 18. Mär 00:13:53 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
-Sa 18. Mär 00:13:54 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:13:54 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:14:00 CET 2023 INF RPLAYER.sh media playback detected.
-Sa 18. Mär 00:14:31 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 wdr2
+Mo 20. Mär 09:33:31 CET 2023 INF Device G070VM19049537EG rebooting!
+Mo 20. Mär 09:33:31 CET 2023 INF Device G070VM19049537EG back after 1 tries
+Mo 20. Mär 09:33:41 CET 2023 INF running ACTION_AFTER_REBOOT: /opt/lissi/fc/RPLAYER.sh wdr2
+Mo 20. Mär 09:33:41 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 wdr2
 PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
 ARG1=wdr2
-Sa 18. Mär 00:14:31 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
+Mo 20. Mär 09:33:41 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
+PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
+Mo 20. Mär 09:33:41 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
+Mo 20. Mär 09:33:45 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=null
+Mo 20. Mär 09:33:45 CET 2023 INF try to call vlc.
+Mo 20. Mär 09:33:53 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 09:51:02 CET 2023 INF Device 0123456789ABCDEF rebooting!
+Mo 20. Mär 09:51:02 CET 2023 INF Device 0123456789ABCDEF back after 1 tries
+Mo 20. Mär 09:51:12 CET 2023 INF running ACTION_AFTER_REBOOT: /opt/lissi/fc/RPLAYER.sh wdr2
+Mo 20. Mär 09:51:12 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 wdr2
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=wdr2
+Mo 20. Mär 09:51:12 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
+PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
+Mo 20. Mär 09:51:12 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
+Mo 20. Mär 09:51:14 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
+Mo 20. Mär 09:51:17 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 09:51:17 CET 2023 INF try to call vlc.
+Mo 20. Mär 09:51:23 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 09:55:52 CET 2023 INF device selected: 0123456789ABCDEF 
+Mo 20. Mär 09:58:01 CET 2023 INF device selected: 0123456789ABCDEF 
+Mo 20. Mär 09:59:02 CET 2023 INF Device 0123456789ABCDEF rebooting!
+Mo 20. Mär 09:59:02 CET 2023 INF Device 0123456789ABCDEF back after 1 tries
+Mo 20. Mär 09:59:12 CET 2023 INF running ACTION_AFTER_REBOOT: /opt/lissi/fc/RPLAYER.sh wdr2
+Mo 20. Mär 09:59:12 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 wdr2
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=wdr2
+Mo 20. Mär 09:59:12 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
+PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
+Mo 20. Mär 09:59:12 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
+Mo 20. Mär 09:59:14 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
+Mo 20. Mär 09:59:17 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 09:59:17 CET 2023 INF try to call vlc.
+Mo 20. Mär 09:59:24 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 10:07:42 CET 2023 startup ./RPLAYER.sh with ARG1: ARG2:
+PLAYERCFG=./DEVICE.cfg
+ARG1=
+Mo 20. Mär 10:07:42 CET 2023 ERR RPLAYER.sh can't find file <>!
+Mo 20. Mär 10:08:40 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:08:40 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:08:45 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:08:46 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:11:55 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:12:06 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:13:37 CET 2023 WAR RPLAYER.sh has lockfile but is not running!
+Mo 20. Mär 10:13:37 CET 2023 startup ./RPLAYER.sh with ARG1:>< ARG2:><
+PLAYERCFG=./DEVICE.cfg
+ARG1=
+Mo 20. Mär 10:13:37 CET 2023 ERR RPLAYER.sh can't find file <>!
+Mo 20. Mär 10:13:50 CET 2023 startup ./RPLAYER.sh with ARG1:>< ARG2:><
+PLAYERCFG=./DEVICE.cfg
+ARG1=
+Mo 20. Mär 10:13:51 CET 2023 ERR RPLAYER.sh can't find file <>!
+Mo 20. Mär 10:16:01 CET 2023 INF device selected: 0123456789ABCDEF 
+Mo 20. Mär 10:17:01 CET 2023 INF Device 0123456789ABCDEF rebooting!
+Mo 20. Mär 10:17:01 CET 2023 INF Device 0123456789ABCDEF back after 1 tries
+Mo 20. Mär 10:17:11 CET 2023 INF running ACTION_AFTER_REBOOT: /opt/lissi/fc/RPLAYER.sh wdr2 0123456789ABCDEF
+Mo 20. Mär 10:17:11 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1:>wdr2< ARG2:>0123456789ABCDEF<
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=wdr2
+Mo 20. Mär 10:17:11 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
 DEVICE=0123456789ABCDEF
 URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
 PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
-Sa 18. Mär 00:14:31 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
-Sa 18. Mär 00:14:31 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
-Sa 18. Mär 00:14:33 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:14:33 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:14:39 CET 2023 INF RPLAYER.sh media playback detected.
-Sa 18. Mär 00:15:36 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 1live
+Mo 20. Mär 10:17:11 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html }
+Mo 20. Mär 10:17:14 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=null
+Mo 20. Mär 10:17:14 CET 2023 INF try to call vlc.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u cmp=org.videolan.vlc/.StartActivity }
+Mo 20. Mär 10:17:20 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 10:23:01 CET 2023 INF startup /opt/lissi/fc/android-control/REBOOT.sh
+Mo 20. Mär 10:23:01 CET 2023 INF device selected: 0123456789ABCDEF 
+Mo 20. Mär 10:24:01 CET 2023 INF Device 0123456789ABCDEF rebooting!
+Mo 20. Mär 10:24:01 CET 2023 INF Device 0123456789ABCDEF back after 1 tries
+Mo 20. Mär 10:24:12 CET 2023 INF running ACTION_AFTER_REBOOT: /opt/lissi/fc/RPLAYER.sh wdr2 0123456789ABCDEF
+Mo 20. Mär 10:24:12 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1:>wdr2< ARG2:>0123456789ABCDEF<
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=wdr2
+Mo 20. Mär 10:24:12 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
+DEVICE=0123456789ABCDEF
+URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
+PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
+Mo 20. Mär 10:24:12 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html }
+Mo 20. Mär 10:24:14 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=null
+Mo 20. Mär 10:24:14 CET 2023 INF try to call vlc.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u cmp=org.videolan.vlc/.StartActivity }
+Mo 20. Mär 10:24:20 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 10:24:21 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1:>wdr2< ARG2:>0123456789ABCDEF<
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=wdr2
+Mo 20. Mär 10:24:21 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
+DEVICE=0123456789ABCDEF
+URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
+PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
+Mo 20. Mär 10:24:22 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html }
+Warning: Activity not started, its current task has been brought to the front
+Mo 20. Mär 10:24:24 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
+Mo 20. Mär 10:24:26 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{309a712e u0 com.android.browser/com.android.browser.BrowserActivity}
+Mo 20. Mär 10:24:26 CET 2023 INF try to call vlc.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u cmp=org.videolan.vlc/.StartActivity }
+Mo 20. Mär 10:24:34 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 10:33:39 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1:>ausklang< ARG2:><
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=ausklang
+Mo 20. Mär 10:33:39 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/other/ausklang.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
+PIC=http://it-userdesk.de/dl/mediathek/radio/ausklang.html
+Mo 20. Mär 10:33:39 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/ausklang.html.
+Starting: Intent { act=android.intent.action.VIEW (has data) }
+Mo 20. Mär 10:33:42 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
+Mo 20. Mär 10:33:44 CET 2023 INF RPLAYER.sh Screen is off!
+Mo 20. Mär 10:33:45 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 10:33:45 CET 2023 INF try to call vlc.
+Starting: Intent { act=android.intent.action.VIEW (has data) cmp=org.videolan.vlc/.StartActivity }
+Mo 20. Mär 10:33:52 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 10:34:00 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
+Mo 20. Mär 10:34:00 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_1Bundesliga
+Mo 20. Mär 10:34:00 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/videotext/WEB_1Bundesliga.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
+PIC=https://mobiltext.wdr.de/225.html
+Mo 20. Mär 10:34:00 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 10:34:00 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
+Mo 20. Mär 10:34:02 CET 2023 INF try to call vlc.
+Mo 20. Mär 10:34:04 CET 2023 INF /opt/lissi/fc/WEBPAGE.sh done.
+Mo 20. Mär 10:34:11 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_OLN
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_OLN
+Mo 20. Mär 10:34:11 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/videotext/WEB_OLN.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
+PIC=https://mobiltext.wdr.de/236.html
+Mo 20. Mär 10:34:12 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 10:34:12 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/236.html.
+Mo 20. Mär 10:34:13 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
+Mo 20. Mär 10:34:53 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
+Mo 20. Mär 10:34:53 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_RLW
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_RLW
+Mo 20. Mär 10:34:53 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/videotext/WEB_RLW.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
+PIC=https://mobiltext.wdr.de/233.html
+Mo 20. Mär 10:34:54 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 10:34:54 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/233.html.
+Mo 20. Mär 10:34:55 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
+Mo 20. Mär 10:35:11 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
+Mo 20. Mär 10:35:11 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_stopstream
+Mo 20. Mär 10:35:11 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/videotext/WEB_stopstream.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
+PIC=NIL
+Mo 20. Mär 10:35:11 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{3219360 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 10:35:11 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
+Mo 20. Mär 10:35:11 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
+Mo 20. Mär 10:35:59 CET 2023 startup /opt/lissi/fc/KEYCODE.sh with ARG1 K_VOL_DOWN
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=K_VOL_DOWN
+Mo 20. Mär 10:35:59 CET 2023 INF KEYCODE.sh using keycode from /opt/lissi/fc/keyevent/K_VOL_DOWN.sh.cfg!
+DEVICE=0123456789ABCDEF
+Mo 20. Mär 10:36:01 CET 2023 startup /opt/lissi/fc/KEYCODE.sh with ARG1 K_VOL_DOWN
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=K_VOL_DOWN
+Mo 20. Mär 10:36:01 CET 2023 INF KEYCODE.sh using keycode from /opt/lissi/fc/keyevent/K_VOL_DOWN.sh.cfg!
+DEVICE=0123456789ABCDEF
+Mo 20. Mär 10:36:04 CET 2023 startup /opt/lissi/fc/KEYCODE.sh with ARG1 K_VOL_DOWN
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=K_VOL_DOWN
+Mo 20. Mär 10:36:05 CET 2023 INF KEYCODE.sh using keycode from /opt/lissi/fc/keyevent/K_VOL_DOWN.sh.cfg!
+DEVICE=0123456789ABCDEF
+Mo 20. Mär 10:40:26 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
+Mo 20. Mär 10:40:26 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_100
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_100
+Mo 20. Mär 10:40:26 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/videotext/WEB_100.sh.cfg!
+DEVICE=0123456789ABCDEF
+URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
+PIC=https://mobiltext.wdr.de/100.html
+Mo 20. Mär 10:40:26 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{12663d09 u0 dream}
+Mo 20. Mär 10:40:27 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/100.html.
+Mo 20. Mär 10:40:28 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
+Mo 20. Mär 10:51:58 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
+Mo 20. Mär 10:51:58 CET 2023 startup ./WEBPAGE.sh with ARG1 
+PLAYERCFG=./DEVICE.cfg
+ARG1=
+Mo 20. Mär 10:51:58 CET 2023 ERR WEBPAGE.sh can't find file <>!
+Mo 20. Mär 10:51:58 CET 2023 INF ./WEBPAGE.sh done.
+Mo 20. Mär 10:52:05 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_2Bundesliga
+Mo 20. Mär 10:52:05 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/videotext/WEB_2Bundesliga.sh.cfg!
+DEVICE=0123456789ABCDEF
+URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
+PIC=https://mobiltext.wdr.de/228.html
+Mo 20. Mär 10:52:06 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{3ce1d5f9 u0 dream}
+Mo 20. Mär 10:52:07 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
+Mo 20. Mär 10:52:08 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
+Mo 20. Mär 10:52:08 CET 2023 INF /opt/lissi/fc/WEBPAGE.sh done.
+Mo 20. Mär 10:52:26 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_pl_wdr2
+PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
+ARG1=WEB_pl_wdr2
+Mo 20. Mär 10:52:26 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/radio_wat_lueppt/WEB_pl_wdr2.sh.cfg!
+DEVICE=0123456789ABCDEF
+URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
+PIC=https://www1.wdr.de/radio/wdr2/musik/playlist/index.jsp#searchPlaylistResult
+Mo 20. Mär 10:52:26 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{309a712e u0 com.android.browser/com.android.browser.BrowserActivity}
+Mo 20. Mär 10:52:26 CET 2023 INF WEBPAGE.sh try to call webpage https://www1.wdr.de/radio/wdr2/musik/playlist/index.jsp#searchPlaylistResult.
+Mo 20. Mär 10:52:27 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
+Mo 20. Mär 10:52:27 CET 2023 INF /opt/lissi/fc/WEBPAGE.sh done.
+Mo 20. Mär 10:57:40 CET 2023 startup ./RPLAYER.sh with ARG1:>< ARG2:><
+PLAYERCFG=./DEVICE.cfg
+ARG1=
+Mo 20. Mär 10:57:40 CET 2023 ERR RPLAYER.sh can't find file <>!
+Mo 20. Mär 10:57:40 CET 2023 INF ./RPLAYER.sh done.
+Mo 20. Mär 10:57:55 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1:>1live< ARG2:><
 PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
 ARG1=1live
-Sa 18. Mär 00:15:36 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/1live.sh.cfg!
+Mo 20. Mär 10:57:55 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/1live.sh.cfg!
 DEVICE=0123456789ABCDEF
 URL=http://it-userdesk.de/dl/mediathek/radio/1live.m3u
 PIC=http://it-userdesk.de/dl/mediathek/radio/1live.html
-Sa 18. Mär 00:15:36 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/1live.html.
-Sa 18. Mär 00:15:37 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
-Sa 18. Mär 00:15:38 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{2c8e8267 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:15:38 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:15:44 CET 2023 INF RPLAYER.sh media playback detected.
-Sa 18. Mär 00:16:09 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 wdr2
+Mo 20. Mär 10:57:55 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/1live.html.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/1live.html }
+Warning: Activity not started, its current task has been brought to the front
+Mo 20. Mär 10:57:56 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
+Mo 20. Mär 10:57:57 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{309a712e u0 com.android.browser/com.android.browser.BrowserActivity}
+Mo 20. Mär 10:57:57 CET 2023 INF try to call vlc.
+Starting: Intent { act=android.intent.action.VIEW dat=http://it-userdesk.de/dl/mediathek/radio/1live.m3u cmp=org.videolan.vlc/.StartActivity }
+Mo 20. Mär 10:58:03 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 10:58:03 CET 2023 INF /opt/lissi/fc/RPLAYER.sh done.
+Mo 20. Mär 11:15:17 CET 2023 startup /opt/lissi/fc/SMARTTUBE.sh with ARG1 YT_NASA
 PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=wdr2
-Sa 18. Mär 00:16:09 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/wdr2.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.m3u
-PIC=http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html
-Sa 18. Mär 00:16:09 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/wdr2bl.html.
-Sa 18. Mär 00:16:11 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=null
-Sa 18. Mär 00:16:11 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:16:17 CET 2023 INF RPLAYER.sh media playback detected.
-Sa 18. Mär 00:16:27 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1 cosmo
+ARG1=YT_NASA
+Mo 20. Mär 11:15:17 CET 2023 INF SMARTTUBE.sh using url from /opt/lissi/fc/media/yt/YT_NASA.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=https://www.youtube.com/watch?v=86YLFOog4GM
+Mo 20. Mär 11:15:18 CET 2023 INF SMARTTUBE.sh app in foreground is:   mCurrentFocus=Window{d2fbb6 u0 com.amazon.tv.launcher/com.amazon.tv.launcher.ui.HomeActivity_vNext}
+Mo 20. Mär 11:15:18 CET 2023 INF SMARTTUBE.sh try to call smarttube.
+Mo 20. Mär 11:15:25 CET 2023 INF SMARTTUBE.sh media playback detected.
+Mo 20. Mär 11:15:51 CET 2023 startup /opt/lissi/fc/SMARTTUBE.sh with ARG1 YT_LIVECAMS
 PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=cosmo
-Sa 18. Mär 00:16:27 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/wdr/cosmo.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/cosmo.m3u
-PIC=http://it-userdesk.de/dl/mediathek/radio/cosmo.html
-Sa 18. Mär 00:16:27 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/cosmo.html.
-Sa 18. Mär 00:16:28 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
-Sa 18. Mär 00:16:29 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:16:29 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:16:35 CET 2023 INF RPLAYER.sh media playback detected.
-Sa 18. Mär 00:16:43 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:16:43 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
+ARG1=YT_LIVECAMS
+Mo 20. Mär 11:15:51 CET 2023 INF SMARTTUBE.sh using url from /opt/lissi/fc/media/yt/YT_LIVECAMS.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=https://www.youtube.com/watch?v=8KGXSjtS5pk
+Mo 20. Mär 11:15:51 CET 2023 INF SMARTTUBE.sh playback detected - going to stop this.
+Mo 20. Mär 11:15:53 CET 2023 INF SMARTTUBE.sh app in foreground is:   mCurrentFocus=Window{eed0c08 u0 com.teamsmart.videomanager.tv/com.liskovsoft.smartyoutubetv2.tv.ui.playback.PlaybackActivity}
+Mo 20. Mär 11:15:53 CET 2023 INF SMARTTUBE.sh try to call smarttube.
+Mo 20. Mär 11:15:59 CET 2023 INF SMARTTUBE.sh media playback detected.
+Mo 20. Mär 11:16:37 CET 2023 startup /opt/lissi/fc/SMARTTUBE.sh with ARG1 YT_NASA
 PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:16:43 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:16:43 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:16:43 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:16:43 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:16:44 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:17:27 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:17:27 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_3Bundesliga
+ARG1=YT_NASA
+Mo 20. Mär 11:16:37 CET 2023 INF SMARTTUBE.sh using url from /opt/lissi/fc/media/yt/YT_NASA.sh.cfg!
+DEVICE=G070VM19049537EG
+URL=https://www.youtube.com/watch?v=86YLFOog4GM
+Mo 20. Mär 11:16:37 CET 2023 INF SMARTTUBE.sh playback detected - going to stop this.
+Mo 20. Mär 11:16:39 CET 2023 INF SMARTTUBE.sh app in foreground is:   mCurrentFocus=Window{eed0c08 u0 com.teamsmart.videomanager.tv/com.liskovsoft.smartyoutubetv2.tv.ui.playback.PlaybackActivity}
+Mo 20. Mär 11:16:39 CET 2023 INF SMARTTUBE.sh try to call smarttube.
+Mo 20. Mär 11:16:45 CET 2023 INF SMARTTUBE.sh media playback detected.
+Mo 20. Mär 11:17:19 CET 2023 startup /opt/lissi/fc/RPLAYER.sh with ARG1:>ausklang< ARG2:><
 PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_3Bundesliga
-Sa 18. Mär 00:17:27 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_3Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/231.html
-Sa 18. Mär 00:17:28 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:17:28 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/231.html.
-Sa 18. Mär 00:17:28 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:17:32 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:17:32 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_2Bundesliga
-Sa 18. Mär 00:17:32 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_2Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/228.html
-Sa 18. Mär 00:17:32 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{37883b51 u0 dream}
-Sa 18. Mär 00:17:33 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
-Sa 18. Mär 00:17:34 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:17:48 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:17:48 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_RLW
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_RLW
-Sa 18. Mär 00:17:48 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_RLW.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/233.html
-Sa 18. Mär 00:17:49 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:17:49 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/233.html.
-Sa 18. Mär 00:17:50 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:17:53 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:17:53 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_radio-net
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_radio-net
-Sa 18. Mär 00:17:54 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_radio-net.sh.cfg!
-Sa 18. Mär 00:17:54 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_radio-net.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://www.radio.net/search?q=1live
-Sa 18. Mär 00:17:54 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:17:54 CET 2023 INF WEBPAGE.sh try to call webpage https://www.radio.net/search?q=1live.
-Sa 18. Mär 00:17:55 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:17:58 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:17:58 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_1Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_1Bundesliga
-Sa 18. Mär 00:17:58 CET 2023 WAR WEBPAGE.sh duplicate files found for WEB_1Bundesliga.sh.cfg!
-Sa 18. Mär 00:17:58 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/WEB_1Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/225.html
-Sa 18. Mär 00:17:58 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:17:58 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/225.html.
-Sa 18. Mär 00:17:59 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:18:01 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:18:01 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_stopstream
-Sa 18. Mär 00:18:01 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_stopstream.sh.cfg!
-DEVICE=0123456789ABCDEF
+ARG1=ausklang
+Mo 20. Mär 11:17:19 CET 2023 INF RPLAYER.sh using url from /opt/lissi/fc/media/radio/other/ausklang.sh.cfg!
+DEVICE=G070VM19049537EG
 URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-PIC=NIL
-Sa 18. Mär 00:18:01 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:18:01 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
-Sa 18. Mär 00:18:01 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
-Sa 18. Mär 00:18:14 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:18:14 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_2Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_2Bundesliga
-Sa 18. Mär 00:18:14 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_2Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/228.html
-Sa 18. Mär 00:18:14 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:18:14 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/228.html.
-Sa 18. Mär 00:18:15 CET 2023 INF WEBPAGE.sh Stream is already playing skip recall.
-Sa 18. Mär 00:18:20 CET 2023 WAR WEBPAGE.sh has lockfile but is not running!
-Sa 18. Mär 00:18:20 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_3Bundesliga
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_3Bundesliga
-Sa 18. Mär 00:18:20 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_3Bundesliga.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/1lidiggi.m3u
-PIC=https://mobiltext.wdr.de/231.html
-Sa 18. Mär 00:18:20 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:18:20 CET 2023 INF WEBPAGE.sh try to call webpage https://mobiltext.wdr.de/231.html.
-Sa 18. Mär 00:18:21 CET 2023 INF try to call vlc.
-Sa 18. Mär 00:18:22 CET 2023 INF /opt/lissi/fc/WEBPAGE.sh done.
-Sa 18. Mär 00:18:30 CET 2023 startup /opt/lissi/fc/WEBPAGE.sh with ARG1 WEB_stopstream
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=WEB_stopstream
-Sa 18. Mär 00:18:30 CET 2023 INF WEBPAGE.sh using url from /opt/lissi/fc/media/brause/WEB_stopstream.sh.cfg!
-DEVICE=0123456789ABCDEF
-URL=http://it-userdesk.de/dl/mediathek/radio/ausklang.m3u
-PIC=NIL
-Sa 18. Mär 00:18:30 CET 2023 INF WEBPAGE.sh app in foreground is:   mCurrentFocus=Window{21ea85a9 u0 com.android.browser/com.android.browser.BrowserActivity}
-Sa 18. Mär 00:18:30 CET 2023 INF WEBPAGE.sh no webcall, just stop background.
-Sa 18. Mär 00:18:30 CET 2023 INF WEBPAGE.sh try to call vlc and exit.
-Sa 18. Mär 00:18:43 CET 2023 startup /opt/lissi/fc/KEYCODE.sh with ARG1 K_BACK
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=K_BACK
-Sa 18. Mär 00:18:43 CET 2023 INF KEYCODE.sh using keycode from /opt/lissi/fc/keyevent/K_BACK.sh.cfg!
-DEVICE=0123456789ABCDEF
-Sa 18. Mär 01:08:48 CET 2023 startup /opt/lissi/fc/TVPLAYER.sh with ARG1 TV_WDR
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=TV_WDR
-Sa 18. Mär 01:08:49 CET 2023 INF TVPLAYER.sh using url from /opt/lissi/fc/media/tv/TV_WDR.sh.cfg!
-DEVICE=G070VM19049537EG
-URL=https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-Sa 18. Mär 01:08:49 CET 2023 INF TVPLAYER.sh app in foreground is:   mCurrentFocus=Window{1068d57 u0 com.pecana.iptvextreme/com.pecana.iptvextreme.VideoActivityExo}
-Sa 18. Mär 01:08:54 CET 2023 INF TVPLAYER.sh done!
-Sa 18. Mär 01:09:05 CET 2023 startup /opt/lissi/fc/TVPLAYER.sh with ARG1 TV_ARD
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=TV_ARD
-Sa 18. Mär 01:09:05 CET 2023 INF TVPLAYER.sh using url from /opt/lissi/fc/media/tv/TV_ARD.sh.cfg!
-DEVICE=G070VM19049537EG
-URL=https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-Sa 18. Mär 01:09:06 CET 2023 INF TVPLAYER.sh app in foreground is:   mCurrentFocus=Window{8d8fc05 u0 com.pecana.iptvextreme/com.pecana.iptvextreme.VideoActivityExo}
-Sa 18. Mär 01:09:10 CET 2023 INF TVPLAYER.sh done!
-Sa 18. Mär 01:09:20 CET 2023 startup /opt/lissi/fc/TVPLAYER.sh with ARG1 TV_ZDF
-PLAYERCFG=/opt/lissi/fc/DEVICE.cfg
-ARG1=TV_ZDF
-Sa 18. Mär 01:09:20 CET 2023 INF TVPLAYER.sh using url from /opt/lissi/fc/media/tv/TV_ZDF.sh.cfg!
-DEVICE=G070VM19049537EG
-URL=https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-Sa 18. Mär 01:09:20 CET 2023 INF TVPLAYER.sh app in foreground is:   mCurrentFocus=Window{2ecc0f8 u0 com.pecana.iptvextreme/com.pecana.iptvextreme.VideoActivityExo}
-Sa 18. Mär 01:09:24 CET 2023 INF TVPLAYER.sh done!
+PIC=http://it-userdesk.de/dl/mediathek/radio/ausklang.html
+Mo 20. Mär 11:17:19 CET 2023 INF RPLAYER.sh try to call station logo http://it-userdesk.de/dl/mediathek/radio/ausklang.html.
+Starting: Intent { act=android.intent.action.VIEW (has data) }
+Mo 20. Mär 11:17:20 CET 2023 INF RPLAYER.sh playback detected - going to stop this.
+Mo 20. Mär 11:17:24 CET 2023 INF RPLAYER.sh app in foreground is:   mCurrentFocus=Window{661cec9 u0 com.amazon.cloud9/com.amazon.slate.fire_tv.FireTvSlateActivity}
+Mo 20. Mär 11:17:24 CET 2023 INF try to call vlc.
+Starting: Intent { act=android.intent.action.VIEW (has data) cmp=org.videolan.vlc/.StartActivity }
+Mo 20. Mär 11:17:31 CET 2023 INF RPLAYER.sh media playback detected.
+Mo 20. Mär 11:17:31 CET 2023 INF /opt/lissi/fc/RPLAYER.sh done.

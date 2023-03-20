@@ -26,7 +26,7 @@ fi
 #BDATA=`adb -s $DEVICE shell dumpsys battery`
 #echo $BDATA | grep level
 
-RST=`adb -s $DEVICE shell dumpsys battery | grep level | cut -f 2 -d ":" | head -1`
+RST="`adb -s $DEVICE shell dumpsys battery | grep level | cut -f 2 -d ":" | head -1`%<br> `adb -s $DEVICE shell dumpsys battery | grep voltage | cut -f 2 -d ":" | tail -1`mV"
 if [ $DEBOUT -gt 0 ];then
     echo "`date` INF $RST">> $LOG
 fi

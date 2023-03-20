@@ -1,1 +1,0 @@
-./WEBPAGELISSI.sh

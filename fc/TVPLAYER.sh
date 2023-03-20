@@ -1,7 +1,7 @@
 #! /bin/bash
 # PLAYER.sh
 # by k.deiss@it-userdesk.de
-# play url with vld via adb 
+# play video url with iptv-extreme via adb 
 # V 0.0.1.15.02.23
 # V 0.0.2.20.02.23 flexible location
 # V 0.0.3.17.03.23 move to subfolder

@@ -36,16 +36,23 @@ grep $TMPFNAME -e "d.version.release" >> $TMPFNAME.1
 IPA=`adb -s $DEVICE shell ip addr show wlan0 | grep "inet "` 
 echo $IPA >> $TMPFNAME.1
 
+dos2unix $TMPFNAME.1 > ./null
 
-unix2dos $TMPFNAME.1 > ./null
-cat $TMPFNAME.1
+echo -n "" >$TMPFNAME
+while read line
+do
+    echo "$line<br>" >>$TMPFNAME
+done < $TMPFNAME.1
+
+#unix2dos $TMPFNAME.1 > ./null
+cat $TMPFNAME
 
 if [ $DEBOUT -gt 0 ];then
     echo "`date` INF deviceinfo">> $LOG
-    cat $TMPFNAME.1 >> $LOG
+    cat $TMPFNAME >> $LOG
 fi
 
 
 rm -f $TMPFNAME
 rm -f $TMPFNAME.1
-rm ./null
+rm -f ./null
