@@ -9,7 +9,7 @@ WPATH=`dirname $0`
 PLAYERCFG="$WPATH/DEVICE.cfg"
 TMPFNAME="$WPATH/`basename $0.txt`"
 LOG="$WPATH/android_status.log"
-let DEBOUT=1 # log yes/no
+let DEBOUT=0 # log yes/no
 
 cd $WPATH
 

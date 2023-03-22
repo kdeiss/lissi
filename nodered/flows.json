@@ -58,7 +58,7 @@
         "id": "b4b2974d132c0cdc",
         "type": "ui_base",
         "theme": {
-            "name": "theme-dark",
+            "name": "theme-light",
             "lightTheme": {
                 "default": "#0094CE",
                 "baseColor": "#0094CE",
@@ -81,44 +81,44 @@
             },
             "themeState": {
                 "base-color": {
-                    "default": "#097479",
-                    "value": "#097479",
+                    "default": "#0094CE",
+                    "value": "#0094CE",
                     "edited": false
                 },
                 "page-titlebar-backgroundColor": {
-                    "value": "#097479",
+                    "value": "#0094CE",
                     "edited": false
                 },
                 "page-backgroundColor": {
-                    "value": "#111111",
+                    "value": "#fafafa",
                     "edited": false
                 },
                 "page-sidebar-backgroundColor": {
-                    "value": "#333333",
+                    "value": "#ffffff",
                     "edited": false
                 },
                 "group-textColor": {
-                    "value": "#0eb8c0",
+                    "value": "#1bbfff",
                     "edited": false
                 },
                 "group-borderColor": {
-                    "value": "#555555",
+                    "value": "#ffffff",
                     "edited": false
                 },
                 "group-backgroundColor": {
-                    "value": "#333333",
+                    "value": "#ffffff",
                     "edited": false
                 },
                 "widget-textColor": {
-                    "value": "#eeeeee",
+                    "value": "#111111",
                     "edited": false
                 },
                 "widget-backgroundColor": {
-                    "value": "#097479",
+                    "value": "#0094ce",
                     "edited": false
                 },
                 "widget-borderColor": {
-                    "value": "#333333",
+                    "value": "#ffffff",
                     "edited": false
                 },
                 "base-font": {
@@ -3241,6 +3241,90 @@
         "topicType": "msg",
         "x": 590,
         "y": 100,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "cfa0663857b616c4",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "bb90af547ee34a79",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "tvtv.de",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_tvtv",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 140,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "dfe1b6fb1e503bf6",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "bb90af547ee34a79",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "TV Movie",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_tvmovie",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 580,
+        "y": 180,
+        "wires": [
+            [
+                "488ef31fa82df9a9"
+            ]
+        ]
+    },
+    {
+        "id": "1b77fa1b8238f6fe",
+        "type": "ui_button",
+        "z": "6e2b0d184fda5883",
+        "name": "",
+        "group": "bb90af547ee34a79",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Hörzu",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_hoerzu",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 220,
         "wires": [
             [
                 "488ef31fa82df9a9"

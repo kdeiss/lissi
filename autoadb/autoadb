@@ -1,13 +1,14 @@
 #!/bin/bash
 # by k.deiss@it-userdesk.de
-# this jib is called by cron and is looking for semaphore / if found restart ADB
+# this lib is called by cron and is looking for semaphore / if found restart ADB
 # require adb
+# In autoadb.cfg you may specify actions which should be executed when a device appears
 # V 0.0.1.22.11.20
 # V 0.0.2.23.11.20 added zenity
 # V 0.0.3.24.11.20 extend zenity
 # V 0.0.4.15.02.23 $.cfg enthält eintraege, wenn vorhande adb action ausfuehren!
 # V 0.0.5.16.02.23 cleanup and archive
-# V 0.0.6.16.02.23 dauerpingbefehl
+# V 0.0.6.16.02.23 ping from device (force device to be always online)
 # V 0.0.7.23.02.23 move location
 
 MYVERSION="V 0.0.7.23.02.23"
