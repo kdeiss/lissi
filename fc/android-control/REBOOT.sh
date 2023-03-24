@@ -5,14 +5,16 @@
 # V 0.0.2.20.02.23 flexible location
 # V 0.0.3.20.03.23 adapted to new architecture
 
-WPATH=`dirname $0`
-PLAYERCFG="$WPATH/DEVICE.cfg"
-LOG="$WPATH/LISSI.log"
+WPATH01=`dirname $0`
+PLAYERCFG="$WPATH01/DEVICE.cfg"
+LOG="$WPATH01/android_status.log"
 TMP="/tmp/`basename $0.tmp`"
 DEVICE=$1
 ACTION_AFTER_REBOOT="/opt/lissi/fc/RPLAYER.sh wdr2 $DEVICE"
+SET_DEFAULT_DEVICE="$WPATH01/SET_DEFAULT_DEVICE.sh"
 
-cd $WPATH
+
+cd $WPATH01
 
 echo "`date` INF startup $0"|tee -a $LOG
 
@@ -27,6 +29,9 @@ if [ -z $DEVICE ] ;then
 fi
 
 echo "`date` INF device selected: $DEVICE "|tee -a $LOG
+echo "`date` INF setting default device to $DEVICE"|tee -a $LOG
+$SET_DEFAULT_DEVICE $DEVICE
+
 #exit 0
 
 adb -s $DEVICE shell reboot &>> $LOG
@@ -44,6 +49,7 @@ while [ $ctr -lt 120 ];do
 	$ACTION_AFTER_REBOOT
 	sleep 1
 	$ACTION_AFTER_REBOOT
+	cd $WPATH01
 	break
     fi
     sleep 1

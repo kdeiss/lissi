@@ -8,7 +8,7 @@
 # V 0.0.2.20.02.23 flexible location
 # V 0.0.3.17.03.23 move to subfolder
 # V 0.0.4.20.03.23 clean_exit / deviceID as parameter / logging of adb calls
-
+# V 0.0.5.23.03.23 adapt to termux
 
 WPATH=`dirname $0`
 PLAYERCFG="$WPATH/DEVICE.cfg"
@@ -18,11 +18,10 @@ ARG1=$1
 DEVICE=$2
 
 LOG="$WPATH/LISSI.log"
-TMP="/tmp/`basename $0.tmp`"
-
+TMP="$WPATH/`basename $0.tmp`"
 
 ##############script detection#########################
-LOCKFILE=/tmp/$(basename $0).lck
+LOCKFILE=$WPATH/$(basename $0).lck
 
 if [ -f $LOCKFILE ] ; then
     SPID=`cat $LOCKFILE`

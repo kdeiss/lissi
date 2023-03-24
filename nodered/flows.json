@@ -55,6 +55,14 @@
         "env": []
     },
     {
+        "id": "8dbcadf2ac9b9d5d",
+        "type": "tab",
+        "label": "Termux",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "b4b2974d132c0cdc",
         "type": "ui_base",
         "theme": {
@@ -380,6 +388,25 @@
         "width": "6",
         "collapse": true,
         "className": ""
+    },
+    {
+        "id": "309957e1a91b56b2",
+        "type": "ui_group",
+        "name": "Speaking Videotext",
+        "tab": "8e335a26f4915739",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8e335a26f4915739",
+        "type": "ui_tab",
+        "name": "Termux",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
     },
     {
         "id": "67795b0cb516c7ca",
@@ -3329,6 +3356,629 @@
             [
                 "488ef31fa82df9a9"
             ]
+        ]
+    },
+    {
+        "id": "58c333d8dbdc8c95",
+        "type": "inject",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 80,
+        "wires": [
+            [
+                "82a3c173dd4d4599"
+            ]
+        ]
+    },
+    {
+        "id": "82a3c173dd4d4599",
+        "type": "exec",
+        "z": "8dbcadf2ac9b9d5d",
+        "command": "/data/data/com.termux/files/opt/lissi/termux/vtext2speech/ff.sh",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "30",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 500,
+        "y": 160,
+        "wires": [
+            [
+                "5a1a0708ba885914"
+            ],
+            [
+                "5a1a0708ba885914"
+            ],
+            [
+                "5a1a0708ba885914"
+            ]
+        ]
+    },
+    {
+        "id": "5a1a0708ba885914",
+        "type": "debug",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "debug 6",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "8b6da6e9d37afce6",
+        "type": "exec",
+        "z": "8dbcadf2ac9b9d5d",
+        "command": "/data/data/com.termux/files/opt/lissi/termux/vtext2speech/NEWS-NRW.sh",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "true",
+        "timer": "800",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 540,
+        "y": 240,
+        "wires": [
+            [
+                "5a1a0708ba885914",
+                "3054f48526a4dbbc",
+                "b4aa1d891d420f1d"
+            ],
+            [
+                "5a1a0708ba885914"
+            ],
+            [
+                "5a1a0708ba885914"
+            ]
+        ]
+    },
+    {
+        "id": "1e5771d4f87ea690",
+        "type": "inject",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 240,
+        "wires": [
+            [
+                "8b6da6e9d37afce6"
+            ]
+        ]
+    },
+    {
+        "id": "ab64c972490c3d90",
+        "type": "ui_button",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "group": "309957e1a91b56b2",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "NRW News",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_100",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 280,
+        "wires": [
+            [
+                "377358d8f87c23c1"
+            ]
+        ]
+    },
+    {
+        "id": "b4aa1d891d420f1d",
+        "type": "ui_text",
+        "z": "8dbcadf2ac9b9d5d",
+        "group": "309957e1a91b56b2",
+        "order": 5,
+        "width": "6",
+        "height": "14",
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 590,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "377358d8f87c23c1",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 360,
+        "wires": [
+            [
+                "cc92421942a01d26",
+                "8b6da6e9d37afce6"
+            ]
+        ]
+    },
+    {
+        "id": "3054f48526a4dbbc",
+        "type": "function",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "wait",
+        "func": "setTimeout(function () {\n    node.send(msg);\n}, 45000);\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 280,
+        "wires": [
+            [
+                "b7299f6e8567b0a1"
+            ]
+        ]
+    },
+    {
+        "id": "b7299f6e8567b0a1",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 790,
+        "y": 360,
+        "wires": [
+            [
+                "b4aa1d891d420f1d"
+            ]
+        ]
+    },
+    {
+        "id": "cc92421942a01d26",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "be patient",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 440,
+        "wires": [
+            [
+                "b4aa1d891d420f1d"
+            ]
+        ]
+    },
+    {
+        "id": "19d889d060c1a964",
+        "type": "exec",
+        "z": "8dbcadf2ac9b9d5d",
+        "command": "/data/data/com.termux/files/opt/lissi/termux/vtext2speech/NEWS-NATIONAL.sh",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "true",
+        "timer": "800",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 540,
+        "y": 520,
+        "wires": [
+            [
+                "b4aa1d891d420f1d",
+                "3054f48526a4dbbc"
+            ],
+            [
+                "5a1a0708ba885914"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "33f9d863521703e1",
+        "type": "inject",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 100,
+        "y": 600,
+        "wires": [
+            [
+                "19d889d060c1a964"
+            ]
+        ]
+    },
+    {
+        "id": "9c645bc28095921c",
+        "type": "ui_button",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "group": "309957e1a91b56b2",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "German News",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "WEB_100",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 100,
+        "y": 640,
+        "wires": [
+            [
+                "c60b96ae148fa890"
+            ]
+        ]
+    },
+    {
+        "id": "c60b96ae148fa890",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 640,
+        "wires": [
+            [
+                "0597e229cf45f2db",
+                "19d889d060c1a964"
+            ]
+        ]
+    },
+    {
+        "id": "0597e229cf45f2db",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "be patient",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 720,
+        "wires": [
+            [
+                "b4aa1d891d420f1d"
+            ]
+        ]
+    },
+    {
+        "id": "b5bb8bc6974fb09e",
+        "type": "ui_button",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "group": "309957e1a91b56b2",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Stop speech",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 1240,
+        "wires": [
+            [
+                "a1a01d1409f80f2c"
+            ]
+        ]
+    },
+    {
+        "id": "a1a01d1409f80f2c",
+        "type": "exec",
+        "z": "8dbcadf2ac9b9d5d",
+        "command": "touch /data/data/com.termux/files/opt/lissi/termux/vtext2speech/STOP.sem",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "true",
+        "timer": "800",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 480,
+        "y": 1200,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "232b1c0697197c3b",
+        "type": "inject",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 80,
+        "y": 1180,
+        "wires": [
+            [
+                "a1a01d1409f80f2c"
+            ]
+        ]
+    },
+    {
+        "id": "bee03283f542b0de",
+        "type": "exec",
+        "z": "8dbcadf2ac9b9d5d",
+        "command": "/data/data/com.termux/files/opt/lissi/termux/vtext2speech/WETTER.sh",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "true",
+        "timer": "800",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 470,
+        "y": 800,
+        "wires": [
+            [
+                "b4aa1d891d420f1d",
+                "3054f48526a4dbbc"
+            ],
+            [
+                "5a1a0708ba885914"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "b69b03c88318c75c",
+        "type": "inject",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 100,
+        "y": 900,
+        "wires": [
+            [
+                "bee03283f542b0de"
+            ]
+        ]
+    },
+    {
+        "id": "c5b2fc10ecabb22d",
+        "type": "ui_button",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "group": "309957e1a91b56b2",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Wetter",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 70,
+        "y": 940,
+        "wires": [
+            [
+                "bcd0648ebb944a05"
+            ]
+        ]
+    },
+    {
+        "id": "bcd0648ebb944a05",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 940,
+        "wires": [
+            [
+                "e941c312ec64c74a",
+                "bee03283f542b0de"
+            ]
+        ]
+    },
+    {
+        "id": "e941c312ec64c74a",
+        "type": "change",
+        "z": "8dbcadf2ac9b9d5d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "be patient",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 1020,
+        "wires": [
+            []
         ]
     }
 ]

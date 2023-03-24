@@ -5,18 +5,18 @@
 # V 0.0.1.15.02.23
 # V 0.0.2.20.02.23 flexible location
 # V 0.0.3.17.03.23 move to subfolder
-
+# V 0.0.4.23.03.23 adapt to termux
 
 WPATH=`dirname $0`
 PLAYERCFG="$WPATH/DEVICE.cfg"
 TMPFNAME="$WPATH/`basename $0.txt`"
 ARG1=$1
 LOG="$WPATH/LISSI.log"
-TMP="/tmp/`basename $0.tmp`"
+TMP="$WPATH/`basename $0.tmp`"
 
 
 ##############script detection#########################
-LOCKFILE=/tmp/$(basename $0).lck
+LOCKFILE=$WPATH/$(basename $0).lck
 
 if [ -f $LOCKFILE ] ; then
     SPID=`cat $LOCKFILE`
