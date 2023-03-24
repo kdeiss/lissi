@@ -10,7 +10,7 @@ TERMUXDIR="/data/data/com.termux/files"
 ASTART="$TERMUXDIR/home/boot"
 LISSIDIR="$TERMUXDIR/opt/lissi"
 FLOWDIR="$TERMUXDIR/home/.node-red"
-LOG="$LISSIDIR/fc/LISSI.log"
+LOG="$TERMUXDIR/lissi_installer.log"
 
 
 function clean_exit
@@ -39,6 +39,7 @@ fi
 function gitti
 {
     echo "`date` INF git pull to retrieve lissi core files." | tee -a $LOG
+    mkdir `dirname $LISSIDIR` 2> ./null
     cd `dirname $LISSIDIR`
     if [ ! $? -eq 0 ];then
 	echo "`date` ERR did not find required directory (`dirname $LISSIDIR`). - exit"
