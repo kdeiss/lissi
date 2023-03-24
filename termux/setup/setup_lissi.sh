@@ -2,7 +2,7 @@
 # by k.deiss@it-userdesk.de
 # setup lissi on termux (part 2)
 # V 0.0.1.15.02.23
-
+# V 0.0.2.24.03.23 kd bugfix
 
 WPATH=`dirname $0`
 TMP="/$WPATH/`basename $0.tmp`"
@@ -109,12 +109,9 @@ fi
 echo "`date` INF startup $0" | tee -a $LOG
 install_pkgs
 gitti
-echo "`date` INF part 1 of installation done - do you want to continue (press CTRL+C to break / other key to continue)"
-
-$LISSIDIR/termux/setup/setup_lissi.sh
-
 prepare_tmxver
 create_autostart
 install_nr
 config_nr
 clean_exit
+exit 0
