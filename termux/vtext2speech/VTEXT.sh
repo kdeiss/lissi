@@ -63,7 +63,7 @@ if [ -z $ARG1 ] ; then
     ARG1=100
 fi
 
-OUT="Seite $ARG1 vom `date +"%-H Uhr %-M"`."
+OUT="Seite $ARG1 geladen um `date +"%-H Uhr %-M"`."
 cd $WPATH
 
 rm -f $WPATH/$ARG1.asc

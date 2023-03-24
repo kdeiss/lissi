@@ -4,10 +4,13 @@
 # V 0.0.1.15.02.23
 # V 0.0.2.24.03.23 kd bugfix
 
+# url: https://raw.githubusercontent.com/kdeiss/lissi/master/termux/setup/setup_lissi.sh
+
+
 WPATH=`dirname $0`
 TMP="/$WPATH/`basename $0.tmp`"
 TERMUXDIR="/data/data/com.termux/files"
-ASTART="$TERMUXDIR/home/boot"
+ASTART="$TERMUXDIR/home/.termux/boot"
 LISSIDIR="$TERMUXDIR/opt/lissi"
 FLOWDIR="$TERMUXDIR/home/.node-red"
 LOG="$TERMUXDIR/lissi_installer.log"
@@ -106,6 +109,18 @@ else
 fi
 }
 
+function info2user
+{
+echo "###################################################"
+echo "In case of trouble check the installer log at $LOG"
+echo "SSH daemon will start next boot automatically."
+echo "Your username is >`whoami`<."
+echo "To use it from external ssh client set password (just call passwd on commandline)."
+echo "Please reboot the system. Check the logs at $LISSIDIR/fc/LISSI.log"
+echo "###################################################"
+}
+
+
 echo "`date` INF startup $0" | tee -a $LOG
 install_pkgs
 gitti
@@ -114,4 +129,5 @@ create_autostart
 install_nr
 config_nr
 clean_exit
+info2user
 exit 0
