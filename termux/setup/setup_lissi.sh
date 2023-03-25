@@ -120,14 +120,46 @@ echo "Please reboot the system. Check the logs at $LISSIDIR/fc/LISSI.log"
 echo "###################################################"
 }
 
+function patch_flow
+{
+OUT="./flows.json"
+cp $LISSIDIR/nodered/flows.json $OUT
+if [ ! $? -eq 0 ];then
+    echo "`date` ERR could not patch flows.json - exit" | tee -a $LOG
+fi
+
+sed -i -e "s/\"\/opt\/lissi/\"\/data\/data\/com.termux\/files\/opt\/lissi/g" $OUT
+if [ $? -eq 0 ];then
+    echo "`date` INF actual flows.json patched" | tee -a $LOG
+else
+    echo "`date` ERR could not patch flows.json - exit" | tee -a $LOG
+    clean_exit
+    exit 11
+fi
+
+cp $OUT $FLOWDIR
+if [ $? -eq 0 ];then
+    echo "`date` INF actual flows.json copied" | tee -a $LOG
+else
+    echo "`date` ERR could not copy flows.json - exit" | tee -a $LOG
+    clean_exit
+    exit 1
+fi
+
+rm -f $OUT
+
+}
+
 
 echo "`date` INF startup $0" | tee -a $LOG
+
 install_pkgs
 gitti
 prepare_tmxver
 create_autostart
 install_nr
-config_nr
-clean_exit
+#config_nr
+patch_flow
 info2user
+clean_exit
 exit 0
