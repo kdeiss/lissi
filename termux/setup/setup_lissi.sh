@@ -8,27 +8,32 @@
 
 
 WPATH=`dirname $0`
+if [ " $WPATH" == " ." ] ; then
+    WPATH=`pwd`
+fi
 TMP="/$WPATH/`basename $0.tmp`"
 TERMUXDIR="/data/data/com.termux/files"
 ASTART="$TERMUXDIR/home/.termux/boot"
 LISSIDIR="$TERMUXDIR/opt/lissi"
 FLOWDIR="$TERMUXDIR/home/.node-red"
 LOG="$TERMUXDIR/lissi_installer.log"
+NULLFN="$WPATH/null"
 
+echo $NULLFN
 
 function clean_exit
 {
 rm -f $TMP
-rm -f ./null
+rm -f $NULLFN
 rm -f $LOCKFILE
 echo "`date` INF $0 done."|tee -a $LOG
 }
 
 function prepare_tmxver
 {
-mkdir `dirname $LISSIDIR` 2> ./null
-mkdir $LISSIDIR 2> ./null
-mkdir "$LISSIDIR/fc" 2> ./null
+mkdir `dirname $LISSIDIR` 2> $NULLFN
+mkdir $LISSIDIR 2> $NULLFN
+mkdir "$LISSIDIR/fc" 2> $NULLFN
 cd $LISSIDIR
 if [ $? -eq 0 ];then
     echo "`date` INF created required directories." | tee -a $LOG
@@ -37,12 +42,13 @@ else
     clean_exit
     exit 1
 fi
+cd $WPATH
 }
 
 function gitti
 {
     echo "`date` INF git pull to retrieve lissi core files." | tee -a $LOG
-    mkdir `dirname $LISSIDIR` 2> ./null
+    mkdir `dirname $LISSIDIR` 2> $NULLFN
     cd `dirname $LISSIDIR`
     if [ ! $? -eq 0 ];then
 	echo "`date` ERR did not find required directory (`dirname $LISSIDIR`). - exit"
@@ -61,12 +67,13 @@ function gitti
     touch "$LISSIDIR/fc/DEVICE.cfg"
     touch "$LISSIDIR/fc/LOCAL_DEVICES.cfg"
     touch "$LISSIDIR/fc/STATIC_DEVICES.cfg"
+    cd $WPATH
 }
 
 
 function create_autostart
 {
-mkdir $ASTART 2> ./null
+mkdir $ASTART 2> $NULLFN
 cp $LISSIDIR/termux/setup/auto*.sh $ASTART 
 if [ $? -eq 0 ];then
     echo "`date` INF Autostart created" | tee -a $LOG
@@ -97,6 +104,7 @@ echo "`date` INF nodered installation done!" | tee -a $LOG
 
 function config_nr
 {
+mkdir $FLOWDIR 2> $NULLFN
 # the actual flows.json should be available now
 echo "`date` INF configuring nodered" | tee -a $LOG
 cp $LISSIDIR/nodered/flows.json $FLOWDIR
@@ -115,7 +123,8 @@ echo "###################################################"
 echo "In case of trouble check the installer log at $LOG"
 echo "SSH daemon will start next boot automatically."
 echo "Your username is >`whoami`<."
-echo "To use it from external ssh client set password (just call passwd on commandline)."
+echo "To use ssh from external device set a password! (just type passwd on commandline)"
+echo "To use ssh from external client set password (just call passwd on commandline)."
 echo "Please reboot the system. Check the logs at $LISSIDIR/fc/LISSI.log"
 echo "###################################################"
 }
@@ -123,6 +132,7 @@ echo "###################################################"
 function patch_flow
 {
 OUT="./flows.json"
+mkdir $FLOWDIR 2> $NULLFN
 cp $LISSIDIR/nodered/flows.json $OUT
 if [ ! $? -eq 0 ];then
     echo "`date` ERR could not patch flows.json - exit" | tee -a $LOG
