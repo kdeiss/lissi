@@ -88,7 +88,7 @@ function install_pkgs
 echo "`date` INF Installing required packages" | tee -a $LOG
 apt update
 apt upgrade -y
-apt install -y git openssl-tool openssh python coreutils nano nodejs wget jq mc termux-api openssh android-tools html2text | tee -a $LOG
+apt install -o DPkg::Options::=--force-confdef -y git openssl-tool openssh python coreutils nano nodejs wget jq mc termux-api openssh android-tools html2text | tee -a $LOG
 echo "`date` INF package installation done!" | tee -a $LOG
 }
 
@@ -103,6 +103,7 @@ cd "$TERMUXDIR/home/.node-red"
 echo "`date` INF Installing node-red-dashboard" | tee -a $LOG
 npm install node-red-dashboard | tee -a $LOG
 echo "`date` INF nodered installation done!" | tee -a $LOG
+cd $WPATH
 }
 
 function config_nr
