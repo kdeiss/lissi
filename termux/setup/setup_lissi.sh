@@ -98,6 +98,7 @@ function install_nr
 cd "$TERMUXDIR/home"
 echo "`date` INF Installing node-red" | tee -a $LOG
 npm i -g --unsafe-perm node-red | tee -a $LOG
+mkdir $FLOWDIR 2> $NULLFN
 cd "$TERMUXDIR/home/.node-red"
 echo "`date` INF Installing node-red-dashboard" | tee -a $LOG
 npm install node-red-dashboard | tee -a $LOG
@@ -126,7 +127,6 @@ echo "In case of trouble check the installer log at $LOG"
 echo "SSH daemon will start next boot automatically."
 echo "Your username is >`whoami`<."
 echo "To use ssh from external device set a password! (just type passwd on commandline)"
-echo "To use ssh from external client set password (just call passwd on commandline)."
 echo "Please reboot the system. Check the logs at $LISSIDIR/fc/LISSI.log"
 echo "###################################################"
 }
@@ -196,5 +196,7 @@ install_nr
 patch_flow
 patch_nr
 info2user
+echo "Creating new password for user `whoami`."
+passwd
 clean_exit
 exit 0
