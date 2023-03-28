@@ -151,6 +151,28 @@ rm -f $OUT
 }
 
 
+function patch_nr
+{
+OUT="$TERMUXDIR/usr/lib/node_modules/node-red/red.js"
+
+if [ ! -f $OUT ];then
+    echo "`date` ERR could not patch node-red.test - exit" | tee -a $LOG
+fi
+
+cp $OUT $OUT.sik
+
+sed -i -e "s/\#!\/usr\/bin\/env node/\#!\/data\/data\/com.termux\/files\/usr\/bin\/env node/g" $OUT
+if [ $? -eq 0 ];then
+    echo "`date` INF actual node-red patched for termux." | tee -a $LOG
+else
+    echo "`date` ERR could not patch node-red." | tee -a $LOG
+    clean_exit
+    exit 12
+fi
+}
+
+
+
 echo "`date` INF startup $0" | tee -a $LOG
 
 install_pkgs
@@ -160,6 +182,7 @@ create_autostart
 install_nr
 #config_nr
 patch_flow
+patch_nr
 info2user
 clean_exit
 exit 0
