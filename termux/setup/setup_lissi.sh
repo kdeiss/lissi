@@ -19,7 +19,6 @@ FLOWDIR="$TERMUXDIR/home/.node-red"
 LOG="$TERMUXDIR/lissi_installer.log"
 NULLFN="$WPATH/null"
 
-echo $NULLFN
 
 function clean_exit
 {
@@ -96,8 +95,11 @@ echo "`date` INF package installation done!" | tee -a $LOG
 
 function install_nr
 {
-echo "`date` INF Installing nodered" | tee -a $LOG
+cd "$TERMUXDIR/home"
+echo "`date` INF Installing node-red" | tee -a $LOG
 npm i -g --unsafe-perm node-red | tee -a $LOG
+cd "$TERMUXDIR/home/.node-red"
+echo "`date` INF Installing node-red-dashboard" | tee -a $LOG
 npm install node-red-dashboard | tee -a $LOG
 echo "`date` INF nodered installation done!" | tee -a $LOG
 }

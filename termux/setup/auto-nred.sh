@@ -5,6 +5,12 @@ export PATH=/data/data/com.termux/files/usr/bin
 export LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
 
 LOG="/data/data/com.termux/files/opt/lissi/fc/LISSI.log"
+
+cp $LOG.2 $LOG.3
+cp $LOG.1 $LOG.2
+cp $LOG $LOG.1
+
+
 echo "`date` INF startup $0" >>$LOG
 
 let RST=0
