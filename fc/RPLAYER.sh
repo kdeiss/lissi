@@ -9,6 +9,8 @@
 # V 0.0.3.17.03.23 move to subfolder
 # V 0.0.4.20.03.23 clean_exit / deviceID as parameter / logging of adb calls
 # V 0.0.5.23.03.23 adapt to termux
+# V 0.0.6.29.03.23 introducing tmpl files in media folder
+
 
 WPATH=`dirname $0`
 PLAYERCFG="$WPATH/DEVICE.cfg"
@@ -62,6 +64,7 @@ echo "ARG1=$ARG1"|tee -a $LOG
 # change to the working directory, search station file load it
 cd $WPATH
 
+ARGFILE=""
 #ARGFILE=`find $WPATH -name $ARG1.sh.cfg`
 # if there are 2 or more files we always choose the first!
 find $WPATH -name $ARG1.sh.cfg>$TMP
@@ -76,6 +79,34 @@ done<$TMP
 if [ $ctr -gt 1 ];then
     echo "`date` WAR `basename $0` duplicate files found for $ARG1.sh.cfg!" |tee -a $LOG
 fi
+
+# if the configfile was not found we look for a templatefile
+# this mechanism was introduced to give possibiltiy to use git for updates
+# whilst user have already individual configurations
+
+if [ ! -f "$ARGFILE" ] ;then
+    echo "`date` INF `basename $0` could not find configuration file for $ARG1 - searching now template." |tee -a $LOG
+    find $WPATH -name $ARG1.sh.cfg.tmpl>$TMP
+
+    let ctr=0
+    while read line
+    do
+	TMPLFILE=$line
+	let ctr=$ctr+1
+    done<$TMP
+
+    if [ $ctr -gt 1 ];then
+	echo "`date` WAR `basename $0` duplicate files found for $ARG1.sh.cfg.tmpl!" |tee -a $LOG
+    fi
+
+    #if we found template we copy it to a regular cfg file
+    if [ -f "$TMPLFILE" ] ;then
+	ARGFILE=${TMPLFILE//.sh.cfg.tmpl/.sh.cfg}	
+	cp "$TMPLFILE" "$ARGFILE"
+	echo "`date` INF First run detected for channel $ARG1. $ARGFILE created from Template." |tee -a $LOG
+    fi
+fi
+
 
 
 PIC=""
