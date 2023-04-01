@@ -18,6 +18,8 @@ LISSIDIR="$TERMUXDIR/opt/lissi"
 FLOWDIR="$TERMUXDIR/home/.node-red"
 LOG="$TERMUXDIR/lissi_installer.log"
 NULLFN="$WPATH/null"
+CALLER=`basename $0`
+
 
 
 function clean_exit
@@ -188,6 +190,18 @@ fi
 
 echo "`date` INF startup $0" | tee -a $LOG
 
+
+echo $CALLER
+if [ " $CALLER" == " patch_nr.sh" ] ; then
+    # if code is called by patch_nr.sh we just patch the flows.json
+    echo "`date` INF will only patch flows.json."|tee -a $LOG
+    patch_flow
+    clean_exit
+    echo "`date` INF pls restart to run the moded flows.json"|tee -a $LOG
+    exit 0
+fi
+
+# if code is called by setup_lissi.sh we install
 install_pkgs
 gitti
 prepare_tmxver
@@ -199,5 +213,5 @@ patch_nr
 info2user
 echo "Creating new password for user `whoami`."
 passwd
-clean_exit
+
 exit 0
