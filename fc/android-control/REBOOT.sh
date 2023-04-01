@@ -10,7 +10,7 @@ PLAYERCFG="$WPATH01/DEVICE.cfg"
 LOG="$WPATH01/android_status.log"
 TMP="/tmp/`basename $0.tmp`"
 DEVICE=$1
-ACTION_AFTER_REBOOT="/opt/lissi/fc/RPLAYER.sh wdr2 $DEVICE"
+ACTION_AFTER_REBOOT="/opt/lissi/fc/RPLAYER.sh RP_3_wdr $DEVICE"
 SET_DEFAULT_DEVICE="$WPATH01/SET_DEFAULT_DEVICE.sh"
 
 
