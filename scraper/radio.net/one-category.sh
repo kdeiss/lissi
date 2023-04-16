@@ -581,8 +581,8 @@ echo -n "" > $LOG
 
 function one-category-main
 {
-$OLD_REMOVER
 preplog
+$OLD_REMOVER
 scrape_the_links4onebyone
 onebyone
 }

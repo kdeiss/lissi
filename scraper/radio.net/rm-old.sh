@@ -44,8 +44,8 @@ let actr=0
 # delete files older than defined
 for dir in $(find . -mmin $AGE -type f -name "*.lastseen"); do
     if [ $ctr -lt $MAXDELETIONS ];then
-	echo "deleting $dir"
-	#rm -f "$dir"
+	echo "`date` INF $deleting old file $dir" | tee -a $LOG
+	rm -f "$dir"
 	if [ $? -eq 0 ] ; then
 	    let ctr=$ctr+1
 	else
