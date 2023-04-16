@@ -1,1 +1,1 @@
-/data/data/com.termux/files/opt/lissi/termux/setup/setup_lissi.sh
+./setup_lissi.sh
