@@ -254,7 +254,7 @@ function gitti-all
 # add, commit and push
 git -C $BASEPATH  add .
 git -C $BASEPATH commit -m "Autoupdate: `date +'%b/%d - %I:%M %p'`"
-git -C $BASEPATH push
+git -C $BASEPATH push origin master
 }
 
 
