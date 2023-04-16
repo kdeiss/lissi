@@ -1,0 +1,14 @@
+
+*** Bitte geben Sie an, wer Sie sind.
+
+Führen Sie
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+aus, um das als Ihre standardmäßige Identität zu setzen.
+Lassen Sie die Option "--global" weg, um die Identität nur
+für dieses Repository zu setzen.
+
+fatal: Konnte die E-Mail-Adresse nicht automatisch erkennen ('root@nextcloud-virtual-machine.(none)' erhalten)
+fatal: could not read Username for 'https://github.com': Kein passendes Gerät bzw. keine passende Adresse gefunden

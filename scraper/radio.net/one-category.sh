@@ -254,7 +254,6 @@ function gitti-all
 #mv *.m3u c:/git/m3u-radio-music-playlists/radio.net/
 
 # add, commit and push
-
 git -C $GITPATH  add .
 git -C $GITPATH commit -m "Autoupdate: `date +'%b/%d - %I:%M %p'`"
 git -C $GITPATH push origin master
@@ -393,8 +392,8 @@ do
 	curln=`sed -n "${curctr}p" genres-full.txt`
 	echo $curctr > $CUR_GENRES_POS_FNAME
 	rm -f $NULL
-	echo "`date` INF git push" | tee -a $LOG
-	gitti-all | tee -a $LOG
+	echo "`date` INF Git push" | tee -a $LOG
+	gitti-all &>> tee -a $LOG
 	echo "`date` INF finished all categories - exit now!" |tee -a $LOG
 	exit 0
     fi
@@ -574,7 +573,6 @@ function one-category-main
 preplog
 scrape_the_links4onebyone
 onebyone
-
 }
 
 
