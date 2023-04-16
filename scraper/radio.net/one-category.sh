@@ -36,6 +36,8 @@ CUR_GENRES_POS_FNAME="./`basename $0`.pos"
 let CURLCTR=0
 let SLEEPTIME=60
 
+OLD_REMOVER="$BASEPATH/rm-old.sh"
+
 
 if [ ! -z $1 ] ; then
     let SLEEPTIME=$1
@@ -579,10 +581,12 @@ echo -n "" > $LOG
 
 function one-category-main
 {
+$OLD_REMOVER
 preplog
 scrape_the_links4onebyone
 onebyone
 }
+
 
 # broken at the moment
 function all-categories-main
@@ -607,16 +611,9 @@ gitti-all
 echo "`date` INF startup $0" | tee -a $LOG
 
 todo=`basename $0`
-#echo $todo
 eval ${todo//.sh/-main}
-
-
-#rm genres.txt
-#convert_links2m3u
-#remove_AAA
-#gitti-all
-
 
 echo "`date` INF exit $0" | tee -a $LOG
 echo "" >> $LOG
 rm -f $NULL
+rm-old.sh
