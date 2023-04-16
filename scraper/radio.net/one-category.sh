@@ -76,6 +76,7 @@ rm -f AAA-*.txt
 rm -f AAAA-*.txt
 rm -f AAAAA-*.txt
 rm -f $NULL
+rm -f *.txt.tmp
 }
 
 
@@ -253,8 +254,16 @@ function gitti-all
 # move stream to git folder
 #mv *.m3u c:/git/m3u-radio-music-playlists/radio.net/
 
+
+# there was a problem to run this from rc.local
+# so force the HOME explicitly
+HOME="/root"
+export HOME
+
 # add, commit and push
-git -C $GITPATH  add .
+
+git -C $GITPATH config -l
+git -C $GITPATH add .
 git -C $GITPATH commit -m "Autoupdate: `date +'%b/%d - %I:%M %p'`"
 git -C $GITPATH push origin master
 }
@@ -393,7 +402,7 @@ do
 	echo $curctr > $CUR_GENRES_POS_FNAME
 	rm -f $NULL
 	echo "`date` INF Git push" | tee -a $LOG
-	gitti-all &>> tee -a $LOG
+	gitti-all &>>$LOG
 	echo "`date` INF finished all categories - exit now!" |tee -a $LOG
 	exit 0
     fi
@@ -575,11 +584,18 @@ scrape_the_links4onebyone
 onebyone
 }
 
-
+# broken at the moment
 function all-categories-main
 {
 preplog
 do_all_categories
+}
+
+
+# just do a git push
+function gitti-all-main
+{
+gitti-all
 }
 
 
