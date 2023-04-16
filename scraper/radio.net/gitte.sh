@@ -586,19 +586,7 @@ do_all_categories
 
 echo "`date` INF startup $0" | tee -a $LOG
 
-gitti-all
-exit 0
-
-todo=`basename $0`
-#echo $todo
-eval ${todo//.sh/-main}
-
-
-#rm genres.txt
-#convert_links2m3u
-#remove_AAA
-#gitti-all
-
+gitti-all | tee -a $LOG
 
 echo "`date` INF exit $0" | tee -a $LOG
 echo "" >> $LOG

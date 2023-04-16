@@ -15,6 +15,7 @@ BASENAME="radio-net-scraper"
 
 #BASEPATH=`pwd`
 BASEPATH="/opt/lissi/scraper/radio.net"
+GITPATH="/opt/lissi/"
 
 BNVARIANT="$BASENAME"
 
@@ -246,15 +247,17 @@ function remove_AAA
 for i in *.m3u ; do mv "$i" "`echo $i | sed -e 's/AAA-//' -e 's/.txt//'`" ; done
 }
 
+
 function gitti-all
 {
 # move stream to git folder
-mv *.m3u c:/git/m3u-radio-music-playlists/radio.net/
+#mv *.m3u c:/git/m3u-radio-music-playlists/radio.net/
 
 # add, commit and push
-git -C c:/git/m3u-radio-music-playlists/ add .
-git -C c:/git/m3u-radio-music-playlists/ commit -m "`date +'%b/%d - %I:%M %p'`"
-git -C c:/git/m3u-radio-music-playlists/ push
+
+git -C $GITPATH  add .
+git -C $GITPATH commit -m "Autoupdate: `date +'%b/%d - %I:%M %p'`"
+git -C $GITPATH push origin master
 }
 
 
@@ -365,6 +368,7 @@ done
 echo "`date` INF $absctr template-files created." | tee -a $LOG
 }
 
+
 # instead of grabbing the entire website we do it category by category
 # 
 function onebyone
@@ -389,6 +393,8 @@ do
 	curln=`sed -n "${curctr}p" genres-full.txt`
 	echo $curctr > $CUR_GENRES_POS_FNAME
 	rm -f $NULL
+	echo "`date` INF git push" | tee -a $LOG
+	gitti-all | tee -a $LOG
 	echo "`date` INF finished all categories - exit now!" |tee -a $LOG
 	exit 0
     fi
@@ -568,6 +574,7 @@ function one-category-main
 preplog
 scrape_the_links4onebyone
 onebyone
+
 }
 
 

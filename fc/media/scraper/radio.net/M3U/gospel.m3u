@@ -131,6 +131,8 @@ https://radio.aquiestoycristo.com/radio/8000/radio.mp3
 https://stream.arulvakku.com/radio/8000/radio.mp3
 #EXTINF:0,Assembleia de Deus SP
 https://ec2.yesstreaming.net:3925/stream
+#EXTINF:0,Rádio Atos 2 
+http://190.stm-ip.com:9200/
 #EXTINF:0,Atos 2.44 FM
 http://srv2.iorehost.com.br:7326/stream/1/
 #EXTINF:0,Atos FM Fortaleza
@@ -575,8 +577,6 @@ https://ais-edge37-live365-dal02.cdnstream.com/a68641
 http://cast1.asurahosting.com:8705/stream/1/
 #EXTINF:0,Rádio Grande BH 1060 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_RADIOONLINE2AAC.aac
-#EXTINF:0,Grande Rio Gospel
-https://stm1.voxplayer.com.br:7072/stream/1/
 #EXTINF:0,grcradio
 https://stream.laut.fm/grcradio?ref=radiode
 #EXTINF:0,G.R.O.W.T.H 
@@ -805,8 +805,6 @@ https://ice6.securenetsystems.net/KKNO
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLDCAMAAC.aac
 #EXTINF:0,KLVE - K-LOVE 107.5 FM
 https://live.wostreaming.net/direct/univision-klvefmaac-imc2
-#EXTINF:0,KMAZ-LP Amazing 102.5
-https://ice41.securenetsystems.net/KMAZ
 #EXTINF:0,KMSL - American Family Radio 91.7 FM
 http://mediaserver3.afa.net:8000/talkhigh.mp3
 #EXTINF:0,KMTL 760 AM
@@ -1041,6 +1039,8 @@ http://rna.streams.com.br:7802/stream
 http://stm2.srvvox.com.br:7134/
 #EXTINF:0,Rádio Novas de Paz (Recife)
 https://fhhalle.streamabc.net/fhhal-rtllive-mp3-128-2875815
+#EXTINF:0,Nyinawajambo FM
+http://stream.zeno.fm/3b16d3rh4zhvv
 #EXTINF:0,OchriO
 https://stream.radiojar.com/0pfmuf1t2bruv
 #EXTINF:0,Odehyieba Radio
@@ -2183,30 +2183,46 @@ https://stream.zeno.fm/t4y7f2ev88quv
 http://stream.zeno.fm/1dvcw3v1phruv
 #EXTINF:0,True Voice Radio
 https://servidor36.brlogic.com:7032/live
+#EXTINF:0,Truth Be Told Radio Network 
+https://stream.radiojar.com/0ef30a4fwvduv
 #EXTINF:0,TRUTH Radio
 https://streaming.live365.com/a74514
 #EXTINF:0,Tune Vizion
 https://s5.voscast.com:10515/stream
+#EXTINF:0,TU Radio FM
+https://delta.radioplayer.com.ar:9132/879turadio
 #EXTINF:0,TVM RADIO 1
 http://198.27.66.225:8264/stream/1/
 #EXTINF:0,TVO1IRadio
 http://streams4.museter.com:2199/tunein/tvo1cbn.asx
+#EXTINF:0,UCB Gospel
+https://edge-audio-01-cr.sharp-stream.com/ucbuk.mp3
 #EXTINF:0,UGNJAMZ
 https://ice31.securenetsystems.net/UGNR
 #EXTINF:0,Radio UMESC
 http://143.208.11.102:7048/stream/1/
+#EXTINF:0,Uncion Del Espiritu Santo
+https://edmenstudio.net:10955/stream/1/
+#EXTINF:0,Unique Prayzin
+http://stream.zeno.fm/d35mkvvqsnhvv.pls
 #EXTINF:0,Unity Gospel Radio 
 https://usa11.fastcast4u.com/proxy/osbavdls?mp=/1
 #EXTINF:0,Radio Urantia Brasil
 https://s05.maxcast.com.br:8224/live
 #EXTINF:0,Urban Central Radio - GOSPEL
 https://stream.zeno.fm/pnqcfycmpm0uv
+#EXTINF:0,Urban Fusion Radio
+http://protostar.shoutca.st:9105/stream/1/
 #EXTINF:0,Gospel Hits - Urbanradio.com
 http://hydra.cdnstream.com/1535_128
 #EXTINF:0,NewMusicInsite (Indie) - Urbanradio.com
 http://hydra.cdnstream.com/1533_128
 #EXTINF:0,UU Church Nashua
 http://stream.uunashua.org/uunashua
+#EXTINF:0,Vaanpura Tamil Radio
+http://49.12.129.103:7028/stream
+#EXTINF:0,VALERTV Rádio Online
+https://stream.zeno.fm/ub1fy05s538uv
 #EXTINF:0,VIBES-LIVE RADIO
 http://s02.whooshserver.net:9091/live.mp3
 #EXTINF:0,Vibes Live Radio
@@ -2217,12 +2233,16 @@ https://studio24.radiolize.com/radio/8120/radio.mp3
 https://www.radioking.com/play/victory4christradio
 #EXTINF:0,Radio Vida 96.5 FM
 http://stm21.painelcast.com:6856/stream/1/
+#EXTINF:0,Rádio Vida 104.9 FM
+https://hts06.kshost.com.br:9294/live
 #EXTINF:0,Radio Web Vida Gospel
 http://09.stmip.net:8642/stream
 #EXTINF:0,Radio Vida Tanabi
 https://ssl.xcast.com.br:11298/stream
 #EXTINF:0,Radio Vineland International
 https://ice08.fluidstream.net/fluid811.aac
+#EXTINF:0,Virtualtronics Radio
+https://radio35.virtualtronics.com:20067/stream
 #EXTINF:0,Virtualtronics Radio
 https://radio35.virtualtronics.com:20067/stream
 #EXTINF:0,Visão em cristo
@@ -2235,6 +2255,10 @@ https://stream.zeno.fm/qyuc60d0gnruv
 https://live3.livemus.com.br:6914/stream/1/
 #EXTINF:0,VIVENDO EM CRISTO
 https://stm4.conectastreaming.com:7130/live
+#EXTINF:0,VOICE OF VICTORY 
+https://stream.radiojar.com/q2u0895928quv
+#EXTINF:0,Voice of Life radio online
+https://cdn.comeseetv.com:8000/vol
 #EXTINF:0,Vôo Livre FM
 http://stream.zeno.fm/nkggqp35qnruv
 #EXTINF:0,Voz de Dios en las Alturas
@@ -2245,14 +2269,20 @@ http://stm29.srvstm.com:15586
 https://edge.iono.fm/xice/77_medium.aac
 #EXTINF:0,WAAW - Shout 94.7
 https://ice64.securenetsystems.net/WAAWFM
+#EXTINF:0,WAAW Shout 94.7 FM
+https://ice64.securenetsystems.net/WAAWFM
 #EXTINF:0,WAGG 610 Heaven
 https://ais-sa1.streamon.fm/7683_128k.aac
 #EXTINF:0,WARR 1530 AM
 https://ice24.securenetsystems.net/WARRAM
 #EXTINF:0,WASG
 https://ice41.securenetsystems.net/WASG
+#EXTINF:0,Waves Of Power
+https://radio.pixelinmedia.com/vallamai
 #EXTINF:0,WAVU AM 630 - Power 107.5 FM
 https://ice5.securenetsystems.net/WAVU
+#EXTINF:0,WAYR - WAY Radio 550 AM
+https://ice7.securenetsystems.net/WAYRAM?
 #EXTINF:0,WBFI / WBFK 91.5 / 91.1 FM
 http://162.244.80.21:4578/;
 #EXTINF:0,WBGA - DaZone Gospel Radio 92.7 FM
