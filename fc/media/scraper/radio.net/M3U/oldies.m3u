@@ -65,6 +65,10 @@ https://listen.181fm.com/181-greatoldies_128k.mp3
 https://listen.181fm.com/181-goodtime_128k.mp3
 #EXTINF:0,192 radio norderney
 https://www.stream-server.nl/streams/192Radio.pls
+#EXTINF:0,192 Radio Veronica
+http://server-16.stream-server.nl:8030/stream/1/
+#EXTINF:0,1950 TICK TOCK RADIO
+https://streaming.ticktock.radio/tt/1950/icecast.audio
 #EXTINF:0,1951 TICK TOCK RADIO
 https://streaming.ticktock.radio/tt/1951/icecast.audio
 #EXTINF:0,1952 TICK TOCK RADIO
@@ -91,6 +95,10 @@ https://1a-60er.radionetz.de/1a-60er.mp3
 https://1a-70er.radionetz.de/1a-70er.mp3
 #EXTINF:0,1A 70er Hits
 https://stream.1a-webradio.de/saw-70er/mp3-128/radiode-1A/stream.mp3
+#EXTINF:0,1A 80er
+https://1a-80er.radionetz.de/1a-80er.mp3
+#EXTINF:0,1A 80er Hits
+https://stream.1a-webradio.de/saw-80er/mp3-128/radiode-1A/stream.mp3
 #EXTINF:0,1A Classic Rock
 https://1a-classicrock.radionetz.de/1a-classicrock.mp3
 #EXTINF:0,1A Oldies
@@ -113,14 +121,16 @@ http://centauri.shoutca.st:9064/stream/1/
 http://centauri.shoutca.st:9060/stream/1/
 #EXTINF:0,1 MINI ON DEMAND
 https://eu4.fastcast4u.com/proxy/radiomaeva?mp=/1
-#EXTINF:0,1radio.mk - Oldies 104 
-http://ams-2.1radio.mk/1radio_oldies_128
+#EXTINF:0,Mix80Radio
+https://stream.tunerplay.com/radio/8040/radio.mp3
 #EXTINF:0,24-7 Niche Radio - Romance
 https://ssl.shoutcaststreaming.us:8039/;?
 #EXTINF:0,247 Stereo
 https://c19.radioboss.fm:18080/stream
 #EXTINF:0,247 The Sound 
 http://los.cdnstream.com/1131_128
+#EXTINF:0,24k UK Radio
+https://cupcake.citrus3.com:8228/stream
 #EXTINF:0,2. ACCORD RADIO LIVE
 https://streamingV2.shoutcast.com/-2ACCORDRaDIOLIVE
 #EXTINF:0,2AY Radio 1494 AM
@@ -137,6 +147,8 @@ http://61.69.112.50:88/broadwave.mp3
 https://23023.live.streamtheworld.com/XLFMAAC.aac
 #EXTINF:0,2YYY - Young 92.3 FM
 https://streaming.2yyyradio.com/radio/8000/radio.mp3
+#EXTINF:0,305 The Radio
+https://stream.zeno.fm/bvyswnjmijyuv
 #EXTINF:0,365 Radio
 https://s3.radio.co/s6602f5810/listen
 #EXTINF:0,3RBA 3BA 102.3 FM
@@ -1417,6 +1429,8 @@ http://stream.jammfmradio.com:8075/stream/1/
 https://jarviradio.radiotaajuus.fi:9000/jr
 #EXTINF:0,JAVA RADIO
 https://stream.zenolive.com/6t6bmeznwtzuv.aac
+#EXTINF:0,JB's Rock n Roll - DooWop Jukebox
+https://streamer.radio.co/sa7bf61271/listen
 #EXTINF:0,Jcom Radio
 https://nrf1.newradio.it:9942/stream
 #EXTINF:0,Jenny FM Classic
@@ -3431,6 +3445,8 @@ https://radioflora.de/stream/live48.mp3
 https://fred.torontocast.com:1205/stream
 #EXTINF:0,Radiofoxgarden
 https://www.radiofoxgarden.de/listen.pls
+#EXTINF:0,radio freak
+https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
 #EXTINF:0,Radio Freizeit
 https://c30.radioboss.fm:18173/hifi.mp3
 #EXTINF:0,Radio Frogga
@@ -3505,8 +3521,6 @@ https://stream.zeno.fm/d5uamfvqvzzuv
 https://9695.brasilstream.com.br/stream
 #EXTINF:0,Radio Lifeline
 https://mscp2.live-streams.nl:8192/lifelinemp3
-#EXTINF:0,Radio LO1 - Radio Limbach-Oberfrohna
-http://85.25.118.42:8000/;
 #EXTINF:0,Radio London 266
 http://80.229.172.103:8000/;
 #EXTINF:0,Radio-Lux
@@ -3694,7 +3708,7 @@ http://streaming01.shockmedia.com.ar:8688/stream
 #EXTINF:0,Radio Sixties
 http://onair7.xdevel.com:7046/1
 #EXTINF:0,Radio Skipper
-https://radioskipper.com/128.pls
+http://radioskipper.com/128.pls
 #EXTINF:0,radioSKW
 https://server4.streamserver24.com:26237/live
 #EXTINF:0,Radio Sky FM
@@ -3993,6 +4007,8 @@ https://radio2.pro-fhi.net/radio/9039/stream
 http://144.76.156.119:10090/stream.mp3
 #EXTINF:0,S4-Radio SEVEN
 http://s4-stream.com:10030/stream
+#EXTINF:0,SALON FM
+https://www.radioking.com/play/salon-fm
 #EXTINF:0,Salsa 92.7 FM
 http://stream.zeno.fm/zpebbpohx1huv
 #EXTINF:0,Rádio Saudade FM

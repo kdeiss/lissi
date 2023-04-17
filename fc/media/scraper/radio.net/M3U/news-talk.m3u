@@ -185,6 +185,8 @@ https://www.radioking.com/play/allo-la-planete/232990
 https://streaming.hofhosting.nl/proxy/allsports_main?mp=/stream
 #EXTINF:0,Allzic Humour
 https://allzic25.ice.infomaniak.ch/allzic25.mp3
+#EXTINF:0,Al Mahriah Radio
+http://kepler.shoutca.st:8093/stream/1/
 #EXTINF:0,Radio Almenara 106.7 FM
 https://cervera.eldialdigital.com:25211/stream
 #EXTINF:0,Rádio Alto Ave
@@ -1969,8 +1971,6 @@ http://TheBreeze.streamon.fm:8000/TheBreeze-24k.aac
 https://ic1.mainstreamnetwork.com/ksbn-am
 #EXTINF:0,KSCO AM 1080
 http://184.105.148.154:8000/live
-#EXTINF:0,KSEF-DB
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC365_SC
 #EXTINF:0,KSER - Independent Public Radio - 90.7 FM
 http://jade.streamguys1.com:4050/live
 #EXTINF:0,KSEV 700 AM
@@ -3289,6 +3289,8 @@ http://45.32.154.169:8022/;
 http://live4.radyotvonline.com:8160/;
 #EXTINF:0,Radyo Tanbou
 http://radyotanbou.myvnc.com:8000/live
+#EXTINF:0,DZRV Veritas 846
+http://sg-icecast.eradioportal.com:8000/radio_veritas846
 #EXTINF:0,RAI webradio 6
 http://icestreaming.rai.it:80/9.mp3
 #EXTINF:0,Rap 107 FM - 107.2 FM
@@ -3871,8 +3873,6 @@ https://ample.revma.ihrhls.com/zc1129/38_1423nas2cq0of02/playlist.m3u8
 http://mediaserver3.afa.net:8000/talkhigh.mp3
 #EXTINF:0,WDR 5
 https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3?aggregator=radio-de
-#EXTINF:0,WDR Vera
-https://wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,WDTK - The Patriot 1400 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAM.mp3
 #EXTINF:0,WDUN - North Georgia's Newstalk 550 AM
