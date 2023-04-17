@@ -505,8 +505,6 @@ http://usa9.fastcast4u.com:5798/;
 https://usa6.fastcast4u.com/proxy/digitalplayfm/stream
 #EXTINF:0,DinámicaFM
 http://192.99.232.79:8040/
-#EXTINF:0,Discosuave
-http://149.56.147.197:9309/stream
 #EXTINF:0,DiscoTK Radio
 https://stream.zeno.fm/xa1nrt43gwzuv
 #EXTINF:0,RADIO DISCOunt
@@ -607,8 +605,6 @@ https://play8.tikast.com/proxy/lucas?mp=%2Fstream
 https://stmundial.net/8206/stream
 #EXTINF:0,EL PODER DE LA MUSICA
 http://stream.zeno.fm/0xskmrgk5ehvv
-#EXTINF:0,El Solar Estereo
-https://play8.tikast.com/proxy/elsolar?mp=/stream
 #EXTINF:0,El Sol Bucaramanga
 https://playerservices.live.streamtheworld.com/api/livestream-redirect/EL_SOL_BUCARAMANGAAAC.aac
 #EXTINF:0,El Sol Cali 98.0 FM
@@ -699,12 +695,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMI.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,Exa FM Cuernavaca
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCT.mp3
+#EXTINF:0,Exa FM Culiacán
+http://167.114.116.223:1082/stream/1/
+#EXTINF:0,Exa FM Durango
+https://stream3.mexiserver.com:10076/stream.mp3
 #EXTINF:0,Exa FM Ecuador
 https://20283.live.streamtheworld.com/ECUADOR_SC
 #EXTINF:0,Exa FM Ensenada
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA.mp3
+#EXTINF:0,Exa FM Guadalajara
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMA.mp3
 #EXTINF:0,Exa FM Ibarra
 https://streamingecuador.net:7030/stream
+#EXTINF:0,Exa FM Irapuato
+http://exairapuato.streaming4.mx:8000/exairapuato
 #EXTINF:0,Exa FM Las Vegas
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,Exa FM León
@@ -765,6 +769,8 @@ https://ascl.denial.cl:2020/stream/8006
 https://alpha.radioplayer.com.ar:9180/fantastica-chilecito
 #EXTINF:0,Fapatur Radio
 http://fapatur1.no-ip.biz:9000/;
+#EXTINF:0,Fara Fara Radio
+https://panel.retrolandigital.com/radio/8190/listen
 #EXTINF:0,Radio Felicidad 1180 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAM.mp3
 #EXTINF:0,Fiebre Latina Radio 92.2 FM 
@@ -777,6 +783,8 @@ https://c15.radioboss.fm:18223/stream
 https://node-27.zeno.fm/exccakv632quv
 #EXTINF:0,Fiesta FM
 https://server6.globalhostla.com:9012/stream
+#EXTINF:0,Fiesta FM Mallorca 87.6 FM
+https://eu1.lhdserver.es:9069/stream
 #EXTINF:0,Fiesta FM Southampton 
 http://hyades.shoutca.st:8317/stream/1/
 #EXTINF:0,Fiestahn Radio
@@ -785,6 +793,8 @@ https://stream-41.zeno.fm/exrn6rte41zuv?zs=FxJefXL6TqWtWBq-KJEliA
 https://01.solumedia.com.ar:6600/stream
 #EXTINF:0,Fiesta Perrona Radio
 https://cast1.asurahosting.com/proxy/fiestape/stream
+#EXTINF:0,Fiesta Radio
+http://stream.zeno.fm/s9wr4ku67gruv
 #EXTINF:0,Radio fiesta tropical Guanaca
 https://stream.zenolive.com/262ebxkq9eeuv
 #EXTINF:0,Radio Fiesta Tropical
@@ -1525,8 +1535,6 @@ http://209.126.10.210/radio/8000/radio.mp3
 https://stream-50.zeno.fm/pb0eq6jxjfwvv?zs=5TQ2IEwpQPiOSVx371tsiQ
 #EXTINF:0,LATINO FM
 http://stream.latinofm.de/latinofm.mp3
-#EXTINF:0,Latino Hit Mix
-https://stream-30.zeno.fm/2yeqq4y7grquv?zs=29_NwxycT3i6WSdMqKh3aw
 #EXTINF:0,Latino MIx 97.5
 https://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream
 #EXTINF:0,Latino Mundial Radio
@@ -1769,6 +1777,8 @@ http://streaming.radionomy.com/JamendoLounge
 https://streamingV2.shoutcast.com/MasharosRadio
 #EXTINF:0,Más Latina 96.5
 https://cast3.my-control-panel.com/proxy/maslatina/stream
+#EXTINF:0,Massive 103.5 FM Aruba
+https://surilive.com:8350/stream
 #EXTINF:0,Master FM
 http://lamaster.es:8002/;
 #EXTINF:0,Master FM
@@ -1845,8 +1855,8 @@ https://securestream.radioshd.info:7087/stream/1/
 http://rs3.domint.net:8162/stream.mp3
 #EXTINF:0,More987FM
 http://streamplus26.leonex.de:22976
-#EXTINF:0,Motiva FM
-https://stream.mediasector.es/radio/8120/motiva-HQ
+#EXTINF:0,motiva
+
 #EXTINF:0,MRM Radio
 https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_38553_stream_163071066
 #EXTINF:0,Muévete
@@ -1901,26 +1911,26 @@ https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 #EXTINF:0,MuyBuena Marina Alta Sur
 https://stream.mediasector.es/radio/8010/muybuena-torrevieja.mp3
-#EXTINF:0,MuyBuena Murcia
-https://stream.mediasector.es/radio/8010/muybuena.mp3
+#EXTINF:0,muybuena-murcia
+
 #EXTINF:0,Muy Buena Novelda
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 #EXTINF:0,MuyBuena Novelda
 https://stream.mediasector.es/radio/8010/muybuena-novelda.mp3
 #EXTINF:0,Muy Buena Ontinyent
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
-#EXTINF:0,Muy Buena La Ribera
-https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
+#EXTINF:0,muybuenaribera
+
 #EXTINF:0,Muy Buena Santa Pola
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 #EXTINF:0,Muy Buena Tavernes
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
-#EXTINF:0,Muy Buena Torrevieja
-https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
+#EXTINF:0,muybuenatorrevieja
+
 #EXTINF:0,MuyBuena Torrevieja
 https://stream.mediasector.es/radio/8010/muybuena-torrevieja.mp3
-#EXTINF:0,Muy Buena Valencia
-https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
+#EXTINF:0,muybuenavalencia
+
 #EXTINF:0,Muy Buena Vall d'Albaida (Ontinyent)
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 #EXTINF:0,Muy Buena La Vall d'Uxó
@@ -2503,8 +2513,6 @@ https://stream.zeno.fm/mk7d4dyed18uv
 https://stream.zeno.fm/xnsr48xw438uv
 #EXTINF:0,Radio La Voz de la Costa
 http://archi-us.digitalproserver.com/la-voz-de-la-costa.aac
-#EXTINF:0,Radio La Voz de Tiwintza
-http://181.113.23.205:9000/stream/1/
 #EXTINF:0,Radio Lazer 502
 https://jm8n.net:7011/stream/1/
 #EXTINF:0,Radiolé
@@ -2865,8 +2873,6 @@ https://rumba107.radioca.st/stream/1/
 http://philae.shoutca.st:8246/stream/1/
 #EXTINF:0,Rumba FM 98.1
 https://cast20.plugstreaming.com:2020/stream/r981
-#EXTINF:0,Rumba FM 98.9
-http://srv2.plugstreaming.com:8018/stream;
 #EXTINF:0,RUMBA ATLANTA
 http://167.114.131.90:5882/stream/1/
 #EXTINF:0,Rumba FM

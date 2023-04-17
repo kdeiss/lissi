@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,011.FM - The Office Mix
+https://listen.011fm.com/stream01
 #EXTINF:0,Rock - 100hitz
 https://pureplay.cdnstream1.com/6036_64.aac/playlist.m3u8
 #EXTINF:0,100 XR
@@ -467,8 +469,6 @@ http://69.16.229.56:8000/;
 https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=radio-at
 #EXTINF:0,Arabella Rock
 https://frontend.streams.arabella.at/arabella-rock?aggregator=radio-at
-#EXTINF:0,A Radio Amsterdam
-http://titan.shoutca.st:8476/stream
 #EXTINF:0,ARfm
 http://108.163.245.230:9016/stream/1/
 #EXTINF:0,Armageddeonmusik
@@ -1163,8 +1163,6 @@ http://162.255.84.51:8000/autodj
 https://dwr.desertwreckradio.com/radio/8000/live.mp3
 #EXTINF:0,Deutsches Hitradio
 https://frontend.streamonkey.net/meda-deutscheshitradio/stream/mp3?aggregator=RadioDe
-#EXTINF:0,Deutsches Radio Spanien
-http://178.33.166.7:7602/;stream.nsv
 #EXTINF:0,deutschFM
 https://server14768.streamplus.de/stream/1/
 #EXTINF:0,Devilzz Radio 
@@ -1371,8 +1369,6 @@ http://51.255.235.165:5540/stream/;
 https://icepool.silvacast.com/ESCRADIO.mp3
 #EXTINF:0,Evolução Radio
 http://95.217.75.38:9952/;stream.nsv
-#EXTINF:0,Excite FM 93.1 & 89.2 FM
-http://178.33.166.7:7602/;stream.mp3
 #EXTINF:0,Exclusively Aerosmith
 https://streaming.exclusive.radio/er/aerosmith/icecast.audio
 #EXTINF:0,Exclusively America
@@ -3685,8 +3681,6 @@ https://mdr-284331-3.sslcast.mdr.de/mdr/284331/3/aac/high/stream.aac?aggregator=
 https://mdr-284331-1.sslcast.mdr.de/mdr/284331/1/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDR SPUTNIK Soundcheck
 https://mdr-284331-6.sslcast.mdr.de/mdr/284331/6/aac/high/stream.aac?aggregator=radio-de
-#EXTINF:0,Mediatica FM 
-http://192.99.8.170:9144/stream/1/
 #EXTINF:0,Meer Radio
 https://meerradio.ip-streaming.net/meerradio
 #EXTINF:0,Mega FM
@@ -3997,8 +3991,14 @@ http://streaming.enantena.com:8000/onamediterrania128.mp3
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
 #EXTINF:0,ON Country
 https://0n-country.radionetz.de/0n-country.mp3
+#EXTINF:0,Onda Brava
+https://cast4.my-control-panel.com/proxy/ondabra3/stream
+#EXTINF:0,Onda Digital Radio
+https://conectperu.com:7089/;
 #EXTINF:0,Onda Fuerteventura
 http://solid55.streamupsolutions.com:8003/stream
+#EXTINF:0,ONDAMAR80
+https://antares.dribbcast.com/proxy/ondamar80?mp=/live
 #EXTINF:0,Onda Web Radio
 https://stream.zeno.fm/8fwe6q39m5zuv
 #EXTINF:0,Radio Open FM 97.9
@@ -4362,7 +4362,7 @@ https://stream.saw-musikwelt.de/saw-rock-classic/mp3-192?ref=radiode
 #EXTINF:0,Radio Silesia
 http://s1.slotex.pl:7926/stream/1/
 #EXTINF:0,Radio Skipper
-https://radioskipper.com/128.pls
+http://radioskipper.com/128.pls
 #EXTINF:0,Radio Słupsk
 http://91.232.4.33:8240/stream
 #EXTINF:0,RadioSound4You

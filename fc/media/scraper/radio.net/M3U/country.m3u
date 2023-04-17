@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,011.FM - 90s Country
+https://listen.011fm.com/stream10
 #EXTINF:0,011.FM - Today's Country
 http://listen.011fm.com:8016/stream09
 #EXTINF:0,0nlineradio COUNTRY
@@ -331,8 +333,6 @@ https://ice10.securenetsystems.net/WUUUFM
 https://mp3.cbn.com/stream/country128?app=radiocanadaonline
 #EXTINF:0,CBN Radio Cross Country Christmas
 https://mp3.cbn.com/stream/countrychristmas128?app=radiocanadaonline
-#EXTINF:0,CBRI Country Bear Radio
-https://ice41.securenetsystems.net/CBEAR
 #EXTINF:0,Cerrito Radio
 http://stream-41.zeno.fm/rw8qf9aw87zuv?zs=zp0tMg56SSGOrVKVcnEpkg
 #EXTINF:0,CFCB 570 AM
@@ -1475,8 +1475,6 @@ http://stream.abacast.net/direct/townsquare-kezjfmaac-ibc3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFGEFM.mp3
 #EXTINF:0,KFGY Froggy 92.9 FM
 https://live.wostreaming.net/manifest/sonoma-kfgyfmaac-hls3.m3u8?source=v7player
-#EXTINF:0,KFIL - True Country 1060 AM & 103.1 FM
-http://stream.abacast.net/direct/townsquare-kfilfmaac-ibc3
 #EXTINF:0,KFIN 107.9 FM
 http://hemnos.cdnstream.com/1416_64
 #EXTINF:0,KFKF-FM - Country 94.1 FM
@@ -1665,8 +1663,6 @@ https://ice8.securenetsystems.net/KLADFM
 https://ice10.securenetsystems.net/KLBC
 #EXTINF:0,KLCY - Eagle Country 105.5 FM
 https://live.leanstream.co/KLCYFM?
-#EXTINF:0,KLGR - 1490 AM
-http://54.189.181.14/
 #EXTINF:0,KLLL 96.3 FM
 https://live.wostreaming.net/direct/alphacorporate-klllfmaac-ibc4
 #EXTINF:0,KLMB 88.1 FM
@@ -3305,8 +3301,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KORQFM_SC.aac
 https://us2.maindigitalstream.com/ssl/WKGA
 #EXTINF:0,WKHX - Kicks 101.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKHXFM.mp3
-#EXTINF:0,WKID Froggy 95.9
-http://froggystream.ddns.net:8001/stream
 #EXTINF:0,WKIK Country 102.9 FM
 http://www.streamvortex.com:11020/live
 #EXTINF:0,WKIS - Kiss Country 99.9 FM
@@ -3425,6 +3419,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLXXFMAAC_SC
 #EXTINF:0,WLYP - 100.9 FM
 https://toombsnow.biz/downloads/meredithoctober182011.mp3
+#EXTINF:0,WMCT 1390 AM
+https://crystalout.surfernetwork.com:8001/WMCT-AM_MP3
 #EXTINF:0,WMDH-FM Nash FM 102.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMDHFMAAC_SC
 #EXTINF:0,WMDJ 100.1 FM
@@ -3805,3 +3801,5 @@ https://stream.zeno.fm/smbyj6zbnigvv
 https://ip45.ip-164-132-158.eu/radio/8010/radio.mp3?1546659490
 #EXTINF:0,ZZCOUNTRY
 https://zzcountry.radioca.st/hits
+#EXTINF:0,ZZCOUNTRY
+https://streaming.shoutcast.com/zzcountry

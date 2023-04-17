@@ -3,13 +3,14 @@
 # k.deiss@it-userdesk.de
 # radio.net scraper
 
-# Basic version by  jungler
+# Basic version and idea by jungler
 # https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/scrape-radio.net-manual.sh
 
 # This version try to reduce traffic load to radio.net to a minimum
 
 # V.01.04.04.23 redesign
 # V.03.09.04.23 scrape_the_links2m3u - try to find unplausible linecounting
+# V.04.16.04.23 html output including url
 
 BASENAME="radio-net-scraper"
 
@@ -194,13 +195,23 @@ do
 	let mctr=$mctr+1
 	let absctr=$absctr+1
 
+	# isolate the json data (rst2)
 	rst2=`curl -s $j | grep "id=\"__NEXT_DATA__\""| awk -F '}},' '{print $1}'`
 	let CURLCTR=$CURLCTR+1
 	rst2=${rst2#*\{\"id\":}
 	rst2="{\"id\":${rst2}}}" 
-	echo $rst2 >> "AA$i"
+	echo "$rst2" >> "AA$i"
 
 
+	# retrieve url (rst)
+	rst=`echo $rst2 | jq '.streams' | jq '.[].url'`
+	# hack if there is more than one url
+	rst=`echo $rst|cut -f 1 -d " "`
+	# hack if link not properly quoted
+	rst=${rst//\"/}
+	rst="\"$rst\""
+
+	# build the data (bash readable) for the AAA$i file (rst3)
 	rst3="J_ID=`echo $rst2 | jq ".id"`"
 	J_NAME=`echo $rst2 | jq ".name"`
 	J_NAME=${J_NAME//\`/\\\\\\\`}
@@ -209,16 +220,19 @@ do
 	rst3="$rst3;J_LOGO1=`echo $rst2 | jq ".logo100x100"`"
 	rst3="$rst3;J_LOGO2=`echo $rst2 | jq ".logo175x175"`"
 	rst3="$rst3;J_LOGO3=`echo $rst2 | jq ".logo300x300"`"
+	rst3="$rst3;J_URL=$rst"
 	echo $rst3 >> "AAA$i"
 
-	# retrieve url
-	rst=`echo $rst2 | jq '.streams' | jq '.[].url'`
-	# hack if there is more than one url
-	rst=`echo $rst|cut -f 1 -d " "`
 
 	echo -e "[$absctr] $i - $j - $rst"
 	if [ -z "$rst" ];then
 	    echo "$EMPTYLINK" >> A$i
+	    
+	    # debug this problem
+	    echo "$EMPTYLINK in $j" >> $LOGDEB
+	    echo "$rst2" >> $LOGDEB
+	    echo "" >> $LOGDEB
+
 	    echo "$EMPTYLINK!"
 	else
 	    echo $rst >> A$i
@@ -445,6 +459,8 @@ if [ ! $? -eq 0 ] ; then
     echo "`date` INF (FETCHED: $CURLCTR) No change in $i" | tee -a $LOG
     sleep $SLEEPTIME
     return 1
+else
+    sleep 1
 fi
 echo "`date` INF (FETCHED: $CURLCTR) Scrap the links2m3u done!" | tee -a $LOG
 
@@ -453,8 +469,7 @@ WriteOutResult
 echo "`date` INF WriteOutResult done!" | tee -a $LOG
 
 create_html
-echo "`date` INF create html done!" | tee -a $LOG
-sleep 5
+echo "`date` INF Create html done!" | tee -a $LOG
 }
 
 
@@ -479,7 +494,7 @@ WriteOutResult
 echo "`date` INF WriteOutResult done!" | tee -a $LOG
 
 create_html
-echo "`date` INF create html done!" | tee -a $LOG
+echo "`date` INF Create html done!" | tee -a $LOG
 }
 
 
@@ -531,14 +546,19 @@ do
 	#<!--NAME_OF_STATION-->
 	#<!--URL_TO_STREAM-->
 
+	# clean up the strings
 	#echo "$J_NAME"
 	J_NAME=${J_NAME//\//\\/}
 	#echo "$J_NAME"
+
+	#echo "$J_URL"
+	J_URL=${J_URL//\//\\/}
+	#echo "$J_URL"
 	
 
 	sed -i -e "s/<!--TITLE-->/$J_ID/g" "$OUTDIR4HTML/$J_ID.html"
 	sed -i -e "s/<!--NAME_OF_STATION-->/$J_NAME/g" "$OUTDIR4HTML/$J_ID.html"
-	#sed -i -e "s/<!--URL_TO_STREAM-->/$J_NAME/g" "$OUTDIR4HTML/$J_ID.html"
+	sed -i -e "s/<!--URL_TO_STREAM-->/$J_URL/g" "$OUTDIR4HTML/$J_ID.html"
 
 	if [ $hctr -eq $stopline ];then
 	    echo $hctr
@@ -562,7 +582,7 @@ do
 	let hctr=$hctr+1
     done < $i
 done
-
+sleep 5
 echo "`date` INF $hctr html files written." | tee -a $LOG
 }
 

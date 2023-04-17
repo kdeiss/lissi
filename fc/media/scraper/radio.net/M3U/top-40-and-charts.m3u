@@ -817,8 +817,6 @@ http://ice.digitalradiohk.net:8000/drhk
 http://nr8.newradio.it:9024/stream
 #EXTINF:0,The Dinosaur 95.3 - 103.9 FM
 https://ice23.securenetsystems.net/WNDR
-#EXTINF:0,Discosuave
-http://149.56.147.197:9309/stream
 #EXTINF:0,RADIO DISCOunt
 https://rb.gy/sw6fox
 #EXTINF:0,Diva 91.6 FM
@@ -1633,8 +1631,6 @@ http://188.40.62.20:8004/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac
 #EXTINF:0,Radio Karnaval - Карнавал
 http://online.carnivalfm.ru:8000/stream/2/
-#EXTINF:0,Radio Karolina 106.3 FM
-https://peer.tdiradio.com/static/streaming-playlists/hls/f43b4b5e-7e2e-442d-85a0-4b38fd1c1be7/0.m3u8
 #EXTINF:0,KBEA - B100 Today's Best Music 99.7 FM
 http://stream.abacast.net/direct/townsquare-kbeafmaac-ibc3
 #EXTINF:0,KBEE - B 98.7 FM
@@ -1895,6 +1891,8 @@ https://stream.laut.fm/amcofmoriginal?ref=radiode
 https://stream.laut.fm/angel-family?ref=radiode
 #EXTINF:0,Angels Soundpalast
 https://stream.laut.fm/angels-soundpalast?ref=radiode
+#EXTINF:0,Antennefranken
+https://stream.laut.fm/antennefranken?ref=radiode
 #EXTINF:0,Antenne Live
 https://antenne21.stream.laut.fm/antenne21
 #EXTINF:0,Antenne Meitingen
@@ -2261,6 +2259,8 @@ https://stream.laut.fm/hitradio-austria?ref=radiode
 https://stream.laut.fm/hitradio-fresh?ref=radiode
 #EXTINF:0,Hitradio-Germany
 https://stream.laut.fm/hitradio-germany?ref=radiode
+#EXTINF:0,Hitradio Gnoien
+https://stream.laut.fm/hitradio-gnoien?ref=radiode
 #EXTINF:0,Hit Radio Halle
 https://stream.laut.fm/hit-radio-halle?ref=radiode
 #EXTINF:0,Hitradio Lausitz
@@ -2363,6 +2363,8 @@ https://stream.laut.fm/lifebrake?ref=radiode
 https://stream.laut.fm/lifetimeradio?ref=radiode
 #EXTINF:0,lightfm
 https://stream.laut.fm/lightfm?ref=radiode
+#EXTINF:0,Limit FM
+https://stream.laut.fm/limit-fm?ref=radiode
 #EXTINF:0,linefm
 https://stream.laut.fm/linefm?ref=radiode
 #EXTINF:0,linefmgaming
@@ -2709,6 +2711,8 @@ https://stream.laut.fm/samsons_fm?ref=radiode
 https://stream.laut.fm/sa-radio?ref=radiode
 #EXTINF:0,saschas-radio
 https://stream.laut.fm/saschas-radio?ref=radiode
+#EXTINF:0,Saturn
+https://stream.laut.fm/saturn?ref=radiode
 #EXTINF:0,schwabbelfm
 https://stream.laut.fm/schwabbelfm?ref=radiode
 #EXTINF:0,schwebigames11
@@ -2919,6 +2923,8 @@ https://stream.laut.fm/waveradio?ref=radiode
 https://stream.laut.fm/weakfm_chart?ref=radiode
 #EXTINF:0,weimarfm
 https://stream.laut.fm/weimarfm?ref=radiode
+#EXTINF:0,Weser
+https://stream.laut.fm/weser?ref=radiode
 #EXTINF:0,wobfm
 https://stream.laut.fm/wobfm?ref=radiode
 #EXTINF:0,Worldhits Radio
@@ -3071,6 +3077,8 @@ https://sonic.mediatelekom.net/9994/stream/;
 https://fred.torontocast.com:1365/stream
 #EXTINF:0,Massive Hits (East Midlands)
 https://stream.jtsmedia.uk/radio/8010/massivehitsem
+#EXTINF:0,MatMusic 
+https://mpc2.mediacp.eu/stream/matmusic
 #EXTINF:0,Rádio Matosinhos Online
 http://rs2.ptservidor.com:8035/live
 #EXTINF:0,MAXIMUM
@@ -3193,8 +3201,6 @@ https://livestream.mediaworks.nz/radio_origin/more_128kbps/master.m3u8
 https://tunein-icecast.mediaworks.nz/more_waikato_128kbps
 #EXTINF:0,More FM Wellington 95.3 FM
 https://tunein-icecast.mediaworks.nz/more_wlg_128kbps
-#EXTINF:0,Mp3Radio
-http://149.56.147.197:7000/stream/1/
 #EXTINF:0,M Radio Années 2000
 https://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3
 #EXTINF:0,M Radio Belgique
@@ -3508,7 +3514,7 @@ https://peacefm-atunwadigital.streamguys1.com/peacefm
 #EXTINF:0,Posto Emissor do Funchal Rádio 2
 http://centova.radios.pt:9426/stream/1/
 #EXTINF:0,Peilsender 
-https://rs20.stream24.net/peilsender.aac
+https://rs20.stream24.net/peilsender.mp3
 #EXTINF:0,Radio-Peinard Skyrock
 http://str2.creacast.com/radio_peinard
 #EXTINF:0,Radio Pescara
@@ -3817,6 +3823,8 @@ https://www.radiofoxgarden.de/listen.pls
 https://stream.radiogroup.de/radio-frankfurt/mp3-192/?ref=radiode
 #EXTINF:0,Rádio Freedom 
 https://stream1.svrdedicado.org/8030/stream
+#EXTINF:0,Radio Freja
+https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream
 #EXTINF:0,Radio FRESH
 https://fresh.volna.top/Fresh
 #EXTINF:0,Radio Frontinus
@@ -3837,10 +3845,14 @@ https://stream.lokalradio.nrw/44525hp
 https://stream.lokalradio.nrw/44525px
 #EXTINF:0,Radio-Herzbeat
 https://service-stream27.live/8008/stream
+#EXTINF:0,RadioHerzblut
+https://stream.laut.fm/radioherzblut?ref=radiode
 #EXTINF:0,Radio Impec
 https://evcast01.mediacp.eu/impec
 #EXTINF:0,Radio Impuls
 https://live.radio-impuls.ro/stream
+#EXTINF:0,Radio In 
+http://onair15.xdevel.com:7498/stream/1/
 #EXTINF:0,Radio International
 https://ice08.fluidstream.net/fluid813.mp3
 #EXTINF:0,Rádio Jovem Pan Serra Gaúcha
@@ -3849,6 +3861,8 @@ http://centova6.ciclanohost.com.br:9142/stream/1/
 http://streaming.radionomy.com/radioK-
 #EXTINF:0,Radio K4
 http://fm.radiokfor.com:8090/listen.pls
+#EXTINF:0,Radio Kiepenkerl
+https://addrad.io/4459kz4
 #EXTINF:0,Radio Kiepenkerl - Dein Top40 Radio
 https://stream.lokalradio.nrw/44524w6
 #EXTINF:0,Radio Kiss Kiss
@@ -3865,14 +3879,20 @@ https://mp3.rtvslo.si/rakp
 https://stream.lokalradio.nrw/44526w6
 #EXTINF:0,Radio Lanarkshire 
 http://curiosity.shoutca.st:9868/stream/1/
+#EXTINF:0,Radio Lausitz - Top Hits
+https://streams.bcs-systems.de/slp/tophits/lausitz/mp3/radio.de
 #EXTINF:0,Radio Leipzig - Top Hits
 https://streams.bcs-systems.de/slp/tophits/leipzig/mp3/radio.de
 #EXTINF:0,Radio Leverkusen - Dein Top40 Radio
 https://stream.lokalradio.nrw/44525zp
+#EXTINF:0,Radio Líder
+http://server9.20comunicacion.com:8200/live
 #EXTINF:0,kayseri radio life
 http://yayin2.canliyayin.org:8698/;
 #EXTINF:0,Radio Lina
 https://streaming.shoutcast.com/radiolina
+#EXTINF:0,Radio Line 99.1 FM
+https://online.radioline.fm:8443/stream
 #EXTINF:0,Radio Ludbreg
 https://chopin.bizmusic.net/listen/radio_ludbreg/live
 #EXTINF:0,Radio Maeva
@@ -3891,10 +3911,14 @@ http://centova.hostingfull.eu:5878/stream/1/
 http://stream.radiometro.ru:8230/;
 #EXTINF:0,Radio MFK
 https://stream1.radiomfk.dk/radiomfk
+#EXTINF:0,Radio MK - Dein Top40 Radio
+https://stream.lokalradio.nrw/445264j
 #EXTINF:0,RadioMonster.FM - Tophits
 https://tophits.radiomonster.fm/320.mp3
 #EXTINF:0,Radio Mood
 http://yayin.radiomoodtr.com:5862/stream/1/
+#EXTINF:0,Radio Mülheim - Dein Top40 Radio
+https://stream.lokalradio.nrw/445268p
 #EXTINF:0,RMV Radio Marne la Vallée
 https://rmv.amediacast.com/livehd
 #EXTINF:0,Radio Nano
@@ -4369,8 +4393,6 @@ https://stream.radiosochaczew.pl/stream/1/
 https://stream.liferadio.at/sonnleitner/aac-64/
 #EXTINF:0,SOULFULRADIO - House Music
 http://185.224.91.193:8000/stream/1/
-#EXTINF:0,Soundcity Radio 88.5
-https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmnrb
 #EXTINF:0,Soundcity Radio 91.1
 https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
 #EXTINF:0,Soundcity Radio 91.3
@@ -4589,8 +4611,6 @@ https://n01a-eu.rcs.revma.com/1xq5rye54k0uv
 https://pr1cen101.emisionlocal.com/proxy/trakfm?
 #EXTINF:0,Rádio Transamerica Hits 102.9 FM
 http://sl.dnip.com.br:9625/;
-#EXTINF:0,Transamérica Pop Salvador
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
 #EXTINF:0,Transamérica Pop Curitiba
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWBAAC_SC
 #EXTINF:0,Rádio Transamérica Pop (Recife)
@@ -4725,8 +4745,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WABDFM.mp3
 https://crystalout.surfernetwork.com:8001/WAYV_MP3
 #EXTINF:0,WakkerRadio
 http://caster04.streampakket.com:9192/stream/1/
-#EXTINF:0,WAVT-FM - T-102
-https://playerservices.streamtheworld.com/api/livestream-redirect/WAVTFMAAC.aac
 #EXTINF:0,WAZO - Z 107.5
 https://ais-sa8.cdnstream1.com/2753_64.aac
 #EXTINF:0,WBBM-FM B96 96.3 FM

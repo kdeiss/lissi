@@ -172,7 +172,7 @@ https://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 #EXTINF:0,A Haber Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 #EXTINF:0,AK WEB RADIO
-https://stream.zenolive.com/39at64c5gxquv.m3u
+https://stream.zenolive.com/39at64c5gxquv
 #EXTINF:0,Alba FM
 https://server6.hostradios.com/8040/stream
 #EXTINF:0,Radio Alborada 107.7 FM
@@ -461,8 +461,6 @@ https://stream.zeno.fm/nsh0yawtx7zuv.aac?rj-tok=AAABeq72wxwA_bXZpTl_BlIGmQ&rj-tt
 https://wecast-b01-03.flumotion.com/copesedes/jerez.mp3
 #EXTINF:0,Cadena COPE Lorca
 https://wecast-b03-03.flumotion.com/copesedes/lorca.mp3
-#EXTINF:0,Cadena COPE Pinares
-http://server9.emitironline.com:10928/;
 #EXTINF:0,Cadena COPE Pozoblanco
 https://srv7031.dns-lcinternet.com/8066/stream
 #EXTINF:0,Cadena COPE Ribadeo
@@ -689,8 +687,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TERUEL_SC
 https://srv7041.dns-lcinternet.com/8040/stream
 #EXTINF:0,Cadena SER Toledo
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TOLEDOAAC_SC
-#EXTINF:0,Cadena SER Torrelavega
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA_SC
 #EXTINF:0,Cadena SER Úbeda
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_UBEDAAAC_SC
 #EXTINF:0,Cadena SER Valdepeñas
@@ -717,8 +713,6 @@ https://cast4.audiostream.com.br:2654/mp3
 https://www.radioking.com/play/cairo-business-radio-cbr
 #EXTINF:0,FM Calden 92.5
 https://streaming.radiosenlinea.com.ar:10930/;
-#EXTINF:0,Calle Real Stereo Online
-http://148.72.152.177:8012/stream
 #EXTINF:0,Canal Ebro Radio
 http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 #EXTINF:0,Radio CANAL+HAITI
@@ -1285,6 +1279,8 @@ https://streamingecuador.net:7030/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,WUPR EXITOS 1530 AM
 https://exitos1530.radioca.st/stream
+#EXTINF:0,Express Radio 90.3 FM
+http://pollux.shoutca.st:9118/stream/1/
 #EXTINF:0,Fairchild Radio 88.9 FM
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 #EXTINF:0,Radio Falastini 
@@ -1923,8 +1919,8 @@ https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
 https://streamdb7web.securenetsystems.net/cirrusencore/index.cfm?stationCallSign=WGKL
 #EXTINF:0,KOOP 91.7 FM
 https://streaming.koop.org/stream.aac
-#EXTINF:0,KOOQ - ESPN 1410 AM
-https://ice10.securenetsystems.net/KOOQ
+#EXTINF:0,kooq
+
 #EXTINF:0,Kopitiam FM
 https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s2_14806_stream_951507876;stream.nsv;stream.nsv
 #EXTINF:0,KOZN - The Zone 1620 AM
@@ -1971,16 +1967,18 @@ http://TheBreeze.streamon.fm:8000/TheBreeze-24k.aac
 https://ic1.mainstreamnetwork.com/ksbn-am
 #EXTINF:0,KSCO AM 1080
 http://184.105.148.154:8000/live
+#EXTINF:0,KSEF-DB
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC365_SC
 #EXTINF:0,KSER - Independent Public Radio - 90.7 FM
 http://jade.streamguys1.com:4050/live
-#EXTINF:0,KSEV 700 AM
-https://prod-34-229-46-75.wostreaming.net/ksevradio-ksevamaac-hlsc1.m3u8/?
+#EXTINF:0,ksevtx
+
 #EXTINF:0,KSFC - Spokane Public Radio 91.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSFC_FM.mp3
 #EXTINF:0,KSFO - Hot Talk 560 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAM.mp3
-#EXTINF:0,KSJD - Your Dryland Community Radio
-https://war.streamguys1.com:8435/
+#EXTINF:0,ksjd
+
 #EXTINF:0,KSMX - KSMA News-Talk 1240 AM
 https://live.wostreaming.net/manifest/agmedia28-ksmaamaac-hlsc3.m3u8
 #EXTINF:0,KSOM 96.5 - All The Best Country
@@ -2055,6 +2053,8 @@ http://162.244.80.52:4614/stream/1/
 https://ice41.securenetsystems.net/KVWM
 #EXTINF:0,KWAM - The New Voice of Memphis 990 AM
 https://ice1.securenetsystems.net/DEMOSTN
+#EXTINF:0,KWBG 1590 AM
+https://ice23.securenetsystems.net/KWBG
 #EXTINF:0,KWEL 1070 AM
 https://ice9.securenetsystems.net/KWEL
 #EXTINF:0,KWMU
@@ -2827,8 +2827,6 @@ http://stream.rtv-apeldoorn.nl/live
 http://ca.rcast.net:8048/;stream.mp3
 #EXTINF:0,Rádio Arari FM
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
-#EXTINF:0,Rádio Assembleia Minas Gerais
-http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -4167,6 +4165,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLHHFMAAC.aac
 http://s8.yesstreaming.net:7014/stream
 #EXTINF:0,WLLF - Sports Radio 96.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLLFFM.mp3
+#EXTINF:0,WLOB News Talk
+https://ic1.mainstreamnetwork.com/wlob-am
 #EXTINF:0,WLOH - 1320 AM
 http://173.193.205.96:8142/;
 #EXTINF:0,WLPA - ESPN 1490 AM
