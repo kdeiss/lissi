@@ -45,7 +45,7 @@ let actr=0
 for dir in $(find . -mmin $AGE -type f -name "*.lastseen"); do
     if [ $ctr -lt $MAXDELETIONS ];then
 	echo "`date` INF $deleting old file $dir" | tee -a $LOG
-	rm -f "$dir"
+#	rm -f "$dir"
 	if [ $? -eq 0 ] ; then
 	    let ctr=$ctr+1
 	else

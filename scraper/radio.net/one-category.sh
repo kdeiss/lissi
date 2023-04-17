@@ -209,7 +209,6 @@ do
 	rst=`echo $rst|cut -f 1 -d " "`
 	# hack if link not properly quoted
 	rst=${rst//\"/}
-	rst="\"$rst\""
 
 	# build the data (bash readable) for the AAA$i file (rst3)
 	rst3="J_ID=`echo $rst2 | jq ".id"`"
@@ -220,7 +219,7 @@ do
 	rst3="$rst3;J_LOGO1=`echo $rst2 | jq ".logo100x100"`"
 	rst3="$rst3;J_LOGO2=`echo $rst2 | jq ".logo175x175"`"
 	rst3="$rst3;J_LOGO3=`echo $rst2 | jq ".logo300x300"`"
-	rst3="$rst3;J_URL=$rst"
+	rst3="$rst3;J_URL=\"$rst\""
 	echo $rst3 >> "AAA$i"
 
 
@@ -235,7 +234,7 @@ do
 
 	    echo "$EMPTYLINK!"
 	else
-	    echo $rst >> A$i
+	    echo "\"$rst\"" >> A$i
 	fi
     done
     echo "`date` INF Category in file $i processed $mctr pages scraped" | tee -a $LOG
