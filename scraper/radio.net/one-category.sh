@@ -38,6 +38,8 @@ let CURLCTR=0
 let SLEEPTIME=60
 
 OLD_REMOVER="$BASEPATH/rm-old.sh"
+UPLOADER_HTML="$BASEPATH/upload-html.sh"
+UPLOADER_M3U="$BASEPATH/upload-m3u.sh"
 
 
 if [ ! -z $1 ] ; then
@@ -279,7 +281,7 @@ export HOME
 
 git -C $GITPATH config -l
 git -C $GITPATH add .
-git -C $GITPATH commit -m "Autoupdate: `date +'%b/%d - %I:%M %p'`"
+git -C $GITPATH commit -m "Autoupdate: `date +'%d/%b/%Y - %H:%M %p'`"
 git -C $GITPATH push origin master
 }
 
@@ -418,7 +420,9 @@ do
 	rm -f $NULL
 	echo "`date` INF Git push" | tee -a $LOG
 	gitti-all &>>$LOG
-	echo "`date` INF finished all categories - exit now!" |tee -a $LOG
+	echo "`date` INF Uploading HTML files now!" |tee -a $LOG
+	$UPLOADER_HTML | tee -a $LOG
+	echo "`date` INF finished all categories - exit!" |tee -a $LOG
 	exit 0
     fi
 
@@ -435,6 +439,16 @@ do
 	echo "`date` INF Found semaphore - exit now!" |tee -a $LOG
 	exit 0
     fi
+
+    if [ -f $0.restart ] ; then
+	rm -f $0.restart
+	rm -f $NULL
+	echo "`date` INF Found restart semaphore - restarting now!" |tee -a $LOG
+	$0 &
+	exit 0
+    fi
+
+
 done
 }
 
@@ -469,6 +483,8 @@ echo "`date` INF WriteOutResult done!" | tee -a $LOG
 
 create_html
 echo "`date` INF Create html done!" | tee -a $LOG
+
+$UPLOADER_M3U | tee -a $LOG
 }
 
 

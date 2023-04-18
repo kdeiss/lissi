@@ -501,8 +501,6 @@ https://ice55.securenetsystems.net/DASH45
 http://185.126.217.8:9358/stream/1/
 #EXTINF:0,Datça OnAir
 http://185.126.217.8:9358/;
-#EXTINF:0,davematthias
-
 #EXTINF:0,db962 Dance Radio
 http://stream.db962.nl:8030/stream/1/
 #EXTINF:0,DDHT Disco Dance House Trance
@@ -993,6 +991,8 @@ https://ml2.t4e.dj/houselovers.pls
 http://server3.radio-streams.net:8028/stream
 #EXTINF:0,Houselovers
 http://server3.radio-streams.net:8028/stream/1/
+#EXTINF:0,Housemasters Radio
+https://listen.housemasters-radio.com:8000/radio.mp3
 #EXTINF:0,House Music 1
 https://ais-sa2.cdnstream1.com/1669_128
 #EXTINF:0,HOUSE MUSIC RADIO
@@ -1489,6 +1489,8 @@ https://stream.laut.fm/mixclub-radio?ref=radiode
 https://stream.laut.fm/mixeusclub?ref=radiode
 #EXTINF:0,mlm
 https://stream.laut.fm/mlm?ref=radiode
+#EXTINF:0,mrchili
+https://stream.laut.fm/mr-chili?ref=radiode
 #EXTINF:0,MS HIT RADIO
 https://stream.laut.fm/mshit-radio?ref=radiode
 #EXTINF:0,musikmatch-live
@@ -1873,14 +1875,6 @@ http://muthafm2.out.airtime.pro:8000/muthafm2_b
 https://mlawrenc.radioca.st/;
 #EXTINF:0,MxRadio CLUB 
 https://icecast.pulsradio.com/mxHD.mp3
-#EXTINF:0,my105 AFROJACK 
-http://stream01.my105.ch/my105afrojack.mp3
-#EXTINF:0,my105 ALISON WONDERLAND
-http://stream01.my105.ch/my105alisonwonderland.mp3
-#EXTINF:0,my105 BLASTERJAXX
-http://stream01.my105.ch/my105blasterjaxx.mp3
-#EXTINF:0,my105 BOB SINCLAR
-http://stream01.my105.ch/my105bobsinclar.mp3
 #EXTINF:0,my105 Dance
 http://stream01.my105.ch/my105dance.mp3
 #EXTINF:0,my105 Deep
@@ -1893,18 +1887,8 @@ http://stream01.my105.ch/my105djradio.mp3
 http://stream01.my105.ch/my105house.mp3
 #EXTINF:0,my105 Jackpots Radio
 http://stream01.my105.ch/my105jackpotsradio.mp3
-#EXTINF:0,my105 MARTIN GARRIX
-http://stream01.my105.ch/my105martingarrix.mp3
 #EXTINF:0,my105 Nightbeats Deluxe
 http://stream01.my105.ch/my105nightbeatsdeluxe.mp3
-#EXTINF:0,my105 OLIVER HELDENS
-http://stream01.my105.ch/my105oliverheldens.mp3
-#EXTINF:0,my105 R3HAB
-http://stream01.my105.ch/my105r3hab.mp3
-#EXTINF:0,my105 ROBIN SCHULZ
-http://stream01.my105.ch/my105robinschulz.mp3
-#EXTINF:0,my105 SAM FELDT
-http://stream01.my105.ch/my105samfeldt.mp3
 #EXTINF:0,my105 ZEDS DEAD
 http://stream01.my105.ch/my105zedsdead.mp3
 #EXTINF:0,MyDoom-666
@@ -2289,8 +2273,6 @@ http://85.214.45.85:8000/;
 https://streamingv2.shoutcast.com/RADIOHOUSE1
 #EXTINF:0,Radio House
 https://s5.radio.co/s4c4efb12b/listen
-#EXTINF:0,radiohunterhitz
-
 #EXTINF:0,RadioIbiza FM
 https://stream.radiojar.com/kht3hhpmb
 #EXTINF:0,Radio Ibiza FM
@@ -2755,8 +2737,6 @@ https://eu2.fastcast4u.com/proxy/thegoosh?mp=%2F1
 https://eu2.fastcast4u.com/proxy/monohome?mp=%2F1
 #EXTINF:0,The One
 https://stream.radiojar.com/zr0p5eahqeruv
-#EXTINF:0,The Soul of Grenada
-http://tsogradio.out.airtime.pro:8000/tsogradio_a
 #EXTINF:0,The Sound of Freedom Radio
 https://ais-edge51-live365-dal02.cdnstream.com/a20528?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1659443607
 #EXTINF:0,The VIBE - Dancefloor Radio 
@@ -2793,6 +2773,8 @@ http://radio.networx-bg.com:8002/listen.pls
 https://traxx013.ice.infomaniak.ch/traxx013-low.mp3
 #EXTINF:0,Traxx.FM House
 https://traxx002.ice.infomaniak.ch/traxx002-low.mp3
+#EXTINF:0,truckersnl.com channel 1
+http://orion.shoutca.st:8079/;
 #EXTINF:0,Truehouse.net
 http://stream.truehouse.net:8000/house
 #EXTINF:0,The Sound Of New York City

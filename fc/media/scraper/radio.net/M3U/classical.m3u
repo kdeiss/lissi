@@ -1213,8 +1213,6 @@ https://icepool.silvacast.com/KLASSIK1.mp3
 http://icecast.err.ee:80/klassikaraadio.mp3
 #EXTINF:0,Klassik Radio Live
 https://live.streams.klassikradio.de/klassikradio-deutschland?aggregator=radiode
-#EXTINF:0,Klassik Radio Bach
-https://stream.klassikradio.de/purebach/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Barock
 https://stream.klassikradio.de/barock/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Beethoven
@@ -1239,8 +1237,6 @@ https://stream.klassikradio.de/filmklassiker/mp3-128/radiode/
 https://stream.klassikradio.de/furioso/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Piano New Classics
 https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/
-#EXTINF:0,Klassik Radio - Klangzauber für Kinder in Not
-https://stream.klassikradio.de/Klangzauber-fuer-Kinder-in-Not/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Klassik am Morgen
 https://stream.klassikradio.de/klassikammorgen/mp3-128/radiode/
 #EXTINF:0,Klassik für Kids
@@ -1267,14 +1263,10 @@ https://stream.klassikradio.de/opera/mp3-128/radiode/
 https://stream.klassikradio.de/piano/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Relax
 https://stream.klassikradio.de/relax/mp3-192/radiode
-#EXTINF:0,Klassik Radio Rock meets classic
-https://stream.klassikradio.de/rockclassic/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Schiller Berlin
 https://stream.klassikradio.de/schiller-berlin/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Schweiz
 https://live.streams.klassikradio.de/klassikradio-schweiz?aggregator=radiode
-#EXTINF:0,Klassik Radio Streaming Hits
-https://stream.klassikradio.de/serien/mp3-192/radiode
 #EXTINF:0,Klassik Radio Verdi
 https://stream.klassikradio.de/verdi/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Vitality
@@ -2313,6 +2305,8 @@ http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 https://fm939.wnyc.org/wnycfm-web
 #EXTINF:0,WOSE - WOSU 91.1 FM
 https://wosu.streamguys1.com/NPR_128
+#EXTINF:0,WOSP - Classics Network 91.5 FM
+https://wosu.streamguys1.com/Classical_128
 #EXTINF:0,WOSU Classical 101 FM
 https://wosu.streamguys1.com/Classical_128
 #EXTINF:0,WOTJ - Family Christian Radio 90.7 FM
@@ -2327,6 +2321,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 #EXTINF:0,WOXM Vermont Public Radio 89.1 FM
 http://vprclassical.streamguys.net/vprclassical64.mp3
+#EXTINF:0,WPBI - Classical South Florida 90.7 FM
+https://ycradio.stream.publicradio.org/ycradio.aac
 #EXTINF:0,WPLN News - Nashville Public Radio
 https://wpln.streamguys1.com/wplnfm.mp3
 #EXTINF:0,WPLN / WHRS / WTML Nashville News 90.3 / 91.7 / 91.5 FM
@@ -2375,8 +2371,6 @@ http://live.str3am.com:2380/troy1
 https://streams.wtju.net:8443/wtju-classical.mp3
 #EXTINF:0,ten23dajams
 http://server2.fleetradionetwork.com:7250/index.html?sid=1
-#EXTINF:0,WUFT-HD2 Classical
-https://ais-sa1.streamon.fm/7648_48k.aac
 #EXTINF:0,WUNY - WUNY 89.5 FM
 https://wcny-ice.streamguys1.com/classical-fm-hq
 #EXTINF:0,WUOL 90.5

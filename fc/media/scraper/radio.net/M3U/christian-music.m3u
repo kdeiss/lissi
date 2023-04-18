@@ -105,8 +105,6 @@ https://www.abidingradio.org/radio/seasonal
 https://www.abidingradio.org/radio/seasonal
 #EXTINF:0,Rádio TV ABM
 https://hts02.kshost.com.br:10280/live
-#EXTINF:0,Acontecer
-http://207.244.77.236:22853/;
 #EXTINF:0,Activa74
 https://stream-42.zeno.fm/k1untzw2km5tv?zs=7RUisatYQi6JjAOve4Ueug
 #EXTINF:0,Adonia-KidsRadio
@@ -275,6 +273,8 @@ http://dn10215.hostncast.net:8000/listen.mp3
 https://listen.shoutcast.com/bpnradiolive.m3u
 #EXTINF:0,Branch FM
 http://199.195.194.140:8387/stream/1/
+#EXTINF:0,Bright FM
+https://stream.bright.fm/proxy/bright1?mp=/bfm-mp3
 #EXTINF:0,Bright.FM Kids
 http://str1.hollanddata.eu:8030/stream/1/
 #EXTINF:0,Bright.FM Plus
@@ -1061,6 +1061,8 @@ https://ic1.christiannetcast.com/bottradio?
 http://mediaserver3.afa.net:8000/inspo.mp3
 #EXTINF:0,KARO - Air 1 Radio 98.7 FM
 http://mediaserver3.afa.net:8000/talkhigh.mp3
+#EXTINF:0,KARQ - Air1 89.5 FM
+https://cdn-emf-hls-a.streamguys1.com/seg001023-h128/i27cBJxBZbap-5847-11989.aac
 #EXTINF:0,KARR - Family Radio Network 1460 AM
 https://ais-sa3.cdnstream1.com/2641_64.aac
 #EXTINF:0,KASD 90.3 FM - American Family Radio
@@ -1547,6 +1549,8 @@ https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC
 #EXTINF:0,Positive KNNK
 https://positiveradio.stream.laut.fm/positiveradio
+#EXTINF:0,KNOG - Radio Manantial
+https://wrn.streamguys1.com/knog
 #EXTINF:0,KNVQ - Pilgrim Radio 90.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC.aac
 #EXTINF:0,KNWI - Life 107.1 FM 
@@ -2555,8 +2559,6 @@ http://stream.zenolive.com/c3xev5vg6heuv
 http://198.27.68.65:8787/stream/1/
 #EXTINF:0,RadioLaguerre
 https://stream.zeno.fm/ndqhuv7f5w6uv
-#EXTINF:0,RADIO LA LUZ
-http://radio.transmite.pe:9310/stream
 #EXTINF:0,Radio Lamies
 https://securestreams6.autopo.st:2370/stream
 #EXTINF:0,Radio La Puerta es Cristo
@@ -3867,6 +3869,8 @@ https://ice9.securenetsystems.net/WCPC
 http://media.fbcmi.com:8001/wcplfm.m3u
 #EXTINF:0,WCQR-FM - Faith Family Fun 88.3 FM
 https://positivealtradio.streamguys1.com/wcqrmp3
+#EXTINF:0,WCRF-FM - Moody Radio 103.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCRFFM.mp3
 #EXTINF:0,WCRG 90.7 - WGRC
 https://ice66.securenetsystems.net/WGRC
 #EXTINF:0,WCRH - The Compass 90.5 FM
@@ -4117,6 +4121,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WGNRFM.mp3
 https://primary.moodyradiostream.org/Network.mp3
 #EXTINF:0,WHPZ - Pulse FM 96.9 FM
 https://ice23.securenetsystems.net/WHPZ
+#EXTINF:0,WHVP - The Sound of Life 91.1 FM
+http://ice64.securenetsystems.net/WFGB
 #EXTINF:0,WHVT / WHVY CleanAir Radio FM 90.5 / 89.5
 http://shout2.brnstream.com:8004/stream/1/
 #EXTINF:0,WHWG-FM - The Gospel Opportunities Radio Network 89.9 FM
