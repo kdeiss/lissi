@@ -27,8 +27,8 @@ CUR_GENRES_POS_FNAME="./`basename $0`.pos"
 let CURLCTR=0
 let SLEEPTIME=180
 
-echo "67" >one-category.sh.pos
-rm -f AA-latin.lastseen
+echo "6" >one-category.sh.pos
+rm -f AA-tropical.lastseen
 ./one-category.sh 20
 
 rm -f $NULL

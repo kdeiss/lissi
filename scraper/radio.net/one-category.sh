@@ -11,6 +11,7 @@
 # V.01.04.04.23 redesign
 # V.03.09.04.23 scrape_the_links2m3u - try to find unplausible linecounting
 # V.04.16.04.23 html output including url
+# V.05.18.04.23 html bugfixing / adding rm-old / upload
 
 BASENAME="radio-net-scraper"
 
@@ -179,7 +180,7 @@ do
 	    ((diffc = $lseen-$actual))
 	    echo "`date` INF Status => lastseen:$lseen/actual:$actual/difference:$diffc" | tee -a $LOG
 	    if [ $diffc -gt 100 ];then
-		echo "`date` WAR unpausibe difference between ${i//.txt/.lastseen}($lseen) and ${i}(actual). Skip processing." | tee -a $LOG
+		echo "`date` WAR unplausibe difference between ${i//.txt/.lastseen}($lseen) and ${i}($actual). Skip processing." | tee -a $LOG
 		#return 1
 		let proflag=1
 		continue 
@@ -198,9 +199,9 @@ do
 	let absctr=$absctr+1
 
 	# isolate the json data (rst2)
-	rst2=`curl -s $j | grep "id=\"__NEXT_DATA__\""| awk -F '}},' '{print $1}'`
+	rst4=`curl -s $j | grep "id=\"__NEXT_DATA__\""| awk -F '}},' '{print $1}'`
 	let CURLCTR=$CURLCTR+1
-	rst2=${rst2#*\{\"id\":}
+	rst2=${rst4#*\{\"id\":}
 	rst2="{\"id\":${rst2}}}" 
 	echo "$rst2" >> "AA$i"
 
@@ -338,8 +339,13 @@ do
 		#this should set the vars defined in AAAAA-files
 		J_NAME=""
 		eval `sed -n "${ctr}p" $extfname`
+		fnamealready=`find -L $OUTDIR -name "$foutname.tmpl"`
 
-		fnamealready=`find $OUTDIR -name "$foutname.tmpl"`
+		echo "fnamealready:$fnamealready" >> $LOGDEB
+		echo "J_ID:$J_ID" >> $LOGDEB
+		echo "J_NAME:$J_NAME" >> $LOGDEB
+		echo "find $OUTDIR -name \"$foutname.tmpl\"" >> $LOGDEB
+		echo "" >> $LOGDEB
 
 		# no output if link is marked as empty
 		if [ " $fouturl" == " $EMPTYLINK" ] ;then
@@ -347,8 +353,8 @@ do
 		    continue
 		fi
 
-		# no output if this file exist alread in another category
-		if [ ! -z $fnamealready ] ;then
+		# no tmpl output if this file exist alread in another category
+		if [ ! -z "$fnamealready" ] ;then
 		    # no templatefile - we want only one file per station!!
 		    # echo "`date` WAR $i/$foutname already exists ($fnamealready)" | tee -a  $LOG
 		    # add to m3u file anyway
@@ -656,4 +662,4 @@ eval ${todo//.sh/-main}
 echo "`date` INF exit $0" | tee -a $LOG
 echo "" >> $LOG
 rm -f $NULL
-rm-old.sh
+
