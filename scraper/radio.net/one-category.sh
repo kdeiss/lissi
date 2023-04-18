@@ -230,7 +230,7 @@ do
 	    echo "$EMPTYLINK" >> A$i
 	    
 	    # debug this problem
-	    echo "$EMPTYLINK in $j" >> $LOGDEB
+	    echo "`date` $EMPTYLINK in $j" >> $LOGDEB
 	    echo "$rst2" >> $LOGDEB
 	    echo "" >> $LOGDEB
 
@@ -610,6 +610,11 @@ mv $LOG.3 $LOG.4 2>$NULL
 mv $LOG.2 $LOG.3 2>$NULL
 mv $LOG.1 $LOG.2 2>$NULL
 mv $LOG $LOG.1 2>$NULL
+
+mv $LOGDEB.2 $LOGDEB.3 2>$NULL
+mv $LOGDEB.1 $LOGDEB.2 2>$NULL
+mv $LOGDEB $LOGDEB.1 2>$NULL
+
 echo -n "" > $LOG
 }
 
