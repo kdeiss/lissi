@@ -151,6 +151,8 @@ http://euroticast5.euroti.com.br:8094/stream/1/
 https://ca6ssl.rcast.net/stream/64715.mp3
 #EXTINF:0,A-1\` Mix Radio
 https://listen.radionomy.com/a-1mixhdmobile
+#EXTINF:0,A-1 Adult FM 
+http://s1.a1radio.nl/proxy/a1radionl
 #EXTINF:0,Aalburg FM 2.0
 https://server-28.stream-server.nl:8808/stream
 #EXTINF:0,AAM Radio
@@ -627,8 +629,6 @@ http://88.198.175.30:5821/stream/1/
 https://usa10.fastcast4u.com/dragons
 #EXTINF:0,Dream Radio Spain
 https://solid24.streamupsolutions.com/proxy/bpndwtad?mp=/stream
-#EXTINF:0,Dream Stream radio Rotterdam
-https://sonic.magicdragon.nl/8042/stream
 #EXTINF:0,DRO79 Drolo Mix
 https://stream.zeno.fm/92y298fxy7zuv
 #EXTINF:0,Dusty Discs Radio
@@ -678,7 +678,7 @@ https://server.radiogs.net:7119/stream
 #EXTINF:0,Etoile-Radio
 http://91.121.59.45:8322/stream
 #EXTINF:0,Eurolatin Radio España
-https://topradio.one:8039/stream
+https://topradio.uno:8069/stream
 #EXTINF:0,Exclusively 70's
 https://streaming.exclusive.radio/er/70s/icecast.audio
 #EXTINF:0,Exclusively ABBA
@@ -715,8 +715,8 @@ https://fantasyradionew.radioca.st/stream/1/
 https://ssl.xcast.com.br:7132/;stream.nsv
 #EXTINF:0,FUEGO DE PASION TU Radio
 https://sp.tvcontrolcp.com/8010/stream
-#EXTINF:0,Feelgood Radio
-https://cc5.beheerstream.com/proxy/feelgoodmedia4?mp=/stream
+#EXTINF:0,Feel Good Radio
+https://cloud-faro.beheerstream.com/proxy/feelgood4?mp=/stream
 #EXTINF:0,Feelgood Channel
 https://radio.intergalactic.fm/1
 #EXTINF:0,Feelitradio UK
@@ -926,7 +926,7 @@ https://stream.zeno.fm/n5qq5qpv8k0uv
 #EXTINF:0,Ico Style Radio
 http://stream.stylefmtasik.com:9460/stream
 #EXTINF:0,i feel Radio
-https://live.ifeelradio.gr/proxy/ifeeldj
+https://live.ifeelradio.gr/proxy/ifeeldj?mp=/stream
 #EXTINF:0,Impact FM - Années 70 
 https://impactfmannees70.ice.infomaniak.ch/impactfmannees70-64.aac
 #EXTINF:0,INDÓMITA FM
@@ -1399,6 +1399,8 @@ https://sp131.priv-server.com/8012/stream
 http://78.129.185.81:20225/;
 #EXTINF:0,Mantis Hits Radio
 https://radio.onlineaudience.co.uk/proxy/mhrradio/stream
+#EXTINF:0,Mar FM
+http://ic.streann.com:8000/marfm
 #EXTINF:0,María Auxiliadora Radio 100.3 FM
 https://sonic.paulatina.co/7408/stream
 #EXTINF:0,Marina Rock Radio
@@ -2679,8 +2681,6 @@ https://stream.zeno.fm/vr23nup5ud0uv
 http://192.254.68.106:10097/stream/1/
 #EXTINF:0,websound radio uk
 https://s3.radio.co/sef550f8bc/listen
-#EXTINF:0,WELCOME RADIO 
-http://media2.streambrothers.com:8094/stream
 #EXTINF:0,West Norfolk Radio
 http://178.33.135.246:5930/stream
 #EXTINF:0,WFJA - CLASSIC HITS & OLDIES 105.5 FM
@@ -2696,7 +2696,7 @@ http://ais-edge07-live365-dal02.cdnstream.com/a58073
 #EXTINF:0,WIXY1260Online
 https://s9.voscast.com:9155/stream
 #EXTINF:0,WJKZ Jukebox Radio
-https://listen.radioking.com/radio/466001/stream/521480
+http://stream.radiojar.com/7h6fwkn7g6hvv.m3u
 #EXTINF:0,WJMF-LP The Bridge 87.7 FM
 https://ice-1.streamhoster.com/lv_wfs_043--broadcast1
 #EXTINF:0,WJMT - Bluejay 96.3

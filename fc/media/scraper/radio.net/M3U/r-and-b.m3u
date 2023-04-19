@@ -1018,11 +1018,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KTWVFM.mp3
 #EXTINF:0,KUAW
 https://c15.radioboss.fm:8219/stream
 #EXTINF:0,KUMU-FM - 94.7 KUMU
-https://pacificmedia.cdnstream1.com/2783_128.mp3
+https://pacificmedia.cdnstream1.com/2783_64.aac?
 #EXTINF:0,KVMA Magic 102.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFM_SC
 #EXTINF:0,KVSP Power 103.5 FM
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:0,KVXB Mediagroup Network
+https://stream.zeno.fm/4872m9xkxy8uv
 #EXTINF:0,KWQW 98.3 The Vibe
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC_SC
 #EXTINF:0,Kyob Radio 91.3 
@@ -1845,8 +1847,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC137_SC
 https://playoutonestreaming.com/proxy/sugar1?mp=%2Fstream
 #EXTINF:0,SunAlpes
 https://funalpesradio.ice.infomaniak.ch/funalpes.mp3
-#EXTINF:0,Super Soul Gold Radio
-http://cassini.shoutca.st:8277/
 #EXTINF:0,Super Throwback Party Radio
 http://hestia.cdnstream.com:80/1543_128
 #EXTINF:0,Supreme Clientele Radio
@@ -1915,6 +1915,8 @@ https://listen.openstream.co/7203/audio
 https://quincy.torontocast.com:1850/;?nocache=1637525557&type=http
 #EXTINF:0,thesoullounge
 https://streaming.live365.com/a38845
+#EXTINF:0,The Soul of Grenada
+http://tsogradio.out.airtime.pro:8000/tsogradio_a
 #EXTINF:0,The Sound of Soul
 https://streaming.live365.com/a53575
 #EXTINF:0,The Strobe Radio

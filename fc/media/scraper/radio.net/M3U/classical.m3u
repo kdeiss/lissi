@@ -757,8 +757,6 @@ https://streams.greenhost.nl:8006/vredenburg
 https://streams.greenhost.nl:8006/concertzenderlive
 #EXTINF:0,Radio Concierto
 https://radio02.ferozo.com/proxy/ra02001297?mp=/stream
-#EXTINF:0,Conjunto Country Radio
-https://ssl.shoutcaststreaming.us:8146/stream/1/
 #EXTINF:0,Contemporary Classical
 https://streaming.radio.co/sbbdfc8d3d/listen
 #EXTINF:0,CPR - Colorado Public Radio Classical
@@ -1213,6 +1211,8 @@ https://icepool.silvacast.com/KLASSIK1.mp3
 http://icecast.err.ee:80/klassikaraadio.mp3
 #EXTINF:0,Klassik Radio Live
 https://live.streams.klassikradio.de/klassikradio-deutschland?aggregator=radiode
+#EXTINF:0,Klassik Radio Bach
+https://stream.klassikradio.de/purebach/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Barock
 https://stream.klassikradio.de/barock/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Beethoven
@@ -1237,6 +1237,8 @@ https://stream.klassikradio.de/filmklassiker/mp3-128/radiode/
 https://stream.klassikradio.de/furioso/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Piano New Classics
 https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/
+#EXTINF:0,Klassik Radio - Klangzauber für Kinder in Not
+https://stream.klassikradio.de/Klangzauber-fuer-Kinder-in-Not/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Klassik am Morgen
 https://stream.klassikradio.de/klassikammorgen/mp3-128/radiode/
 #EXTINF:0,Klassik für Kids
@@ -1263,10 +1265,14 @@ https://stream.klassikradio.de/opera/mp3-128/radiode/
 https://stream.klassikradio.de/piano/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Relax
 https://stream.klassikradio.de/relax/mp3-192/radiode
+#EXTINF:0,Klassik Radio Rock meets classic
+https://stream.klassikradio.de/rockclassic/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Schiller Berlin
 https://stream.klassikradio.de/schiller-berlin/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Schweiz
 https://live.streams.klassikradio.de/klassikradio-schweiz?aggregator=radiode
+#EXTINF:0,Klassik Radio Streaming Hits
+https://stream.klassikradio.de/serien/mp3-192/radiode
 #EXTINF:0,Klassik Radio Verdi
 https://stream.klassikradio.de/verdi/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Vitality
@@ -1697,8 +1703,6 @@ http://91.90.255.85:8000/02
 https://live2.jupinfo.fr:8443/radioaccordeon
 #EXTINF:0,Radio Adventsat
 https://stream-52.zeno.fm/ag1weqyrcwzuv?zs=1kdxfbAsTXS6q_SnIi0cPg
-#EXTINF:0,Radio Albatros
-http://stream.inovacast.fr:7601/stream
 #EXTINF:0,Radio Allegria
 https://s2.yesstreaming.net:17050/stream
 #EXTINF:0,Radio American DJ 99.9 FM
@@ -2371,6 +2375,8 @@ http://live.str3am.com:2380/troy1
 https://streams.wtju.net:8443/wtju-classical.mp3
 #EXTINF:0,ten23dajams
 http://server2.fleetradionetwork.com:7250/index.html?sid=1
+#EXTINF:0,WUFT-HD2 Classical
+https://ais-sa1.streamon.fm/7648_48k.aac
 #EXTINF:0,WUNY - WUNY 89.5 FM
 https://wcny-ice.streamguys1.com/classical-fm-hq
 #EXTINF:0,WUOL 90.5
