@@ -36,11 +36,14 @@ EMPTYLINK="NO_RESULT"
 
 CUR_GENRES_POS_FNAME="./`basename $0`.pos"
 let CURLCTR=0
-let SLEEPTIME=60
 
 OLD_REMOVER="$BASEPATH/rm-old.sh"
 UPLOADER_HTML="$BASEPATH/upload-html.sh"
 UPLOADER_M3U="$BASEPATH/upload-m3u.sh"
+
+# edit if necessary
+let SLEEPTIME=60
+let DIFF_PLAUSI=150
 
 
 if [ ! -z $1 ] ; then
@@ -179,7 +182,7 @@ do
 	    actual=`wc -l $i | cut -f 1 -d " "`
 	    ((diffc = $lseen-$actual))
 	    echo "`date` INF Status => lastseen:$lseen/actual:$actual/difference:$diffc" | tee -a $LOG
-	    if [ $diffc -gt 100 ];then
+	    if [ $diffc -gt $DIFF_PLAUSI ];then
 		echo "`date` WAR unplausibe difference between ${i//.txt/.lastseen}($lseen) and ${i}($actual). Skip processing." | tee -a $LOG
 		#return 1
 		let proflag=1
@@ -341,11 +344,11 @@ do
 		eval `sed -n "${ctr}p" $extfname`
 		fnamealready=`find -L $OUTDIR -name "$foutname.tmpl"`
 
-		echo "fnamealready:$fnamealready" >> $LOGDEB
-		echo "J_ID:$J_ID" >> $LOGDEB
-		echo "J_NAME:$J_NAME" >> $LOGDEB
-		echo "find $OUTDIR -name \"$foutname.tmpl\"" >> $LOGDEB
-		echo "" >> $LOGDEB
+#		echo "fnamealready:$fnamealready" >> $LOGDEB
+#		echo "J_ID:$J_ID" >> $LOGDEB
+#		echo "J_NAME:$J_NAME" >> $LOGDEB
+#		echo "find $OUTDIR -name \"$foutname.tmpl\"" >> $LOGDEB
+#		echo "" >> $LOGDEB
 
 		# no output if link is marked as empty
 		if [ " $fouturl" == " $EMPTYLINK" ] ;then
