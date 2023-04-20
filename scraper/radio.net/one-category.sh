@@ -30,6 +30,7 @@ NULL=./null
 OUTDIR="RadioLib"
 OUTDIR4HTML="html"
 M3UDIR="m3u"
+OLDDATA="olddata"
 
 HTMLQ="/root/.cargo/bin/htmlq"
 EMPTYLINK="NO_RESULT"
@@ -51,6 +52,7 @@ if [ ! -z $1 ] ; then
 fi
 
 cd $BASEPATH
+
 
 function scrape_the_links
 {
@@ -79,11 +81,20 @@ let CURLCTR=$CURLCTR+1
 function clean_up
 {
 # clean up trash
-rm -f A-*.txt
-rm -f AA-*.txt
-rm -f AAA-*.txt
-rm -f AAAA-*.txt
-rm -f AAAAA-*.txt
+#rm -f A-*.txt
+#rm -f AA-*.txt
+#rm -f AAA-*.txt
+#rm -f AAAA-*.txt
+#rm -f AAAAA-*.txt
+
+mkdir $OLDDATA 2>$NULL
+#instead of deleting move it to olddata folder
+mv A-*.txt $OLDDATA
+mv AA-*.txt $OLDDATA
+mv AAA-*.txt $OLDDATA
+mv AAAA-*.txt $OLDDATA
+mv AAAAA-*.txt $OLDDATA
+
 rm -f $NULL
 rm -f *.txt.tmp
 }
@@ -195,6 +206,7 @@ do
     rm -f A$i
     rm -f AA$i
     rm -f AAA$i
+
     let mctr=0
     for j in $(cat $i)
     do 
