@@ -123,8 +123,22 @@ https://stream.antenne.com/schlager/mp3-128/radiode/
 https://stream.antenne.com/schuetzenfest/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Schlager Radio
 https://stream.antenneniederrhein.de/44523fx
+#EXTINF:0,ANTENNE NRW Bella Italia
+https://stream.antenne.de/antenne-nrw-bella-italia/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,ANTENNE PEGNITZ
 https://stream.laut.fm/antenne-pegnitz?ref=radiode
+#EXTINF:0,ANTENNE SACHSEN - Region Dresden
+https://web.radio.antennesachsen.de/antsa-dresden?aggregator=radiode
+#EXTINF:0,ANTENNE SACHSEN - Region Chemnitz
+https://web.radio.antennesachsen.de/antsa-chemnitz?aggregator=radiode
+#EXTINF:0,ANTENNE SACHSEN - Region Lausitz
+https://web.radio.antennesachsen.de/antsa-lausitz?aggregator=radiode
+#EXTINF:0,ANTENNE SACHSEN - Region Leipzig
+https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3?aggregator=radiode
+#EXTINF:0,ANTENNE SACHSEN - Livestream
+https://web.radio.antennesachsen.de/antsa-sachsen?aggregator=radiode
+#EXTINF:0,ANTENNE SACHSEN - Region Vogtland
+https://web.radio.antennesachsen.de/antsa-vogtland?aggregator=radiode
 #EXTINF:0,ANTENNE BAYERN - Schlagersahne
 https://stream.antenne.de/das-schlager-karussell/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Antenne Unna - Dein Schlager Radio
@@ -1347,8 +1361,6 @@ https://stream.laut.fm/radio-oderspree?ref=radiode
 https://stream.laut.fm/radio-olbersdorf?ref=radiode
 #EXTINF:0,Radio Ostheim
 https://stream.laut.fm/radio_ostheim?ref=radiode
-#EXTINF:0,radio-ostrock
-https://stream.laut.fm/radio-ostrock?ref=radiode
 #EXTINF:0,Radio Oxnfurt
 https://stream.laut.fm/radio-oxnfurt?ref=radiode
 #EXTINF:0,Radiop 24
@@ -1641,8 +1653,6 @@ https://stream.laut.fm/schlagerrallyefm?ref=radiode
 https://stream.laut.fm/schlagerschweinchen?ref=radiode
 #EXTINF:0,Schlagerstar
 https://stream.laut.fm/schlagerstar?ref=radiode
-#EXTINF:0,schlagerstar24
-https://stream.laut.fm/schlagerstar24?ref=radiode
 #EXTINF:0,Schlagerstarmagazin Radio
 https://stream.laut.fm/schlagerstarmagazin-radio?ref=radiode
 #EXTINF:0,schlagerstern-radio
@@ -1979,6 +1989,8 @@ http://rs2.easytron24.net:21036/stream/1/
 http://server28600.streamplus.de:11032/stream/1/
 #EXTINF:0,Radio Ö24 Steiermark
 http://streamplus14.leonex.de:24954/;
+#EXTINF:0,Oldie ANTENNE Bella Italia
+https://stream.oldie-antenne.de/oldie-antenne-bella-italia/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Oldieclubradio
 https://server35425.streamplus.de/stream.mp3
 #EXTINF:0,Oldie Party Austria
@@ -2782,6 +2794,6 @@ http://mp3.wunschradio.de/wunschradio-schlager.mp3
 #EXTINF:0,Wuppertaler-Radio
 http://178.254.2.121:8010/stream/1/
 #EXTINF:0,ybbstaler-schlager-radio
-http://streampanel.m-hosting.eu:8100
+http://streampanel.m-hosting.eu:8100/stream/1/
 #EXTINF:0,Zappelkiste
 http://s5.stream-webradiotechnik.de:10250

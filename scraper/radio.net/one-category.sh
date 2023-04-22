@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # k.deiss@it-userdesk.de
 # radio.net scraper
 
@@ -12,11 +13,14 @@
 # V.03.09.04.23 scrape_the_links2m3u - try to find unplausible linecounting
 # V.04.16.04.23 html output including url
 # V.05.18.04.23 html bugfixing / adding rm-old / upload
+# V.06.21.04.23 cachemode
+
 
 BASENAME="radio-net-scraper"
 
 #BASEPATH=`pwd`
 BASEPATH="/opt/lissi/scraper/radio.net"
+#BASEPATH="/opt/temp"
 GITPATH="/opt/lissi/"
 
 BNVARIANT="$BASENAME"
@@ -27,25 +31,27 @@ TMPF="/tmp/${BNVARIANT}.tmp"
 TMPF1="/tmp/${BNVARIANT}1.tmp"
 TMPF2="/tmp/${BNVARIANT}2.tmp"
 NULL=./null
-OUTDIR="RadioLib"
-OUTDIR4HTML="html"
-M3UDIR="m3u"
-OLDDATA="olddata"
+OUTDIR="$BASEPATH/RadioLib"
+OUTDIR4HTML="$BASEPATH/html"
+M3UDIR="$BASEPATH/m3u"
+OLDDATA="$BASEPATH/olddata"
 
 HTMLQ="/root/.cargo/bin/htmlq"
 EMPTYLINK="NO_RESULT"
 
 CUR_GENRES_POS_FNAME="./`basename $0`.pos"
 let CURLCTR=0
+let CURLSIZE=0
 
+# external scripts
 OLD_REMOVER="$BASEPATH/rm-old.sh"
 UPLOADER_HTML="$BASEPATH/upload-html.sh"
 UPLOADER_M3U="$BASEPATH/upload-m3u.sh"
 
 # edit if necessary
-let SLEEPTIME=60
+let SLEEPTIME=20
 let DIFF_PLAUSI=150
-
+let CACHEMODE=1
 
 if [ ! -z $1 ] ; then
     let SLEEPTIME=$1
@@ -89,14 +95,14 @@ function clean_up
 
 mkdir $OLDDATA 2>$NULL
 #instead of deleting move it to olddata folder
-mv A-*.txt $OLDDATA
-mv AA-*.txt $OLDDATA
-mv AAA-*.txt $OLDDATA
-mv AAAA-*.txt $OLDDATA
-mv AAAAA-*.txt $OLDDATA
+mv A-*.txt $OLDDATA 2>$NULL
+mv AA-*.txt $OLDDATA 2>$NULL
+mv AAA-*.txt $OLDDATA 2>$NULL
+mv AAAA-*.txt $OLDDATA 2>$NULL
+mv AAAAA-*.txt $OLDDATA 2>$NULL
 
-rm -f $NULL
-rm -f *.txt.tmp
+rm -f $NULL 2>$NULL
+rm -f *.txt.tmp 2>$NULL
 }
 
 
@@ -113,7 +119,8 @@ function get_the_links_for_the_webpages
 {
 # get the links for the webpages
 #for i in "" \?p={2..25}
-for i in "" {2..50}
+#for i in "" {2..500}
+for i in "" {2..500}
 do 
     for j in $(cat genres.txt) 
     do
@@ -175,6 +182,8 @@ function scrape_the_links2m3u
 let absctr=0
 let proflag=0
 let catctr=0
+mkdir "$OLDDATA/html" 2> $NULL
+
 for i in AA-*.txt 
 do 
     let catctr=$catctr+1
@@ -193,9 +202,15 @@ do
 	    actual=`wc -l $i | cut -f 1 -d " "`
 	    ((diffc = $lseen-$actual))
 	    echo "`date` INF Status => lastseen:$lseen/actual:$actual/difference:$diffc" | tee -a $LOG
+	    
+	    if [ $actual -eq 0 ];then
+		echo "`date` WAR 0 entries in $i. Skip processing." | tee -a $LOG
+		let proflag=1
+		continue 
+	    fi
+
 	    if [ $diffc -gt $DIFF_PLAUSI ];then
 		echo "`date` WAR unplausibe difference between ${i//.txt/.lastseen}($lseen) and ${i}($actual). Skip processing." | tee -a $LOG
-		#return 1
 		let proflag=1
 		continue 
 	    fi
@@ -208,28 +223,86 @@ do
     rm -f AAA$i
 
     let mctr=0
+    # j is one line like https://www.radio.net/s/1fmamsterdamtrance (= one radio station)
     for j in $(cat $i)
     do 
 	let mctr=$mctr+1
 	let absctr=$absctr+1
 
 	# isolate the json data (rst2)
-	rst4=`curl -s $j | grep "id=\"__NEXT_DATA__\""| awk -F '}},' '{print $1}'`
-	let CURLCTR=$CURLCTR+1
+	if [ $CACHEMODE -eq 0 ];then
+	    rst4=`curl -s $j | grep "id=\"__NEXT_DATA__\""| awk -F '}},' '{print $1}'`
+	else
+	    stationid=`basename $j`
+	    #echo "stationid $stationid / find $OLDDATA/html -newermt '-2880 minutes' -name $stationid.html 2>$NULL"
+	    html_already_exist=`find $OLDDATA/html -newermt '-2 days' -name $stationid.html 2>$NULL`
+	    if [ ! -z "$html_already_exist" ];then
+		echo "SKIP FILE $OLDDATA/html/$stationid.html - using cache" 
+	    else
+		# we fetch only if file in cache is older than 2880 minutes (2 days)
+		echo "FETCHING DATA AND SAVE TO $OLDDATA/html/$stationid.html"
+		#curl -s $j > "$OLDDATA/html/$stationid.html"
+		curl -s $j > "$OLDDATA/html/html_temp.html"
+		let CURLCTR=$CURLCTR+1
+		fsize=`stat --printf="%s" "$OLDDATA/html/html_temp.html"`
+		let CURLSIZE=$CURLSIZE+$fsize
+
+		if [ $fsize -lt 10000 ] ;then
+		    # we expect a file greater than this - everything else something went wrong
+		    # cloudflare sometimes needs a small break! So give it second chance
+		    sleep 15
+		    curl -s $j > "$OLDDATA/html/html_temp.html"
+		    let CURLCTR=$CURLCTR+1
+		    fsize=`stat --printf="%s" "$OLDDATA/html/html_temp.html"`
+		    let CURLSIZE=$CURLSIZE+$fsize
+		fi
+
+		if [ $fsize -gt 10000 ] ;then
+		    # we expect a file greater than this - everything else something went wrong
+		    mv "$OLDDATA/html/html_temp.html" "$OLDDATA/html/$stationid.html"
+		else    
+		    echo "`date` WAR curl failed for $stationid" | tee -a $LOG
+		    if [ ! -f "$OLDDATA/html/$stationid.html" ];then
+			# we have to break curl failed and also no old cached file
+			mv "$OLDDATA/html/html_temp.html" "$OLDDATA/html/$stationid.html"
+			echo "$EMPTYLINK" >> A$i
+			continue
+		    else
+		        fsize=`stat --printf="%s" "$OLDDATA/html/$stationid.html"`
+			if [ $fsize -gt 10000 ] ;then
+			    echo "`date` WAR Using cached file for $stationid even is elder than defined" | tee -a $LOG
+			else
+			    echo "`date` WAR no valid cache file for $stationid" | tee -a $LOG
+			    echo "$EMPTYLINK" >> A$i
+			    continue
+			fi
+		    fi
+		fi
+	    fi
+	    rst4=`cat "$OLDDATA/html/$stationid.html" | grep "id=\"__NEXT_DATA__\""| awk -F '}},' '{print $1}'`
+	fi
+
+	# find useable json data inside html (= rst2)
 	rst2=${rst4#*\{\"id\":}
 	rst2="{\"id\":${rst2}}}" 
+	# save json data to file
 	echo "$rst2" >> "AA$i"
 
-
-	# retrieve url (rst)
+	# retrieve url (= rst)
 	rst=`echo $rst2 | jq '.streams' | jq '.[].url'`
 	# hack if there is more than one url
 	rst=`echo $rst|cut -f 1 -d " "`
 	# hack if link not properly quoted
 	rst=${rst//\"/}
 
-	# build the data (bash readable) for the AAA$i file (rst3)
-	rst3="J_ID=`echo $rst2 | jq ".id"`"
+	# build the data (bash readable) for the AAA$i file (= rst3)
+	J_ID=`echo $rst2 | jq ".id"`
+	if [ ! " $J_ID" == " \"$stationid\"" ];then
+	    echo "`date` WAR Inconsistent data in $J_ID ==  $stationid" | tee -a $LOG
+	fi
+
+	rst3="J_ID=$J_ID"
+
 	J_NAME=`echo $rst2 | jq ".name"`
 	J_NAME=${J_NAME//\`/\\\\\\\`}
 
@@ -494,9 +567,9 @@ if [ ! $? -eq 0 ] ; then
     sleep $SLEEPTIME
     return 1
 else
-    sleep 1
+    sleep 3
 fi
-echo "`date` INF (FETCHED: $CURLCTR) Scrap the links2m3u done!" | tee -a $LOG
+echo "`date` INF (FETCHED: $CURLCTR / SIZE: $CURLSIZE) Scrap the links2m3u done!" | tee -a $LOG
 
 # from here on offline processing
 WriteOutResult
@@ -636,7 +709,7 @@ mv $LOGDEB.2 $LOGDEB.3 2>$NULL
 mv $LOGDEB.1 $LOGDEB.2 2>$NULL
 mv $LOGDEB $LOGDEB.1 2>$NULL
 
-echo -n "" > $LOG
+echo "`date` INF startup $0" | tee -a $LOG
 }
 
 
@@ -661,6 +734,42 @@ do_all_categories
 function gitti-all-main
 {
 gitti-all
+exit 0
+}
+
+
+# just look that we can run script without syntax error
+function check_syntax-main
+{
+
+echo "BASEPATH $BASEPATH"
+echo "GITPATH $GITPATH"
+echo "BNVARIANT $BNVARIANT"
+
+echo "LOG $LOG"
+echo "LOGDEB $LOGDEB"
+echo "OUTDIR $OUTDIR"
+echo "OUTDIR4HTML $OUTDIR4HTML"
+echo "M3UDIR $M3UDIR"
+echo "OLDDATA $OLDDATA"
+
+echo "HTMLQ $HTMLQ"
+echo "EMPTYLINK $EMPTYLINK"
+
+CUR_GENRES_POS_FNAME="one-category.sh.pos"
+echo "CUR_GENRES_POS_FNAME $CUR_GENRES_POS_FNAME `cat $CUR_GENRES_POS_FNAME`" 
+
+echo "OLD_REMOVER $OLD_REMOVER"
+echo "UPLOADER_HTML $UPLOADER_HTML"
+echo "UPLOADER_M3U $UPLOADER_M3U"
+
+
+echo "SLEEPTIME $SLEEPTIME"
+echo "DIFF_PLAUSI $DIFF_PLAUSI"
+echo "CACHEMODE $CACHEMODE"
+
+
+exit 0
 }
 
 
@@ -669,7 +778,7 @@ gitti-all
 ##############################################################
 
 
-echo "`date` INF startup $0" | tee -a $LOG
+
 
 todo=`basename $0`
 eval ${todo//.sh/-main}

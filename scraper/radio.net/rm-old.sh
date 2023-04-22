@@ -30,12 +30,12 @@ AGE="+2880"
 AGE="+4320"
 AGE="+5760"
 
-let MAXDELETIONS=10
+
 
 function rmold-lastseen()
 {
 echo "`find . -type f |grep ".lastseen" |wc -l` lastseen files total." | tee -a $LOG
-
+let MAXDELETIONS=10
 OIFS="$IFS"
 IFS=$'\n'
 let ctr=0
@@ -44,7 +44,7 @@ let actr=0
 # delete files older than defined
 for dir in $(find . -mmin $AGE -type f -name "*.lastseen"); do
     if [ $ctr -lt $MAXDELETIONS ];then
-	echo "`date` INF $deleting old file $dir" | tee -a $LOG
+	echo "`date` INF deleting old .lastseen file $dir" | tee -a $LOG
 	rm -f "$dir"
 	if [ $? -eq 0 ] ; then
 	    let ctr=$ctr+1
@@ -54,7 +54,7 @@ for dir in $(find . -mmin $AGE -type f -name "*.lastseen"); do
     fi
 let actr=$actr+1
 done
-echo "`date` INF $ctr files with age $AGE removed (Total $actr)" | tee -a $LOG
+echo "`date` INF $ctr .lastseen files with age $AGE removed (Total $actr)" | tee -a $LOG
 IFS=$OIFS
 }
 
@@ -70,8 +70,8 @@ let actr=0
 
 # delete files older than defined
 for dir in $(find ./html -mmin $AGE -type f -name "*.html"); do
-	echo "deleting $dir"
-	#rm -f "$dir"
+	echo "`date` INF deleting old html file $dir" | tee -a $LOG
+	rm -f "$dir"
 	if [ $? -eq 0 ] ; then
 	    let ctr=$ctr+1
 	else
@@ -79,14 +79,14 @@ for dir in $(find ./html -mmin $AGE -type f -name "*.html"); do
 	fi
 	let actr=$actr+1
 done
-echo "`date` INF $ctr files with age $AGE removed (Total $actr)" | tee -a $LOG
+echo "`date` INF $ctr html files with age $AGE removed (Total $actr)" | tee -a $LOG
 IFS=$OIFS
 }
 
 echo "`date` INF startup $0" | tee -a $LOG
 cd $BASEPATH
 rmold-lastseen
-#rmold-html
+rmold-html
 echo "`date` INF exit $0" | tee -a $LOG
 echo "" >> $LOG
 rm -f $NULL

@@ -67,8 +67,6 @@ http://162.210.192.98:28537/;
 http://streaming.powerserve.com.au:8000/rhemafm
 #EXTINF:0,3TSC 89.9 The Light
 https://securestreams.autopo.st:1122/stream/1/
-#EXTINF:0,5RAM Life FM 107.9 FM
-http://public-radio1.internode.on.net:8002/21
 #EXTINF:0,7WAY - WAY FM 105.3 FM
 https://stream2.cnmns.net/wayfm-mp3
 #EXTINF:0,89.3 & 90.9 the River
@@ -349,6 +347,8 @@ https://chronicles.radioca.st/stream/1/
 https://stream.zeno.fm/mveu4mx8azzuv
 #EXTINF:0,Centro Cristiano Bogota
 https://stream.zeno.fm/b8cq8kmx5x8uv
+#EXTINF:0,Cfaith Radio
+https://cfaith.radioca.st/stream:80/;stream.mp3
 #EXTINF:0,CGCRadio.com
 http://listen.radionomy.com:80/cgcradiocom
 #EXTINF:0,Champion's Circle Radio
@@ -765,8 +765,6 @@ https://fxmasradio.radioca.st/stream
 http://cp12.shoutcheap.com:8064/stream
 #EXTINF:0,Freedom LoveZone Radio
 https://server.freedomflixtv.com:1125/stream
-#EXTINF:0,Frequency5FM - Voz de vida
-http://usa1.fastcast4u.com:5044/stream/1/
 #EXTINF:0,Fresh Radio by Hope 103.2
 https://stream.hopemedia.com.au/fresh
 #EXTINF:0,FRESH FIRE GOSPEL RADIO TT
@@ -1239,6 +1237,8 @@ https://ice7.securenetsystems.net/CSNAAC
 http://stval.stream.miriamtech.net:8000/live
 #EXTINF:0,KDKR
 http://www.kdkr.org/listen.pls
+#EXTINF:0,KDOV - The Dove 91.7 FM
+https://10gb1.tulix.tv/thenail.mp3
 #EXTINF:0,KDFR - Family Radio 91.3 FM
 https://ais-sa3.cdnstream1.com/2641_64.aac
 #EXTINF:0,KDRY Christian AM 1100
@@ -2243,8 +2243,6 @@ https://audio-edge-3mayu.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
 http://stream-44.zeno.fm/09pfmawhdv8uv?zs=l0SW-XtHR0eCdcwRMNLeuw
 #EXTINF:0,Radio Bendicion
 https://stream.zeno.fm/e65tnwxf938uv
-#EXTINF:0,Radio Bendición
-https://cdn.instream.audio/:9165/stream
 #EXTINF:0,Radio Bendición de Dios
 http://stream.zeno.fm/xbby2snkjnhtv
 #EXTINF:0,Radio Bendicion FM
@@ -2491,6 +2489,8 @@ https://stream.zeno.fm/w0cyqt4cyy8uv
 https://panel.lifestreammedia.net:8076/stream
 #EXTINF:0,Radio Generation70
 https://stream.zeno.fm/tmfxy90t6s8uv
+#EXTINF:0,rádio gêneses
+https://player.rbcast.com/proxy/6900
 #EXTINF:0,Radio Génesis Jacaltenango
 http://streaming.morfosisdigital.com:8033/live
 #EXTINF:0,Radio Genesis Panama Online
@@ -3333,8 +3333,6 @@ https://caikron.com.br:8060/stream
 http://www.redeimaculada945fm.ddns.com.br:8010/;stream.mp3
 #EXTINF:0,REDE VERTICAL
 https://centova2.euroti.com.br:20028/live
-#EXTINF:0,RefNet
-http://icecast.refnet.fm:8000/utc/-0400
 #EXTINF:0,Reformatorische Omroep - Radio 1
 https://radio1.reformatorischeomroep.nl/live.m3u
 #EXTINF:0,Reformatorische Omroep - Radio 2
@@ -3455,8 +3453,6 @@ https://ssl.conectastreaming.com:8088/stream/1/
 http://stm3.mfmedios.info:8337/stream/1/
 #EXTINF:0,Serene
 https://ic2.christiannetcast.com/serene
-#EXTINF:0,Rádio Serrana Brasil
-http://142.54.168.242:8835/stream/1/
 #EXTINF:0,Seven FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SEVENFM.mp3
 #EXTINF:0,Rádio Sintonia Gospel FM
@@ -3550,7 +3546,7 @@ http://online.szentistvanradio.hu:7000/adas
 #EXTINF:0,Tabernaculo Nueva Jerusalem
 https://stream.zeno.fm/wa17cv6ud48uv?rj-tok=AAABe4fMIKIAjmTezAmfRilC9Q&rj-ttl=5
 #EXTINF:0,Radio Tamaraceite 95.5 / 96.3 FM
-https://streaming.enantena.com:8000/radiotamaraceite128.mp3
+http://streaming.enantena.com:8000/radiotamaraceite128.mp3
 #EXTINF:0,TDF Radio
 https://play.tiemposdefe.cl/TDFTV/live/icecast.audio
 #EXTINF:0,Spirit of Truth Christian Tejano
@@ -3735,8 +3731,6 @@ http://mediaserver3.afa.net:8000/talkhigh.mp3
 https://ice6.securenetsystems.net/WAKU?
 #EXTINF:0,WAMP - American Family Radio 88.1 FM
 http://mediaserver3.afa.net:8000/talkhigh.mp3
-#EXTINF:0,WAOB-FM 106.7 - We Are One Body
-https://ice66.securenetsystems.net/WAOBET
 #EXTINF:0,WAOY - American Family Radio 91.7 FM
 http://mediaserver3.afa.net:8000/inspo.mp3
 #EXTINF:0,WAPD - AFR Inspirational 91.7 FM
@@ -4453,8 +4447,6 @@ http://covenantnet.stream.miriamtech.net:8000/stream
 https://primary.moodyradiostream.org/Network.mp3
 #EXTINF:0,WROL 950 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WROLAM.mp3
-#EXTINF:0,WRTK 90.5 The Key
-https://thekeyfm.com:8443/WRTW
 #EXTINF:0,WRXT - Spirit FM 90.3 FM
 https://positivealtradio.streamguys1.com/wrxtmp3
 #EXTINF:0,WRYT - Covenant Network 1080 AM

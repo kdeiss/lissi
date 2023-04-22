@@ -151,8 +151,6 @@ http://euroticast5.euroti.com.br:8094/stream/1/
 https://ca6ssl.rcast.net/stream/64715.mp3
 #EXTINF:0,A-1\` Mix Radio
 https://listen.radionomy.com/a-1mixhdmobile
-#EXTINF:0,A-1 Adult FM 
-http://s1.a1radio.nl/proxy/a1radionl
 #EXTINF:0,Aalburg FM 2.0
 https://server-28.stream-server.nl:8808/stream
 #EXTINF:0,AAM Radio
@@ -229,6 +227,8 @@ https://streams.antennemv.de/oldies/mp3-128/radiode/
 https://stream.antenne.com/70er/mp3-128/radiode/
 #EXTINF:0,ANTENNE NRW 70er Hits
 https://stream.antenne.de/antenne-nrw-70er-hits/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:0,ANTENNE NRW 70er Rock
+https://stream.antenne.de/antenne-nrw-70er-rock/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,OLDIE ANTENNE – Oldies but Goldies
 https://stream.oldie-antenne.de/oldie-antenne/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,ANTENNE VORARLBERG 70er Hits
@@ -418,7 +418,7 @@ https://ais-sa2.cdnstream1.com/1374_128
 #EXTINF:0,CarolinaFM
 https://turadio.accesopanel.com/8058/stream
 #EXTINF:0,Happy Radio Caroline 319 Gold
-https://happy.rcgoldserver.de:8319/stream/1/
+https://happy.radiocaroline319.nl:8430/radio320.mp3
 #EXTINF:0,Carousel 80s
 http://carouselradio.hopto.org:8000/;
 #EXTINF:0,Carousel FM
@@ -581,6 +581,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC392.mp
 http://s35.myradiostream.com:14472/listen.mp3
 #EXTINF:0,DEKADANCERADIO
 https://mediacp.supportinet.cl:8026/stream
+#EXTINF:0,DE LA COSTA RADIO
+https://01.solumedia.com.ar:8176/stream
 #EXTINF:0,DELTA+
 https://delta.ice.infomaniak.ch/delta-128.aac
 #EXTINF:0,Delta Radio Nijmegen
@@ -799,6 +801,8 @@ http://stream-51.zeno.fm/6v5negdtfy8uv?zs=Jq_GEDHwSdGeBSanbcgO2w
 http://radio.nordtelekom.hu:8000/gazdasagiradio
 #EXTINF:0,GDRADIO - Grateful Dead Radio
 http://108.163.245.230:8100/;
+#EXTINF:0,Geek Public Radio
+https://streaming.live365.com/a11381
 #EXTINF:0,Gem Radio Gold
 https://gemradio.radioca.st/stream/1/
 #EXTINF:0,Generations X
@@ -909,6 +913,8 @@ https://s2.mexside.net/8014/stream
 https://listen.radionomy.com/80-exits.m3u
 #EXTINF:0,Hotmixradio GOLDS
 https://streamingp.shoutcast.com/hotmixradio-golds-128.mp3
+#EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
+https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,Hit Radio FM 
 https://streaming.hitfm.rs/hit.mp3
 #EXTINF:0,Huella Musical
@@ -2293,8 +2299,6 @@ https://tolkien.republicahosting.net:1587/live
 https://streaming.live365.com/a12159
 #EXTINF:0,ROCK ANTENNE - 70er Rock
 https://stream.rockantenne.de/70er-rock/stream/mp3?aw_0_1st.playerid=radio.de
-#EXTINF:0,Rock Around the Ages
-https://s2.radio.co/s13b86ef0c/listen
 #EXTINF:0,Rock FM - 70s
 https://jfm1.hostingradio.ru:14536/rock70.mp3
 #EXTINF:0,Rockland Radio - Bad Kreuznach
@@ -2527,6 +2531,8 @@ https://securestreams.autopo.st:1197/stream/1/
 https://ice8.securenetsystems.net/ROOTS
 #EXTINF:0,The Roots HD
 https://ice6.securenetsystems.net/ROOTS2
+#EXTINF:0,The Shore 106.3
+https://ice7.securenetsystems.net/WJSE
 #EXTINF:0,thesoullounge
 https://streaming.live365.com/a38845
 #EXTINF:0,The Vinyl Generation
