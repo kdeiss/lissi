@@ -59,6 +59,8 @@ http://uk7.internet-radio.com:8168/stream/1/
 https://ssl.shoutcaststreaming.us:8014/;?
 #EXTINF:0,24.7 The Sail
 https://live365.com/station/24-7-The-Sail-a25504
+#EXTINF:0,2RES - Eastside 89.7 FM
+https://stream.eastsidefm.org/stream
 #EXTINF:0,2RRR
 https://playerservices.streamtheworld.com/api/livestream-redirect/2RRRAAC_SC
 #EXTINF:0,2WKT - Highland 107.1 FM
@@ -1073,8 +1075,6 @@ http://ice2.securenetsystems.net/JAZZVNU
 http://jazz.w3.at:8000/w3jazz.mp3
 #EXTINF:0,JFK Ibiza 105.2 FM
 https://stream.jfkradio.es/jfkibiza
-#EXTINF:0,JFM Radio
-http://s23.myradiostream.com:18134/listen.mp3
 #EXTINF:0,The Jazz Funk Soul Movement
 https://streaming.live365.com/a45909
 #EXTINF:0,Jl jeruk raya no 41 jagakarsa
@@ -1243,6 +1243,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC.aac
 https://audio-edge-qse4n.yyz.g.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
 #EXTINF:0,KHNY - Honey 103 
 http://honey.macchiatomedia.org:8080/stream/1/
+#EXTINF:0,KIFM Smooth Jazz HD2
+https://live.wostreaming.net/manifest/audacy-kxsnfmaac-hlsc.m3u8
 #EXTINF:0,KIHL 103.7 FM
 https://streaming.live365.com/a95022
 #EXTINF:0,KIOS Omaha Public Radio 91.5 FM
@@ -1849,6 +1851,8 @@ http://mmv-mediathek.de:8000/radio98eins
 http://91.90.255.85:8000/02
 #EXTINF:0,RadioActive1 WBOB
 https://streaming.live365.com/a53075
+#EXTINF:0,Radio Albatros
+http://stream.inovacast.fr:7601/stream
 #EXTINF:0,Radio Ambiance Fm 96.3
 https://stream.zeno.fm/asu3xn3bm0quv
 #EXTINF:0,Radio Art
@@ -2367,8 +2371,6 @@ https://listen.shoutcast.com/theurbanjazzcafe.m3u
 https://stream.thewaveradio.de/wave-live/mp3-128/RadioDE/
 #EXTINF:0,The Wave 94.7 (CIWV)
 https://playerservices.streamtheworld.com/api/livestream-redirect/CIWVFM_SC
-#EXTINF:0,This Is Radio! Europe
-http://stream.webradio.bz:8000/thisisradio1
 #EXTINF:0,Tilos Jazz Rádió
 http://stream.tilos.hu:8000/tilos
 #EXTINF:0,Tin Pan Alley Radio

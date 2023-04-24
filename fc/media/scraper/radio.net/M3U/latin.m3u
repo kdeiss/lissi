@@ -421,6 +421,8 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
+#EXTINF:0,costaradio
+http://109.169.76.104:23614/stream
 #EXTINF:0,C-Oye 89.1 FM Insuperable
 http://streamingned.com:7146/;
 #EXTINF:0,Crioula FM
@@ -455,8 +457,6 @@ http://163.172.77.142:8618/stream/1/
 http://emisiones.com.uy:8087/salto
 #EXTINF:0,CW33 La Nueva Radio 1200 AM
 https://streaming1.hostingmontevideo.com:7017/stream.mp3
-#EXTINF:0,CyberExitos
-https://usa18.fastcast4u.com/proxy/cyberexitos?mp=%2Fstream
 #EXTINF:0,CyberFM Latino
 https://streamer.cyberfmradio.com:1410/stream
 #EXTINF:0,Cyclone X Stereo
@@ -805,8 +805,6 @@ https://stream.zenolive.com/262ebxkq9eeuv
 https://stream.zeno.fm/262ebxkq9eeuv
 #EXTINF:0,FIESTA VALLENATA RADIO
 https://stream.zenolive.com/c9bc24nmp3quv
-#EXTINF:0,Fire 104.9 FM
-https://usa4.fastcast4u.com/proxy/qzxeehgd?mp=%2F1
 #EXTINF:0,FieraMIX La Mexicana
 https://c11.radioboss.fm:18212/stream
 #EXTINF:0,RadioArt: Flamenco
@@ -843,8 +841,6 @@ https://streaming.fmokey.cl/moviles.mp3
 https://streamlky.alsolnet.com:443/fmpasion
 #EXTINF:0,FM Popular 89.1
 https://stream2.cibersoft.com/radio/8220/radio.mp3
-#EXTINF:0,FM Soldados
-http://radio02.ferozo.com:8150/stream/1/
 #EXTINF:0,Radio La Tropicana 94.7 FM
 http://centova16.ciclanohost.com.br:9627/stream/1/
 #EXTINF:0,FM Uno 100.1
@@ -969,6 +965,10 @@ http://149.56.241.149:8076/stream/1/
 https://radio10.pro-fhi.net/radio/9057/stream.mp3
 #EXTINF:0,Hits 24/7
 https://stream.zeno.fm/hatz4hx8na0uv
+#EXTINF:0,HitTrAp Radio
+https://radio.hittrap.com:1025/;
+#EXTINF:0,HitTrAp Radio Old School
+https://radio.hittrap.com:1025/;?type=http&nocache=1674576151
 #EXTINF:0,Hk Latino Radio
 https://stream.zeno.fm/rvd3ef4x2tzuv
 #EXTINF:0,holaclavijo
@@ -1537,8 +1537,6 @@ https://stream-50.zeno.fm/pb0eq6jxjfwvv?zs=5TQ2IEwpQPiOSVx371tsiQ
 http://stream.latinofm.de/latinofm.mp3
 #EXTINF:0,Latino Hit Mix
 https://stream-30.zeno.fm/2yeqq4y7grquv?zs=29_NwxycT3i6WSdMqKh3aw
-#EXTINF:0,Latino MIx 97.5
-https://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream
 #EXTINF:0,Latino Mundial Radio
 http://64.20.39.8:8081/stream/1/
 #EXTINF:0,Latino Pop baladas 70s_80s_90s
@@ -2005,8 +2003,6 @@ https://stream.zeno.fm/ep5tz379ns8uv
 http://87.98.219.178:8516/stream/1/
 #EXTINF:0,Onda CW
 https://sonic.mediacp.eu/8042/stream
-#EXTINF:0,Onda Fuenlabrada
-http://radioserver7.profesionalhosting.com:41008/;stream.mp3
 #EXTINF:0,Onda Gran Canaria
 https://sp131.priv-server.com/8020/stream
 #EXTINF:0,Onda Levante FM
@@ -2311,8 +2307,6 @@ https://radios.sonidoshd.com/8078/stream
 http://streaming01.hstbr.net:8206/live
 #EXTINF:0,Radio Club Retro
 https://radio.tvstream.cl/8098/stream
-#EXTINF:0,Radio Comas FM
-http://65.60.2.26:8044/stream/1/
 #EXTINF:0,Radio Concierto Tenerife
 https://stream.zeno.fm/699kmn06py8uv
 #EXTINF:0,Radio Conecta2 Online
@@ -2403,6 +2397,8 @@ https://sonic.mistreamingtv.uno:7005/stream/1/
 http://audio2.tustreaming.cl:7010/stream
 #EXTINF:0,Rádio Freedom 
 https://stream1.svrdedicado.org/8030/stream
+#EXTINF:0,radiofusion1
+https://s01.digitalserver.org:9256/stream
 #EXTINF:0,Radio Gala Online
 https://streaming.radiosenlinea.com.ar:10913/stream/1/
 #EXTINF:0,Radio Gema 98.7 FM
@@ -2699,6 +2695,8 @@ http://66.113.177.13:8332/;
 https://stream.zenolive.com/4k7c15xun7zuv.aac
 #EXTINF:0,Rádio Toca a Dançar
 http://95.217.75.38:9974/;
+#EXTINF:0,Radio Top 103.7
+https://sonic.dattalive.com/8382/stream
 #EXTINF:0,Rádio Tropical 89.9 FM
 https://str1.streamhostpg.com.br:8068/stream
 #EXTINF:0,Radio Tropicalisima CR
@@ -3151,8 +3149,6 @@ https://radio35.virtualtronics.com:20072/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/XETKRAM.mp3
 #EXTINF:0,Tolima Radio
 https://stream.zeno.fm/4stp9x4wszzuv
-#EXTINF:0,TOP FM 101.5
-https://server6.globalhostla.com:9192/stream
 #EXTINF:0,Top Latina 101.7 FM
 https://radio3.domint.net:8094/stream
 #EXTINF:0,TOP latino
@@ -3205,8 +3201,6 @@ http://srv.webradiomanager.fr:1230/stream
 http://c17.radioboss.fm:8489/stream
 #EXTINF:0,Tropical FM Canada - AIR
 https://airradios.com:9119/;stream.mp3
-#EXTINF:0,Tropical Grupera
-https://server2.sit-mexico.com:2199/proxy/tropical?mp=/stream
 #EXTINF:0,Tropicalísima Bachata
 http://tropicalisima.net:8024/stream/1/
 #EXTINF:0,Tropicalísima Baladas

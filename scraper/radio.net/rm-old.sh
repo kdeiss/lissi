@@ -29,7 +29,7 @@ AGE="+720"
 AGE="+2880"
 AGE="+4320"
 AGE="+5760"
-
+HTMLAGE="+43200" 	# 30 days
 
 
 function rmold-lastseen()
@@ -69,7 +69,7 @@ let ctr=0
 let actr=0
 
 # delete files older than defined
-for dir in $(find ./html -mmin $AGE -type f -name "*.html"); do
+for dir in $(find ./html -mmin $HTMLAGE -type f -name "*.html"); do
 	echo "`date` INF deleting old html file $dir" | tee -a $LOG
 	rm -f "$dir"
 	if [ $? -eq 0 ] ; then
@@ -79,7 +79,7 @@ for dir in $(find ./html -mmin $AGE -type f -name "*.html"); do
 	fi
 	let actr=$actr+1
 done
-echo "`date` INF $ctr html files with age $AGE removed (Total $actr)" | tee -a $LOG
+echo "`date` INF $ctr html files with age $HTMLAGE removed (Total $actr)" | tee -a $LOG
 IFS=$OIFS
 }
 

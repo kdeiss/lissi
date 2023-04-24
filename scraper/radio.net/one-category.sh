@@ -14,6 +14,7 @@
 # V.04.16.04.23 html output including url
 # V.05.18.04.23 html bugfixing / adding rm-old / upload
 # V.06.21.04.23 cachemode
+# V.07.24.04.23 onebyone run in endless loop
 
 
 BASENAME="radio-net-scraper"
@@ -38,6 +39,7 @@ OLDDATA="$BASEPATH/olddata"
 
 HTMLQ="/root/.cargo/bin/htmlq"
 EMPTYLINK="NO_RESULT"
+CREATE_LASTSEEN=""
 
 CUR_GENRES_POS_FNAME="./`basename $0`.pos"
 let CURLCTR=0
@@ -47,6 +49,7 @@ let CURLSIZE=0
 OLD_REMOVER="$BASEPATH/rm-old.sh"
 UPLOADER_HTML="$BASEPATH/upload-html.sh"
 UPLOADER_M3U="$BASEPATH/upload-m3u.sh"
+STATISTICA="$BASEPATH/statistica.sh"
 
 # edit if necessary
 let SLEEPTIME=20
@@ -182,6 +185,8 @@ function scrape_the_links2m3u
 let absctr=0
 let proflag=0
 let catctr=0
+let cachectr=0
+
 mkdir "$OLDDATA/html" 2> $NULL
 
 for i in AA-*.txt 
@@ -217,17 +222,28 @@ do
 	fi
     fi
 
-    cp $i ${i//.txt/.lastseen}
+    #cp $i ${i//.txt/.lastseen}
+    CREATE_LASTSEEN="cp $i ${i//.txt/.lastseen}"
+
     rm -f A$i
     rm -f AA$i
     rm -f AAA$i
 
     let mctr=0
+    let cachectr=0
+    let statctr=0
+
     # j is one line like https://www.radio.net/s/1fmamsterdamtrance (= one radio station)
     for j in $(cat $i)
-    do 
+    do
 	let mctr=$mctr+1
 	let absctr=$absctr+1
+	let statctr=$statctr+1
+
+	if [ $statctr -gt 500 ] ; then
+	    let statctr=0
+	    echo "`date` INF $mctr pages scraped ($cachectr from cache)." | tee -a $LOG
+	fi
 
 	# isolate the json data (rst2)
 	if [ $CACHEMODE -eq 0 ];then
@@ -235,13 +251,13 @@ do
 	else
 	    stationid=`basename $j`
 	    #echo "stationid $stationid / find $OLDDATA/html -newermt '-2880 minutes' -name $stationid.html 2>$NULL"
-	    html_already_exist=`find $OLDDATA/html -newermt '-2 days' -name $stationid.html 2>$NULL`
+	    html_already_exist=`find $OLDDATA/html -newermt '-5 days' -name $stationid.html 2>$NULL`
 	    if [ ! -z "$html_already_exist" ];then
 		echo "SKIP FILE $OLDDATA/html/$stationid.html - using cache" 
+		let cachectr=$cachectr+1
 	    else
-		# we fetch only if file in cache is older than 2880 minutes (2 days)
+		# we fetch only if file in cache is older than x 2 days)
 		echo "FETCHING DATA AND SAVE TO $OLDDATA/html/$stationid.html"
-		#curl -s $j > "$OLDDATA/html/$stationid.html"
 		curl -s $j > "$OLDDATA/html/html_temp.html"
 		let CURLCTR=$CURLCTR+1
 		fsize=`stat --printf="%s" "$OLDDATA/html/html_temp.html"`
@@ -271,6 +287,7 @@ do
 		        fsize=`stat --printf="%s" "$OLDDATA/html/$stationid.html"`
 			if [ $fsize -gt 10000 ] ;then
 			    echo "`date` WAR Using cached file for $stationid even is elder than defined" | tee -a $LOG
+			    let cachectr=$cachectr+1
 			else
 			    echo "`date` WAR no valid cache file for $stationid" | tee -a $LOG
 			    echo "$EMPTYLINK" >> A$i
@@ -328,7 +345,8 @@ do
 	    echo "\"$rst\"" >> A$i
 	fi
     done
-    echo "`date` INF Category in file $i processed $mctr pages scraped" | tee -a $LOG
+    echo "`date` INF Category in file $i processed $mctr pages scraped ($cachectr from cache)." | tee -a $LOG
+
 done
 if [ $catctr -eq 1 ] ; then
     # in case we use the onebyone mode this will be 1 - so we can exit the function with a value for the calling function
@@ -418,9 +436,16 @@ do
 	if [ -f $fname ] ; then
 	    let ctr=0
 	    let wctr=0
+	    let statctr=0
 	    while read line
 	    do
 		let ctr=$ctr+1
+		let statctr=$statctr+1
+		if [ $statctr -gt 500 ] ; then
+		    let statctr=0
+		    echo "`date` INF $ctr entries processed." | tee -a $LOG
+		fi
+
 		foutname=`basename $line`
 		fouturl=`sed -n "${ctr}p" $ufname`
 
@@ -478,11 +503,15 @@ do
 	    echo "`date` ERR $fname not available"  | tee -a $LOG
 	    continue
 	fi
+
 	echo "`date` INF $wctr files written out in category $i" | tee -a $LOG
 	if [ $wctr -eq 0 ];then
 	    echo "`date` INF deleting empty directory." | tee -a $LOG
 	    rmdir $OUTDIR/$i 2> $NULL
 	fi
+
+	#to do - split m3u if to big
+
 done
 echo "`date` INF $absctr template-files created." | tee -a $LOG
 }
@@ -514,10 +543,13 @@ do
 	rm -f $NULL
 	echo "`date` INF Git push" | tee -a $LOG
 	gitti-all &>>$LOG
-	echo "`date` INF Uploading HTML files now!" |tee -a $LOG
+	echo "`date` INF Uploading HTML files now." |tee -a $LOG
 	$UPLOADER_HTML | tee -a $LOG
-	echo "`date` INF finished all categories - exit!" |tee -a $LOG
-	exit 0
+	echo "`date` INF finished HTML upload - creating statistics." |tee -a $LOG
+	$STATISTICA | tee -a $LOG
+
+#	exit 0
+	break
     fi
 
     echo "" >>$LOG
@@ -541,8 +573,6 @@ do
 	$0 &
 	exit 0
     fi
-
-
 done
 }
 
@@ -565,6 +595,7 @@ scrape_the_links2m3u
 if [ ! $? -eq 0 ] ; then
     echo "`date` INF (FETCHED: $CURLCTR) No change in $i" | tee -a $LOG
     sleep $SLEEPTIME
+    CREATE_LASTSEEN=""
     return 1
 else
     sleep 3
@@ -579,6 +610,13 @@ create_html
 echo "`date` INF Create html done!" | tee -a $LOG
 
 $UPLOADER_M3U | tee -a $LOG
+
+#cp $i ${i//.txt/.lastseen}
+if [ ! -z "$CREATE_LASTSEEN" ] ; then
+    echo "`date` INF Create .lastseen file: $CREATE_LASTSEEN" | tee -a $LOG
+    eval $CREATE_LASTSEEN
+fi
+CREATE_LASTSEEN=""
 }
 
 
@@ -719,6 +757,11 @@ preplog
 $OLD_REMOVER
 scrape_the_links4onebyone
 onebyone
+echo "`date` INF exit $0 - will restart a new instance." | tee -a $LOG
+echo "" >> $LOG
+sleep 60
+$0 &
+exit 0
 }
 
 
@@ -767,10 +810,31 @@ echo "UPLOADER_M3U $UPLOADER_M3U"
 echo "SLEEPTIME $SLEEPTIME"
 echo "DIFF_PLAUSI $DIFF_PLAUSI"
 echo "CACHEMODE $CACHEMODE"
-
-
 exit 0
 }
+
+
+# do some stats
+function statistica-main
+{
+
+echo "m3u stat"
+let linectr=0
+rm -f $TMPF
+for line in `ls $M3UDIR`
+do
+    t=`wc -l $M3UDIR/$line|cut -f 1 -d " "`
+    ((t = $t-1))
+    ((t = $t/2))
+    echo "$t $line" >>$TMPF
+    let linectr=$linectr+$t
+done
+
+cat $TMPF |sort -rn
+echo ""
+echo "$linectr entries in  $M3UDIR"
+}
+
 
 
 ##############################################################
