@@ -53,7 +53,7 @@ STATISTICA="$BASEPATH/statistica.sh"
 
 # edit if necessary
 let SLEEPTIME=20
-let DIFF_PLAUSI=150
+let DIFF_PLAUSI=300
 let CACHEMODE=1
 
 if [ ! -z $1 ] ; then
@@ -195,8 +195,8 @@ do
     let proflag=0
     # check whether there is a difference to the last seen version
     if [ -f ${i//.txt/.lastseen} ];then
-	echo "`date` INF check diff in $i" >>$DEBLOG
-	diff ${i//.txt/.lastseen} $i >>$DEBLOG
+	echo "`date` INF check diff in $i" >>$LOGDEB
+	diff ${i//.txt/.lastseen} $i >>$LOGDEB
 	if [ $? -eq 0 ] ;then
 	    echo "`date` INF No change in $i" | tee -a $LOG
 	    #return 1
