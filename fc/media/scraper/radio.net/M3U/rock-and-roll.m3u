@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,013FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/013_FMAAC.aac?dist=radio.net
+#EXTINF:0,101.1 KIXX Rocks
+http://87.98.219.178:8620/stream/1/
 #EXTINF:0,101.ru: Elvis Presley
 https://pub0302.101.ru:8443/stream/pro/aac/64/111
 #EXTINF:0,101.ru: Rock'n'Roll
@@ -51,24 +53,24 @@ http://hemnos.cdnstream.com/1464_128
 https://stream.zenolive.com/0dfvu81tr0quv
 #EXTINF:0,Conecta Radio Digital
 https://radioenlinea.click:8010/radio.mp3
-#EXTINF:0,Controradio Bari
-https://betelgeuse.dribbcast.com/proxy/controradio?mp=/stream
 #EXTINF:0,Cool Oldies 96
 http://usa7.fastcast4u.com:5058/;stream.nsv
-#EXTINF:0,Cosmic Rock Radio
-https://streaming.live365.com/a37938
-#EXTINF:0,El Divan de un Perfecto Desconocido
-https://eldivandeunperfect.wixsite.com/my-site
+#EXTINF:0,DSiFM Pop-Rock GOLD
+https://listen.radionomy.com/dsifmpop-rock
 #EXTINF:0,Estación Rocanrol
 https://streamingv2.shoutcast.com/EstacionRocanrol
 #EXTINF:0,Exclusively Buddy Holly
 https://streaming.exclusive.radio/er/buddyholly/icecast.audio
 #EXTINF:0,Exclusively Little Richard
 https://streaming.exclusive.radio/er/littlerichard/icecast.audio
+#EXTINF:0,Tinder Radio - Rock N Roll Party
+https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
 #EXTINF:0,Garage Rock Radio
 https://listen.radionomy.com/it-stimeforrock-nroll
 #EXTINF:0,gleisbergs-rock-and-roll-museum
 https://stream.laut.fm/gleisbergs-rock-and-roll-museum?ref=radiode
+#EXTINF:0,GQ Radio
+https://streams.radio.co/se9d949831/listen
 #EXTINF:0,Hanks Americana Radio
 https://edge1-b.exa.live365.net/a97900
 #EXTINF:0,Ignoreland
@@ -81,16 +83,14 @@ http://ais-edge23-dal02.cdnstream.com/1707_128.mp3
 https://streamer.radio.co/sa7bf61271/listen
 #EXTINF:0,Joint Radio Blues
 https://jointil.com/stream-blues
+#EXTINF:0,KARS - Area 102.9 840 AM
+http://out1.cmn.icy.abacast.com/karsam-karsamaac-64?
 #EXTINF:0,KDPT LP Bronco Radio
 http://cc.net2streams.com:8083/;
 #EXTINF:0,KGBB - Bob 103.9 FM
 http://198.27.68.65:8088/stream/1/
 #EXTINF:0,KKNX - Radio 84 840 AM
 http://173.193.205.96:7154/stream/1/
-#EXTINF:0,KYEROradio
-https://streamsoymedios.com/8004/stream
-#EXTINF:0,Lamp Radio Радіо Лампа
-https://cast4.asurahosting.com/proxy/ivan1/stream
 #EXTINF:0,100x100rock
 https://stream.laut.fm/100x100rock?ref=radiode
 #EXTINF:0,Addys Musiczone
@@ -145,8 +145,6 @@ https://stream.laut.fm/kingbee?ref=radiode
 https://stream.laut.fm/late_night-boys?ref=radiode
 #EXTINF:0,lighthouse
 https://stream.laut.fm/lighthouse?ref=radiode
-#EXTINF:0,Melodic Radio
-https://stream.laut.fm/melodicradio?ref=radiode
 #EXTINF:0,Memoryhits
 https://stream.laut.fm/memoryhits?ref=radiode
 #EXTINF:0,Messiah
@@ -157,14 +155,14 @@ https://stream.laut.fm/musikzirkus?ref=radiode
 https://stream.laut.fm/nummer_1_oldies?ref=radiode
 #EXTINF:0,oldiemania
 https://stream.laut.fm/oldiemania?ref=radiode
+#EXTINF:0,oma-und-opas-musik-bis-1969
+https://stream.laut.fm/oma-und-opas-musik-bis-1969?ref=radiode
 #EXTINF:0,petticoat
 https://stream.laut.fm/petticoat?ref=radiode
 #EXTINF:0,power-snake-radio
 https://stream.laut.fm/power-snake-radio?ref=radiode
 #EXTINF:0,Radioasharam
 https://stream.laut.fm/radioasharam?ref=radiode
-#EXTINF:0,Radiokingitalia 711
-https://stream.laut.fm/radiokingitalia711?ref=radiode
 #EXTINF:0,radio-rockofsilence
 https://stream.laut.fm/radio-rockofsilence?ref=radiode
 #EXTINF:0,Radio-Teddyboys-1983
@@ -179,6 +177,8 @@ https://stream.laut.fm/repubblicrockradio?ref=radiode
 https://stream.laut.fm/rockaholicsradio?ref=radiode
 #EXTINF:0,rockandrollradio
 https://stream.laut.fm/rockandrollradio?ref=radiode
+#EXTINF:0,rockbismetal
+https://stream.laut.fm/rockbismetal?ref=radiode
 #EXTINF:0,Radio Rockclub
 https://stream.laut.fm/rockclub?ref=radiode
 #EXTINF:0,Rocknroll Party
@@ -189,12 +189,20 @@ https://stream.laut.fm/rrth?ref=radiode
 https://stream.laut.fm/sbc-radio?ref=radiode
 #EXTINF:0,Soloexitos
 https://stream.laut.fm/soloexitos?ref=radiode
+#EXTINF:0,TheRebels1952
+https://stream.laut.fm/1952rebelsradio?ref=radiode
+#EXTINF:0,unleashed53
+https://stream.laut.fm/unleashed53/;
 #EXTINF:0,Whitestar Radio
 https://stream.laut.fm/whitestarradio?ref=radiode
 #EXTINF:0,Zumblechen
 https://stream.laut.fm/zumblechen?ref=radiode
 #EXTINF:0,Le Coeur du Rock'n'Roll
 http://listen.spiritradios.net/Lecoeurdurocknroll.m3u
+#EXTINF:0,Lucky Dog Radio
+https://agnes.torontocast.com:2199/tunein/bxxbycns.pls
+#EXTINF:0,Master of Radio
+http://cnethosting.org:8090/stream/1/
 #EXTINF:0,Memory Lane - Club Radio 
 https://server17232.streamplus.de/stream/1/
 #EXTINF:0,Mixabilly Radio
@@ -211,8 +219,6 @@ https://streamingp.shoutcast.com/NostalgieJohnnyHallyday-aac
 https://numbarton.org:8000/radio.mp3
 #EXTINF:0,ON 60s
 https://0n-60s.radionetz.de/0n-60s.mp3
-#EXTINF:0,Onda Pirata Radio
-http://email.emitironline.com/c/eJxkyzFPxCAUAOBfA-MFeGBhYLiYq5NpzjPRFeHVe5bSSrmq_944u39f8jqZyNHLuw7Aatl1_Optsm6EqMFEDKAFyCgSJgMoRiWt4uRfBjW-fj8-i5tazFeZTqd96j7z5WndhRnuLzk8pLf97IYz0yJmwtJwO-BMjepSMhU8xGXm2V9bWzcGR6Z6pvoN645Vin-SwVFJ55jq260gFab6paSwUg0tHNa88eorTT_xQzormBbvc6D8N38DAAD__zBoSVA
 #EXTINF:0,Orion X 
 https://streamingV2.shoutcast.com/OrionX
 #EXTINF:0,Rádio Rota 376
@@ -223,14 +229,14 @@ https://audio8.cmaudioevideo.com:10001/stream
 https://preciousradio.net/proxy/mood/stream
 #EXTINF:0,PrestONair
 https://www.radioking.com/play/prestonair
+#EXTINF:0,Rádio BangeR
+https://player.painelvox.com/player-ssl/8186/;;stream.nsv
 #EXTINF:0,Radio-Deutschrock
 https://stream.laut.fm/drr?ref=radiode
 #EXTINF:0,Rádio Elétrica
 https://servidor26.brlogic.com:8040/live
 #EXTINF:0,Radio LUX
 http://5.39.71.39:8004/stream
-#EXTINF:0,Radio Rock News
-http://stm39.stmsrv.com:8382
 #EXTINF:0,RADIOROSAK
 https://stream.rcast.net/68127
 #EXTINF:0,Radio Vintage
@@ -261,18 +267,16 @@ https://stream.radio.co/s291300354/listen
 https://s4.radio.co/s0f3a44a66/listen
 #EXTINF:0,Rockin Rhythm and Blues Radio
 http://192.111.140.11:8272/stream
+#EXTINF:0,Rock N Roll 4 Ever
+http://67.212.238.178:7104/stream/1/
 #EXTINF:0,Rock n' Roll Radio.co
 https://stream.zeno.fm/f5wmzz7a9yzuv
-#EXTINF:0,r.p.i.
-https://passas00.radioca.st/
 #EXTINF:0,R.SA - Maxis Maximal
 https://streams.rsa-sachsen.de/maxis/mp3-128/radiode/
 #EXTINF:0,SHE RADIO - ROCK AND ROLL CHANNEL
 http://80.85.84.114:8054/stream
 #EXTINF:0,Softnezee
 http://135.148.34.128:9041/stream/1/
-#EXTINF:0,SPEEDWAY RADIO
-http://cp10.shoutcheap.com:2199/start/speedwa3
 #EXTINF:0,Splinterwood RocknRoll Radio
 http://31.3.245.162:8000/listen.mp3
 #EXTINF:0,Stadtradio St. Gallen
@@ -281,22 +285,22 @@ https://s3.voscast.com:10239/stream
 https://listen.radionomy.com/studio-ant.m3u
 #EXTINF:0,KDRP-LP - Sun Radio 103.1 FM
 https://ice10.securenetsystems.net/SUNRADIO
+#EXTINF:0,The Sweet Sixties
+http://hemnos.cdnstream.com/1137_128
 #EXTINF:0,Swell FM
 https://ny.mysonicserver.com/8018/stream
+#EXTINF:0,Tamid Web Radio
+http://ca8.rcast.net:8026/;
 #EXTINF:0,Tepacheca
 https://stream.zeno.fm/upaurctdbm8uv
-#EXTINF:0,The Crash
-https://s4.radio.co/sc349ed42d/listen
 #EXTINF:0,Timeoutradio
 https://s4.citrus3.com:8048/stream
-#EXTINF:0,Tinder Radio - Rock N Roll Party
-https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
 #EXTINF:0,Too Much Too Soon Radio
 https://streaming.live365.com/a15209
 #EXTINF:0,Trash Can Radio
 http://orion.shoutca.st:8031/live
-#EXTINF:0,UFO Radio
-https://streaming.live365.com/a62732
+#EXTINF:0,TheWorldNetRadio - Rock
+http://76.73.79.82:8690/
 #EXTINF:0,Vinyle Rock
 https://listen.radionomy.com/vinyle-rock.m3u
 #EXTINF:0,WGPA

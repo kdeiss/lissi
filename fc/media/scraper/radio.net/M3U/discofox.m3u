@@ -83,6 +83,8 @@ http://streamplus53.leonex.de:20916/;
 http://176.9.148.80:8400/stream1
 #EXTINF:0,Radio HDM 
 https://www.hdm-radio.de/radio/8000/radiohdm.mp3
+#EXTINF:0,Heimatradio
+https://server7.streamserver24.com:8080/proxy/boschtec?mp=/stream
 #EXTINF:0,Hitpool Radio
 http://apollo.rserve.de:9932/;
 #EXTINF:0,Hitradio-Leipzig
@@ -101,6 +103,8 @@ https://stream.laut.fm/1000discofox?ref=radiode
 https://stream.laut.fm/angel-family?ref=radiode
 #EXTINF:0,Angel-Of-Sound
 https://stream.laut.fm/angelofsound?ref=radiode
+#EXTINF:0,Antenne Dithmarschen
+https://stream.laut.fm/antenne-dithmarschen?ref=radiode
 #EXTINF:0,antenne-rheinland-pfalz
 https://stream.laut.fm/antenne-rheinland-pfalz?ref=radiode
 #EXTINF:0,apresski-lounge
@@ -213,12 +217,16 @@ https://stream.laut.fm/moderator-daniel?ref=radiode
 https://stream.laut.fm/mrlion?ref=radiode
 #EXTINF:0,Radio Music-of-Dreams
 https://stream.laut.fm/music-of-dreams?ref=radiode
+#EXTINF:0,Musiktempel 24
+https://stream.laut.fm/musiktempel24?ref=radiode
 #EXTINF:0,Newsoundradio
 https://stream.laut.fm/newsoundradioeu?ref=radiode
 #EXTINF:0,nhw1
 https://stream.laut.fm/nhw1?ref=radiode
 #EXTINF:0,Nightbeatz Reloaded
 https://stream.laut.fm/nightbeatzreloaded?ref=radiode
+#EXTINF:0,Noertis Sonnen Radio
+https://stream.laut.fm/noertis-sonnen-radio?ref=radiode
 #EXTINF:0,Partystation
 https://stream.laut.fm/partystation?ref=radiode
 #EXTINF:0,petersmusikpalast
@@ -381,7 +389,7 @@ http://s2.zkm-stream.de:8000/;
 http://stream04.stream-webradiotechnik.de:10400/stream/1/
 #EXTINF:0,Radio Salü Urlaubsradio
 http://internetradio.salue.de:8000/schlagerparty
-#EXTINF:0,radio SAW Partyschlager
+#EXTINF:0,radio SAW Schlagerparty
 https://stream.saw-musikwelt.de/saw-schlagerparty/mp3-192?ref=radiode
 #EXTINF:0,Radio Schlager-Pur
 http://5.9.16.111:8350/stream
@@ -389,6 +397,8 @@ http://5.9.16.111:8350/stream
 http://5.9.16.111:8820/stream/1/
 #EXTINF:0,Radio-Sternwelt
 http://stream2-alfacast-hosting.com:8150/stream/1/
+#EXTINF:0,Radiostreaming
+https://laut.fm/radio-dragon-beat
 #EXTINF:0,Radio Vidaplus
 https://stream.radiojar.com/zsa40c6arfeuv
 #EXTINF:0,Radio-Vulkan
@@ -443,6 +453,8 @@ https://listen.radionomy.com/tanzbar-night.pls
 https://s2.genx-stream.de:10802/stream
 #EXTINF:0,TopHits.FM Schlager
 https://stream.tophitsfm.de:8050/listen.mp3
+#EXTINF:0,RadioTotalCrazy.de
+http://server1.cityedv.at:9057/;
 #EXTINF:0,webradio-oldenburg 
 http://server13.blitz-stream.de:31200/listen.pls
 #EXTINF:0,WebRadioWattenscheid

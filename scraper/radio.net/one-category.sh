@@ -195,7 +195,8 @@ do
     let proflag=0
     # check whether there is a difference to the last seen version
     if [ -f ${i//.txt/.lastseen} ];then
-	diff ${i//.txt/.lastseen} $i >>$LOG
+	echo "`date` INF check diff in $i" >>$DEBLOG
+	diff ${i//.txt/.lastseen} $i >>$DEBLOG
 	if [ $? -eq 0 ] ;then
 	    echo "`date` INF No change in $i" | tee -a $LOG
 	    #return 1
@@ -510,6 +511,9 @@ do
 	    rmdir $OUTDIR/$i 2> $NULL
 	fi
 
+	echo "`date` INF Uploading HTML files now." |tee -a $LOG
+	$UPLOADER_HTML &
+
 	#to do - split m3u if to big
 
 done
@@ -541,10 +545,13 @@ do
 	curln=`sed -n "${curctr}p" genres-full.txt`
 	echo $curctr > $CUR_GENRES_POS_FNAME
 	rm -f $NULL
+
 	echo "`date` INF Git push" | tee -a $LOG
 	gitti-all &>>$LOG
-	echo "`date` INF Uploading HTML files now." |tee -a $LOG
-	$UPLOADER_HTML | tee -a $LOG
+
+	#echo "`date` INF Uploading HTML files now." |tee -a $LOG
+	#$UPLOADER_HTML | tee -a $LOG
+	
 	echo "`date` INF finished HTML upload - creating statistics." |tee -a $LOG
 	$STATISTICA | tee -a $LOG
 
@@ -600,7 +607,9 @@ if [ ! $? -eq 0 ] ; then
 else
     sleep 3
 fi
-echo "`date` INF (FETCHED: $CURLCTR / SIZE: $CURLSIZE) Scrap the links2m3u done!" | tee -a $LOG
+((cs=$CURLSIZE/1024/1024))
+#echo "`date` INF (FETCHED: $CURLCTR / SIZE: $CURLSIZE) Scrap the links2m3u for $i done!" | tee -a $LOG
+echo "`date` INF (FETCHED: $CURLCTR / SIZE: $cs MB) Scrap the links2m3u for $i done!" | tee -a $LOG
 
 # from here on offline processing
 WriteOutResult
@@ -818,7 +827,7 @@ exit 0
 function statistica-main
 {
 
-echo "m3u stat"
+#echo "m3u stat"
 let linectr=0
 rm -f $TMPF
 for line in `ls $M3UDIR`
@@ -833,6 +842,20 @@ done
 cat $TMPF |sort -rn
 echo ""
 echo "$linectr entries in  $M3UDIR"
+
+t=`ls "$OLDDATA/html" |wc -l`
+echo ""
+echo "$t cached entries in $OLDDATA/html"
+echo "Size of cache in $OLDDATA/html is `du -h $OLDDATA/html | cut -f 1`"
+echo ""
+echo "`ls $OUTDIR|wc -l` categories found in $OUTDIR"
+echo "`find -L $OUTDIR -name \"*.tmpl\" |wc -l` template items in $OUTDIR"
+
+echo ""
+echo "`ls $OUTDIR4HTML |wc -l` HTML output files in $OUTDIR4HTML"
+echo "Size of generated HTML in $OUTDIR4HTML is `du -h $OUTDIR4HTML | cut -f 1`"
+
+exit 0
 }
 
 

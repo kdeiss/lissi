@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,100% POP - NEW WAVE - PROG
 https://streamingV2.shoutcast.com/100-POP---NEW-WAVE---PROG
+#EXTINF:0,101 New Sound
+http://nr8.newradio.it:9205/stream.mp3
 #EXTINF:0,103.1 The Wave - KSQN
 https://ais-sa3.cdnstream1.com/2284_96.aac
 #EXTINF:0,12punks.FM
@@ -17,8 +19,8 @@ https://streams.80s80s.de/rock/mp3-192/radiode/
 https://streamingv2.shoutcast.com/80sByTheHour
 #EXTINF:0,80s Forever
 https://s2.ssl-stream.com:8050/256.mp3
-#EXTINF:0,99.9 Punk World Radio FM
-http://stream.radiojar.com/3uvfw6vwe8tvv
+#EXTINF:0,AcroRock
+https://listen.radionomy.com/acrorock
 #EXTINF:0,ALT80
 http://jenny.torontocast.com:8050/stream/1/
 #EXTINF:0,Alternative Rock X-Radio 
@@ -31,6 +33,8 @@ https://an.cdn.eurozet.pl/ANTWOD.mp3
 https://c32.radioboss.fm/stream/32
 #EXTINF:0,Radio Atlantide
 https://stream.zeno.fm/9x8uv85r45quv
+#EXTINF:0,Banana Ska
+https://bananafm.radioca.st/stream
 #EXTINF:0,Barely Brothers Radio
 http://streaming.live365.com/a58492
 #EXTINF:0,Bastardos Radio Pernambuco
@@ -57,6 +61,10 @@ https://a2.siar.us/radio/8410/radio.mp3
 https://streamer.radio.co/s49a58b236/low
 #EXTINF:0,Boogaloo Radio
 https://streams.radio.co/sb88c742f0/listen
+#EXTINF:0,B-Radio
+http://5.39.82.219:4396/stream/1/
+#EXTINF:0,Butthole Radio
+http://bhradio.dyndns.org:8002/
 #EXTINF:0,Radio Campus Orléans
 https://streams.labomedia.org:8443/stream_rco
 #EXTINF:0,Radio Caprice - Horror Punk
@@ -83,8 +91,6 @@ https://www.radioking.com/play/circuit-d-actes-radio
 https://music.clubzeroradio.com:8443/live
 #EXTINF:0,DASDING Rap, sonst nichts
 https://liveradio.swr.de/rddez3a/raka11/
-#EXTINF:0,Deep Flow Radio
-http://puma.streemlion.com:5150/stream
 #EXTINF:0,delta radio
 https://streams.deltaradio.de/delta-live/mp3-128/radiode/
 #EXTINF:0,delta radio ALTERNATIVE
@@ -97,8 +103,6 @@ https://ec1.yesstreaming.net:2305/stream
 https://streaming.live365.com/a05873
 #EXTINF:0,Dispersion Wave
 http://radio.streemlion.com:4340/stream
-#EXTINF:0,PAWAROTA Radio
-https://pawarota.out.airtime.pro/pawarota_a
 #EXTINF:0,DRIVE Radio
 https://listen.radionomy.com/driveradio.m3u
 #EXTINF:0,Droogies Radio
@@ -107,6 +111,8 @@ http://droogies.org:8000/stream
 https://s7.reliastream.com/proxy/dustdevi?mp=/high.aac
 #EXTINF:0,Eardrum Buzz Radio
 https://stream.radiojar.com/99excp6f8tzuv
+#EXTINF:0,Ersatz Radio
+http://uk5.internet-radio.com:8049/live
 #EXTINF:0,ESRadioPT
 http://r24.zibiz.net:8000/stream/4/
 #EXTINF:0,Fettesradio - Fat Radio
@@ -149,6 +155,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIYYFMAAC.aac
 https://stream.zeno.fm/ta3wrur81d0uv
 #EXTINF:0,IRN Rocks
 https://live.indieradionetwork.net/irnrocks2
+#EXTINF:0,jipradio 
+http://www.radioking.com/play/jipradio
 #EXTINF:0,Kamikaze Radio
 http://server831.streamplus.de:10894/;
 #EXTINF:0,KAOS Radio Austin
@@ -169,6 +177,8 @@ https://stream.laut.fm/3chords?ref=radiode
 https://stream.laut.fm/45-rpm?ref=radiode
 #EXTINF:0,Antifa
 https://stream.laut.fm/antifa?ref=radiode
+#EXTINF:0,Army
+https://stream.laut.fm/army?ref=radiode
 #EXTINF:0,Aufden Punk T
 https://stream.laut.fm/aufden-punk-t?ref=radiode
 #EXTINF:0,BlackSpot
@@ -209,6 +219,8 @@ https://stream.laut.fm/jesus-alternative-plattenkiste?ref=radiode
 https://stream.laut.fm/lautundhart?ref=radiode
 #EXTINF:0,lemonhead
 https://stream.laut.fm/lemonhead?ref=radiode
+#EXTINF:0,mokvi
+https://stream.laut.fm/mokvi?ref=radiode
 #EXTINF:0,munichlive
 https://stream.laut.fm/munichlive?ref=radiode
 #EXTINF:0,nandomania
@@ -217,8 +229,6 @@ https://stream.laut.fm/nandomania?ref=radiode
 https://stream.laut.fm/nrw_rockt?ref=radiode
 #EXTINF:0,OH-SUBS-TAPES
 https://stream.laut.fm/oh-subs-tapes?ref=radiode
-#EXTINF:0,Oi Radio
-https://stream.laut.fm/oi-radio?ref=radiode
 #EXTINF:0,Oldschool
 http://91.121.59.45:8030/stream
 #EXTINF:0,Ondaradikal
@@ -273,10 +283,14 @@ https://stream.laut.fm/tonaktiv?ref=radiode
 https://stream.laut.fm/wastewatermusic?ref=radiode
 #EXTINF:0,Listen Project Radio
 https://streaming.live365.com/a17969
+#EXTINF:0,MacSlon's Irish Pub Radio
+http://87.98.217.63:24112/stream/1/
 #EXTINF:0,Mehr Davon Radio 
 https://server7.streamserver24.com:61444/;stream.mp3
 #EXTINF:0,MeWe Industrial Radio
 http://212.24.109.1:8080/stream/1/
+#EXTINF:0,Moshed Potatoes Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC165.mp3
 #EXTINF:0,Nautic Radio Beats 'n Breaks
 http://stream.nauticradio.net:14280/;
 #EXTINF:0,Неслучайное Радио - Nesluchaynoye Radio
@@ -287,6 +301,8 @@ http://lweb04.lcaat.ca:8000/91x.mp3
 http://streaming.radio.co/s0d090ee43/listen
 #EXTINF:0,NEW WAVE RADIO
 https://digitalaudiobroadcasting.net:8006
+#EXTINF:0,New Wave Transmission
+https://streaming.radionomy.com/NewWaveTransmission
 #EXTINF:0,Nomad Radio 
 https://radio.streemlion.com:1915/stream
 #EXTINF:0,Radio No Rest
@@ -297,6 +313,8 @@ https://streaming.live365.com/a99827
 https://streamingp.shoutcast.com/NostalgieNewWave-aac
 #EXTINF:0,Nostalgie NL - New Wave
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?
+#EXTINF:0,NWFCRADIO
+https://stream.zeno.fm/snkgt11qpd0uv
 #EXTINF:0,Old Skull Radio
 https://stream.zeno.fm/r8s98br2ud0uv
 #EXTINF:0,Onda Radikal 
@@ -311,6 +329,8 @@ https://stream.open.fm/78
 https://streamingv2.shoutcast.com/oroyawave
 #EXTINF:0,Philip's '66 Garage
 http://streaming.live365.com/a17530
+#EXTINF:0,Pirate Radio - Punk 
+http://streamer.radio.co:80/sd6e2238c3/listen
 #EXTINF:0,Piraterock 95.4 FM
 https://stream.piraterock.se:8100/webradio
 #EXTINF:0,Postaway Radio
@@ -325,6 +345,8 @@ http://carol.epichosts.co.uk:8430/live.mp3
 https://radio.punkfm.com.br/radio/8010/punkfmbrasil.mp3
 #EXTINF:0,PUNK Irratia
 https://punkirratia.net:8443/punk
+#EXTINF:0,Punk Radio Underground
+https://s1.slotex.pl/shoutcast/7604/stream
 #EXTINF:0,Punkrockers Radio
 https://stream.punkrockers-radio.de:8443/prr.mp3
 #EXTINF:0,Punk Rock Radio
@@ -335,8 +357,6 @@ http://www.punksender.de/punksender.m3u
 https://icy.unitedradio.it/101SpecialArtist.aac
 #EXTINF:0,Radio208
 https://stream.probroadcast.dk/radio208mp3
-#EXTINF:0,Radio Bandito
-https://s2.radio.co/s8add5b3eb/listen
 #EXTINF:0,Radio Best Buddy
 http://server34695.streamplus.de:11908/stream.mp3
 #EXTINF:0,RADIO BOB! BOBs Alternative Rock
@@ -347,8 +367,6 @@ https://streams.radiobob.de/bob-hardrock/mp3-128/radiode/
 https://streams.radiobob.de/bob-hartesaite/aac-64/radiode/
 #EXTINF:0,RADIO BOB! BOBs Punk
 https://streams.radiobob.de/bob-punk/aac-64/radiode
-#EXTINF:0,RADIO BOB Ska
-https://streams.radiobob.de/ska/mp3-192/radiode/
 #EXTINF:0,Radio Darkitalia
 https://darkitalia.radioca.st/autodj
 #EXTINF:0,Radio Diabolus
@@ -365,6 +383,8 @@ https://www.radioking.com/play/radiofals
 http://s2.stationplaylist.com:7046/listen.aac
 #EXTINF:0,Radio Kaos Italy
 http://nr6.newradio.it:9136/stream
+#EXTINF:0,The Nightmare Continues 
+http://listen.radioking.com/radio/145592/stream/185840
 #EXTINF:0,RADIO LA GRANJA 102.1 FM (Zaragoza)
 https://radiobot.radioslibres.info/radio/8040/rlg.mp3
 #EXTINF:0,Radio Metal Hermosillo
@@ -379,7 +399,7 @@ http://onair15.xdevel.com:8972/;
 https://ssl-1.radiohost.pl:9470/stream.mp3
 #EXTINF:0,Radio Rogna
 https://sr2.inmystream.it/proxy/associa1?mp=/stream
-#EXTINF:0,radio SAW Rock Alternative
+#EXTINF:0,radio SAW Modern Rock
 https://stream.saw-musikwelt.de/saw-rock-alternative/
 #EXTINF:0,Radio Soho Tampere
 https://sohostream.djonline.fi:8008/radio
@@ -399,8 +419,14 @@ https://stream.rhr.fm/
 http://149.56.155.73:8080/;
 #EXTINF:0,Real Rebel Radio
 https://cleo.shoutca.st/radio/8020/radio.mp3
+#EXTINF:0,Redwall Radio
+http://149.255.59.3:8268/stream/1/
+#EXTINF:0,Return of Rock Radio 
+http://213.202.217.100:8005/stream
 #EXTINF:0,Rock Nacional Paraguayo
 https://s32.radiolize.com/radio/8010/radio.mp3
+#EXTINF:0,RockBlade Radio
+https://stream.zeno.fm/g0xxvcknfg0uv
 #EXTINF:0,Rock FM Brasil
 https://stream.zeno.fm/3rdwqmk9y5quv
 #EXTINF:0,RockLiveRadio
@@ -411,8 +437,6 @@ http://music-fans.com:9000/;
 https://ice.abradio.cz/rockzabava128.mp3
 #EXTINF:0,Rock Radio Online Mexico
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC286.mp3
-#EXTINF:0,Радио ROCK СТАНЦИЯ / ROCK STATION Radio 
-https://rockstation.radiostream.pro/mp3
 #EXTINF:0,RockYou.fm
 http://stream.rockyou.fm
 #EXTINF:0,RPR1.Neue Deutsche Welle
@@ -425,16 +449,24 @@ http://stream.radiosolution.fr/rstlss.mp3
 https://stream.laut.fm/radiopuettlingen?ref=radiode
 #EXTINF:0,Schmusehäschen Records
 https://stream.laut.fm/schmusehaeschen-records?ref=radiode
+#EXTINF:0,Scotty Gee Radio
+https://streaming.live365.com/a29415
 #EXTINF:0,Scream London
 http://s2.voscast.com:8074/stream/1/
 #EXTINF:0,Skate Metal Old - WebRadio
 http://stm1.streaminghd.net.br:12406/stream/1/
+#EXTINF:0,Slowmotiondisaster
+http://205.188.215.227:8094/listen.pls
+#EXTINF:0,SPYRO music radio
+https://c8.radioboss.fm:18080/autodj
 #EXTINF:0,SSCR Tampa
 https://streaming.live365.com/a69653
 #EXTINF:0,Stahlradio
 https://simba.streampanel.cloud:5280/stream
 #EXTINF:0,STAR FM Alternative Rock
 https://stream.starfm.de/alternat/mp3-192/radiode
+#EXTINF:0,straight radio 
+http://streamplus13.leonex.de:18484/
 #EXTINF:0,Subculture 69 Radio
 http://144.76.32.5:8000/sbc69r
 #EXTINF:0,Surf Rock Radio
@@ -455,6 +487,8 @@ https://eu10.fastcast4u.com/tonicska
 http://orion.shoutca.st:8031/live
 #EXTINF:0,Twisted Transistor
 https://server2.cityedv.at/proxy/fralec_main/stream
+#EXTINF:0,Ultravoz
+https://stream.radiojar.com/1rmq2q81pg0uv
 #EXTINF:0,Unsung 80's Radio
 http://unsung80s.out.airtime.pro:8000/unsung80s_a
 #EXTINF:0,UrCity Radio

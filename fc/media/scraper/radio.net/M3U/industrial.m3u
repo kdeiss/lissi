@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0,20ft Radio
 https://c18.radioboss.fm:18146/stream
-#EXTINF:0,Absolut 80iger
-https://absolut-80er.live-sm.absolutradio.de/absolut-80er?aggregator=radiode
 #EXTINF:0,Alloy Radio
 https://streaming.live365.com/a34794
 #EXTINF:0,ampedOut
@@ -19,6 +17,8 @@ http://club-red-hell.radio-club-titania.net:8200/;
 https://music.clubzeroradio.com:8443/live
 #EXTINF:0,Dark Asylum
 http://91.121.165.137:8020/stream/1/
+#EXTINF:0,Dark Outside
+http://37.59.82.11:12005/stream/1/
 #EXTINF:0,Doomed
 https://ice2.somafm.com/specials-128-mp3
 #EXTINF:0,DunkelLaut.de
@@ -33,8 +33,8 @@ http://www.ebm-radio.org:7000/stream/1/
 https://securestreams.servers58.com:9342/stream
 #EXTINF:0,Gothic Girl Magazine Radio
 https://stream.zeno.fm/3uhy5my7echvv?
-#EXTINF:0,GothVille
-http://gothville.radio:8000/stream
+#EXTINF:0,HardSoundRadio - HSR 
+http://net1.citrus3.com:9170/;stream.mp3
 #EXTINF:0,black666
 https://stream.laut.fm/black666?ref=radiode
 #EXTINF:0,BlackSpot
@@ -97,6 +97,8 @@ https://stream.laut.fm/soundwelten?ref=radiode
 https://stream.laut.fm/terahertzwellen?ref=radiode
 #EXTINF:0,LOCA FM Industrial
 http://s02.fjperezdj.com:8076/live
+#EXTINF:0,MeWe Industrial Radio
+http://212.24.109.1:8080/stream/1/
 #EXTINF:0,ON Gothic
 https://0n-gothic.radionetz.de/0n-gothic.mp3
 #EXTINF:0,Radio Darkitalia
@@ -115,9 +117,9 @@ http://192.111.140.6:9772/stream/2/
 http://radio.dawnshadow.se:8000/stream
 #EXTINF:0,Stahlsender Webradio
 https://mpc2.mediacp.eu/stream/stahlsender
-#EXTINF:0,SynthTronic Radio Noir
-http://cheetah.streemlion.com:2960/stream
 #EXTINF:0,The Dark Blue Hell
 http://apollo.rserve.de:8018/;
+#EXTINF:0,Witch Radio
+http://www.witch-radio.ru:8000/ices
 #EXTINF:0,XWAVE RADIO
 http://ns319459.ip-91-121-67.eu:8000/stream/1/

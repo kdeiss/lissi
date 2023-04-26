@@ -53,6 +53,8 @@ https://strmreg.1.fm/chilloutlounge_mobile_mp3
 https://strm112.1.fm/spa_mobile_aac
 #EXTINF:0,1.FM - Radio Gaia
 https://strm112.1.fm/radiogaia_mobile_mp3
+#EXTINF:0,1LIVE Chillout
+https://wdr-1live-chillout.icecast.wdr.de/wdr/1live/chillout/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,1MORE Electro-deep
 https://1more.fr/ecoute/1more-electrodeep-128.m3u
 #EXTINF:0,2000 FM - Chillin
@@ -203,6 +205,8 @@ https://ice2.somafm.com/beatblender-128-mp3
 https://azuracast.streams.ovh/radio/8150/live
 #EXTINF:0,BFBS Unwind
 https://icy-e-04.sharp-stream.com:80/ssvcbfbs24.mp3
+#EXTINF:0,bigFM LoFi Focus
+https://stream.bigfm.de/lofifocus/mp3-128/radiode
 #EXTINF:0,bigFM Sunset Lounge
 https://stream.bigfm.de/sunsetlounge/aac-128/radiode
 #EXTINF:0,BigR - Erins Chill
@@ -579,10 +583,6 @@ https://s5.radio.co/saac615442/listen
 https://s5.radio.co/saac615442/listen
 #EXTINF:0,Evening Breeze
 http://server.rpr.dp.ua:8000/live
-#EXTINF:0,Tinder Radio - Dance Chill
-https://streaming.exclusive.radio/er/chilldance/icecast.audio
-#EXTINF:0,Tinder Radio - Ibiza
-https://streaming.exclusive.radio/er/ibiza/icecast.audio
 #EXTINF:0,Exelen Radio
 https://sp2.streams.ovh/8074/stream
 #EXTINF:0,Fajn radio Chill
@@ -1105,7 +1105,7 @@ https://stream9.xdevel.com/audio0s976748-1514/stream/icecast.audio
 https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
 #EXTINF:0,Le Grand Calme
 https://ellebore.ice.infomaniak.ch/ellebore-high.aac
-#EXTINF:0,LifeGate Music
+#EXTINF:0,LifeGate Notte
 https://stream7.xdevel.com/audio1s975809-431/stream/icecast.audio
 #EXTINF:0,Life Radio Chill Out
 https://stream.liferadio.at/chillout/mp3-192/radioat/
@@ -1253,12 +1253,14 @@ https://sonic.dattalive.com/8450/stream
 http://stream.news894.de/444ztw6
 #EXTINF:0,Nivel20
 https://listen.radioking.com/radio/100408/stream/139171
-#EXTINF:0,Nordic Beat Radio
+#EXTINF:0,Nordic Chillout Radio
 https://nordicbeatradio.radioca.st/stream/1/
 #EXTINF:0,Nordic Lodge Copenhagen
 http://radio.streemlion.com:1160/stream/1/
 #EXTINF:0,North Shore Music FM
 https://server35795.streamplus.de/stream.mp3
+#EXTINF:0,nRadio
+http://stream.nradio.online:8000/nRadio
 #EXTINF:0,Energy Lounge
 https://scdn.nrjaudio.fm/adwz1/at/36015/aac_64.mp3
 #EXTINF:0,NRJ CHILL
@@ -1557,7 +1559,7 @@ https://gb25.streamgates.net/radios-audio/100Deep/playlist.m3u8
 https://gb25.streamgates.net/radios-audio/100Relax/playlist.m3u8
 #EXTINF:0,Radio Sauerland - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zt8p
-#EXTINF:0,radio SAW Good Life
+#EXTINF:0,radio SAW Relax
 https://stream.saw-musikwelt.de/saw-relax/mp3-192?ref=radiode
 #EXTINF:0,Radio Siegen - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zv56
@@ -1597,6 +1599,8 @@ https://getradio.me/rcm
 https://giorgia.radiobellissima.it:8290/radio.mp3
 #EXTINF:0,RDS Relax
 https://icstream.rds.radio/rdsrelax
+#EXTINF:0,REAL FM RELAX
+http://realfm.net:9500/rfr
 #EXTINF:0,Radio Record Chill-Out
 https://radiorecord.hostingradio.ru/chil96.aacp
 #EXTINF:0,REGGAE CHILL CAFE
@@ -1851,6 +1855,10 @@ https://streaming.live365.com/a40412
 https://stream.thewaveradio.de/wave-live/mp3-128/RadioDE/
 #EXTINF:0,Tiki Bar Radio
 https://livessl.rcast.net/stream/65819
+#EXTINF:0,Tinder Radio - Dance Chill
+https://streaming.exclusive.radio/er/chilldance/icecast.audio
+#EXTINF:0,Tinder Radio - Ibiza
+https://streaming.exclusive.radio/er/ibiza/icecast.audio
 #EXTINF:0,Radio Titine
 https://www.radioking.com/play/titine
 #EXTINF:0,Toksyna FM - Chillout and more
