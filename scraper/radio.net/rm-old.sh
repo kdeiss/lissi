@@ -2,7 +2,8 @@
 
 # k.deiss@it-userdesk.de
 # Delete old files (here the lastseen files to enforce a link grab)
-# V.01.04.04.23
+# V.01.04.04.23 initial commit
+# V.02.24.04.23 AGE changed
 
 BASENAME="radio-net-scraper"
 
