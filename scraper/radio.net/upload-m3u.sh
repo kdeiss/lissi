@@ -1,8 +1,8 @@
 #!/bin/bash
 # k.deiss@it-userdesk.de
 # mirror folder to web-resource
-# V.01.16.04.23
-
+# V.01.16.04.23 initial commit
+# V.02.26.04.23 adapt m3u dir
 
 
 #get username and password
