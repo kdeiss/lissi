@@ -1,13 +1,11 @@
 #!/bin/bash
-
-
 # k.deiss@it-userdesk.de
 # radio.net scraper
 
 # Basic version and idea by jungler
 # https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/scrape-radio.net-manual.sh
 
-# This version try to reduce traffic load to radio.net to a minimum
+# This version tries to reduce traffic load to radio.net to a minimum
 
 # V.01.04.04.23 redesign
 # V.03.09.04.23 scrape_the_links2m3u - try to find unplausible linecounting
@@ -15,6 +13,7 @@
 # V.05.18.04.23 html bugfixing / adding rm-old / upload
 # V.06.21.04.23 cachemode
 # V.07.24.04.23 onebyone run in endless loop
+# V.08.26.04.23 bugfix
 
 
 BASENAME="radio-net-scraper"
@@ -195,8 +194,8 @@ do
     let proflag=0
     # check whether there is a difference to the last seen version
     if [ -f ${i//.txt/.lastseen} ];then
-	echo "`date` INF check diff in $i" >>$LOGDEB
-	diff ${i//.txt/.lastseen} $i >>$LOGDEB
+	echo "`date` INF check diff in $i" >> $LOGDEB
+	diff ${i//.txt/.lastseen} $i >> $LOGDEB
 	if [ $? -eq 0 ] ;then
 	    echo "`date` INF No change in $i" | tee -a $LOG
 	    #return 1
@@ -549,13 +548,8 @@ do
 	echo "`date` INF Git push" | tee -a $LOG
 	gitti-all &>>$LOG
 
-	#echo "`date` INF Uploading HTML files now." |tee -a $LOG
-	#$UPLOADER_HTML | tee -a $LOG
-	
 	echo "`date` INF finished HTML upload - creating statistics." |tee -a $LOG
 	$STATISTICA | tee -a $LOG
-
-#	exit 0
 	break
     fi
 
@@ -580,6 +574,11 @@ do
 	$0 &
 	exit 0
     fi
+
+    if [ -f $0.cfg ] ; then
+	source $0.cfg
+    fi
+
 done
 }
 
@@ -609,18 +608,17 @@ else
 fi
 ((cs=$CURLSIZE/1024/1024))
 #echo "`date` INF (FETCHED: $CURLCTR / SIZE: $CURLSIZE) Scrap the links2m3u for $i done!" | tee -a $LOG
-echo "`date` INF (FETCHED: $CURLCTR / SIZE: $cs MB) Scrap the links2m3u for $i done!" | tee -a $LOG
+echo "`date` INF (FETCHED: $CURLCTR / SIZE: $cs MB) Scrap the links2m3u for $i done." | tee -a $LOG
 
 # from here on offline processing
 WriteOutResult
-echo "`date` INF WriteOutResult done!" | tee -a $LOG
+echo "`date` INF WriteOutResult done." | tee -a $LOG
 
 create_html
-echo "`date` INF Create html done!" | tee -a $LOG
+echo "`date` INF Create html done." | tee -a $LOG
 
 $UPLOADER_M3U | tee -a $LOG
 
-#cp $i ${i//.txt/.lastseen}
 if [ ! -z "$CREATE_LASTSEEN" ] ; then
     echo "`date` INF Create .lastseen file: $CREATE_LASTSEEN" | tee -a $LOG
     eval $CREATE_LASTSEEN

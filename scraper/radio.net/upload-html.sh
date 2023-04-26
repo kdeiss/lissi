@@ -70,7 +70,7 @@ EOF
 }
 
 echo "`date` INF Startup $0" >> $LOG
-upload &>> $TEMP
+upload &> $TEMP
 echo "`date` INF `wc -l $TEMP` lines processed" >> $LOG
 rm -f $LOCKFILE
 echo "`date` INF Stop $0" >> $LOG

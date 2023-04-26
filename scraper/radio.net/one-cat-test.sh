@@ -28,7 +28,7 @@ let CURLCTR=0
 let SLEEPTIME=180
 
 echo "6" >one-category.sh.pos
-rm -f AA-tropical.lastseen
+#rm -f AA-tropical.lastseen
 ./one-category.sh 20
 
 rm -f $NULL
