@@ -365,6 +365,8 @@ https://ice2.somafm.com/fluid-128-mp3
 https://streams.fluxfm.de/Chillhop/mp3-128/radiode/
 #EXTINF:0,Hippie Trippy Garden Pretty
 https://streams.fluxfm.de/event02/mp3-128/radiode/
+#EXTINF:0,neoFM
+https://streams.fluxfm.de/neofm/mp3-320/radiode/play.m3u
 #EXTINF:0,FreeChannel-Chillout
 https://ssl-1.radiohost.pl:7199/stream/
 #EXTINF:0,FRESH FM
@@ -581,8 +583,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3?origine=radio.net
 https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?origine=radio.net
 #EXTINF:0,OM Radio
 http://188.138.198.247:8002/;
-#EXTINF:0,ON Chillout
-https://0n-chillout.radionetz.de/0n-chillout.mp3
 #EXTINF:0,On Cue 365 - Relaxing Radio
 http://s10.voscast.com:9574/stream/1/
 #EXTINF:0,ON Love
@@ -681,8 +681,6 @@ https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
 https://streaming.positivity.radio/pr/running/icecast.audio
 #EXTINF:0,Positively Sleep Baby
 https://streaming.positivity.radio/pr/sleepbaby/icecast.audio
-#EXTINF:0,Positively Sleep Kids
-https://streaming.positivity.radio/pr/sleepkids/icecast.audio
 #EXTINF:0,Positively Sleep Max Richter
 https://streaming.positivity.radio/pr/maxrichter/icecast.audio
 #EXTINF:0,Positively Sleep Relax 
@@ -763,6 +761,8 @@ https://radiorecord.hostingradio.ru/hypno96.aacp
 https://mira.streamerr.co/radio/8010/radiosatbolivia.mp3
 #EXTINF:0,Radio Terapia Web
 https://onair7.xdevel.com/proxy/xautocloud_k6kz_574?mp=/;stream/;
+#EXTINF:0,Radio UNU
+https://online.radiounu.ga/stream
 #EXTINF:0,Radio Voyage
 http://eksenwmp.radyotvonline.com/listen.pls
 #EXTINF:0,Lounge by rautemusik
@@ -812,7 +812,7 @@ https://scoopremix.ice.infomaniak.ch/radioscoop-remix-64.aac
 #EXTINF:0,SF 10-33
 https://ice2.somafm.com/sf1033-128-mp3
 #EXTINF:0,Sleep Radio
-https://centova.radioservers.biz/proxy/sleeprad/?mp=/stream
+https://cast4.my-control-panel.com/proxy/sleeprad/stream
 #EXTINF:0,RadioArt: Sleep
 https://live.radioart.com/fSleep.mp3
 #EXTINF:0,Slow Karadeniz FM Rize
