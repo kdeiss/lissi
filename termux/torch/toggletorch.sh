@@ -1,7 +1,7 @@
 #! /bin/bash
 # 
 # by k.deiss@it-userdesk.de
-# retrieve time and battery state, output to speech-tts
+# toggle status of torchlight
 # V 0.0.1.26.04.23
 
 
