@@ -60,7 +60,7 @@ https://ssl.shoutcaststreaming.us:8014/;?
 #EXTINF:0,24.7 The Sail
 https://live365.com/station/24-7-The-Sail-a25504
 #EXTINF:0,2RES - Eastside 89.7 FM
-https://stream.eastsidefm.org/stream
+https://streamer.eastsidefm.org/stream
 #EXTINF:0,2RRR
 https://playerservices.streamtheworld.com/api/livestream-redirect/2RRRAAC_SC
 #EXTINF:0,2WKT - Highland 107.1 FM
@@ -813,6 +813,8 @@ http://solid9.streamupsolutions.com:8070/stream
 http://manager6.streamradio.fr:1980/stream
 #EXTINF:0,Hemisferios Radio
 https://streaming3.locucionar.com/proxy/hemisferios?mp=%2Fstream
+#EXTINF:0,JAZZ por Barcelona Jazz Radio
+http://178.33.232.106:8034/stream?highlights
 #EXTINF:0,CROONER par Crooner Radio
 https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
 #EXTINF:0,Jazz - Radio Swiss Jazz
@@ -1323,8 +1325,6 @@ https://tolkien.republicahosting.net:2361/live
 https://listen.radionomy.com/laradiodesfamilles
 #EXTINF:0,1000jazzhits
 https://stream.laut.fm/1000jazzhits?ref=radiode
-#EXTINF:0,1000smoothhits
-https://stream.laut.fm/1000smoothhits?ref=radiode
 #EXTINF:0,1 Tubaskinny
 https://stream.laut.fm/1-tubaskinny?ref=radiode
 #EXTINF:0,after-hours
@@ -2053,6 +2053,8 @@ http://91.121.65.189:8000/zinzine-aix
 https://radiozqlturapl.radioca.st/stream/1/
 #EXTINF:0,Radyo Sesi
 https://radyo1.radyo-dinle.tc/8176/stream
+#EXTINF:0,Raíces Radio
+https://radio5.domint.net:8120/stream
 #EXTINF:0,Raiders Broadcast
 http://192.184.9.158:8048/stream
 #EXTINF:0,Raw Soul Radio live
@@ -2375,6 +2377,8 @@ https://listen.shoutcast.com/theurbanjazzcafe.m3u
 https://stream.thewaveradio.de/wave-live/mp3-128/RadioDE/
 #EXTINF:0,The Wave 94.7 (CIWV)
 https://playerservices.streamtheworld.com/api/livestream-redirect/CIWVFM_SC
+#EXTINF:0,This Is Radio! Europe
+http://stream.webradio.bz:8000/thisisradio1
 #EXTINF:0,Tilos Jazz Rádió
 http://stream.tilos.hu:8000/tilos
 #EXTINF:0,Tin Pan Alley Radio

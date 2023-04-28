@@ -21,6 +21,8 @@ http://cast61.sitehosting.com.br:8510/live
 http://hts01.kshost.com.br:8464/live
 #EXTINF:0,Alternativa FM 98.5
 https://player.xcast.com.br/proxy/8876
+#EXTINF:0,Radio Amigos da MPB
+https://stm4.voxhd.com.br:7086/stream/1/
 #EXTINF:0,AmigosOnLine
 http://hts01.kshost.com.br:10516/stream/1/
 #EXTINF:0,Sertanejo Bom Demais
@@ -39,8 +41,6 @@ http://rvn01.painelstream.net:9282/stream/1/
 http://stm1.streaminghd.net.br:17706/stream/1/
 #EXTINF:0,Brasil Cultura
 https://radiocultura2.jmvstream.com/stream
-#EXTINF:0,brasiltuga
-http://stream.zeno.fm/rb2n20k167zuv.pls
 #EXTINF:0,Caminho Seguro FM
 http://suaradio2.dyndns.ws:10784/stream
 #EXTINF:0,Canabrava FM
@@ -145,8 +145,22 @@ https://paineldj.com.br:20120/stream
 http://stream.zeno.fm/1c8aeyfhsieuv
 #EXTINF:0,Gazeta FM Arapiraca
 https://8743.brasilstream.com.br/stream
+#EXTINF:0,Geração Axé
+https://servidor.geracaoradios.com/radio/8190/stream
 #EXTINF:0,Geração FM 107.1
 https://10.stmip.net:20588/stream/1/
+#EXTINF:0,Geração Forro
+https://servidor.geracaoradios.com/radio/8180/stream
+#EXTINF:0,Geração Funk
+https://servidor.geracaoradios.com/radio/8040/stream
+#EXTINF:0,Geração MPB
+https://servidor.geracaoradios.com/radio/8110/stream
+#EXTINF:0,Geração Rock Nacional
+https://servidor.geracaoradios.com/radio/8140/stream
+#EXTINF:0,Geração Samba e Pagode
+https://servidor.geracaoradios.com/radio/8010/stream
+#EXTINF:0,Geração Sertaneja
+https://servidor.geracaoradios.com/radio/8120/stream
 #EXTINF:0,Good Times Web Radio
 http://hts03.painelstream.net:9226/stream/1/
 #EXTINF:0,Gramado Radio Floresta
@@ -157,8 +171,8 @@ http://09.stmip.net:8394/live;stream.mp3
 https://stream.zeno.fm/ds90t7z46qzuv
 #EXTINF:0,Hunter.FM - Hits Brasil
 https://live.hunter.fm/hitsbrasil_normal
-#EXTINF:0,International Urban Radio
-https://streaming.live365.com/a74116
+#EXTINF:0,Hunter.FM - Pisadinha
+https://hls.hunter.fm/pisadinha/320.m3u8
 #EXTINF:0,Jacobina FM
 http://wz1.dnip.com.br/jacobinafm/jacobinafm.stream/playlist.m3u8
 #EXTINF:0,Joli Gospel Brasil
@@ -235,6 +249,8 @@ http://centova17.ciclanohost.com.br:8085/stream/1/
 http://207.244.66.85:14620/;stream.mp3
 #EXTINF:0,Nova Brasil FM Campinas
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_CAMPINASAAC_SC
+#EXTINF:0,Rádio NOVA GERAÇÃO 104.9
+http://hd.matutos.com.br:9122/;
 #EXTINF:0,Nova Rádio Clube AM
 https://stream.zeno.fm/93my5pgycf9uv
 #EXTINF:0,Nova Revolução Gospel
@@ -243,6 +259,8 @@ http://stm2.srvvox.com.br:7134/
 https://servidor28-3.brlogic.com:8274/live
 #EXTINF:0,O Caminho FM
 https://servidor25-4.brlogic.com:8012/live
+#EXTINF:0,Rádio Ótima 94.5 FM
+https://ice.fabricahost.com.br/otimafm903
 #EXTINF:0,Paul In Rio
 https://usa10.fastcast4u.com/paulinrio/
 #EXTINF:0,PÉROLA FM
@@ -379,6 +397,10 @@ https://wms5.webradios.com.br:18904/8904
 http://streaming.net11.com.br:8000/rdcidadefm.aac
 #EXTINF:0,Rádio Cidade FM GO 98,1
 https://servidor34-4.brlogic.com:8486/live
+#EXTINF:0,RADIO CIDADE PHB 87.9 FM Parnaíba
+http://stm15.srvstm.com:8518/stream/1/
+#EXTINF:0,Rádio Clássicos Sertanejos
+https://player.streaminghd.net.br/proxy.php?p=11554%3Astm1
 #EXTINF:0,Rádio Clube 930 AM
 https://stream.zeno.fm/93my5pgycf9uv
 #EXTINF:0,Radio Clube AM
@@ -541,6 +563,8 @@ http://hts03.kshost.com.br:8728/live
 https://s37.maxcast.com.br:8210/live
 #EXTINF:0,Radio Majestad 105.7 FM
 http://stm28.srvstm.com:24214/stream/1/
+#EXTINF:0,Rádio Mania
+https://playerservices.streamtheworld.com/api/livestream-redirect/MANIAFM_REDEAAC.aac
 #EXTINF:0,Radio Marabá FM
 http://rvn01.painelstream.net:9274/live
 #EXTINF:0,Radio Mar Azul FM
@@ -601,6 +625,8 @@ http://hts01.kshost.com.br:8490/stream
 http://cast2.hoost.com.br:8437/stream
 #EXTINF:0,Radio Nova Friburgo 660 AM
 http://45.43.200.58:8310/stream/1/
+#EXTINF:0,Rádio Nova Geração 87,9 FM
+https://stream.zeno.fm/ma76bamgzs8uv
 #EXTINF:0,Radio Nova Satuba
 https://stream.zeno.fm/9cgpk8mz4yzuv
 #EXTINF:0,Rádio Onda FM 87.5
@@ -695,18 +721,6 @@ https://serv-audio-soflashback.audiovox.pw:7020/;?type=http&nocache=107036
 https://srv1.braudio.com.br/7008
 #EXTINF:0,Rádio Som Zão - Araturi
 http://stm12.voxtreaming.com.br:6890/stream/1/
-#EXTINF:0,Rádio Sound FM - 80s
-https://serv6.audiovox.pw:6750/;
-#EXTINF:0,Rádio Sound FM - MPB
-https://serv6.audiovox.pw:6750/;
-#EXTINF:0,Rádio Sound FM - Pagode
-https://serv6.audiovox.pw:6750/;
-#EXTINF:0,Rádio Sound FM - Rap
-https://serv6.audiovox.pw:6750/;
-#EXTINF:0,Rádio Sound FM- Reggae
-https://serv6.audiovox.pw:6750/;
-#EXTINF:0,Rádio Sound FM - Sertanejo
-https://serv6.audiovox.pw:6750/;
 #EXTINF:0,Radio Stillus Web
 http://server02.stmsg.com.br:18238/streamstream/1/stream/1/
 #EXTINF:0,Rádio Super
@@ -807,8 +821,6 @@ https://stream.zeno.fm/47p7vshdreruv
 https://rrdns-capivari.webnow.com.br/raizes.aac
 #EXTINF:0,RBR Rádio Brasileira 88.3 FM
 https://webradio.amsolution.com.br/radio/8060/radio.mp3
-#EXTINF:0,Recôncavo FM 98.5
-http://rtmp.cdn.upx.net.br/d684/myStream.sdp/playlist.m3u8
 #EXTINF:0,Recreio FM
 https://player.srvaudio.com.br/player-ssl/11328/stream/1/
 #EXTINF:0,Rede Católica de Web rádio
@@ -817,6 +829,8 @@ https://caikron.com.br:8060/stream
 http://s1.guaracast.com:8024/stream
 #EXTINF:0,Rede Terra Nativa
 http://s01.transmissaodigital.com:7404/stream/1/
+#EXTINF:0,Romantismo Sertanejo
+http://stm4.voxhd.com.br:7228/stream/1/
 #EXTINF:0,Salvador FM
 http://streaming.livecenter.com.br:9230/stream/1/
 #EXTINF:0,Sananduva FM
