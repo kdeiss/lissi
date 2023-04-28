@@ -386,7 +386,7 @@ export HOME
 
 # add, commit and push
 
-git -C $GITPATH pull
+#git -C $GITPATH pull
 git -C $GITPATH config -l
 git -C $GITPATH add .
 git -C $GITPATH commit -m "Autoupdate: `date +'%d/%b/%Y - %H:%M %p'`"
