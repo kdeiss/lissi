@@ -36,6 +36,7 @@ git clone https://github.com/kdeiss/lissi
 
 
 INSTALLATION ON ANDROID DEVICE
+
 Later, an installation type was added where the nodered server is installed directly on the Android device.
 
 In addition to the apps VLC, Smart Tube, IPTV Extreme and a Daydream application (e.g. Lucid Clock), the following apps must also be installed:
