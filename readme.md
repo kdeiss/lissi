@@ -35,6 +35,9 @@ git clone https://github.com/kdeiss/lissi
 
 
 
+
+
+
 INSTALLATION ON ANDROID DEVICE
 
 Later, an installation type was added where the nodered server is installed directly on the Android device.
@@ -51,8 +54,8 @@ An installation script is available for this type of installation, which (unlike
 
 Then in the Termux terminal:
 
-apt install wget
-wget https://raw.githubusercontent.com/kdeiss/lissi/master/termux/setup/setup_lissi.sh
+apt install wget;
+wget https://raw.githubusercontent.com/kdeiss/lissi/master/termux/setup/setup_lissi.sh;
 bash ./setup_lissi.sh
 
 This installation has a larger range of functions than the Raspian version. In order to be able to use this, the Termux Flow must be activated in Nodered.
