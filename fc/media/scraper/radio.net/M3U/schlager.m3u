@@ -117,6 +117,8 @@ https://streams.antennemv.de/bauerkorl/mp3-192/radiode/
 https://streams.antennemv.de/partymix/mp3-192/radiode/
 #EXTINF:0,AMV Schlager
 https://streams.antennemv.de/amv-schlager/mp3-128/radiode/
+#EXTINF:0,Antenne Niedersachsen Schlager
+https://stream.antenne.com/schlager/mp3-128/radiode/
 #EXTINF:0,Antenne Niedersachsen Schützenfest Hits
 https://stream.antenne.com/schuetzenfest/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Schlager Radio
@@ -427,8 +429,6 @@ http://94.23.6.107:8505/;stream.nsv
 https://dealer1952.radioca.st/stream/2/
 #EXTINF:0,Hitradio Fun
 http://5.9.16.111:8620/stream/1/
-#EXTINF:0,Hitradio Partykanone
-https://streampanel.m-hosting.eu:8035/stream
 #EXTINF:0,HITRADIO RTL - Schlager
 https://web.radio.hitradio-rtl.de/hrrtl-schlager?aggregator=radiode
 #EXTINF:0,Hitradio-Suhl
@@ -459,8 +459,6 @@ http://stream.ilmwelle.de:8000/ilmwelle_mp3
 http://stream.ilmwelle.de/ilmwelle-schlager-128.mp3
 #EXTINF:0,Jaime Radio
 https://jaimeradio.ice.infomaniak.ch/jaimeradio-64.aac
-#EXTINF:0,Jangos Power Radio
-http://94.249.254.89:8000/stream/1/
 #EXTINF:0,Jouw! Radio
 https://jouwradio.live-streams.nl/
 #EXTINF:0,Webradio kaleidoskop.rocks
@@ -1497,6 +1495,8 @@ https://stream.laut.fm/rmh-radio-music-house?ref=radiode
 https://stream.laut.fm/rmms?ref=radiode
 #EXTINF:0,Powerstadion
 https://stream.laut.fm/rnw?ref=radiode
+#EXTINF:0,ropertzschlagerradio
+https://stream.laut.fm/ropertzschlagerradio?ref=radiode
 #EXTINF:0,Rsxxl
 https://stream.laut.fm/rsxxl?ref=radiode
 #EXTINF:0,Rtd Radio
@@ -1977,12 +1977,10 @@ https://listen.radionomy.com/hitmusic-northsea
 http://server3.streamserver24.com:24016/stream/1/
 #EXTINF:0,NRWwelle
 http://144.76.84.153:21712
-#EXTINF:0,Oberpfalz Radio
-https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Radio Ö24 Steiermark
-http://rs2.easytron24.net:21036/stream/1/
+https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Oldie ANTENNE Bella Italia
-http://server28600.streamplus.de:11032/stream/1/
+http://rs2.easytron24.net:21036/stream/1/
 #EXTINF:0,Oldieclubradio
 http://streamplus14.leonex.de:24954/;
 #EXTINF:0,Oldie Party Austria
@@ -2357,12 +2355,10 @@ https://stream.lokalradio.nrw/445246x
 https://stream.lokalradio.nrw/44524d6
 #EXTINF:0,Saalewelle
 https://stream.lokalradio.nrw/44522n6
-#EXTINF:0,Radio Saalfelden Schlager Pur
-https://53a7ed211fc32.streamlock.net/asmedia/index/playlist.m3u8
 #EXTINF:0,Radio Salü Urlaubsradio
-https://www.radioking.com/play/saalewelle/457207
+https://53a7ed211fc32.streamlock.net/asmedia/index/playlist.m3u8
 #EXTINF:0,ORF Radio Salzburg
-https://server35936.streamplus.de/;stream.mp3.mp4
+https://www.radioking.com/play/saalewelle/457207
 #EXTINF:0,Radio Sauerland - Dein Schlager Radio
 http://internetradio.salue.de:8000/schlagerparty
 #EXTINF:0,radio SAW Deutsch
@@ -2623,12 +2619,10 @@ https://stream.slmm.de:8000/128
 https://s1.slotex.pl/shoutcast/7294/stream
 #EXTINF:0,Sound-of-Fantasy
 https://h2866159.stratoserver.net:8443
-#EXTINF:0,Sound-Of-Galaxy
-https://stream.hosting24h-4you.de/8030/stream/1/
 #EXTINF:0,Sound-of-Paradies
-https://c02.lexycast.de:1730/stream/1/
+https://stream.hosting24h-4you.de/8030/stream/1/
 #EXTINF:0,Sound-Phoenix
-https://azura.fun-life-radio.de:9443/radio/8020/sound-of-galaxy
+https://c02.lexycast.de:1730/stream/1/
 #EXTINF:0,special-sound-radio 
 http://stream04.stream-webradiotechnik.de:8150/stream/1/
 #EXTINF:0,SpeedyRadio
