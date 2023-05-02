@@ -5,6 +5,7 @@
 # e.g. bathroom opening door will automatically on torch and off it after SENSOR_WAIT
 # V 0.0.1.26.04.23
 # V 0.0.2.28.04.23	external cfg file
+# V 0.0.3.2.05.23	off radio playing after sensor wait
 
 
 WPATH=`dirname $0`
@@ -19,9 +20,13 @@ NULL="$WPATH/null"
 SENSOR_NAME="CM36686 Light"	# name of sensor
 SENSOR_DIFF=1			# max to diff to previous value
 SENSOR_THRESHOLD=4		# threshold
-SENSOR_WAIT=3			# wait n minutes to revert the sensor action
+SENSOR_WAIT=15			# wait n minutes to revert the sensor action
+
 SENSOR_PLAY_RADIO=1		# play something if sensor is acting - note play will be continuely 
-SENSOR_PLAY_RADIO_CMD="/data/data/com.termux/files/opt/lissi/fc/WEBPAGE.sh WEB_pl_wdr2" # what to play - here a website with background radio 
+#SENSOR_PLAY_RADIO_CMD="/data/data/com.termux/files/opt/lissi/fc/WEBPAGE.sh WEB_pl_wdr2" # what to play - here a website with background radio 
+SENSOR_PLAY_RADIO_CMD="/data/data/com.termux/files/opt/lissi/fc/RPLAYER.sh RP_3_wdr"	# what to play - here standard webradio 
+SENSOR_STOP_RADIO_CMD="/data/data/com.termux/files/opt/lissi/fc/RPLAYER.sh RP_1_oth"	# stop playing - here short mp3 file
+
 SENSOR_TAKE_SNAP=0		# take a snap
 SENSOR_TAKE_SNAP_CMD="/data/data/com.termux/files/opt/lissi/termux/takesnap/take-snap.sh" # path to snapper
 
@@ -65,16 +70,10 @@ function do_torch_on
     if [ $SENSOR_PLAY_RADIO -eq 1 ];then
 	echo "`date` INF Play radio!" >> $LOG
 	$SENSOR_PLAY_RADIO_CMD &>>$LOG
-	sleep 15
-	$SENSOR_PLAY_RADIO_CMD &>>$LOG
-	sleep 15
-	$SENSOR_PLAY_RADIO_CMD &>>$LOG
 	cd $WPATH
     fi
 
 }
-
-
 
 
 function do_torch_off
@@ -82,6 +81,12 @@ function do_torch_off
     echo "`date` INF Switch torch to off!" >> $LOG
     termux-torch off
     echo "off" >$TMPFNAME
+
+    if [ $SENSOR_PLAY_RADIO -eq 1 ];then
+	echo "`date` INF sending sequence to stop radio!" >> $LOG
+	$SENSOR_STOP_RADIO_CMD &>>$LOG
+	cd $WPATH
+    fi
 }
 
 
@@ -147,8 +152,6 @@ while true ; do
 	$0 &
 	exit 0
     fi
-
-sleep 0.1
 done
 
 clean_exit
