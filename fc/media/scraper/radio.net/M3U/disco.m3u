@@ -183,8 +183,6 @@ https://deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high
 https://deltaparty.ice.infomaniak.ch/deltaparty-128.mp3
 #EXTINF:0,DFK 24/7
 https://cast3.asurahosting.com/proxy/jason124/live
-#EXTINF:0,DGLR
-https://icecast1.mein-radiostream.de/dglr64.aac
 #EXTINF:0,DISCO
 https://stream2.radiodienst.de/proxy/toneart/disco
 #EXTINF:0,Disco 88.9 FM
@@ -294,7 +292,7 @@ https://streaming.live365.com/a71465
 #EXTINF:0,Funk 42
 https://funk42.radioca.st/stream/1/
 #EXTINF:0,FUNK and CO 
-https://funkandco-radio.torontocast.stream/funkandco-mp3.pls
+https://cast1.torontocast.com:1440/stream
 #EXTINF:0,Funkstar Radio
 https://funkstar.radioca.st/stream?ver=153586
 #EXTINF:0,Funky Radio
@@ -335,8 +333,6 @@ https://stream.deevaradio.net:10443/divaradiodisco?highlight
 https://stream.deevaradio.net:10443/divaradiodisco?highlight
 #EXTINF:0,DISCO por Costa del Mar Funky
 https://www.cdm-radio.com/cdm-funky-mp3.m3u?highlights
-#EXTINF:0,Radio Highpower On Air
-https://stream.hosting24h-4you.de:7014/stream/1/
 #EXTINF:0,Hit FM Zlatoust 101.8
 http://variant.fm:8000/RECORD-192
 #EXTINF:0,Hitkanal.FM Party
@@ -413,6 +409,8 @@ https://kissfmclassicdance.ice.infomaniak.ch/kissfmclassicdance-192.mp3
 https://stream.laut.fm/kissspower?ref=radiode
 #EXTINF:0,Kool 182
 https://kool.stream.laut.fm/kool
+#EXTINF:0,KULTRA-FM
+http://streamplus20.leonex.de:16010/;
 #EXTINF:0,Kuschel-radio
 https://stream.laut.fm/kuschel-radio?ref=radiode
 #EXTINF:0,KVRA Solid Gold Power Radio
@@ -421,6 +419,8 @@ https://streaming.live365.com/a64609
 http://broadcast.radioponiente.org:8032
 #EXTINF:0,030-berlinfm
 https://stream.laut.fm/030-berlinfm?ref=radiode
+#EXTINF:0,1000 Dance
+https://stream.laut.fm/1000dance?ref=radiode
 #EXTINF:0,1000discohits
 https://stream.laut.fm/1000discohits?ref=radiode
 #EXTINF:0,4life.fm
@@ -431,6 +431,8 @@ https://stream.laut.fm/54-funk-soul-dance?ref=radiode
 https://stream.laut.fm/889fm?ref=radiode
 #EXTINF:0,Abriss 2020
 https://stream.laut.fm/abriss2020?ref=radiode
+#EXTINF:0,arfm
+https://stream.laut.fm/arfm?ref=radiode
 #EXTINF:0,Beach Party
 https://stream.laut.fm/beach-party?ref=radiode
 #EXTINF:0,Beatdevil Radio
@@ -453,6 +455,8 @@ https://stream.laut.fm/cloudfmmain?ref=radiode
 https://stream.laut.fm/clubdate?ref=radiode
 #EXTINF:0,ClubHouse
 https://stream.laut.fm/minemusic-clubhouse?ref=radiode
+#EXTINF:0,Clubtechno FM
+https://stream.laut.fm/clubtechnofm?ref=radiode
 #EXTINF:0,Cmdj
 https://stream.laut.fm/cmdj?ref=radiode
 #EXTINF:0,crazy4live
@@ -475,8 +479,12 @@ https://stream.laut.fm/danceradio-sunshine?ref=radiode
 https://stream.laut.fm/darkdanceclub?ref=radiode
 #EXTINF:0,das1_radio
 https://stream.laut.fm/das1_radio?ref=radiode
+#EXTINF:0,deep-inside-heart-beat
+https://stream.laut.fm/deep-inside-heart-beat?ref=radiode
 #EXTINF:0,dein-radio-berlin
 https://stream.laut.fm/dein-radio-berlin?ref=radiode
+#EXTINF:0,die2
+https://stream.laut.fm/die2?ref=radiode
 #EXTINF:0,disco
 https://stream.laut.fm/disco?ref=radiode
 #EXTINF:0,Disco 70
@@ -505,6 +513,10 @@ https://stream.laut.fm/dj_little_base?ref=radiode
 https://stream.laut.fm/djmat?ref=radiode
 #EXTINF:0,DJramon
 https://stream.laut.fm/djramon?ref=radiode
+#EXTINF:0,Dmr
+https://stream.laut.fm/dmr?ref=radiode
+#EXTINF:0,Donath 1987
+https://stream.laut.fm/donath1987?ref=radiode
 #EXTINF:0,Dyhnunityfm Party
 https://stream.laut.fm/dyhnunityfm-party?ref=radiode
 #EXTINF:0,easyfm-mashup
@@ -557,10 +569,20 @@ https://stream.laut.fm/heinz-hugo?ref=radiode
 https://stream.laut.fm/hitradio-niedersachsen?ref=radiode
 #EXTINF:0,italo-disco
 https://stream.laut.fm/italo-disco?ref=radiode
+#EXTINF:0,Italoscene
+https://stream.laut.fm/italoscene?ref=radiode
+#EXTINF:0,Jb Radio
+https://stream.laut.fm/jb-radio?ref=radiode
+#EXTINF:0,joiceradio
+https://stream.laut.fm/joiceradio?ref=radiode
 #EXTINF:0,kinderdisco
 https://stream.laut.fm/kinderdisco?ref=radiode
 #EXTINF:0,Kneipennacht
 https://stream.laut.fm/kneipennacht?ref=radiode
+#EXTINF:0,Kool
+https://stream.laut.fm/kool?ref=radiode
+#EXTINF:0,Legardo Games
+https://stream.laut.fm/legardo-games?ref=radiode
 #EXTINF:0,Lionsgate 1
 https://stream.laut.fm/lionsgate-_1?ref=radiode
 #EXTINF:0,lukas_on_air
@@ -591,6 +613,8 @@ https://stream.laut.fm/netzwerkstationen?ref=radiode
 https://stream.laut.fm/newradio?ref=radiode
 #EXTINF:0,Night Eventz
 https://stream.laut.fm/night-eventz?ref=radiode
+#EXTINF:0,Nightlife Radio
+https://stream.laut.fm/nightlife-radio?ref=radiode
 #EXTINF:0,niso
 https://stream.laut.fm/niso?ref=radiode
 #EXTINF:0,Noahdev
@@ -601,6 +625,10 @@ https://stream.laut.fm/party4beats?ref=radiode
 https://stream.laut.fm/party-dj-radio?ref=radiode
 #EXTINF:0,Partyhard
 https://stream.laut.fm/partyhard?ref=radiode
+#EXTINF:0,party-move-radio
+https://stream.laut.fm/party-move-radio?ref=radiode
+#EXTINF:0,Partyonly
+https://stream.laut.fm/partyonly?ref=radiode
 #EXTINF:0,Partywolf
 https://stream.laut.fm/partywolf?ref=radiode
 #EXTINF:0,pfmremix
@@ -615,6 +643,10 @@ https://stream.laut.fm/power99fm?ref=radiode
 https://stream.laut.fm/powerbeat-radio?ref=radiode
 #EXTINF:0,Power Of Love
 https://stream.laut.fm/power-of-love?ref=radiode
+#EXTINF:0,radio112
+https://stream.laut.fm/radio112?ref=radiode
+#EXTINF:0,radio30plus
+https://stream.laut.fm/radio30plus?ref=radiode
 #EXTINF:0,radio4you
 https://stream.laut.fm/radio4you?ref=radiode
 #EXTINF:0,Radioaltekneipe
@@ -635,6 +667,8 @@ https://stream.laut.fm/radiodisco?ref=radiode
 https://stream.laut.fm/radiodracarys-and-sings?ref=radiode
 #EXTINF:0,RadioFloh!
 https://stream.laut.fm/radiofloh?ref=radiode
+#EXTINF:0,RadioInstrumental
+https://stream.laut.fm/radioinstrumental?ref=radiode
 #EXTINF:0,radionightclub21
 https://stream.laut.fm/radionightclub21?ref=radiode
 #EXTINF:0,Radiotempel
@@ -799,6 +833,8 @@ https://streamingp.shoutcast.com/radio-oxygene-grenoble
 http://45.64.97.211:9874/;
 #EXTINF:0,OZZI FM
 https://stream.zeno.fm/8nrpgvauyv8uv
+#EXTINF:0,PALACE RADIO PARIS
+https://www.radioking.com/play/palace-radio/116740
 #EXTINF:0,Paradise Radio
 https://stream.radioparadise.com/mp3-192
 #EXTINF:0,Party-Bass-radio
@@ -859,6 +895,8 @@ https://stream.zeno.fm/azkg5xw6wv8uv
 https://s3.slotex.pl/shoutcast/7078/stream?sid=1
 #EXTINF:0,Radio 531 3GG
 https://playerservices.streamtheworld.com/api/livestream-redirect/3GGAAC_SC
+#EXTINF:0,Radio 675
+http://nr5.newradio.it:8819/stream/1/
 #EXTINF:0,Arabella Disco Night
 https://live.stream.radioarabella.de/radioarabella-disconight?aggregator=radiode
 #EXTINF:0,Radio Arumarka Rock 80s.
@@ -933,6 +971,8 @@ http://88.198.175.30:6377/stream
 https://manager8.streamradio.fr:1605/stream
 #EXTINF:0,Radio Italo Disco Net
 http://65.21.202.84:8356/stream
+#EXTINF:0,Radio Illertal
+https://stream.radioillertal.de:8002/stream/1/
 #EXTINF:0,Radio Lifeline
 https://mscp2.live-streams.nl:8192/lifelinemp3
 #EXTINF:0,Radio Luc
@@ -951,8 +991,6 @@ https://servermax.azuracast.com.es/listen/radio_silencio_fm/silenciofmarequipa/m
 https://stream.zeno.fm/d8225wv7hg8uv
 #EXTINF:0,RadioMiX
 https://video.mediawebchile.com:2000/stream/radiomixsc/stream
-#EXTINF:0,RADIO MSIC JORGE
-https://sonic.panelchs.com/8158/;
 #EXTINF:0,Radio Music Free
 https://ssl5.server89.com:8050/stream/1/
 #EXTINF:0,Radio Ninove
@@ -975,6 +1013,8 @@ https://stream.zeno.fm/60xs671wy1zuv
 https://ssl-1.radiohost.pl:9470/stream.mp3
 #EXTINF:0,Radio Prelude
 https://broadcast.miami/proxy/prelude?mp=/stream/;
+#EXTINF:0,Radio Puerto Montt FM
+http://149.56.31.15:8018/stream/1/
 #EXTINF:0,Disco Pyatnica
 https://cast.radiogroup.com.ua/radiopyatnica320
 #EXTINF:0,Radio-Radeberg
@@ -1063,6 +1103,8 @@ https://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3
 https://stream.rpr1.de/70er/aac-128/radiode
 #EXTINF:0,R.SA - 80er Disco
 https://streams.rsa-sachsen.de/80erdisco/mp3-192/radiode/
+#EXTINF:0,R.SA – Disco
+https://streams.rsa-sachsen.de/disco/mp3-192/radiode/
 #EXTINF:0,Radio SCOOP - Disco Funk 
 https://scoopdisco.ice.infomaniak.ch/radioscoop-disco-64.aac
 #EXTINF:0,Settumps Radio
@@ -1124,7 +1166,7 @@ http://stream.tauragesradijas.lt:8000/tr1
 #EXTINF:0,TEMPO FM 103.9
 http://r13.ciclano.io:8609/stream
 #EXTINF:0,test-220816-en-GB
-https://ice10.securenetsystems.net/KZSTFM
+https://tuner.m1.fm/chillout.mp3
 #EXTINF:0,The Disco Palace
 https://broadcast.miami/proxy/thediscopalace?mp=/stream
 #EXTINF:0,The Disco Paradise
@@ -1165,6 +1207,8 @@ https://stream.ukdjs.radio:8984/ukdjs
 https://stream.zeno.fm/f530355g9k8uv
 #EXTINF:0,Radio Unidisco
 https://broadcast.miami/proxy/unidisco?mp=/stream/;
+#EXTINF:0,Up&Down Music Radio
+https://listen.radionomy.com/up-downmusicradio
 #EXTINF:0,UP RADIO
 https://listen.radioking.com/radio/208624/stream/251509
 #EXTINF:0,USA Dance Mix
@@ -1191,8 +1235,10 @@ http://stream.zeno.fm/0zf3vbuvx8quv
 https://s16.maxcast.com.br:8228/live
 #EXTINF:0,XXL Radio
 https://azuracast.xxl-music.de/listen/xxl-music/radio.mp3
-#EXTINF:0,Yimago Radio 3
+#EXTINF:0,Yes Radio
 https://server-26.stream-server.nl:18614/stream
+#EXTINF:0,Yimago Radio 3
+https://yesradio2.ice.infomaniak.ch/yesradio2-96.mp3
 #EXTINF:0,ZUN radio
 https://strw1.openstream.co/874?
 #EXTINF:0,zunradio
