@@ -483,6 +483,8 @@ http://s3.onweb.gr:8500/;
 https://icecast.armyfm.com.ua:8443/ArmyFM
 #EXTINF:0,Asia FM 亚洲天空台
 https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:0,Radio AskFM
+https://stream12.hosterion.pl:9610/Askfm
 #EXTINF:0,Astro Radio 96.4 FM
 http://eco.onestreaming.com:8099/stream/1/
 #EXTINF:0,Athens Deejay 95.2
@@ -1477,8 +1479,6 @@ https://streams.ffh.de/ffhchannels/aac/hqtop1000.aac?amsparams=playerid:RTFFHRad
 https://streams.ffh.de/ffhchannels/mp3/hqtop40.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,FFH Workout
 https://streams.ffh.de/ffhchannels/mp3/hqworkout.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,Fire 104.9 FM
-https://usa4.fastcast4u.com/proxy/qzxeehgd?mp=%2F1
 #EXTINF:0,Radio Firenze
 https://stream9.xdevel.com/audio3s976317-1147/stream/icecast.audio
 #EXTINF:0,Radio Fiume Ticino
@@ -1565,6 +1565,8 @@ http://streamplus19.leonex.de:10398/;
 https://server18857.streamplus.de/stream.mp3
 #EXTINF:0,Fun77.1
 https://s9.citrus3.com:2020/public/funcidy
+#EXTINF:0,Fun Radio - Live
+https://stream.funradio.sk:18443/fun128.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -2011,6 +2013,10 @@ https://ssl1.transmissaodigital.com:2274/stream
 http://paineldj2.com.br:8200/stream/1/
 #EXTINF:0,Jovem Pan FM Campinas
 http://paineldj2.com.br:8200/stream/1/
+#EXTINF:0,Jovem Pan FM Cascavel
+https://shout35.crossradio.com.br:18008/1
+#EXTINF:0,Jovem Pan FM Curitiba
+https://shout35.crossradio.com.br:18006/1
 #EXTINF:0,Jovem Pan FM Dracena
 https://ice.fabricahost.com.br/jpdracena
 #EXTINF:0,Jovem Pan FM Florianópolis
@@ -2037,6 +2043,8 @@ http://centova14.ciclanohost.com.br:8405/stream/1/
 https://shout25.crossradio.com.br:24030/1
 #EXTINF:0,Jovem Pan FM Poços de Caldas
 http://r18.ciclano.io:9724/stream.mp3
+#EXTINF:0,Jovem Pan FM Ponta Grossa
+https://shout35.crossradio.com.br:18010/1
 #EXTINF:0,Jovem Pan FM Recife
 https://c1.audiostream.com.br:20001/stream
 #EXTINF:0,Jovem Pan FM Santos
@@ -2749,6 +2757,8 @@ https://stream.laut.fm/ehrenbergonair?ref=radiode
 https://stream.laut.fm/eifelfm?ref=radiode
 #EXTINF:0,einfachcharts
 https://stream.laut.fm/einfachcharts?ref=radiode
+#EXTINF:0,enery_fm
+https://stream.laut.fm/enery_fm?ref=radiode
 #EXTINF:0,enjoy
 https://stream.laut.fm/enjoy?ref=radiode
 #EXTINF:0,epicfm
@@ -4541,8 +4551,6 @@ https://portalcumbia.radioca.st/
 https://cleo.shoutca.st/radio/8130/stream
 #EXTINF:0,Power 91
 https://streaming.live365.com/a01529
-#EXTINF:0,Power 963.net
-http://live.rcast.net:8748/;
 #EXTINF:0,Power 98.5 FM
 https://streaming.radio.co/s0c6f064a4/listen
 #EXTINF:0,Power FM 93.2
@@ -4621,8 +4629,6 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_qlmb_32.aac
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3?aw_0_1st.playerId=radionet
 #EXTINF:0,Splendid Radio Kansas
 https://stream.zeno.fm/qt4vn5yelsgtv
-#EXTINF:0,Queerly | LGBTQ+ Radio
-https://listen.queerlyradio.com
 #EXTINF:0,R24 Radio
 http://185.80.220.12:7047/stream
 #EXTINF:0,Raadio Kadi
@@ -4969,8 +4975,6 @@ http://yayin2.canliyayin.org:8698/;
 https://streaming.shoutcast.com/radiolina
 #EXTINF:0,Radio Line 99.1 FM
 https://online.radioline.fm:8443/stream
-#EXTINF:0,radio loena
-https://igor.torontocast.com:2765/stream
 #EXTINF:0,Radio Maeva
 https://rbx2.hnux.com/149.202.22.75:8598/stream/1/
 #EXTINF:0,Radio Magenta
@@ -5365,8 +5369,6 @@ http://wma01.fluidstream.net:7170/;
 https://nrf1.newradio.it:10058/stream
 #EXTINF:0,Radio Record Orenburg
 https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
-#EXTINF:0,Rádio Rede Dakota
-http://109.169.76.155:13324/
 #EXTINF:0,Cork's Red FM
 https://edge.audioxi.com/RED
 #EXTINF:0,REM
@@ -5897,8 +5899,6 @@ https://stream-54.zeno.fm/wnfbv7abnytuv?zs=8QRdzSgZRVCIZ4d2PMfmKw
 https://ec5.yesstreaming.net:2895/stream
 #EXTINF:0,Tribuna FM 88.5
 https://str1.streamhostpg.com.br:8032/stream
-#EXTINF:0,TRIK FM
-https://pavo.prostreaming.net:8108/stream
 #EXTINF:0,Radio Trinitat Vella 91.6 FM
 https://server1.emitironline.com:11566/radio.mp3
 #EXTINF:0,Truckers.FM
@@ -5941,8 +5941,6 @@ https://sp3.servidorrprivado.com/8100/stream
 http://tuner.m1.fm/charts.mp3?umfrage
 #EXTINF:0,Unika FM Pamplona
 https://stream.radiojar.com/7qyvpnex9vzuv
-#EXTINF:0,Uniradio Cesena
-https://stream.uniradiocesena.it/aac
 #EXTINF:0,United FM Radio Jamz
 https://radio1.xn--9o8hpe.ws:7025/;
 #EXTINF:0,Upsas

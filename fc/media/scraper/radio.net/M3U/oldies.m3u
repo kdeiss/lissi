@@ -793,8 +793,6 @@ http://server28364.streamplus.de:10020/;
 http://87.98.245.250:8378/stream/1/
 #EXTINF:0,Club Retro
 http://s7.voscast.com:8504/stream/1/
-#EXTINF:0,Clubstory
-https://manager.conceptradio.fr:1085/stream
 #EXTINF:0,Club Trifal - Lounge
 http://stream.trifal.com:8000/lounge
 #EXTINF:0,Club Trifal - Oldies
@@ -815,8 +813,6 @@ https://stream.radiocontinu.nl/radiocontinu
 https://s2.yesstreaming.net:17161/stream
 #EXTINF:0,Cool Oldies
 http://c8.radioboss.fm:8114/stream
-#EXTINF:0,Cool Oldies 96
-http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream/1/
 #EXTINF:0,Cool Oldies MKE
@@ -1183,8 +1179,6 @@ https://funkyradio.streamingmedia.it/brasil
 https://funkyradio.streamingmedia.it/uk
 #EXTINF:0,FUNKY RADIO (USA)
 https://listen01.my-webradio.com/play.aac
-#EXTINF:0,fun-life-radio
-https://azura.fun-life-radio.de:9443/radio/8000/radio.mp3
 #EXTINF:0,FunNightRadio
 http://f-nr.eu:8050
 #EXTINF:0,GABMS Mostly Sinatra 24/7
@@ -1217,8 +1211,6 @@ https://ais-sa1.streamon.fm/7135_48k.aac?_=190966
 http://gli1290.ddns.net:8000
 #EXTINF:0,Global Hits
 https://stream.zeno.fm/e3r11d73sfeuv
-#EXTINF:0,Go Yesteryears | BongOnet
-http://radio.bongonet.net:8016/goyesteryears
 #EXTINF:0,Go Go Radio Gibraltar
 http://kepler.shoutca.st:8215/stream/1/
 #EXTINF:0,Radio Golden Flash
@@ -1518,7 +1510,7 @@ http://stream.zeno.fm/n9kladzriqzuv
 #EXTINF:0,JOYradio
 http://87.98.242.139:8110/stream/1/
 #EXTINF:0,J-Pop Sakura Natsukashii
-https://igor.torontocast.com:1710/stream/1/
+https://cast1.torontocast.com:2170/;
 #EXTINF:0,JT Radio
 https://streaming.live365.com/a47781
 #EXTINF:0,Jukebox Radio
@@ -3541,10 +3533,8 @@ http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 http://stream.zeno.fm/flnk47wp7bnvv
 #EXTINF:0,Radio Flora
 https://servidor34-3.brlogic.com:8286/live
-#EXTINF:0,radiofmwolf
-https://radioflora.de/stream/live48.mp3
 #EXTINF:0,Radiofoxgarden
-https://fred.torontocast.com:1205/stream
+https://radioflora.de/stream/live48.mp3
 #EXTINF:0,radio freak
 https://www.radiofoxgarden.de/listen.pls
 #EXTINF:0,Radio Freizeit
@@ -3753,10 +3743,8 @@ https://ramasuri-live.cast.addradio.de/ramasuri/live/mp3/high?ar-distrbutor=f0a0
 https://stream.zeno.fm/m8da9u22kwzuv
 #EXTINF:0,Radio Recuerdo 860
 http://s2.zkm-stream.de:8000/;
-#EXTINF:0,RADIO REDE DAKOTA
-https://playerservices.streamtheworld.com/api/livestream-redirect/XENLAM_SC
 #EXTINF:0,Radio Regenbogen - Oldies
-http://109.169.76.155:13324/
+https://playerservices.streamtheworld.com/api/livestream-redirect/XENLAM_SC
 #EXTINF:0,Radio Reggio
 https://stream.regenbogen.de/oldies/aac-128/radiode
 #EXTINF:0,Radio Republica Internacional
@@ -4025,10 +4013,8 @@ https://stream.zeno.fm/gpr6343wwc9uv
 http://www.musicradio77.com:9000/stream/1/
 #EXTINF:0,Ritzy RADIO
 https://radioerft--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radioerft/live/mp3/high
-#EXTINF:0,River Theater Radio
-https://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:0,RTL Gold
-https://s30.myradiostream.com/:31904/listen.mp3
+https://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:0,RMF Beatlemania
 https://shoutcast.rtl.lu/rtlgold
 #EXTINF:0,RMF Gold
@@ -4229,8 +4215,10 @@ https://live.stream.charivari.de/955charivari-sommerhits?aggregator=radio.de
 https://listen.soulradio.us/us
 #EXTINF:0,Sound of Blue
 https://stream.laut.fm/soundexpress?ref=radiode
-#EXTINF:0,Sound of Spitfire
+#EXTINF:0,Sound-Of-Galaxy
 https://s5.stream-webradiotechnik.de:9902/stream/1/
+#EXTINF:0,Sound of Spitfire
+https://azura.fun-life-radio.de:9443/radio/8020/sound-of-galaxy
 #EXTINF:0,Sounds Of Philly
 https://s3.radio.co/sbdecd867f/listen
 #EXTINF:0,meldoy-4-scorpion
@@ -4303,8 +4291,10 @@ http://37.59.82.11:8010/;
 https://c2.hostingcentar.com/streams/radiostubica//;&type=mp3
 #EXTINF:0,Studio ANT
 https://stream.studio-aktiv.com:10500/Studio-Aktiv-MP3-48
-#EXTINF:0,Studio Grensstad
+#EXTINF:0,Studio B Radio - WSBR
 https://listen.radionomy.com/studio-ant.m3u
+#EXTINF:0,Studio Grensstad
+http://stream.zeno.fm/kbc2fmnfxkuvv
 #EXTINF:0,Studio Kempen
 https://stream3.mfmstreaming.nl:2390/stream
 #EXTINF:0,StudioRadio - The Vintage Station
@@ -4505,10 +4495,8 @@ https://ice23.securenetsystems.net/TANDCRADIO
 http://server.laradio.online:8233/stream/1/
 #EXTINF:0,Tribute Radio
 https://traxx023.ice.infomaniak.ch/traxx023-1.mp3
-#EXTINF:0,TRIK FM
-http://64.20.39.8:8141/stream/1/
 #EXTINF:0,Triomantica
-https://pavo.prostreaming.net:8108/stream
+http://64.20.39.8:8141/stream/1/
 #EXTINF:0,Tripl3 Troubl3 Radio
 https://stream.zeno.fm/h2n3qh8q8k8uv
 #EXTINF:0,TrueColorsRadio
@@ -4681,10 +4669,8 @@ https://ice41.securenetsystems.net/WAUH
 https://streamdb8web.securenetsystems.net/cirruscontent/WAXS
 #EXTINF:0,WBIC - Top Hits Radio
 http://s5.citrus3.com:8244/stream
-#EXTINF:0,WBLA 1440 AM
-https://streaming.live365.com/a88743
 #EXTINF:0,WBLT Boomtown Radio
-https://ice66.securenetsystems.net/WBLA
+https://streaming.live365.com/a88743
 #EXTINF:0,WBNJ - 91.9 FM
 http://144.217.158.59:5156/stream
 #EXTINF:0,WBNR-DB - myBNR

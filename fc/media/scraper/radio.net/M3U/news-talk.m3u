@@ -511,8 +511,6 @@ http://stream2.bbnradio.org:8000/spanish
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=%2Fstream
 #EXTINF:0,BBS Radio Station 1
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=/stream
-#EXTINF:0,BBS Radio Station 2
-https://cast.bbstalkradio.com/proxy/bbsradio2?mp=/stream
 #EXTINF:0,WBVP & WMBA Radio
 https://ice23.securenetsystems.net/WBVP?
 #EXTINF:0,Bela FM
@@ -855,6 +853,8 @@ http://148.72.152.177:8012/stream
 http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 #EXTINF:0,Radio CANAL+HAITI
 https://stream.zeno.fm/v0tdtku9exquv
+#EXTINF:0,CanalSur Radio Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8
 #EXTINF:0,Candil Radio
 https://candilradio.com/liveradio/candil/live.mp3
 #EXTINF:0,Rádio Capital 1040 AM
@@ -1875,6 +1875,8 @@ https://ice5.securenetsystems.net/KBHR
 https://desertmountainbroadcasting.streamguys1.com/KBLG
 #EXTINF:0,KBND Newstalk 1110
 https://ice10.securenetsystems.net/KBND
+#EXTINF:0,KBNR Manantial 88.3 FM
+https://wrn.streamguys1.com/kbnr
 #EXTINF:0,KBOI - News Talk 670
 https://playerservices.live.streamtheworld.com/api/livestream-redirect/KBOIAMAAC.aac
 #EXTINF:0,KBPN KCCD KGAC KFSP KGAC KITF KNOW-FM KNSE KNSR KNSW KNTN KNWF KRSU WGRH WIRC WIRN WLSN WSCN KLSE KR
@@ -2273,8 +2275,6 @@ https://streaming.live365.com/a25079
 https://ice66.securenetsystems.net/KMLB
 #EXTINF:0,KMOX - NewsRadio 1120 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KMOXAMAAC.aac
-#EXTINF:0,KMPQ Ascension Radio
-http://mpaq.org:5804/studio1.mp3
 #EXTINF:0,KMRS 1230 AM
 https://ice8.securenetsystems.net/KMRS
 #EXTINF:0,KMSK 91.3 FM - KMSU The Maverick
@@ -2697,6 +2697,8 @@ http://134.121.234.129:8000/NWPRCLASSICAL
 https://bonneville.cdnstream1.com/2707_48.aac
 #EXTINF:0,KZNT The Answer 1460 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZNTAMAAC_SC
+#EXTINF:0,KZNU Fox News 1450
+https://ice10.securenetsystems.net/KZNU2
 #EXTINF:0,KZOT - The Zone 2 1180 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC.aac
 #EXTINF:0,KZRG - NewsTalk 1310 AM
@@ -3779,8 +3781,6 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
-#EXTINF:0,Radio FM Oasis 95.7
-http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://sg.centrocibernetico.com/formula103
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -4323,6 +4323,8 @@ https://mediavod-lvlt.rtve.es/resources/TE_SCRON07/mp3/6/4/1648451466246.mp3
 https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio
 #EXTINF:0,ROC FM
 http://manager.conceptradio.fr:2310/;stream
+#EXTINF:0,American Comedy
+https://streaming04.liveboxstream.uk/proxy/roksta16/stream
 #EXTINF:0,British Comedy 1
 https://streaming04.liveboxstream.uk/proxy/roksta14/stream
 #EXTINF:0,British Comedy 2 
@@ -4845,6 +4847,8 @@ http://radio-shoutcast.cyber-streaming.com:8002/stream
 http://stream.zeno.fm/f1thd6b95uhvv
 #EXTINF:0,Volna Schastiya
 http://radio.volnaschastiya.com:9972/;
+#EXTINF:0,Voskresenie
+http://www.orthodox-ural.ru:8000/stream.mp3
 #EXTINF:0,Vox FM Honduras
 https://ice42.securenetsystems.net/VOXFM
 #EXTINF:0,Voyage FM
@@ -5021,8 +5025,6 @@ https://ice7.securenetsystems.net/WCKG?
 https://stream.revma.ihrhls.com/zc1697/hls.m3u8
 #EXTINF:0,WCLE - The Buzz 1570 AM
 https://icecast.voiceopia.com:8000/1013thebuzz.mp3
-#EXTINF:0,WCLO Newsradio 1230 AM
-https://crystalout.surfernetwork.com:8001/WCLO-AM_MP3
 #EXTINF:0,WCME - 900 AM
 http://janus.cdnstream.com:8082/;
 #EXTINF:0,WCMY 1430 AM

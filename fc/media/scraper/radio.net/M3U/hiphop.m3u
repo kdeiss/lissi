@@ -337,6 +337,8 @@ http://breakradio.ice.infomaniak.ch/breakradio-192.mp3
 https://breakz-high.rautemusik.fm/
 #EXTINF:0,Bremen NEXT
 https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:0,Brightstar Studios
+https://s17.ssl-stream.com/proxy/brightstar?mp=/stream
 #EXTINF:0,Broadcast Hip-Hop Network 
 https://live.amperwave.net/direct/broadcasthiphop-broadcasthiphopnetworkaac-imc
 #EXTINF:0,Broadtube Radio
@@ -1901,8 +1903,6 @@ http://94.130.242.5:8016/stream/1/
 http://radio.promodj.com:8000/yo
 #EXTINF:0,Peli One
 https://server5528.streamplus.de/stream/1/
-#EXTINF:0,Perfect Radio Limpopo
-https://sv2.famcast.co.za/proxy/fjjfsrvk?mp=%2Fstream
 #EXTINF:0,Perriando-Caliente-Remixs-Non-Stop
 http://player.xcast.com.br/proxy/6990
 #EXTINF:0,Pigpen Radio
@@ -2089,6 +2089,8 @@ https://edge.mixlr.com/channel/hkhvq
 http://hiphoplive.radionoise.ro:9110/listen.pls
 #EXTINF:0,Radio Okerwelle
 https://stream.okerwelle.de/okw.mp3
+#EXTINF:0,Rádio online Cover mix
+https://s1.bycast.com.br:8020/live
 #EXTINF:0,RadiopantherFM
 http://213.202.241.199:8856/stream/1/
 #EXTINF:0,RadioParty Energy 2000
