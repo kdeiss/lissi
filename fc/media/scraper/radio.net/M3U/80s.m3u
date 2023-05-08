@@ -182,7 +182,7 @@ https://nr8.newradio.it:19574/stream
 #EXTINF:0,70 80 Non Stop
 http://shoutcast3.streamingmedia.it:3038/stream/1/
 #EXTINF:0,7080rocks
-https://fred.torontocast.com:2375/stream
+http://cast1.torontocast.com:1460/stream
 #EXTINF:0,70s 80s All Time Greatest
 https://stream.zeno.fm/e1n8bq4wawzuv
 #EXTINF:0,70s 80s All Time Greatest
@@ -325,8 +325,6 @@ https://live.leanstream.co/CKCBFM
 https://vistaradio.streamb.live/SB00082
 #EXTINF:0,96.1 Jamz
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHBXFMAAC.aac
-#EXTINF:0,96.5 Inner FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/3NRAAC.pls
 #EXTINF:0,96Nine - The Net. Grove City Radio
 https://streaming.live365.com/a75514
 #EXTINF:0,97.7 Max FM
@@ -739,6 +737,8 @@ https://icy-e-03-boh.sharp-stream.com/ssvcbfbs21.mp3
 https://ice31.securenetsystems.net/BGFMRAD
 #EXTINF:0,BGX Radio | Classic Hits No Shit
 https://cast4.asurahosting.com/proxy/ken/stream/1/
+#EXTINF:0,Big Boom Radio
+https://streaming.live365.com/a33594
 #EXTINF:0,BIG HAIR RADIO
 http://192.111.140.11:8508/stream
 #EXTINF:0,BigR - 70s and 80s Pop Mix
@@ -1121,6 +1121,8 @@ http://04.painelstreaming.com.br:27146/stream/1/
 http://65.109.81.84:8334/stream
 #EXTINF:0,Club Retro
 http://s7.voscast.com:8504/stream/1/
+#EXTINF:0,Clubstory
+https://manager.conceptradio.fr:1085/stream
 #EXTINF:0,Coast FM Classic Gold
 http://213.175.217.198:8000/coast-gold
 #EXTINF:0,Código Libre Radio
@@ -1473,10 +1475,6 @@ https://streaming.exclusive.radio/er/abba/icecast.audio
 https://streaming.exclusive.radio/er/davidbowie/icecast.audio
 #EXTINF:0,Exclusively Kraftwerk
 https://streaming.exclusive.radio/er/kraftwerk/icecast.audio
-#EXTINF:0,Exclusively Love 80s
-https://streaming.exclusive.radio/er/love80s/icecast.audio
-#EXTINF:0,Exclusively Love 90s
-https://streaming.exclusive.radio/er/love90s/icecast.audio
 #EXTINF:0,Exclusively Queen
 https://streaming.exclusive.radio/er/queen/icecast.audio
 #EXTINF:0,Exclusively The Bee Gees
@@ -2019,8 +2017,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SAM11AAC080_SC.
 https://streaming.radio.co/s735df8c1c/listen
 #EXTINF:0,Illertal FM 
 http://0-24-illertalfm.de:8006/stream/1/
-#EXTINF:0,Image Jamz
-http://198.58.98.83/proxy/imagejamz/stream
 #EXTINF:0,Impact FM - Années 80 
 https://impactfmannees80.ice.infomaniak.ch/impactfmannees80-64.aac
 #EXTINF:0,importation 80 90 2020
@@ -2752,7 +2748,7 @@ https://stream.laut.fm/lffr?ref=radiode
 #EXTINF:0,life4enjoy
 https://stream.laut.fm/life4enjoy?ref=radiode
 #EXTINF:0,Lion Radio
-https://stream.laut.fm/lion-radio?ref=radiode
+https://c2.radioboss.fm/stream/707
 #EXTINF:0,lonely heartbreaks
 https://stream.laut.fm/lonely-heartbreaks?ref=radiode
 #EXTINF:0,LoudTime.DE
@@ -2810,7 +2806,7 @@ https://stream.laut.fm/nam?ref=radiode
 #EXTINF:0,ndw
 https://stream.laut.fm/ndw?ref=radiode
 #EXTINF:0,NDW MIX - 100 % Neue Deutsche Welle!
-http://s2.genx-stream.de:10200/stream/1/
+http://stream.laut.fm/ndw-mix
 #EXTINF:0,Neckar-Gaming
 https://stream.laut.fm/neckar-gaming?ref=radiode
 #EXTINF:0,news-radio
@@ -3019,7 +3015,7 @@ https://stream.laut.fm/retrowelle?ref=radiode
 https://stream.laut.fm/rockhuhn?ref=radiode
 #EXTINF:0,rockshandy
 https://stream.laut.fm/rockshandy?ref=radiode
-#EXTINF:0,ROI-FM Webradio Innsbruck
+#EXTINF:0,ROI FM
 https://stream.laut.fm/roi-fm?ref=radiode
 #EXTINF:0,R P S
 https://stream.laut.fm/r-p-s?ref=radiode
@@ -3417,8 +3413,6 @@ https://cast.mgtradio.net/radio/8000/radio.aac
 https://stream5.305stream.com:6172/stream
 #EXTINF:0,MIAMIGO
 http://129.122.92.10:88/broadwavehigh.mp3
-#EXTINF:0,Radio Mi Amigo International - offshore oldies
-https://lion.radioca.st/;
 #EXTINF:0,Miami One Radio
 https://streaming.live365.com/a53326
 #EXTINF:0,Radio MidtSjælland
@@ -4010,7 +4004,7 @@ https://radio5.pro-fhi.net/listen-rqwrejez-stream.mp3
 #EXTINF:0,Power Hits
 http://srv.webradiomanager.fr:1540/stream
 #EXTINF:0,Powerhitz.com - Ultimate 80's
-http://powerhitz.powerhitz.com/ultimate80s
+https://live.powerhitz.com/ultimate80s
 #EXTINF:0,Powerhitz.com - Pure Classic Rock
 https://live.powerhitz.com/pureclassicrock
 #EXTINF:0,Powerhitz.com - The Officemix
@@ -4089,8 +4083,6 @@ http://server3.streamserver24.com:12498/;
 https://s37.derstream.net/radio-112.mp3
 #EXTINF:0,Radio 13
 http://stream2.mfmstreaming.nl:8040/live
-#EXTINF:0,Radio 2000
-https://radio10.pro-fhi.net/flux-huzgogjx/stream
 #EXTINF:0,RADIO 21 - Hannover
 https://streams.radio21.de/hannover/mp3-128/radiode/
 #EXTINF:0,RADIO 21 - NRW
@@ -4529,6 +4521,8 @@ https://streaming.radio.co/sd9d980ff0/listen
 http://radio-herbern.com:8179/stream/1/
 #EXTINF:0,Radio Herne - Dein 80er Radio
 https://stream.lokalradio.nrw/444zgpx
+#EXTINF:0,Radio HIT80
+http://88.198.175.30:6377/stream
 #EXTINF:0,Radio Hitpower
 https://radiohitpower.de/listen/audio/256
 #EXTINF:0,Radio Hits MX
@@ -5212,7 +5206,7 @@ https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3
 #EXTINF:0,RDMIX ITALIAN VINTAGE 70 80 90
 https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 #EXTINF:0,RDMIX ITALO DISCO 80S
-https://igor.torontocast.com:1800/stream
+https://giorgia.radiobellissima.it:8340/radio.mp3
 #EXTINF:0,Real FM 
 https://de1.streamingpulse.com/ssl/RealFMSpain
 #EXTINF:0,Recuerdos Gruperos Radio
@@ -5471,8 +5465,6 @@ http://server1.cityedv.at:9010/;
 http://cast3.hoost.com.br:8693/stream
 #EXTINF:0,S4-Radio SEVEN
 http://s4-stream.com:10030/stream
-#EXTINF:0,S4-Radio TWO
-http://144.76.156.119:10099/stream.mp3
 #EXTINF:0,SaarGau Welle
 https://listen.radioking.com/radio/305560/stream/352369
 #EXTINF:0,Sabana Estereo
@@ -5486,7 +5478,7 @@ http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,SAMANTA ... LA SEÑAL JUVENIL 
 https://streamingv2.shoutcast.com/SAMANTALASENALJUVENIL
 #EXTINF:0,Samui Island Radio
-https://us2new.listen2myradio.com:2199/listen.php?port=10040&type=s2&mount=/stream.ogg
+https://us2new.listen2myradio.com:2199/listen.php?port=10040&type=s2&mount=/stream.mp3
 #EXTINF:0,Sanctuary Radio Retro 80s
 http://192.111.140.6:9772/stream/2/
 #EXTINF:0,Saucillo Radio 
@@ -5855,6 +5847,8 @@ http://5.63.151.52:8066/stream
 http://thecheese.ddns.net:8000/;stream.mp3
 #EXTINF:0,TheCommonSense
 https://c11.radioboss.fm/stream/33
+#EXTINF:0,Theen Tamil Osai
+http://178.33.135.245:3616/stream/1/
 #EXTINF:0,The German Radio
 https://streaming.live365.com/a97323
 #EXTINF:0,The Groove

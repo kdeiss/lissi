@@ -85,6 +85,8 @@ http://s8.myradiostream.com:12658/stream/1/
 http://www.radio-alpenfunk.de/minicaster/live.pls
 #EXTINF:0,Radio Alpenstar
 https://server7517.streamplus.de/;stream.mp3
+#EXTINF:0,Alpin Tunes Austria
+http://stream.laut.fm/alpintunesaustria?ref=radiode
 #EXTINF:0,Radio Alsterwelle
 https://stream.laut.fm/alsterwelle?ref=radiode
 #EXTINF:0,Radio Altstadtwelle
@@ -151,6 +153,8 @@ https://frontend.streams.arabella.at/arabella-gold?aggregator=radio-at
 https://live.stream.radioarabella.de/radioarabella-schlager?aggregator=radiode
 #EXTINF:0,Arabella Schlager
 https://frontend.streams.arabella.at/arabella-schlager?aggregator=radio-at
+#EXTINF:0,Radio AS 89.6 FM
+https://vps.cbad.fr/rasweb
 #EXTINF:0,Radio Balla Balla FM
 https://ice15.fluidstream.net/ballaballa.aac?FLID=7
 #EXTINF:0,Ballermann Radio
@@ -241,8 +245,6 @@ https://das-durchgeknallte-radio.de:8102/;
 http://server34835.streamplus.de:12500
 #EXTINF:0,De Beste Piratenhits
 http://radio.streampanel.nl:1440/stream
-#EXTINF:0,Deine SchlagerWelt 1 
-https://stream.laut.fm/deineschlagerwelt?ref=radiode
 #EXTINF:0,Dein Schlager Radio
 https://stream.laut.fm/dein-schlager-radio?ref=radiode
 #EXTINF:0,Delta FM Boulogne
@@ -348,7 +350,7 @@ http://144.76.84.153:22048/stream/1/
 #EXTINF:0,Foerde Radio - Schlager
 https://live.foerde-radio.de/Stream4
 #EXTINF:0,Foxtanz
-http://176.9.148.80:8740/stream/1/
+https://stream.laut.fm/radiofoxtanz
 #EXTINF:0,fresh80s Angelsfox Weihnachtssender
 http://85.25.217.22:9050/stream/1/
 #EXTINF:0,Das Freundschaft Radio
@@ -1325,8 +1327,6 @@ https://stream.laut.fm/radiolig?ref=radiode
 https://stream.laut.fm/radiolovesound?ref=radiode
 #EXTINF:0,Radio Ludweiler
 https://stream.laut.fm/radio-ludweiler?ref=radiode
-#EXTINF:0,Radio-Marita
-https://stream.laut.fm/radiomarita?ref=radiode
 #EXTINF:0,radiomelodyfire
 https://stream.laut.fm/radiomelodyfire?ref=radiode
 #EXTINF:0,Radio Mercur
@@ -1649,6 +1649,8 @@ https://stream.laut.fm/schlagerradiopretzsch?ref=radiode
 https://stream.laut.fm/schlager-radio-weilburg?ref=radiode
 #EXTINF:0,schlagerrallyefm
 https://stream.laut.fm/schlagerrallyefm?ref=radiode
+#EXTINF:0,Schlagerrausch
+https://stream.laut.fm/schlagerrausch?ref=radiode
 #EXTINF:0,schlagerschweinchen
 https://stream.laut.fm/schlagerschweinchen?ref=radiode
 #EXTINF:0,Schlagerstar
@@ -2073,8 +2075,10 @@ https://icecast.popradio.space/stream64.aac
 http://c01.lexycast.de:2610/stream/1/
 #EXTINF:0,Radio Primavera GC 107.3 FM
 https://radio-powervoice.stream.laut.fm/radio-powervoice
-#EXTINF:0,Puur NL
+#EXTINF:0,PRM
 https://stream.radio-pv.com/
+#EXTINF:0,Puur NL
+http://www.power-radio-muelheim.de/listen.pls
 #EXTINF:0,Radio Quirinus
 https://stream.radionl.fm/rnlzuidholland
 #EXTINF:0,Radio 100% tubes 
@@ -2301,10 +2305,8 @@ https://solid33.streamupsolutions.com:2199/tunein/radiononstop.pls
 https://radionr1.de:10000/live
 #EXTINF:0,Radio-Of-The-Moon
 https://stream.lokalradio.nrw/44524n6
-#EXTINF:0,Radio Ohrwurm
-https://bayern.streampanel.cloud:10910/stream/1/
 #EXTINF:0,Radio Olymp FM
-http://stream.radio-ohrwurm.net:31940
+https://bayern.streampanel.cloud:10910/stream/1/
 #EXTINF:0,Radio Oranje Internationaal
 https://cs-service-hosting.eu:8002/stream/1/
 #EXTINF:0,Radio Orbis
@@ -2339,10 +2341,8 @@ http://stream04.stream-webradiotechnik.de:8150/stream/1/
 https://mediacp.audiostreamen.nl:8238/stream
 #EXTINF:0,Radio Regenbogen - Schlager
 http://s2.zkm-stream.de:8000/;
-#EXTINF:0,radiorennsalami
-https://stream.regenbogen.de/schlager/aac-128/radiode
 #EXTINF:0,Radio-Rheinland
-http://stream04.stream-webradiotechnik.de:10400/stream/1/
+https://stream.regenbogen.de/schlager/aac-128/radiode
 #EXTINF:0,Radio Roland
 https://stream.laut.fm/radiorheinland?ref=radiode
 #EXTINF:0,Radio-Rollercoaster 
@@ -2379,8 +2379,10 @@ https://stream.saw-musikwelt.de/saw-schlager/mp3-192/stream.mp3
 https://server35926.streamplus.de/stream.mp3
 #EXTINF:0,Radio-SchlummBumm
 http://5.9.16.111:8350/stream
-#EXTINF:0,RadioSelection
+#EXTINF:0,Radio Schonach
 https://c02.lexycast.de:2330/play.mp3
+#EXTINF:0,RadioSelection
+http://stream.laut.fm/studio-schonach?ref=radiode
 #EXTINF:0,Radio Siegen - Dein Schlager Radio
 http://live.radio-selection.de/onair
 #EXTINF:0,Radio Silesia
@@ -2457,8 +2459,10 @@ https://radioerft--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radioerft/live/mp3
 http://c01.lexycast.de:4150/;
 #EXTINF:0,Rockplanet-radio
 https://rs8-krk2.rmfstream.pl/PRL
-#EXTINF:0,Rogos-Powerradio 
+#EXTINF:0,Rock Pop Schlager
 http://vmd54090.contaboserver.net:8008/stream/1/
+#EXTINF:0,Rogos-Powerradio 
+https://server3.streamserver-unlimited.de:8099/stream1
 #EXTINF:0,RPR1.Après Ski
 http://89.163.144.59:5786/stream
 #EXTINF:0,RPR1. Kölner Karneval
@@ -2467,8 +2471,10 @@ https://stream.rpr1.de/apresski/aac-128/radiode
 https://stream.rpr1.de/karneval/acc-128/radiode
 #EXTINF:0,RPR1.Schlager
 https://stream.rpr1.de/pappnasen/mp3-128/radiode
-#EXTINF:0,R.SA – Schlager
+#EXTINF:0,RRTH
 https://stream.rpr1.de/schlagerhits/mp3-128/radiode
+#EXTINF:0,R.SA – Schlager
+https://radio.rrth.at/RRTH
 #EXTINF:0,Viva+
 https://streams.rsa-sachsen.de/schlager/mp3-192/radiode/
 #EXTINF:0,RTV Arnhem
@@ -2655,8 +2661,10 @@ https://s3.voscast.com:10239/stream
 http://ngofm.ddnss.de:8000/default
 #EXTINF:0,Sternenfeuer-Radio
 https://orf-live.ors-shoutcast.at/stm-q1a
-#EXTINF:0,Studio-Aktiv
+#EXTINF:0,Streamplus
 http://207.180.230.141:8060/;
+#EXTINF:0,Studio-Aktiv
+http://www.power-radio-muelheim.de/listen.pls
 #EXTINF:0,Broadcast Studio Murgtal
 https://stream.studio-aktiv.com:10500/Studio-Aktiv-MP3-48
 #EXTINF:0,Studio Schonach

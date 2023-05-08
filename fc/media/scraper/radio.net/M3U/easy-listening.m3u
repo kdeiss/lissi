@@ -267,8 +267,6 @@ http://streams.crooze.fm:8012/stream/1/
 https://ams-pioneer02.dedicateware.com:1555/stream
 #EXTINF:0,Cure Radio
 https://cloud.playradio.one:8555/pro0005.mp3
-#EXTINF:0,DBC Radio
-https://dbc.ice.infomaniak.ch/dbc-96.mp3
 #EXTINF:0,DELUXE EASY
 https://audiostreams.deluxemusic.tv/easy/mp3-128/website
 #EXTINF:0,DELUXE LOUNGE RADIO
@@ -807,6 +805,8 @@ https://ais-sa2.cdnstream1.com/2209_128.mp3
 http://uk5.internet-radio.com:8208/stream/1/
 #EXTINF:0,Rádio Marginal
 https://centova.radios.pt/proxy/499?mp=/stream
+#EXTINF:0,RADIO MARIANNE MELODIE
+https://stream4.vestaradio.com/MarianneMelodie
 #EXTINF:0,Radio Maxima Online
 https://stream.zeno.fm/xth5zem8guhvv
 #EXTINF:0,EZMax
@@ -913,6 +913,8 @@ https://hosting.studioradiomedia.fr:1705/stream
 https://live.rtrfm.com.au/stream/1/
 #EXTINF:0,Der Bäcker Ruetz
 http://194.232.200.165:8000/;
+#EXTINF:0,RZN
+https://cast4.asurahosting.com/proxy/rzn/stream
 #EXTINF:0,Sami Swoi Radio
 https://s2.radio.co/s0dc6b5c9b/listen
 #EXTINF:0,Schiller Mystery
@@ -941,6 +943,8 @@ https://cast1.my-control-panel.com/proxy/smilerad/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac
 #EXTINF:0,Smooth FM Live
 https://s4.radio.co/sb7c6c6e8c/listen
+#EXTINF:0,Smooth Gold Radio Ireland
+https://az11.yesstreaming.net:8060/radio.mp3
 #EXTINF:0,SMOOTH JAZZ DELUXE
 https://mpc1.mediacp.eu/stream/smoothjazzdeluxe
 #EXTINF:0,Smooth Jazz Instrumental
@@ -1111,8 +1115,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WTSSFM.mp3
 https://ice6.securenetsystems.net/WUTQ
 #EXTINF:0,WVIN-FM - V 98.3 FM
 https://ice64.securenetsystems.net/WVIN
+#EXTINF:0,X FM Naga City, Philippines
+https://listen.imjinteractive.net:8006/
 #EXTINF:0,Yacht Rock Miami
 https://sail.yachtrockmiami.com:8000/radio.mp3
+#EXTINF:0,Yimago Jazz
+https://yimago.torontocast.stream/jazz
 #EXTINF:0,ZANJ RADIO
 http://us1freenew.listen2myradio.com:16068
 #EXTINF:0,ZEN FOR YOU
