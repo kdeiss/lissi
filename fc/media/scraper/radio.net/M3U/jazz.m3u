@@ -165,6 +165,8 @@ https://streams.bcs-systems.de/apollo/live/dresden/mp3/radio.de
 https://streams.bcs-systems.de/apollo/live/chemnitz/mp3/radio.de
 #EXTINF:0,apollo radio))) - Leipzig
 https://streams.bcs-systems.de/apollo/live/leipzig/mp3/radio.de
+#EXTINF:0,APS Radio Jazz
+https://securestreams5.autopo.st:1828/APS%20Radio%20Jazz
 #EXTINF:0,Arctic Outpost AM 1270
 https://radio.streemlion.com:3715/stream
 #EXTINF:0,Art District Radio 
@@ -192,7 +194,7 @@ http://s41.myradiostream.com:27586/stream/1/
 #EXTINF:0,babaradio
 https://stream.zeno.fm/v2tmu4q4pf9uv?
 #EXTINF:0,J-Club Bandstand Radio
-https://igor.torontocast.com:3220/stream/1/
+https://cast1.torontocast.com:2060/;
 #EXTINF:0,& Dinnerparty. Von barba radio
 https://barbaradio.hoerradar.de/barbaradio-live-mp3-hq
 #EXTINF:0,Bar de Blues Radio
@@ -207,8 +209,6 @@ https://streamingv2.shoutcast.com/BASSEMARCHEFM-
 https://dispatcher.rndfnk.com/br/br2/nord/aac/low?aggregator=radio-de
 #EXTINF:0,Bayern 2 Süd
 https://dispatcher.rndfnk.com/br/br2/sued/aac/low?aggregator=radio-de
-#EXTINF:0,Bayou Blue Radio
-http://5.39.83.188:8000/live
 #EXTINF:0,Bayshore Radio
 https://ais-sa2.cdnstream1.com/1700_128
 #EXTINF:0,Bay Smooth Jazz
@@ -397,6 +397,8 @@ https://listen.radioking.com/radio/422/stream/62785
 https://listen.radioking.com/radio/297802/stream/344359
 #EXTINF:0,City Sounds Jazz
 http://cp2.digistream.info:9042
+#EXTINF:0,CJazzChannel.com
+https://bvita.radioca.st/stream
 #EXTINF:0,CJBC Ici Musique Toronto 90.3 FM
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
 #EXTINF:0,CJRT JAZZ.FM91
@@ -525,8 +527,6 @@ https://ice55.securenetsystems.net/DASH6
 https://ice55.securenetsystems.net/DASH5
 #EXTINF:0,Das Landradio
 https://streamingV2.shoutcast.com/DasLandradio
-#EXTINF:0,DBC Radio
-https://dbc.ice.infomaniak.ch/dbc-96.mp3
 #EXTINF:0,Déclic Radio
 https://listen.radioking.com/radio/102166/stream/140965
 #EXTINF:0,Delicious Love Radio
@@ -659,8 +659,6 @@ https://streaming.exclusive.radio/er/herbiehancock/icecast.audio
 https://streaming.exclusive.radio/er/jaquesloussier/icecast.audio
 #EXTINF:0,Exclusively Jamie Cullum
 https://streaming.exclusive.radio/er/jamiecullum/icecast.audio
-#EXTINF:0,EXCLUSIVELY JAZZ
-https://streaming.exclusive.radio/er/jazz/icecast.audio
 #EXTINF:0,Exclusively John Coltrane
 https://streaming.exclusive.radio/er/johncoltrane/icecast.audio
 #EXTINF:0,Exclusively Kenny G
@@ -905,7 +903,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2465036_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2464320_SC
 #EXTINF:0,Jazz Break
 http://jazzbreak2.saycast.com/listen
-#EXTINF:0,Jazz Cafe FM - El Aroma Smooth del Jazz
+#EXTINF:0,Jazz Cafe FM - Radio Argentina de Jazz
 https://radio.netyco.com:18056/;
 #EXTINF:0,JazzcafeRadio
 https://stream-59.zeno.fm/hx6t4t15e8zuv?zs=zpezhd6HQEiYc-wLVA3z5Q
@@ -1553,6 +1551,8 @@ https://stream.zeno.fm/2k1cu1qrquhvv
 https://vm.motionfm.com/motionthree_aacp
 #EXTINF:0,Lounge Radio.Co
 https://stream.zeno.fm/u38ayk070k8uv
+#EXTINF:0,LOVE & INSPIRATION
+https://quincy.torontocast.com:1860/;?nocache=1637524780&type=http
 #EXTINF:0,LoveSmoothJazz.com
 https://streamingV2.shoutcast.com/lovesmoothjazzcom
 #EXTINF:0,Love Soul Radio London
@@ -1569,8 +1569,6 @@ http://209.126.107.199:10012/listen.pls
 https://www.radioking.com/play/lyon-demain
 #EXTINF:0,M2 Jazz
 http://live.m2stream.fr/m2jazz-128.mp3
-#EXTINF:0,MACKRadio
-https://streaming.live365.com/a35689
 #EXTINF:0,Magic FM
 http://67.212.165.106:8150/stream
 #EXTINF:0,Magic FM
@@ -1699,8 +1697,8 @@ https://hyades.shoutca.st/tunein/nonstopcasiopea.pls
 https://noodsradio.com/listen
 #EXTINF:0,NORA Webstream
 https://streams.norawebstreams.de/nora-live/mp3-128/radiode/
-#EXTINF:0,Radio Nostalgia Amsterdam
-https://fred.torontocast.com:1395/stream
+#EXTINF:0,Radio Nostalgia 78RPM
+https://cast1.torontocast.com:1635/stream
 #EXTINF:0,Nostalgie Belgique - Jazz
 https://streamingp.shoutcast.com/NostalgieJazz-aac
 #EXTINF:0,Nostalgie Jazz
@@ -2257,6 +2255,8 @@ https://uk7.internet-radio.com/proxy/soulrhythms?mp=/stream
 https://stream.zeno.fm/xa3tgypd2hhvv
 #EXTINF:0,Soul Vibes Radio
 https://stream.zeno.fm/0ph097rv3a0uv
+#EXTINF:0,Sound Coffee FM
+https://securestreams5.autopo.st:1972/stream128
 #EXTINF:0,Soundkingradio
 http://s43.myradiostream.com:21382/listen.mp3
 #EXTINF:0,Sounds of Soul

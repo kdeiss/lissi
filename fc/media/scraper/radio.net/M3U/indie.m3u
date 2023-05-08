@@ -99,6 +99,8 @@ https://radio.streemlion.com:2025/stream
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=%2Fstream
 #EXTINF:0,BBS Radio Station 1
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=/stream
+#EXTINF:0,BBS Radio Station 2
+https://cast.bbstalkradio.com/proxy/bbsradio2?mp=/stream
 #EXTINF:0,Beach Paradise Radio
 http://s28.myradiostream.com:28054/listen.mp3
 #EXTINF:0,Beaub FM
@@ -317,8 +319,6 @@ https://nrf1.newradio.it:9930/stream
 https://orf-live.ors-shoutcast.at/fm4-q1a
 #EXTINF:0,きみのFM88ラジオ局
 http://std1.ladio.net:8010/kimino88
-#EXTINF:0,Rádio Folha FM (Londrina)
-https://r13.ciclano.io:15207/stream
 #EXTINF:0,Folk Forward
 https://ice2.somafm.com/folkfwd-128-mp3
 #EXTINF:0,The Folk Guitar Place
@@ -329,16 +329,12 @@ https://streamingv2.shoutcast.com/folkuk
 https://manager6.streamradio.fr/folk57
 #EXTINF:0,Fox Cities Indie Radio
 https://s5.radio.co/s3b3c70cda/listen
-#EXTINF:0,Frecuencia Delta
-https://sc10.conectarhosting.com/proxy/tano?mp=/stream
 #EXTINF:0,Frecuencia Stereo
 https://stream-44.zeno.fm/72hnp85n21zuv?zs=XDePuRx8S1qu3kAx39UeKA&rj-tok=AAABc1WwT_sACCAhddNlVK4orA&rj-ttl=5
 #EXTINF:0,Free 99
 https://stream.zeno.fm/g6ex6skz4yzuv
 #EXTINF:0,Radio Free Americana 
 http://thassos.cdnstream.com:5479/stream
-#EXTINF:0,FreedomTruth Radio
-https://s5.radio.co/s60c60474d/listen
 #EXTINF:0,Freies Radio Freistadt
 https://develop.servus.at:8443/frf
 #EXTINF:0,Friedrich Frieden
@@ -1157,8 +1153,6 @@ https://sarock.radioca.st/stream/1/
 https://24streams.gr/8057/stream
 #EXTINF:0,Sensational Sounds Radio
 http://usa19.fastcast4u.com:2350/stream
-#EXTINF:0,Shaun Keaveny's Community Garden Radio
-https://s2.radio.co/sd76fc9995/listen
 #EXTINF:0,SHE REAL RADIO
 https://streaming.live365.com/a96811
 #EXTINF:0,SIGNL
@@ -1263,6 +1257,8 @@ https://eu1.reliastream.com:2199/tunein/dropdoz.pls
 http://stream.radio-unicc.de:8000/unicc_hq.mp3.m3u
 #EXTINF:0,Radio UNIFM
 http://cast62.sitehosting.com.br:8371/live
+#EXTINF:0,Uniradio Cesena
+https://stream.uniradiocesena.it/aac
 #EXTINF:0,Unsigned-FM
 https://ascella.streamerr.co/listen/unsignedfm/radio.mp3
 #EXTINF:0,Unsung 80's Radio
