@@ -147,8 +147,6 @@ https://streams.bcs-systems.de/apollo/live/dresden/mp3/radio.de
 https://streams.bcs-systems.de/apollo/live/chemnitz/mp3/radio.de
 #EXTINF:0,apollo radio))) - Leipzig
 https://streams.bcs-systems.de/apollo/live/leipzig/mp3/radio.de
-#EXTINF:0,APS Radio Classical
-https://apsradiosecure.com/APS%20Radio%20News%20Special
 #EXTINF:0,Radio Arkadia
 http://s1.slotex.pl:7238/stream/1/
 #EXTINF:0,Armenian National Radio
@@ -724,9 +722,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICFMAAC_S
 #EXTINF:0,Classic Praha
 https://icecast8.play.cz/classic128.mp3
 #EXTINF:0,Classic Rock Portugal
-https://online.classicrock.pt/listen.pls?sid=1
+https://online.classicrock.pt/;
 #EXTINF:0,Classic Rock Portugal
-http://online.classicrock.pt/stream1?type=http
+https://online.classicrock.pt/stream
 #EXTINF:0,Classik Radio
 https://sv2.vestaradio.com/ClassikRadio
 #EXTINF:0,CLAZZ Radio
@@ -2449,8 +2447,6 @@ http://c3.radioboss.fm:8065/stream
 https://x13.streamguys1.com/x13-classicalmusic
 #EXTINF:0,XmasMelody
 http://s7.viastreaming.net:7000/stream/1/
-#EXTINF:0,Yimago 7 : Classic Composers Radio
-https://yimago.torontocast.stream/classical
 #EXTINF:0,YLE Klassinen
 https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8
 #EXTINF:0,Yellowstone Public Radio
