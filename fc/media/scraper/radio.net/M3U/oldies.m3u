@@ -419,8 +419,6 @@ https://stream.ventraradio.com:8443/stream/2/
 https://stream.zeno.fm/5pcspx7zk8quv
 #EXTINF:0,Apple-FM.net
 http://sc.apple-fm.net:9018/;
-#EXTINF:0,APS Radio Oldies
-https://apsradiosecure.com/stream/1/
 #EXTINF:0,arabella GOLD
 https://frontend.streams.arabella.at/arabella-gold?aggregator=radio-at
 #EXTINF:0,Arabella Golden Oldies
@@ -1169,6 +1167,8 @@ https://stream.zeno.fm/1rst2p6ymwzuv
 https://cheetah.streemlion.com:3630/stream
 #EXTINF:0,Frank and Terry Radio
 https://ais-edge106-live365-dal02.cdnstream.com/a04447?listenerId=Live365-AdBlock&aw_0_1st.playerId=Live365&aw_0_1st.skey=1679049913346
+#EXTINF:0,Freedomx Radio
+http://cast4.my-control-panel.com:8190/stream
 #EXTINF:0,Free FM X-MAS
 https://stream.zeno.fm/h60er015v68uv
 #EXTINF:0,free radio belgium
@@ -2255,10 +2255,8 @@ https://stream.laut.fm/oldies-1-2-3?ref=radiode
 https://stream.laut.fm/oldies500?ref=radiode
 #EXTINF:0,Oldiesmusic
 https://stream.laut.fm/oldiesfm?ref=radiode
-#EXTINF:0,Oldiesonline Radio
-https://stream.laut.fm/oldiesmusic?ref=radiode
 #EXTINF:0,oldies-radio
-https://stream.laut.fm/oldiesonlineradio?ref=radiode
+https://stream.laut.fm/oldiesmusic?ref=radiode
 #EXTINF:0,Oldiestation
 https://stream.laut.fm/oldies-radio?ref=radiode
 #EXTINF:0,oldie-street
@@ -3561,8 +3559,10 @@ http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 http://stream.zeno.fm/flnk47wp7bnvv
 #EXTINF:0,Radio Flora
 https://servidor34-3.brlogic.com:8286/live
-#EXTINF:0,Radiofoxgarden
+#EXTINF:0,radiofmwolf
 https://radioflora.de/stream/live48.mp3
+#EXTINF:0,Radiofoxgarden
+https://fred.torontocast.com:1205/stream
 #EXTINF:0,radio freak
 https://www.radiofoxgarden.de/listen.pls
 #EXTINF:0,Radio Freizeit
@@ -3881,10 +3881,8 @@ http://comet.shoutca.st:8970/listen.mp3
 https://nr6.newradio.it/proxy/rgelmett?mp=/1
 #EXTINF:0,Radio Suedtirol
 https://i.klikhost.com/8050/stream
-#EXTINF:0,Radiohits Sverige
-https://server7.streamserver24.com:8080/proxy/radiosue?mp=/stream
 #EXTINF:0,Radio Tágide
-http://john631.serverroom.net:6484/;stream.mp3
+https://server7.streamserver24.com:8080/proxy/radiosue?mp=/stream
 #EXTINF:0,Radio Tamar 
 https://radiotag.radioca.st/stream
 #EXTINF:0,Radio Tecámac
@@ -4270,7 +4268,7 @@ https://stream.laut.fm/soundexpress?ref=radiode
 #EXTINF:0,Sound-Of-Galaxy
 https://s5.stream-webradiotechnik.de:9902/stream/1/
 #EXTINF:0,Sound of Spitfire
-https://azura.fun-life-radio.de:9443/radio/8020/sound-of-galaxy
+https://azura.fun-life-radio.de:9443/listen/sound-of-galaxy/radio.mp3
 #EXTINF:0,Sounds Of Philly
 https://s3.radio.co/sbdecd867f/listen
 #EXTINF:0,meldoy-4-scorpion
@@ -4395,10 +4393,8 @@ http://streaming.enacast.com:8000/radiosuradeje56.mp3
 https://ais-sa3.cdnstream1.com/2608_128.mp3
 #EXTINF:0,P6
 https://http-live.sr.se/srextra17-mp3-128
-#EXTINF:0,RADIOHITS SUNDSVALLS LOKAL
-https://http-live.sr.se/srinternational-mp3-128
 #EXTINF:0,Swingin' 105
-http://john631.serverroom.net:6484/stream/1/
+https://http-live.sr.se/srinternational-mp3-128
 #EXTINF:0,SWINGING RADIO ENGLAND.UK 
 https://ice42.securenetsystems.net/S105
 #EXTINF:0,Swisssh Radio
@@ -4857,8 +4853,10 @@ http://192.111.140.11:8612/stream
 http://stream04.stream-webradiotechnik.de:7008/;
 #EXTINF:0,Whiteheaven
 https://s3.genx-stream.de:8752/listen1
-#EXTINF:0,WHRY Oldies 95.3 & 102.9
+#EXTINF:0,WHN 1050 Gold airchecks
 https://cast4.asurahosting.com/proxy/eurochat/stream
+#EXTINF:0,WHRY Oldies 95.3 & 102.9
+https://sonic-ca.instainternet.com:8024/stream/1/
 #EXTINF:0,WHVO - Oldies Radio 1480 AM
 http://stream-nyc3.azureradio.com/oldies1029
 #EXTINF:0,WHWR Internet Radio
@@ -4915,8 +4913,10 @@ https://ice64.securenetsystems.net/WLDE
 https://streaming.live365.com/a04907
 #EXTINF:0,WLNG 92.1 FM
 http://listen.mediatechusa.com:8000/wlnc
-#EXTINF:0,94.7 WLS Chicago's Classic Hits
+#EXTINF:0,WLPK K Mix 106.9
 http://sc7.shoutcaststreaming.us:8100/listen.pls
+#EXTINF:0,94.7 WLS Chicago's Classic Hits
+http://13.bteradio.com:9090/KMIX.mp3
 #EXTINF:0,Saint Leo University Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
 #EXTINF:0,WLUI Big Lewie 92.9 FM
@@ -4959,10 +4959,8 @@ https://streaming.live365.com/a28972
 https://s3.radio.co/s574e54b94/listen
 #EXTINF:0,WNWI - Birach Broadcasting Corporation 1080 AM
 https://ice64.securenetsystems.net/WNTI
-#EXTINF:0,WOAP 1080
-http://wnwi.birach.com:9002/stream/1/
 #EXTINF:0,WOBM - Beach Radio 1160 AM
-http://sparktheo.com:8000/stream
+http://wnwi.birach.com:9002/stream/1/
 #EXTINF:0,WOBO 88.7 FM
 http://stream.abacast.net/direct/townsquare-wobmamaac-ibc3
 #EXTINF:0,WOCN - Ocean 104.7
@@ -5139,10 +5137,8 @@ https://server.yesterdayland.online/radio/8010/live
 https://streaming.live365.com/a29131
 #EXTINF:0,Radio Yé-Yé
 http://radio2.comgig.com:4122/;stream.mp4
-#EXTINF:0,Yimago 8 : French Oldies Radio
-https://strw1.openstream.co/879?
 #EXTINF:0,Yo Lucky
-https://yimago.torontocast.stream/yeye
+https://strw1.openstream.co/879?
 #EXTINF:0,Your-Family-Radio
 https://mscp2.live-streams.nl:8012/live.mp3
 #EXTINF:0,Your Hits Radio 
