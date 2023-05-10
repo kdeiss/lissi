@@ -245,6 +245,8 @@ https://das-durchgeknallte-radio.de:8102/;
 http://server34835.streamplus.de:12500
 #EXTINF:0,De Beste Piratenhits
 http://radio.streampanel.nl:1440/stream
+#EXTINF:0,Deineschlagerwelt
+https://schlagerweltradio.de:8000/radio.mp3
 #EXTINF:0,Dein Schlager Radio
 https://stream.laut.fm/dein-schlager-radio?ref=radiode
 #EXTINF:0,Delta FM Boulogne
@@ -350,7 +352,7 @@ http://144.76.84.153:22048/stream/1/
 #EXTINF:0,Foerde Radio - Schlager
 https://live.foerde-radio.de/Stream4
 #EXTINF:0,Foxtanz
-https://stream.laut.fm/radiofoxtanz
+http://176.9.148.80:8740/Foxtanz
 #EXTINF:0,fresh80s Angelsfox Weihnachtssender
 http://85.25.217.22:9050/stream/1/
 #EXTINF:0,Das Freundschaft Radio
@@ -465,6 +467,8 @@ https://jaimeradio.ice.infomaniak.ch/jaimeradio-64.aac
 http://94.249.254.89:8000/stream/1/
 #EXTINF:0,Jouw! Radio
 https://jouwradio.live-streams.nl/
+#EXTINF:0,Jukebox - Kreuzberg Swiss
+https://kreuzbergswiss.sp.radio.fm/stream
 #EXTINF:0,Webradio kaleidoskop.rocks
 https://bayern.streampanel.net/izxcqoqm?mp=/stream
 #EXTINF:0,Kathys-Club-Radio
@@ -693,8 +697,6 @@ https://stream.laut.fm/das-geile-party-radio?ref=radiode
 https://stream.laut.fm/das-radio-aus-berlin-spandau?ref=radiode
 #EXTINF:0,Dasvollgas Radio
 https://stream.laut.fm/dasvollgasradio?ref=radiode
-#EXTINF:0,Deineschlagerwelt
-https://schlagerweltradio.de:8000/radio.mp3
 #EXTINF:0,Deine Soundpiraten
 https://stream.laut.fm/deine-soundpiraten?ref=radiode
 #EXTINF:0,dein-radio-berlin
@@ -919,8 +921,6 @@ https://stream.laut.fm/hitsbrazil?ref=radiode
 https://stream.laut.fm/hoamad?ref=radiode
 #EXTINF:0,Hoerbar
 https://stream.laut.fm/hoerbar?ref=radiode
-#EXTINF:0,Home-Station1
-https://stream.laut.fm/home-station1?ref=radiode
 #EXTINF:0,hotradio4you
 https://stream.laut.fm/hotradio4you?ref=radiode
 #EXTINF:0,HouseofClub
@@ -1971,10 +1971,8 @@ https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3?aggregator=radio-
 https://stream2-alfacast-hosting.com/8142/stream
 #EXTINF:0,Noël Web Radio
 https://stream.news894.de/44523zp
-#EXTINF:0,Jukebox - Kreuzberg Swiss
-https://stream.laut.fm/christmastimeagain?ref=radiode
 #EXTINF:0,Nord-See-Radio
-https://kreuzbergswiss.sp.radio.fm/stream
+https://stream.laut.fm/christmastimeagain?ref=radiode
 #EXTINF:0,Radio Northsea Music Waves
 https://s3.genx-stream.de:8802/stream/1/
 #EXTINF:0,Nord - Ostseestrandradio - Das Original 
@@ -2634,7 +2632,7 @@ https://stream.hosting24h-4you.de/8030/stream/1/
 #EXTINF:0,Sound-Of-Galaxy
 https://c02.lexycast.de:1730/stream/1/
 #EXTINF:0,Sound-of-Paradies
-https://azura.fun-life-radio.de:9443/radio/8020/sound-of-galaxy
+https://azura.fun-life-radio.de:9443/listen/sound-of-galaxy/radio.mp3
 #EXTINF:0,Sound-Phoenix
 http://stream04.stream-webradiotechnik.de:8150/stream/1/
 #EXTINF:0,special-sound-radio 
@@ -2731,8 +2729,10 @@ https://str0.creacast.com/radiotirol_a
 https://server-28.stream-server.nl:8846/stream
 #EXTINF:0,TopHits.FM Schlager
 http://listen.cdn.streammonks.net:8080/l4m5w
-#EXTINF:0,Radio Trallacity
+#EXTINF:0,RadioTotalCrazy.de
 https://stream.tophitsfm.de:8050/listen.mp3
+#EXTINF:0,Radio Trallacity
+http://server1.cityedv.at:9057/;
 #EXTINF:0,Radio-Trance-Nation
 http://stream04.stream-webradiotechnik.de:9150/stream/1/
 #EXTINF:0,TRAPLINEFM #SCHLAGER
@@ -2783,10 +2783,8 @@ https://weltbild.streamabc.net/weltb-wbrschlager-mp3-128-8028760
 http://51.255.8.139:8380/stream/1/
 #EXTINF:0,wildcatsfantasyradio
 https://radio.whitebeat-radio.de:8443/frei
-#EXTINF:0,radio-wolkenkratzer
-http://server3.streamserver-unlimited.de:8250/stream/1/
 #EXTINF:0,Wonders Radio
-https://radio-wolkenkratzer.de:8005/rwk
+http://server3.streamserver-unlimited.de:8250/stream/1/
 #EXTINF:0,Radio World of Sounds
 https://s5.stream-webradiotechnik.de:11102/mp3
 #EXTINF:0,Worldradioteam
