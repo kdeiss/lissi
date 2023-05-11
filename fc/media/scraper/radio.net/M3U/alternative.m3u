@@ -185,6 +185,8 @@ https://jenny.torontocast.com:9020/stream
 https://quincy.torontocast.com:2985/stream
 #EXTINF:0,Al Tope Radio
 http://server.laradio.online:8457/live
+#EXTINF:0,altradio
+https://stationaltradio.whro.org/128
 #EXTINF:0,AltUK Radio
 https://c10.radioboss.fm:8185/stream
 #EXTINF:0,Radio Amanecer Bierzo 
@@ -201,6 +203,8 @@ http://radiocast.rtp.pt/antena380a.mp3
 https://stream-37.zeno.fm/c8pbc9bf268uv?zs=lELzquSHQ2qZCl0C7HAauw
 #EXTINF:0,ROCK ANTENNE - Alternative
 https://stream.rockantenne.de/alternative/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:0,Antenne d'Oc
+http://antennedoc.ice.infomaniak.ch/antennedoc-48.mp3
 #EXTINF:0,Antenne Sylt
 https://streams.antenne-sylt.de/sylt/mp3-128/radiode/
 #EXTINF:0,Antenne Sylt – Schleswig-Holstein
@@ -325,8 +329,6 @@ https://streaming.radio.co/saed08c46d/listen
 https://s3.radio.co/s9909bd65f/listen
 #EXTINF:0,BurnFM
 http://burnfm.radionetz.de:8000/burn-fm.mp3
-#EXTINF:0,Radio Buzz 101
-https://ice3.securenetsystems.net/BUZZ101
 #EXTINF:0,Radio Cabo Verde International
 http://41.221.203.141:8090
 #EXTINF:0,Radio Califa
@@ -635,6 +637,8 @@ https://stream.streambase.ch/ffm/mp3-192/fm1rock-radiode/
 https://orf-live.ors-shoutcast.at/fm4-q1a
 #EXTINF:0,FM Luzu 92.3 FM
 http://emartesg.sytes.net:8080/fmluzu
+#EXTINF:0,FM Radiohead
+http://190.244.99.170:19005/;
 #EXTINF:0,Fonoteca Dena
 https://streamingv2.shoutcast.com/radio-fonoteca-dena
 #EXTINF:0,Formiggart Radio
@@ -2435,8 +2439,6 @@ https://icy.unitedradio.it/VirginRockAlternative.mp3
 https://icy.unitedradio.it/VirginHardRock.mp3
 #EXTINF:0,Virgin Radio
 https://icecast.unitedradio.it/Virgin.mp3
-#EXTINF:0,Vodafone.FM
-http://195.23.102.207/vodafone
 #EXTINF:0,Vibe Streaming Radio
 https://s34.myradiostream.com/15802/listen.mp3
 #EXTINF:0,W3Z Hotline
