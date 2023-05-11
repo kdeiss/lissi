@@ -281,6 +281,8 @@ https://cast4.asurahosting.com/proxy/diisradi/stream
 http://systemweb-server3.de:11700/;
 #EXTINF:0,Discofox-Radio
 http://c01.lexycast.de:4080/istream/1/stream/1/
+#EXTINF:0,Discofox, Schlager, 80er 90er, Oldies, Rock
+http://stream.laut.fm/harmonys-jukebox?ref=radiode
 #EXTINF:0,DiscoFoxSound
 http://stream2-alfacast-hosting.com:8088/stream/1/
 #EXTINF:0,DMAX RADIO
@@ -375,8 +377,6 @@ http://c02.lexycast.de:2480/stream/1/
 https://stream.laut.fm/gay-live-schlager?ref=radiode
 #EXTINF:0,Geiseltal-Radio
 http://streamplus53.leonex.de:20916/;
-#EXTINF:0,General Hit Radio
-https://srv.webradiomanager.fr:1330/stream
 #EXTINF:0,Germanradio.info
 http://stream.germanradio.info:10300/;
 #EXTINF:0,Germanradio.info/Schlager
@@ -403,6 +403,8 @@ http://144.76.84.153:38123/stream/1/
 https://www.radioking.com/play/grenzland-radio
 #EXTINF:0,Radio Grüne Welle
 https://nr11.newradio.it:19196/rgwhigh
+#EXTINF:0,GuggliFoxRadio
+https://gugglifox-radio.de:8000/radio.mp3
 #EXTINF:0,Radio Gutt Laun
 https://streams.radio.co/sa631ff66a/listen
 #EXTINF:0,HarbourTown Radio
@@ -2783,8 +2785,10 @@ https://weltbild.streamabc.net/weltb-wbrschlager-mp3-128-8028760
 http://51.255.8.139:8380/stream/1/
 #EXTINF:0,wildcatsfantasyradio
 https://radio.whitebeat-radio.de:8443/frei
-#EXTINF:0,Wonders Radio
+#EXTINF:0,radio-wolkenkratzer
 http://server3.streamserver-unlimited.de:8250/stream/1/
+#EXTINF:0,Wonders Radio
+https://radio-wolkenkratzer.de:8005/rwk
 #EXTINF:0,Radio World of Sounds
 https://s5.stream-webradiotechnik.de:11102/mp3
 #EXTINF:0,Worldradioteam

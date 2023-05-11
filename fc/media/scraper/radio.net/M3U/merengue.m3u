@@ -63,6 +63,8 @@ https://samuel.i-radio.co:9000/peligrodegol
 https://server2.prowifihost.com:7003/stream/1/
 #EXTINF:0,Colombiacrossover
 https://emisoras.colombiacrossover.com/proxy/crossover?mp=/stream
+#EXTINF:0,Colombia Crossover
+https://emisoras.colombiacrossover.com/proxy/crossover?mp=/stream
 #EXTINF:0,Colombia La Nuestra
 https://stream.zeno.fm/1e2fnf08gg8uv
 #EXTINF:0,Completa 90 FM
@@ -381,8 +383,6 @@ https://listen.radioking.com/radio/378022/stream/428665
 https://stream-54.zeno.fm/z2g6usfh7f0uv?zs=3J2tPF1DQpmV0bMrT26tSA
 #EXTINF:0,Radiochinyero 92.2 FM/ 90.0 FM
 https://antares.dribbcast.com/proxy/radiochinyero?mp=/stream
-#EXTINF:0,Radio Cima 100.5 FM
-http://audio.domiradio.com:8104/stream/1/
 #EXTINF:0,Radio Creativa Dominicana
 https://stream-43.zeno.fm/tn1tgk8xxwzuv?zs=JYdvd3xUT5CxCUmjtr84LA
 #EXTINF:0,Radio CTC Cayetano Germosén
@@ -475,8 +475,8 @@ http://192.99.44.11:1488/stream/1/
 https://streaming.radiosenlinea.com.ar/9526/stream
 #EXTINF:0,Radio Uno Cartagena
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CARTAGENA.mp3
-#EXTINF:0,Radio Uno Santa Marta
-http://144.76.58.102:9434/;stream.nsv
+#EXTINF:0,Radio Uno Tunja
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9bbcaa9ace684913b81b/playlist.m3u8
 #EXTINF:0,Radio Util 102.9 FM
 https://shoutcast.tmcreativos.com/proxy/radioutil?mp=/stream
 #EXTINF:0,Radio Vivencias Musicales
