@@ -79,8 +79,6 @@ https://ragss.ca/listen/56780_radio/a128
 https://ais-arn.streamguys1.com/au_008_icy
 #EXTINF:0,750 Beach Radio SK
 https://stream.jpbgdigital.com/CKJH/HEAAC/48k/playlist.m3u8
-#EXTINF:0,8090 Music
-http://129.150.57.200/listen/8090_music/radio.mp3
 #EXTINF:0,80Rock Rádio
 http://rs2.ptservidor.com:8003/stream
 #EXTINF:0,80s Radio For Us
@@ -613,8 +611,6 @@ https://hdradioclassicrock-rfritschka.radioca.st/;
 https://listen.57fm.com/fgrock?highlight
 #EXTINF:0,Bob Rocks!
 https://ais-sa2.cdnstream1.com/2543_64.aac
-#EXTINF:0,OLDIES - M80 Rádio
-https://media1.mcr.iol.pt/livefm/m80/playlist.m3u8
 #EXTINF:0,Rock by Rock Radio
 http://gdansk1-1.radio.pionier.net.pl:8000/pl/tuba8-1.mp3?
 #EXTINF:0,Hits 50s
@@ -681,6 +677,8 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
+#EXTINF:0,KATX 97.7 FM
+http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -883,6 +881,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1073,14 +1073,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LT3AAC.aac
 https://rock-lynxradio.radioca.st/stream;
 #EXTINF:0,M2 Radio
 https://stream.zeno.fm/qqt10eukh5zuv
-#EXTINF:0,M80 - Rock
-https://media2.mcr.iol.pt/wrm80/m80rock.stream/playlist.m3u8
 #EXTINF:0,MABU Beatz Radio Whoomp
 https://audio.mabu-beatz-radio.com:8003/indie
 #EXTINF:0,RADIO MAGDALENA
 https://radiohd.streaminghd.co:7625/stream
-#EXTINF:0,Radio Mágica
-https://streamall.alsolnet.com:443/magicalobos
 #EXTINF:0,Manitu Rock Radio
 https://radio.streemlion.com:4515/stream
 #EXTINF:0,Marina Rock Radio
@@ -1279,8 +1275,8 @@ https://stream.zeno.fm/n2t6qq8cdchvv
 https://live.stream.radioarabella.de/radioarabella-classicrock?aggregator=radiode
 #EXTINF:0,Radio Arumarka Rock 80s.
 https://stream-47.zeno.fm/gnx0r3xtz2quv?zs=9Es1qzKaSrO7gddM8-xKXg
-#EXTINF:0,Radio Astral 102.9 FM
-https://streaming.rcs.com.sv:8012//astral
+#EXTINF:0,Radio Astral 
+https://streaming.rcs.com.sv/8012//astral
 #EXTINF:0,Radio Aun estamos vivos online
 http://stream-38.zeno.fm/094n3h4v44zuv?zs=ApkVeunORhCx1wXa0q4U-g
 #EXTINF:0,Radio Beat
@@ -1317,6 +1313,8 @@ https://stream-43.zeno.fm/u5tsh7gucrruv?zs=4mL_wkF8T6ySdyXlFP6_zg
 http://sc1.ipip.cz:8018/listen.pls
 #EXTINF:0,Radio Fantasma Ecuador
 https://turadio.accesopanel.com/8370/stream
+#EXTINF:0,RADIO FOX
+https://s3.slotex.pl/shoutcast/7170/stream
 #EXTINF:0,Radio Free California
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC001.mp3
 #EXTINF:0,Radio Free Raleigh
@@ -1355,8 +1353,6 @@ https://stream-47.zeno.fm/v1qe5y1vetzuv?zs=0Oj9CdwYR_yFBwMKhdMj6w
 https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 #EXTINF:0,Radio LUX
 http://5.39.71.39:8004/stream
-#EXTINF:0,Radio Metal Hermosillo Sonora
-http://albireo.shoutca.st:8611/;stream.nsv
 #EXTINF:0,Rádio Mudernage
 https://stream.zeno.fm/2habryuzqa0uv
 #EXTINF:0,Radio-Nautilus
@@ -1443,14 +1439,14 @@ https://s01.digitalserver.org/8010/stream
 http://janus.shoutca.st:8080
 #EXTINF:0,Radio Tucker 
 https://cheetah.streemlion.com:4985/stream
+#EXTINF:0,Rádio TV Channel
+https://serv6.audiovox.pw:6694/stream
 #EXTINF:0,Radio UNO Digital
 https://server-usa2.radioseninternet.net/8000/stream
 #EXTINF:0,286 Ste-Marie
 https://radio.vervillos.com:8000/radio.mp3
 #EXTINF:0,Rádio Vegas
 http://stream.zeno.fm/5qh0pzzyss8uv
-#EXTINF:0,Radio Vesánico
-https://radiosonline.one/radio/8390/radio.mp3
 #EXTINF:0,Radio Voxa
 http://stream.zeno.fm/kezsc0y2wwzuv
 #EXTINF:0,Radio Voz del Quiche
@@ -1670,7 +1666,7 @@ https://server3.streamserver-unlimited.de:8409/Stream/1/stream/1/
 #EXTINF:0,SODA 95.1 FM
 https://guri.tepuyserver.net/8016/stream
 #EXTINF:0,SoftRockRadio
-http://softrock-ice.purestream.net/softrock.mp3
+http://gold.streamguys1.com/softrock.mp3
 #EXTINF:0,Rádio Só Kakarecos Classic Rock
 http://sokakarecos.ddns.net:9030/rock128
 #EXTINF:0,Somos Radio AM 530
@@ -1993,8 +1989,6 @@ https://ice5.securenetsystems.net/WKLC?
 https://live.wostreaming.net/manifest/midwestern-wkltfmaac-ibc1
 #EXTINF:0,WKRU The 106.7 Big Dog FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKRUFMAAC_SC
-#EXTINF:0,WKRZradio
-https://usa19.fastcast4u.com:4780/;?type=http&nocache=1682459531
 #EXTINF:0,WKSK-FM - Rewind 101.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKSKFM.mp3
 #EXTINF:0,WKSM - 99ROCK 99.5 FM
@@ -2069,6 +2063,8 @@ http://64.24.74.20:8000/wpgs.m3u
 https://ice24.securenetsystems.net/WPKE?playSessionID=812111D3-D603-5902-6F305CF931C572B0
 #EXTINF:0,WPMD
 http://199.180.75.123/stream/1/
+#EXTINF:0,WPRY - The Zone 95.3 FM
+https://ice10.securenetsystems.net/KLMZ
 #EXTINF:0,WPVM - The Voice 103.7 FM
 http://stream.wpvmfm.org:8000/wpvm-128k.mp3
 #EXTINF:0,WPZX - Rock 107 105.9 FM

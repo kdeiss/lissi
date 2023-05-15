@@ -307,6 +307,8 @@ https://discofunk.streamingmedia.it/play
 https://s4.radio.co/s4902de73b/listen
 #EXTINF:0,Funstudio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC459_SC
+#EXTINF:0,Gemini Radio
+https://fast.citrus3.com:8378/stream
 #EXTINF:0,Génération Soul Disco Funk Radio
 https://gestream.fr/;stream?sid=1
 #EXTINF:0,Generation Walkman
@@ -321,8 +323,6 @@ https://goody2021.out.airtime.pro/goody2021_a
 https://pureplay.cdnstream1.com/6055_64.aac/playlist.m3u8
 #EXTINF:0,Guareber Recordings Live Radio
 https://max.miradio.in/proxy/guareber/stream
-#EXTINF:0,GuggliFoxRadio
-https://gugglifox-radio.de:8000/radio.mp3
 #EXTINF:0,Head FM.net
 https://443-1.reliastream.com/35/;
 #EXTINF:0,HED KANDI CLUB
@@ -453,6 +453,8 @@ https://stream.laut.fm/bennyfm?ref=radiode
 https://stream.laut.fm/bnkr?ref=radiode
 #EXTINF:0,caseradiodancefloor
 https://stream.laut.fm/caseradiodancefloor?ref=radiode
+#EXTINF:0,caseradiomain
+https://stream.laut.fm/caseradiomain?ref=radiode
 #EXTINF:0,chillerlounge
 https://stream.laut.fm/chillerlounge?ref=radiode
 #EXTINF:0,City FM
@@ -503,8 +505,6 @@ https://stream.laut.fm/discoclassics80?ref=radiode
 https://stream.laut.fm/discoclub?ref=radiode
 #EXTINF:0,Disco Fieber Radio
 https://stream.laut.fm/disco-fieber-radio?ref=radiode
-#EXTINF:0,Disco FM
-https://stream.laut.fm/disco-fm?ref=radiode
 #EXTINF:0,DiscoMixRadio
 https://stream.laut.fm/discomixradio?ref=radiode
 #EXTINF:0,Disco Radio Lahnperle
@@ -895,8 +895,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3?d
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
 #EXTINF:0,Radio1 Disco
 https://stream.zeno.fm/azkg5xw6wv8uv
-#EXTINF:0,Radio 4youfm
-https://s3.slotex.pl/shoutcast/7078/stream?sid=1
 #EXTINF:0,Radio 531 3GG
 https://playerservices.streamtheworld.com/api/livestream-redirect/3GGAAC_SC
 #EXTINF:0,Radio 675
@@ -986,7 +984,7 @@ https://stream.radioillertal.de:8002/stream/1/
 #EXTINF:0,Radio Italo Disco
 https://broadcast.miami/proxy/italodisco?mp=/stream/;
 #EXTINF:0,Radio La Metro
-http://01.solumedia.com.ar:8700/;
+https://01.solumedia.com.ar:8700/stream
 #EXTINF:0,Radio Lifeline
 https://mscp2.live-streams.nl:8192/lifelinemp3
 #EXTINF:0,Radio Luc
@@ -1259,9 +1257,9 @@ https://s16.maxcast.com.br:8228/live
 https://azuracast.xxl-music.de/listen/xxl-music/radio.mp3
 #EXTINF:0,Yes Radio
 https://server-26.stream-server.nl:18614/stream
-#EXTINF:0,Yimago Radio 3
+#EXTINF:0,Yimago Lite Rock
 https://yesradio2.ice.infomaniak.ch/yesradio2-96.mp3
 #EXTINF:0,ZUN radio
-https://strw1.openstream.co/874?
+https://yimago.torontocast.stream/pop
 #EXTINF:0,zunradio
 https://stream.zunradio.cz/zun1.aac

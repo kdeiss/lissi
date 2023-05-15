@@ -522,7 +522,7 @@ http://usa1-vn.mixstream.net:8018
 #EXTINF:0,deep Audio groove
 http://comet.shoutca.st:8352/stream
 #EXTINF:0,Deep Dance Radio
-https://igor.torontocast.com:1825/stream
+https://cast1.torontocast.com:1855/stream
 #EXTINF:0,Deeper Link Radio New York
 https://www.deeperlink.com:8102/stream
 #EXTINF:0,Deeper Shades Radio Network
@@ -683,8 +683,6 @@ https://my.radioprocessor.com:8100/edm-320.mp3
 https://eu1.lhdserver.es:9073/stream
 #EXTINF:0,EDM Sessions 
 https://s2.radio.co/s30844a0f4/listen
-#EXTINF:0,EDM-Sounds
-https://stream.laut.fm/edm-sounds?ref=radiode
 #EXTINF:0,EDR - Electronic Dance Radio
 https://nrf1.newradio.it:10464/stream
 #EXTINF:0,ElectroDanceWorld Radio
@@ -998,7 +996,7 @@ https://streaming.radio.co/s06bd9d805/listen
 #EXTINF:0,House of Funk
 https://houseoffunk.eu:8443/live
 #EXTINF:0,House Party Radio
-https://www.housepartyradio.net/stream/mp3/secure/safe/?from=radio.de
+https://listenhls.housepartyradio.net/hls/hpr-live.m3u8
 #EXTINF:0,House Radio Net
 https://fra-pioneer08.dedicateware.com:1945/stream
 #EXTINF:0,House Reaktor
@@ -1805,6 +1803,8 @@ https://stream.mixadance.fm/mixadance
 http://radyo.yayin.com.tr:5998/stream/1/
 #EXTINF:0,MixARadio Chic List
 https://manager5.streamradio.fr:1095/stream
+#EXTINF:0,Mixaradio Electro Paradise
+https://manager5.streamradio.fr:1105/stream
 #EXTINF:0,MixCult Deep Techno Radio
 http://radio.mixcult.net:8000/MixCult_256kbps
 #EXTINF:0,Mix Global Radio 
@@ -2039,8 +2039,6 @@ https://stream.radiojar.com/ep1yv9t3dxhvv
 https://stream.radiojar.com/4gexr8aqyd0uv
 #EXTINF:0,Perfect Deep House
 https://stream.radiojar.com/asngk2sg798uv?ref=radiode
-#EXTINF:0,Perfect Radio Limpopo
-https://sv2.famcast.co.za/proxy/fjjfsrvk?mp=%2Fstream
 #EXTINF:0,PETER PIETERS
 https://ec3.yesstreaming.net:1565/stream?x=1683105272392
 #EXTINF:0,Phase FM
@@ -2251,8 +2249,6 @@ http://node-06.zeno.fm/681eeuu34hhvv?zs=9ZdDLJq5QWGHn6hb23w5XA&rj-tok=AAABgT1-hO
 http://radio.albaniaradiodj.al/stream
 #EXTINF:0,Radio DJ La Rocca
 http://stream.zeno.fm/wt4s0dbqzd0uv
-#EXTINF:0,Radio DJ 98,2 FM
-https://antena.albaniadigitalradio.al/radiodj
 #EXTINF:0,Radio DJ Track to Track
 http://radio.albaniaradiodj.al/stream
 #EXTINF:0,Radio Dreamers
@@ -2425,10 +2421,8 @@ https://www.radioking.com/play/radio-top-side
 http://s2.yesstreaming.net:7091/stream?
 #EXTINF:0,radiovideomusic
 https://nr2.newradio.it/proxy/seiresrl?mp=/stream
-#EXTINF:0,Radio Virgo
-http://91.121.118.99:8063/stream/1/
 #EXTINF:0,Radio Voices from Ukraine
-https://secure.streaming01.dwservers.net/8200/stream/1/
+http://91.121.118.99:8063/stream/1/
 #EXTINF:0,Electro Gospel
 http://us.everestcast.com:1850/stream
 #EXTINF:0,Radio Yacht
@@ -2786,7 +2780,7 @@ http://live.topfm.hu:8000/base.mp3
 #EXTINF:0,TOP MUSIC RADIO
 https://radio.albaniaradiodj.al/stream
 #EXTINF:0,TOPretroarena
-https://sp14.priv-server.com/8032/stream
+https://sonic.cloudstreaming.eu:8076/stream
 #EXTINF:0,TOPversuzRadio
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac
 #EXTINF:0,Traffic Radio Station
@@ -2893,8 +2887,10 @@ http://146.141.76.196:8080/stream/live.mp3
 http://vprstate.streamguys.net/vprhouse24.mp3
 #EXTINF:0,On A Wave Of Comfort
 https://listen6.myradio24.com/walcon
-#EXTINF:0,WBMX JAMS 104.3 FM 
+#EXTINF:0,Waves Media
 http://radio.btuner.ru:8000/snd.m3u
+#EXTINF:0,WBMX JAMS 104.3 FM 
+https://fast.citrus3.com:8390/stream
 #EXTINF:0,WDHR Radio Broadcasting Inc.
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBMXFMAAC_SC
 #EXTINF:0,webradio-oldenburg 
@@ -2947,8 +2943,10 @@ https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
 https://yesradio2.ice.infomaniak.ch/yesradio2-96.mp3
 #EXTINF:0,Yourcityradio
 http://192.99.83.149:8012/listen.pls
-#EXTINF:0,Yumbo 105.1 FM
+#EXTINF:0, Radio Yujen Briag
 https://c28.radioboss.fm:18234/stream
+#EXTINF:0,Yumbo 105.1 FM
+https://www.radioking.com/play/iujenbriagburgas/524027
 #EXTINF:0,Yurz radio
 https://panel.amediastream.eu:8600/yumbofm
 #EXTINF:0,ZeMixx Radio by Joachim Garraud
