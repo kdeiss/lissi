@@ -421,8 +421,6 @@ http://centova1.cheapshoutcast.com:8252/;stream.nsv
 https://allmusic.radioca.st/2/stream
 #EXTINF:0,All Scottish Radio
 https://streaming.live365.com/a45584
-#EXTINF:0,AllsortsHits 
-https://streaming.live365.com/a70315
 #EXTINF:0,All Time 70s 80s Greatest
 https://listen.radionomy.com/alltime70s80sgreatest.m3u
 #EXTINF:0,Alltime Oldies Radio
@@ -655,6 +653,8 @@ https://stream.zeno.fm/v249f9qzc5zuv
 http://server3.streamserver-unlimited.de:2199/tunein/go455.pls
 #EXTINF:0,Radio Bayern Oldies
 http://eu4.fastcast4u.com:5638/;
+#EXTINF:0,Bay Retro
+https://stream.v3.network:18014/stream.mp3
 #EXTINF:0,BB RADIO - 80er
 https://streambbr.ir-media-tec.com/80s/mp3-128/radiode_web/
 #EXTINF:0,BBR CLUB 80 99.3
@@ -1989,6 +1989,8 @@ https://s2.free-shoutcast.com/stream/18012
 http://s2.genx-stream.de:9050
 #EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
 https://server3.streamserver-unlimited.de:8339/;
+#EXTINF:0,Huella Musical
+http://s3.myradiostream.com:4458/;
 #EXTINF:0,Hunter.FM - 80s Retro
 https://live.hunter.fm/80s_high
 #EXTINF:0,Hypa Vybz Radio
@@ -3159,8 +3161,6 @@ https://stream.zeno.fm/s4fe7rxb898uv
 https://01.solumedia.com.ar:7978/stream
 #EXTINF:0,Lazy Gold Radio
 https://stream-lazyradio.creativedork.com/
-#EXTINF:0,Lead Pedal Radio
-https://streams.radio.co/sac8428732/listen
 #EXTINF:0,LEBONMIX REMIX
 https://stream10.xdevel.com/audio14s976748-1800/stream/icecast.audio
 #EXTINF:0,Le Disque 
@@ -4713,6 +4713,8 @@ http://server05.srvsh.com.br:7348/stream/1/
 https://streaming5.locucionar.com/proxy/radiomundo?mp=/stream
 #EXTINF:0,Radio Music 4 You
 https://c01.lexycast.de:3730/stream/1/
+#EXTINF:0,Radio - Music & Fun
+https://stream.radio-music-and-fun.de:8002/stream
 #EXTINF:0,Radio Music Hall - 2e Rete
 https://stream.zeno.fm/1bh60byekf9uv
 #EXTINF:0,Radio Music Sambre ( RMS ) 
@@ -4999,6 +5001,8 @@ http://www.star104.net/stream/80s.pls
 https://playoutonestreaming.com/proxy/strax?mp=/stream
 #EXTINF:0,Radio Studio Dance
 http://nr9.newradio.it:9630/stream
+#EXTINF:0,Radio Sun Romania
+https://live.radiosun.ro/sunclub
 #EXTINF:0,Radio-Sunshine-Musik
 http://server7.streamserver24.com:2199/tunein/andreas2.pls
 #EXTINF:0,Radio Sunshine Tocando o seu coração
@@ -5077,8 +5081,6 @@ https://stream.zeno.fm/19p7cs8h3v8uv
 https://cloudstream2036.conectarhosting.com/8332/stream
 #EXTINF:0,Radio UNO Santa Elena | FM 97.1
 https://sc.dattalive.com/8776/stream
-#EXTINF:0,Radio Up-Anos 80
-https://srv3.radioup.net/listen/redeup/up80
 #EXTINF:0,Rádio Up 
 https://srv3.radioup.net/listen/redeup/live
 #EXTINF:0,Rádio Valor Local
@@ -5141,14 +5143,14 @@ https://radioxtra128-thehitsnetwork.radioca.st/http://pollux.shoutca.st:8874/1
 https://fast.citrus3.com:8314/stream
 #EXTINF:0,Radio ZET 80
 https://zt04.cdn.eurozet.pl/ZET080.mp3
+#EXTINF:0,Radio ZET Klasyka pop
+https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?
 #EXTINF:0,Radio Zona
 https://stream.zeno.fm/4q2mbym5cm8uv
 #EXTINF:0,Radio Zona Activa
 https://radio.tvstream.cl/8008/stream
 #EXTINF:0,Radio z Pasją Brzeg
 https://stream10.hosterion.pl/8056/stream
-#EXTINF:0,Radio Zuppa
-https://s15.myradiostream.com/16256/listen.mp3
 #EXTINF:0,Radio Zwickau - 80er Kulthits
 https://streams.bcs-systems.de/slp/80er/zwickau/mp3/radio.de/playlist.m3u
 #EXTINF:0,Rádio POP FM 80 Hits
@@ -5499,8 +5501,6 @@ https://node-13.zeno.fm/8nby4derqwzuv.aac
 http://stm43.stmsrv.com:8014/;
 #EXTINF:0,Sensuelle Radio
 https://stream.rcast.net/67498
-#EXTINF:0,Sera Music
-http://143.178.249.77:8002/listen.pls
 #EXTINF:0,Sertanejo FM
 https://stream.zeno.fm/qcwuy1y3tm0uv
 #EXTINF:0,Sessions Gold Radio
