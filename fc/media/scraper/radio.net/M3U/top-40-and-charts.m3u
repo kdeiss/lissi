@@ -1585,6 +1585,8 @@ http://streamplus19.leonex.de:10398/;
 https://server18857.streamplus.de/stream.mp3
 #EXTINF:0,Fun77.1
 https://s9.citrus3.com:2020/public/funcidy
+#EXTINF:0,Fun Radio Czechoslovakia
+https://stream.funradio.sk:18443/cs128.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -1619,8 +1621,6 @@ https://ithaca.cdnstream.com/1697_192
 https://streamingv2.shoutcast.com/ghittt848fm
 #EXTINF:0,glamour fm Málaga
 http://142.132.128.75:8006/stream/1/
-#EXTINF:0,Global Radio 93.6 FM
-http://stream.seav.co.uk:8000/;stream.nsv
 #EXTINF:0,Radio Globo
 https://globo.newradio.it/globorm64
 #EXTINF:0,GloLive Radio
@@ -2221,8 +2221,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92.mp3
 https://streamdb8web.securenetsystems.net/v5/1061KISSFM
 #EXTINF:0,KISS FM 89.1
 http://i9.streams.ovh:19007/stream
-#EXTINF:0,KISS FM 98.5
-https://stream.zeno.fm/kydrhft4zbruv
 #EXTINF:0,KISS FM – NEW BEATS
 https://stream.kissfm.de/kissfm-new-beats/mp3-128/?ref=radiode
 #EXTINF:0,KISS FM – TOP 40 BEATS
@@ -3853,6 +3851,8 @@ https://magia101.streaming.radiogrupo.com/
 https://streamdb6web.securenetsystems.net/v5/KPTJ
 #EXTINF:0,Magic-Dreamworld-Radio
 http://144.76.84.153:21672/stream/1/
+#EXTINF:0,Magic 102.9 FM
+https://stream.galaxywebsolutions.com/proxy/magic1029fm?mp=/stream
 #EXTINF:0,Magic Malta 91.7
 http://s46.myradiostream.com:6076/stream/1/
 #EXTINF:0,MAGIC RADIO FM
@@ -3889,8 +3889,6 @@ https://sonic.mediatelekom.net/9994/stream/;
 http://179.43.114.70:9340/;
 #EXTINF:0,Massive Dance Radio 
 https://kathy.torontocast.com:4405/stream
-#EXTINF:0,Massive Hits (East Midlands)
-https://stream.jtsmedia.uk/radio/8010/massivehitsem
 #EXTINF:0,Master FM Asturias
 http://lamaster.es:8010/;
 #EXTINF:0,MatMusic 
@@ -3981,6 +3979,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CAPAOBON
 https://link.radiojar.com/c27wx6pdh8vtv
 #EXTINF:0,Mix FM 102.7
 https://radio.mixnews.lv/MixFM
+#EXTINF:0,Mix FM Manaus
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_MANAUSAAC_SC
 #EXTINF:0,Mix FM - Saudi Arabia
 https://s1.voscast.com:11377/live.mp3
 #EXTINF:0,Mix FM Santarém
@@ -4723,6 +4723,8 @@ https://live.radio.si/Radio1CE
 https://admdn7.cdn.mangomolo.com/rdo1/rdo1.stream_aac/playlist.m3u8
 #EXTINF:0,Radio 24
 http://icecast.radio24.ch/radio24
+#EXTINF:0,Radio24
+https://us.everestcast.com:1155/stream
 #EXTINF:0,Radio 3 Bodø
 https://stream.radio3.no/Radio3Bodo
 #EXTINF:0,Radio 3i
@@ -5019,6 +5021,8 @@ https://streaming.shoutcast.com/radiolina
 https://online.radioline.fm:8443/stream
 #EXTINF:0,Radio Lusitana
 http://11.stmip.net:8404/stream
+#EXTINF:0,Radio M 24 102.7
+https://ssl.evsportugal.net:7172/stream
 #EXTINF:0,Radio Maeva
 https://rbx2.hnux.com/149.202.22.75:8598/stream/1/
 #EXTINF:0,Radio Magenta
@@ -6081,8 +6085,6 @@ https://voa-22.akacast.akamaistream.net/7/48/322034/v1/ibb.akacast.akamaistream.
 http://onair11.xdevel.com:10024/;
 #EXTINF:0,Voice of Barbados 92.9 FM
 https://ice66.securenetsystems.net/VOB929?
-#EXTINF:0,VOL40 Te Mueve!
-https://stream.zeno.fm/ym0qh6zmg1duv
 #EXTINF:0,VoorstVeluwezoom
 https://caster05.streampakket.com/proxy/8133/stream
 #EXTINF:0,Vörösmarty Rádió
@@ -6233,8 +6235,6 @@ https://ice5.securenetsystems.net/WIVQ?type=.mp3
 https://nebcoradio.com:8443/WIXM
 #EXTINF:0,WIXX 101 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC
-#EXTINF:0,W!ZARD Radio Station
-http://159.223.10.111:8000/wizardstream
 #EXTINF:0,WIZM Z93
 http://crystalout.surfernetwork.com:8001/WIZM_MP3
 #EXTINF:0,WJAS - the Talk of Pittsburgh

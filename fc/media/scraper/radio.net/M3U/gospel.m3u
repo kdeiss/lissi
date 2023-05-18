@@ -501,6 +501,8 @@ https://ec1.everestcast.host:1875/stream?_=1
 http://www.puertoplataradio.com:8012/;
 #EXTINF:0,Good News Community Radio
 https://edge.iono.fm/xice/155_medium.aac
+#EXTINF:0,GOD Speaks Internet Radio
+https://godplzrs.radioca.st/;
 #EXTINF:0,Goldenrb
 http://www.streamcontrol.net:14000/stream/1/
 #EXTINF:0,Gold Radio Jamaica
@@ -519,8 +521,6 @@ https://ssl.rockhost.com/proxy/gospel?mp=%2Fmp3_64
 https://servidor31.brlogic.com:8018/live
 #EXTINF:0,Gospel Brasil Web Channel
 https://stream.zeno.fm/c7v8aycxueruv
-#EXTINF:0,Gospel Central
-http://centova.nardele.com.br:4048/stream;
 #EXTINF:0,Gospel Ceuh Music
 https://s14.maxcast.com.br:8096/live
 #EXTINF:0,Gospel Classic Forever
@@ -799,6 +799,8 @@ https://listen.radioking.com/radio/271129/stream/316564
 http://listen.radionomy.com/kjafradio
 #EXTINF:0,KJCB 770 AM
 https://18423.live.streamtheworld.com/KCBCAMAAC_SC?dist=onlineradiobox
+#EXTINF:0,KJIR - The Cross Southern Gospel Radio 91.7 FM
+https://video1.getstreamhosting.com:8128/stream
 #EXTINF:0,KJIW 94.5 FM
 https://ic1.christiannetcast.com/kjiw-fm
 #EXTINF:0,KKAY 1590 AM
@@ -1411,8 +1413,6 @@ http://stm19.xcast.com.br:12570/;
 https://stream.zeno.fm/jxiogytdce7vv
 #EXTINF:0,Radio Gospel Armadura de Deus
 https://stm1.vivagospel.com.br:7026/stream/1/
-#EXTINF:0,Rádio Gospel Central
-http://centova.nardele.com.br:4048/stream/1/
 #EXTINF:0,Rádio Gospel FM (Curitiba)
 https://www.appradio.app:8161/live
 #EXTINF:0,Radio Gospel Da Covilha
@@ -1647,8 +1647,6 @@ http://51.75.145.68:9610/stream/1/
 https://player.i7nove.com.br/proxy/7110
 #EXTINF:0,Rádio Seara
 http://sc1.shoutcaststreaming.us:8116/stream;
-#EXTINF:0,Rádio Semeando Paz
-http://hts03.kshost.com.br:9184/stream/1/
 #EXTINF:0,Radio Shalom de Senador Caneda
 https://stm1.srvstm.com:9022/stream/1/
 #EXTINF:0,Radio Shalom Gospel
@@ -1663,6 +1661,8 @@ https://centova4.transmissaodigital.com:20278/stream
 http://www.rkmradio.com:8000/stream/1/
 #EXTINF:0,Rádio Sound FM
 https://live.radiosoundfm.com.br/sound/stream
+#EXTINF:0,Radio Sound Gospel
+https://s08.w3bserver.com/radio/8140//radio.mp3
 #EXTINF:0,Radio Star Country
 https://eu4.fastcast4u.com/proxy/blueeyeg?
 #EXTINF:0,Plus Radio Belize
@@ -1711,12 +1711,12 @@ https://eu10.fastcast4u.com:5655/stream
 https://stream.zeno.fm/g1rkh819hbruv
 #EXTINF:0,Radio Torino Biblica
 https://radiotorinobiblica.ice.infomaniak.ch/radiotorinobiblica-128.mp3
+#EXTINF:0,Rádio Trans Mundial
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC
 #EXTINF:0,Rádio Turismo Mundial
 http://node-06.zeno.fm/cqbrezdqvy8uv?zs=fRVXvoIGR3-rbENWxygrjw&rj-ttl=3&rj-tok=AAABgT2I344AuynMhgSNiXNj-w
 #EXTINF:0,RadioTV-Espiritu Santo a las Naciones
 http://stream.zeno.fm/3khgtfrpktzuv
-#EXTINF:0,RADIO TV FAV-STO DGO.
-http://stream-43.zeno.fm/kzdwuqe9ay8uv?zs=Ul7mJwlJTxSy3FpIFrILWQ
 #EXTINF:0,U Ràdio
 https://streaming.enacast.com/radioulldecona128.mp3
 #EXTINF:0,Radio Unción Texas
@@ -2453,8 +2453,6 @@ https://ice5.securenetsystems.net/WJNI
 https://ice64.securenetsystems.net/WJNJAM
 #EXTINF:0,WJNJ - Pure Radio Jacksonville
 https://ice64.securenetsystems.net/WJNJAM
-#EXTINF:0,WJOU - Praise 90.1 FM
-https://ic2.sslstream.com/wjou-fm?
 #EXTINF:0,WJRG Gospel Inspirations
 http://198.27.66.225:8246/stream
 #EXTINF:0,WJSD-LP 94.5 - 3ABN Radio
