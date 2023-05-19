@@ -517,6 +517,8 @@ https://cast.bbstalkradio.com/proxy/bbsradio2?mp=/stream
 https://ice23.securenetsystems.net/WBVP?
 #EXTINF:0,Bela FM
 https://servidor37.brlogic.com:7022/live
+#EXTINF:0,Believe SA
+https://streaming.shoutcast.com/believesa
 #EXTINF:0,BetRivers Network Radio
 https://s4.radio.co/sca0a3c191/listen
 #EXTINF:0,BFM 89.9
@@ -2667,6 +2669,8 @@ https://crystalin.surfernetwork.com:8000/KWON-AM_MP3
 https://ais-sa1.streamon.fm/7401_48k.aac/playlist.m3u8
 #EXTINF:0,KWSU NWPR News
 http://134.121.234.129:8000/NWPRNEWS
+#EXTINF:0,KWTO AM 560
+https://ais-sa1.streamon.fm/7679_48k.aac
 #EXTINF:0,KWVH
 https://ice41.securenetsystems.net/KWVH
 #EXTINF:0,KWWN - ESPN Radio 1100 AM
@@ -2685,8 +2689,6 @@ http://kxparadio.serverroom.us:5852/;
 https://platteriverradio.broadcasttool.com/kxpn-aac
 #EXTINF:0,KXRA 1490 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXRAAMAAC_SC
-#EXTINF:0,KXRO - Newsradio 1320 AM
-https://prod-3-95-197-210.wostreaming.net/alphacorporate-kxroamaac-ibc4?
 #EXTINF:0,KXST - CBS Sports Radio 1140 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXSTAM.mp3
 #EXTINF:0,KXYL NewsTalk 102.3 FM
@@ -3353,8 +3355,6 @@ https://s2.radio.co/s74ea36509/listen
 https://stream.zeno.fm/sdw1cxnpoyluv
 #EXTINF:0,OPB - Morning News
 https://ais-sa3.cdnstream1.com/2440_128.aac
-#EXTINF:0,O Povo CBN Fortaleza 95.5 FM
-https://ssls03.transmissaodigital.com:6802/
 #EXTINF:0,Órbita 106.7 FM
 https://s2.mexside.net/8044/stream
 #EXTINF:0,Orbita FM
@@ -3801,8 +3801,6 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
-#EXTINF:0,Radio FM Oasis 95.7
-http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://sg.centrocibernetico.com/formula103
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -4027,6 +4025,8 @@ https://radionz.streamguys1.com/national/national/playlist.m3u8
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d/playlist.m3u8?aid=5c58a34e176c2c0813b22e4b&pid=h30BF75IDr9QoVGKJlvEkTmJsUajg723&sid=8B9EcEZrHrG7ahQqgmlQH24UkIf00pVF&uid=F1XuPWcZ1l9uUD5AONn5Hso7eHZk1LRb&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1666353906790&ot=c0bk6RKr9uTufvNL6EIISg&proto=https&pz=us&cP=128000&awCollectionId=5c58a34e176c2c0813b22e4b&liveId=5c915497c6fd7c085b29169d
 #EXTINF:0,Radio Ognjisce
 http://real.ognjisce.si:8000/ognjisce.mp3
+#EXTINF:0,Rádio Onda FM 87.5
+http://95.216.27.138:9304/stream/1/
 #EXTINF:0,Radio Ondas de Paz Nicaragua
 https://stream-52.zeno.fm/yt766x85ed0uv?zs=n73zrUnWRiau0KCKOMLc0A
 #EXTINF:0,Radio Pachamama
