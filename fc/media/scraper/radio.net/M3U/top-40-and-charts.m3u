@@ -7,8 +7,6 @@ https://strmreg.1.fm/top40_mobile_mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
 #EXTINF:0,Antena Zagreb
 http://live.antenazagreb.hr:8000/stream/1/
-#EXTINF:0,Athens Deejay 95.2
-http://radiodjlive.mdc.akamaized.net/strmDj952/usrDj952/playlist.m3u8
 #EXTINF:0,BAYERN 3
 https://dispatcher.rndfnk.com/br/br3/live/aac/low?aggregator=radio-de
 #EXTINF:0,bigFM
@@ -33,8 +31,8 @@ https://streams.ffh.de/radioffh/mp3/hqlivestream.mp3?amsparams=playerid:RTFFHRad
 https://wg.cdn.tibus.net/galwaybay.mp3
 #EXTINF:0,Groot FM 90.5
 https://cast3.my-control-panel.com/proxy/grootfm/stream
-#EXTINF:0,Хіт FM - Hit FM Top
-https://online.hitfm.ua/HitFM_Top
+#EXTINF:0,Adult Hits - HitsRadio
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_MIX.mp3
 #EXTINF:0,Huahin Radio Thailand 
 https://inter1.plathong.net/7008/stream/1/
 #EXTINF:0,JAM FM
@@ -81,6 +79,8 @@ https://icstream.rds.radio/rds
 https://rs8-krk2.rmfstream.pl/RMFMAXXX48
 #EXTINF:0,RTÉ Radio 1
 https://rdstrm.com/rte-radio-1.mp3
+#EXTINF:0,RTÉ 2FM
+https://www.rte.ie/manifests/2fm.m3u8
 #EXTINF:0,Rythmos 94.9 FM
 https://stream.radiojar.com/g4tyehk5yvduv
 #EXTINF:0,Soundcity Radio 98.5
