@@ -3,8 +3,6 @@
 http://104.250.149.122:8334/stream/1/
 #EXTINF:0,98.5 La Comadre
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac
-#EXTINF:0,Activate FM
-https://streaming12.elitecomunicacion.es:8085/stream
 #EXTINF:0,Africa N°1
 https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 #EXTINF:0,Africa N°1 - Rumba
@@ -51,8 +49,6 @@ http://79.120.39.202:8000/salsa
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86/playlist.m3u8
 #EXTINF:0,Chanquete FM
 http://185.23.192.118:8012/;stream.mp3
-#EXTINF:0,Chill Out FM
-https://solid2.streamupsolutions.com/proxy/jcdcfujk?mp=/;type=mp3
 #EXTINF:0,Click Latino 99.5 FM
 https://sonic.dattassd.com/8006/stream
 #EXTINF:0,Club Sonidero
@@ -75,6 +71,8 @@ https://stream.zeno.fm/xpe0b2f42mzuv
 https://ssl.gmpro.top:7070/stream/1/
 #EXTINF:0,Radio Disney Costa Rica
 https://ic.streann.com/disneycostarica
+#EXTINF:0,Radio Disney Ecuador
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY.mp3
 #EXTINF:0,Radio Disney México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFMAAC.aac
 #EXTINF:0,Ecua Ambato Radio 
@@ -111,6 +109,8 @@ http://server.radiogs.org:8092/stream
 http://audio.estrellacolombia.com:8006/;
 #EXTINF:0,EXA FM Fresnillo 100.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
+#EXTINF:0,EXA FM Aguascalientes
+http://audioout.gvstream.net/radiouniversal-exa973.aac
 #EXTINF:0,Exa FM Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,Exa FM Culiacán
@@ -133,12 +133,12 @@ https://dj91.hostingnuclear.com/8042/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAM.mp3
 #EXTINF:0,FieraMIX La Merenguera
 https://c15.radioboss.fm:18223/stream
+#EXTINF:0,Fiesta FM
+https://server6.globalhostla.com:9012/stream
 #EXTINF:0,Radio fiesta tropical Guanaca
 https://stream.zenolive.com/262ebxkq9eeuv
 #EXTINF:0,Radio Fiesta Tropical
 https://stream.zeno.fm/262ebxkq9eeuv
-#EXTINF:0,RadioArt: Flamenco
-https://live.radioart.com/fFlamenco.mp3
 #EXTINF:0,Forró Top FM
 http://stm16.xcast.com.br:10582/;
 #EXTINF:0,Gozadera Black
@@ -165,6 +165,8 @@ https://streamer.radio.co/s69ad365c4/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
 #EXTINF:0,KDNA - 91.9 FM
 http://peridot.streamguys.com:5620/kdna-mp3
+#EXTINF:0,KDUT - La Gran D 102.3 FM
+https://live.wostreaming.net/direct/alphacorporate-kdutfmaac-ibc4
 #EXTINF:0,KGBT - La Jefa 98.5 FM McAllen
 https://live.wostreaming.net/direct/univision-kgbtfmaac-imc1
 #EXTINF:0,KGRB Radio Lazer 94.3 FM
@@ -201,6 +203,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_CAMPESINA_N
 https://ais-edge07-live365-dal02.cdnstream.com/a15951
 #EXTINF:0,KPST-FM - La Tricolor 103.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC.aac
+#EXTINF:0,KPTJ Magia 104.5 FM
+https://ice5.securenetsystems.net/KPTJ
 #EXTINF:0,KPVU 91.3 FM 
 https://kpvu.streamguys1.com/live-mp3
 #EXTINF:0,KQMR - La Kalle 100.3 FM
@@ -311,6 +315,8 @@ https://latinalove.ice.infomaniak.ch/latinalove.mp3
 http://198.27.68.65:8296/stream
 #EXTINF:0,Latino Pop baladas 70s_80s_90s
 https://stream-32.zeno.fm/n9pergyv5ueuv?zs=AowuqaIfQ9u5-fNoNjGZUA
+#EXTINF:0,ondalatina
+https://stream.laut.fm/ondalatina?ref=radiode
 #EXTINF:0,Radio Hot 100
 https://stream.laut.fm/radio-hot100?ref=radiode
 #EXTINF:0,Tango Radio Berlin
@@ -343,16 +349,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC60_SC
 https://streaming.Live365.com/a72863
 #EXTINF:0,Musica Sonidera Radio
 http://server01.heplayer.com/8060/stream
-#EXTINF:0,420 MUSIC PUERTO RICO
-https://stream.zeno.fm/zksa74xwrzzuv
 #EXTINF:0,Musiquera 93.3 FM
 https://stream.zeno.fm/83h238tqsceuv
 #EXTINF:0,La Naranjera
 https://radiostreamingaac.com:8010/stream
 #EXTINF:0,Norteñas Sax Addict
 https://ec1.everestcast.host:2375/stream
-#EXTINF:0,npmradio
-https://stream.zeno.fm/f7hbnx9f5a0uv
 #EXTINF:0,NRJ LATINO HITS
 https://scdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Radio Nueva Q FM
@@ -369,8 +371,6 @@ https://stream.zeno.fm/504gq6zfzmzuv
 https://servidor15-3.brlogic.com:7328/live
 #EXTINF:0,Perú Cumbia Radio
 https://stream.zeno.fm/1276g6drneruv
-#EXTINF:0,Planeta Cumbia Latina
-https://stream.zeno.fm/60pqgs97f2zuv
 #EXTINF:0,Pop New York
 http://167.114.131.90:5830/;
 #EXTINF:0,Pueblo Grupero Radio
@@ -529,6 +529,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TR_MEDELLIN.mp
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_PEREIRA.mp3
 #EXTINF:0,Ukrainian Radio Mix
 http://91.121.164.210:8388/stream/1/
+#EXTINF:0,ULUSAL LATİN
+http://162.254.207.45:9326/;stream.mp3
 #EXTINF:0,RADIO VALLENATOS CLÁSICOS
 https://stream.zeno.fm/z07vyxbqz8quv
 #EXTINF:0,Vanilla Radio - Smooth Flavors
@@ -579,8 +581,6 @@ https://liveaudio.lamusica.com/TAM_WSUN_icy?aw_0_1st.playerid=radio.net
 http://68.235.35.243:9027/stream/1/
 #EXTINF:0,WVKO-FM - La Mega 103.1 FM
 https://ice41.securenetsystems.net/WVKO
-#EXTINF:0,WWRF - Radio Fiesta 1380 AM
-https://ice7.securenetsystems.net/WWRF
 #EXTINF:0,WXDJ - El Zol 106.7 FM
 https://liveaudio.lamusica.com/MIA_WXDJ_icy?aw_0_1st.playerid=radio.net
 #EXTINF:0,WYEL - WKAQ 600 AM
