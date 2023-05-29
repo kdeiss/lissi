@@ -81,8 +81,6 @@ https://streaming.live365.com/a19446
 https://streaming.live365.com/a23725
 #EXTINF:0,America's OTR - Western Radio
 https://streaming.live365.com/a23179
-#EXTINF:0,AMFM247
-https://centova.amfm247.com:8443/stream
 #EXTINF:0,Angel of Melody
 https://stream-webcast-lt-24.de:10917/stream/1/
 #EXTINF:0,Angel Radio
@@ -198,7 +196,7 @@ https://fred.torontocast.com:1815/stream
 #EXTINF:0,East Coast Gold
 https://live.ecr.co.za/ecrgoldhigh.mp3
 #EXTINF:0,De El Fonógrafo 720 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEJCC_AMAAC.aac
+https://playerservices.streamtheworld.com/pls/XEJCC_AM.pls
 #EXTINF:0,El Rapto se Acerca
 https://stream.zeno.fm/kraz7tksrqzuv.pls
 #EXTINF:0,El Tango Criollo
@@ -383,6 +381,8 @@ https://stream.zeno.fm/hwundty8hv8uv
 https://stream.zeno.fm/v5fvgdk0pg0uv
 #EXTINF:0,MitaroHD
 http://167.114.116.223:1746/;
+#EXTINF:0,Modiri FM
+http://5.135.158.214:16262/;
 #EXTINF:0,Moin.fm
 https://stream.moin-fm.de:8000/stream
 #EXTINF:0,Radio Montmartre
@@ -693,14 +693,10 @@ http://server1.visiotec.it:8100/stream/1/
 https://stream.zeno.fm/5vzxm8ar0wzuv
 #EXTINF:0,Sauk Prairie Radio
 https://streaming.live365.com/a69842
-#EXTINF:0,ScandinavianAlbaniaRadio
-http://78.129.234.163:21210/;
 #EXTINF:0,Schwany Souvenir2
 https://schwany.streampanel.cloud/13-souvenir2
 #EXTINF:0,Sdalafontaine
 https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_29852_stream_350857800
-#EXTINF:0,Sessions Gold Radio
-https://stream.sessionsradio.uk/radio/8020/radio.mp3
 #EXTINF:0,Simply Gold Radio
 https://everestcast.shoutcastservices.com:1965/stream
 #EXTINF:0,Social Music Radio

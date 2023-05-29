@@ -267,8 +267,6 @@ https://s4.radio.co/sd90daceea/listen
 https://server3.webradios.com.br:19380/9380
 #EXTINF:0,Bon Déjeuner! Radio
 https://listen.radioking.com/radio/1743/stream/125
-#EXTINF:0,Radio Bonne Nouvelle
-http://dn10215.hostncast.net:8000/listen.mp3
 #EXTINF:0,BPN Radio Live
 https://listen.shoutcast.com/bpnradiolive.m3u
 #EXTINF:0,Branch FM
@@ -561,8 +559,6 @@ https://emisorasvirtuales.com.co:9600/live
 https://server.radiogs.net/8306/stream
 #EXTINF:0,Efmradio
 http://s2.stationplaylist.com:7026/listen.aac
-#EXTINF:0,EgliseBethel FM 
-http://192.99.8.192:2562/;
 #EXTINF:0,Elevated Radio- Christian Hit Station
 https://s4.radio.co/s7a0116f48/listen
 #EXTINF:0,Elias Piña FM 
@@ -947,8 +943,6 @@ https://stream2.hopemedia.com.au/inspire-mp3
 https://stream.zeno.fm/r6mh3b9mxmzuv
 #EXTINF:0,Rádio Intercessores
 https://stm3.painelcast.com:6754
-#EXTINF:0,Rádio Intervida FM
-https://s39.maxcast.com.br:8794/live
 #EXTINF:0,IPB1 - Igreja Presbiteriana do Brasil
 https://sc4s.cdn.upx.com:9004/stream/1/
 #EXTINF:0,IPB2 - Igreja Presbiteriana do Brasil
@@ -1134,7 +1128,7 @@ http://mediaserver3.afa.net:8000/inspo.mp3
 #EXTINF:0,KBJS 90.3 FM
 https://ic2.christiannetcast.com/kbjs-fm
 #EXTINF:0,KBKY - Radio Alfa y Omega 94.1 FM
-http://s6.myradiostream.com:6114/stream/1/
+https://s6.myradiostream.com/:6114/;
 #EXTINF:0,KBLD 91.7 FM
 https://ice7.securenetsystems.net/KBLD
 #EXTINF:0,KBLE - Sacred Heart Radio 1050 AM
@@ -1243,8 +1237,6 @@ https://ice7.securenetsystems.net/CSNAAC
 http://stval.stream.miriamtech.net:8000/live
 #EXTINF:0,KDKR
 http://www.kdkr.org/listen.pls
-#EXTINF:0,KDOV - The Dove 91.7 FM
-https://10gb1.tulix.tv/thenail.mp3
 #EXTINF:0,KDFR - Family Radio 91.3 FM
 https://ais-sa3.cdnstream1.com/2641_64.aac
 #EXTINF:0,KDRY Christian AM 1100
@@ -1389,8 +1381,6 @@ http://covenantnet.stream.miriamtech.net:8000/stream.m3u
 http://covenantnet.stream.miriamtech.net:8000/stream
 #EXTINF:0,KHMG - Harvest Family Radio 88.1 FM
 http://icecast.radiowesterwolde.nl:8000/G1_RWW
-#EXTINF:0,KHMG 88.1 FM
-https://ic1.christiannetcast.com/khmg-fm
 #EXTINF:0,KHOJ - Covenant Network 1460 AM
 http://covenantnet.stream.miriamtech.net:8000/stream.m3u
 #EXTINF:0,KHOY Catholic Radio 88.1 FM
@@ -1463,6 +1453,10 @@ https://ice3.securenetsystems.net:80/KJIL
 https://ice7.securenetsystems.net/KVSS?
 #EXTINF:0,KJWR - Kinship Christian Radio 90.9 FM
 http://quarrel.str3am.com:7780/stream2
+#EXTINF:0,KKAY - Global Radio 1590 AM
+http://s7.voscast.com:7958/stream/1/
+#EXTINF:0,KKAY 1590 AM
+http://s7.voscast.com:7958/;
 #EXTINF:0,KKHT 100.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKHTFM.mp3
 #EXTINF:0,KKJA - CSN 89.3 FM
@@ -2426,7 +2420,7 @@ http://online.svitle.org:6728/fm
 #EXTINF:0,Radio Encarnación
 http://streaming.morfosisdigital.com:8020/live
 #EXTINF:0,Radio Enfantine Béthanie
-http://stream-47.zeno.fm/avqy3kmeuv8uv?zs=hJCgBL-GQiyXTamRaf616g
+https://stream.zeno.fm/avqy3kmeuv8uv
 #EXTINF:0,Radio Enlace Del Soconusco
 https://s4.myradiostream.com/8116/listen.mp3
 #EXTINF:0,Radio Espoir
@@ -2657,8 +2651,6 @@ http://dreamsiteradiocp.com:8026/;
 https://radioserver11.profesionalhosting.com:19069/stream
 #EXTINF:0,RADIO MARIA ERDÉLY
 http://stream.mariaradio.ro:8000/MRE
-#EXTINF:0,RADIO MARIA FRANCE
-https://dreamsiteradiocp4.com/proxy/rmfrancemp4?mp=/stream
 #EXTINF:0,RADIO MARIA GUATEMALA
 http://dreamsiteradiocp.com:8072/stream.mp3
 #EXTINF:0,RADIO MARIA HUNGARY
@@ -3363,8 +3355,6 @@ http://sc1.reignradio.net:8068/stream/1/
 http://sc1.reignradio.net:8086/stream/1/
 #EXTINF:0,Radio Renacer Irigoyen 101.1 FM
 http://server.ohradio.com.ar:9760/;
-#EXTINF:0,Radio Online Renovadoxcristo
-https://stream.zeno.fm/1fzks4bmx4zuv
 #EXTINF:0,Renuevo FM
 https://radio3.domint.net:8116/stream
 #EXTINF:0,Radio Restauración Chile
@@ -3457,8 +3447,6 @@ http://we.savesouls.today:8088/stream
 https://stream.zeno.fm/u5gbt0e73d0uv
 #EXTINF:0,Radio Sawt el Rab
 https://sawtelrab.radioca.st/stream/2/
-#EXTINF:0,SB - Rádio Sulbrasileira AM 1320
-https://play.radio.br:8089/SulBrasileira/SB1320/icecast.audio
 #EXTINF:0,SBW Radio
 https://streamer.radio.co/s6152f7771/listen
 #EXTINF:0,SCs MIX
@@ -3615,8 +3603,6 @@ https://streaming.live365.com/a01164
 https://listen.shoutcast.com/theresilientchristianradionetwork.m3u
 #EXTINF:0,The Suffolks Radio
 https://s2.radio.co/s423561301/listen
-#EXTINF:0,The Telly
-https://s3.radio.co/sffa16a0ba/listen
 #EXTINF:0,The Well Radio
 https://streaming.live365.com/a64718
 #EXTINF:0,Thuthi FM
@@ -3633,6 +3619,8 @@ https://s4.radio.co/s085edc514/listen
 https://stream.zeno.fm/nw0rvks1w7zuv
 #EXTINF:0,TouchFM
 https://ice23.securenetsystems.net/TOUCHFM
+#EXTINF:0,Traditional Catholic Radio
+http://traditionalcatholicradio.org:8000/main
 #EXTINF:0,Radio Tranquilidade
 http://www.iasdcoimbra.tv:8000/stream/1/;
 #EXTINF:0,Radio 7

@@ -25,8 +25,6 @@ https://streamingV2.shoutcast.com/80ssuperhits
 https://radio.en.rs:8010/shetach
 #EXTINF:0,ABC Disco Funk
 https://listen.radioking.com/radio/324967/stream/374263
-#EXTINF:0,ABF World
-https://abf.net-radio.fr/abfworld.mp3
 #EXTINF:0,Absolut 80iger
 https://absolut-80er.live-sm.absolutradio.de/absolut-80er?aggregator=radiode
 #EXTINF:0,ADJ Channel
@@ -115,6 +113,8 @@ http://stream.classicfreaks.com:8080/live
 https://stream.revma.ihrhls.com/zc6955/hls.m3u8
 #EXTINF:0,Classicos do Funk
 https://radio.saopaulo01.com.br/9812/stream
+#EXTINF:0,Classic Sounds Radio
+http://stream.radiojar.com/atdu64k7ehuvv
 #EXTINF:0,CLUB DANCE CHILE!
 https://sonic-cl.streaming-chile.com/8036/stream
 #EXTINF:0,Club One Radio
@@ -301,6 +301,8 @@ https://stream.deevaradio.net:10443/divaradiodisco?highlight
 https://stream.zeno.fm/azgx0ktf4p8uv
 #EXTINF:0,House of Funk
 https://houseoffunk.eu:8443/live
+#EXTINF:0,House Party Radio
+https://listen.housepartyradio.net/stream
 #EXTINF:0,Ibiza Radios - Funky
 https://radio2.vip-radios.fm:18030/stream-128kmp3-IbizaFunky
 #EXTINF:0,Ico Style Radio
@@ -355,12 +357,16 @@ http://kifradio.kifradio.com
 https://usa10.fastcast4u.com/knr0
 #EXTINF:0,KJAMS Radio
 https://streamer.radio.co/s2d19da17e/listen
+#EXTINF:0,KJGR Jazz Grooves
+https://stream.zeno.fm/wrwfdegzvk8uv
 #EXTINF:0,Kool 182
 https://kool.stream.laut.fm/kool
 #EXTINF:0,KL Radio In The Mix
 https://klradiointhemix.out.airtime.pro/klradiointhemix_a?_ga=2.49756198.1018540026.1655901460-1493133427.1640856923
 #EXTINF:0,Npursuit Entertainment Radio
 https://streams.radio.co/s8d74328ae/listen.m3u
+#EXTINF:0,KTFZ The Funk Zone
+https://stream.zeno.fm/h5skggtacm8uv
 #EXTINF:0,KX Classics
 https://mcp-1.streampanel.nl:8020/kxclassics_mp3
 #EXTINF:0,LANÇAMENTOS - FUNK E BATIDÃO
@@ -723,6 +729,10 @@ http://snd.radio-z.net:8000/Radio-Z
 https://streamingV2.shoutcast.com/RAP-ON-AIR-RADIO
 #EXTINF:0,Radio RCA
 https://broadcast.miami/proxy/rca?mp=/stream/;
+#EXTINF:0,RetroSonic Grooves
+https://rsra.net:8010/grooves.mp3
+#EXTINF:0,RetroSonic Hits
+https://rsra.net:8060/hits.mp3
 #EXTINF:0,RETRO SOUL RADIO
 http://46.28.49.164:7504/stream
 #EXTINF:0,Revenge FM
@@ -763,6 +773,8 @@ http://stream.zenolive.com/af3em5gbm0quv
 https://sensationsdiscoinferno.ice.infomaniak.ch/sensationsdiscoinferno-192.mp3
 #EXTINF:0,SENSATIONS Funk & Soul
 https://sensationsfunksoul.ice.infomaniak.ch/sensationsfunksoul.mp3
+#EXTINF:0,Serendipity Transmits 24-7
+https://stream.zeno.fm/eaxu6nlt5ryuv
 #EXTINF:0,Seventies Berlin - The Vinyl Radio
 https://stream.laut.fm/seventiesberlin?ref=radiode
 #EXTINF:0,Shake!FM
@@ -841,6 +853,8 @@ http://158.69.74.203/stream
 https://stream.technolovers.fm/funky-house?ref=radiode
 #EXTINF:0,Thames FM London Soul Radio
 https://streamer.radio.co/s7379f3184/low
+#EXTINF:0,The Back In The Day Buffet
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=9200&type=s1
 #EXTINF:0,The Beat Chicago
 http://6276.cloudrad.io:8020/stream/1/
 #EXTINF:0,The Beat by WorldOne Presents
@@ -881,8 +895,6 @@ https://traxx016.ice.infomaniak.ch/traxx016-low.mp3
 https://listen.theradio.cc
 #EXTINF:0,TRI FM SANTOS
 https://radios.poolwebwork.com.br/8024/stream
-#EXTINF:0,The Sound Of New York City
-http://ic2377.c900.fast-serv.com:80/tsonyc
 #EXTINF:0,Radio TSOP - The Sound of Philadelphia
 https://server11856.streamplus.de/stream/1/
 #EXTINF:0,UbuntuFM Dance Radio
