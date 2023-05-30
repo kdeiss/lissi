@@ -234,7 +234,7 @@ http://stream.dance-music-radio.de:8000/stream/1/
 #EXTINF:0,Radio Dance Night
 https://stream2-alfacast-hosting.com/8140/stream
 #EXTINF:0,Das Durchgeknallte Radio
-http://das-durchgeknallte-radio.de:8100/;
+https://das-durchgeknallte-radio.de:8102/;
 #EXTINF:0,Radio Dauerbrenner
 http://server34835.streamplus.de:12500
 #EXTINF:0,De Beste Piratenhits
@@ -308,7 +308,7 @@ https://stream.lokalradio.nrw/445233f
 #EXTINF:0,Emslandstudio
 https://stream.laut.fm/emslandstudio?ref=radiode
 #EXTINF:0,Radio Enzian
-https://stream2.mein-radiostream.de:8004/enzian128
+https://stream2.mein-radiostream.de:8004/enzian64
 #EXTINF:0,Erzgebirger Musik Express 
 https://hermes.bcs-systems.de/radio-erzgebirge_simulcast_192k_mp3
 #EXTINF:0,Eurovision Song Contest Radio
@@ -353,8 +353,6 @@ https://server34815.streamplus.de/stream/1/
 https://ecmanager.pro-fhi.net/radiofrysson2
 #EXTINF:0,FuhneOne FM
 https://server18857.streamplus.de/stream.mp3
-#EXTINF:0,Radio Fundisko - die Radiofamilie
-http://server4.streamserver24.com:21672/stream/1/
 #EXTINF:0,Radio FunSunday
 http://radiofunsunday.servemp3.com:8000/stream
 #EXTINF:0,funtastick-sound
@@ -408,7 +406,7 @@ https://server7.streamserver24.com:8080/proxy/boschtec?mp=/stream
 #EXTINF:0,Hellweg Radio - Dein Schlager Radio
 https://stream.lokalradio.nrw/44524bf
 #EXTINF:0,Radio Herzklang
-https://schwany.streampanel.cloud/8-herzklang
+https://bone.streampanel.cloud/12-hoamatwelle
 #EXTINF:0,Heuvellandexpress
 http://server-51.stream-server.nl:8340/stream/1/
 #EXTINF:0,Hit Antenne Franken
@@ -447,8 +445,6 @@ https://dispatcher.rndfnk.com/hr/hr4/mitte/mp3/high?aggregator=radio-de
 https://dispatcher.rndfnk.com/hr/hr4/nord/mp3/high?aggregator=radio-de
 #EXTINF:0,Hit Radio FM 
 https://streaming.hitfm.rs/hit.mp3
-#EXTINF:0,Hrvatski Radio Frankfurt
-http://ec2s.crolive.com.hr:1610/stream
 #EXTINF:0,radio-hurrican-power-mix
 http://streamplus3.leonex.de:10468/;
 #EXTINF:0,ICE RADIO WALDKRAIBURG 2 SCHLAGER
@@ -1931,6 +1927,8 @@ https://mdr-990701-0.sslcast.mdr.de/mdr/990701/0/aac/high/stream.aac?aggregator=
 https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDR SCHLAGERWELT Thüringen
 https://mdr-990601-0.sslcast.mdr.de/mdr/990601/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:0,Radio-Megahertz
+https://live.hostingbudget.nl:4875/stream
 #EXTINF:0,Megapark-Radio
 http://live.megapark-radio.com/radio-megapark.mp3
 #EXTINF:0,Megapark Beach Radio
@@ -1970,7 +1968,7 @@ http://c02.lexycast.de:1930/stream
 #EXTINF:0,Musikkaennchen 
 https://stream.laut.fm/musikkaennchen?ref=radiode
 #EXTINF:0,Radio Musiktruhe - Best of Musik
-https://bayern.streampanel.cloud:10844/stream
+https://c02.lexycast.de:4350/;
 #EXTINF:0,Myhitmusic - LEAs FOX
 https://radio.myhitmusic.de/Leas-Fox-aac.mp3
 #EXTINF:0,NDR 1 Welle Nord - Region Kiel
@@ -1997,7 +1995,7 @@ http://rs2.easytron24.net:21036/stream/1/
 http://streamplus14.leonex.de:24954/;
 #EXTINF:0,oesterreichradio young
 http://stream.laut.fm/oesterreichradioyoung.m3u
-#EXTINF:0,Oldie ANTENNE Bella Italia
+#EXTINF:0,OLDIE ANTENNE Bella Italia
 https://stream.oldie-antenne.de/oldie-antenne-bella-italia/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Oldieclubradio
 https://server35425.streamplus.de/stream.mp3
@@ -2121,8 +2119,6 @@ https://stream.laut.fm/alsterwelle?ref=radiode
 https://server31398.streamplus.de/stream/1/
 #EXTINF:0,Radio Arabella Kult
 https://live.stream.radioarabella.de/radioarabella-arabellakult?aggregator=radiode
-#EXTINF:0,Radio Austria - Best of Schlager
-https://schlager.securestream.radioaustria.at/schlager
 #EXTINF:0,Radiobase 2 - Musikmix
 http://server34312.streamplus.de:11066/;
 #EXTINF:0,Radiobase.de 

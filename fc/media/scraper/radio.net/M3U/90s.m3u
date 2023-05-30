@@ -818,7 +818,7 @@ https://ecmanager4.pro-fhi.net:2315/stream
 #EXTINF:0,Digital FM Rio de Janeiro
 http://centova5.transmissaodigital.com:8382/radiobox
 #EXTINF:0,DilSe Radio
-https://samcloud.spacial.com/api/listen?sid=136346&rid=287088&f=mp3,any&br=64000,any&m=m3u&t=ssl
+https://streaming.broadcast.radio/dilseradio
 #EXTINF:0,Radio Dimensione Mix
 https://giorgia.radiobellissima.it:8330/radio.mp3
 #EXTINF:0,DiscoBonus Radio
@@ -1168,7 +1168,7 @@ https://listen.radionomy.com/rgo-radiogenovaovest-.m3u
 #EXTINF:0,Gen-X Classics with Brian Rickman
 https://streamingv2.shoutcast.com/gen-x-classics-w-brian-rickman
 #EXTINF:0,Germanradio.info/90er
-http://germanradio.info:13300/;
+http://germanradio.info:13300
 #EXTINF:0,Germany-Radio International
 http://176.9.148.80:8400/stream/2/
 #EXTINF:0,Gewoon Radio
@@ -2185,8 +2185,6 @@ https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream
 https://live.proradiosonline.com/listen/melancolia/aac
 #EXTINF:0,Mellow Cream Radio
 https://stream.zeno.fm/m8q7xfiuhnfvv
-#EXTINF:0,Melodias Del Recuerdo
-http://equinox.shoutca.st:8068/stream/1/
 #EXTINF:0,Melodie for Music
 https://service-stream27.live/8008/stream/;
 #EXTINF:0,Melody-4-scorpion
@@ -2267,6 +2265,8 @@ https://stream.radio.co/s45c829d4f/listen
 https://server-usa2.radioseninternet.net:7047/stream/1/
 #EXTINF:0,OASIS RADIO 88.1 FM
 https://sc10.conectarhosting.com:2199/tunein/andreymora-stream.pls
+#EXTINF:0,Radio Musicalisima 89.1
+http://109.169.76.104:37100/;
 #EXTINF:0,Radio MusicMax 
 http://91.232.4.33:7040/stream/1/
 #EXTINF:0,MusicRocks Radio
@@ -2431,6 +2431,8 @@ https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3
 https://fast.citrus3.com:2020/tunein/onegridmusic/stream/pls
 #EXTINF:0,On Fuego Radio FM
 https://server.streamingradios.net/8056/stream
+#EXTINF:0,Only4U-Radio
+http://server2.blitz-stream.de:14000/stream/1/
 #EXTINF:0,OnlyHit Gold
 https://gold.onlyhit.us/play
 #EXTINF:0,ON Radio
@@ -2463,6 +2465,8 @@ https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3
 https://streamingV2.shoutcast.com/Our-Jukebox
 #EXTINF:0,97.7 Outlaw Radio FM – CKOR-DB
 https://stream.zeno.fm/9tgz3p9cswzuv
+#EXTINF:0,OWOF Radio
+https://streams.radio.co/s747529511/listen
 #EXTINF:0,Oxigeno/Radio
 https://autodj.live/radio/8030/live
 #EXTINF:0,Pagode 90
@@ -2761,8 +2765,6 @@ https://stream.radiobrocken.de/live/mp3-128/radiode
 https://stream.radiobrocken.de/90er/mp3-128/radiode/play.m3u
 #EXTINF:0,Radio Brocken Ü30-Partymix
 https://stream.radiobrocken.de/partymix/aac-64/radiode/
-#EXTINF:0,Radio Butterfly
-http://radio-butterfly.org:9200/stream/1/
 #EXTINF:0,Radio Cabo verde 80's, 90's & 00's
 http://stream.zeno.fm/r6hak84eka0uv
 #EXTINF:0,Radio Campesino
@@ -3458,7 +3460,7 @@ https://tuneintoradio1.com/radio/8050/radio.mp3
 #EXTINF:0,Retro Dance FM
 http://topradio.uno:8066/stream
 #EXTINF:0,RETRO DJ RADIO
-https://ice4.radia.cz/retro_dj_radio_128.aac
+http://icecast1.play.cz/retrodjradio.mp3
 #EXTINF:0,Retro FM 106.7
 https://streaming.radiosenlinea.com.ar/8922/stream
 #EXTINF:0,Retro Hit Radio
@@ -4047,8 +4049,6 @@ https://radio.stream.smcdn.pl/icradio-p/6170-1.aac/playlist.m3u8
 http://i4.streams.ovh:8202/stream
 #EXTINF:0,VoyTu Radio MX
 https://stream.zeno.fm/2x3c4phtezzuv
-#EXTINF:0,VTC Radio - Lactose
-http://80.249.151.197:8000/stream
 #EXTINF:0,Walkmanradio 80s90s
 https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream
 #EXTINF:0,WALTS WELT 

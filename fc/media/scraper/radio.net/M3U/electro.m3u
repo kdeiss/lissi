@@ -20,9 +20,9 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/60
 #EXTINF:0,101.ru: AvtoRadio Авто Радио
 https://pub0202.101.ru:8443/stream/trust/mp3/128/266
 #EXTINF:0,101.ru: Cyber Space
-https://pub0302.101.ru:8443/stream/pro/aac/64/79
+https://pub0302.101.ru:8000/stream/pro/aac/64/79
 #EXTINF:0,101.ru: Discotheque USSR - Дискотека СССР
-https://pub0302.101.ru:8443/stream/pro/aac/64/144
+https://pub0302.101.ru:8000/stream/pro/aac/64/144
 #EXTINF:0,101.ru: Russia 90's
 https://pub0302.101.ru:8443/stream/pro/aac/64/33
 #EXTINF:0,103.3 KSCU
@@ -220,7 +220,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFM.mp3
 #EXTINF:0,ActiRadio
 https://stream.zeno.fm/c9w5z7nxr0quv
 #EXTINF:0,Activa FM Dénia
-https://stream.mediasector.es/radio/8000/activafm-marina-alta-denia.mp3
+https://stream.emisorasmusicales.net/listen/activa_fm_hq/activafm.mp3
 #EXTINF:0,Activa Hits
 https://sonic.mediatelekom.net/8160/stream
 #EXTINF:0,Activate FM
@@ -1001,6 +1001,8 @@ http://streamplus17.leonex.de:10928/stream/1/
 http://ample-zeno-02.radiojar.com/2eq3h623km5tv
 #EXTINF:0,cumix art
 http://radio.pro-fhi.net:2199/tunein/krefrbaz.pls
+#EXTINF:0,Curve Radio
+http://eu9.fastcast4u.com:5112/stream/1/
 #EXTINF:0,CYBERStacja
 http://sc.cyberstacja.pl:8000/radio.mp3
 #EXTINF:0,Cyclone X Stereo
@@ -1094,7 +1096,7 @@ https://liveradio.swr.de/rddez3a/raka10/
 #EXTINF:0,DASDING Zukunftsmusik
 https://liveradio.swr.de/rddez3a/raka12/
 #EXTINF:0,Das Durchgeknallte Radio
-http://das-durchgeknallte-radio.de:8100/;
+https://das-durchgeknallte-radio.de:8102/;
 #EXTINF:0,DASH Electro City
 https://ice55.securenetsystems.net/DASH9
 #EXTINF:0,DASH The Lab
@@ -1575,8 +1577,6 @@ https://sp.onliveperu.com/8148/stream
 http://176.9.43.216:8178/index.html.mp3
 #EXTINF:0,Fantasy FM
 https://eu4.fastcast4u.com/proxy/fantasyfm?mp=/1
-#EXTINF:0,Fantasy Italo Radio
-http://italo.live-streams.nl:80/live
 #EXTINF:0,FedeR music
 https://node-14.zeno.fm/2vegk4n4708uv?rj-ttl=5&rj-tok=AAABfErKqCkAQ_Zk_hJtDXhRag
 #EXTINF:0,100% GAY Party von Feierfreund
@@ -3971,8 +3971,6 @@ https://stream.laut.fm/zuchtbude?ref=radiode
 https://lavostoke.ice.infomaniak.ch/lavostoke.aac
 #EXTINF:0,La X 96.5 FM
 http://65.60.45.74:8088/;
-#EXTINF:0,La X Medellín
-http://65.60.45.74:8070/;
 #EXTINF:0,Radio Xtrema FM
 https://stream.zeno.fm/mpds6hk931zuv
 #EXTINF:0,La Xtrema Online
@@ -4637,8 +4635,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/55513/mp3_128.mp3?origine=radio.net
 https://scdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRK P3
 https://lyd.nrk.no/nrk_radio_p3_mp3_m.m3u
-#EXTINF:0,NST Music FM 
-http://80.211.203.79:8020/nstmusicfm
 #EXTINF:0,Radio NTI
 https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3
 #EXTINF:0,One Dance
@@ -5185,6 +5181,8 @@ https://sphera.fluidstream.eu/radio80.aac
 http://mmv-mediathek.de:8000/radio98eins
 #EXTINF:0,Radio Activ' 101.9 Fm
 http://51.75.206.210:8000/live.mp3?
+#EXTINF:0,Radioactive International
+https://donalgreene.com/radact8000
 #EXTINF:0,RADIOactive
 https://streamyourdream.org:8050/radioactive
 #EXTINF:0,Rádio Agita
@@ -5253,8 +5251,6 @@ http://95.217.75.38:9826/stream.mp3
 https://stream.radiochablais.ch/chablais-swissmade.aac
 #EXTINF:0,Rádio Cidade 100,1
 http://sl.dnip.com.br:10376/stream/1/
-#EXTINF:0,Radio Circuito Mix
-https://centova01.logicahost.com.br:20003/stream/1/
 #EXTINF:0,Radio City Dance
 https://stream.zeno.fm/ugqasdpvyc9uv
 #EXTINF:0,Radio City Electronica
@@ -5441,6 +5437,8 @@ https://s3.genx-stream.de:8402/
 https://s5.radio.co/s4c4efb12b/listen
 #EXTINF:0,Radio House
 https://fra-pioneer08.dedicateware.com:1945/stream
+#EXTINF:0,Radio Ibiza FM
+http://server3.radio-streams.net:8028/stream
 #EXTINF:0,Radio Ice Age
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3958202.aac
 #EXTINF:0,Radio Italo Disco Net
@@ -5856,7 +5854,7 @@ https://stream.zeno.fm/893g4t1sga0uv
 #EXTINF:0,Radio Zero 91.1
 http://104.131.4.100:8020/aac
 #EXTINF:0,DANCE BY RADIO ZET
-https://zt01.cdn.eurozet.pl/ZETDAN.mp3
+https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 #EXTINF:0,Radio ZET Party
 https://zt02.cdn.eurozet.pl/ZETPAR.mp3
 #EXTINF:0,Radio Zona
@@ -6162,7 +6160,7 @@ http://94.130.113.214:8000/schizoid
 #EXTINF:0,School Radio
 http://hosting.studioradiomedia.fr:1100/schoolradio
 #EXTINF:0,Radio Schwarze Welle
-https://sc.schwarze-welle.de:7500/stream/1/
+http://188.138.17.239:7500/stream/1/
 #EXTINF:0,Scientific Sound Asia Radio
 http://carol.epichosts.co.uk:8270/live.mp3
 #EXTINF:0,Radio SCOOP - PowerDance
@@ -6189,7 +6187,7 @@ https://radio7.pro-fhi.net/listen-tzpakfon-stream.mp3
 http://ssfm2.cnwks.ws:8188/;
 #EXTINF:0,SENSATION Alpes
 https://sensationsalpes.ice.infomaniak.ch/sensationsalpes-128.mp3
-#EXTINF:0,SENSATIONS Normandie Bernay 93.4 FM
+#EXTINF:0,SENSATIONS Normandie Eure
 https://sensationsnormandie.ice.infomaniak.ch/sensations-normandie.mp3
 #EXTINF:0,SENSATIONS Deep & Lounge
 https://sensationslounge.ice.infomaniak.ch/sensationslounge-192.mp3
@@ -6222,7 +6220,7 @@ https://stream.andacast.es/radio/8020/stream
 #EXTINF:0,Sistema Alternativo Radio
 https://radio30.virtualtronics.com/proxy/salternativo?mp=%2Fstream
 #EXTINF:0,Size Radio
-https://stream.radiojar.com/atr1e8aswa5tv.mp3
+https://stream.radiojar.com/atr1e8aswa5tv
 #EXTINF:0,SKGLOBE.NET Mixed Emotions
 https://audio-edge-3mayu.fra.h.radiomast.io/250444dd-d243-4490-8e34-168e6fdb83fc
 #EXTINF:0,Sky Radio Running Hits Starter
@@ -6582,7 +6580,7 @@ http://centova.radio.com.pt:9402/stream/1/
 #EXTINF:0,Terre Marine FM
 http://91.121.165.41:9045/stream
 #EXTINF:0,test-220816-en-GB
-https://tuner.m1.fm/chillout.mp3
+https://tuner.m1.fm/80er.mp3
 #EXTINF:0,Test26
 http://tuner.m1.fm/clubmix.mp3
 #EXTINF:0,Texas41.com
@@ -6700,7 +6698,7 @@ https://totaldance64-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8590/1
 #EXTINF:0,EASY RADIO KRIBI
 https://api.radioking.io/radio/534455/listen.m3u
 #EXTINF:0,Toulouse FM
-https://mmradios.ice.infomaniak.ch/toulousefm.mp3
+https://mmradioswebapp.ice.infomaniak.ch/toulousefm-webapp.aac
 #EXTINF:0,Tower Radio Blackpool
 http://radio.streemlion.com:5710/stream
 #EXTINF:0,toxic.fm
@@ -6755,6 +6753,8 @@ https://streaming.coollective.nl:8443/UbuntuFMdance
 https://ukbassradio.com/stream
 #EXTINF:0,ukdjs radio
 https://stream.ukdjs.radio:8984/ukdjs
+#EXTINF:0,UK FLAVA
+https://uk2.streamingpulse.com/ssl/ukflavaradio
 #EXTINF:0,UltraCol FM 
 https://vm65162.streamerr.co/listen/ultracol_/radio.mp3
 #EXTINF:0,unchained-radio

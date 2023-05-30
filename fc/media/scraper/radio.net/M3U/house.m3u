@@ -977,6 +977,10 @@ https://myhouseradiofm.out.airtime.pro:8000/myhouseradiofm_b
 http://46.20.4.34/radyoland/houseland.stream/playlist.m3u8
 #EXTINF:0,Houselovers
 https://ml2.t4e.dj/houselovers.pls
+#EXTINF:0,houselovers.fm 
+http://server3.radio-streams.net:8028/stream
+#EXTINF:0,Houselovers
+http://server3.radio-streams.net:8028/stream/1/
 #EXTINF:0,Housemasters Radio
 https://listen.housemasters-radio.com:8000/radio.mp3
 #EXTINF:0,House Music 1
@@ -1923,8 +1927,6 @@ https://streams.radio.co/s1ae1175cf/listen
 http://eco.onestreaming.com:8452/
 #EXTINF:0,NRG.RADIO
 https://uksouth.streaming.broadcast.radio/nrg
-#EXTINF:0,NST Music FM 
-http://80.211.203.79:8020/nstmusicfm
 #EXTINF:0,Radio NTI
 https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3
 #EXTINF:0,One Dance
@@ -2011,8 +2013,6 @@ http://radio.promodj.com:8000/deep
 http://radio.promodj.com:8000/garagefm-192
 #EXTINF:0,PDJ.FM Klubb
 http://radio.promodj.com:8000/klubb
-#EXTINF:0,PDJ.FM Mini
-http://radio.promodj.com:8000/mini
 #EXTINF:0,PDJ.FM Old School
 http://radio.promodj.com:8000/oldschool
 #EXTINF:0,PDJ.FM Strange
@@ -2205,8 +2205,6 @@ https://webradio.amsolution.com.br/radio/8040/bsd
 http://stream.radiocampusmontpellier.fr:8000/rcm_direct
 #EXTINF:0,Radio Capri
 http://onair15.xdevel.com:9242/;stream.mp3
-#EXTINF:0,Radio Circuito Mix
-https://centova01.logicahost.com.br:20003/stream/1/
 #EXTINF:0,Radio City Electronica
 https://stream.zeno.fm/gdtbdqwzrf9uv
 #EXTINF:0,Radio City Light
@@ -2273,6 +2271,8 @@ https://s5.radio.co/s4c4efb12b/listen
 https://sp0.redeaudio.com/8114/stream
 #EXTINF:0,RadioIbiza FM
 https://stream.radiojar.com/kht3hhpmb
+#EXTINF:0,Radio Ibiza FM
+http://server3.radio-streams.net:8028/stream
 #EXTINF:0,RADIO INSIDE 
 http://radioinside.eu/live.mp3
 #EXTINF:0,Radio InTime.one - your electronic music radio
@@ -2426,7 +2426,7 @@ https://radioyachtcapri.newradio.it/1
 #EXTINF:0,Radio Zaythini
 https://stream.zeno.fm/893g4t1sga0uv
 #EXTINF:0,DANCE BY RADIO ZET
-https://zt01.cdn.eurozet.pl/ZETDAN.mp3
+https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 #EXTINF:0,Radio Zuper
 https://radiozuper.ro/stream/zuper.mp3
 #EXTINF:0,Radio Radsport - Electro House
@@ -2793,6 +2793,8 @@ https://www.radioking.com/play/tsugi-radio/62161
 https://streaming.coollective.nl:8443/UbuntuFMdance
 #EXTINF:0,UK Bass Radio
 https://ukbassradio.com/stream
+#EXTINF:0,UK FLAVA
+https://uk2.streamingpulse.com/ssl/ukflavaradio
 #EXTINF:0,UltraCol Radio
 https://vm65162.streamerr.co/listen/ultracol_/radio.mp3
 #EXTINF:0,Ultra maxx 

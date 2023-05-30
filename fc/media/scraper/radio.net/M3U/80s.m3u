@@ -28,7 +28,7 @@ https://pub0302.101.ru:8443/stream/pro/aac/64/114
 #EXTINF:0,101.ru Deep Purple
 https://pub0302.101.ru:8000/stream/pro/aac/64/125
 #EXTINF:0,101.ru: Queen
-https://pub0302.101.ru:8443/stream/pro/aac/64/54
+https://pub0302.101.ru:8000/stream/pro/aac/64/54
 #EXTINF:0,103.1 The Wave - KSQN
 https://ais-sa3.cdnstream1.com/2284_96.aac
 #EXTINF:0,103.7 BOB FM
@@ -1256,7 +1256,7 @@ https://cast4.asurahosting.com/proxy/diisradi/stream
 #EXTINF:0,DIL 80s
 https://stream.zeno.fm/0z6xe07pychvv
 #EXTINF:0,DilSe Radio
-https://samcloud.spacial.com/api/listen?sid=136346&rid=287088&f=mp3,any&br=64000,any&m=m3u&t=ssl
+https://streaming.broadcast.radio/dilseradio
 #EXTINF:0,Radio Dimensione Mix
 https://giorgia.radiobellissima.it:8330/radio.mp3
 #EXTINF:0,Dinamismo Stereo
@@ -1899,6 +1899,8 @@ http://server-07.stream-server.nl:8388/stream/1/
 https://ecmanager4.pro-fhi.net:2455/stream
 #EXTINF:0,hit Easy 80s
 https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8
+#EXTINF:0,HIT PLUS
+https://stream3.hitplus.fr:8443/hitplus.mp3
 #EXTINF:0,Hit Radio 80
 https://listen.radionomy.com/hr80
 #EXTINF:0,Hitrádio 80tka
@@ -3367,8 +3369,6 @@ https://server5451.streamplus.de/;stream.mp3
 https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream
 #EXTINF:0,Melancolia FM
 https://live.proradiosonline.com/listen/melancolia/aac
-#EXTINF:0,Melodias Del Recuerdo
-http://equinox.shoutca.st:8068/stream/1/
 #EXTINF:0,Melodic Radio
 https://www.tunefm.de:2000/stream/melodicradio
 #EXTINF:0,MELODIE BAUMOISE
@@ -3505,6 +3505,8 @@ https://stream.zeno.fm/qa29r0es1f8uv
 https://streamingV2.shoutcast.com/Musica-degli-anni--80
 #EXTINF:0,Musica en el Aire
 https://server-usa2.radioseninternet.net:7047/stream/1/
+#EXTINF:0,Radio Musicalisima 89.1
+http://109.169.76.104:37100/;
 #EXTINF:0,Radio Musica Seu Gosto
 http://sp0.redeaudio.com:8092/stream/1/
 #EXTINF:0,Radio Música a Seu Gosto
@@ -3783,6 +3785,8 @@ http://node-11.zeno.fm/bd5dqvvqpc9uv?zs=BaKL1CnOTcipPDIf1OuL4w&rj-ttl=3&rj-tok=A
 https://stream.radio.co/s865966bbf/listen
 #EXTINF:0,Only1 - 80's radio 
 http://stream.only1.fr:80/;stream.mp3
+#EXTINF:0,Only4U-Radio
+http://server2.blitz-stream.de:14000/stream/1/
 #EXTINF:0,OnlyHit Gold
 https://gold.onlyhit.us/play
 #EXTINF:0,ON Oldies
@@ -3827,6 +3831,8 @@ https://stream8.toserver.net:8443/ottofm.mp3
 https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
 #EXTINF:0,Our Jukebox
 https://streamingV2.shoutcast.com/Our-Jukebox
+#EXTINF:0,OWOF Radio
+https://streams.radio.co/s747529511/listen
 #EXTINF:0,Oxigeno/Radio
 https://autodj.live/radio/8030/live
 #EXTINF:0,Oxygène Radio
@@ -4245,8 +4251,6 @@ https://stream.radiobrocken.de/partymix/aac-64/radiode/
 https://sonic.sistemahost.es/8018/stream
 #EXTINF:0,Radio Bunt
 https://boont.radioca.st/stream?1646294835494
-#EXTINF:0,Radio Butterfly
-http://radio-butterfly.org:9200/stream/1/
 #EXTINF:0,Radio Cabo verde 80's, 90's & 00's
 http://stream.zeno.fm/r6hak84eka0uv
 #EXTINF:0,Radio California
@@ -4946,9 +4950,11 @@ http://5.9.65.9:8240/stream
 #EXTINF:0,Ràdio Sitges
 https://s2.radio.co/s8e5dffe5e/listen
 #EXTINF:0,Radio Skipper
-http://radioskipper.com/128.pls
+http://s9.mediastreaming.it:7050/;
 #EXTINF:0,Radio Sloven'c
 http://84.255.197.204:8080/live
+#EXTINF:0,Radio So Flashack
+http://stm9.srvstm.com:13544/stream/1/
 #EXTINF:0,Radio Só Flashback
 https://serv-audio-soflashback.audiovox.pw:7020/;?type=http&nocache=107036
 #EXTINF:0,Radio Sons dos Amigos
@@ -5222,7 +5228,7 @@ https://stream.zeno.fm/g372rxef798uv
 #EXTINF:0,Retro Country 890
 https://tuneintoradio1.com/radio/8050/radio.mp3
 #EXTINF:0,RETRO DJ RADIO
-https://ice4.radia.cz/retro_dj_radio_128.aac
+http://icecast1.play.cz/retrodjradio.mp3
 #EXTINF:0,Retro en Español
 https://stream.zeno.fm/92cshbzm268uv
 #EXTINF:0,Retro FM 106.7
@@ -6079,8 +6085,6 @@ http://i4.streams.ovh:8202/stream
 https://emiteradio.com/proxy/voxradio?mp=%2Fstream
 #EXTINF:0,VoyTu Radio MX
 https://stream.zeno.fm/2x3c4phtezzuv
-#EXTINF:0,VTC Radio - Lactose
-http://80.249.151.197:8000/stream
 #EXTINF:0,Vuka Online Radio
 http://s5.voscast.com:8542/;
 #EXTINF:0,Walkmanradio 80s90s
@@ -6143,8 +6147,6 @@ https://stream.zeno.fm/vr23nup5ud0uv
 https://listen.radioking.com/radio/197572/stream/240085
 #EXTINF:0,web radio toca tudo
 http://192.254.68.106:10097/stream/1/
-#EXTINF:0,Web Radio Expresso Music
-http://stream.zeno.fm/w5vpviokssyuv
 #EXTINF:0,websound radio uk
 https://s3.radio.co/sef550f8bc/listen
 #EXTINF:0,Weekend Offender Radio 

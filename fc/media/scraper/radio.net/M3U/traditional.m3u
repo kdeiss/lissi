@@ -2,7 +2,7 @@
 #EXTINF:0,101.ru: Bards Song
 https://ic6.101.ru:8000/stream/pro/aac/64/35
 #EXTINF:0,101.ru: Franzosische Chansons
-https://pub0302.101.ru:8443/stream/pro/aac/64/146
+https://pub0302.101.ru:8000/stream/pro/aac/64/146
 #EXTINF:0,101.ru: Alexander Rosenbaum Александр Розенбаум
 https://pub0302.101.ru:8443/stream/pro/aac/64/153
 #EXTINF:0,101.ru: Russian Songs Русские Песни
@@ -243,6 +243,8 @@ http://139.162.156.56:8114/stream
 https://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:0,Eskisehir radyo 98.9
 http://live2.radyotvonline.com:8095/stream/1/
+#EXTINF:0,Estilo Tejano Radio
+https://ssl.shoutcaststreaming.us:8146/;
 #EXTINF:0,Eternamente Enamora2
 http://stream.zeno.fm/oczvrqmycgcvv
 #EXTINF:0,Radio Farda
@@ -259,8 +261,6 @@ https://play8.tikast.com/proxy/hombres?mp=/stream
 https://c11.radioboss.fm:18212/stream
 #EXTINF:0,Flamenco Sur Radio
 https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/playlist.m3u8
-#EXTINF:0,Flamenkito Radio
-https://centova.hostingelectrica.net/proxy/buenosam?mp=%2Fstream.mp3&_=1
 #EXTINF:0,Flamingo Stereo
 http://streamingcwsradio20.com:9890/stream/1/
 #EXTINF:0,FM 89.9 - Profesional FM
@@ -335,8 +335,6 @@ http://ids-radio.com:8000/IDS48K.mp3
 https://imaphumulofm.radiostream321.com/
 #EXTINF:0,Radio Impartial FM
 https://stream.zeno.fm/8319kzz8bnzuv
-#EXTINF:0,Radio Imperial 104.5 FM
-http://elle.martinspier.io:8000/imperial
 #EXTINF:0,Radio Ipiranga 1550 AM
 https://casthttps1.suaradionanet.net/10692/stream
 #EXTINF:0,Irish Country Radio
@@ -542,7 +540,7 @@ http://192.99.34.205:8237/stream
 #EXTINF:0,Mohd Rafi Radio
 http://radio.mohdrafi.com/steam/1/
 #EXTINF:0,Moysikos Episkeptis
-https://cast.radiohost.ovh:9048/stream/1/
+http://cast.radiohost.ovh:9048/stream/1/
 #EXTINF:0,Radio Mundial FM 96,5 IJUI
 https://centova4.transmissaodigital.com:20071/;
 #EXTINF:0,Radyo Musiki 
@@ -614,7 +612,7 @@ https://livessl.radiopopular.ro:7777/live
 #EXTINF:0,Radio Portales de Santiago 1180 AM
 https://stream3.polarhost.cl/portales2
 #EXTINF:0,Rádio Portuguesa do Var
-https://sslradio.servsonic.com/8558/;stream.mp3
+https://sonic.servsonic.com:7003/;
 #EXTINF:0,Radio Projekti 21
 http://64.150.176.42:8178/stream/1/
 #EXTINF:0,Pyongyang FM
@@ -624,7 +622,7 @@ https://stream.zeno.fm/5d4s5qcvk8quv
 #EXTINF:0,Qué Viva México
 https://panel.retrolandigital.com/radio/8160/listen?1587160450
 #EXTINF:0,Raadio Elmar
-https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac
+https://le04.euddn.net/78a1def7f4ec3ce4dd53b38efb8161ece7a431874875d4ad52cb45bb260cf640558dc5f3bd9a4abf175dc40d796f119c6b48f737937dbae74d59f1fdaf5353e6102fb279a861219560a7bf88a64256eb5722c0197950a213dcda73d0b7d2558a09297f36dbc69393423e9582ef67b041f32570376c8fe2d15234a80132eb192c58d110f10709212109647ec9e16a5051bac43507164b48e5fa50c1f66a72a433385dc739dd3e886838c425b5b9953fc5/elmar.aac
 #EXTINF:0,Radio 5 Estrelas
 http://78.129.229.113:19733/;
 #EXTINF:0,Radio Accordéon Musette & Rétro
@@ -671,8 +669,6 @@ https://streaming.nochost.com.br/radio/8090/radio.mp3
 http://stm4.srvif.com:8352/stream/1/
 #EXTINF:0,RADIO daijiworld
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC013_SC.aac
-#EXTINF:0,Radio DAK
-http://85.25.73.243:10150/listen.pls
 #EXTINF:0,Radio Das
 http://158.69.119.6:8095/stream/1/
 #EXTINF:0,Radio Dhaakad
@@ -708,7 +704,7 @@ https://judaica.ice.infomaniak.ch/judaica-high.mp3
 #EXTINF:0,Radio Judaïca 
 https://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3
 #EXTINF:0,Radio Koprivnica
-http://194.152.206.205:8000/;
+https://443-1.reliastream.com/51/;
 #EXTINF:0,Radio Kosova e Lire
 https://radiokos.radioca.st/stream/1/
 #EXTINF:0,ΡΑΔΙΟ ΛΑΜΨΗ
@@ -877,6 +873,8 @@ http://144.217.15.135:8000/stream/2/
 https://streaming.live365.com/a24496
 #EXTINF:0,Star 93.3 FM
 http://stream2.proradio.gr:8004/star933m
+#EXTINF:0,Stereo Max
+https://stream.zeno.fm/vatct0y8z4zuv
 #EXTINF:0,Stereo Salvaje 
 http://stereosalvaje.primcast.com:4326/stream/1/
 #EXTINF:0,RADIO STOURNAREIKA 92.5 FM STEREO ΡΑΔΙΟ ΣΤΟΥΡΝΑΡΑΙΪΚΑ

@@ -391,6 +391,8 @@ https://listen.radioking.com/radio/422/stream/62785
 https://listen.radioking.com/radio/297802/stream/344359
 #EXTINF:0,City Sounds Jazz
 http://cp2.digistream.info:9042
+#EXTINF:0,CJazzChannel.com
+https://bvita.radioca.st/stream
 #EXTINF:0,CJBC Ici Musique Toronto 90.3 FM
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
 #EXTINF:0,CJRT JAZZ.FM91
@@ -596,7 +598,7 @@ https://s5.radio.co/s7b616a338/listen
 #EXTINF:0,Electro Swing Revolution Radio
 https://streamer.radio.co/s2c3cc784b/listen
 #EXTINF:0,De El Fonógrafo 720 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEJCC_AMAAC.aac
+https://playerservices.streamtheworld.com/pls/XEJCC_AM.pls
 #EXTINF:0,El Solar Estereo
 http://168.138.93.71/listen/el_solar_estereo/radio.mp3
 #EXTINF:0,WRadio Oaxaca
@@ -745,8 +747,6 @@ https://icecast.radiofrance.fr/francemusique-hifi.aac
 https://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3?ID=pd569ib97j
 #EXTINF:0,Francophonie Express
 https://www.radioking.com/api/radio/francophonie-express.m3u
-#EXTINF:0,Freies Radio Freudenstadt
-https://s2.fairprice-streams.de:9148/stream/1/
 #EXTINF:0,Freies Radio für Stuttgart
 http://streaming.fueralle.org:8000/frs-hi.mp3
 #EXTINF:0,Radio Fréquence Caraïbes
@@ -941,8 +941,6 @@ https://ns1.estaciondigital.es:8010/live
 https://s2.radio.co/s22ae5a8a6/listen
 #EXTINF:0,The Jazz Guitar Place
 https://login.webinternetradio.com/jazzguitar
-#EXTINF:0,JAZZ HD2 89.1 FM
-https://streaming.azpm.org/jazz128.aac
 #EXTINF:0,Jazziando
 https://streamingv2.shoutcast.com/Jazziandocom
 #EXTINF:0,Jazzier Link Radio NYC
@@ -1073,8 +1071,6 @@ https://c30.radioboss.fm:18119/stream
 https://www.streamvortex.com:8444/s/10330
 #EXTINF:0,Jazz Vespers Radio
 https://kathy.torontocast.com:4325/stream
-#EXTINF:0,Jazz Vibe Radio
-http://stream.zeno.fm/puuv6yrm5tzuv
 #EXTINF:0,J.A.Z.Z. VNU
 http://ice2.securenetsystems.net/JAZZVNU
 #EXTINF:0,JazzW3
@@ -1233,8 +1229,6 @@ https://ice5.securenetsystems.net/KCSM
 https://stream.kedm.org/listen
 #EXTINF:0,Keepin it real - Underground Radio
 https://cast4.asurahosting.com/proxy/keepinit/stream
-#EXTINF:0,KeithNgesiRadio
-https://keithngesiradio.radioca.st/stream/1/
 #EXTINF:0,97.5 Kemet FM
 http://109.169.26.139:8120/stream/1/
 #EXTINF:0,KEWU - Jazz 89.5 FM

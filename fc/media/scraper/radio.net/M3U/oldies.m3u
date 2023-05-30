@@ -615,8 +615,6 @@ https://bremen-six.stream.laut.fm/bremen-six
 https://player.bromyardfm.uk/radio/8000/listen.mp3
 #EXTINF:0,Radio Bruno Classic
 http://onair18.xdevel.com:7968/;
-#EXTINF:0,Buenos Amigos Radio
-https://centova.hostingelectrica.net/proxy/buenosam?mp=/stream
 #EXTINF:0,BWR Webwelle Nord
 http://server4.streamserver24.com:21970/stream/1/
 #EXTINF:0,Cabin Radio
@@ -1169,8 +1167,6 @@ https://stream.zeno.fm/1rst2p6ymwzuv
 https://cheetah.streemlion.com:3630/stream
 #EXTINF:0,Frank and Terry Radio
 https://ais-edge106-live365-dal02.cdnstream.com/a04447?listenerId=Live365-AdBlock&aw_0_1st.playerId=Live365&aw_0_1st.skey=1679049913346
-#EXTINF:0,Freedomx Radio
-http://cast4.my-control-panel.com:8190/stream
 #EXTINF:0,Free FM X-MAS
 https://stream.zeno.fm/h60er015v68uv
 #EXTINF:0,free radio belgium
@@ -1185,10 +1181,6 @@ https://ice.actve.net/fm-frekvence1-128
 https://listen.radioking.com/radio/344611/stream/393841
 #EXTINF:0,FRESH GOLD RADIO
 https://freshgol.radioca.st/stream
-#EXTINF:0,Fresh Radio Gold
-https://freshradiogold.radioca.st/stream
-#EXTINF:0,Fresh Radio Spain - Costa Blanca South
-https://freshradiogold.radioca.st/stream
 #EXTINF:0,Fresh Wave
 https://start.radio/freshwave
 #EXTINF:0,From The Holler Indie Radio
@@ -1645,8 +1637,6 @@ https://ice8.securenetsystems.net/KGFL
 https://radiogoldfield.radioca.st/stream
 #EXTINF:0,KGNT - Kool 103.9 FM
 http://streamdb7web.securenetsystems.net/v5/KGNT
-#EXTINF:0,KGUM-FM - The Kat 105.1 FM
-https://ice2.securenetsystems.net/KGUMFM
 #EXTINF:0,KHNY - Honey 103 
 http://honey.macchiatomedia.org:8080/stream/1/
 #EXTINF:0,KHRO 92.3 The Fox
@@ -1773,8 +1763,6 @@ http://streamplus51.leonex.de:24844/stream/1/
 https://ice7.securenetsystems.net/KTOY
 #EXTINF:0,kulthitRADIO in NRW
 https://frontend.streamonkey.net/kulthitradio-nrw?aggregator=RadioDe
-#EXTINF:0,Radio Kungsbacka 95.2 FM
-http://212.73.175.58:8010/;
 #EXTINF:0,KUPO 105.5 FM
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUXX Xtreme Country
@@ -2773,6 +2761,8 @@ http://eu7.fastcast4u.com:5268/stream/1/
 http://138.201.198.218:8010/stream/1/
 #EXTINF:0,MAX5
 http://77.248.42.43:8000/stream/1/
+#EXTINF:0,MAX FM
+http://15020.cloudrad.io:9222/live
 #EXTINF:0,Maxi45
 https://maxi45.schlagerparadies.de/maxi45
 #EXTINF:0,MaXX
@@ -2830,7 +2820,7 @@ https://live.proradiosonline.com/listen/melancolia/aac
 #EXTINF:0,Mellow Rock Florida
 https://listen.radionomy.com/mellowhitsradio
 #EXTINF:0,Radio Mélodie
-https://str0.creacast.com/melodie
+https://sc.creacast.com/melodie2
 #EXTINF:0,Radio Melodiya FM Мелодія FM
 https://online.melodiafm.ua/MelodiaFM
 #EXTINF:0,Melody-4-scorpion
@@ -2926,7 +2916,7 @@ https://stream.laut.fm/musikhimmel?ref=radiode
 #EXTINF:0,MusikInselRadio
 https://stream.musikinselradio.net:8002/stream/1/
 #EXTINF:0,Radio Musiktruhe - Best of Musik
-https://bayern.streampanel.cloud:10844/stream
+https://c02.lexycast.de:4350/;
 #EXTINF:0,Musikwelle 
 https://stream.stadtradio.at:8000/live
 #EXTINF:0,My70sRadio
@@ -3481,8 +3471,6 @@ http://188.165.236.130:8118/stream
 http://s47.myradiostream.com:10592/stream/1/
 #EXTINF:0,Radio-Beatbox
 http://92.204.50.53:40310/stream/1/
-#EXTINF:0,Radio Bergslagen
-https://lyssna.radiobergslagen.tk:8443/listen/rbsg/radio
 #EXTINF:0,Ràdio Best FM
 http://stream2.bestfm.sk/128.mp3
 #EXTINF:0,radioBlue
@@ -3552,7 +3540,7 @@ http://hts08.kshost.com.br:9394/stream/1/
 #EXTINF:0,Radiodowntown.ca 
 https://uksoutha.streaming.broadcast.radio:15380/radiodowntownca
 #EXTINF:0,Radio Dreams 90' Hits
-http://radiodreams.g1.ro:3390/listen
+http://radiodreams.g1.ro:3390/listen.pls
 #EXTINF:0,Radio Dresden
 https://streams.bcs-systems.de/slp/live/dresden/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radio Drunk
@@ -3892,13 +3880,11 @@ http://streaming01.shockmedia.com.ar:8688/stream
 #EXTINF:0,Radio Sixties
 http://onair7.xdevel.com:7046/1
 #EXTINF:0,Radio Skipper
-http://radioskipper.com/128.pls
+http://s9.mediastreaming.it:7050/;
 #EXTINF:0,radioSKW
 https://server4.streamserver24.com:26237/live
 #EXTINF:0,Radio Sky FM
 http://live.radiosky.ro:8000/radiosky.mp3
-#EXTINF:0,Radio So Flashack
-http://stm9.srvstm.com:13544/stream/1/
 #EXTINF:0,RADIO SOLE DIGITAL
 https://rsoled23.radioca.st/stream/1/
 #EXTINF:0,Radio Sotenas
@@ -4407,8 +4393,6 @@ http://stw2.selfhost.eu:1900
 http://live2.jupinfo.fr:8000/succesdhier
 #EXTINF:0,SU FM
 https://cast1.torontocast.com:2835/stream
-#EXTINF:0,Summerdream-Radio
-http://178.33.33.176:8305/
 #EXTINF:0,Sunny 107.3 - Miami's FUN oldies in the sun!
 https://stream.zeno.fm/y7q7g9kszqzuv
 #EXTINF:0,Sunny 94.5 Radio
@@ -4603,6 +4587,8 @@ https://stream.zeno.fm/h2n3qh8q8k8uv
 https://ais-edge51-live365-dal02.cdnstream.com/a17454
 #EXTINF:0,TrueColorsRadio
 https://listen7.myradio24.com/45329
+#EXTINF:0,Tsukure Radio
+https://media.streambrothers.com:8244/stream
 #EXTINF:0,TV80s.com
 http://streaming.radionomy.com/TV80scom
 #EXTINF:0,TX1 Radio
@@ -4637,8 +4623,6 @@ https://streaming.live365.com/a70692
 https://uta.tunefm.de:8600/live
 #EXTINF:0,Uzman FM
 https://stream.zeno.fm/0cy1nqvfhg0uv
-#EXTINF:0,Valle Alto 90.9 FM
-https://stream.zeno.fm/3mvm0pxmr68uv
 #EXTINF:0,Valley FM
 http://78.129.228.187:8098/stream/1/
 #EXTINF:0,Van de Retro
@@ -4841,6 +4825,8 @@ https://api.radioking.io/radio/542309/listen.m3u
 http://11.fusioncast.com.br:8362
 #EXTINF:0,WebradioWilhelmshaven 
 http://streamplus14.leonex.de:38680/stream/1/
+#EXTINF:0,Web Radio Expresso Music
+http://stream.zeno.fm/w5vpviokssyuv
 #EXTINF:0,WebZone Radio
 http://streaming19.hstbr.net:8228/live
 #EXTINF:0,Weirdsville - the silly side of Halloween
@@ -4965,8 +4951,6 @@ https://streaming.live365.com/a04907
 http://listen.mediatechusa.com:8000/wlnc
 #EXTINF:0,WLNG 92.1 FM
 http://sc7.shoutcaststreaming.us:8100/listen.pls
-#EXTINF:0,WLPK K Mix 106.9
-http://13.bteradio.com:9090/KMIX.mp3
 #EXTINF:0,94.7 WLS Chicago's Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
 #EXTINF:0,Saint Leo University Radio
@@ -5001,6 +4985,8 @@ https://stream-47.zeno.fm/m0rtnyfvta0uv?zs=bahq2MLRTxecs9qeqA6ZUQ
 https://ic2.sslstream.com:8000/wmvl-fm
 #EXTINF:0,WNBU Groovin Oldies
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTIBFMAAC_SC
+#EXTINF:0,WNBY Oldies 93
+https://ice23.securenetsystems.net/WNBY?playSessionID=B9042F37-155D-C0F4-0769BAFBE958993A
 #EXTINF:0,WNJH HD1
 https://streaming.live365.com/a28972
 #EXTINF:0,WNRV Power 1081

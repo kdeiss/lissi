@@ -132,7 +132,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIPFM.mp3
 #EXTINF:0,95.7 FM Dimensión
 https://sonic.dattalive.com/cp/links.php?m=pls&p=8154
 #EXTINF:0,SN 960 The Fan
-https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+https://rogers-hls.leanstream.co/rogers/cal960.stream/48k/playlist.m3u8
 #EXTINF:0,97.3 The Game
 https://stream.revma.ihrhls.com/zc2685/hls.m3u8
 #EXTINF:0,97.5 WONE FM
@@ -293,8 +293,6 @@ https://streaming.live365.com/a19446
 https://streaming.live365.com/a23725
 #EXTINF:0,America's OTR - Western Radio
 https://streaming.live365.com/a23179
-#EXTINF:0,AMFM247
-https://centova.amfm247.com:8443/stream
 #EXTINF:0,AM & FM KCII
 https://ice8.securenetsystems.net/KCII
 #EXTINF:0,Amianan radio FM 93.1
@@ -1026,7 +1024,7 @@ https://lb0-stream.radiox981.ca/choi.mp3
 #EXTINF:0,CHOK 103.9 FM & 1070 AM
 https://live.leanstream.co/CHOKAM
 #EXTINF:0,CHQR News Talk 770
-https://live.leanstream.co/CHQRAM
+https://corus.leanstream.co/CHQRAM-MP3
 #EXTINF:0,CHQR AM 770
 https://live.leanstream.co/CHQRAM
 #EXTINF:0,Chris TDL Radio - ASMR
@@ -1036,7 +1034,7 @@ http://s1.slotex.pl:7116/stream/1/
 #EXTINF:0,CHSL boom 92.7
 https://newcap.leanstream.co/CHSLFM
 #EXTINF:0,Ciberadio
-http://grupomundodigital.com:8549/
+http://grupomundodigital.com:8549/autodj
 #EXTINF:0,Rádio Cidade FM - Peperi
 https://audio01.viaflux.com:5422/live
 #EXTINF:0,Cidade Light
@@ -1503,6 +1501,8 @@ https://streamingecuador.net:7030/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,WUPR EXITOS 1530 AM
 https://exitos1530.radioca.st/stream
+#EXTINF:0,Express Radio 90.3 FM
+http://pollux.shoutca.st:9118/stream/1/
 #EXTINF:0,Fairchild Radio 88.9 FM
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 #EXTINF:0,Fama 98.1 FM
@@ -1547,8 +1547,6 @@ http://std1.ladio.net:8020/charlie27745
 https://stream.zeno.fm/gqdb1rev5s8uv
 #EXTINF:0,FM La Boca
 https://s24.myradiostream.com/14984/listen.mp3
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,FM Masters 101.3
 http://ice.dant.com:4232/fmmasters
 #EXTINF:0,FM Mundo
@@ -1717,8 +1715,6 @@ http://servidor39.brlogic.com:8624/live?type=.m3u
 https://ice42.securenetsystems.net/HRN
 #EXTINF:0,Humor FM Humor Non-Stop
 https://ic4.101.ru:8000/stream/air/aac/64/102
-#EXTINF:0,I94 FM
-https://www.ophanim.net:8444/s/8370
 #EXTINF:0,IB3 Ràdio
 https://icecast.ib3radio.com/ib3radio.mp3
 #EXTINF:0,Ibero 90.9 FM
@@ -2113,10 +2109,6 @@ http://139.60.77.55/kgro
 https://crystalout.surfernetwork.com:8001/KITZ_MP3
 #EXTINF:0,KGU-AM - AM 760 The Reason
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAM.mp3
-#EXTINF:0,KGUM - News Talk K57 AM
-https://ice2.securenetsystems.net/KGUM2
-#EXTINF:0,KGUM-2 K57 FM
-https://ice2.securenetsystems.net/KGUM2
 #EXTINF:0,KGWA 960 AM
 http://crystalout.surfernetwork.com:8001/KGWA_MP3
 #EXTINF:0,KHAR 590
@@ -2677,6 +2669,8 @@ https://crystalin.surfernetwork.com:8000/KWON-AM_MP3
 https://ais-sa1.streamon.fm/7401_48k.aac/playlist.m3u8
 #EXTINF:0,KWSU NWPR News
 http://134.121.234.129:8000/NWPRNEWS
+#EXTINF:0,KWTO AM 560
+https://ais-sa1.streamon.fm/7679_48k.aac
 #EXTINF:0,KWVH
 https://ice41.securenetsystems.net/KWVH
 #EXTINF:0,KWWN - ESPN Radio 1100 AM
@@ -2894,7 +2888,7 @@ https://streaming1.locucionar.com/proxy/radiochubut?mp=%2Fstream
 #EXTINF:0,LU9 Mar del Plata
 https://servidor1.hostradios.com:8110/stream
 #EXTINF:0,LV 10
-http://audio.bustream.com:8062/stream
+https://audio.bustream.com:8062/stream
 #EXTINF:0,M24 97.9 FM
 https://streaming2.hostingmontevideo.com:7003/stream/1/
 #EXTINF:0,Magica Emozione
@@ -3637,8 +3631,6 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
-#EXTINF:0,Rádio Assembleia Minas Gerais
-http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -3905,8 +3897,6 @@ https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-garanhuns-audio-web.sdp/playlis
 https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-pesqueira-audio-web.sdp/playlist.m3u8
 #EXTINF:0,Rádio Jornal - Petrolina
 https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-petrolina-audio-web.sdp/playlist.m3u8
-#EXTINF:0,Radio Kanal Barcelona 106.9 FM
-https://radioserver10.profesionalhosting.com:60970/stream
 #EXTINF:0,Radio Kimuri 100.6 FM
 https://stream.zeno.fm/a6bxrnucz38uv
 #EXTINF:0,Radio KLA
@@ -3987,6 +3977,10 @@ http://stream.radiomundo.uy:8000/2.mp4
 http://generalrodriguez.gob.ar:8000/radio
 #EXTINF:0,Radio Mystery Theater USA
 https://ais-sa3.cdnstream1.com/2800_128.mp3
+#EXTINF:0,Radio Nacional de Honduras
+https://stream.zeno.fm/mb5f69fk0d0uv
+#EXTINF:0,Radio Nacional de Honduras Oficial
+http://stream-59.zeno.fm/wxsfkbgk0d0uv?zs=7tfrjMx3SUW59gSO5ntfrA
 #EXTINF:0,Radio Nacional
 http://eu2.serviaudio.com:23116/
 #EXTINF:0,Radio Naropa - satsangs 24/7
@@ -4485,8 +4479,6 @@ http://5.135.183.124:8040/stream
 https://s5.mexside.net:2150/stream
 #EXTINF:0,Sonorama FM
 https://streamingecuador.net:7013/stream
-#EXTINF:0,Soul Radio Live
-https://stm2.emiteonline.com:9019/soulradioweb
 #EXTINF:0,SoulVoice Ministries Int
 https://stream.zeno.fm/spwupb70cf9uv
 #EXTINF:0,Sound of Hope Radio Station
@@ -4763,6 +4755,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM_SC.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_SC.mp3
 #EXTINF:0,CKGM TSN 690 Montreal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
+#EXTINF:0,Tsukure Radio
+https://media.streambrothers.com:8244/stream
 #EXTINF:0,Rádio Tucano 91.5 FM
 http://centova13.ciclanohost.com.br:8056/stream
 #EXTINF:0,TUDN 1200 AM
@@ -4813,8 +4807,6 @@ http://streaming.fmutn.com.ar:8000/FMUTN
 http://51.161.13.49:8039/stream/1/
 #EXTINF:0,UU Church Nashua
 http://stream.uunashua.org/uunashua
-#EXTINF:0,Valle Alto 90.9 FM
-https://stream.zeno.fm/3mvm0pxmr68uv
 #EXTINF:0,KVPR Valley Public Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3
 #EXTINF:0,Valparaiso 1210 AM
@@ -5033,8 +5025,6 @@ https://ice23.securenetsystems.net/WJPF?
 https://fln01.sslstream.com/fln-familylife-aac
 #EXTINF:0,WCJU 1450 AM
 https://ice9.securenetsystems.net/WCJU
-#EXTINF:0,WCKG - 1530 AM
-https://ice7.securenetsystems.net/WCKG?
 #EXTINF:0,ESPN 1530 - WCKY-AM
 https://stream.revma.ihrhls.com/zc1697/hls.m3u8
 #EXTINF:0,WCLE - The Buzz 1570 AM
@@ -5205,8 +5195,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIBCHD2AAC.aac
 http://stream.abacast.net/direct/townsquare-wfntamaac-ibc3
 #EXTINF:0,WFOM - Sports Radio 1230 AM The Fan 2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM.mp3
-#EXTINF:0,WFRA The Allegheny News-Talk Sports Network
-https://playerservices.streamtheworld.com/api/livestream-redirect/WMGWAMAAC_SC
 #EXTINF:0,WFRK / WHYM Live 95.3 FM / 1260 AM
 https://cb.streamguys1.com/wfrk.aac
 #EXTINF:0,WFSX - Fox News 92.5 FM
@@ -5485,8 +5473,6 @@ https://ice7.securenetsystems.net/CSNAAC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKRKFM.mp3
 #EXTINF:0,WKRS - ESPN 1220 AM
 http://stream.abacast.net/direct/alphacorporate-wkrsamaac-ibc4
-#EXTINF:0,WKST NewsRadio 1200 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WKSTAMAAC_SC
 #EXTINF:0,WKTI - 94.5 ESPN
 https://live.wostreaming.net/manifest/goodkarma-wktifmaac-hlsc2.m3u8
 #EXTINF:0,WKWF - Sports Radio 1600 AM
@@ -5977,8 +5963,6 @@ https://ice64.securenetsystems.net/WTSN
 https://www.streamcontrol.net:8444/s/13090
 #EXTINF:0,WTSV - The Pulse 1230 AM
 https://ice8.securenetsystems.net/WTSL
-#EXTINF:0,WTTN Devil Radio 92.7 FM
-https://ice24.securenetsystems.net/WTTN
 #EXTINF:0,WTXK - ESPN 107.5 The Ticket
 https://ice6.securenetsystems.net/WTXK
 #EXTINF:0,WUCT News Talk 94.1 FM
@@ -6019,6 +6003,8 @@ https://live.wostreaming.net/direct/univision-wvivfmaac-imc1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVLKFM_SC
 #EXTINF:0,WVLK NewsTalk 590 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVLKAMAAC_SC
+#EXTINF:0,WVLY 1370 AM
+http://134.209.76.120:8000/WVLY.MP3
 #EXTINF:0,WVMT 620 AM
 https://crystalout.surfernetwork.com:8001/WVMT-AM_MP3
 #EXTINF:0,WVNN NewsTalk 770 AM / 92.5 FM
@@ -6153,8 +6139,6 @@ https://xevavilla.centrocibernetico.com/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/XKFMAAC_SC
 #EXTINF:0,XN Radio
 https://stream.zeno.fm/xupt8fmaf2zuv?rj-tok=AAABeCxFSKsAGCSaCiPMncny3w&rj-ttl=5
-#EXTINF:0,Xpress Radio
-https://uksoutha.streaming.broadcast.radio:16390/xpress
 #EXTINF:0,YB FM
 https://stream.zeno.fm/40089b2m1c9uv
 #EXTINF:0,Yeshua Messianic Radio
