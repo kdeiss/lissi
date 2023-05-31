@@ -473,6 +473,8 @@ https://eu6.fastcast4u.com/proxy/jkouts00?mp=%2F1
 https://stream.zeno.fm/9s7nnwmknkhvv.mp3
 #EXTINF:0,Beat FM - La ligua
 http://200.24.229.253:8060/stream/1/
+#EXTINF:0,Beat FM - Quillota
+http://200.24.229.253:8275/;
 #EXTINF:0,Beat FM - Valle de Aconcagua
 http://sonando.us.digitalproserver.com/beatfm_aac
 #EXTINF:0,Beats Friends Radio
@@ -1062,7 +1064,7 @@ http://server-uk1.radioseninternet.net:8132/stream/1
 #EXTINF:0,DigitalClubRadio
 http://media1.lankasri.fm:8024/;
 #EXTINF:0,DilSe Radio
-https://samcloud.spacial.com/api/listen?sid=136346&rid=287088&f=mp3,any&br=64000,any&m=m3u&t=ssl
+https://streaming.broadcast.radio/dilseradio
 #EXTINF:0,Dimension ONIX
 http://91.121.65.37:18784/stream/1/
 #EXTINF:0,DIRK EN IRMA UIT ZUTPHEN
@@ -1563,8 +1565,6 @@ http://lyssna.fnf.nu:8080/gnf103.mp3
 http://lyssna.fnf.nu:8080/gnf094.mp3
 #EXTINF:0,GodRadio.no
 http://5186.cloudrad.io:8048/stream/1/
-#EXTINF:0,Golazo Radio
-http://turadio.accesopanel.com:8060/stream/1/
 #EXTINF:0,Radio Gold Alessandria
 https://ad1.xdevel.com/radiogoldal
 #EXTINF:0,Golden RB
@@ -1989,6 +1989,8 @@ https://ice5.securenetsystems.net/KDRI?playSessionID=EEA8D7CB-9395-2604-BC3271C9
 https://ice9.securenetsystems.net/KEBF
 #EXTINF:0,KefiFM
 https://stream.radio.co/se0c52c265/listen
+#EXTINF:0,Keith Ngesi Radio
+http://hyades.shoutca.st:8099/;
 #EXTINF:0,KEPT-LP
 https://ice9.securenetsystems.net/KEPT
 #EXTINF:0,KEPW 97.3 FM
@@ -2409,8 +2411,6 @@ http://usamedios.enhd.co:8786/;
 http://s5.voscast.com:8306/;
 #EXTINF:0,La Mejor Nogales
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS.mp3
-#EXTINF:0,La Mezcla Radio
-https://streaming.radio.co/s056cea3a0/listen
 #EXTINF:0,La Mistica Radio
 https://stream.zeno.fm/av8m1adpxs8uv
 #EXTINF:0,Lampsi 105.7 FM
@@ -3333,10 +3333,8 @@ https://stream.open.fm/53
 https://stream2.eistreaming.com:7003/stream/1/
 #EXTINF:0,Opus Radio
 http://stream.zeno.fm/0dqffefm21zuv
-#EXTINF:0,Oralvault Radio
-http://stream.zeno.fm/n11xkga56zhvv
 #EXTINF:0,ORANGE 94.0
-https://live.oralvault.com/radio/8000/oralvaultradio.mp3
+http://stream.zeno.fm/n11xkga56zhvv
 #EXTINF:0,Orbit
 https://securestream.o94.at/live.mp3
 #EXTINF:0,Orbita Radio
@@ -4517,8 +4515,10 @@ https://nl.digitalrm.pt:8182/stream
 https://servidor18.brlogic.com:7174/live
 #EXTINF:0,Radio Mais Online
 https://hts08.kshost.com.br:12162/live
-#EXTINF:0,Radio Malpais
+#EXTINF:0,Radio Majagual
 https://s11.maxcast.com.br:8108/live?id=848021440006
+#EXTINF:0,Radio Malpais
+https://radiolatina.info/9832/stream
 #EXTINF:0,Radio Manchete
 http://5.39.82.140:8006/;
 #EXTINF:0,Radio Manos 103.4
@@ -5161,8 +5161,10 @@ http://zafemradio.com:9990/;
 http://radio.enterministry.com:8365/stream
 #EXTINF:0,Radiotofifan
 http://oyotunstream.com:9352/stream/1/
-#EXTINF:0,Radio Tonneliers Epernay
+#EXTINF:0,Radiotónico
 http://91.232.4.33:9854/;
+#EXTINF:0,Radio Tonneliers Epernay
+https://s1.voscast.com:10043/stream
 #EXTINF:0,Radio Toranj
 https://securestreams6.autopo.st:2324/stream.mp3
 #EXTINF:0,Radio Tordenskrall
@@ -5297,10 +5299,8 @@ http://51.255.8.139:8242/stream
 https://widzewfm.ovh/radio/8000/live.mp3
 #EXTINF:0,Radio World TV
 http://51.255.8.139:8810/live
-#EXTINF:0,RADIO X 90.3
-http://www.worldfm.co.nz:8882/worldfm.aac
 #EXTINF:0,Φυστίκι Radio
-https://stream.zeno.fm/pamgq3tqq68uv
+http://www.worldfm.co.nz:8882/worldfm.aac
 #EXTINF:0,Casualties Of Mars Radio
 http://s4.onweb.gr:8444/stream
 #EXTINF:0,Radio Yabanal
@@ -5511,10 +5511,8 @@ https://rioradio.ice.infomaniak.ch/rioradio-192.mp3
 https://stream.zeno.fm/6u82rkqshtzuv
 #EXTINF:0,Riverwest Radio 104.1 FM
 https://node-12.zeno.fm/k1m62aqeztzuv?zs=0114b7zTQlC3Vfa86er6-Q&rj-tok=AAABgWF61x0Aqy5ovy7E6FlH6w&rj-ttl=5
-#EXTINF:0,RIVR
-http://streaming.radio.computer:8000/riverwestradio
 #EXTINF:0,RIX FM Festival
-https://therivr.streamguys1.com/live-aac
+http://streaming.radio.computer:8000/riverwestradio
 #EXTINF:0,RKC - Radio Kawsachun Coca
 http://wr17-ice.stream.khz.se/wr17_mp3?platform=web%3Fplayerid%3Dmtgradio-mytuner
 #EXTINF:0,Radio Monte Carlo - Music Star Jovanotti
@@ -5775,10 +5773,8 @@ https://stream.laut.fm/soundradiolounge?ref=radiode
 https://prod-52-90-107-240.wostreaming.net/ihorizonsradio-sakfmaac-ibc1
 #EXTINF:0,Spectro Radio
 http://stream.specktator.net:8000/listen_192
-#EXTINF:0,Spice Radio
-https://edge2-a.exa.live365.net/a96356?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1582707559&listenerId=8b96cb60304dcdc621d8e451b9b6c023
 #EXTINF:0,Spitalradio Luz
-https://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8
+https://edge2-a.exa.live365.net/a96356?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1582707559&listenerId=8b96cb60304dcdc621d8e451b9b6c023
 #EXTINF:0,Brila Fm
 http://195.48.36.97:8080/radioluz.mp3
 #EXTINF:0,Sports Radio Brila FM

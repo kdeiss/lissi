@@ -60,7 +60,7 @@ https://audio-edge-3mayu.fra.h.radiomast.io/dfc148be-5d2d-4a8b-8fdc-2a7f922b48cb
 #EXTINF:0,ABC Classic FM
 https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8
 #EXTINF:0,3MBS 103.5 FM
-https://23153.live.streamtheworld.com/3MBSAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3
 #EXTINF:0,4MBS Classic FM 103.7
 https://stream.4mbs.com.au/4mbsclassicfm
 #EXTINF:0,5MBS 99.9 FM
@@ -1599,6 +1599,8 @@ https://live.radioart.com/fOpera.mp3
 http://62.149.196.16:8110/stream/1/
 #EXTINF:0,Opera Room
 https://listen.radionomy.com/operaroom
+#EXTINF:0,opus 100,7
+https://stream.opus.radio/100komma7/opus/mp3/320/stream.mp3?ar-distributor=f0a0
 #EXTINF:0,Opus 94
 https://s2.mexside.net/8016/stream
 #EXTINF:0,Opus
@@ -1957,6 +1959,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2.mp3
 #EXTINF:0,Radio Semnoz
 https://www.radioking.com/play/radio-semnoz
+#EXTINF:0,Skies FM
+https://strw1.openstream.co/2160
 #EXTINF:0,SkyMusic Radio
 https://stream.zeno.fm/tax5wbhppd0uv
 #EXTINF:0,Sky radio 20
@@ -2010,7 +2014,7 @@ https://sverigesradio.se/topsy/direkt/2562-hi-aac.pls
 #EXTINF:0,Sveriges Radio P2 Musik
 https://http-live.sr.se/p2musik-mp3-128
 #EXTINF:0,Radio Svizzera Classica
-https://stream.srg-ssr.ch/m/rsc_it/mp3_128
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:0,Swansbrook Radio
 https://s5.radio.co/s760caf20b/listen
 #EXTINF:0,Radio Swiss Classic

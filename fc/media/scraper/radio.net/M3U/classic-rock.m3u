@@ -673,8 +673,6 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
-#EXTINF:0,KATX 97.7 FM
-http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -741,6 +739,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGFKAM.mp3
 https://ice8.securenetsystems.net/KGFL
 #EXTINF:0,KGMO 100.7 FM (US Only)
 https://ice.wbcengineering.com:8106/stream
+#EXTINF:0,KGUM The Kat 105.1 FM
+https://ice2.securenetsystems.net/KGUMFM
 #EXTINF:0,KHAQ / KQHK The Hawk 98.5 / 103.9 FM
 https://ice9.securenetsystems.net/KHAQ
 #EXTINF:0,KHKK - The Hawk 104.1
@@ -877,8 +877,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
-#EXTINF:0,KWBY Cowboy Radio 98.5 FM
-http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1518,7 +1516,7 @@ https://listen.radionomy.com/rock-bluesroadtrips
 #EXTINF:0,Radio Rocco
 https://s47.myradiostream.com/11950/listen.mp3
 #EXTINF:0,Classic Rock 101
-https://live.leanstream.co/CFMIFM
+https://corus.leanstream.co/CFMIFM
 #EXTINF:0,Rock 101
 http://s3.radio.co/s2c1cebae5/listen
 #EXTINF:0,Rock 103
@@ -1625,6 +1623,8 @@ http://stream.iradio.fi:8000/klasupro-hi.mp3
 https://streams.rsa-sachsen.de/classicrock/mp3-192/radiode/
 #EXTINF:0,R.SH Weihnachtsmix
 https://streams.rsh.de/rsh-event02/mp3-128/radiode/
+#EXTINF:0,RST Radio Rock
+http://216.144.255.186:8100/live
 #EXTINF:0,RT1 Classic Rock
 http://rt1.radio/gsg4w
 #EXTINF:0,Rocking The Blues
@@ -1810,7 +1810,7 @@ https://stream.zeno.fm/5pnmq24tm2zuv
 #EXTINF:0,Triple M
 https://wz2liw.scahw.com.au/live/2pqq_128.stream/playlist.m3u8
 #EXTINF:0,Triple M Fraser Coast 103.5 FM
-http://legacy.scahw.com.au/4mbb_128
+https://wz4liw.scahw.com.au/live/4mbb_128.stream/playlist.m3u8
 #EXTINF:0,Triple M Classic Rock
 https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8
 #EXTINF:0,T-Rock
