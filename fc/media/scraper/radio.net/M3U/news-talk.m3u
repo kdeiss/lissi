@@ -1331,8 +1331,6 @@ http://live.d100.net:8000/Channel1-64MP3
 http://live.d100.net:8000/Channel1-128MP3
 #EXTINF:0,Dailycast News
 https://s9.voscast.com:9155/stream
-#EXTINF:0,Dany Radio - Upbeat Music and Motivational Talk
-http://nap.casthost.net:8003/stream
 #EXTINF:0,DK 1250 AM
 https://sp2.servidorrprivado.com:10947/;
 #EXTINF:0,DE-GRACE RADIO
@@ -1507,6 +1505,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 https://exitos1530.radioca.st/stream
 #EXTINF:0,Fairchild Radio 88.9 FM
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+#EXTINF:0,Radio Falastini 
+https://palradio.radioca.st/;
 #EXTINF:0,Fama 98.1 FM
 https://server6.globalhostla.com:9356/stream
 #EXTINF:0,Familia Radio
@@ -1795,6 +1795,8 @@ http://sweb.co.il:8042//stream?type=http&nocache=4379
 https://audio01.viaflux.com:5444/live
 #EXTINF:0,Radio Itatiaia Juiz de Fora 105.3 FM
 https://live.paineldj.com.br/proxy/itatiaia?mp=/stream
+#EXTINF:0,Izwi Lomzanzi FM
+https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8
 #EXTINF:0,Jalisco Radio
 https://sp2.servidorrprivado.com/8136/stream
 #EXTINF:0,Jambo! Radio
@@ -2149,8 +2151,6 @@ https://ice42.securenetsystems.net/KIMP
 https://node-01.zeno.fm/a6bxrnucz38uv?rj-ttl=5&amp;rj-tok=AAABe3RWZowA07E6if4dMwEaPg
 #EXTINF:0,Kingdom FM
 https://stream.zeno.fm/vz3nk4pcya0uv
-#EXTINF:0,Kingfisher FM
-http://fm.radiovip.co.za:8000/kingfisherfm_80.aac
 #EXTINF:0,KINN K-Talk 1270 AM
 https://ice10.securenetsystems.net/KINN
 #EXTINF:0,KINS News Talk Radio 106.3 FM
@@ -2651,8 +2651,6 @@ https://ice24.securenetsystems.net/KWAM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWBEAMAAC_SC
 #EXTINF:0,KWBG 1590 AM
 https://ice23.securenetsystems.net/KWBG
-#EXTINF:0,KWBW 1450 AM
-https://ice41.securenetsystems.net/KWBW
 #EXTINF:0,KWEL 1070 AM
 https://ice9.securenetsystems.net/KWEL
 #EXTINF:0,KWFN - 97.3 The Fan
@@ -3739,6 +3737,8 @@ https://usa5.fastcast4u.com/proxy/radiocultura?mp=/1
 http://radio.transmite.pe:9330/stream
 #EXTINF:0,Radio Del Pueblo 830 AM
 http://streaming.radiolinksmedia.com:7830/;
+#EXTINF:0,Radio Delta Metković
+https://ec2s.crolive.com.hr/RadioDelta
 #EXTINF:0,Radio Dial 670 AM
 https://stream-32.zeno.fm/8wgv914262quv?zs=F1s_KlRmSfuqiL9xsKZDJA
 #EXTINF:0,Rádio Diário FM
@@ -4724,7 +4724,7 @@ http://s8.citrus3.com:8200/stream
 #EXTINF:0,TMW Radio
 https://stream17.tmwradio.com/tmw.aac?FLID=7
 #EXTINF:0,TNT Radio – Today's News Talk
-https://tntradio.streamguys1.com/tnt/aac/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/TNT_RADIOAAC.aac
 #EXTINF:0,Todelar
 https://tupanel.info:2000/stream/lavozdebogota/stream
 #EXTINF:0,Toilette LIVE
@@ -4735,6 +4735,8 @@ https://radiostream.pl/tuba10-1.mp3
 https://s48.radiolize.com/radio/8100/radio.mp3
 #EXTINF:0,Radio Tordera 107.1 FM
 https://enacast.com/radiotordera/streams/HD
+#EXTINF:0,TransAfricaRadio
+http://iceant.antfarm.co.za:8000/TransAfricaRadio
 #EXTINF:0,Radio 7
 http://api.play.cz/radio/radio7-128.mp3.m3u
 #EXTINF:0,TreasureCoastRadio.com
@@ -5979,6 +5981,8 @@ https://ice64.securenetsystems.net/WTSN
 https://www.streamcontrol.net:8444/s/13090
 #EXTINF:0,WTSV - The Pulse 1230 AM
 https://ice8.securenetsystems.net/WTSL
+#EXTINF:0,WTTN Devil Radio 92.7 FM
+https://ice24.securenetsystems.net/WTTN
 #EXTINF:0,WTXK - ESPN 107.5 The Ticket
 https://ice6.securenetsystems.net/WTXK
 #EXTINF:0,WUCT News Talk 94.1 FM
