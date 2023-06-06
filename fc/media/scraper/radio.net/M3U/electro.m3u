@@ -1688,7 +1688,7 @@ https://s4.radio.co/s4902de73b/listen
 #EXTINF:0,Fun Radio FR
 https://icecast.funradio.fr/fun-1-44-128
 #EXTINF:0,Fun Radio 95.3
-http://funradio.servehttp.com:8000/live
+http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
 #EXTINF:0,Fun Radio Réunion
@@ -1749,8 +1749,6 @@ https://ginandjuice.radioca.st/stream/1/
 https://live.radioglamorize.com/stream/1/
 #EXTINF:0,Radio Glarissimo
 https://fridolin.ice.infomaniak.ch/fridolin-192.mp3
-#EXTINF:0,GlitterBeam
-https://s7.yesstreaming.net:8050/stream
 #EXTINF:0,globalbeats green channel
 http://www.globalbeats.fm/gbfm_green_mp3.pls
 #EXTINF:0,Global Disco
@@ -4000,7 +3998,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC
 #EXTINF:0,Los 40 Principales Chile
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE.mp3
 #EXTINF:0,Radio Los Compadres
-https://streamingV2.shoutcast.com/Loskompadres
+http://stream.zeno.fm/p0ehm8tq0k0uv
 #EXTINF:0,Lost Souls
 http://listen.radionomy.com/lostsouls.m3u
 #EXTINF:0,Loud Radio 88.8 FM
@@ -4055,8 +4053,6 @@ https://stream.zeno.fm/ke8zyg6vnpyuv
 https://audio.mabu-beatz-radio.com:8003/deephouse
 #EXTINF:0,macjingle Todays Best
 http://fc.macjingle.at:8000/stream/1/
-#EXTINF:0,MagicHIT
-https://stream.magichit.at/magichit-live/mp3-192/
 #EXTINF:0,magic-soundz
 http://s5.stream-webradiotechnik.de:9700/stream/1/
 #EXTINF:0,Magicstar Greece
@@ -4335,10 +4331,6 @@ http://stream01.my105.ch/my105blasterjaxx.mp3
 http://stream01.my105.ch/my105bobsinclar.mp3
 #EXTINF:0,my105 Dance
 http://stream01.my105.ch/my105dance.mp3
-#EXTINF:0,my105 DANCE FR
-http://stream02.my105.ch/my105dance.mp3
-#EXTINF:0,my105 DANCE IT
-http://stream03.my105.ch/my105dance.mp3
 #EXTINF:0,my105 DJ Nights
 http://stream01.my105.ch/my105djnights.mp3
 #EXTINF:0,my105 DJ Radio
@@ -4349,10 +4341,6 @@ http://stream01.my105.ch/my105kayzo.mp3
 http://stream01.my105.ch/my105martingarrix.mp3
 #EXTINF:0,my105 Mashup
 http://stream01.my105.ch/my105mashup.mp3
-#EXTINF:0,my105 MASHUP FR
-http://stream02.my105.ch/my105mashup.mp3
-#EXTINF:0,my105 MASHUP IT
-http://stream03.my105.ch/my105mashup.mp3
 #EXTINF:0,my105 Nightbeats Deluxe
 http://stream01.my105.ch/my105nightbeatsdeluxe.mp3
 #EXTINF:0,my105 OLIVER HELDENS
@@ -4477,6 +4465,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/55205/mp3_128.mp3?origine=radio.net
 https://01.solumedia.com.ar:8208/stream
 #EXTINF:0,Radio Nova
 https://23613.live.streamtheworld.com/RADIO_NOVAAAC_L.aac
+#EXTINF:0,Rádio Nova Era
+https://centova.radio.com.pt/proxy/478?mp=/stream
 #EXTINF:0,Radio Nova Toronto
 https://streams.radio.co/s1ae1175cf/listen
 #EXTINF:0,Noventa Rádio Dance
@@ -4535,14 +4525,14 @@ https://lyd.nrk.no/nrk_radio_p3_mp3_m.m3u
 https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3
 #EXTINF:0,One Dance
 https://ice04.fluidstream.net/rn1_2.aac?FLID=7
+#EXTINF:0,NWKX Radio
+http://195.166.151.210:8002/pls
 #EXTINF:0,NZK, L'indé!
 https://listen.radionomy.com/nzk-l-inde-
 #EXTINF:0,Oasis radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac
 #EXTINF:0,Ocean Ibiza Radio
 http://s3.sonicabroadcast.com:8915/stream/1/
-#EXTINF:0,OcioNews Plus
-https://stream.zeno.fm/8vx0dkvznfhvv
 #EXTINF:0,OEM Radio
 http://rosetta.shoutca.st:8454/;
 #EXTINF:0,oesterreichradio young
@@ -4772,7 +4762,7 @@ https://ssl1.viastreaming.net:8550/stream/1/
 #EXTINF:0,Pioneer FM Zlatoust 103.4
 http://variant.fm:8000/PPR-192
 #EXTINF:0,Radio Pirata Loco
-https://cloudstream2034.conectarhosting.com/8230/stream
+https://cloudstream2034.conectarhosting.com:7024/stream/1/
 #EXTINF:0,Planète FM
 http://37.59.104.28:8030/planetefm.mp3
 #EXTINF:0,PLANET MUSIC FM
@@ -4872,7 +4862,7 @@ http://srv.webradiomanager.fr:1540/stream
 #EXTINF:0,Power Hits Radio
 https://stream-43.zeno.fm/a1satkkuzrquv?zs=RL20aieRQ4KIiHl4WTDwWw
 #EXTINF:0,Radio Power Italia
-https://passas00.radioca.st/stream
+http://philae.shoutca.st:8090/stream
 #EXTINF:0,Powerstar Radio Fm 101.7
 https://stm10.xcast.com.br:12046/;
 #EXTINF:0,Power Türk FM
@@ -5125,14 +5115,10 @@ https://stream.zeno.fm/gdtbdqwzrf9uv
 https://onair7.xdevel.com/proxy/xautocloud_maxn_925?mp=/;stream/;
 #EXTINF:0,Radio Club
 https://radios.solumedia.com/6004/stream
-#EXTINF:0,radioclub 80
-http://play.enhd.co:7024/;
 #EXTINF:0,Radio Clubbin
 http://radyo.yayin.com.tr:6199/;
 #EXTINF:0,RadioClubGR
 https://igor.torontocast.com:1410/stream
-#EXTINF:0,Radio Club Señal Dance
-http://ecuamedios.net:7024/live
 #EXTINF:0,Radio Company
 https://sphera.fluidstream.eu/company.aac
 #EXTINF:0,Radio Conquista Internacional
@@ -5198,7 +5184,7 @@ http://radio.albaniaradiodj.al/stream
 #EXTINF:0,Radio Domani
 https://s1.forstream.it:8050/radiodomani
 #EXTINF:0,Radio Dreams Dance Hits Andrenaline
-http://radiodreams.g1.ro:3390/listen.pls
+http://radiodreams.g1.ro:3390/listen
 #EXTINF:0,Radio Drunk
 https://stream-58.zeno.fm/kg271rdzgm0uv?zs=9GiR329qSZiSQY0vMNo4Cg
 #EXTINF:0,Radio Duck
@@ -5259,8 +5245,6 @@ https://listen.radioking.com/radio/453545/stream/508427
 http://audio2.tustreaming.cl:7010/stream
 #EXTINF:0,Rádio Freedom 
 https://stream1.svrdedicado.org/8030/stream
-#EXTINF:0,Radio Free MMO
-https://ais-sa1.streamon.fm/7085_48k.aac
 #EXTINF:0,RadioFr. Fresh
 https://radiofresh.ice.infomaniak.ch/radiofresh.aac
 #EXTINF:0,RadioFr Fresh
@@ -5449,8 +5433,6 @@ http://stream-52.zeno.fm/rn40ah701uquv?zs=bDQvUyWoTo-jQb8_XVpNeg
 https://studio24.radiolize.com/radio/8050/radio.mp3
 #EXTINF:0,Radio Perfección
 http://video.mediawebchile.com:18026/stream
-#EXTINF:0,RadioPersoCL
-https://broadcast.shoutstream.co.uk:8036/stream
 #EXTINF:0,Radio petit son
 https://www.radioking.com/play/petit-son
 #EXTINF:0,Radio Pink
@@ -5992,7 +5974,7 @@ http://94.130.113.214:8000/schizoid
 #EXTINF:0,School Radio
 http://hosting.studioradiomedia.fr:1100/schoolradio
 #EXTINF:0,Radio Schwarze Welle
-http://188.138.17.239:7500/stream/1/
+https://sc.schwarze-welle.de:7500/stream/1/
 #EXTINF:0,Scientific Sound Asia Radio
 http://carol.epichosts.co.uk:8270/live.mp3
 #EXTINF:0,Radio SCOOP - PowerDance
@@ -6009,8 +5991,6 @@ http://radio.dawnshadow.se:8000/stream
 https://radio.streemlion.com:5660/stream
 #EXTINF:0,SEDUCTION DANCE TUNES RADIO
 https://24streams.gr/8057/stream
-#EXTINF:0,SeeJay Radio
-https://live.seejay.cz/seejay128.aac
 #EXTINF:0,Selectro Radio
 https://radio7.pro-fhi.net/listen-tzpakfon-stream.mp3
 #EXTINF:0,Sensación FM - Beat
@@ -6135,6 +6115,8 @@ https://drive.uber.radio/uber/sportifydance/icecast.audio
 https://stream.zeno.fm/gftg6pzzb5zuv
 #EXTINF:0,SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:0,SSRadio Deep and Soulful
+https://ssradiol.radioca.st/listen.mp3
 #EXTINF:0,sstamilradio
 https://sstamilradio.radioca.st/stream/1/
 #EXTINF:0,Standfy Dance
@@ -6145,8 +6127,6 @@ https://www.radioking.com/play/stardance-radio/512795
 https://intertemp-gecko.radioca.st/stream?
 #EXTINF:0,RADIO PURE 
 https://str0.creacast.com/purelectro
-#EXTINF:0,Starlifter Radio
-http://starlifter.net.nz:8000/radio.m3u
 #EXTINF:0,StarliteFM
 https://streaming.live365.com/a70077
 #EXTINF:0,Radio Star Maroc 
@@ -6204,7 +6184,7 @@ https://ice.studiopiu.net/puglia.aac
 #EXTINF:0,Radio Studio Più Trentino Alto Adige
 https://ice.studiopiu.net/trento.aac
 #EXTINF:0,Radio Studio Record - la radio in Val di Fassa
-http://dreamsiteradiocp3.com:8052/stream/1/
+http://dreamsiteradiocp3.com:8052/;
 #EXTINF:0,Rádio Studio Souto - ElectroHouse
 https://centova5.transmissaodigital.com:20015/stream
 #EXTINF:0,Subliminal Radio
@@ -6516,7 +6496,7 @@ https://totaldance64-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8590/1
 #EXTINF:0,EASY RADIO KRIBI
 https://api.radioking.io/radio/534455/listen.m3u
 #EXTINF:0,Tower Radio Blackpool
-http://radio.streemlion.com:5710/stream
+https://sonic.yourradio.live/8196/stream
 #EXTINF:0,toxic.fm
 https://toxicfm.ice.infomaniak.ch/toxicfm-128
 #EXTINF:0,Traffic Radio Station
@@ -6678,7 +6658,7 @@ http://usa11.fastcast4u.com:5272/stream/1/
 #EXTINF:0,Soulful House
 https://radio4.vip-radios.fm:18057/stream-128kmp3-SoulfulHouse
 #EXTINF:0,Virage Radio
-https://virageradio.ice.infomaniak.ch/virageradio-high.mp3
+https://virageradio.ice.infomaniak.ch/virageradio-high.aac
 #EXTINF:0,Virtual DJ Radio - Clubzone
 http://virtualdjradio.com:8000/channel1.mp3
 #EXTINF:0,Virtual DJ Radio - Hypnotica
@@ -6849,8 +6829,6 @@ https://server1.radiocast.es/radio/8010/xtrema_ext
 http://87.98.219.178:8156/stream/1/
 #EXTINF:0,XWAVE RADIO
 http://ns319459.ip-91-121-67.eu:8000/stream/1/
-#EXTINF:0,XXL MUSIC Langeweile war gestern
-https://azuracast.xxl-music.de/listen/xxl-music/radio.mp3
 #EXTINF:0,XXL-Radio
 https://stream.laut.fm/xxl-radio?ref=radiode
 #EXTINF:0,Yellow Radio

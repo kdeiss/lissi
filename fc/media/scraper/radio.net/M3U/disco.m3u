@@ -57,8 +57,6 @@ https://stream.antenne.de/antenne-nrw-disco-fever/stream/mp3?aw_0_1st.playerid=r
 https://stream.laut.fm/antenneschiebock?ref=radiode
 #EXTINF:0,Antisana FM
 https://antisana.lat:8000/radio.mp3
-#EXTINF:0,ASO PICARDIE
-http://panel.mediacp.fr:18014/stream
 #EXTINF:0,Atlantis FM
 https://atlantisfm.radionetz.de/atlantisfm.mp3
 #EXTINF:0,AustrianPub-Radio
@@ -737,7 +735,7 @@ http://s33.maxcast.com.br:8070/live
 https://listen.radioking.com/radio/1204/stream/89
 #EXTINF:0,Radio Mirage
 https://ssl-1.radiohost.pl:9569/stream
-#EXTINF:0,MITA Radio – Music Is The Answer
+#EXTINF:0,MITA 
 https://streaming.live365.com/a26037
 #EXTINF:0,MiXed Beatz Radio
 http://s5.radio.co/s52de48a74/listen.m3u
@@ -779,8 +777,6 @@ https://stream.zeno.fm/2spkyxtr0wzuv
 https://streams.radio.co/s1ae1175cf/listen
 #EXTINF:0,NuDiscoGrooves
 https://server-28.stream-server.nl:8902/default
-#EXTINF:0,OcioNews Plus
-https://stream.zeno.fm/8vx0dkvznfhvv
 #EXTINF:0,OLDIE ANTENNE Disco Fever
 https://stream.oldie-antenne.de/oldie-antenne-disco-fever/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Oldies Hits
@@ -908,9 +904,9 @@ http://stream.zeno.fm/q6p6v39ygchvv
 #EXTINF:0,Radio-Disco-Power
 http://server34815.streamplus.de/stream.mp3
 #EXTINF:0,Radio Dreams 90' Hits
-http://radiodreams.g1.ro:3390/listen.pls
+http://radiodreams.g1.ro:3399/listen
 #EXTINF:0,Radio Dreams Dance Hits Andrenaline
-http://radiodreams.g1.ro:3390/listen.pls
+http://radiodreams.g1.ro:3390/listen
 #EXTINF:0,Radio DTR
 https://stream.zeno.fm/33ne9tx49ehvv
 #EXTINF:0,Radio Noroeste Bierzo
@@ -977,6 +973,8 @@ https://stream-radionova.creativedork.com/
 https://strm.radionula.com/channel2
 #EXTINF:0,Radio Parceros
 https://stream.zeno.fm/wtrkddrhc8zuv
+#EXTINF:0,RadioParty Energy 2000
+https://s2.radioparty.pl:8015/energy2000
 #EXTINF:0,RadioParty Kanał Główny
 https://s2.radioparty.pl:8015/stream
 #EXTINF:0,Radio Planeta UY
@@ -989,8 +987,8 @@ https://ssl-1.radiohost.pl:9470/stream.mp3
 https://broadcast.miami/proxy/prelude?mp=/stream/;
 #EXTINF:0,Radio Pro Music 90s
 https://stream.adradio.ro/8414
-#EXTINF:0,Radio Puerto Montt FM
-http://149.56.31.15:8018/stream/1/
+#EXTINF:0,Radio Puerto Montt 107.5 fm
+http://stream.zeno.fm/9ysukb9cdtwtv
 #EXTINF:0,Disco Pyatnica
 https://cast.radiogroup.com.ua/radiopyatnica320
 #EXTINF:0,Radio-Radeberg
@@ -1117,12 +1115,12 @@ https://uk7.internet-radio.com/proxy/soulrhythms?mp=/stream
 http://icecast-soulshow.cdp.triple-it.nl/soulshow_96.mp3
 #EXTINF:0,Soulstation Radio
 https://soulstation.stream.laut.fm/soulstation?t302=2018-11-14_13-20-33&uuid=c40583c9-b356-41a3-a04d-68b8c9b7d82e
-#EXTINF:0,Spectrum FM - Classic Disco
-https://eu8.fastcast4u.com/proxy/spectrumdisco?mp=/1
 #EXTINF:0,SplashFM - Dein Radiosender
 https://azuracast.matze-hosting.at/radio/8020/radio.mp3
 #EXTINF:0,Sra. Arepa Radio
 https://stream.zeno.fm/gftg6pzzb5zuv
+#EXTINF:0,SSRadio Funk & Disco
+https://ssradiol.radioca.st/listen.mp3
 #EXTINF:0,Stacja Impreza
 http://185.24.219.206:9090/live
 #EXTINF:0,Starguardz Disco Reinvented
@@ -1139,6 +1137,8 @@ https://stream3.mfmstreaming.nl:2390/stream
 http://149.202.22.75:9396/stream/1/
 #EXTINF:0,SuperStereo Radio Chile
 http://198.204.228.202:8160/flac
+#EXTINF:0,SURE FM
+https://azuracast.surefm.live/listen/sure_fm/radio.mp3
 #EXTINF:0,SynthIz Italo Disco Radio
 https://node-29.zeno.fm/r3uy0pguty8uv?rj-ttl=5&rj-tok=AAABft-zXVcACTOuN4HGs39m9w
 #EXTINF:0,Taurages Radijas
@@ -1213,8 +1213,6 @@ http://streaming.radionomy.com/JamendoLounge
 http://stream.zeno.fm/0zf3vbuvx8quv
 #EXTINF:0,Web Rádio Plus
 https://s16.maxcast.com.br:8228/live
-#EXTINF:0,XXL MUSIC Langeweile war gestern
-https://azuracast.xxl-music.de/listen/xxl-music/radio.mp3
 #EXTINF:0,XXL Radio
 https://server-26.stream-server.nl:18614/stream
 #EXTINF:0,Yes Radio

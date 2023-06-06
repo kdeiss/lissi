@@ -199,8 +199,6 @@ https://servidor26.brlogic.com:8142/live
 https://streaming.radio.co/sfbda06f8b/listen
 #EXTINF:0,Agape FM
 https://s4.radio.co/sce8413896/listen
-#EXTINF:0,By The Grace Radio
-http://s7.voscast.com:9580/;stream1534776794307/1
 #EXTINF:0,Called Out Gospel Radio
 https://usa3.fastcast4u.com/proxy/ennsvarb?mp=/1
 #EXTINF:0,Campestre FM
@@ -253,6 +251,8 @@ http://a1team.net:8128/;stream.mp3
 https://usa19.fastcast4u.com/clrs
 #EXTINF:0,Clubkingdom Radio
 https://stream-52.zeno.fm/9w6nzqhkephvv?zs=cXCXtW5mTeyX6YMaEWddbQ
+#EXTINF:0,Coaching Airline Radio
+https://stream.coachingairlineradio.de/radio/8000/256kb.mp3
 #EXTINF:0,Colmundo Radio Bucaramanga
 http://142.4.2.72:8039/;stream.mp3
 #EXTINF:0,Light FM Kinshasa
@@ -415,6 +415,8 @@ https://streaming.live365.com/a46632
 http://ais-sa2.cdnstream1.com/2444_64.aac
 #EXTINF:0,FCFM Broadcasting Network
 https://stream.zeno.fm/vvbmtnfx2ehvv
+#EXTINF:0,Fe Stereo
+http://209.126.119.28:8290/live
 #EXTINF:0,Filipenses 4.13 Radio Cristiana
 http://198.148.103.200:8056/stream/1/
 #EXTINF:0,First Bible Network
@@ -587,8 +589,6 @@ https://radio.hallelradio.org/radio/8010/radio.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC214_SC
 #EXTINF:0,Harvest Christian Radio
 http://stream.zeno.fm/zvny0fefymzuv
-#EXTINF:0,HCJB Kichwa
-https://streamingecuador.net:8299/hcjb
 #EXTINF:0,heart song live
 https://streamer.radio.co/sa0f1967d5/listen
 #EXTINF:0,HSM RADIO 
@@ -735,8 +735,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KCBCAMAAC.aac
 https://ic2.sslstream.com/kchl-am
 #EXTINF:0,KCity Radio
 https://radio.gotright.net/radio/8010/radio.mp3
-#EXTINF:0,KDYA - Gospel 1190 AM - The Light
-https://playerservices.streamtheworld.com/api/livestream-redirect/KDYAAMAAC.aac?
 #EXTINF:0,KEGM-DB
 https://streaming.live365.com/a71188
 #EXTINF:0,KFBN - Heaven 88.7 FM
@@ -1439,6 +1437,8 @@ http://cloudstream2032.conectarhosting.com:9786/;typemp3
 https://servidor26.brlogic.com:8038/live
 #EXTINF:0,Radio Juan 3:16
 https://stream.zeno.fm/adrmdc7b7nhvv
+#EXTINF:0,Radio La Cosecha
+https://stream.zeno.fm/f4c69v47hhruv
 #EXTINF:0,Radio Lagoa Azul
 http://centova.radio.com.pt:9488/stream/
 #EXTINF:0,RadioLaguerre
@@ -2145,8 +2145,6 @@ https://servidor36.brlogic.com:7032/live
 https://stream.radiojar.com/0ef30a4fwvduv
 #EXTINF:0,TRUTH Radio
 https://streaming.live365.com/a74514
-#EXTINF:0,Tune Vizion
-https://s5.voscast.com:10515/stream
 #EXTINF:0,TU Radio FM
 https://delta.radioplayer.com.ar:9132/879turadio
 #EXTINF:0,TVM RADIO 1
@@ -2441,8 +2439,6 @@ https://ice23.securenetsystems.net/WLJA
 https://ice8.securenetsystems.net/WFMV
 #EXTINF:0,WLOK 1340 AM
 https://ice64.securenetsystems.net/WLOK
-#EXTINF:0,WLQV - Faith Talk 1500 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WLQVAM.mp3
 #EXTINF:0,WMAX - Ave Maria Radio 1440 AM
 http://ic2.nwrnetwork.com/wdeo-fm?
 #EXTINF:0,WMBM - Gospel 1490 AM
@@ -2494,13 +2490,15 @@ http://wpc.2f64c.mucdn.net/242F64C/wpce/peace.m3u8
 #EXTINF:0,WPEL 800 AM
 https://ice66.securenetsystems.net/WPELFM
 #EXTINF:0,WPJM 800 AM
-http://janus.cdnstream.com:8014/;
+http://janus.cdnstream.com:8014/listen.pls
 #EXTINF:0,WPJS 1330 AM
 https://ice9.securenetsystems.net/WPJS
 #EXTINF:0,WPJW - Walk FM 91.5 FM
 https://positivealtradio.streamguys1.com/wkaomp3
 #EXTINF:0,WPOG 710 AM
 http://192.241.185.108:8004/;
+#EXTINF:0,WPPC - Radio Felicidad 1570 AM
+https://radio.cmcred.com/proxy/radiofelicidad?mp=/stream
 #EXTINF:0,WPUC-FM - Catolica Radio 88.9 FM
 https://live.turadio.stream:7017/catolicaradiopr
 #EXTINF:0,WPZE - Praise 102.5 FM
@@ -2563,8 +2561,6 @@ https://ice6.securenetsystems.net/WVHM
 http://peridot.streamguys.com:5010/live
 #EXTINF:0,WVOG Gospel 600 AM
 http://wwcr.gsradio.net:2367/;
-#EXTINF:0,WVSA 100.7 The Voice
-http://fusion.shoutca.st:8078/;
 #EXTINF:0,WWFJ Old Paths Radio Network 88.1 FM
 http://147.135.84.27/opr
 #EXTINF:0,WWJD RADIO
