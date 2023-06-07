@@ -109,6 +109,8 @@ http://centova.rockhost.com:8054/locals
 https://streaming.live365.com/a86994
 #EXTINF:0,Ραδιο Καρπενησι 97.5 FM
 http://sc2.streamwithq.com:8046/stream
+#EXTINF:0,97.7 KAFA-FM
+https://ice9.securenetsystems.net/KAFA
 #EXTINF:0,98.5 La Comadre
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac
 #EXTINF:0,98.7 KBQS
@@ -821,6 +823,8 @@ https://radio-stream.cmc.com.hr:9014/autodj
 https://radio-stream.cmc.com.hr:9015/autodj
 #EXTINF:0,CMHW La Reina Radial del Centro
 https://icecast.teveo.cu/TsxMM94R
+#EXTINF:0,CMJB Radio Titán
+https://icecast.teveo.cu/nXwsVz4N
 #EXTINF:0,CMKC Radio Revolución
 https://icecast.teveo.cu/C9vVPN7h
 #EXTINF:0,CMKZ Radio Baraguá
@@ -2878,7 +2882,7 @@ https://stream.zeno.fm/pk67qjfza4tvv
 #EXTINF:0,M80 - Portugal
 http://stream-38.zeno.fm/ech627b6u18uv?zs=fazuTF8jS9eePkUFK7A0mQ
 #EXTINF:0,M9'21 MAGGICA FM
-https://media3.mcr.iol.pt/wrm80/m80nacional.aac/icecast.audio
+https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 #EXTINF:0,Maasbach Radio
 https://dattavolt.com/8192/stream
 #EXTINF:0,Madness 95
@@ -2987,10 +2991,8 @@ http://213.239.206.179:7060/;
 http://s1.onweb.gr:8834/listen.pls
 #EXTINF:0,Methorios 96
 http://eco.onestreaming.com:8505/stream/1/
-#EXTINF:0,Metro FM 97.8
-http://eco.onestreaming.com:8505/stream/1/
 #EXTINF:0,Metropolis 97.2 FM
-https://onairmediagroup.live24.gr/metrofm978xanthi
+http://eco.onestreaming.com:8505/stream/1/
 #EXTINF:0,METROPOLITANA RADIO 1040 AM
 http://s6.onweb.gr:8092/stream/1/
 #EXTINF:0,MEvoici Radio TV
@@ -5531,10 +5533,8 @@ https://radio5.domint.net:8226/stream
 http://209.126.119.28:8207/stream
 #EXTINF:0,Русское Радио Америка
 https://ec1.yesstreaming.net:2035/stream
-#EXTINF:0,RV7 CARAIBES
-http://radio.rusradio.fm:24000/;stream.mp3
 #EXTINF:0,R-Visionnaires Radio Station
-https://stream-077.zeno.fm/wyh0gy666p8uv?zs=fuvptYy3TQq2dcVfefxj7g&1683104198264
+http://radio.rusradio.fm:24000/;stream.mp3
 #EXTINF:0,RVT Satelital 91.5 FM
 http://199.180.75.2:10143/;
 #EXTINF:0,RythmMixFm @ Rythm For Your Life
@@ -5559,8 +5559,10 @@ https://stream-57.zeno.fm/7x34ndtxnfhvv?zs=METuZOGsTMm7GnAzob-ftg&1664883738005
 https://stream-10.zeno.fm/tgzmw19rqrquv?zs=DE3x5WCbT9OW6a2CtopnBw
 #EXTINF:0,Salsa Mambo 27
 http://192.99.41.102:5060/stream/1/
-#EXTINF:0,Samaoui Gnaoua Radio
+#EXTINF:0,Salsareo !salsa sin miseria!
 http://149.56.175.167:5056/stream/1/
+#EXTINF:0,Samaoui Gnaoua Radio
+http://shoutcast.tmcreativos.com:8216/;
 #EXTINF:0,Sama Radio Dakar
 https://streaming2.rimradio.ma/livegnaoua
 #EXTINF:0,Samen1
@@ -5599,8 +5601,10 @@ http://streaming.radionomy.com/JamendoLounge
 https://stream.zeno.fm/72fpkg0sn8quv
 #EXTINF:0,Secret Fm
 http://icecast.secousse.org/secousse-mix
-#EXTINF:0,Radio Semnoz
+#EXTINF:0,SeeJay
 https://stream.zeno.fm/skeb1wkdgg8uv
+#EXTINF:0,Radio Semnoz
+https://live.seejay.cz/seejay128.aac
 #EXTINF:0,Seneweb
 https://www.radioking.com/play/radio-semnoz
 #EXTINF:0,Sensación Radio
@@ -5611,8 +5615,10 @@ https://stream.zeno.fm/db9ys3m2czzuv
 http://198.204.234.10:8407/live
 #EXTINF:0,Sfaira FM
 https://stream.zeno.fm/rn8kgvekvbruv
-#EXTINF:0,Shalom FM
+#EXTINF:0,sfSoundRadio
 http://cast3.radiohost.ovh:8280/stream
+#EXTINF:0,Shalom FM
+http://sfsound.org:8000/listen.pls?sid=1
 #EXTINF:0,Radio Shanson
 https://usa7.fastcast4u.com/proxy/joaria00?mp=%2F1%2Fstream.mp3
 #EXTINF:0,Shark.FM Aruba
@@ -5701,8 +5707,10 @@ https://ice31.securenetsystems.net/BRILAMP3?playSessionID=805EEAEA-3EE0-47E6-BC7
 https://ice31.securenetsystems.net/BRILAMP3?playSessionID=F226725E-AAF5-43B1-9F995B2C474A8728
 #EXTINF:0,Squad Radio Florești
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC200.aac
-#EXTINF:0,SR Stereo 105.0 FM
+#EXTINF:0,S Radio non stop
 http://109.169.23.124:9447/;
+#EXTINF:0,SR Stereo 105.0 FM
+http://dione.shoutca.st:8014/stream
 #EXTINF:0,Stacion San Alejandro 91.3 FM
 https://stream.zeno.fm/a5eep3ukbm0uv
 #EXTINF:0,Star Intl 99.9
@@ -5793,10 +5801,8 @@ http://198.105.216.204:8074/;
 http://87.106.237.124:8000/laonda
 #EXTINF:0,TamilRagam
 https://tamilmurasam.radioca.st/stream
-#EXTINF:0,Ταμυναϊκή Ραδιοφωνία 103.9
-https://cast4.asurahosting.com/proxy/neville/stream
 #EXTINF:0,tangoturkradio
-http://88.198.10.229:8028/stream
+https://cast4.asurahosting.com/proxy/neville/stream
 #EXTINF:0,TAQS.IM Middle Eastern Music
 https://yayin.hostwin.net/8020/stream
 #EXTINF:0,tarhanfm

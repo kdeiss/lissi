@@ -69,6 +69,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEFM_1021AAC
 https://radios.solumedia.com:6276/stream
 #EXTINF:0,102.5 Edge FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/EDGE1025AAC_SC
+#EXTINF:0,102.5 FM Radio O
+http://st.produccionesdha.com:9746/;
 #EXTINF:0,102.9 CHTM
 http://173.193.205.96:7100/stream
 #EXTINF:0,102 FM Radio Tel Aviv
@@ -945,8 +947,6 @@ http://svrstream1.svreua.com:8226/stream/1/
 https://stream.zeno.fm/0rqkurswhd0uv
 #EXTINF:0,Sertanejo Bom Demais
 https://cc2.streammaximum.com:20151/stream
-#EXTINF:0,AmwajFM
-http://radiolive.rtv.gov.sy:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:0,Radio Anaunia
 http://s6.mediastreaming.it:9134/;
 #EXTINF:0,ANDINA STEREO 95.1 FM
@@ -1311,6 +1311,8 @@ http://s5.radio.co/sd74f3bd87/listen.m3u
 https://stream01.script24.net:9072/stream1
 #EXTINF:0,AudioSet
 https://audioset.cyou/radio/8020/radio.mp3
+#EXTINF:0,Radio Fil de I'Eau - Fleurance
+https://hosting.studioradiomedia.fr:2735/stream
 #EXTINF:0,Radio Fil de I'Eau - Isle Jourdain
 https://hosting.studioradiomedia.fr:2495/stream
 #EXTINF:0,AUKRADIO
@@ -4283,10 +4285,14 @@ https://www.radioking.com/play/frequence-souvenirs-1
 https://stream.zeno.fm/a7uat7surp8uv
 #EXTINF:0,CFHK FM - Fresh FM 103.1
 https://live.leanstream.co/CFHKFM-MP3
+#EXTINF:0,Fresh Radio Gold
+https://freshradiogold.radioca.st/stream
 #EXTINF:0,FreshRadio
 https://c2.radioboss.fm/stream/157
 #EXTINF:0,Fresh radio Ostrava
 https://icecast.beatzone.cz/radio/8000/128.mp3
+#EXTINF:0,Fresh Radio Spain - Costa Blanca South
+https://freshradiogold.radioca.st/stream
 #EXTINF:0,FreshRadio
 https://c2.radioboss.fm:18157/stream
 #EXTINF:0,Fri-born
@@ -4981,6 +4987,8 @@ https://live.hunter.fm/pop_high
 https://cast3.asurahosting.com/proxy/johnhers/stream
 #EXTINF:0,i108.3
 https://streamer.radio.co/s7e4d4e5fe/listen
+#EXTINF:0,I94 FM
+https://www.ophanim.net:8444/s/8370
 #EXTINF:0,Ibero 90.9 FM
 https://noasrv.caster.fm:10182/live
 #EXTINF:0,Ibicaraí Web Rádio
@@ -6475,6 +6483,8 @@ https://stream.zeno.fm/x4x44fr1p48uv
 http://192.99.44.11:8042/stream/1/
 #EXTINF:0,LA PODEROSA
 https://stream.zeno.fm/u2r9974z67zuv
+#EXTINF:0,La Poderosa 96.9 FM
+https://stream9.mexiserver.com:7105/stream/1/
 #EXTINF:0,La Poderosa Aguascalientes
 https://poderosa.streaming.radiogrupo.com/
 #EXTINF:0,La Poderosa Sotomayor
@@ -11221,10 +11231,14 @@ http://67.212.165.106:8150/stream
 http://stream.magiclaradio.com:8760/stream
 #EXTINF:0,Magic Music
 https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
+#EXTINF:0,Magic Music FM
+http://103.8.17.9:9000/;
 #EXTINF:0,Magic Music Radio
 http://95.110.186.253:8020/magic.mp3
 #EXTINF:0,Magicstar Greece
 https://stream-40.zeno.fm/qhk6q6tudg0uv?
+#EXTINF:0,Magnética FM XHAWD 107.1 MHz
+http://streaming.magneticafm.com/emision
 #EXTINF:0,Magnética FM XHPECD 89.7 MHz
 https://magneticaxhpecd.radioca.st/stream
 #EXTINF:0,Maha FM HD
@@ -11487,8 +11501,6 @@ https://rrdns-megasistema.webnow.com.br/mega.aac
 http://megaspice.primcast.com:5216/listen.mp3
 #EXTINF:0,Megahits
 https://s33.maxcast.com.br:8248/live
-#EXTINF:0,Megalatina FM 100.1
-http://turadioenvivo.com:11013/stream
 #EXTINF:0,Mega Music
 http://stream-47.zeno.fm/bv7pq6cg7s8uv?zs=LYBLu0kVQhSP4R-StRQlgQ
 #EXTINF:0,MEGA RADIO Berlin
@@ -11964,7 +11976,7 @@ https://stream.zeno.fm/trw3pmru2nhvv
 #EXTINF:0,Nara24 FM
 https://cast4.asurahosting.com/proxy/kamulite/stream
 #EXTINF:0,Cap Ouest - Ile de Ré
-http://naradio.ice.infomaniak.ch/capouest-192.mp3
+https://naradio.ice.infomaniak.ch/naradio-192.mp3
 #EXTINF:0,Nashbrazil
 http://stm18.conectastm.com:10606/stream/1/
 #EXTINF:0,Natagalá 94.7 FM
@@ -13793,8 +13805,6 @@ http://audiostreamen.nl:8044/stream/1/
 http://198.105.216.204:8082/;
 #EXTINF:0,Radio Bluebell
 http://stream.radiobluebell.com:8000/bluebell_hi
-#EXTINF:0,Radio BNW
-https://radio.radiobnw.ga/stream
 #EXTINF:0,Radio Boa Esperanca
 https://player.srvstm.com/proxy/16692
 #EXTINF:0,Radio Boa Noticia FM
@@ -14883,8 +14893,6 @@ http://stream-43.zeno.fm/tkdnn0xvpv8uv?zs=52ZX2cKaTuqQEoORJH3I5Q
 https://radios.justweb.pt/8030/stream
 #EXTINF:0,RadioJonvlogs21
 https://stream.zeno.fm/y2fr3wuvezzuv
-#EXTINF:0,Rádio Jornal AM 1120
-http://suaradio2.dyndns.ws:10344/stream
 #EXTINF:0,Rádio Jornal da Manha Ijuí
 https://centova4.transmissaodigital.com:20066/stream/1/
 #EXTINF:0,Radio Jornal de Barretos
@@ -14993,8 +15001,6 @@ https://emiteradio.com/proxy/argonline?mp=%2Fstream
 https://stream.zeno.fm/vmgh9na2dzzuv
 #EXTINF:0,Radio Lanciano
 https://s1.forstream.it/listen/radio_lanciano/stream
-#EXTINF:0,Radio La Negra
-https://rln.redenfoques.com.ar:8000/radio.mp3
 #EXTINF:0,Radio La Nueva Republica
 http://167.114.131.90:5200/;
 #EXTINF:0,Radio La Potranca
@@ -15805,8 +15811,6 @@ http://mpc2.mediacp.eu:8210/stream/1/
 https://stream.zeno.fm/23s96fz3tm0uv
 #EXTINF:0,Radio Puerto Montt 107.5 fm
 http://stream.zeno.fm/9ysukb9cdtwtv
-#EXTINF:0,Radio Puerto Real
-https://prealserver.ga/radio/8000/radio.mp3
 #EXTINF:0,Radio Puglia
 http://audio1.meway.tv:8108/;
 #EXTINF:0,Radio Puglia Centrale
@@ -16569,8 +16573,6 @@ https://stream.zeno.fm/rydt8udhqxquv
 http://centova.questreaming.com:4080/;
 #EXTINF:0,Radio Uno Viedma
 http://streaming01.shockmedia.com.ar:9834/;stream
-#EXTINF:0,Radio UNU
-https://online.radiounu.ga/stream
 #EXTINF:0,Rádio Up - Sertaneja
 https://srv3.radioup.net/listen/redeup/live
 #EXTINF:0,Radio USAL
@@ -16929,8 +16931,6 @@ http://yayin2.canliyayin.org:8866/;*.mp3
 http://95.173.162.188:9952/;
 #EXTINF:0,Radyo Haber
 http://yayin2.yayindakiler.com:4118/;
-#EXTINF:0,Radyo Hacettepe
-http://193.140.237.20:8000/stream
 #EXTINF:0,Radyo Hazar
 http://radyohazar.canliyayinda.com:8286/;
 #EXTINF:0,Radyo Ihya FM
@@ -17523,6 +17523,8 @@ https://stream.rtlradio.de/rtl-de-beste-hits/mp3-128/RadioDE/
 https://stream.rtlradio.de/rtl-de-national/mp3-128/RadioDE/
 #EXTINF:0,RTL – Deutschlands Hit-Radio 93.3 – 97.0
 https://stream.rtlradio.de/rtl-de-ukw/mp3-128/RadioDE/
+#EXTINF:0,RTL Réunion
+https://rtlreunion.ice.infomaniak.ch/rtlreunion-64.aac
 #EXTINF:0,RTL Weihnachtsradio - Greatest Hits
 https://stream.rtlradio.de/xms-greatesthits/mp3-192/radiode
 #EXTINF:0,RTM - Radio Torre Macauda
@@ -18019,6 +18021,8 @@ https://s1.citrus3.com:8054/stream
 https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
 #EXTINF:0,Spectrum FM Costa Almería
 https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
+#EXTINF:0,Spectrum FM - Classic Disco
+https://eu8.fastcast4u.com/proxy/spectrumdisco?mp=/1
 #EXTINF:0,Spectrum FM Costa Blanca
 https://eu8.fastcast4u.com/proxy/spectrumcbn2?mp=/1
 #EXTINF:0,Spectrum FM South Costa Blanca & Costa Cálida
@@ -19497,8 +19501,6 @@ https://stream.zeno.fm/3benqmz4dm8uv
 https://stream.zeno.fm/2g8zud6dam8uv
 #EXTINF:0,Web Radio Network Renato Zero
 https://stream.zeno.fm/33wpbnygam8uv
-#EXTINF:0,Web Radio Nova Brasil
-http://hts01.kshost.com.br:8356/live
 #EXTINF:0,Webradio Pes De Cristo
 https://servidor32-1.brlogic.com:8044/live
 #EXTINF:0,Web Radio Petrolandia
@@ -20341,6 +20343,8 @@ https://ice24.securenetsystems.net/WYBZFM
 https://ice626.securenetsystems.net/WYCY
 #EXTINF:0,WYLC RADIO-Varity (Vintage Rock &amp; Classic Country
 https://wylcradio.com/
+#EXTINF:0,WYPL 89.3 FM
+https://ice64.securenetsystems.net/WYPL
 #EXTINF:0,WYRE-FM - The WYRE 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBHUFM.mp3
 #EXTINF:0,WYSX - Yes FM 96.7 FM

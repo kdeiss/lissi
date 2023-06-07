@@ -2529,8 +2529,6 @@ http://listen-nation.sharp-stream.com/tcbridge.aac
 http://centova.radios.pt:8491/stream/1/
 #EXTINF:0,Bright FM
 https://stream.bright.fm/proxy/bright1?mp=/bfm-mp3
-#EXTINF:0,Brightstar Studios
-https://s17.ssl-stream.com/proxy/brightstar?mp=/stream&1684313417739
 #EXTINF:0,Brillux Radio
 https://web.streams.brillux.radio/brillux-radio?aggregator=radiode
 #EXTINF:0,Britain Radio 355
@@ -3681,6 +3679,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 https://classic105-atunwadigital.streamguys1.com/classic105
 #EXTINF:0,Classic 21 Live
 https://radio.rtbf.be/c21-live/mp3-128/rf
+#EXTINF:0,Classic FM 94.3 Abuja
+http://origin.atunwadigital.streamguys1.com/classicfmabuja
 #EXTINF:0,Classic FM 97.3 Lagos
 http://classicfmlagos.atunwadigital.streamguys1.com/classicfmlagos
 #EXTINF:0,Classic FM 91.1 Port Harcourt
@@ -9191,6 +9191,8 @@ https://ice8.securenetsystems.net/KYSL
 https://playerservices.streamtheworld.com/api/livestream-redirect/KYUKAM.mp3
 #EXTINF:0,KYZK Star 107.5
 https://ice24.securenetsystems.net/KYZK
+#EXTINF:0,KZBE B-104.3 FM
+http://64.139.97.37:88/broadwave.mp3?rate=1&src=2
 #EXTINF:0,KZDY Z-96.3 The Lake
 https://ice23.securenetsystems.net/KZDY
 #EXTINF:0,KZLT 104.3 Cities FM
@@ -15668,7 +15670,7 @@ https://s1.mcast.digital/listen/m40/m40radio-128.mp3
 #EXTINF:0,M40
 https://s1.mcast.digital/listen/m40/m40radio-128.mp3
 #EXTINF:0,M80 - Portugal
-https://media3.mcr.iol.pt/wrm80/m80nacional.aac/icecast.audio
+https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 #EXTINF:0,M80'S RADIO
 http://192.111.140.11:8524/stream
 #EXTINF:0,M90 Radio
@@ -16746,7 +16748,7 @@ https://www.radiohosting.online/stream/?puerto=9902/wcpe.mp3
 #EXTINF:0,Nara24 FM
 https://cast4.asurahosting.com/proxy/kamulite/stream
 #EXTINF:0,Cap Ouest - Ile de Ré
-http://naradio.ice.infomaniak.ch/capouest-192.mp3
+https://naradio.ice.infomaniak.ch/naradio-192.mp3
 #EXTINF:0,NAradio.pt
 https://ssl.evsportugal.net:8040/stream/1/
 #EXTINF:0,Nardoni Radio Goga
@@ -18509,6 +18511,8 @@ http://live.primafm958.com:8004/stream/1/
 http://onair20.xdevel.com:8148/;
 #EXTINF:0,Primaradio Sicilia
 http://onair15.xdevel.com:8066/;
+#EXTINF:0,Radio Primavera GC 107.3 FM
+https://stream.radio-pv.com/
 #EXTINF:0,Primavera Sound Radio
 https://streamer.radio.co/s23e62020a/listen
 #EXTINF:0,Prime Radio 100.3 FM
@@ -18999,6 +19003,8 @@ http://hts08.kshost.com.br:11052/stream/1/
 http://94.23.6.107:8505/stream/1/
 #EXTINF:0,Radio 54
 http://servidor31.brlogic.com:8030/live
+#EXTINF:0,Radio 5 Coki
+http://213.135.172.118:8000/;
 #EXTINF:0,Radio 5 Turkey
 http://radio5tr.canliyayinda.com:4108/stream/1/
 #EXTINF:0,Radio66Grad
@@ -19473,8 +19479,6 @@ http://stream.radiobluebell.com:8000/bluebell_hi
 https://dreisig.stream.laut.fm/dreisig?
 #EXTINF:0,Radio Blue Monster
 http://server35146.streamplus.de:10252/;
-#EXTINF:0,Radio BNW
-https://radio.radiobnw.ga/stream
 #EXTINF:0,RADIO BOB! BOBs Festival-Stream
 https://streams.radiobob.de/bob-festival/mp3-192/radiode/
 #EXTINF:0,RADIO BOB! BOBs Kuschelrock 
@@ -19569,6 +19573,8 @@ http://radio.upstream-cloud.ch/canal3allemand-128.mp3
 https://radio.upstream-cloud.ch/canal3francais-128.mp3
 #EXTINF:0,Radio Canale Italia
 https://rci.canaleitalia.tv:8007/;
+#EXTINF:0,Rádio Candidés
+http://paineldj5.com.br:9740/stream
 #EXTINF:0,Radio Cantemos
 https://cloudstream2034.conectarhosting.com/8160/stream
 #EXTINF:0,Ràdio Cap a Cap
@@ -19683,6 +19689,8 @@ https://stream.zeno.fm/629ztr1gs18uv
 https://ecmanager4.pro-fhi.net/radiocigale
 #EXTINF:0,Cerise FM 88.2
 https://stream.rcs.revma.com/q90fb3dwnwzuv.mp3
+#EXTINF:0,Radio Circuito Mix
+https://centova01.logicahost.com.br:20003/stream/1/
 #EXTINF:0,Rádio Cister
 http://centova.radio.com.pt:8453/stream/1/
 #EXTINF:0,Radio Città 105
@@ -21455,8 +21463,6 @@ https://streams.radiopsr.de/psr-live/mp3-128/radiode/
 http://mpc2.mediacp.eu:8210/stream/1/
 #EXTINF:0,Radio Public Santé
 https://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3
-#EXTINF:0,Radio Puerto Real
-https://prealserver.ga/radio/8000/radio.mp3
 #EXTINF:0,Radio Püttlingen
 https://stream.laut.fm/radiopuettlingen?ref=radiode
 #EXTINF:0,Radio Pulchérie
@@ -22615,6 +22621,8 @@ http://45.32.154.169:8054/;stream.mp3
 https://streams.rautemusik.fm/rautemusik_radyomerhaba/aac-48/
 #EXTINF:0,Radyo Moda 102.5
 https://yayin.radyomoda.com.tr/80/;stream
+#EXTINF:0,RADYONET
+http://radyo.yayindakiler.com:3925/stream/1/
 #EXTINF:0,Radyonne
 https://stream.radyonne.fr/stream
 #EXTINF:0,Radyo ODTÜ
@@ -23301,8 +23309,6 @@ http://radio3.logicahost.com.br:8655/stream/1/
 https://radioroxy.hu/stream_320k
 #EXTINF:0,RoyalFM
 http://streaming.radioroyal.org:8024/hi;
-#EXTINF:0,Rozendaal
-https://uk6.internet-radio.com/proxy/eradio2440?mp=/live
 #EXTINF:0,Cesky Rozhlas 3 - Vltava
 http://icecast5.play.cz:8000/cro3-128.mp3
 #EXTINF:0,Radio Pays d'Aurillac
@@ -23465,6 +23471,8 @@ http://stm1.rthk.hk/radio2
 http://stm1.rthk.hk/radio3
 #EXTINF:0,RTHK Putonghua
 http://202.177.192.119/radiopth
+#EXTINF:0,RTin Radio
+https://nr14.newradio.it:8783/stream
 #EXTINF:0,RTL2
 https://icecast.rtl.fr/rtl2-1-44-128
 #EXTINF:0,RTL2 LITTORAL 96.1 FM
@@ -23633,6 +23641,8 @@ http://iskon2b.out.airtime.pro:8000/iskon2b_a
 https://radio.sailmagicradio.com/radio/8000/radio.mp3
 #EXTINF:0,Sakura Radio
 https://stream-57.zeno.fm/7x34ndtxnfhvv?zs=METuZOGsTMm7GnAzob-ftg&1664883738005
+#EXTINF:0,Radio Salentuosi
+http://178.32.146.187:5334/;&type=mp3
 #EXTINF:0,Salford City Radio
 http://live.canstream.co.uk:8000/scr
 #EXTINF:0,Salland 1
@@ -26617,8 +26627,6 @@ https://serv1-online-ca.net/radio/8010/wildvibesradio.mp3
 https://ice24.securenetsystems.net/WILE?
 #EXTINF:0,Willem II Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S06.mp3
-#EXTINF:0,Radio WillphMIX
-https://radio.willphmix.ga/radio-willphmix/?play=1
 #EXTINF:0,Wind FM
 https://turadio.accesopanel.com/8382/stream
 #EXTINF:0,WIND RADIO
