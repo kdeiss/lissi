@@ -1303,6 +1303,8 @@ https://cast3.server89.com:8210/radio.mp3
 http://88.198.175.30:5099/stream/1/
 #EXTINF:0,Harmoni FM
 https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+#EXTINF:0,harmony.fm
+https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
 #EXTINF:0,Harmony
 http://173.208.177.90:13410/stream/1/
 #EXTINF:0,HARMONYS JUKEBOX
@@ -1499,8 +1501,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
 https://stream.joe.nl/joe/aachigh
 #EXTINF:0,The Jonathan Channel
 https://tjc.wnyc.org/js-stream
-#EXTINF:0,Joya FM
-https://stream-149.zeno.fm/53lxdmvehwrvv
 #EXTINF:0,JOYradio
 http://87.98.242.139:8110/stream/1/
 #EXTINF:0,J-Pop Sakura Natsukashii
@@ -4849,6 +4849,8 @@ https://streaming.live365.com/a04907
 http://listen.mediatechusa.com:8000/wlnc
 #EXTINF:0,WLNG 92.1 FM
 http://sc7.shoutcaststreaming.us:8100/listen.pls
+#EXTINF:0,WLPK K Mix 106.9
+http://13.bteradio.com:9090/KMIX.mp3
 #EXTINF:0,94.7 WLS Chicago's Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
 #EXTINF:0,Saint Leo University Radio

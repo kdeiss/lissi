@@ -153,6 +153,8 @@ https://live-radio01.mediahubaustralia.com/5TJW/aac/
 https://674.fm/stream.m3u
 #EXTINF:0,80s80s Breakdance
 https://streams.80s80s.de/breakdance/mp3-192/radiode/
+#EXTINF:0,80s80s Depeche Mode
+https://streams.80s80s.de/dm/mp3-192/streams.80s80s.de/radio
 #EXTINF:0,80s DRIVE
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC
 #EXTINF:0,80s forever Young
@@ -463,8 +465,6 @@ https://cast1.asurahosting.com/proxy/beatradi/stream
 https://cast1.asurahosting.com/proxy/beatrad1/stream
 #EXTINF:0,Beats Radio
 https://satcom.rfchosting.ca:8100/stream/1/
-#EXTINF:0,Beats4u
-https://server36093.streamplus.de/stream.mp3
 #EXTINF:0,Beats Online CR
 https://streamingv2.shoutcast.com/beats-online-cr
 #EXTINF:0,Beatz4you
@@ -1231,10 +1231,6 @@ https://stream2.radiodienst.de/proxy/toneart/djinthemix
 https://streamingv2.shoutcast.com/DJMagRadio
 #EXTINF:0,DJ Mag Germany Radio by iloveradio.de
 https://stream02.iloveradio.de/iloveradio4.mp3
-#EXTINF:0,North West Radio
-https://radio.streemlion.com:5930/stream
-#EXTINF:0,Dj mix radio
-http://radio.streemlion.com:5330/stream
 #EXTINF:0,DJ Pflow Radio
 http://s3.reliastream.com/proxy/ipadilla/stream
 #EXTINF:0,DJ Radio Romania
@@ -1645,8 +1641,6 @@ https://stream-57.zeno.fm/p61t240vvk8uv?zs=TUUQYLUUQdGIXnr7uTKa6Q
 https://stream.zeno.fm/0snf1r835k0uv
 #EXTINF:0,Freedom Radio Brasil
 http://sv11.hdradios.net:7264/stream/1/
-#EXTINF:0,Free Fm UK
-https://stream.freefm.co.uk:8020/radio1.mp3
 #EXTINF:0,DanceRadio Freestyle FM
 https://streamingv2.shoutcast.com/FreestyleFM
 #EXTINF:0,Free Yuor Mind
@@ -2075,6 +2069,8 @@ http://635.cloudrad.io:8092/live
 https://instyleradio.s02.radio-tochka.com:5065/radio
 #EXTINF:0,Intensa FM
 https://streaming12.elitecomunicacion.es:8006/stream?ver=259582
+#EXTINF:0,Intense Radio
+https://intenseradio.live-streams.nl:18000/live
 #EXTINF:0,Intercontinental DJ's
 http://stream.zenolive.com/xwaw2t73bveuv
 #EXTINF:0,Intergalactic FM 3 - Radio Galaxia
@@ -4521,6 +4517,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/55513/mp3_128.mp3?origine=radio.net
 https://scdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRK P3
 https://lyd.nrk.no/nrk_radio_p3_mp3_m.m3u
+#EXTINF:0,NST Music FM 
+http://80.211.203.79:8020/nstmusicfm
 #EXTINF:0,Radio NTI
 https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3
 #EXTINF:0,One Dance
@@ -5107,6 +5105,8 @@ http://95.217.75.38:9826/stream.mp3
 https://stream.radiochablais.ch/chablais-swissmade.aac
 #EXTINF:0,Rádio Cidade 100,1
 http://sl.dnip.com.br:10376/stream/1/
+#EXTINF:0,Radio Circuito Mix
+https://centova01.logicahost.com.br:20003/stream/1/
 #EXTINF:0,Radio City Dance
 https://stream.zeno.fm/ugqasdpvyc9uv
 #EXTINF:0,Radio City Electronica
@@ -5987,10 +5987,10 @@ http://85.214.204.189:8000/live
 http://188.165.240.90:8976/stream
 #EXTINF:0,SDX synthetic experience
 http://radio.dawnshadow.se:8000/stream
-#EXTINF:0,Seaside Radio Blackpool
-https://radio.streemlion.com:5660/stream
 #EXTINF:0,SEDUCTION DANCE TUNES RADIO
 https://24streams.gr/8057/stream
+#EXTINF:0,SeeJay Radio
+https://live.seejay.cz/seejay128.aac
 #EXTINF:0,Selectro Radio
 https://radio7.pro-fhi.net/listen-tzpakfon-stream.mp3
 #EXTINF:0,Sensación FM - Beat
@@ -6053,6 +6053,8 @@ http://relay4.slayradio.org:8000
 https://ecmanager5.pro-fhi.net:2305/stream
 #EXTINF:0,SMART RADIO
 http://stream.glueckserver.de:8000/smartradio.mp3
+#EXTINF:0,Smooth Lounge Radio Channel
+https://radio3.pro-fhi.net/radio/9022/stream.mp3
 #EXTINF:0,Sobre Ruedas Radio
 https://stream.zeno.fm/cq777w3k1qzuv
 #EXTINF:0,SOCIAL RADIO
@@ -6765,8 +6767,6 @@ https://fred.torontocast.com:1345/stream
 https://ice9.securenetsystems.net/WHTP?playSessionID=8E3932B5-0115-2C1D-701435E714952D77
 #EXTINF:0,Wild1 Radio
 http://wildone.out.airtime.pro:8000/wildone_b
-#EXTINF:0,Radio WillphMIX
-https://radio.willphmix.ga/radio-willphmix/?play=1
 #EXTINF:0,Wit Club
 https://witclub.ice.infomaniak.ch/witclub.mp3
 #EXTINF:0,Wit FM

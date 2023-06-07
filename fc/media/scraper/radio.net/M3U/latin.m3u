@@ -763,6 +763,8 @@ https://alpha.radioplayer.com.ar:9180/fantastica-chilecito
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632c9c1cbc02c60329991efa/playlist.m3u8
 #EXTINF:0,Fantástica - Cali
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cb854b70c350af5bc290b/playlist.m3u8
+#EXTINF:0,Fapatur Radio
+http://fapatur1.no-ip.biz:9000/;
 #EXTINF:0,Fara Fara Radio
 https://panel.retrolandigital.com/radio/8190/listen
 #EXTINF:0,Radio Felicidad 1180 AM
@@ -941,8 +943,8 @@ https://str0.creacast.com/capsao?radiode
 https://streamingp.shoutcast.com/hotmixradio-latino-64.aac?radiofr
 #EXTINF:0,Latino - my105ritmolatino
 http://stream01.my105.ch/my105ritmolatino.mp3?radiode
-#EXTINF:0,LATIN PARTY - Loca Latino Canarias
-https://radio.mdworks.xyz:8451/urban-web
+#EXTINF:0,LATIN PARTY - Canal Fiesta Radio
+https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/chunklist_b250000.m3u8
 #EXTINF:0,Hitmics
 http://149.56.241.149:8076/stream/1/
 #EXTINF:0,HITS 1 Latina
@@ -1047,6 +1049,8 @@ https://stream.zeno.fm/9afg4cnz5k0uv
 https://server.radiogs.net/8182/stream
 #EXTINF:0,KNVO FM - José FM 101.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
+#EXTINF:0,Joya FM
+https://stream-149.zeno.fm/53lxdmvehwrvv
 #EXTINF:0,JR.FM Latin Beats
 http://108.59.9.147/stream/jperil00.pls?mp=/stream
 #EXTINF:0,JR.FM Latin Pop
@@ -1281,8 +1285,12 @@ http://stream.zeno.fm/xrwkng3k9rhvv.aac
 http://rvn01.painelstream.net:8412/stream/1/
 #EXTINF:0,La Maquina Musical
 http://167.114.131.90:5824/;
+#EXTINF:0,La Más Buena Matamoros 107.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVTHFM.mp3
 #EXTINF:0,La Más Buena Monterrey 105.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPAGFM.mp3
+#EXTINF:0,La Más Buena Torreón
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVTHFM_SC
 #EXTINF:0,LA MÁS FREGONA JM
 https://centova.hostingelectrica.net/proxy/fregona_21?mp=%2Fstream
 #EXTINF:0,La Mas Latina Lanzarote
@@ -1933,8 +1941,6 @@ http://server7.servistreaming.com:10007/stream?type=.mp3
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7174/listen.pls
 #EXTINF:0,Novedades Radio
 https://stream.zeno.fm/w3zdg28b6zhvv
-#EXTINF:0,npmradio
-https://stream.zeno.fm/f7hbnx9f5a0uv
 #EXTINF:0,NRJ FIESTA
 https://scdn.nrjaudio.fm/adwz1/fr/31247/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ FIESTA LATINA
@@ -2165,6 +2171,8 @@ https://sp.sintonizapp.com:7026/stream
 https://c11.radioboss.fm:18273/stream
 #EXTINF:0,Radio AK 21
 https://centova.hostingelectrica.net/proxy/radio_ak21?mp=/stream
+#EXTINF:0,Radio Alegre
+https://live.hbstreaming.com/radioalegre
 #EXTINF:0,Radioalfa10 Latin hits
 https://stream.zeno.fm/1vdk4k7ksqzuv
 #EXTINF:0,Radioalfa20 Latin Hits
@@ -2481,8 +2489,6 @@ http://streaming.hdserver.biz:9330/stream/1/
 https://cp.sonicpanel.stream/8204/stream
 #EXTINF:0,Radio Markasa
 http://stream-57.zeno.fm/5b0mfy5tnv8uv?zs=OFaOw-RCQZiRAewd0J5MrQ
-#EXTINF:0,RADIO MARK COLOMBIA 98.8 FM
-https://radiohd.streaminghd.co:7565/stream
 #EXTINF:0,Radiomar Plus
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR.mp3
 #EXTINF:0,Radio Más
@@ -2937,8 +2943,6 @@ http://144.217.15.135:8000/stream/2/
 https://usa18.fastcast4u.com/proxy/soysonid2?mp=/1
 #EXTINF:0,SoulRoots Radio
 https://streams.radio.co/sbdfc075c0/listen
-#EXTINF:0,Radio Studio Souto - Boleros em Seresta
-https://centova5.transmissaodigital.com:20009/stream
 #EXTINF:0,Soybachatero
 https://stmundial.net/8042/stream
 #EXTINF:0,Soy FM 93.9

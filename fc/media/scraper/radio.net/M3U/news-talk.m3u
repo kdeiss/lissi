@@ -2663,6 +2663,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHLRSFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/XETFM_SC.mp3
 #EXTINF:0,La Caliente Nuevo Laredo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNLOFM.mp3
+#EXTINF:0,La Caliente Reynosa 93.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAAAFM.mp3
 #EXTINF:0,La Caliente San Luis 97.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSNPFM.mp3
 #EXTINF:0,La Caliente Tampico 94.5 FM
@@ -3133,8 +3135,6 @@ https://livefastly-webs.ondacero.es/barcelona-pull/audio/master.m3u8
 https://livefastly-webs.ondacero.es/bilbao-pull/audio/master.m3u8
 #EXTINF:0,Onda Cero Cádiz
 https://livefastly-webs.ondacero.es/cadiz-pull/audio/master.m3u8
-#EXTINF:0,Onda Cero Calatayud
-http://server6.20comunicacion.com:8030/stream?nocache=7282&type=http
 #EXTINF:0,Onda Cero Cantabria
 https://livefastly-webs.ondacero.es/santander-pull/audio/master.m3u8
 #EXTINF:0,Onda Cero Cartagena
@@ -3689,8 +3689,6 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
-#EXTINF:0,Radio FM Oasis 95.7
-http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://sg.centrocibernetico.com/formula103
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -4615,6 +4613,8 @@ https://radiostream.pl/tuba10-1.mp3
 https://s48.radiolize.com/radio/8100/radio.mp3
 #EXTINF:0,Radio Tordera 107.1 FM
 https://enacast.com/radiotordera/streams/HD
+#EXTINF:0,TransAfricaRadio
+http://iceant.antfarm.co.za:8000/TransAfricaRadio
 #EXTINF:0,Radio 7
 http://api.play.cz/radio/radio7-128.mp3.m3u
 #EXTINF:0,TreasureCoastRadio.com
@@ -5969,6 +5969,8 @@ https://xevavilla.centrocibernetico.com/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/XKFMAAC_SC
 #EXTINF:0,XN Radio
 https://stream.zeno.fm/xupt8fmaf2zuv?rj-tok=AAABeCxFSKsAGCSaCiPMncny3w&rj-ttl=5
+#EXTINF:0,Xpress Radio
+https://uksoutha.streaming.broadcast.radio:16390/xpress
 #EXTINF:0,YB FM
 https://stream.zeno.fm/40089b2m1c9uv
 #EXTINF:0,Yeshua Messianic Radio
