@@ -236,7 +236,7 @@ https://s5.myradiostream.com/42782/listen.mp3
 #EXTINF:0,beradio
 https://radio.streamings.gr/proxy/beradio?mp=%2Flive
 #EXTINF:0,Best-of-Trance-Radio
-https://s11.streamcaster.eu:8243/stream1
+https://s11.streamcaster.eu:8243/stream1/;listen.pls
 #EXTINF:0,the-best-sound-house-radio
 http://193.26.157.100:8004/stream/1/
 #EXTINF:0,Big Beats Radio
@@ -487,6 +487,8 @@ https://server.danpenradio.net/radio/8000/radio.mp3
 https://liveradio.swr.de/rddez3a/raka12/
 #EXTINF:0,DASH Space Bass
 https://ice55.securenetsystems.net/DASH23
+#EXTINF:0,DASH Subdustrial
+https://ice55.securenetsystems.net/DASH25
 #EXTINF:0,DASH Zoetic
 https://ice55.securenetsystems.net/DASH45
 #EXTINF:0,Datça OnAir
@@ -2745,8 +2747,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3
 #EXTINF:0,Traffic Radio Station
 http://radio.networx-bg.com:8002/listen.pls
-#EXTINF:0,Traxx.FM Deep
-http://traxx011.ice.infomaniak.ch/traxx013-high.mp3
 #EXTINF:0,Traxx.FM House
 https://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 #EXTINF:0,truckersnl.com channel 1

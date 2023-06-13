@@ -183,6 +183,8 @@ http://51.79.167.17:7000/airtime_128
 http://rstream.mcot.net:9014/;
 #EXTINF:0,MCOT Kamphaeng Phet
 http://rstream.mcot.net:9002/
+#EXTINF:0,MCOT Kanchanaburi
+http://rstream.mcot.net:9010/;
 #EXTINF:0,MCOT Lang Suan
 http://rstream.mcot.net:9018/;
 #EXTINF:0,MCOT Phichit
@@ -242,9 +244,11 @@ http://209.97.134.54:8000/radiofaza
 #EXTINF:0,Radio Muara 693 AM Jakarta
 http://45.64.97.82:8778/;stream.nsv
 #EXTINF:0,Radio Suka-Suka
-http://s9.viastreaming.net/7060/listen_aac.asx
+http://s9.viastreaming.net/cgi-bin/scproxy.cgi?port=7060
 #EXTINF:0,Radio XL
 https://xlradio.co.uk:8000/stream/1/
+#EXTINF:0,rajiokakumeifmpro
+https://streaming.shoutcast.com/rajiokakumeifmpro
 #EXTINF:0,RASfm Jakarta 95.5 FM
 https://i.klikhost.com/9006/stream
 #EXTINF:0,Rau 105 FM
