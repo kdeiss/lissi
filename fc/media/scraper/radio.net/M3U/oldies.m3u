@@ -377,14 +377,10 @@ http://stream.laut.fm/antennekorbach1
 https://streams.antennemv.de/ddrhitgig/mp3-192/radiode/
 #EXTINF:0,AMV Oldies
 https://streams.antennemv.de/oldies/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen 80er
+#EXTINF:0,80er - Antenne Niedersachsen
 https://stream.antenne.com/antenne-nds-80er/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Love
-https://stream.antenne.com/love/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Oldies
+#EXTINF:0,Oldies - Antenne Niedersachsen
 https://stream.antenne.com/oldies/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Schlager
-https://stream.antenne.com/schlager/mp3-128/radiode/
 #EXTINF:0,OLDIE ANTENNE – Oldies but Goldies
 https://stream.oldie-antenne.de/oldie-antenne/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,antenne OSTALGIE
@@ -691,8 +687,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KYCHFM.mp3
 https://chelmer.btsstream.com/stream/chelmer
 #EXTINF:0,Cherokee Nation Radio
 https://streaming.live365.com/a01102
-#EXTINF:0,Cherry Hill Radio
-https://stream.zeno.fm/qtypg5n3qpeuv
 #EXTINF:0,CHOR 105
 https://stream.zeno.fm/vwa4vttqkm0uv
 #EXTINF:0,Costa Hit Radio NL
@@ -1183,6 +1177,8 @@ https://funkyradio.streamingmedia.it/brasil
 https://funkyradio.streamingmedia.it/uk
 #EXTINF:0,FUNKY RADIO (USA)
 https://listen01.my-webradio.com/play.aac
+#EXTINF:0,Fun-Life-Music
+https://azura.nexusradio-hosting.de/listen/fun_life_music/stream
 #EXTINF:0,FunNightRadio
 http://f-nr.eu:8050
 #EXTINF:0,GABMS Mostly Sinatra 24/7
@@ -1777,6 +1773,8 @@ https://ice41.securenetsystems.net/KYLS
 http://www.ophanim.net:9200/stream/1/
 #EXTINF:0,KYNZ GTO 107.1 FM
 https://ice64.securenetsystems.net/KYNZ?playSessionID=3F85131C-D415-5A48-61E9A5D3B44B61FB
+#EXTINF:0,KZBL 100.7 FM
+http://104.243.161.137:88/broadwave.mp3
 #EXTINF:0,KZFX HD 3 Cruising Oldies
 https://ais-sa2.cdnstream1.com/1571_128
 #EXTINF:0,La Bonita X101
@@ -3548,7 +3546,7 @@ https://radioflora.de/stream/live48.mp3
 #EXTINF:0,radiofmwolf
 https://fred.torontocast.com:1205/stream
 #EXTINF:0,RadioForum2
-http://178.33.33.176:8110/
+https://s7.streamcaster.eu:8112/stream1
 #EXTINF:0,Radiofoxgarden
 https://www.radiofoxgarden.de/listen.pls
 #EXTINF:0,radio freak
@@ -4363,8 +4361,6 @@ http://gemini.shoutca.st:8047/stream
 http://87.237.169.24:8000/live
 #EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
-#EXTINF:0,Sunshine-radio.eu
-http://138.201.234.215:11205/stream/1/
 #EXTINF:0,Super FM Brasov
 https://live.superfm.ro/stream.mp3?source=radionet
 #EXTINF:0,Rádio Super Funk Melody

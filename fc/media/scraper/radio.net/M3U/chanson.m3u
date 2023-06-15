@@ -25,6 +25,8 @@ https://www.radioking.com/play/antinea/63289
 https://streaming.antipode.be/antipode.mp3
 #EXTINF:0,ARL Aquitaine Radio Live
 https://arlaquitaineradiolive.ice.infomaniak.ch/arlaquitaineradiolive-128.mp3
+#EXTINF:0,ATAX radio
+https://panel.mediacp.fr:8022/stream
 #EXTINF:0,Radio Fil de I'Eau - Fleurance
 https://hosting.studioradiomedia.fr:2735/stream
 #EXTINF:0,Radio Fil de I'Eau - Isle Jourdain
@@ -223,12 +225,10 @@ https://sr3.publicssl.net/srv/8358/stream
 https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8
 #EXTINF:0,Mega FM
 https://megafm.ice.infomaniak.ch/megafm-64.aac
-#EXTINF:0,Metropolisse Radio
-https://panel.mediacp.fr:8022/stream
 #EXTINF:0,Meuse FM - Bar-Le-Duc
 https://www.radioking.com/play/meuse-fm-bar-le-duc-commercy
 #EXTINF:0,Mistral FM
-http://mistralfm.bcast.infomaniak.ch:8000/mistralfm-high.mp3
+http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
 #EXTINF:0,MIXX FM
 https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 #EXTINF:0,Radio Montmartre
@@ -364,7 +364,7 @@ https://n15a-eu.rcs.revma.com/c1w54gp2kv8uv
 #EXTINF:0,Radio PAC (Pompadour Air Campagne)
 http://serveur3.wanastream.com:18200/;
 #EXTINF:0,RPA - la Radio du Pays d'Arles
-http://server.syndicastream.com/tunein.php/rpa/playlist.pls
+http://rparadiodupaysdarles.ice.infomaniak.ch/rparadiodupaysdarles-128.mp3
 #EXTINF:0,Radio Plus
 http://151.2.162.202:8000/plus128k
 #EXTINF:0,Radio Quartz
@@ -430,7 +430,7 @@ https://radiola.me/radio/8030/radio.mp3
 #EXTINF:0,RTBF La Première
 https://radio.rtbf.be/lapremiere/mp3-160/rf
 #EXTINF:0,RVM Charleville
-https://stream.rcs.revma.com/pz66me32fchvv/hls.m3u8
+https://stream.rcs.revma.com/wev2dh7qyhhvv/hls.m3u8
 #EXTINF:0,RVM Ardennes
 https://stream.rcs.revma.com/pz66me32fchvv
 #EXTINF:0,RVM Bogny-sur-Meuse

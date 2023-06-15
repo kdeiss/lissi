@@ -62,7 +62,7 @@ https://stream.radiojar.com/redfm963
 #EXTINF:0,98.2 The Beat 
 http://198.7.62.157:8007/
 #EXTINF:0,Radio Aalto
-https://supla.digitacdn.net/live/_definst_/supla/radioaalto/chunklist.m3u8
+http://digitacdn.akamaized.net/hls/live/629243/radioaalto/master-128000.m3u8
 #EXTINF:0,Rádio Abdallah 104.1 FM
 http://server3.webradios.com.br:9338/9338
 #EXTINF:0,Absolut Lovesongs
@@ -85,8 +85,6 @@ https://allzic34.ice.infomaniak.ch/allzic34.mp3
 https://allzic34.ice.infomaniak.ch/allzic34.mp3
 #EXTINF:0,AM1140 Radio
 https://goldenwest.leanstream.co/goldenwest/CHRBAM.stream/playlist.m3u8
-#EXTINF:0,Ama Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2658893_SC.mp3
 #EXTINF:0,AMBATO EN VIVO
 https://stream.zeno.fm/dks53hz8xnhvv
 #EXTINF:0,Amiga Radio Web
@@ -125,8 +123,6 @@ https://stream.antenne.de/lovesongs/stream/mp3?aw_0_1st.playerid=radio.de
 https://stream.lokalradio.nrw/444zx6x
 #EXTINF:0,AMV Liebeslieder
 https://streams.antennemv.de/amv-love/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Love
-https://stream.antenne.com/love/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Love Radio
 http://stream.antenneniederrhein.de/444zwpx
 #EXTINF:0,Antenne Überdosis Gfühl
@@ -489,6 +485,8 @@ https://musicserver2.m-hosting.eu:8035/stream
 https://horizonlove.ice.infomaniak.ch/horizonlove-128.mp3
 #EXTINF:0,Hot 100 Romántica
 https://buecrplb01.cienradios.com.ar/677_Hot_100_Romantica_32000.aac
+#EXTINF:0,Hot Hits love
+https://stream.zeno.fm/7vkg3yycd78uv
 #EXTINF:0,Hotmixradio SPORT
 https://streamingp.shoutcast.com/hotmixradio-sport-128.mp3
 #EXTINF:0,ICPRM RADIO Sweden
@@ -970,7 +968,7 @@ https://sonic.portalfoxmix.cl:7128/stream/1/
 #EXTINF:0,Power 98 Love Songs
 https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
 #EXTINF:0,Power Türk Love
-https://powerlove.listenpowerapp.com/powerlove/mpeg/icecast.audio
+http://powerlove.listenpowerapp.com/powerlove/mpeg/icecast.audio
 #EXTINF:0,Precious Radio Love
 https://preciousradio.net/proxy/love/stream
 #EXTINF:0,Pro-Radio 1
@@ -1365,8 +1363,6 @@ http://s1.audiorama.mx:6582/;stream
 https://romantica84-zikoxweb.radioca.st/;
 #EXTINF:0,Romántica 90.3 FM
 https://ice42.securenetsystems.net/XHQS
-#EXTINF:0,Romantica 90 FM
-http://puertoplataradio.com:8016/;
 #EXTINF:0,Romántica Baladas del amor
 https://streaming.live365.com/a98246
 #EXTINF:0,Romántica Radio

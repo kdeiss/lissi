@@ -92,7 +92,7 @@ http://streaming.radionomy.com/ambiancemusic
 #EXTINF:0,Angelsfox-Radio
 https://s37.derstream.net/afr128.mp3
 #EXTINF:0,Angels Love Radio
-http://radio.angelsloveradio.de:8600
+http://angelsloveradio.de/playlisten/listen.pls
 #EXTINF:0,Antenne AC - Dein Schlager Radio
 https://stream.antenneac.de/445238p
 #EXTINF:0,ANTENNE BAYERN - Oktoberfest Hits
@@ -115,9 +115,7 @@ https://streams.antennemv.de/bauerkorl/mp3-192/radiode/
 https://streams.antennemv.de/partymix/mp3-192/radiode/
 #EXTINF:0,AMV Schlager
 https://streams.antennemv.de/amv-schlager/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Schlager
-https://stream.antenne.com/schlager/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Schützenfest Hits
+#EXTINF:0,Schützenfest Hits - Antenne Niedersachsen
 https://stream.antenne.com/schuetzenfest/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Schlager Radio
 https://stream.antenneniederrhein.de/44523fx
@@ -323,6 +321,8 @@ https://media1.lafamilia-radio.de/main192.mp3
 https://media1.lafamilia-radio.de/schlager192.mp3
 #EXTINF:0,Family Radio
 https://fs1.stream24.net:8280/live.mp3
+#EXTINF:0,Radio Fantasy Island
+http://www.radio-fantasy-island.de:9000
 #EXTINF:0,Fehnradio
 http://streamplus16.leonex.de:20916
 #EXTINF:0,100% Malle-Hits von Feierfreund
@@ -2165,6 +2165,8 @@ https://stream.lokalradio.nrw/44522tf
 https://stream.lokalradio.nrw/44522zg
 #EXTINF:0,Radio Essen - Dein Schlager Radio
 https://stream.lokalradio.nrw/44522xx
+#EXTINF:0,Radio Europa Gran Canaria - Schlager Welle
+https://server9.emitironline.com:19144/
 #EXTINF:0,Radio Europa Tenerife - Schlager Welle
 https://server9.emitironline.com:19144/
 #EXTINF:0,Radio Euskirchen - Dein Schlager Radio
@@ -2677,8 +2679,6 @@ https://stream.laut.fm/rockundmetal?ref=radiode
 https://bayern.streampanel.net/whamkkhs?mp=/stream
 #EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
-#EXTINF:0,Sunshine-radio.eu
-http://138.201.234.215:11205/stream/1/
 #EXTINF:0,SuperGutesRadio
 http://37.59.82.10:12005/stream/1/
 #EXTINF:0,SWR4 Baden-Württemberg - SWR4 Stuttgart
@@ -2724,7 +2724,7 @@ https://str0.creacast.com/radiotirol_a
 #EXTINF:0,Tirolia-Express
 https://server-28.stream-server.nl:8846/stream
 #EXTINF:0,TMR-Radio.de 
-http://stream-a.tmr-radio.de:8000/live
+http://59713704.swh.strato-hosting.eu/
 #EXTINF:0,TopHits.FM Schlager
 https://stream.tophitsfm.de:8050/listen.mp3
 #EXTINF:0,RadioTotalCrazy.de

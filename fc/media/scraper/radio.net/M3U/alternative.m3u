@@ -255,6 +255,8 @@ https://bigrradio.cdnstream1.com/5132_128
 https://stream.live.vc.bbcmedia.co.uk/bbc_6music
 #EXTINF:0,Be 99.7 FM
 http://ca5.rcast.net:8070/stream.mp3
+#EXTINF:0,Bedda Radio
+https://beddaradio.radioca.st/stream
 #EXTINF:0,Be Inspired Radio Network
 https://us3freenew.listen2myradio.com/live.mp3?typeportmount=s1_37843_stream_776022430
 #EXTINF:0,bermuda.funk Freies Radio Rhein-Neckar
@@ -447,12 +449,8 @@ https://www.coastrockfm.com.au/live
 http://streaming.fueralle.org:8000/coloradio_160.mp3
 #EXTINF:0,Conexion Acustica
 https://stream.zeno.fm/81m8p8m47bruv
-#EXTINF:0,Radio Corax 
-http://stream.coraxonline.com/rdcx128.mp3
 #EXTINF:0,Corte Duende
 https://yesca.st/corteduende/
-#EXTINF:0,Cottage Radio
-https://jenny.torontocast.com:2000/stream/CottageRadio
 #EXTINF:0,RTS - Couleur 3
 https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/playlist.m3u8
 #EXTINF:0,CPR - indie 102.3
@@ -1828,7 +1826,7 @@ https://frontend.streamonkey.net/radioc-live?aggregator=radio.de
 #EXTINF:0,Radio Communautaire de Ferme Leblanc RCF
 https://usa11.fastcast4u.com/proxy/tuvhouiq?mp=%2F1
 #EXTINF:0,Radio Coteaux
-http://str80.streamakaci.com:7960/;
+http://str80.streamakaci.com:7960/listen.pls
 #EXTINF:0,Radio Deep Music
 http://stream-57.zeno.fm/0ca2urh8cm8uv?zs=3-fPVwoGTcGmVSWXe-tvTA
 #EXTINF:0,Radio Domino
@@ -1860,7 +1858,7 @@ https://securestreams6.autopo.st:2460/broadwave.mp3?src=1&rate=1
 #EXTINF:0,Radio FMR
 http://smeuh.org:8000/radio-fmr.mp3
 #EXTINF:0,RadioForum2
-http://178.33.33.176:8110/
+https://s7.streamcaster.eu:8112/stream1
 #EXTINF:0,Radio Foxy One
 https://sr11.inmystream.it/proxy/foxyone?mp=/stream
 #EXTINF:0,Radio Free Raleigh
@@ -2029,6 +2027,8 @@ https://streamingv2.shoutcast.com/RadioUPNCampusZacatecas
 https://radio.radiobot.org/listen/rvk/rvk.mp3
 #EXTINF:0,Radio Veronica
 https://shoutcast.k-planet.eu/8004/stream
+#EXTINF:0,Radio Vesánico
+https://radiosonline.one/radio/8390/radio.mp3
 #EXTINF:0,Rádio Web Nova Alternativa
 https://stream.zeno.fm/277nkh4x438uv
 #EXTINF:0,Radio Woking
@@ -2470,7 +2470,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WCNRFMAAC.aac
 #EXTINF:0,WCOO - The Bridge at 105.5
 https://ice6.securenetsystems.net/WCOO
 #EXTINF:0,WCSF - The Edge 88.7 FM
-https://wcsf.streamon.fm/hls/WCSF-32k/1386391246.aac
+http://wcsf.streamon.fm/hls/WCSF-32k/1386391246.aac
 #EXTINF:0,WCTG - The Variety Station 96.5 FM
 http://ruby.streamguys.com:5500/live
 #EXTINF:0,WCUW 91.3 FM - Worcester's Community Radio Station
