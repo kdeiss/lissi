@@ -55,6 +55,8 @@ https://servidor15.brlogic.com:7292/live
 http://bongoradio.com:9000/stream/1/
 #EXTINF:0,Boomstation
 https://s10.voscast.com:9589/stream
+#EXTINF:0,Boom Station SLU
+http://198.27.68.65:8886/stream
 #EXTINF:0,Boracay Beach Radio
 http://s7.viastreaming.net:8390/
 #EXTINF:0,Buenísima Estéreo
@@ -191,8 +193,6 @@ https://pacificmedia.cdnstream1.com:443/2789_64.aac
 https://hosting.studioradiomedia.fr:2245/stream
 #EXTINF:0,KFM Guyane
 http://10191.go2stream.fr:8000/stream
-#EXTINF:0,Radio Hit Soleil
-https://radio7.pro-fhi.net:19187/steam/1/stream/1/
 #EXTINF:0,Kompa Lakay Radio / KLRFM
 http://199.115.115.71:8117/stream
 #EXTINF:0,KNARadio
@@ -451,6 +451,8 @@ https://ecmanager4.pro-fhi.net/radiosoleildestropiques
 https://www.radioking.com/play/rsi-radio-sud-internationale/124798
 #EXTINF:0,Radio Tele Sigma
 https://stream.zeno.fm/kptzvafyyqzuv
+#EXTINF:0,Radio Television Haitiana
+http://173.192.207.51:7039/;stream.nsv
 #EXTINF:0,Radio Tv mix Congolaise 
 http://37.59.42.207:8080/;stream.mp3
 #EXTINF:0,Vibration Inter
@@ -495,10 +497,14 @@ https://martinique.ice.infomaniak.ch/martinique-128.mp3
 https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
 #EXTINF:0,La 1ère - Outre-Mer
 https://outremer.ice.infomaniak.ch/outremer-128.mp3
+#EXTINF:0,La 1ère - Polynésie
+https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
 #EXTINF:0,La 1ère - Réunion
 https://reunion.ice.infomaniak.ch/reunion-128.mp3
 #EXTINF:0,La 1ère - Saint-Pierre et Miquelon
 https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3
+#EXTINF:0,La 1ère - Wallis et Futuna
+https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3
 #EXTINF:0,RFT FLYWEB TROPIKAL 
 https://srv.webradiomanager.fr:1730/stream
 #EXTINF:0,Radio Haiti Internationale
@@ -611,8 +617,6 @@ https://www.radioking.fr/play/tropiques-gold
 https://www.radioking.fr/play/tropiques-tradition
 #EXTINF:0,Tropiques ZOUK
 https://listen.radioking.com/radio/8925/stream/19103
-#EXTINF:0,TuRadioLatina.com
-http://streamingned.com:7080/stream
 #EXTINF:0,Tu Tropical FM
 http://s26.myradiostream.com:8138/stream
 #EXTINF:0,Urbana La mas Bacana
@@ -656,7 +660,7 @@ http://stream2.ndpusa.com:11012/;;audio.mp3
 #EXTINF:0,WQXM - Ritmo 99.9 FM 1460 AM
 https://server7.servistreaming.com/proxy/ritmo99?mp=/stream
 #EXTINF:0,WRTO-FM - Mix 98.3 FM
-http://54.235.35.44/univision-wrtofmaac-ibc1
+http://stream.abacast.net/playlist/univision-wrtofmaac-ibc1.m3u
 #EXTINF:0,WSKQ-FM - La Mega 97.9 FM
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerid=radio.net
 #EXTINF:0,WSRF 1580 AM
