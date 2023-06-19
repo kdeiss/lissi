@@ -137,6 +137,8 @@ https://stream.antenne.de/chillout/stream/mp3?aw_0_1st.playerid=radio.de
 https://stream.antenneduesseldorf.de/444zskf
 #EXTINF:0,ANTENNE MÜNSTER - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zttf
+#EXTINF:0,Relax - Antenne Niedersachsen
+https://stream.antenne.com/relax/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Lounge Radio
 https://stream.antenneniederrhein.de/444ztbf
 #EXTINF:0,Antenne Passau Chillout
@@ -311,14 +313,12 @@ https://chillofi-radio.dez.ovh/fwdstream/
 https://live.radioart.com/fChillout_and_tropical.mp3
 #EXTINF:0,Chill Out FM
 https://solid2.streamupsolutions.com/proxy/jcdcfujk?mp=/;type=mp3
-#EXTINF:0,Chill-Out Radio 
-http://fred.torontocast.com:2160/;?type=http&nocache=1627921918%20%20%20(mp3)HTTPS:%20https://fred.torontocast.com:2255/stream%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20(aac)
 #EXTINF:0,Chillout Ibiza FM
 http://streaming.live365.com/b05055_128mp3
 #EXTINF:0,RadioArt: Chillout
 https://live.radioart.com/fChillout.mp3
 #EXTINF:0,Chill-Out Radio Gaia
-https://streamingv2.shoutcast.com/Chill-Out-Radio-Gaia?r=255026
+https://cast1.torontocast.com:3770/listen
 #EXTINF:0,Chill-out Radio
 https://streamingv2.shoutcast.com/Chill-outRadio
 #EXTINF:0,Chillout Tree Pines
@@ -693,10 +693,10 @@ https://stream.zeno.fm/ugzmd4rrqwzuv
 https://ec4.yesstreaming.net:1235/stream
 #EXTINF:0,Radio Horyzont
 http://s1.slotex.pl:7328/stream/1/;?
-#EXTINF:0,Hotmixradio LOUNGE
-https://streamingp.shoutcast.com/hotmixradio-lounge-128.mp3
-#EXTINF:0,Hotmixradio SPORT
-https://streamingp.shoutcast.com/hotmixradio-sport-128.mp3
+#EXTINF:0,Hotmix LOUNGE
+https://streaming.hotmixradio.fr/hotmix-lounge-en-mp3
+#EXTINF:0,Hotmix SPORT
+https://streaming.hotmixradio.fr/hotmix-sport-en-mp3
 #EXTINF:0,HouseStationRadio
 http://sr9.inmystream.info:8178/stream/1/
 #EXTINF:0,Hunter.FM - Tropical
@@ -1315,8 +1315,6 @@ http://radio.promodj.com:8000/toodeep
 http://radio.promodj.com:8000/vata
 #EXTINF:0,Peaceful Currents Radio
 https://igor.torontocast.com:1955/stream
-#EXTINF:0,Peaceful Currents Radio
-https://igor.torontocast.com:1955/stream
 #EXTINF:0,Peilsender 
 https://rs20.stream24.net/peilsender.mp3
 #EXTINF:0,Perfect Chillout
@@ -1682,7 +1680,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3
 #EXTINF:0,smoothfm Perth
 https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915.mp3
 #EXTINF:0,Smooth Jazz & More
-https://fred.torontocast.com:2485/stream
+https://cast1.torontocast.com:1485/stream
 #EXTINF:0,SMOOTH JAZZ DELUXE
 https://mpc1.mediacp.eu/stream/smoothjazzdeluxe
 #EXTINF:0,Radio Smooth Jazz Instrumental
@@ -1747,6 +1745,8 @@ http://cast.stardustradio.space:8000/stream
 http://2.139.144.101:8020/2/stream/1/
 #EXTINF:0,Radio Stranstvy
 https://myradio24.org/4156
+#EXTINF:0,Stream 102
+https://s2.radio.co/s677bf6fe8/listen
 #EXTINF:0,STR - Space Travel Radio
 http://spacetravelradio.de:1701/stream/2/
 #EXTINF:0,Styrialounge

@@ -91,6 +91,8 @@ http://stream1.icehosting.nl:8126/stream
 http://stream1.icehosting.nl:8126/stream/1/
 #EXTINF:0,2000 FM - Top 40
 https://bigrradio.cdnstream1.com/5106_128
+#EXTINF:0,21 Radio Dijon
+http://82.64.123.204:8001/21radio
 #EXTINF:0,2AAY - Star 104.9 FM
 https://legacy.scahw.com.au/2aay_32
 #EXTINF:0,2Day 104.1 FM
@@ -649,6 +651,8 @@ http://cast3.my-control-panel.com/proxy/kroksyst/stream
 https://blackpoolradio.radioca.st/stream/1/
 #EXTINF:0,Radio Blaubeuren
 http://blaubeuren.sunray-fm.de/live.mp3
+#EXTINF:0,Bless Your Sound Radio
+https://ssl1.viastreaming.net:8750/;listen.mp3
 #EXTINF:0,Bloomberg HT Radyo
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:0,Splendid Radio Arkansas
@@ -1615,8 +1619,6 @@ http://103.153.2.58:8018
 https://ithaca.cdnstream.com/1697_192
 #EXTINF:0,GHiTTT 84.8 FM NEW YORK
 https://streamingv2.shoutcast.com/ghittt848fm
-#EXTINF:0,glamour fm Málaga
-http://142.132.128.75:8006/stream/1/
 #EXTINF:0,Radio Globo
 https://globo.newradio.it/globorm64
 #EXTINF:0,GloLive Radio
@@ -1847,8 +1849,22 @@ https://listenlow.hotdanceradio.com/128.mp3
 https://hotfm.live24.gr/hotfm
 #EXTINF:0,HotHitsUK 
 https://443-1.autopo.st/54/stream/1/
+#EXTINF:0,Hotmix Greece
+https://streaming.hotmixradio.fr/hotmix-greece-en-mp3
 #EXTINF:0,Hotmixradio HITS
 https://streamingp.shoutcast.com/hotmixradio-hits-128.mp3
+#EXTINF:0,Hotmix India
+https://streaming.hotmixradio.fr/hotmix-india-en-mp3
+#EXTINF:0,Hotmix Italia
+https://streaming.hotmixradio.fr/hotmix-italia-en-mp3
+#EXTINF:0,Hotmix K-Pop
+https://streaming.hotmixradio.fr/hotmix-k-pop-en-mp3
+#EXTINF:0,Hotmix Medina
+https://streaming.hotmixradio.fr/hotmix-medina-en-mp3
+#EXTINF:0,Hotmix Pop Rock
+https://streaming.hotmixradio.fr/hotmix-pop_rock-fr-mp3
+#EXTINF:0,Hotmix Spain
+https://streaming.hotmixradio.fr/hotmix-spain-en-mp3
 #EXTINF:0,Hotmix TicToc
 https://streaming.hotmixradio.fr/hotmix-tic_toc-en-mp3
 #EXTINF:0,Hot Music Rdio
@@ -5405,6 +5421,8 @@ http://109.169.76.155:13324/
 https://edge.audioxi.com/RED
 #EXTINF:0,redFM
 https://stmk-stream01.traplinefm.at:8000/redfm_128kbps
+#EXTINF:0,RedThunder-Radio
+http://ec6.yesstreaming.net:1970/stream
 #EXTINF:0,REM
 https://streaming.re2m.org/telechargement.mp3
 #EXTINF:0,Rete 94
@@ -5987,6 +6005,8 @@ https://radio1.xn--9o8hpe.ws:7025/;
 http://185.5.52.50:8000/upsas_128
 #EXTINF:0,Urbana FM
 http://streaming.radiolinksmedia.com:7145/;
+#EXTINF:0,Ushuaia Ibiza Radio 88.4
+https://s4.radio.co/sc6f29e098/listen
 #EXTINF:0,Splendid Radio New York
 https://stream.zeno.fm/uxpvf3wnapwtv
 #EXTINF:0,V-103
@@ -6177,6 +6197,8 @@ https://live.wostreaming.net/manifest/unionbroadcasting-whbamaac-ibc2?
 https://stream1.flinn.com:8443/1075FM.aac
 #EXTINF:0,Whitedragonklein-radio
 https://s3.genx-stream.de:8752/listen1
+#EXTINF:0,WHO Electronic Radio 97.6
+https://who.marcsoul.com/salamancalive
 #EXTINF:0,WHOT HOT 101
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHOTFMAAC_SC
 #EXTINF:0,Woods Hit Radio Hot AC

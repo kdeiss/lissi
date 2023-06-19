@@ -201,6 +201,8 @@ https://streamingv2.shoutcast.com/BASSEMARCHEFM-
 https://dispatcher.rndfnk.com/br/br2/nord/aac/low?aggregator=radio-de
 #EXTINF:0,Bayern 2 Süd
 https://dispatcher.rndfnk.com/br/br2/sued/aac/low?aggregator=radio-de
+#EXTINF:0,Bayou Blue Radio
+https://bayoublueplayer.com:8000/radio.mp3
 #EXTINF:0,Bayshore Radio
 https://ais-sa2.cdnstream1.com/1700_128
 #EXTINF:0,Bay Smooth Jazz
@@ -839,6 +841,8 @@ https://ec4.yesstreaming.net:1845/stream
 https://s2.mexside.net/8014/stream
 #EXTINF:0,Hotmix Cocktail Jazz
 https://streaming.hotmixradio.fr/hotmix-cocktail_jazz-en-mp3
+#EXTINF:0,Hotmix Jazz
+https://streaming.hotmixradio.fr/hotmix-dinner_jazz-en-mp3
 #EXTINF:0,Radio Humleborg Jazzkanalen
 https://stream.rcast.net/64547
 #EXTINF:0,Ibiza BPM Radio
@@ -1575,6 +1579,10 @@ http://209.126.107.199:10012/listen.pls
 https://www.radioking.com/play/lyon-demain
 #EXTINF:0,M2 Jazz
 http://live.m2stream.fr/m2jazz-128.mp3
+#EXTINF:0,Magic FM
+http://67.212.165.106:8150/stream
+#EXTINF:0,Magic FM
+http://67.212.165.106:8150/stream
 #EXTINF:0,MANHATTAN JAZZ CLUB
 https://strw1.openstream.co/385?aw_0_1st.collectionid%3D6439%26stationId%3D6439%26publisherId%3D205%26k%3D1654592866%26aw_0_azn.pcountry%3D%5B\CA\%5D%26aw_0_azn.planguage%3D%5B\en\%5D%26aw_0_azn.pgenre%3D%5B\Jazz\%2C\Music\%2C\Blues\%5D
 #EXTINF:0,Manhattan Jazz Club
@@ -2485,8 +2493,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CIWVFM.mp3
 https://wbgo.streamguys1.com/wbgo128
 #EXTINF:0,WBKM
 https://streaming.radio.co/sefa4c74e3/listen
-#EXTINF:0,WBLR 103.7 FM
-http://192.95.18.87:7316/;stream.mp3
 #EXTINF:0,WBOM Streaming Radio 
 https://quincy.torontocast.com:1225/stream
 #EXTINF:0,WBWH-LP The hit 96.1 FM
