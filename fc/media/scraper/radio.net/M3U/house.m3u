@@ -147,6 +147,8 @@ https://stream.amsterdamsmostwanted.nl/8000
 https://stream.laut.fm/antenna-network?ref=radiode
 #EXTINF:0,AMV Lounge
 https://streams.antennemv.de/balticlounge/mp3-128/radiode/
+#EXTINF:0,Relax - Antenne Niedersachsen
+https://stream.antenne.com/relax/mp3-128/radiode/
 #EXTINF:0,Anti Radio
 https://stream.antiradio.net/radio/8000/web
 #EXTINF:0,Apocalypse Radio 
@@ -637,8 +639,6 @@ https://edmdnb.com:8000/radio.mp3
 http://edmdnb.com:8000/radio.mp3
 #EXTINF:0,Dogglounge Radio
 https://securestreams4.autopo.st:1853/;stream.mp3
-#EXTINF:0,Dots Unlimited Radio
-http://stream.duradio.net:8001/connecthedots
 #EXTINF:0,dRadio Greece
 http://s10.myradiostream.com:11198/;
 #EXTINF:0,DRD RADIO 
@@ -662,15 +662,13 @@ https://s5.radio.co/s813789af2/listen
 #EXTINF:0,EDM Radio
 https://my.radioprocessor.com:8100/edm-320.mp3
 #EXTINF:0,EDM RADIO
-https://eu1.lhdserver.es:9073/stream
+https://app.sonicpanelradio.com/8048/stream
 #EXTINF:0,EDM Sessions 
 https://s2.radio.co/s30844a0f4/listen
 #EXTINF:0,EDR - Electronic Dance Radio
 https://nrf1.newradio.it:10464/stream
 #EXTINF:0,ElectroDanceWorld Radio
 https://stream.zeno.fm/s70bvdgqks8uv
-#EXTINF:0,Efecto FM
-http://84.232.4.5:19000/;
 #EXTINF:0,egoFLASH
 https://streams.egofm.de/egoFLASH-hq?ar-distributor=f0a2
 #EXTINF:0,Electro Colombia Radio 2
@@ -933,8 +931,8 @@ https://holidaygym.emitironline.com/
 https://listenlow.hotdanceradio.com/128.mp3
 #EXTINF:0,Hot Mix
 http://stream.zeno.fm/hzq5fgpyszzuv
-#EXTINF:0,Hotmixradio DANCE
-https://streamingp.shoutcast.com/hotmixradio-dance-128.mp3
+#EXTINF:0,Hotmix Dance
+https://streaming.hotmixradio.fr/hotmix-dance-fr-mp3
 #EXTINF:0,House Attack Radio
 http://virtualtronics.net:8787/stream
 #EXTINF:0,Housebeats.fm
@@ -967,8 +965,6 @@ http://212.83.169.37:8000/stream/1/
 https://streaming.radio.co/s06bd9d805/listen
 #EXTINF:0,House of Funk
 https://houseoffunk.eu:8443/live
-#EXTINF:0,House Party Radio
-https://www.housepartyradio.net/stream/mp3/secure/safe/?from=radio.de
 #EXTINF:0,House Radio Net
 https://fra-pioneer08.dedicateware.com:1945/stream
 #EXTINF:0,House Reaktor
@@ -1771,8 +1767,6 @@ http://radyo.yayin.com.tr:5998/stream/1/
 https://manager5.streamradio.fr:1095/stream
 #EXTINF:0,Mixaradio Electro Paradise
 https://manager5.streamradio.fr:1105/stream
-#EXTINF:0,MixCult Deep Techno Radio
-http://radio.mixcult.net:8000/MixCult_256kbps
 #EXTINF:0,Mix Global Radio 
 https://radiostreamfm.com/radio/8100/live.aac
 #EXTINF:0,MixHouse Radio
@@ -1819,8 +1813,6 @@ https://listen.radionomy.com/musicishouse
 https://www.radioking.com/play/musiclike
 #EXTINF:0,MUSICOLOR GROOVY RADIO
 https://stream.musicolor-radio.com/stream
-#EXTINF:0,Music Sessions 313
-https://igor.torontocast.com:1095/stream
 #EXTINF:0,MusicStation.FM
 https://stream1.iradio-project.eu/8014/stream
 #EXTINF:0,Mutha FM
@@ -1885,6 +1877,8 @@ http://naxidigital-house128.streaming.rs:8000/;
 https://manager.conceptradio.fr:1535/stream?1677255444549
 #EXTINF:0,Network Satellite
 http://sr2.inmystream.info:8123/;
+#EXTINF:0,Radio New York Floor
+https://s2.free-shoutcast.com/stream/18200/;stream.mp3
 #EXTINF:0,nice
 https://ice.cr1.streamzilla.xlcdn.com:8000/sz=nice-broadcast-media-gmbh=nice-DJ-CHANNEL-128-mp3
 #EXTINF:0,Night Club Radio
@@ -1961,8 +1955,6 @@ http://stream.osn.fm:8000/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac
 #EXTINF:0,Our Soulful House
 https://radio4.vip-radios.fm:18057/stream-128kmp3-SoulfulHouse
-#EXTINF:0,Overclocked Music
-https://shoutcast.overclockedmusic.com:8000/stream/1/
 #EXTINF:0,Panoramix Radio Station
 https://radio7.pro-fhi.net:19085/stream
 #EXTINF:0,Paradise Radio
@@ -2007,8 +1999,6 @@ https://stream.radiojar.com/asngk2sg798uv?ref=radiode
 https://ec3.yesstreaming.net:1565/stream?x=1683105272392
 #EXTINF:0,Phase FM
 http://195.154.199.222:8040/stream/1/
-#EXTINF:0,Phuket Island Radio 91.5 & 102.5FM
-https://stream.phuketfmradio.com/pfmMP3
 #EXTINF:0,Phuture Global Radio
 http://stream.radiojar.com/zr64rf6bb3hvv
 #EXTINF:0,Physical Radio
@@ -2825,6 +2815,10 @@ https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance
 http://178.32.111.41:8030/stream-128kmp3-Dancefloor
 #EXTINF:0,Deep House Ibiza
 https://radio4.vip-radios.fm:18015/stream-128kmp3-DeepHouseIbiza
+#EXTINF:0,Viperfm
+https://viperfm-gecko.radioca.st/stream/1/
+#EXTINF:0,Viper-Oceania Sound Revolution
+https://vipersoundrevolution.radioca.st/viper-oceania-sound-revolution.fm
 #EXTINF:0,Party Dance Radio
 https://radio4.vip-radios.fm:18042/stream-128kmp3-PartyDance
 #EXTINF:0,Soulful House
@@ -2869,6 +2863,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.m
 https://ice42.securenetsystems.net/WERUDB
 #EXTINF:0,WideLine - House
 http://sr9.inmystream.info:8126/stream
+#EXTINF:0,WK-END
+http://sirius.shoutca.st:8409/stream
 #EXTINF:0,World Famous Agency
 http://streaming02.hstbr.net:8070/live
 #EXTINF:0,WNR Radio

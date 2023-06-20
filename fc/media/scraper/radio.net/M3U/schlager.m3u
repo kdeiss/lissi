@@ -149,6 +149,8 @@ https://live.stream.radioarabella.de/radioarabella-schlager?aggregator=radiode
 https://frontend.streams.arabella.at/arabella-schlager?aggregator=radio-at
 #EXTINF:0,Radio AS 89.6 FM
 https://vps.cbad.fr/rasweb
+#EXTINF:0,Auszeit Radio
+https://auszeitradio1.de:444/stream/1/
 #EXTINF:0,Radio Balla Balla FM
 https://ice15.fluidstream.net/ballaballa.aac?FLID=7
 #EXTINF:0,Ballermann Radio
@@ -429,6 +431,8 @@ https://stream.laut.fm/hitradiosuhl?ref=radiode
 https://s2.free-shoutcast.com/stream/18012
 #EXTINF:0,hotradio-for-you
 http://s2.genx-stream.de:9050
+#EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
+https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
 #EXTINF:0,hr4 Mitte
@@ -1265,8 +1269,6 @@ https://stream.laut.fm/radioella?ref=radiode
 https://stream.laut.fm/radioenzian?ref=radiode
 #EXTINF:0,Radio Fettehenne
 https://stream.laut.fm/radio-fettehenne?ref=radiode
-#EXTINF:0,Radio Fettehenne 2
-https://stream.laut.fm/radio-fettehenne?ref=radiode
 #EXTINF:0,Radio Finn
 https://stream.laut.fm/radiofinn?ref=radiode
 #EXTINF:0,RadioFlashlight
@@ -2083,8 +2085,6 @@ http://s8.iqstreaming.com:8064/stream?
 http://streaming.radionomy.com/Radio100-tubes
 #EXTINF:0,Radio 2000
 http://159.69.217.78:8000/stream
-#EXTINF:0,Radio 32 Schlager
-https://stream.radio32.ch/radio32
 #EXTINF:0,Radio66
 https://radio66.stream.laut.fm/radio66
 #EXTINF:0,Radio66 Schlager
@@ -2679,6 +2679,8 @@ https://stream.laut.fm/rockundmetal?ref=radiode
 https://bayern.streampanel.net/whamkkhs?mp=/stream
 #EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
+#EXTINF:0,Sunshine-radio.eu
+http://138.201.234.215:11205/stream/1/
 #EXTINF:0,SuperGutesRadio
 http://37.59.82.10:12005/stream/1/
 #EXTINF:0,SWR4 Baden-Württemberg - SWR4 Stuttgart
@@ -2717,6 +2719,8 @@ http://tuner.m1.fm/schlagerparty.mp3
 https://stream.silvacast.com/RPLive/mp3-128/radio_de/
 #EXTINF:0,The German Radio
 https://streaming.live365.com/a97323
+#EXTINF:0,tierischLive
+http://server35557.streamplus.de/stream.mp3
 #EXTINF:0,Radio Tirol Italia
 https://str0.creacast.com/radiotirol_a
 #EXTINF:0,Tirolia-Express
