@@ -29,14 +29,18 @@ https://stream.laut.fm/blasmusikradio_mit_bernd?ref=radiode
 http://stream1.blechradio.at:8000/radio.mp3
 #EXTINF:0,Belgischer Rundfunk 2 BRF2
 https://streaming.brf.be/brf2-high.mp3
-#EXTINF:0,100% Oktoberfest von Feierfreund
-https://streams.feierfreund.de/oktoberfest/mp3-128/radiode/
+#EXTINF:0,BR Heimat
+https://dispatcher.rndfnk.com/br/brheimat/live/aac/low?aggregator=radio-de
+#EXTINF:0,Germânia FM oktoberfest
+https://cast4.zadax.com.br:6295/live
 #EXTINF:0,Radio Heimatmelodie
 https://rhm1.de/listen.mp3
 #EXTINF:0,1000volksmusikhits
 https://stream.laut.fm/1000volksmusikhits?ref=radiode
-#EXTINF:0,100prozentvolksmusik
-https://stream.laut.fm/100prozentvolksmusik?ref=radiode
+#EXTINF:0,alles-volksmusik
+https://stream.laut.fm/alles-volksmusik?ref=radiode
+#EXTINF:0,alpenpower
+https://stream.laut.fm/alpenpower?ref=radiode
 #EXTINF:0,blasmusikradio
 https://stream.laut.fm/blasmusikradio?ref=radiode
 #EXTINF:0,Volkmusik-Brixental
@@ -47,8 +51,6 @@ https://stream.laut.fm/minemusic-bayernsound?ref=radiode
 https://stream.laut.fm/radio-heimat?ref=radiode
 #EXTINF:0,Radio-Jodlerwirt 1
 https://stream.laut.fm/radio-jodlerwirt?ref=radiode
-#EXTINF:0,Deutscher Soldatensender von 1970
-https://stream.laut.fm/deutscher_soldatensender_von_1970?ref=radiode
 #EXTINF:0,tirolertune
 https://stream.laut.fm/tirolertune?ref=radiode
 #EXTINF:0,volksmusik24
@@ -63,18 +65,20 @@ https://stream.laut.fm/volksmusikwelle?ref=radiode
 https://stream.laut.fm/volxmusik?ref=radiode
 #EXTINF:0,wipperwelle
 https://stream.laut.fm/wipperwelle?ref=radiode
+#EXTINF:0,Wirtshausmusik
+https://stream.laut.fm/wirtshausmusik?ref=radiode
 #EXTINF:0,zusamstream
 https://stream.laut.fm/zusamstream?ref=radiode
 #EXTINF:0,Musikkaennchen 
 https://stream.laut.fm/musikkaennchen?ref=radiode
 #EXTINF:0,Oldieclubradio
 https://server35425.streamplus.de/stream.mp3
-#EXTINF:0,Pahang FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.aac
 #EXTINF:0,Radio1959
 http://95.173.188.154:9942/stream/1/
 #EXTINF:0,Radio Aena
 https://stream.laut.fm/radio-aena?ref=radiode
+#EXTINF:0,Radio Alperose
+https://saurus.streampanel.net/hgcntkxz?mp=/stream
 #EXTINF:0,Radio Dacha
 http://stream.radiodacha.ru/14_dacha_28?type=.aac&UID=24E1C2AE2FA20F64A0287B489993ACB8
 #EXTINF:0,Radio Gardena
@@ -95,16 +99,12 @@ https://orf-live.ors-shoutcast.at/tir-q1a
 https://live.u1-radio.at/;stream.mp3
 #EXTINF:0,Radio VM1
 https://radiovm1.fluidstream.eu/radiovm1.mp3
-#EXTINF:0,Schlager Radio Volksmusik
-https://addrad.io/4454sdr
 #EXTINF:0,Schwany3 Echte Volksmusik
 https://schwany.streampanel.cloud/3-dieechte
 #EXTINF:0,Schwany4 Blasmusik
 https://schwany.streampanel.cloud/4-blasmusik
 #EXTINF:0,Schwany5 Oberkrain
 https://schwany.streampanel.cloud/5-oberkrain
-#EXTINF:0,Radio-Siebenbuergen Mundartkanal
-https://s02.radio-siebenbuergen.de/
 #EXTINF:0,SpeedyRadio
 http://server-07.stream-server.nl:8312/;
 #EXTINF:0,SWR4 Baden-Württemberg - SWR4 Stuttgart
