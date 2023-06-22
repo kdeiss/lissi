@@ -53,6 +53,8 @@ http://usa7-vn.mixstream.net:8070/stream/1/
 https://21413.live.streamtheworld.com/ACE_2UEAAC.aac
 #EXTINF:0,3ABN Radio Network
 https://war.streamguys1.com:7185/live
+#EXTINF:0,3AW News Talk 693 AM
+https://22983.live.streamtheworld.com/3AWAAC.aac?dist=nine_radio&agent-device-family=computer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=54a4f974-1c70-4456-b8dc-7696a1ca4cbd
 #EXTINF:0,3CR 855 AM
 http://public-radio1.internode.on.net:8002/61
 #EXTINF:0,ABC Melbourne
@@ -225,8 +227,6 @@ https://server6.hostradios.com/8040/stream
 http://stream5.eltelon.com/alborada.aac
 #EXTINF:0,Alien Dreams Radio
 http://aliendreams.ddns.net:8000/radio
-#EXTINF:0,Al Jazeera English
-http://66.226.10.51:8000/AljazeeraEnglish
 #EXTINF:0,Allahu Akbar Radio
 http://66.45.232.132:9996/;
 #EXTINF:0,Allo la Planète
@@ -399,6 +399,10 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_london
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_newcastle
 #EXTINF:0,BBC Oxford
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_oxford
+#EXTINF:0,BBC Radio Cornwall
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall
+#EXTINF:0,BBC Radio Jersey
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey
 #EXTINF:0,BBC Somerset
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_somerset_sound
 #EXTINF:0,BBC Surrey
@@ -519,6 +523,8 @@ https://wecast-b01-03.flumotion.com/copesedes/jerez.mp3
 https://wecast-b03-03.flumotion.com/copesedes/lorca.mp3
 #EXTINF:0,Cadena COPE Madrid
 https://flucast-b03-05.flumotion.com/cope/madrid.mp3
+#EXTINF:0,Cadena COPE Pinares
+http://server9.emitironline.com:10928/;
 #EXTINF:0,Cadena COPE Pozoblanco
 https://srv7031.dns-lcinternet.com/8066/stream
 #EXTINF:0,Cadena COPE Ribadeo
@@ -943,8 +949,6 @@ https://lb0-stream.radiox981.ca/choi.mp3
 https://lb0-stream.radiox981.ca/choi.mp3
 #EXTINF:0,CHOK 103.9 FM & 1070 AM
 https://live.leanstream.co/CHOKAM
-#EXTINF:0,CHQR News Talk 770
-https://corus.leanstream.co/CHQRAM-MP3
 #EXTINF:0,CHQR AM 770
 https://live.leanstream.co/CHQRAM
 #EXTINF:0,Chris TDL Radio - ASMR
@@ -1417,8 +1421,6 @@ https://streamingecuador.net:7030/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,WUPR EXITOS 1530 AM
 https://exitos1530.radioca.st/stream
-#EXTINF:0,Express Radio 90.3 FM
-http://pollux.shoutca.st:9118/stream/1/
 #EXTINF:0,Fairchild Radio 88.9 FM
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 #EXTINF:0,Fama 98.1 FM
@@ -1779,6 +1781,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2.mp3
 #EXTINF:0,KAOK - Talk Radio 1400 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAOKAM.mp3
+#EXTINF:0,KARI - Word Radio 550 AM
+https://ice9.securenetsystems.net/KARI550
 #EXTINF:0,KARL.2: The Big Mouth
 https://pavo.prostreaming.net:8152/stream
 #EXTINF:0,KARN - The Sports Animal 920 AM
@@ -1885,8 +1889,6 @@ https://ice6.securenetsystems.net/KDKT
 https://nwmedia-ktisam.streamguys1.com/ktis-am
 #EXTINF:0,KDPI - Drop-In Radio 89.3 FM
 http://peridot.streamguys.com:5110/live
-#EXTINF:0,KDQN - Southwest Arkansas Daily 1390 AM
-https://ice6.securenetsystems.net/KDQN?
 #EXTINF:0,KDR 100.3 FM
 http://stream.zeno.fm/khuv8vm4b48uv
 #EXTINF:0,KDUS - NBC Sports AM 1060
@@ -1941,8 +1943,6 @@ https://ice2.securenetsystems.net:80/KFBC
 https://ic1.sslstream.com/bottradio
 #EXTINF:0,KFEQ 680AM 95.3FM
 https://prod-52-0-41-232.wostreaming.net/eagleradio-kfeqamaac-ibc4?
-#EXTINF:0,KFFB Timeless 106.1 FM
-http://173.193.205.96:7322/stream
 #EXTINF:0,KFFN - ESPN Tucson
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFFNAMAAC.aac
 #EXTINF:0,KFGO - The Mighty 790 AM
@@ -2813,6 +2813,8 @@ https://zas7.ndx.co.za:8042/stream
 https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDS Station
 http://stream.mds-station.com:8000/01-mds
+#EXTINF:0,Rádio MEC 800 AM
+https://radiomec-stream.ebc.com.br/index.m3u8
 #EXTINF:0,Med1 Radio
 https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/chunklist_w663726031.m3u8
 #EXTINF:0,Radio Medinabaye Kaffrine
@@ -3761,6 +3763,10 @@ http://radiojazzcopenhagen.out.airtime.pro:8000/radiojazzcopenhagen_a
 https://sonic.radiostreaminglatino.com/8098/stream
 #EXTINF:0,Rádio Jornal - Garanhuns
 https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-garanhuns-audio-web.sdp/playlist.m3u8
+#EXTINF:0,Rádio Jornal - Pesqueira
+https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-pesqueira-audio-web.sdp/playlist.m3u8
+#EXTINF:0,Rádio Jornal - Petrolina
+https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-petrolina-audio-web.sdp/playlist.m3u8
 #EXTINF:0,Radio Kimuri 100.6 FM
 https://stream.zeno.fm/a6bxrnucz38uv
 #EXTINF:0,Radio KLA
@@ -4331,6 +4337,8 @@ http://us4.internet-radio.com:8027/stream
 https://cast2.my-control-panel.com/proxy/radioso3/stream
 #EXTINF:0,Steelers Nation Radio
 https://cdn3.wowza.com/1/T0RzenNieVdQZlhj/OTd3RUJW/hls/live/playlist.m3u8
+#EXTINF:0,Soflo Radio
+http://los.cdnstream.com/1134_64
 #EXTINF:0,Soft Hits 93.5 FM WAKR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC
 #EXTINF:0,Ágora Sol Radio

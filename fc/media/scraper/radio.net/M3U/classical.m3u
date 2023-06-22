@@ -28,9 +28,9 @@ https://streams.weihnachtsmusik.fm/choere/mp3-128/radiode/
 #EXTINF:0,100 % Weihnachts-Klassik
 https://streams.weihnachtsmusik.fm/klassisch/mp3-128/radiode/
 #EXTINF:0,101.ru: Opera
-https://pub0302.101.ru:8000/stream/pro/aac/64/96
+https://pub0301.101.ru:8443/stream/pro/aac/64/96
 #EXTINF:0,101.ru: Pop Classical
-https://pub0302.101.ru:8000/stream/pro/aac/64/97
+https://pub0301.101.ru:8443/stream/pro/aac/64/97
 #EXTINF:0,113.fm Classic One
 http://113fm-atunwadigital.streamguys1.com/1008
 #EXTINF:0,117.FM 70S AND 80S CLASSIC ROCK RADIO
@@ -57,8 +57,6 @@ https://www.2mbsfinemusicsydney.com/
 https://audio-edge-3mayu.fra.h.radiomast.io/dfc148be-5d2d-4a8b-8fdc-2a7f922b48cb
 #EXTINF:0,ABC Classic FM
 https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8
-#EXTINF:0,3MBS 103.5 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3
 #EXTINF:0,4MBS Classic FM 103.7
 https://stream.4mbs.com.au/4mbsclassicfm
 #EXTINF:0,5MBS 99.9 FM
@@ -163,8 +161,6 @@ http://sc.brtk.net:8006/stream/1/
 https://stream.rcast.net/67892
 #EXTINF:0,BBC Radio 3
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
-#EXTINF:0,BBC Radio 3 – UK only
-https://emp.bbci.co.uk/emp/media/blank.mp3
 #EXTINF:0,Beach Party Radio
 https://quincy.torontocast.com:2625/stream
 #EXTINF:0,Bee FM
@@ -1905,6 +1901,8 @@ https://streaming.rtvc.gov.co/Radio_Digital/Radionacional_Digital.stream/playlis
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
 #EXTINF:0,RNZ Concert
 https://radionz.streamguys1.com/concert/concert/concert/concert-mainstream/chunks.m3u8
+#EXTINF:0,Roch Valley Radio
+https://rochvalley.radioca.st/stream
 #EXTINF:0,RadioArt: Romantic Period
 https://live.radioart.com/fRomantic_period.mp3
 #EXTINF:0,Rondó
@@ -2053,6 +2051,8 @@ http://streaming.unradio.unal.edu.co:8010/stream/1/
 http://radiohd.streaminghd.co:7637/stream
 #EXTINF:0,Radio Universelles Leben
 https://onairport.live/radioul-de
+#EXTINF:0,Rádio da Universidade 1080 AM
+http://radioaovivo.ufrgs.br:8000/stream.mp3.m3u
 #EXTINF:0,Utah Public Radio - Live
 http://uprxstreamer.usu.edu:8000/stream
 #EXTINF:0,Utah Public Radio - Too
@@ -2099,8 +2099,6 @@ https://wpln.streamguys1.com/wfclfm.mp3
 https://purdue.streamguys1.com/wbaa-news
 #EXTINF:0,Boston's Best Radio
 https://node-10.zeno.fm/fwp237yypfhvv?zs=S_9kLd8_QrWtdAFVrvTEyQ&rj-tok=AAABgT1-qLMAF3HIUVdJxZr3qg&rj-ttl=5
-#EXTINF:0,WBCN-FM
-http://ice7.securenetsystems.net/WFCC
 #EXTINF:0,WBJC - 91.5 FM
 http://wbjc-ice.streamguys1.com:80/live
 #EXTINF:0,WBLU Blue Lake Public Radio WBLV
@@ -2125,6 +2123,8 @@ https://nhpr.streamguys1.com/classical
 http://wcny-ice.streamguys1.com/classical-fm-hq
 #EXTINF:0,WCPE - The Classical Station 89.7 FM
 http://audio-mp3.ibiblio.org:8000/wcpe.mp3
+#EXTINF:0,WCRB - Classical New Boston
+https://wgbh-live.streamguys1.com/classical-hi
 #EXTINF:0,WDAV - Classical Public Radio 89.9 FM
 https://audio-mp3.ibiblio.org/wdav-112k
 #EXTINF:0,WDPG - 89.9 FM
@@ -2159,6 +2159,8 @@ http://s5.radio.co/sfe749c3fc/listen.m3u
 https://mp3stream.wfsu.org:8443/889hi
 #EXTINF:0,WFYI-FM 90.1 FM
 https://wfyi-iad.streamguys1.com/live
+#EXTINF:0,WGBH 
+https://wgbh-live.streamguys1.com/wgbh-aac
 #EXTINF:0,WGMS - Classical WETA 89.1 FM
 https://24503.live.streamtheworld.com/WETAFM.mp3?
 #EXTINF:0,WGRS - Fine Arts Radio 91.5 FM
@@ -2303,6 +2305,8 @@ https://q2stream.wqxr.org/q2-web
 https://opera-stream.wqxr.org/operavore-web
 #EXTINF:0,WRR Classical 101.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRRFMAAC.aac
+#EXTINF:0,90.3 WRST-FM Oshkosh
+https://ais-sa1.streamon.fm/7223_32k.aac
 #EXTINF:0,WRTI 91.3 FM HD1 Classical
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
 #EXTINF:0,WRXC - Fine Arts Radio 90.1 FM WMNR
