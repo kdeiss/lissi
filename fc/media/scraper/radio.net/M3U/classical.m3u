@@ -97,6 +97,8 @@ http://hi5.adagio.fm/;
 http://nr2.newradio.it:8056/stream
 #EXTINF:0,RadioArt: After Midnight
 https://live.radioart.com/fAfter_midnight.mp3
+#EXTINF:0,Radio Agroempresario
+http://agroempresario.dyndns.org:8000/;
 #EXTINF:0,Aires Radio
 https://radios.solumedia.com:10967/stream
 #EXTINF:0,Alerta Pereira
@@ -213,8 +215,6 @@ https://stream.radio-cafezimmermann.de/klassik/mp3-192/
 https://streams.calmradio.com:24828/stream/1/
 #EXTINF:0,CALM RADIO - Adagios
 https://streams.calmradio.com:22828/stream/1/
-#EXTINF:0,CALM RADIO - Alessandro Scarlatti
-https://streams.calmradio.com:14628/stream/1/
 #EXTINF:0,CALM RADIO - Allemande
 https://streams.calmradio.com:24028/stream/1/
 #EXTINF:0,CALM RADIO - Antonin Dvorak
@@ -445,6 +445,8 @@ http://79.120.39.202:8000/strings
 http://79.120.77.11:8000/classical
 #EXTINF:0,Radio Caprice - Symphony
 http://79.111.14.76:8000/symphony
+#EXTINF:0,Catalunya Música
+https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
 #EXTINF:0,CBC Radio 2 Canadian Composers
 https://cbcradiolive.akamaized.net/hls/live/2037435/ES_R1NSN/adaptive_192/chunklist_ao.m3u8
 #EXTINF:0,CBFX Ici Musique Montreal 100.7 FM
@@ -759,6 +761,8 @@ http://kathy.torontocast.com:3300/stream
 http://kathy.torontocast.com:3300/stream
 #EXTINF:0,Radio Cristal
 https://radiocristal.ice.infomaniak.ch/radiocristal-high.mp3
+#EXTINF:0,classical CROOZE
+http://streams.crooze.fm:8016/stream/2/
 #EXTINF:0,Radio Culture
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:0,Radio Cultura Musical Amadeus 104.9
@@ -1017,6 +1021,8 @@ https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/playlist.m3u8
 https://sv10.hdradios.net:7922/stream\&gt;&lt;/audio&gt;
 #EXTINF:0,India Sings
 https://stream.zeno.fm/crrvmrsmug0uv
+#EXTINF:0,Indie Rock Radio
+https://streaming.radio.co/sdf2a51a1c/listen
 #EXTINF:0,Indómita Classics
 https://sonic.sistemahost.es:7046/;
 #EXTINF:0,Instrumentales de Oro Radio
@@ -1141,6 +1147,8 @@ https://khpr-ice.streamguys1.com/khpr2
 http://stream.abacast.net/direct/townsquare-kickfmaac-ibc3
 #EXTINF:0,KIDD K-Mozart 88.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC
+#EXTINF:0,KIHT HD2 - Radio Arts Foundation St. Louis RAF STL
+http://icex2.aarx.org/rafstl-32k
 #EXTINF:0,Classical King FM 98.1 FM
 https://classicalking.streamguys1.com/king-fm-aac-128k
 #EXTINF:0,King FM Evergreen Channel
@@ -1239,6 +1247,8 @@ https://stream.klassikradio.de/weinabend/mp3-128/radiode/
 https://stream.klassikradio.de/yoga/mp3-128/radiode/
 #EXTINF:0,Klassinen Joulu
 https://server1.toivon.net/proxy/toivon_6_1?mp=/stream
+#EXTINF:0,Klasszik Radio 92.1
+http://online.klasszikradio.hu/klasszik.mp3
 #EXTINF:0,KLMF - JPR Classic & News 88.5 FM
 https://jpr-ice.streamguys1.com/jpr-classics
 #EXTINF:0,KLRE Classical 90.5 FM
@@ -1249,6 +1259,8 @@ https://kmfa.streamguys1.com/KMFA-mp3
 https://ice5.securenetsystems.net/KMUN
 #EXTINF:0,KMZT K-Mozart 1260 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC
+#EXTINF:0,KNCC - Reno Public Radio 91.5 FM
+http://wolfstream.unr.edu:8000/;
 #EXTINF:0,KNWO Northwest Public Radio 90.1 FM (Classic)
 http://134.121.234.129:8000/NWPRCLASSICAL
 #EXTINF:0,KNWP Northwest Public Radio
@@ -1305,8 +1317,12 @@ https://stream1.cprnetwork.org/cpr2_lo
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVPR_CLASSICALAAC.aac
 #EXTINF:0,KVTI Northwest Public Radio, NPR & Classical Music
 http://134.121.234.129:8000/NWPRCLASSICAL
+#EXTINF:0,KWAX 91.1 FM
+http://184.171.104.41:8000/KWAX128.aac
 #EXTINF:0,KWRV 91.9 FM
 https://cms.stream.publicradio.org/cms.mp3
+#EXTINF:0,Classical 88.7 - KWTU HD1
+https://utulsa.streamguys1.com/KWTUHD1-MP3
 #EXTINF:0,KXPR - Capital Public Radio CLASSICAL
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICALSTREAM.mp3
 #EXTINF:0,KZAZ Northwest Public Radio
@@ -1649,6 +1665,8 @@ https://edge.iono.fm/xice/112_medium.aac
 https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
 #EXTINF:0,radio24online
 http://icecast2.radio24online.com:9000/radio24online.mp3
+#EXTINF:0,Radio 74
+http://broadcast.infomaniak.net:80/radio74-high.mp3
 #EXTINF:0,Radio 9 
 http://91.90.255.85:8000/02
 #EXTINF:0,Radio Accordéon Musette & Rétro
@@ -1673,6 +1691,8 @@ https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8
 http://classicoims.out.airtime.pro:8000/classicoims_a
 #EXTINF:0,Radio Beethoven
 https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
+#EXTINF:0,Radio Kultura 
+https://www.tvr.by/liveair/radiocult.asx
 #EXTINF:0,Radio Bolivariana
 http://131.0.136.54:7620/test.mp3/
 #EXTINF:0,Radio Cagnac
@@ -2093,6 +2113,8 @@ http://rwb1.out.airtime.pro:8000/rwb1_a
 http://nyc01.egihosting.com:2730/
 #EXTINF:0,WAPJ 89.9
 http://stream2724.egihosting.com:8000/;
+#EXTINF:0,WAVQ - The Q 1400 AM
+http://ice8.securenetsystems.net/WAVQ
 #EXTINF:0,91 Classical Nashville's Classical Radio
 https://wpln.streamguys1.com/wfclfm.mp3
 #EXTINF:0,WBAA-FM - Public Radio From Purdue 101.3 FM
@@ -2155,6 +2177,8 @@ http://wpln.streamguys.org/wfclfm.mp3
 https://wfmt.streamguys1.com/main-mp3
 #EXTINF:0,WFSMRadio.com
 http://s5.radio.co/sfe749c3fc/listen.m3u
+#EXTINF:0,WFSQ - WFSQ 91.5 FM
+https://146.201.215.226:8000/915.m3u
 #EXTINF:0,WFSU Public Media
 https://mp3stream.wfsu.org:8443/889hi
 #EXTINF:0,WFYI-FM 90.1 FM
