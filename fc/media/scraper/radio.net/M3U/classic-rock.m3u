@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,011.FM - Retro 70's
-http://listen.011fm.com:8006/stream04
 #EXTINF:0,011.FM - Big 80's
 https://listen.011fm.com/stream05
 #EXTINF:0,0nlineradio CLASSIC ROCK
@@ -683,10 +681,6 @@ https://crystalout.surfernetwork.com:8001/KBBN_MP3
 https://crystalout.surfernetwork.com:8001/KBBN_MP3
 #EXTINF:0,KBDZ - Classic Rock 93.1
 http://cp.usa2.fastcast4u.com:2199/tunein/elmdonze.pls
-#EXTINF:0,KBOY - 95.7 FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/KBOYFM.mp3
-#EXTINF:0,KBZU - The Mountain 96.3 FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/KBZUFM.mp3
 #EXTINF:0,KCAL-FM - 96.7 FM Rocks
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCALFMAAC.aac
 #EXTINF:0,KCBS - All News 740 AM
@@ -751,8 +745,6 @@ https://ice9.securenetsystems.net/KHAQ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3
 #EXTINF:0,KHUM 104.7 FM
 http://lostcoast.streamguys.us/khum-hi
-#EXTINF:0,KHUS 98.1 FM
-http://64.74.176.23:8000/kiyu
 #EXTINF:0,KIFradio Rock
 http://kifrock.kifradio.com
 #EXTINF:0,KINZ Z95.3
@@ -761,8 +753,6 @@ https://ice23.securenetsystems.net/KINZ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISMFMAAC.aac
 #EXTINF:0,KITS - Live 105 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KITSFM.mp3
-#EXTINF:0,KJAM - Dakota's Best 1390 AM
-http://65.19.131.137/alphamidwest-kjamamaac-ibc2
 #EXTINF:0,KJOT - Variety Rock 105.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KJOTFM.mp3
 #EXTINF:0,KKDJ Classic Rock
@@ -885,6 +875,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1147,8 +1139,6 @@ https://www.maxradio.ca:8000/NewWestRock.aac
 https://servidor34.brlogic.com:8014/live
 #EXTINF:0,fcams radio your radio, your music
 http://stream.zeno.fm/umqefzzq6rhvv
-#EXTINF:0,NoordZij Radio
-http://server-16.stream-server.nl:8632/
 #EXTINF:0,Nostalgie 105.2 FM Belgrad
 http://nostalgie128.streaming.rs:9250/;stream.mp3
 #EXTINF:0,NOSTALGIE DE Route 66
@@ -1267,8 +1257,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3?d
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_L.aac
 #EXTINF:0,Radio208
 https://stream.probroadcast.dk/radio208mp3
-#EXTINF:0,Radio 252
-http://199.180.75.2:9015/live
 #EXTINF:0,Radio40Web
 https://cast2.server89.com:8180/radio.mp3
 #EXTINF:0,Radio Activa Peru
@@ -1311,12 +1299,8 @@ https://online.radioc.ru/radioc_aacplus
 http://stream-59.zeno.fm/s18vu16r0wzuv?zs=fgV_rGpESum_UnJTqUynpg
 #EXTINF:0,Radio Easy Rock
 https://sphera.fluidstream.eu/easyrock.aac
-#EXTINF:0,Radio Espacio
-http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Estación X 102.1 FM
 https://stream-43.zeno.fm/u5tsh7gucrruv?zs=4mL_wkF8T6ySdyXlFP6_zg
-#EXTINF:0,Radio Excaliber
-http://sc1.ipip.cz:8018/listen.pls
 #EXTINF:0,Radio Fantasma Ecuador
 https://turadio.accesopanel.com/8370/stream
 #EXTINF:0,RADIO FOX
@@ -1487,6 +1471,8 @@ https://cleo.shoutca.st/radio/8020/radio.mp3
 https://realrockradio.stream.laut.fm/realrockradio
 #EXTINF:0,RecRadioNation
 https://streaming.live365.com/a05266
+#EXTINF:0,Recuerdo 102.1
+https://live.zuperdns.net:7004/;stream.mp3
 #EXTINF:0,REGENBOGEN 2 - 70S ROCK
 https://stream.regenbogen2.de/70errock/aac-128/radiode
 #EXTINF:0,REGENBOGEN 2 - 80S ROCK
@@ -1688,7 +1674,7 @@ http://s18.myradiostream.com:6664/stream/1/
 #EXTINF:0,Spock Rock Radio
 https://streaming.live365.com/a16130
 #EXTINF:0,Status Quo Rock Radio
-http://www.sqrr.de/listen.pls
+http://85.25.217.22:8200/stream/1/
 #EXTINF:0,Standfy Rock
 https://stream.standfymedia.net/radio/8030/standfy_rock
 #EXTINF:0,STAR FM MAXIMUM ROCK Berlin
@@ -2031,16 +2017,12 @@ https://ice66.securenetsystems.net/WMTT
 https://ice24.securenetsystems.net/WMXQ?playSessionID=B28AA6FC-EEBB-6B20-8C05473DF83229CD
 #EXTINF:0,WMZK Z 104.1 FM
 https://147.135.84.28:80/wrvm-fm
-#EXTINF:0,WNCL - Cool 101.3 FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WNCLFM.mp3
 #EXTINF:0,WNCX - 98.5 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNCXFM.mp3
 #EXTINF:0,WNDD - WIND-FM 95.5 FM
 https://live.wostreaming.net/manifest/saga-wyndfmaac-hlsc1.m3u8
 #EXTINF:0,WNDT - WIND-FM 92.5 FM
 https://live.wostreaming.net/manifest/saga-wyndfmaac-hlsc1.m3u8
-#EXTINF:0,WNLC - Classic 98.7 FM
-http://stream.us.gslb.liquidcompass.net/WNLCFMAAC?
 #EXTINF:0,WNNS 98.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFM.mp3
 #EXTINF:0,WNNX - Rock 105. FM
@@ -2053,8 +2035,6 @@ http://wnwi.birach.com:9002/stream/1/
 https://ice7.securenetsystems.net/WOBR
 #EXTINF:0,WOFX-FM - Fox 92.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOFXFM.mp3
-#EXTINF:0,WONC - Pure Rock 89.1 FM
-https://c11icy.prod.playlists.ihrhls.com/6201_icy
 #EXTINF:0,WONE-FM - Akron's Home of Rock and Roll 97.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WONEFM.mp3
 #EXTINF:0,Woods Hit Radio
@@ -2083,8 +2063,6 @@ https://ais-sa1.streamon.fm/7247_48k.aac
 http://stream.abacast.net/direct/townsquare-wqbkfmaac-ibc3
 #EXTINF:0,WQHZ Z 102.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHZFMAAC_SC
-#EXTINF:0,WQLZ - 97.7 QLZ Real Rock
-http://crystalout.surfernetwork.com:8001/WQLZ-FM_MP3
 #EXTINF:0,WQRS 98 Rocks
 https://ice10.securenetsystems.net/WQRS
 #EXTINF:0,WQUT 101.5 FM
@@ -2113,8 +2091,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WSKZFMAAC_SC
 https://c3.radioboss.fm:18289/stream
 #EXTINF:0,WTBR 89.7 FM
 https://pittsfieldtv.net:8443/stream
-#EXTINF:0,WTCX 95.1 and 96.1 The Rock
-https://ice24.securenetsystems.net/WTCX
 #EXTINF:0,WTKV - TK99 105.5 FM
 https://live.wostreaming.net/manifest/galaxy-wtkwfmaac-hlsc1.m3u8
 #EXTINF:0,WTKW - TK99 99.5 FM
@@ -2139,8 +2115,6 @@ https://ice8.securenetsystems.net/WXCR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXKRFM_SC
 #EXTINF:0,WXRR Rock 104.5 FM
 https://ice64.securenetsystems.net/WXRR
-#EXTINF:0,WXTL - The Rebel 105.9 FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WXTLFM.mp3
 #EXTINF:0,WYCR Rocky 98.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYCRFMAAC_SC
 #EXTINF:0,WYFM Y-103 FM

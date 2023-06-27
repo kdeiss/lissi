@@ -41,8 +41,6 @@ https://stream.zeno.fm/26k8b6s1fs8uv
 https://panel.mediacp.fr:8042/stream
 #EXTINF:0,Belèn Stereo
 https://us4freenew.listen2myradio.com/live.mp3?t
-#EXTINF:0,Bel'Radio Guadeloupe
-https://stream.rcs.revma.com/a7qacprtpwzuv
 #EXTINF:0,Bel'Radio Martinique
 https://stream.rcs.revma.com/9b1a2gyspwzuv
 #EXTINF:0,B.LOVD - Sweet Music Station
@@ -499,6 +497,8 @@ https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3
 https://guyane.ice.infomaniak.ch/guyane-128.mp3
 #EXTINF:0,La 1ère - Martinique 
 https://martinique.ice.infomaniak.ch/martinique-128.mp3
+#EXTINF:0,La 1ère - Mayotte
+http://radios.la1ere.fr/mayotte
 #EXTINF:0,La 1ère - Nouvelle Calédonie
 https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
 #EXTINF:0,La 1ère - Outre-Mer
@@ -613,6 +613,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TR_NEIVA.mp3
 https://tropicshadfm.ice.infomaniak.ch/tropicshadfm-128.mp3
 #EXTINF:0,RADIO TROPICUMBIA MIX
 https://audioconstruweb.cl/proxy/tropicumbia/stream
+#EXTINF:0,TROPIK FM
+http://sv1.vestaradio.com/TROPIKFM.m3u
 #EXTINF:0,Tropiques COMPAS
 https://www.radioking.fr/play/tropiques-compas
 #EXTINF:0,Tropiques CULTURES
@@ -685,6 +687,8 @@ https://stream.zeno.fm/kb8445yzkv8uv
 http://equinox.shoutca.st:8194/stream
 #EXTINF:0,Zim Radio
 https://zimradio.ice.infomaniak.ch/zimradio.mp3
+#EXTINF:0,ZONA 105 Radio
+http://server2.ejeserver.com:8076/stream
 #EXTINF:0,RADIO FUSION MARTINIQUE
 http://france16.coollabel-productions.com:8276/stream/1/
 #EXTINF:0,Radio ZOUKLA

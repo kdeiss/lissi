@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:0,001.EVERGREEN RADIO WORLD
 https://streamingV2.shoutcast.com/001EVERGREENRADIOWORLD
-#EXTINF:0,011.FM - Retro 70's
-http://listen.011fm.com:8006/stream04
 #EXTINF:0,011.FM - Big 80's
 https://listen.011fm.com/stream05
-#EXTINF:0,011.FM - The Office Mix
-https://listen.011fm.com/stream01
 #EXTINF:0,0nlineradio 80s ROCK
 https://stream.0nlineradio.com/80s-rock?ref=radiode
 #EXTINF:0,0nlineradio GREATEST HITS
@@ -115,6 +111,8 @@ http://1a-wirtschaftswunder.radionetz.de:8000/1a-wirtschaftswunder.mp3
 https://strm112.1.fm/60s_70s_mobile_mp3
 #EXTINF:0,1.FM - Exitos del Ayer
 https://strm112.1.fm/spanisholdies_mobile_mp3
+#EXTINF:0,1 Gold
+http://37.59.41.148:8238/stream/1/
 #EXTINF:0,1 MINI 2
 http://centauri.shoutca.st:9064/stream/1/
 #EXTINF:0,1 MINI 3
@@ -515,8 +513,6 @@ https://puma.streemlion.com:1965/stream
 http://ais-edge33-bigr-dal03.cdnstream.com/5220_128
 #EXTINF:0,Radio Belle Vallée
 http://radio.rbv.lu:8002
-#EXTINF:0,Bel'Radio Guadeloupe
-https://stream.rcs.revma.com/a7qacprtpwzuv
 #EXTINF:0,Bel'Radio Martinique
 https://stream.rcs.revma.com/9b1a2gyspwzuv
 #EXTINF:0,Berliner Rundfunk 91.4 – Die besten Hits aller Zeiten
@@ -535,8 +531,6 @@ https://stream.zeno.fm/yf7x47v1tfeuv
 https://stream.zeno.fm/nnebky0v298uv
 #EXTINF:0,Classic Rock | Best of Rock.FM
 https://bestofrockfm.stream.vip/classic/mp3-256/radiode/
-#EXTINF:0,BEST OLDIES STATION
-http://freeuk25.listen2myradio.com:22710/;stream.nsv
 #EXTINF:0,Better Music Mix Radio
 https://s8.citrus3.com:8192/stream
 #EXTINF:0,BFBS Rewind
@@ -609,8 +603,6 @@ http://us3.internet-radio.com:8409/stream/1/
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,BREMEN SIX
 https://bremen-six.stream.laut.fm/bremen-six
-#EXTINF:0,Britzon Hits Radio
-https://streaming.live365.com/a10356
 #EXTINF:0,Bromyard FM
 https://player.bromyardfm.uk/radio/8000/listen.mp3
 #EXTINF:0,Radio Bruno Classic
@@ -795,6 +787,8 @@ http://server28364.streamplus.de:10020/;
 http://87.98.245.250:8378/stream/1/
 #EXTINF:0,Club Retro
 http://s7.voscast.com:8504/stream/1/
+#EXTINF:0,Clubstory
+https://manager.conceptradio.fr:1085/stream
 #EXTINF:0,Club Trifal - Lounge
 http://stream.trifal.com:8000/lounge
 #EXTINF:0,Club Trifal - Oldies
@@ -1165,8 +1159,6 @@ https://freshradiogold.radioca.st/stream
 https://freshradiogold.radioca.st/stream
 #EXTINF:0,Fresh Wave
 https://start.radio/freshwave
-#EXTINF:0,From The Holler Indie Radio
-https://s5.radio.co/s0680b6ff6/listen
 #EXTINF:0,Fuchsbau Radio
 http://europa.shoutca.st:9216/stream/1/
 #EXTINF:0,Funk Rádio (Brasil)
@@ -1649,8 +1641,6 @@ https://radio.securenetsystems.net/v5/KKVIFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLFM.mp3
 #EXTINF:0,KKOO Kool Oldies 99.5 FM
 https://ice5.securenetsystems.net:80/KKOO
-#EXTINF:0,KKRE - Cruisin' to the Oldies 92.5 FM
-https://ice9.securenetsystems.net/KEYB
 #EXTINF:0,KKUP 91.5
 http://peridot.streamguys.com:5960/live-aac
 #EXTINF:0,kleiner-musikpalast
@@ -1751,8 +1741,6 @@ https://ice23.securenetsystems.net/KUXX
 http://dc1.serverse.com:7294/stream
 #EXTINF:0,KVKVI - Music Mike's Flashback Favorites
 http://69.46.24.226:7238/;
-#EXTINF:0,KVLC Gold 101.1 FM
-https://ice42.securenetsystems.net/KVLC
 #EXTINF:0,KVMA Magic 102.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFM_SC
 #EXTINF:0,KVOL The Rewind 1330 and 97.7
@@ -2743,8 +2731,6 @@ http://eu7.fastcast4u.com:5268/stream/1/
 http://138.201.198.218:8010/stream/1/
 #EXTINF:0,MAX5
 http://77.248.42.43:8000/stream/1/
-#EXTINF:0,MAX FM
-http://15020.cloudrad.io:9222/live
 #EXTINF:0,Maxi45
 https://maxi45.schlagerparadies.de/maxi45
 #EXTINF:0,MaXX
@@ -2798,7 +2784,7 @@ https://live.proradiosonline.com/listen/melancolia/aac
 #EXTINF:0,Mellow Rock Florida
 https://listen.radionomy.com/mellowhitsradio
 #EXTINF:0,Radio Mélodie
-https://sc.creacast.com/melodie2
+https://sc.creacast.com/melodie
 #EXTINF:0,Radio Melodiya FM Мелодія FM
 https://online.melodiafm.ua/MelodiaFM
 #EXTINF:0,Melody-4-scorpion
@@ -2864,7 +2850,7 @@ http://s5.radio.co/s52de48a74/listen.m3u
 #EXTINF:0,Moetoen
 http://shoutcast2.wirelessantwerpen.be:8412/stream/1/
 #EXTINF:0,Mona FM
-https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2
+https://monafm.ice.infomaniak.ch/monafm-high.mp3
 #EXTINF:0,Mothers Day Radio
 https://stream.zeno.fm/43ue93hzgrhvv
 #EXTINF:0,M Radio - Années 60 et 70
@@ -2983,8 +2969,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/57831/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 https://streamingp.shoutcast.com/NostalgieLeMeilleur-aac
 #EXTINF:0,NOSTALGIE CHANSONS FRANCAISES
 https://scdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Chansons-Fran-aises
-#EXTINF:0,NOSTALGIE Radio DE
-https://scdn.nrjaudio.fm/adwz1/de/57447/mp3_128.mp3?origine=radio.net
+#EXTINF:0,NOSTALGIE Deutschland
+https://frontend.streamonkey.net/nostalgie-live
 #EXTINF:0,NOSTALGIE DE Best of 60s
 https://scdn.nrjaudio.fm/adwz1/de/57477/mp3_128.mp3
 #EXTINF:0,NOSTALGIE FRENCH PARTY 80
@@ -3083,6 +3069,8 @@ https://centova01.logicahost.com.br:20038/autodj
 https://panel.retrolandigital.com/radio/8140/listen?1587156012
 #EXTINF:0,Oldies Mexico
 http://ample-zeno-12.radiojar.com/c33tdzs18s5tv
+#EXTINF:0,Oldies Music Radio
+https://listen.radionomy.com/oldiesmusic
 #EXTINF:0,Oldies Online Radio
 https://cast1.torontocast.com:1930/;
 #EXTINF:0,Oldiesparadise
@@ -3333,8 +3321,6 @@ http://fast.citrus3.com:8124/stream
 http://stream.demuziekisraak.nl:8080/;
 #EXTINF:0,Radio Rabona
 https://onair7.xdevel.com/proxy/xautocloud_umhh_1409?mp=/;1/
-#EXTINF:0,Racketeer Radio
-https://streaming.live365.com/a33242
 #EXTINF:0,Radio 0511
 https://dl1.dstr.nl/radio/radio0511
 #EXTINF:0,Rádio 101
@@ -3547,6 +3533,8 @@ http://stream.zeno.fm/flnk47wp7bnvv
 https://servidor34-3.brlogic.com:8286/live
 #EXTINF:0,Radio Flora
 https://radioflora.de/stream/live48.mp3
+#EXTINF:0,radiofmwolf
+https://fred.torontocast.com:1205/stream
 #EXTINF:0,RadioForum2
 https://s7.streamcaster.eu:8112/stream1
 #EXTINF:0,Radiofoxgarden
@@ -3773,8 +3761,6 @@ https://stream.zeno.fm/m8da9u22kwzuv
 http://s2.zkm-stream.de:8000/;
 #EXTINF:0,Radio Recuerdo 860
 https://playerservices.streamtheworld.com/api/livestream-redirect/XENLAM_SC
-#EXTINF:0,RADIO REDE DAKOTA
-http://109.169.76.155:13324/
 #EXTINF:0,Radio Regenbogen - Oldies
 https://stream.regenbogen.de/oldies/aac-128/radiode
 #EXTINF:0,Radio Reggio
@@ -3851,8 +3837,6 @@ http://onair7.xdevel.com:7046/1
 https://server4.streamserver24.com:26237/live
 #EXTINF:0,Radio Sky FM
 http://live.radiosky.ro:8000/radiosky.mp3
-#EXTINF:0,Radio So Flashack
-http://stm9.srvstm.com:13544/stream/1/
 #EXTINF:0,RADIO SOLE DIGITAL
 https://rsoled23.radioca.st/stream/1/
 #EXTINF:0,Radio Sotenas
@@ -3989,6 +3973,8 @@ https://streaming.live365.com/a67594
 https://hosting.studioradiomedia.fr:2005/stream
 #EXTINF:0,Recital 80's
 http://176.9.76.61:8031/stream/1/
+#EXTINF:0,Recuerdo 102.1
+https://live.zuperdns.net:7004/;stream.mp3
 #EXTINF:0,Recuerdos FM
 https://sonando-us.digitalproserver.com/radiorecuerdos.mp3
 #EXTINF:0,Rede Rwr
@@ -4195,6 +4181,8 @@ https://radios.sonidoshd.com:8300/stream
 https://c02.lexycast.de/SenderZitrone
 #EXTINF:0,Sensación FM - Oldies
 http://sss.cnwks.ws:8370/;
+#EXTINF:0,SeresFM
+http://radiolatina.live:7777/stream/1/
 #EXTINF:0,Shadow Radio Brunssum
 http://54.36.89.71:8037/live
 #EXTINF:0,Radio-Shakerdance
@@ -4225,6 +4213,8 @@ https://everestcast.shoutcastservices.com:1965/stream
 https://stream.zeno.fm/u1tneffk08quv
 #EXTINF:0,Sintonía Digital
 https://stream.zeno.fm/1cysfppp5a0uv
+#EXTINF:0,Sirilaka Radio
+https://servidor14.brlogic.com:8456/live
 #EXTINF:0,Skatkis Stereo
 http://64.150.176.42:8122/stream/1/
 #EXTINF:0,Skillingsviser
@@ -4363,6 +4353,8 @@ http://gemini.shoutca.st:8047/stream
 http://87.237.169.24:8000/live
 #EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
+#EXTINF:0,Sunshine-radio.eu
+http://138.201.234.215:11205/stream/1/
 #EXTINF:0,Super FM Brasov
 https://live.superfm.ro/stream.mp3?source=radionet
 #EXTINF:0,Rádio Super Funk Melody
@@ -4847,12 +4839,8 @@ https://rocket.surfernetwork.com:10001/live/wheo-am_aac/playlist.m3u8
 http://192.111.140.11:8612/stream
 #EXTINF:0,WhiteAngelStarRadio
 http://stream04.stream-webradiotechnik.de:7008/;
-#EXTINF:0,Whitedragonklein-radio
-https://s3.genx-stream.de:8752/listen1
 #EXTINF:0,Whiteheaven
 https://cast4.asurahosting.com/proxy/eurochat/stream
-#EXTINF:0,WHIY 1600 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect//WHIYAM_SC.mp3
 #EXTINF:0,WHN 1050 Gold airchecks
 https://sonic-ca.instainternet.com:8024/stream/1/
 #EXTINF:0,WHRY Oldies 95.3 & 102.9
@@ -4949,8 +4937,6 @@ https://stream-47.zeno.fm/m0rtnyfvta0uv?zs=bahq2MLRTxecs9qeqA6ZUQ
 https://ic2.sslstream.com:8000/wmvl-fm
 #EXTINF:0,WNBY Oldies 93
 https://ice23.securenetsystems.net/WNBY?playSessionID=B9042F37-155D-C0F4-0769BAFBE958993A
-#EXTINF:0,WNCL - Cool 101.3 FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WNCLFM.mp3
 #EXTINF:0,WNJH HD1
 https://streaming.live365.com/a28972
 #EXTINF:0,WNRV Power 1081
