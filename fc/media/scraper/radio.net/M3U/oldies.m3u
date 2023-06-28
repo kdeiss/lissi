@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:0,001.EVERGREEN RADIO WORLD
 https://streamingV2.shoutcast.com/001EVERGREENRADIOWORLD
+#EXTINF:0,011.FM - Retro 70's
+http://listen.011fm.com:8006/stream04
 #EXTINF:0,011.FM - Big 80's
 https://listen.011fm.com/stream05
+#EXTINF:0,011.FM - The Office Mix
+https://listen.011fm.com/stream01
 #EXTINF:0,0nlineradio 80s ROCK
 https://stream.0nlineradio.com/80s-rock?ref=radiode
 #EXTINF:0,0nlineradio GREATEST HITS
@@ -231,6 +235,8 @@ https://streaming.servicioswebmx.com/8284/stream
 https://ice24.securenetsystems.net/WVCO
 #EXTINF:0,95.7 Coast FM
 https://vistaradio.streamb.live/SB00082
+#EXTINF:0,96.5 Inner FM
+https://21363.live.streamtheworld.com/3NRAAC.aac
 #EXTINF:0,97.9 WHAV
 https://whav.streamguys1.com/live
 #EXTINF:0,Sonshine
@@ -805,8 +811,6 @@ http://c8.radioboss.fm:8114/stream
 http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream/1/
-#EXTINF:0,Cool Oldies MKE
-http://c8.radioboss.fm:8114/stream
 #EXTINF:0,Cordillera FM
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Cosmic Kaos Radio
@@ -1159,8 +1163,6 @@ https://funkyradio.streamingmedia.it/brasil
 https://funkyradio.streamingmedia.it/uk
 #EXTINF:0,FUNKY RADIO (USA)
 https://listen01.my-webradio.com/play.aac
-#EXTINF:0,Fun-Life-Music
-https://azura.nexusradio-hosting.de/listen/fun_life_music/stream
 #EXTINF:0,FunNightRadio
 http://f-nr.eu:8050
 #EXTINF:0,GABMS Mostly Sinatra 24/7
@@ -1415,8 +1417,6 @@ https://listen.openstream.co/6519/audio
 https://stream.zeno.fm/efstkoxf4botv
 #EXTINF:0,Houston Radio Platinum.com
 https://ais-edge51-live365-dal02.cdnstream.com/a83297
-#EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
-https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
 #EXTINF:0,hr4 Mitte
@@ -3315,6 +3315,8 @@ http://fast.citrus3.com:8124/stream
 http://stream.demuziekisraak.nl:8080/;
 #EXTINF:0,Radio Rabona
 https://onair7.xdevel.com/proxy/xautocloud_umhh_1409?mp=/;1/
+#EXTINF:0,Racketeer Radio
+https://streaming.live365.com/a33242
 #EXTINF:0,Radio 0511
 https://dl1.dstr.nl/radio/radio0511
 #EXTINF:0,Rádio 101
@@ -3509,8 +3511,6 @@ http://86.93.49.78:8080/live
 https://nr8.newradio.it:19602/stream
 #EXTINF:0,Radio Erzgebirge
 https://streams.bcs-systems.de/slp/live/erzgebirge/mp3/radio.de/playlist.m3u
-#EXTINF:0,Rádio Espadarte
-http://stream.zeno.fm/dt6fbu5vbv8uv
 #EXTINF:0,Radio Fantasy Classix
 https://frontend.streamonkey.net/fantasy-classix/stream/mp3?aggregator=Radio_de
 #EXTINF:0,Radio Fausto
@@ -4225,8 +4225,6 @@ http://stream.zeno.fm/dbyyuxmn4nhvv
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=radionet
 #EXTINF:0,Slingeland FM
 https://ms7.mx-cd.net/dtv-21/105-567919/Slingeland_FM.smil/playlist.m3u8
-#EXTINF:0,Small FM
-http://121.99.240.116:8001/stream
 #EXTINF:0,Smash Hits Radio Retro
 https://s3.radio.co/s802363087/listen
 #EXTINF:0,Smooth 70's
@@ -4337,6 +4335,8 @@ https://stream3.mfmstreaming.nl:2390/stream
 http://listen.radionomy.com/kempenradio
 #EXTINF:0,Studio Rock
 http://c17.radioboss.fm:8492/stream
+#EXTINF:0,Studiowelle 2 - Klinikradio Solingen
+http://stw2.selfhost.eu:1900
 #EXTINF:0,Succès d'hier
 http://live2.jupinfo.fr:8000/succesdhier
 #EXTINF:0,SU FM
@@ -4743,8 +4743,6 @@ http://audio.birach.com:9010/;stream.nsv
 https://ice10.securenetsystems.net/WDBG
 #EXTINF:0,WDBQ-FM - Q 107.5 FM
 https://live.wostreaming.net/manifest/townsquare-wdbqfmaac-hlsc3.m3u8
-#EXTINF:0,WDDT Online Radio
-https://streaming.live365.com/a40850
 #EXTINF:0,WDIC - The New 92.1 The Wolf
 http://stream1.mtcstream.com:8500/wdicfm
 #EXTINF:0,WDJO - Oldies 1480 AM
@@ -5021,6 +5019,8 @@ http://95.173.162.189:9940/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM.mp3
 #EXTINF:0,WRTZ 1410 AM
 https://www.streamvortex.com:8444/s/10090
+#EXTINF:0,WRUL 97.3 All Oldies 1460 WROY
+https://ice24.securenetsystems.net/WRUL
 #EXTINF:0,WSAT / WTIX Memories 1280
 https://ice9.securenetsystems.net/WSAT
 #EXTINF:0,WSBB AM 1230 and AM 1490
