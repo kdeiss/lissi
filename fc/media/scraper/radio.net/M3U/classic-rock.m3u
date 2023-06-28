@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,011.FM - Retro 70's
+http://listen.011fm.com:8006/stream04
 #EXTINF:0,011.FM - Big 80's
 https://listen.011fm.com/stream05
 #EXTINF:0,0nlineradio CLASSIC ROCK
@@ -671,8 +673,6 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
-#EXTINF:0,KATX 97.7 FM
-http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -799,8 +799,6 @@ https://s40.myradiostream.com/13002/stream.mp3
 https://ice8.securenetsystems.net/KMYK
 #EXTINF:0,KNEN - 94 Rock 94.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUSOFM.mp3
-#EXTINF:0,KNZS Kansas Rocks
-http://173.193.205.96:8344/;
 #EXTINF:0,KOKP / KOSB - 1020 AM & 105.1 FM
 https://crystalout.surfernetwork.com:8001/KOKB-AM_MP3
 #EXTINF:0,KONA Stream
@@ -827,8 +825,6 @@ https://ice8.securenetsystems.net/KRGY?
 https://ice41.securenetsystems.net/KRHQ
 #EXTINF:0,KRIC the Classic
 https://s3.voscast.com:10807/stream
-#EXTINF:0,KRIX 105.5 Rocket
-https://ice42.securenetsystems.net/KRIX
 #EXTINF:0,KRJK - Jack FM 97.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
 #EXTINF:0,VOCM K-Rock 97.5 FM
@@ -875,8 +871,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
-#EXTINF:0,KWBY Cowboy Radio 98.5 FM
-http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1299,6 +1293,8 @@ https://online.radioc.ru/radioc_aacplus
 http://stream-59.zeno.fm/s18vu16r0wzuv?zs=fgV_rGpESum_UnJTqUynpg
 #EXTINF:0,Radio Easy Rock
 https://sphera.fluidstream.eu/easyrock.aac
+#EXTINF:0,Radio Espacio
+http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Estación X 102.1 FM
 https://stream-43.zeno.fm/u5tsh7gucrruv?zs=4mL_wkF8T6ySdyXlFP6_zg
 #EXTINF:0,Radio Fantasma Ecuador
@@ -1855,8 +1851,6 @@ http://ice7.securenetsystems.net/WAFC?
 https://ice42.securenetsystems.net/WAIL
 #EXTINF:0,WAIL Sun 103.1 FM
 https://ice42.securenetsystems.net/WAIL
-#EXTINF:0,WAVS - 1170 AM Radio
-http://173.193.205.96:7034/stream
 #EXTINF:0,WAXS - Groovy 94.1 FM
 https://streamdb8web.securenetsystems.net/cirruscontent/WAXS
 #EXTINF:0,WBLM - Portland's Classic Rock 102.9 FM

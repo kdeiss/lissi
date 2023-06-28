@@ -733,6 +733,8 @@ http://192.187.112.50:8039/stream/1/
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHQT.mp3
 #EXTINF:0,Exa FM Oaxaca
 http://ororadio2.serverroom.us:4638/;stream/1
+#EXTINF:0,Exa FM Piedras Negras
+http://192.187.112.50:8202/stream/1/
 #EXTINF:0,Exa FM Puerto Vallarta
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX.mp3
 #EXTINF:0,Exa FM Tampico
@@ -2401,8 +2403,6 @@ https://emisoras.hn:2000/stream/hn504
 https://ssl.xcast.com.br:8046/;
 #EXTINF:0,Radio Horizonte Atlântica
 https://spaudio.servers.pt/8018/stream
-#EXTINF:0,RADIO HOY
-https://radiohd.streaminghd.co:7757/live
 #EXTINF:0,Radio Ibérica
 https://sonic1.transmissaodigital.com:7031/stream/1/
 #EXTINF:0,Radio Ideal 
@@ -2523,6 +2523,8 @@ http://streaming.hdserver.biz:9330/stream/1/
 https://cp.sonicpanel.stream/8204/stream
 #EXTINF:0,Radio Markasa
 http://stream-57.zeno.fm/5b0mfy5tnv8uv?zs=OFaOw-RCQZiRAewd0J5MrQ
+#EXTINF:0,RADIO MARK COLOMBIA 98.8 FM
+https://radiohd.streaminghd.co:7565/stream
 #EXTINF:0,Radiomar Plus
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR.mp3
 #EXTINF:0,Radio Más
@@ -2711,8 +2713,6 @@ http://server1.dainusradio.com:9884/;
 https://radio.streamingcpanel.com/8038/stream
 #EXTINF:0,Radio Vallarta Mx
 https://stream.radio.co/sfa7eaa3a5/listen
-#EXTINF:0,Radio Variedades
-http://173.193.205.96:7055/
 #EXTINF:0,Radio Vida
 https://radio.hostgleidy.com:7000/;
 #EXTINF:0,Radio Vida 1620 AM
@@ -3097,6 +3097,8 @@ https://chanlive.club/radio/8040/radio.mp3
 http://65.21.202.84:8591/stream
 #EXTINF:0,Thames FM London Soul Radio
 https://streamer.radio.co/s7379f3184/low
+#EXTINF:0,THE BASEMENT RADIO
+https://basementradionet.out.airtime.pro/basementradionet_b
 #EXTINF:0,The Club 92.0 FM
 https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3
 #EXTINF:0,THE FLASH RADIO
@@ -3323,6 +3325,8 @@ https://emisoras.colombiacrossover.com/proxy/viejoteca?mp=/;
 https://sonic01.instainternet.com:7064/stream/1/
 #EXTINF:0,Villa Central Radio
 https://stream-59.zeno.fm/ke2qm08ufnzuv?zs=1xpQayZgSxajDEa5kmCSsA
+#EXTINF:0,Villagarzon Stereo 88.3
+https://stream.zeno.fm/06n7f4q3rtzuv
 #EXTINF:0,Villaverde FM
 http://ample-zeno-09.radiojar.com/27fqabnuy3duv
 #EXTINF:0,Villegas 91.1 FM
@@ -3409,8 +3413,6 @@ https://1.ice1.sslstream.com/waye_fm.mp3
 https://stream.revma.ihrhls.com/zc7731/hls.m3u8
 #EXTINF:0,WKDB Maxima 95.3 FM
 https://ice66.securenetsystems.net/WKDB
-#EXTINF:0,WKJR - Radio Variedades 1460 AM
-http://173.193.205.96:7055/stream
 #EXTINF:0,WLAT La Mega 101.7
 https://server20.servistreaming.com:9003/stream
 #EXTINF:0,WLFM-LP La Mega 87.7

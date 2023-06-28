@@ -98,7 +98,7 @@ http://nr2.newradio.it:8056/stream
 #EXTINF:0,RadioArt: After Midnight
 https://live.radioart.com/fAfter_midnight.mp3
 #EXTINF:0,Radio Agroempresario
-http://agroempresario.dyndns.org:8000/;
+https://cdn.agroempresario.com/uploads/3e6ec51b9ca9190651111f9bf5637c10b967a26831.mp3
 #EXTINF:0,Aires Radio
 https://radios.solumedia.com:10967/stream
 #EXTINF:0,Alerta Pereira
@@ -155,10 +155,6 @@ https://live.radioart.com/fBallet_music.mp3
 https://live.radioart.com/fBaroque.mp3
 #EXTINF:0,Bartok Radio
 http://mr-stream.mediaconnect.hu/4739/mr3.aac
-#EXTINF:0,Batuta Radio
-http://51.15.160.78:8192/stream/1/
-#EXTINF:0,Batuta Radio
-http://51.15.160.78:8192/streaming
 #EXTINF:0,Bayrak Klasik
 http://sc.brtk.net:8006/stream/1/
 #EXTINF:0,Bayraktar Radyo
@@ -979,8 +975,6 @@ https://helenefm.ice.infomaniak.ch/helenefm-low.aac
 http://stream.radiojar.com/edb9h1xu5yzuv
 #EXTINF:0,CONCENTRACIÓN - CALM RADIO Zen
 https://streams.calmradio.com:14028/stream/1/?radiode
-#EXTINF:0,B.O. par Cinemix
-https://kathy.torontocast.com:1825/stream
 #EXTINF:0,CLASSIQUE par Classic FM
 http://media-ice.musicradio.com/ClassicFM.m3u?radiode
 #EXTINF:0,STUDY - Whisperings Solo Piano Radio
@@ -1299,6 +1293,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCAAC96.aac
 http://kuvo-ice.streamguys.org/kuvohd2-mp3-64
 #EXTINF:0,KUWY Classical Wyoming 88.5 FM
 https://wyoming-public-ice.streamguys1.com/CLS128MP3
+#EXTINF:0,KVNO - Classical 90.7 FM
+https://kvnovm-hd1.unomaha.edu:8443/listen.aac
 #EXTINF:0,KVOD Colorado Public Radio Classical 88.1 FM
 https://stream1.cprnetwork.org/cpr2_lo
 #EXTINF:0,KVPR - Valley Public Radio Classical
@@ -1871,6 +1867,8 @@ https://solopiano-high.rautemusik.fm/?ref=radiode
 https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/mid?aggregator=radio-de
 #EXTINF:0,Radio Bon Esprit International
 https://radiobonespritinternational.ice.infomaniak.ch/rbeinter.mp3
+#EXTINF:0,RC1 RADIO
+https://nr9.newradio.it/proxy/ccampa00?mp=/stream?ext=.mp3
 #EXTINF:0,Radio Classica Bresciana
 https://ice15.fluidstream.net/classicabresciana.aac?FLID=8&type=.aac
 #EXTINF:0,RCO Live Webradio
