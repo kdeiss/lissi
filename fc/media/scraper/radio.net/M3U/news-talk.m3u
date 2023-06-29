@@ -417,8 +417,6 @@ http://stream2.bbnradio.org:8000/spanish
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=%2Fstream
 #EXTINF:0,BBS Radio Station 1
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=/stream
-#EXTINF:0,BBS Radio Station 2
-https://cast.bbstalkradio.com/proxy/bbsradio2?mp=/stream
 #EXTINF:0,WBVP & WMBA Radio
 https://ice23.securenetsystems.net/WBVP?
 #EXTINF:0,Bela FM
@@ -1869,8 +1867,6 @@ https://nwmedia-ktisam.streamguys1.com/ktis-am
 http://peridot.streamguys.com:5110/live
 #EXTINF:0,KDQN - Southwest Arkansas Daily 1390 AM
 https://ice6.securenetsystems.net/KDQN?
-#EXTINF:0,KDR 100.3 FM
-http://stream.zeno.fm/khuv8vm4b48uv
 #EXTINF:0,KDUS - NBC Sports AM 1060
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDUSAM.mp3
 #EXTINF:0,KEDM Public Radio 90.3 FM
@@ -3487,8 +3483,6 @@ http://radio.almg.gov.br/radio
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
 http://185.118.112.12:8029/stream/1/
-#EXTINF:0,Radio Aventura
-https://enacast.com/carmelomartin/streams/HD
 #EXTINF:0,Rádio Azul 1440 AM
 http://r16.ciclano.io:9619/stream
 #EXTINF:0,Rádio Bandeirantes FM 94.9
@@ -3597,6 +3591,8 @@ http://paineldj.com.br:8149/stream
 https://servidor26.brlogic.com:8066/live
 #EXTINF:0,Radio Drenthe
 https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+#EXTINF:0,RADIO 4 DR SHASHANK JOSHI
+https://cast4.asurahosting.com/proxy/drshashankjoshi/live
 #EXTINF:0,Radio Duna
 https://unlimited3-cl.dps.live/duna/gotardis/audio/now/livestream1.m3u8
 #EXTINF:0,Radio Du Peuple
@@ -4681,6 +4677,8 @@ http://vprstate.streamguys.net:80/vprhouse24.mp3
 http://vprstate.streamguys.net:80/vprsenate24.mp3
 #EXTINF:0,Via Litoral News
 http://stm23.srvaudio.com.br:10252/;
+#EXTINF:0,Vikings Radio
+https://n37b-e2.revma.ihrhls.com/zc1209/hls.m3u8?zip=&rj-ttl=5&streamid=1209&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&rj-tok=AAABhDQE33kAz9TyRKYhkupfEA&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=6202195145&aw_0_1st.skey=6202195145&host=webapp.US&playedFrom=157&stationid=1209&territory=US
 #EXTINF:0,Villegas 91.1 FM
 https://server4.hostradios.com/8118/stream
 #EXTINF:0,Vintage Broadcast
@@ -4913,6 +4911,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WCVEFM_SC
 https://amber.streamguys1.com:5595/riprdeskweb-aac
 #EXTINF:0,WCYB Digital Radio
 https://s5.radio.co/s7054ccd6d/listen
+#EXTINF:0,WDAE 620 AM 95.3 FM
+https://n3bb-e2.revma.ihrhls.com/zc673/hls.m3u8
 #EXTINF:0,WDAY 970 AM
 https://ice2.securenetsystems.net/WDAY
 #EXTINF:0,WDBL Springfield's News Talk 1590 AM
@@ -4947,6 +4947,8 @@ https://crystalout.surfernetwork.com:8001/WDRC-AM_MP3
 https://ice42.securenetsystems.net/WDUN
 #EXTINF:0,WDUN-FM - North Georgia's Newstalk 102.9 FM
 https://ice42.securenetsystems.net/WDUN
+#EXTINF:0,WDVE 102.5 DVE
+https://n2eb-e2.revma.ihrhls.com/zc2017/hls.m3u8
 #EXTINF:0,WDWS - The News Gazette 1400 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WDWSAM.mp3
 #EXTINF:0,WDWS News Talk 1400 DWS
@@ -5789,8 +5791,6 @@ https://live.wostreaming.net/direct/univision-wvivfmaac-imc1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVLKFM_SC
 #EXTINF:0,WVLK NewsTalk 590 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVLKAMAAC_SC
-#EXTINF:0,WVLY 1370 AM
-http://134.209.76.120:8000/WVLY.MP3
 #EXTINF:0,WVMT 620 AM
 https://crystalout.surfernetwork.com:8001/WVMT-AM_MP3
 #EXTINF:0,WVNN NewsTalk 770 AM / 92.5 FM
@@ -5873,6 +5873,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXYTFM.mp3
 #EXTINF:0,WYAB 103.9 FM
 http://www.wyab.com:81/stream
+#EXTINF:0,WYGM 740 The Game 96.9
+https://n0eb-e2.revma.ihrhls.com/zc601/hls.m3u8
 #EXTINF:0,WYMS - 88Nine Radio Milwaukee 89.9 FM
 http://radiomilwaukee.streamguys.net/live
 #EXTINF:0,WYOO - Talk Radio 101.1 FM
