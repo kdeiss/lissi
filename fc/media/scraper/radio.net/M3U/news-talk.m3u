@@ -5,6 +5,8 @@ https://live.xmcdn.com/live/91/64.m3u8
 https://www.radioking.com/play/francaisdanslemonde
 #EXTINF:0,1010 WINS
 https://live.wostreaming.net/manifest/audacy-winsamaac-imc
+#EXTINF:0,Radio 101 FM - La Unión
+https://srv.liveweb.cl:9000/radio101
 #EXTINF:0,102.5 The Bone
 https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac
 #EXTINF:0,COOL FM 103.5
@@ -109,8 +111,6 @@ https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_18845_stream_60082
 https://streamer.radio.co/sa3b588f32/listen
 #EXTINF:0,88.9 Noticias
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFM.mp3
-#EXTINF:0,89.3 KPCC
-https://prod-54-81-231-255.wostreaming.net/southerncalipr-kpccfmmp3-imc?
 #EXTINF:0,89.7 WGBH
 https://streams.audio.wgbh.org/wgbh-aac
 #EXTINF:0,89 FM
@@ -459,8 +459,6 @@ https://s5.radio.co/sf54a627cd/listen
 https://25703.live.streamtheworld.com/BNR_NIEUWSRADIO_SC
 #EXTINF:0,BNR Radio Vidin - БНР Радио Видин
 http://89.106.110.85:8000/;
-#EXTINF:0,Bola Branca
-https://renascenca.mc.tritondigital.com/OMNY_RDIORENASCENANOTICIRIOSBOLABRANCA_PODCAST_P/media/d/clips/58028bcf-e01f-4274-aca7-ad3300f67928/6f9773f6-575d-4f93-b9f6-ad7800b75649/83c2da54-1d50-4ab5-ab36-ae63017b1ca9/audio/direct/t1648249252/Bola_Branca_22h29.mp3?t=1648249252&in_playlist=758f2e85-2a74-401a-ab8c-ad7800b7576c&utm_source=Podcast
 #EXTINF:0,Bon Déjeuner! Radio
 https://listen.radioking.com/radio/1743/stream/125
 #EXTINF:0,BOX : Old Time Radio Shows
@@ -879,8 +877,6 @@ https://icecast2.play.cz/cro7-128.mp3
 https://rozhlas.stream/karlovy_vary_high.aac
 #EXTINF:0,Český rozhlas Radiožurnál
 https://portal.rozhlas.cz/sites/default/files/audios/64bce24ff59397694085c205df1d3b1f.mp3
-#EXTINF:0,CFAC - The Fan 960 AM
-https://21423.live.streamtheworld.com/T_RAD_HITS_S01AAC.aac?
 #EXTINF:0,CFCB 570 AM
 https://newcap.leanstream.co/CFCBAM
 #EXTINF:0,CFFR 660 News
@@ -1715,6 +1711,8 @@ http://95.217.75.38:9120/stream/1/
 http://stm3.xcast.com.br:6810/stream/1/
 #EXTINF:0,Jovem Pan 1020 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_AMAAC.aac
+#EXTINF:0,Jovem pan News (Curitiba)
+https://r18.ciclano.io:15156/live
 #EXTINF:0,Jovem Pan News Itapetininga
 https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC_SC
 #EXTINF:0,Jovem Pan FM Jaboticabal
@@ -3943,8 +3941,6 @@ https://icecast.teveo.cu/b3jbfThq
 https://streams.loudspeaker.org/radio/8020/talk
 #EXTINF:0,Rádio Renascença - Noticiário
 https://amsrr.streaming.mediaservices.windows.net/9671bb22-3678-4b73-b944-5f5ee2344eb2/noticiario_2803202217148443.mp3
-#EXTINF:0,Rádio Renascença - Noticiários
-https://renascenca.mc.tritondigital.com/OMNY_RDIORENASCENANOTICIRIOS_PODCAST_P/media/d/clips/58028bcf-e01f-4274-aca7-ad3300f67928/d4d808c0-10fc-4c94-bc85-ad7800a097e2/c4248055-b55b-4055-83bb-ae660078e633/audio/direct/t1648452034/Notici_rio_das_8h.mp3?t=1648452034&in_playlist=e96b5334-2b08-4ee7-a9f7-ad7800a099e1&utm_source=Podcast
 #EXTINF:0,Radio Republica 99.9 FM
 https://streamlky.alsolnet.com/republica99
 #EXTINF:0,Radio RF101
@@ -4317,8 +4313,6 @@ http://us4.internet-radio.com:8027/stream
 https://cast2.my-control-panel.com/proxy/radioso3/stream
 #EXTINF:0,Steelers Nation Radio
 https://cdn3.wowza.com/1/T0RzenNieVdQZlhj/OTd3RUJW/hls/live/playlist.m3u8
-#EXTINF:0,Soflo Radio
-http://los.cdnstream.com/1134_64
 #EXTINF:0,Soft Hits 93.5 FM WAKR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC
 #EXTINF:0,Ágora Sol Radio
@@ -5573,8 +5567,6 @@ https://stream.revma.ihrhls.com/zc2145/hls.m3u8
 http://streaming.wrek.org:8000/wrek_live-128kb?1404312978453.mp3
 #EXTINF:0,WRFX The Fox 99.7 FM live
 https://stream.revma.ihrhls.com/zc1613/hls.m3u8
-#EXTINF:0,WRHD - The Game 94.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRHDFM.mp3
 #EXTINF:0,WRHI - 1340 AM and 94.3 FM
 https://ice7.securenetsystems.net/WRHI
 #EXTINF:0,WRHL - Newstalk 1060 AM
