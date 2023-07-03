@@ -1058,7 +1058,7 @@ https://radiosonline.one/radio/8090/radio.mp3
 #EXTINF:0,90s
 https://channels.fluxfm.de/90s/stream.aac
 #EXTINF:0,FM101 - The Planet
-https://c9.radioboss.fm:18130/stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC445_SC
 #EXTINF:0,FM1 80s & 90s 
 https://stream.streambase.ch/ffm/mp3-192/fm18090-radiode/
 #EXTINF:0,FM 92.1 - Est Ontarien
@@ -1603,8 +1603,6 @@ http://213.175.217.198:8000/laserhq
 http://s2.netradiofm.com:8076/;
 #EXTINF:0,LATI2
 https://stream.zeno.fm/uvcmtznv34zuv
-#EXTINF:0,La Tremenda Stereo
-http://167.86.120.212:8000/;
 #EXTINF:0,Radio Rotter See
 https://stream.laut.fm/radio-rotter-see?ref=radiode
 #EXTINF:0,La Urban Radio
@@ -2170,13 +2168,13 @@ https://meerradio.ip-streaming.net/meerradio
 #EXTINF:0,Mega Classics
 http://megaclassics.primcast.com:9120/stream/1/
 #EXTINF:0,MEGARADIOmix Bayern
-http://stream.megaradio.bayern:5252
+https://stream3.radiodienst.de/proxy/megaby/mega
 #EXTINF:0,MEGARADIOmix – Augsburg
 http://stream.megaradio.bayern:5353
 #EXTINF:0,MEGARADIOmix – München
-http://stream.megaradio.bayern:5454
+https://stream3.radiodienst.de/proxy/megaby/muenchen
 #EXTINF:0,MEGARADIOmix – Nürnberg
-http://stream.megaradio.bayern:5656
+https://stream3.radiodienst.de/proxy/megaby/nuernberg
 #EXTINF:0,Megatron Mix FM
 https://servermax.azuracast.com.es/listen/megatronmixfm/radio.mp3
 #EXTINF:0,Radio Mela
@@ -2720,7 +2718,7 @@ https://stream01.ouveai.com.br:1054/stream
 #EXTINF:0,Radio Bell Island 93.9 FM
 http://ca5.rcast.net:8066/;
 #EXTINF:0,Radio Benelux Hilversum
-https://joeyjunge.radioca.st/stream/1/
+https://ex52.voordeligstreamen.nl/8070/stream
 #EXTINF:0,Radio Berg
 https://stream.lokalradio.nrw/444z6rp
 #EXTINF:0,Radio Berg - Dein 90er Radio
@@ -2865,8 +2863,6 @@ https://stream.lokalradio.nrw/444zjn6
 https://streams.bcs-systems.de/slp/90er/erzgebirge/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radio Escarabajo
 https://sp.onliveperu.com/8010/stream/type=mp3
-#EXTINF:0,Radio Espacio
-http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Essen - Dein 90er Radio
 https://stream.lokalradio.nrw/444zjpx
 #EXTINF:0,Radio Estación 24/7
@@ -2903,8 +2899,6 @@ https://stream.zeno.fm/dhxbvuurw38uv
 http://streaming01.dwservers.net:8300/stream/1/
 #EXTINF:0,Radio Fórmula 24
 https://stream.radiojar.com/ympb8vef3p8uv
-#EXTINF:0,RADIO FOX
-https://s3.slotex.pl/shoutcast/7170/stream
 #EXTINF:0,Radio Freccia La Rocca
 https://listen.radioking.com/radio/453545/stream/508427
 #EXTINF:0,Radio Frecuencia
@@ -3091,8 +3085,6 @@ https://streaming5.locucionar.com/proxy/radiomundo?mp=/stream
 http://88.198.175.30:6275/musicstar-web.mp3
 #EXTINF:0,Radio Musicworld
 https://audioconstruweb.cl/proxy/musicworld/stream
-#EXTINF:0,Radio-Mystic-Energy
-https://bayern.streampanel.net:10292/stream/1/
 #EXTINF:0,Radio-Nautilus
 http://server3.streamserver-unlimited.de:8960/stream/1/
 #EXTINF:0,Radio Neandertal - Dein 90er Radio
@@ -3201,8 +3193,6 @@ http://s01.taaqui.org:8702/stream/1/
 https://stream2.eistreaming.com/7068/stream
 #EXTINF:0,Radio Retrospectiva
 http://panelradio.online:8148/mp3
-#EXTINF:0,Radio Rey Music
-https://antares.dribbcast.com/proxy/radiorey?mp=/stream
 #EXTINF:0,Radio Rio Preto Internet
 https://ssl.painelcast.com:7586/stream
 #EXTINF:0,Radio Romantic
@@ -3260,7 +3250,7 @@ https://stream.zeno.fm/qmmdshss0wzuv
 #EXTINF:0,Radio Stereo Monimbo
 http://stream-50.zeno.fm/mfc879gzfm8uv?zs=bJlSVPnlS4u9O-BiNl4kKQ
 #EXTINF:0,Web Rádio Stilo Musical
-https://player.painelcast.com/proxy/6938/;
+http://stm1.jnbhost.com.br:7014/stream
 #EXTINF:0,Radio STRAX
 https://playoutonestreaming.com/proxy/strax?mp=/stream
 #EXTINF:0,Radio Studio Dance
@@ -3610,7 +3600,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DEV_SEAFM.mp3
 #EXTINF:0,Selby Radio
 https://radioselby.radioca.st/stream
 #EXTINF:0,Select'tubes
-http://82.66.141.227:8000/selectube
+https://streaming.shoutcast.com/select-tubes
+#EXTINF:0,SEMA FM 98.3
+https://node-13.zeno.fm/8nby4derqwzuv.aac
 #EXTINF:0,Senkanime Radio
 http://stm43.stmsrv.com:8014/;
 #EXTINF:0,Sertanejo FM
@@ -4021,6 +4013,8 @@ https://radio.stream.smcdn.pl/icradio-p/6170-1.aac/playlist.m3u8
 http://i4.streams.ovh:8202/stream
 #EXTINF:0,VoyTu Radio MX
 https://stream.zeno.fm/2x3c4phtezzuv
+#EXTINF:0,VTC Radio - Lactose
+http://80.249.151.197:8000/stream
 #EXTINF:0,Walkmanradio 80s90s
 https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream
 #EXTINF:0,WALTS WELT 

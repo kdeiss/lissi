@@ -25,6 +25,8 @@ https://bonneville.cdnstream1.com/2700_48.aac
 https://sr1.publicssl.net/srv/8004/live
 #EXTINF:0,104FM.ca - Only Rock
 https://sr1.publicssl.net/srv/8004/live
+#EXTINF:0,105.7 EZ Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHREFMAAC.aac
 #EXTINF:0,Radio 105 Rock
 https://s5.voscast.com/cdn/?k=63f8e174e3cd5&m=;stream1677255029881/1
 #EXTINF:0,106.1 The Goat
@@ -423,8 +425,6 @@ https://astro4.rastream.com/rock
 https://listen.radionomy.com/classic-rock-records.m3u
 #EXTINF:0,Clock Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC164.aac
-#EXTINF:0,Radio Club Network
-http://nr9.newradio.it:9438/stream/1/
 #EXTINF:0,Coast Rock FM
 https://streaming.shoutcast.com/coast-rock-fm
 #EXTINF:0,Colmena Radio
@@ -669,6 +669,8 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
+#EXTINF:0,KATX 97.7 FM
+http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -723,6 +725,8 @@ http://streamdb7web.securenetsystems.net/cirrusencore/KFIX
 http://streaming.live365.com/a11112
 #EXTINF:0,KFSE - The Fuse 106.9 FM
 https://ice6.securenetsystems.net/KFSE?type=.mp3
+#EXTINF:0,KFXJ - The Fox 104.5 FM
+https://ais-sa1.streamon.fm/7720_128k.aac
 #EXTINF:0,KFZX Classic Rock 102 FM
 https://ice5.securenetsystems.net/KFZX
 #EXTINF:0,KGBB - Bob 103.9 FM
@@ -819,8 +823,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFM.mp3
 https://ice8.securenetsystems.net/KRGY?
 #EXTINF:0,KRHQ Q102.3
 https://ice41.securenetsystems.net/KRHQ
-#EXTINF:0,KRIC the Classic
-https://s3.voscast.com:10807/stream
 #EXTINF:0,KRJK - Jack FM 97.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
 #EXTINF:0,VOCM K-Rock 97.5 FM
@@ -867,6 +869,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1289,14 +1293,10 @@ https://online.radioc.ru/radioc_aacplus
 http://stream-59.zeno.fm/s18vu16r0wzuv?zs=fgV_rGpESum_UnJTqUynpg
 #EXTINF:0,Radio Easy Rock
 https://sphera.fluidstream.eu/easyrock.aac
-#EXTINF:0,Radio Espacio
-http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Estación X 102.1 FM
 https://stream-43.zeno.fm/u5tsh7gucrruv?zs=4mL_wkF8T6ySdyXlFP6_zg
 #EXTINF:0,Radio Fantasma Ecuador
 https://turadio.accesopanel.com/8370/stream
-#EXTINF:0,RADIO FOX
-https://s3.slotex.pl/shoutcast/7170/stream
 #EXTINF:0,Radio Free California
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC001.mp3
 #EXTINF:0,Radio Free Raleigh
@@ -1969,8 +1969,6 @@ https://ice6.securenetsystems.net/WKIT?type=.mp3
 https://ice5.securenetsystems.net/WKLC?
 #EXTINF:0,WKLT - The Rock Station 97.5 FM
 https://live.wostreaming.net/manifest/midwestern-wkltfmaac-ibc1
-#EXTINF:0,WKRD The Cove
-https://streaming.live365.com/a92360
 #EXTINF:0,WKRU The 106.7 Big Dog FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKRUFMAAC_SC
 #EXTINF:0,WKRZradio
@@ -2083,8 +2081,6 @@ https://sheradio1055.com/ListenLive.m3u
 https://playerservices.streamtheworld.com/api/livestream-redirect/WSKZFMAAC_SC
 #EXTINF:0,WSSE-DB
 https://c3.radioboss.fm:18289/stream
-#EXTINF:0,WTBR 89.7 FM
-https://pittsfieldtv.net:8443/stream
 #EXTINF:0,WTCX 95.1 and 96.1 The Rock
 https://ice24.securenetsystems.net/WTCX
 #EXTINF:0,WTKV - TK99 105.5 FM
