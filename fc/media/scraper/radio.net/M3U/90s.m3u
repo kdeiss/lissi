@@ -235,6 +235,8 @@ https://listen.radionomy.com/aambiance-90.m3u
 https://listen.radionomy.com/abcd-eurodance.m3u
 #EXTINF:0,ABC music
 https://stream.zeno.fm/61q19vh9d2zuv
+#EXTINF:0,Absolute Radio 90s
+https://tx.planetradio.co.uk/icecast.php?i=absolute90s.mp3
 #EXTINF:0,Absolut relax
 https://absolut-relax.live-sm.absolutradio.de/absolut-relax?aggregator=RadioDe
 #EXTINF:0,Absolut Rock
@@ -837,8 +839,6 @@ https://superaudio.radio.br/radio/8100/stream
 https://uk2.internet-radio.com/proxy/divinestream?mp=%2Fstream
 #EXTINF:0,DJ FLEX LIVE
 http://caster.fnshosting.com:8066/live
-#EXTINF:0,DJ Molemix Radio
-https://server.streamingradios.net:7096/stream/1/
 #EXTINF:0,Dj Nic Music
 https://wupn864.out.airtime.pro/wupn864_a?_ga=2.185339433.1609580828.1636862335-425292757.1612150893
 #EXTINF:0,Dj Osso Radio
@@ -2111,6 +2111,8 @@ https://hel-ais-relay2.leanstream.co/goldenwest/CKRCFM.stream/playlist.m3u8
 https://host.audiolatam.com/8070/stream
 #EXTINF:0,Mágica Estereo
 https://cloud8.vsgtech.co/8066/stream
+#EXTINF:0,Magic Chilled
+https://tx.planetradio.co.uk/icecast.php?i=magicchilled.mp3
 #EXTINF:0,MagicExpressRadio
 https://stream.laut.fm/magicexpressradio?ref=radiode
 #EXTINF:0,Magic FM Montreal
@@ -2400,7 +2402,7 @@ https://streams.olympia-classics.nl/classics
 #EXTINF:0,Omroep Horst aan de Maas
 https://msic.mx-cd.net/157-661257/Omroep_Horst_aan_de_Maas
 #EXTINF:0,on-4your-life
-http://stream-02.mystical-host.de:8000/listen
+http://stream-02.mystical-host.de:8000/stream
 #EXTINF:0,ON 90s
 https://0n-90s.radionetz.de/0n-90s.mp3
 #EXTINF:0,ONDA 80 RADIO
@@ -2549,6 +2551,8 @@ https://radios.poolwebwork.com.br/8010/stream
 https://ecmanager2.pro-fhi.net/popculture
 #EXTINF:0,Pop FM 98.7
 https://stream.zeno.fm/2x2m1q526zmtv
+#EXTINF:0,PoP-Radio.eu
+https://stream.440hz-radio.de/440hz-main.mp3
 #EXTINF:0,PopRock
 https://stream.zeno.fm/8r9zw7tgvzzuv
 #EXTINF:0,Port d'Albret FM 
@@ -2647,6 +2651,8 @@ http://radiostreaming.cloudserverlatam.com:8006/live
 https://radio4life.de:8219/stream
 #EXTINF:0,Rádio 4U
 https://mpc1.mediacp.eu/stream/radio4u
+#EXTINF:0,Radio 4youfm
+https://s3.slotex.pl/shoutcast/7078/stream?sid=1
 #EXTINF:0,Radio 506SR
 http://stream-47.zeno.fm/znuaqgce1d0uv?zs=qhfJoArsRt6ccZUJPjnO_w&rj-tok=AAABecdkiKIAF5tLQHSEOxJpHg&rj-ttl=5
 #EXTINF:0,Radio 5 - Legend
@@ -2863,6 +2869,8 @@ https://stream.lokalradio.nrw/444zjn6
 https://streams.bcs-systems.de/slp/90er/erzgebirge/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radio Escarabajo
 https://sp.onliveperu.com/8010/stream/type=mp3
+#EXTINF:0,Radio Espacio
+http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Essen - Dein 90er Radio
 https://stream.lokalradio.nrw/444zjpx
 #EXTINF:0,Radio Estación 24/7
@@ -3223,8 +3231,6 @@ https://stream.zeno.fm/xt7hzq0nshruv
 https://stream.saw-musikwelt.de/saw-90er/mp3-128/radiode/stream.mp3
 #EXTINF:0,RADIO SCHWABEN
 https://s35.derstream.net/radioschwaben-aac.mp3
-#EXTINF:0,RadioScia
-https://rswr.radioca.st/;stream.nsv
 #EXTINF:0,Radio Sevagram
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Radio Siegen - Dein 90er Radio
@@ -3701,8 +3707,6 @@ https://starhit-audiosales.radioca.st/stream/1/
 http://81.204.18.78:8090/aac
 #EXTINF:0,Star Power Musique
 https://listen.radioking.com/radio/178591/stream/220252
-#EXTINF:0,Star-Power-Radio
-http://89.22.110.233:8000/;
 #EXTINF:0,STATIC: THE BEST OF 1989
 https://streamingV2.shoutcast.com/Static-TheBestof1989
 #EXTINF:0,STATIC: THE BEST OF 1991
@@ -4163,8 +4167,6 @@ https://streamingv2.shoutcast.com/WVDU-VooDooRadio
 https://ice66.securenetsystems.net/WVOS
 #EXTINF:0,WYLC RADIO-Varity (Vintage Rock &amp; Classic Country
 https://wylcradio.com/
-#EXTINF:0,X13 Radio - 90's Hits
-https://x13.streamguys1.com/x13-90shits
 #EXTINF:0,X1 Radio 80s
 http://x1.xsminternet.com:58090/stream/2/
 #EXTINF:0,XD Radio

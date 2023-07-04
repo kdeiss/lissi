@@ -123,6 +123,8 @@ https://c32.radioboss.fm:18566/stream
 https://live-radio01.mediahubaustralia.com/2TJW/aac/
 #EXTINF:0,ABC Triple J NT
 https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/index.m3u8
+#EXTINF:0,Absolute Radio 90s
+https://tx.planetradio.co.uk/icecast.php?i=absolute90s.mp3
 #EXTINF:0,Absolute Rock
 http://www.absolute-rock.com:8000/mp3
 #EXTINF:0,acareimon Radio
@@ -427,6 +429,8 @@ https://ice7.securenetsystems.net/CHRY
 http://luradio-server.lakeheadu.ca:8000/stereo128
 #EXTINF:0,CILV Live 88.5 
 https://newcap.leanstream.co/CILVFM
+#EXTINF:0,CIOI The Hawk 101.5 FM
+https://hawkstream.mohawkcollege.ca/1/
 #EXTINF:0,CIRV Red FM 88.9
 https://ice9.securenetsystems.net/CIRVFM
 #EXTINF:0,CiTR 101,9 FM
@@ -887,8 +891,6 @@ http://klfm.streamradio.com.hr:8500/listen.pls
 http://130.39.238.143:8010/stream.aac
 #EXTINF:0,KCMU FM 90.5
 http://129.82.220.62:8000/;
-#EXTINF:0,KMNR 89.7 FM
-https://boombox.kmnr.org/webstream.mp3
 #EXTINF:0,KNDD - The End 107.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNDDFMAAC.aac
 #EXTINF:0,KNOB 96.7 Bob FM
@@ -1614,7 +1616,7 @@ http://stream.zeno.fm/wpbe6f8q8bhvv
 #EXTINF:0,O.F.I Monday Radio
 https://sirius.dribbcast.com/8010/stream/1/
 #EXTINF:0,on-4your-life
-http://stream-02.mystical-host.de:8000/listen
+http://stream-02.mystical-host.de:8000/stream
 #EXTINF:0,Ona359FM
 http://endirecte.ona359fm.cat:8880/iscle359.mp3
 #EXTINF:0,Onda Terral
@@ -1741,6 +1743,8 @@ https://ssl.livecastradio.com:7014/stream/1/
 https://purerock.radioca.st/stream/1/
 #EXTINF:0,PXL radio
 https://live.radiostudio.be/pxl.m3u
+#EXTINF:0,Q101 - All Alternatives
+https://ice5.securenetsystems.net/Q101
 #EXTINF:0,Q Relajo
 https://one.cloudstreaming.eu/proxy/delgadl1/stream
 #EXTINF:0,QSRock.Radio
@@ -2445,8 +2449,6 @@ http://streamer2.legatocommunications.com/wapshq
 https://streaming.live365.com/a06194
 #EXTINF:0,WBCR 90.3 FM
 http://wbcr.streamon.fm/hls/WBCR-48k.m3u8
-#EXTINF:0,WBER FM 90.5 
-http://wber-ice-encoder.monroe.edu:80/wber-high.mp3
 #EXTINF:0,WBKM
 https://streaming.radio.co/sefa4c74e3/listen
 #EXTINF:0,WBNH-LP 105.1 FM
@@ -2653,8 +2655,6 @@ https://ice23.securenetsystems.net/WZNE
 https://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC
 #EXTINF:0,X106.5
 https://oom-cmg.streamguys1.com/jac1029/jac1029-iheart.aac
-#EXTINF:0,X13 Radio - Alternative Rock HD
-https://x13.streamguys1.com/x13-alternativerock
 #EXTINF:0,X Factor Radio
 https://radio.x-factorradio.com:8000/xfactor
 #EXTINF:0,X FM 94.7

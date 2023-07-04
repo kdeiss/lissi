@@ -107,6 +107,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CJMKFM.mp3
 https://newcap.leanstream.co/CHOOFM
 #EXTINF:0,Aardvark Rock FM
 http://hemnos.cdnstream.com/1491_128
+#EXTINF:0,Absolute Radio 80s
+https://tx.planetradio.co.uk/icecast.php?i=absolute80s.mp3
+#EXTINF:0,Absolute Radio Classic Rock
+https://tx.planetradio.co.uk/icecast.php?i=absoluteclassicrock.mp3
 #EXTINF:0,Absolute Rock
 http://www.absolute-rock.com:8000/mp3
 #EXTINF:0,AceRadio-The Classic Rock Channel
@@ -547,8 +551,6 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://streamingv2.shoutcast.com/bruce-classic-rock
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -601,10 +603,10 @@ https://stream.zeno.fm/v9adxxn5cm8uv
 https://s3.radio.co/s1f74e2763/listen
 #EXTINF:0,HD Radio - Classic Rock
 https://hdradioclassicrock-rfritschka.radioca.st/;
-#EXTINF:0,Feel Good Rock
-https://listen.57fm.com/fgrock?highlight
 #EXTINF:0,Bob Rocks!
 https://ais-sa2.cdnstream1.com/2543_64.aac
+#EXTINF:0,Feel Good Rock
+https://listen.57fm.com/fgrock?highlight
 #EXTINF:0,Rock by Rock Radio
 http://gdansk1-1.radio.pionier.net.pl:8000/pl/tuba8-1.mp3?
 #EXTINF:0,Hits 50s
@@ -1205,6 +1207,8 @@ https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFDA_FMAAC.aac
 #EXTINF:0,Planet Pootwaddle
 https://ppw.streamguys1.com/sgplayer-aac
+#EXTINF:0,Planet Rock
+https://tx.planetradio.co.uk/icecast.php?i=planetrock.mp3
 #EXTINF:0,Radio Playback Rock
 https://stream02.radioplayback.dk/stream
 #EXTINF:0,Play Rock Web
@@ -1243,8 +1247,6 @@ https://newcap.leanstream.co/CHNIFM
 http://142.44.135.172:8361/stream
 #EXTINF:0,QTH Radio
 http://fast.citrus3.com:8124/stream
-#EXTINF:0,Radio 101 Rock
-http://live.radio101.hr:9578/stream/1/
 #EXTINF:0,Radio 10 Disco Classics
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3?dist=radionet
 #EXTINF:0,Radio 1 Rock
@@ -1293,6 +1295,8 @@ https://online.radioc.ru/radioc_aacplus
 http://stream-59.zeno.fm/s18vu16r0wzuv?zs=fgV_rGpESum_UnJTqUynpg
 #EXTINF:0,Radio Easy Rock
 https://sphera.fluidstream.eu/easyrock.aac
+#EXTINF:0,Radio Espacio
+http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Estación X 102.1 FM
 https://stream-43.zeno.fm/u5tsh7gucrruv?zs=4mL_wkF8T6ySdyXlFP6_zg
 #EXTINF:0,Radio Fantasma Ecuador
@@ -1477,6 +1481,8 @@ https://s19.myradiostream.com/:15508/;
 https://stream.zeno.fm/k3ekxp11xrquv
 #EXTINF:0,Retro Country 890
 https://tuneintoradio1.com/radio/8050/radio.mp3
+#EXTINF:0,Retro FM
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
 #EXTINF:0,Retro Hits Classic Radio
 https://sc10.conectarhosting.com/proxy/retrohitsgt?mp=/stream
 #EXTINF:0,Retroviva Rock
