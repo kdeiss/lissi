@@ -7,8 +7,6 @@ https://live.xmcdn.com/live/91/64.m3u8
 https://www.radioking.com/play/francaisdanslemonde
 #EXTINF:0,1010 WINS
 https://live.wostreaming.net/manifest/audacy-winsamaac-imc
-#EXTINF:0,Radio 101 FM - La Unión
-https://srv.liveweb.cl:9000/radio101
 #EXTINF:0,102.5 The Bone
 https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac
 #EXTINF:0,COOL FM 103.5
@@ -817,8 +815,6 @@ http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ldn
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mct
 #EXTINF:0,CBC Radio One Montreal
 https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
-#EXTINF:0,CBC News: World at Six
-https://cbc.mc.tritondigital.com/CBC_W6_P/media/w6/w6-9QC0ZQy2-20220325.mp3
 #EXTINF:0,CBC Radio One Ottawa
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott
 #EXTINF:0,CBC Radio One Kitchener-Waterloo
@@ -1449,6 +1445,8 @@ http://std1.ladio.net:8020/charlie27745
 https://stream.zeno.fm/gqdb1rev5s8uv
 #EXTINF:0,FM La Boca
 https://s24.myradiostream.com/14984/listen.mp3
+#EXTINF:0,FM Lider 93.5
+https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,FM Masters 101.3
 http://ice.dant.com:4232/fmmasters
 #EXTINF:0,FM Mundo
@@ -3205,6 +3203,8 @@ https://stream.zeno.fm/sdw1cxnpoyluv
 https://ais-sa3.cdnstream1.com/2440_128.aac
 #EXTINF:0,Órbita 106.7 FM
 https://s2.mexside.net/8044/stream
+#EXTINF:0,Orbita FM
+https://streaming.escuchanosonline.com:7107/stream
 #EXTINF:0,Radio Oriente 107.9 FM
 https://sonic-us.streaming-chile.com/8126/stream
 #EXTINF:0,Oriente Capital Radio
@@ -3255,6 +3255,8 @@ https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8
 http://stream.zeno.fm/hyguvedna9quv
 #EXTINF:0,Plus Radio Fortaleza
 http://179.127.4.122:8619/stream/1/
+#EXTINF:0,Progressive Mind Radio
+https://stream.zeno.fm/6vu8pug96ehvv
 #EXTINF:0,Podio Podcast Radio - Area 51
 https://drive.uber.radio/uber/podioarea51/icecast.audio
 #EXTINF:0,Podio Arts And Culture
@@ -4289,6 +4291,8 @@ http://fmt01.egihosting.com:9468/;
 https://hosting.studioradiomedia.fr:1285/stream
 #EXTINF:0,Cadena SER Catalunya
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CATAAC.aac
+#EXTINF:0,Ràdio Seu 107.2 FM
+https://streaming.enantena.com:8000/radiolaseu128.mp3
 #EXTINF:0,Shaun Keaveny's Community Garden Radio
 https://s2.radio.co/sd76fc9995/listen
 #EXTINF:0,SHEKINAH RADIO
@@ -4317,6 +4321,8 @@ http://us4.internet-radio.com:8027/stream
 https://cast2.my-control-panel.com/proxy/radioso3/stream
 #EXTINF:0,Steelers Nation Radio
 https://cdn3.wowza.com/1/T0RzenNieVdQZlhj/OTd3RUJW/hls/live/playlist.m3u8
+#EXTINF:0,Soflo Radio
+http://los.cdnstream.com/1134_64
 #EXTINF:0,Soft Hits 93.5 FM WAKR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC
 #EXTINF:0,Ágora Sol Radio
@@ -5151,6 +5157,8 @@ https://stationwhrv.whro.org/128
 http://whrv.mediaplayer.whro.org/128
 #EXTINF:0,WHYA Y101FM
 https://ice8.securenetsystems.net:80/WHYA
+#EXTINF:0,WHYM - ESPN 98.9
+https://live.amperwave.net/manifest/espn-network-cloud.m3u8?source=espnradio
 #EXTINF:0,WHYY-HD2 Arts & Info Service
 https://whyy-hd.streamguys1.com/whyy-hd-mp3
 #EXTINF:0,WIAR-LP - LifeTalk Radio
@@ -5447,6 +5455,8 @@ http://newsradio1620.streamguys.org/wnrp
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFMAAC_SC
 #EXTINF:0,WNST 1570 AM
 https://ice6.securenetsystems.net/WNST
+#EXTINF:0,WNTP - NewsTalk 990 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNTPAMAAC.aac
 #EXTINF:0,WNYC-AM 820
 https://am820.wnyc.org/wnycam-tunein
 #EXTINF:0,WNYH - Radio Cantico Nuevo 740 AM
@@ -5723,6 +5733,8 @@ https://ice64.securenetsystems.net/WYEZ
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTMAAMAAC_SC
 #EXTINF:0,WTMJ - Newsradio 620
 https://live.wostreaming.net/manifest/goodkarma-wtmjamaac-hlsc.m3u8
+#EXTINF:0,WTMM-FM - ESPN RADIO 104.5 FM
+https://v7player.wostreaming.net/e36cdac818b67344eff991c73fd08ab4.mp3
 #EXTINF:0,WTOH - 98.9 FM The Answer
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTOHFM.mp3
 #EXTINF:0,WTON 1240 AM

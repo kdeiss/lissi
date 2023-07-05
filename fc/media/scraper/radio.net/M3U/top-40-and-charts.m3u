@@ -127,6 +127,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MIXX1077AAC.aa
 https://ais-arn.streamguys1.com/au_001/playlist.m3u8
 #EXTINF:0,3WWM MIXX FM 101.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXX1013AAC.aac
+#EXTINF:0,440Hz
+https://stream.440hz-radio.de/440hz-main.mp3
 #EXTINF:0,4BBB - hit 105 Brisbane
 https://legacy.scahw.com.au/4bbb_128
 #EXTINF:0,4HIT Hot FM 94.7
@@ -437,6 +439,8 @@ https://stream.antenneduesseldorf.de/445253f
 https://stream.lokalradio.nrw/44526bf
 #EXTINF:0,AMV Charts
 https://streams.antennemv.de/charts/mp3-192/radiode/
+#EXTINF:0,AMV Deutsch Pop
+https://streams.antennemv.de/amv-hhh/aac-64/radiode/
 #EXTINF:0,Charts - Antenne Niedersachsen
 https://stream.antenne.com/charts/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Top40 Radio
@@ -562,7 +566,7 @@ https://giorgia.radiobellissima.it/radio/8000/stream
 #EXTINF:0,Radio Belluno
 https://wma01.fluidstream.net/belluno.aac?FLID=7
 #EXTINF:0,Best of RMFON
-https://rs10-krk1-orange.rmfstream.pl/BESTOFRMFON
+https://rs102-krk-cyfronet.rmfstream.pl/BESTOFRMFON
 #EXTINF:0,best-of-sound.de
 http://stream.psy-hosting.de:8000/listen
 #EXTINF:0,Best Radio 1
@@ -807,8 +811,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFMAAC_SC
 #EXTINF:0,CFMY My96 FM
 https://stream.jpbgdigital.com/CFMY/HEAAC/48k/playlist.m3u8?
-#EXTINF:0,CFRI 104.7 2day FM
-https://vistaradio.streamb.live/SB00091
 #EXTINF:0,CFSM 107.5 2Day FM
 https://vistaradio.streamb.live/SB00075
 #EXTINF:0,CFVR Mix 103.7
@@ -989,6 +991,8 @@ http://195.154.199.222:8000/stream/1/
 http://87.98.245.250:8378/stream/1/
 #EXTINF:0,Cluster FM
 https://stream3.xdevel.com/audio1s975605-236/stream/icecast.audio
+#EXTINF:0,Clyde 1
+https://tx.planetradio.co.uk/icecast.php?i=clyde1.aac
 #EXTINF:0,CMRU.ca
 https://streams.radiomast.io/cmru-mp3
 #EXTINF:0,CNM 93.3
@@ -1599,6 +1603,8 @@ http://streamplus19.leonex.de:10398/;
 https://server18857.streamplus.de/stream.mp3
 #EXTINF:0,Fun77.1
 https://s9.citrus3.com:2020/public/funcidy
+#EXTINF:0,Fun Radio - Live
+https://stream.funradio.sk:18443/fun128.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -4386,7 +4392,7 @@ http://server-24.stream-server.nl/stream/JurainiRadio
 #EXTINF:0,ON 2010s
 https://0n-2010s.radionetz.de/0n-2010s.mp3
 #EXTINF:0,on-4your-life
-http://stream-02.mystical-host.de:8000/listen
+http://stream-02.mystical-host.de:8000/stream
 #EXTINF:0,ON 50s
 https://0n-50s.radionetz.de/0n-50s.mp3
 #EXTINF:0,Ona Mar FM
@@ -4513,6 +4519,8 @@ https://peacefm-atunwadigital.streamguys1.com/peacefm
 http://stream.sxmradio.com:8060/channel6.mp3
 #EXTINF:0,Posto Emissor do Funchal Rádio 2
 http://centova.radios.pt:9426/stream/1/
+#EXTINF:0,Peilsender 
+https://rs20.stream24.net/peilsender.mp3
 #EXTINF:0,Radio-Peinard Skyrock
 http://str2.creacast.com/radio_peinard
 #EXTINF:0,Perfect
@@ -4821,6 +4829,8 @@ https://stream.lokalradio.nrw/444zbpx
 https://stream.lokalradio.nrw/44524px
 #EXTINF:0,Radio Bonn / Rhein-Sieg - Dein Top40 Radio
 https://stream.lokalradio.nrw/44524rp
+#EXTINF:0,Radio Borders
+https://tx.planetradio.co.uk/icecast.php?i=borders.aac
 #EXTINF:0,Rádio Brasil Hits
 https://streaming.brasilhits.com/acc
 #EXTINF:0,Radio Bonn / Rhein-Sieg
@@ -4845,6 +4855,8 @@ https://radiochelmsford56-thehitsnetwork.radioca.st/stream/1/
 http://radiochico.sdreamland.ch/radiochico.mp3
 #EXTINF:0,Rádio Cidade 100,1
 http://sl.dnip.com.br:10376/stream/1/
+#EXTINF:0,Radio City 
+http://icy-e-bl-09-boh.sharp-stream.com/city.mp3
 #EXTINF:0,Radio City 100.6 FM
 http://82.149.22.34:8000/CityMp364mono.mp3
 #EXTINF:0,Radio City
@@ -5207,8 +5219,6 @@ https://stream.saw-musikwelt.de/saw-urban/mp3-128/radiode/stream.mp3
 https://stream.zeno.fm/yvkfn7y994zuv
 #EXTINF:0,Radio Schötmar
 https://saurus.streampanel.cloud:5720/stream
-#EXTINF:0,RadioScia
-https://rswr.radioca.st/;stream.nsv
 #EXTINF:0,Radio SCOOP - Lyon
 https://radioscoopbourg-en-bresse.ice.infomaniak.ch/radioscoop-bourg-64.aac
 #EXTINF:0,Radio Seven One
@@ -5659,6 +5669,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCHHFM_SC
 https://stream.liferadio.at/sonnleitner/aac-64/
 #EXTINF:0,SOULFULRADIO - House Music
 http://185.224.91.193:8000/stream/1/
+#EXTINF:0,Soundcity Radio 88.5
+https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmnrb
 #EXTINF:0,Soundcity Radio 91.1
 https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
 #EXTINF:0,Soundcity Radio 91.3
@@ -5679,8 +5691,6 @@ https://server36201.streamplus.de/listen
 https://cloud1.cdnseguro.com:2124/stream/
 #EXTINF:0,Soundset Slavonski Brod
 https://ec2s.crolive.com.hr:8035/stream
-#EXTINF:0,Soy FM 93.9
-http://ic.streann.com:8000/soyfm
 #EXTINF:0,Spark Radio
 https://fra-pioneer08.dedicateware.com:1395/stream
 #EXTINF:0,Spectrum FM Costa del Sol
@@ -5811,6 +5821,10 @@ https://listen.openstream.co/4802/audio
 https://listen.radionomy.com/talento-chocoano.m3u
 #EXTINF:0,Radio Tatras International
 http://s32.myradiostream.com:10486/stream/1/
+#EXTINF:0,Tay FM 
+https://tx.planetradio.co.uk/icecast.php?i=tayfm.mp3
+#EXTINF:0,Tay FM 2
+https://tx.planetradio.co.uk/icecast.php?i=tayam.mp3
 #EXTINF:0,TBS eFM 90.5 Busan
 https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8
 #EXTINF:0,Technikum One
@@ -6053,6 +6067,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA.mp3
 https://ice09.fluidstream.net/fluid0905.mp3?FLID=7
 #EXTINF:0,Radio Victoria Esbjerg
 http://stream.wlmm.dk:8000/stream/15/
+#EXTINF:0,Viking FM
+https://tx.planetradio.co.uk/icecast.php?i=viking.mp3
 #EXTINF:0,Vinotinto Radio Argentina
 https://streaming01.radiosenlinea.com.ar:10929/;
 #EXTINF:0,Vinotinto Radio Mexico

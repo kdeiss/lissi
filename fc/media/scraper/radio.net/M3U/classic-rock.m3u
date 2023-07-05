@@ -551,6 +551,8 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://streamingv2.shoutcast.com/bruce-classic-rock
+#EXTINF:0,FM Lider 93.5
+https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -871,8 +873,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
-#EXTINF:0,KWBY Cowboy Radio 98.5 FM
-http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -2021,6 +2021,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WNCXFM.mp3
 https://live.wostreaming.net/manifest/saga-wyndfmaac-hlsc1.m3u8
 #EXTINF:0,WNDT - WIND-FM 92.5 FM
 https://live.wostreaming.net/manifest/saga-wyndfmaac-hlsc1.m3u8
+#EXTINF:0,WNLC - Classic 98.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNLCFMAAC.aac
 #EXTINF:0,WNNS 98.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFM.mp3
 #EXTINF:0,WNNX - Rock 105. FM
@@ -2033,6 +2035,8 @@ http://wnwi.birach.com:9002/stream/1/
 https://ice7.securenetsystems.net/WOBR
 #EXTINF:0,WOFX-FM - Fox 92.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOFXFM.mp3
+#EXTINF:0,WONC - Pure Rock 89.1 FM
+https://webcast.wonc.org:8000/wonclive-128s.mp3
 #EXTINF:0,WONE-FM - Akron's Home of Rock and Roll 97.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WONEFM.mp3
 #EXTINF:0,Woods Hit Radio
@@ -2065,8 +2069,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WQHZFMAAC_SC
 https://ice10.securenetsystems.net/WQRS
 #EXTINF:0,WQUT 101.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQUTFMAAC_SC
-#EXTINF:0,WRKE-LPFM
-https://cp8.shoutcheap.com:18284/stream
 #EXTINF:0,WRL Radio 2 (Rock)
 https://listen.radionomy.com/wrlradio2rock
 #EXTINF:0,WROD FM 104.7 & AM 1340
