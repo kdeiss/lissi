@@ -81,8 +81,6 @@ http://s8.myradiostream.com:12658/stream/1/
 http://www.radio-alpenfunk.de/minicaster/live.pls
 #EXTINF:0,Radio Alpenstar
 https://server7517.streamplus.de/;stream.mp3
-#EXTINF:0,Alpin Tunes Austria
-http://stream.laut.fm/alpintunesaustria?ref=radiode
 #EXTINF:0,Radio Alsterwelle
 https://stream.laut.fm/alsterwelle?ref=radiode
 #EXTINF:0,Radio Altstadtwelle
@@ -221,6 +219,8 @@ http://stream.trifal.com:8000/schlager
 https://stream.coachingairlineradio.de/radio/8000/256kb.mp3
 #EXTINF:0,Radio Continu
 https://stream.radiocontinu.nl/radiocontinu
+#EXTINF:0,Crazy-Family-Radio
+https://s2.genx-stream.de:8852/stream/1/
 #EXTINF:0,Crazy-Scorpions-Radio
 http://stream04.stream-webradiotechnik.de:9800/stream/1/
 #EXTINF:0,Creative Radio
@@ -329,6 +329,8 @@ https://media1.lafamilia-radio.de/schlager192.mp3
 https://fs1.stream24.net:8280/live.mp3
 #EXTINF:0,Radio Fantasy Island
 http://www.radio-fantasy-island.de:9000
+#EXTINF:0,Radio Fantasy Rotterdam
+http://caster04.streampakket.com:8024/stream/2/
 #EXTINF:0,Fehnradio
 http://streamplus16.leonex.de:20916
 #EXTINF:0,100% Malle-Hits von Feierfreund
@@ -1953,8 +1955,6 @@ https://museum.streamserver24.com:8080/stream/1/
 https://s2.zkm-stream.de:10994
 #EXTINF:0,Music-of-Fantasy
 http://193.26.157.100:8004/stream/1/
-#EXTINF:0,Music Sound Radio
-http://stream01.script24.net:9230/;
 #EXTINF:0,Music-Tempel
 http://178.254.18.225:8000/;
 #EXTINF:0,Musikbude-Ostheim
@@ -2167,6 +2167,8 @@ https://stream.lokalradio.nrw/4453r8p
 http://5.9.25.50:9302/;
 #EXTINF:0,Radio Edelweiss
 https://stream.radioedelweiss.it:8443/stream
+#EXTINF:0,Radio - Elbdröhnung
+https://stream2-alfacast-hosting.com:8114/stream/1/
 #EXTINF:0,Radio Ennepe Ruhr - Dein Schlager Radio
 https://stream.lokalradio.nrw/44522tf
 #EXTINF:0,Radio Erft - Dein Schlager Radio
@@ -2187,8 +2189,6 @@ https://stream2-alfacast-hosting.com/8110/;
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
-#EXTINF:0,Radio-FFR - Family & Friends Radio
-https://radio-ffr.de:8143/stream.mp3
 #EXTINF:0,Radio Flamingo
 https://live.radioflamingo.at/rf
 #EXTINF:0,RadioForum2
@@ -2389,6 +2389,8 @@ http://live.radio-selection.de/onair
 https://stream.lokalradio.nrw/445248p
 #EXTINF:0,Radio Silesia
 http://s1.slotex.pl:7350/stream/1/
+#EXTINF:0,Radio SL
+http://5.9.16.111:8820/stream/1/
 #EXTINF:0,radiosr24 
 https://s1.slotex.pl/shoutcast/7560/stream
 #EXTINF:0,Radio Sunshine
@@ -2723,6 +2725,8 @@ http://tuner.m1.fm/schlagerparty.mp3
 https://stream.silvacast.com/RPLive/mp3-128/radio_de/
 #EXTINF:0,The German Radio
 https://streaming.live365.com/a97323
+#EXTINF:0,The House of Music
+https://c02.lexycast.de:4530/;
 #EXTINF:0,tierischLive
 http://server35557.streamplus.de/stream.mp3
 #EXTINF:0,Radio Tirol Italia

@@ -429,12 +429,16 @@ https://astro4.rastream.com/rock
 https://listen.radionomy.com/classic-rock-records.m3u
 #EXTINF:0,Clock Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC164.aac
+#EXTINF:0,Radio Club Network
+http://nr9.newradio.it:9438/stream/1/
 #EXTINF:0,Coast Rock FM
 https://streaming.shoutcast.com/coast-rock-fm
 #EXTINF:0,Colmena Radio
 https://streaming.evolucionstreaming.com/8124/stream
 #EXTINF:0,The Colorful Radio
 http://91.121.59.45:8244/stream
+#EXTINF:0,Colosal Stereo Digital
+https://stream-150.zeno.fm/2dvjghpaepstv
 #EXTINF:0,Cool 106.3 - Great Hits & Real Classics
 https://live.leanstream.co/CHKSFM
 #EXTINF:0,Cool 94.5
@@ -453,6 +457,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2682714.mp
 https://streaming.live365.com/a42778
 #EXTINF:0,Cuántica Estéreo radio
 https://cast4.asurahosting.com:2199/start/cuantica
+#EXTINF:0,CULTURA WEB ROCK
+https://stm1.streaminghd.net.br:7196/stream
 #EXTINF:0,Cuyen Radio
 https://alpha.radioplayer.com.ar:9248/cuyen
 #EXTINF:0,D99
@@ -607,8 +613,6 @@ https://s3.radio.co/s1f74e2763/listen
 https://hdradioclassicrock-rfritschka.radioca.st/;
 #EXTINF:0,Bob Rocks!
 https://ais-sa2.cdnstream1.com/2543_64.aac
-#EXTINF:0,Feel Good Rock
-https://listen.57fm.com/fgrock?highlight
 #EXTINF:0,Rock by Rock Radio
 http://gdansk1-1.radio.pionier.net.pl:8000/pl/tuba8-1.mp3?
 #EXTINF:0,Hits 50s
@@ -683,6 +687,10 @@ https://crystalout.surfernetwork.com:8001/KBBN_MP3
 https://crystalout.surfernetwork.com:8001/KBBN_MP3
 #EXTINF:0,KBDZ - Classic Rock 93.1
 http://cp.usa2.fastcast4u.com:2199/tunein/elmdonze.pls
+#EXTINF:0,KBOY - 95.7 FM
+https://ice6.securenetsystems.net/KBOY
+#EXTINF:0,KBZU - The Mountain 96.3 FM
+https://14933.live.streamtheworld.com/KRSTFMAAC.aac
 #EXTINF:0,KCAL-FM - 96.7 FM Rocks
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCALFMAAC.aac
 #EXTINF:0,KCBS - All News 740 AM
@@ -751,6 +759,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3
 http://lostcoast.streamguys.us/khum-hi
 #EXTINF:0,KIFradio Rock
 http://kifrock.kifradio.com
+#EXTINF:0,KIJI Boss 104.3 FM
+https://ice10.securenetsystems.net/KIJI
 #EXTINF:0,KINZ Z95.3
 https://ice23.securenetsystems.net/KINZ
 #EXTINF:0,KISM - Classic Rock 92.9 FM
@@ -1167,8 +1177,12 @@ https://panel.retrolandigital.com/radio/8140/listen?1587156012
 https://streamingv2.shoutcast.com/radio-oldies-and-rock--n--roll
 #EXTINF:0,WNYC-DB New York City Oldoes Radio Live 365
 https://streaming.live365.com/a02077
+#EXTINF:0,OnBeat - Rock
+https://onbeat.link:8040/acc
 #EXTINF:0,ON Classic Rock 
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
+#EXTINF:0,Onda40music
+https://radio.radiosstreaming.com:8000/onda40music.mp3
 #EXTINF:0,ON Jukebox
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3
 #EXTINF:0,ON Rock
@@ -1397,6 +1411,8 @@ https://bayshore-ais.leanstream.co/CIXKFM
 https://digitacdn.akamaized.net/hls/live/629243/radiorock/master-128000.m3u8
 #EXTINF:0,Radio Rock
 https://tx.planetradio.co.uk/http_live_bauerno.php?i=radiorock_no_aac&aw_0_1st.playerid=radio_net
+#EXTINF:0,RADIO ROCKLINE
+https://ice.creacast.com/rockline
 #EXTINF:0,Radio Rock Master
 https://live.paineldj.com.br/proxy/rockmaster?mp=%2Fstream
 #EXTINF:0,Generación al aire
@@ -1429,6 +1445,8 @@ https://radioenlinea.click:8000/radio.mp3
 http://server6.20comunicacion.com:8038/*36000.stream
 #EXTINF:0,Radio Tec - la Radio de los Venados
 https://s01.digitalserver.org/8010/stream
+#EXTINF:0,Radio Telexar
+http://s7.myradiostream.com:59406/listen.pls?sid=1
 #EXTINF:0,Radio Tircoed
 http://janus.shoutca.st:8080
 #EXTINF:0,Radio Tucker 
@@ -2035,8 +2053,6 @@ http://wnwi.birach.com:9002/stream/1/
 https://ice7.securenetsystems.net/WOBR
 #EXTINF:0,WOFX-FM - Fox 92.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOFXFM.mp3
-#EXTINF:0,WONC - Pure Rock 89.1 FM
-https://webcast.wonc.org:8000/wonclive-128s.mp3
 #EXTINF:0,WONE-FM - Akron's Home of Rock and Roll 97.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WONEFM.mp3
 #EXTINF:0,Woods Hit Radio
@@ -2065,10 +2081,14 @@ https://ais-sa1.streamon.fm/7247_48k.aac
 http://stream.abacast.net/direct/townsquare-wqbkfmaac-ibc3
 #EXTINF:0,WQHZ Z 102.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHZFMAAC_SC
+#EXTINF:0,WQLZ - 97.7 QLZ Real Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQLZFM.mp3?dist=website
 #EXTINF:0,WQRS 98 Rocks
 https://ice10.securenetsystems.net/WQRS
 #EXTINF:0,WQUT 101.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQUTFMAAC_SC
+#EXTINF:0,WRKE-LPFM
+https://cp8.shoutcheap.com:18284/stream
 #EXTINF:0,WRL Radio 2 (Rock)
 https://listen.radionomy.com/wrlradio2rock
 #EXTINF:0,WROD FM 104.7 & AM 1340

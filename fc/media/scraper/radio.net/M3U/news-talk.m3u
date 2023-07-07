@@ -7,6 +7,8 @@ https://live.xmcdn.com/live/91/64.m3u8
 https://www.radioking.com/play/francaisdanslemonde
 #EXTINF:0,1010 WINS
 https://live.wostreaming.net/manifest/audacy-winsamaac-imc
+#EXTINF:0,Radio 101 FM - La Unión
+https://srv.liveweb.cl:9000/radio101
 #EXTINF:0,102.5 The Bone
 https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac
 #EXTINF:0,COOL FM 103.5
@@ -395,8 +397,6 @@ http://51.255.235.165:5146/;
 http://sc.brtk.net:8008/stream/1/
 #EXTINF:0,Bay Trust Radio
 https://baytrustradio.radioca.st/stream
-#EXTINF:0,BBC Radio Cornwall
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall
 #EXTINF:0,BBC Radio Cumbria
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria
 #EXTINF:0,BBC Radio Stoke
@@ -629,8 +629,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODARA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LANZAROTE_SC
 #EXTINF:0,Cadena SER Las Palmas
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LAS_PALMAS_SC
-#EXTINF:0,Cadena SER Radio León 92.6 FM
-http://www.radioleon.com:8000/radio?1380287660407.mp3
 #EXTINF:0,Cadena SER Linares
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES_SC
 #EXTINF:0,Cadena SER Lleida
@@ -2485,6 +2483,8 @@ http://147.135.84.28/kvnt-am
 https://ice9.securenetsystems.net/KVNU
 #EXTINF:0,KVOE 1400 AM
 https://ice64.securenetsystems.net/KVOE
+#EXTINF:0,KVOI 1030 AM - The Voice
+https://ice41.securenetsystems.net/KVOI
 #EXTINF:0,KVON 1440 AM News - Talk - Sports
 https://ice10.securenetsystems.net/KVON
 #EXTINF:0,KVOR News Radio 740 AM
@@ -2527,6 +2527,8 @@ https://crystalin.surfernetwork.com:8000/KWON-AM_MP3
 https://ais-sa1.streamon.fm/7401_48k.aac/playlist.m3u8
 #EXTINF:0,KWSU NWPR News
 http://134.121.234.129:8000/NWPRNEWS
+#EXTINF:0,KWTO AM 560
+https://ais-sa1.streamon.fm/7679_48k.aac?listenerId=esTrackblock081220&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1688544447&aw_0_req.gdpr=true
 #EXTINF:0,KWVH
 https://ice41.securenetsystems.net/KWVH
 #EXTINF:0,KWWN - ESPN Radio 1100 AM
@@ -3859,6 +3861,8 @@ https://stream5.xdevel.com/audio5s975889-479/stream/icecast.audio
 https://podcast.radionz.co.nz/business/bus-mdr-20220328-1220-midday_business_news_for_28_march_2022-128.mp3
 #EXTINF:0,Radio New Zealand: World & Pacific News
 https://podcast.radionz.co.nz/rnzinews/rnzinews-20220328-2000-8pm_rnz_pacific_news_for_28_march_2022-128.mp3
+#EXTINF:0,Radio Nicaragua
+https://online.radionicaragua.com.ni/stream.ogg
 #EXTINF:0,Radio NordNorge
 https://15233.live.streamtheworld.com/SP_R2551331_SC
 #EXTINF:0,Rádio Noroeste 96.7 FM
@@ -4197,6 +4201,8 @@ https://streaming04.liveboxstream.uk/proxy/roksta14/stream
 https://streaming05.liveboxstream.uk/proxy/jondreas/stream
 #EXTINF:0,Crime & Suspense
 http://streaming05.liveboxstream.uk:8039/stream
+#EXTINF:0,Crime Radio Extra
+https://streaming05.liveboxstream.uk/proxy/jondre00/stream
 #EXTINF:0,Science Fiction
 https://streaming05.liveboxstream.uk/proxy/roksta12/stream
 #EXTINF:0,Roswell UFO Radio
@@ -4943,6 +4949,8 @@ http://mediaserver3.afa.net:8000/talkhigh.mp3
 https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,WDRC Talk of Connecticut 1360 AM
 https://crystalout.surfernetwork.com:8001/WDRC-AM_MP3
+#EXTINF:0,WDTK - The Patriot 1400 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAMAAC.aac
 #EXTINF:0,WDUN - North Georgia's Newstalk 550 AM
 https://ice42.securenetsystems.net/WDUN
 #EXTINF:0,WDUN-FM - North Georgia's Newstalk 102.9 FM
@@ -5503,8 +5511,6 @@ https://ic2.mainstreamnetwork.com/woyk-am
 http://68.235.35.243:9059/;
 #EXTINF:0,WPBR - Sakpase.fm 1340 AM
 https://usa11.fastcast4u.com/proxy/wpbr1340?mp=/1
-#EXTINF:0,WPEN - The Fanatic 97.5 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WPENFMAACIHR.aac
 #EXTINF:0,Wpet Talk Radio
 http://stream.zenolive.com/0kd16bpy6eeuv
 #EXTINF:0,WPFW 89.3 FM
