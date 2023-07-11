@@ -811,8 +811,6 @@ http://s35.myradiostream.com:14472/listen.mp3
 https://01.solumedia.com.ar:8176/stream
 #EXTINF:0,Densomaniak Radio
 https://stream.iradio.pro/proxy/densomaniak?mp=/stream
-#EXTINF:0,Deportes & Mas con Marino
-http://server2.ejeserver.com:8900/stream
 #EXTINF:0,Der Dudelfunk
 http://streaming.radionomy.com/RadioL-Air
 #EXTINF:0,Det Rigtige Faaborg
@@ -1003,8 +1001,6 @@ http://s41.myradiostream.com:27838/;listen.mp3
 https://usa10.fastcast4u.com/explore
 #EXTINF:0,EXPRESS WEB RADIO
 https://stm1.xcast.com.br:9864/stream/1/
-#EXTINF:0,Extasis Digital Mexicali
-https://stream.zeno.fm/lkg5pe044tptv
 #EXTINF:0,extra-radio
 https://extra-radio.radionetz.de/extra-radio.mp3
 #EXTINF:0,Extreme Hits
@@ -1448,7 +1444,7 @@ https://stream.zeno.fm/ukps6zx4xg0uv
 #EXTINF:0,Joe
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
 #EXTINF:0,Joe 90's
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_90Saac.aac
+https://icecast-qmusicbe-cdp.triple-it.nl/joe.aac
 #EXTINF:0,JOOWFM
 http://betelgeuse.dribbcast.com:8098/stream/1/
 #EXTINF:0,Jou Stasie
@@ -2521,6 +2517,8 @@ http://variant.fm:8000/PPR-192
 https://www.piratenhits.com:8052/live
 #EXTINF:0,Planet 107.5 FM
 http://k2.usastreams.com/yeah1075
+#EXTINF:0,Planet 90
+https://planet90.beheerstream.nl:8010/stream/1/
 #EXTINF:0,Planeta Saudade 
 http://hts03.kshost.com.br:12314/stream/1/
 #EXTINF:0,Planeta X Music Station
@@ -2887,8 +2885,6 @@ https://stream.lokalradio.nrw/444zjn6
 https://streams.bcs-systems.de/slp/90er/erzgebirge/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radio Escarabajo
 https://sp.onliveperu.com/8010/stream/type=mp3
-#EXTINF:0,Radio Espacio
-http://s01.digitalserver.org:8060/;
 #EXTINF:0,Radio Essen - Dein 90er Radio
 https://stream.lokalradio.nrw/444zjpx
 #EXTINF:0,Radio Estación 24/7
@@ -3251,6 +3247,8 @@ https://stream.zeno.fm/xt7hzq0nshruv
 https://stream.saw-musikwelt.de/saw-90er/mp3-128/radiode/stream.mp3
 #EXTINF:0,RADIO SCHWABEN
 https://s35.derstream.net/radioschwaben-aac.mp3
+#EXTINF:0,RadioScia
+https://rswr.radioca.st/;stream.nsv
 #EXTINF:0,Radio Sevagram
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Radio Siegen - Dein 90er Radio
@@ -3905,6 +3903,8 @@ https://streaming.radio.co/s9b15ffd8e/listen
 https://listen.radionomy.com/top-radio
 #EXTINF:0,Top Trash Station
 http://substream.top100station.com/toptrashstation.mp3
+#EXTINF:0,Tor94FM
+http://87.98.219.178:8260/stream?nocache=665&type=http
 #EXTINF:0,RTI Radio Total International 
 http://81.169.141.17:9090/stream/1/
 #EXTINF:0,Totally Radio 90s

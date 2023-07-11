@@ -19,6 +19,8 @@ http://185.13.37.111:8000/mpd.mp3
 https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3
 #EXTINF:0,78kai45
 https://rdst.win:37845/stream
+#EXTINF:0,7deRàdio Barcelona
+https://stream.7deradio.cat/proxy/7deradio/stream
 #EXTINF:0,98.5 La Comadre
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac
 #EXTINF:0,Absolute Irish
@@ -377,8 +379,6 @@ https://stream.radiobreizh.bzh/radio/9060/radio.mp3
 http://192.187.112.50:8160/stream
 #EXTINF:0,La Bonita del Norte de Sombrerete 90.7FM
 http://192.187.112.50:8238/;
-#EXTINF:0,La Calentana Luvimex 
-https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_38887_stream_191647414
 #EXTINF:0,La Ejutlence Radio
 https://stream.zeno.fm/f2509nypeg0uv
 #EXTINF:0,La Más Buena Monterrey 105.3 FM
@@ -583,8 +583,6 @@ https://play8.tikast.com/proxy/lucas?mp=/stream
 https://stream.deevaradio.net:10443/paradisagasy
 #EXTINF:0,Radio Paramankurichi Tamil
 https://vpmurugun.radioca.st/stream
-#EXTINF:0,Penies Radio
-http://s2.onweb.gr:8632/;
 #EXTINF:0,Pikkujouluradio
 https://server3.toivon.net/proxy/toivon_4_3?mp=/stream
 #EXTINF:0,Radio Pingvin - Domaca Muzika
@@ -772,7 +770,7 @@ https://yayin.radyoakdeniz.com/9470/stream
 #EXTINF:0,Radyo Dejavu
 http://radyodejavu.canliyayinda.com:8054/stream/1/
 #EXTINF:0,RADYO DEM
-https://yayin.radyodem.com:8000/stream/1/
+https://yayin.radyodem.com/8000/stream
 #EXTINF:0,Christmas Chor by rautemusik
 https://christmas-chor-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,RCFM Radio Crónica Folk Musical
@@ -893,6 +891,8 @@ https://nmicenotrt.mediatriple.net/trt_nagme.aac
 https://nmicenotrt.mediatriple.net/trt_1.aac
 #EXTINF:0,TRT TÜRKÜ
 https://nmicenotrt.mediatriple.net/trt_turku.aac
+#EXTINF:0,Türk Beats Radio
+https://radiocaster.io/listen/turk_beats/radio.mp3
 #EXTINF:0,Türkiyem FM
 https://server7.streamserver24.com:61468/stream/1/
 #EXTINF:0,Türkü Radyo
@@ -913,6 +913,8 @@ http://216.245.217.22:8470/live
 https://stream.zeno.fm/cm040yp7grruv
 #EXTINF:0,Radio Velkaton
 http://188.40.62.20:8044/stream/1/
+#EXTINF:0,VERSE 24 - MAKKAH LIVE
+http://149.28.52.216:3344/stream/10/
 #EXTINF:0,WAFC-FM - Radio Fiesta 106 FM
 https://ice7.securenetsystems.net/WAFC
 #EXTINF:0,WAFZ-FM - La Ley 92.1 FM

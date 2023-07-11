@@ -165,8 +165,6 @@ https://streambbr.ir-media-tec.com/schlager/mp3-128/radiode_web_mp3/
 http://c02.lexycast.de:3600/
 #EXTINF:0,Beatfox Radio
 https://stream.laut.fm/discofox-fm?ref=radiode
-#EXTINF:0,Beat Of Sound Radio
-http://musicserver2.m-hosting.eu:9025/listen1
 #EXTINF:0,Beats 4 friends
 http://193.26.157.100:8174/stream/1/
 #EXTINF:0,Beatz and More
@@ -257,6 +255,8 @@ https://deltafmsaintomer.ice.infomaniak.ch/deltafmsaintomer-high.aac
 https://audiostreams.deluxemusic.tv/schlager/mp3-192/audiostreams.deluxemusic.tv/
 #EXTINF:0,DEUNL-Radio Welt der Musik
 http://streamplus55.leonex.de:10446/
+#EXTINF:0,Deutsches Hitradio
+https://frontend.streamonkey.net/meda-deutscheshitradio/stream/mp3?aggregator=RadioDe
 #EXTINF:0,Deutsches Musikradio
 http://136.243.133.81:8000/live
 #EXTINF:0,DGL-Radio
@@ -358,7 +358,7 @@ https://ecmanager.pro-fhi.net/radiofrysson2
 #EXTINF:0,FuhneOne FM
 https://server18857.streamplus.de/stream.mp3
 #EXTINF:0,Radio Fundisko - die Radiofamilie
-http://server4.streamserver24.com:21672/stream/1/
+https://stream.laut.fm/radiofundisko
 #EXTINF:0,Radio FunSunday
 http://radiofunsunday.servemp3.com:8000/stream
 #EXTINF:0,funtastick-sound
@@ -371,8 +371,6 @@ http://c02.lexycast.de:2480/stream/1/
 https://stream.laut.fm/gay-live-schlager?ref=radiode
 #EXTINF:0,Geiseltal-Radio
 http://streamplus53.leonex.de:20916/;
-#EXTINF:0,General Hit Radio
-https://srv.webradiomanager.fr:1330/stream
 #EXTINF:0,Germanradio.info
 http://stream.germanradio.info:10300/;
 #EXTINF:0,Germanradio.info/Schlager
@@ -412,7 +410,7 @@ https://server7.streamserver24.com:8080/proxy/boschtec?mp=/stream
 #EXTINF:0,Hellweg Radio - Dein Schlager Radio
 https://stream.lokalradio.nrw/44524bf
 #EXTINF:0,Radio Herzklang
-https://bone.streampanel.cloud/12-hoamatwelle
+http://bone.streampanel.cloud/8-herzklang
 #EXTINF:0,Heuvellandexpress
 http://server-51.stream-server.nl:8340/stream/1/
 #EXTINF:0,Hit auf Hit Sound Radio
@@ -427,8 +425,6 @@ http://94.23.6.107:8505/;stream.nsv
 https://dealer1952.radioca.st/stream/2/
 #EXTINF:0,Hitradio Fun
 http://5.9.16.111:8620/stream/1/
-#EXTINF:0,Hitradio Partykanone
-https://musicserver2.m-hosting.eu:8035/stream
 #EXTINF:0,HITRADIO RTL - Schlager
 https://web.radio.hitradio-rtl.de/hrrtl-schlager?aggregator=radiode
 #EXTINF:0,Hitradio-Suhl
@@ -1519,8 +1515,6 @@ https://stream.laut.fm/satzentrale-deluxe?ref=radiode
 https://stream.laut.fm/saxnwelle?ref=radiode
 #EXTINF:0,Schallpegel
 https://stream.laut.fm/schallpegel?ref=radiode
-#EXTINF:0,Schiltach
-https://stream.laut.fm/schiltach?ref=radiode
 #EXTINF:0,Schlager
 https://stream.laut.fm/schlager?ref=radiode
 #EXTINF:0,schlager24
@@ -1945,6 +1939,8 @@ https://www.memoryradio.de/radio1/listen.pls
 https://s1.slotex.pl:7592/stream/1/
 #EXTINF:0,More-than-just-Music
 Https://s2.genx-stream.de:11452
+#EXTINF:0,Müritzradio
+http://88.198.175.30:5574/stream/1/
 #EXTINF:0,Museumsradio 1476
 https://museum.streamserver24.com:8080/stream/1/
 #EXTINF:0,Music For Friends
@@ -1952,7 +1948,7 @@ https://s2.zkm-stream.de:10994
 #EXTINF:0,Music-of-Fantasy
 http://193.26.157.100:8004/stream/1/
 #EXTINF:0,Music-Tempel
-http://178.254.18.225:8000/;
+https://stream.music-tempel.de:8080/;
 #EXTINF:0,Musikbude-Ostheim
 https://stream.laut.fm/musikbude-ostheim?ref=radiode
 #EXTINF:0,MUsikgartenradio der Garten der Musik
@@ -2061,8 +2057,6 @@ https://radio.paulas-welle.de:9000/stream
 https://ecmanager4.pro-fhi.net/pephit
 #EXTINF:0,Perfect Schlageroldies
 https://stream.radiojar.com/rk8e9x2vetzuv
-#EXTINF:0,Phoenix-Powerradio
-http://phoenix-powerradio.com:8010/
 #EXTINF:0,Piraten.FM
 https://piraten.fm/top/1
 #EXTINF:0,Piratenkanjers
@@ -2211,6 +2205,10 @@ https://stream01.script24.net:9064/stream/1/
 http://server35683.streamplus.de:12074/stream/1/
 #EXTINF:0,Radio Hithammer
 http://94.23.163.170:8275/stream/1/
+#EXTINF:0,Radio Hogeland
+https://mscp2.live-streams.nl:8072/stream.mp3
+#EXTINF:0,Radio Hogeland
+https://mscp2.live-streams.nl:8072/stream.mp3
 #EXTINF:0,Radio Holland Online
 https://mediaserv68.live-streams.nl:18062/live
 #EXTINF:0,Radio Hoogeveen
@@ -2467,8 +2465,6 @@ http://c01.lexycast.de:4150/;
 https://rs8-krk2.rmfstream.pl/PRL
 #EXTINF:0,Rockplanet-radio
 http://vmd54090.contaboserver.net:8008/stream/1/
-#EXTINF:0,Rock Pop Schlager
-https://server3.streamserver-unlimited.de:8099/stream1
 #EXTINF:0,Rogos-Powerradio 
 http://89.163.144.59:5786/stream
 #EXTINF:0,RPR1.Après Ski
@@ -2664,7 +2660,7 @@ http://ngofm.ddnss.de:8000/default
 #EXTINF:0,ORF Radio Steiermark
 https://orf-live.ors-shoutcast.at/stm-q1a
 #EXTINF:0,Sternenfeuer-Radio
-http://207.180.230.141:8060/;
+http://server36228.streamplus.de/;
 #EXTINF:0,Streamplus
 http://www.power-radio-muelheim.de/listen.pls
 #EXTINF:0,Studio-Aktiv
@@ -2735,8 +2731,6 @@ https://server-28.stream-server.nl:8846/stream
 http://59713704.swh.strato-hosting.eu/
 #EXTINF:0,TopHits.FM Schlager
 https://stream.tophitsfm.de:8050/listen.mp3
-#EXTINF:0,RadioTotalCrazy.de
-http://server1.cityedv.at:9057/;
 #EXTINF:0,Radio Trallacity
 http://stream04.stream-webradiotechnik.de:9150/stream/1/
 #EXTINF:0,Radio-Trance-Nation

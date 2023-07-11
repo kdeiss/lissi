@@ -61,8 +61,6 @@ http://sysrad.net:30420/stream/1/
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 #EXTINF:0,CaveiraFM
 https://hts07.kshost.com.br:11308/stream/1/
-#EXTINF:0,Central FM Quixada 104.9
-http://stm14.xcast.com.br:8192/stream
 #EXTINF:0,Cidade FM NET
 https://08.stmip.net:8718/stream/1/
 #EXTINF:0,Classic Hits Brasil
@@ -247,8 +245,6 @@ http://streaming10.hstbr.net:8154/live
 https://sv1.audiostream.com.br/radio/8150/stream
 #EXTINF:0,Nativa FM Santa Maria
 http://centova17.ciclanohost.com.br:8085/stream/1/
-#EXTINF:0,RADIO EXTENSION MUSIC NEGATO
-http://207.244.66.85:14620/;stream.mp3
 #EXTINF:0,Nova Brasil FM Campinas
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_CAMPINASAAC_SC
 #EXTINF:0,Rádio NOVA GERAÇÃO 104.9
@@ -753,6 +749,8 @@ https://str1.streamhostpg.com.br:8066/stream
 http://stm40.conectastm.com:6862/
 #EXTINF:0,Rádio Terra AM
 https://player.transmissaodigital.com/proxy/7396/;
+#EXTINF:0,Radio Timbauba FM
+http://10.stmip.net:8722/live;stream.mp3
 #EXTINF:0,Rádio Toca Universitária
 https://streaming.ufg.br:8443/radiouniversitaria
 #EXTINF:0,Rádio Tok
