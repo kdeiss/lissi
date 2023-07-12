@@ -235,8 +235,6 @@ https://stream5.liferadio.at
 http://server6.globalhostla.com:9134/stream
 #EXTINF:0,Avalisten Radio
 https://streaming.live365.com/a80296
-#EXTINF:0,Avenida FM
-http://185.32.188.17:8041/stream
 #EXTINF:0,BAGeL Radio 
 https://ais-sa3.cdnstream1.com/2606_128.aac
 #EXTINF:0,Bahia Radio Hits
@@ -543,6 +541,8 @@ https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-320000.m3u8
 https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-320000.m3u8
 #EXTINF:0,Radio SRF Virus
 https://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:0,Dust Devil Radio
+https://s7.reliastream.com/proxy/dustdevi?mp=/high.aac
 #EXTINF:0,Studentski eFM Radio
 https://stream.zeno.fm/e0uu6uhveg0uv
 #EXTINF:0,egoFM
@@ -729,10 +729,6 @@ http://bayern.streampanel.cloud:11079/listen1
 https://harrogateradio.out.airtime.pro:8000/harrogateradio_a
 #EXTINF:0,Hazzard of Darkness
 http://hazzardstream.de:7777/stream/1/
-#EXTINF:0,HearMe.FM - Fourculture Radio
-http://hearme.fm:9500/stream?8066
-#EXTINF:0,HearMe.FM - NightBreed Radio
-http://HearMe.fm:8056/stream
 #EXTINF:0,Heidis-Dudelkasten
 https://stream2-alfacast-hosting.com/8034/stream
 #EXTINF:0,Radio Helsinki
@@ -2251,6 +2247,8 @@ https://turadio.accesopanel.com:7253/;
 https://ice2.somafm.com/digitalis-128-mp3
 #EXTINF:0,SomaFM - Groove Salad Classic
 https://ice2.somafm.com/gsclassic-128-mp3
+#EXTINF:0,Radio Sommières
+https://flux.radio-sommieres.fr/stream/
 #EXTINF:0,Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
 #EXTINF:0,Sonic Radio.rocks

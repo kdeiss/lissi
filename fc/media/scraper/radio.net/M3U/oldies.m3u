@@ -931,6 +931,8 @@ https://cast4.asurahosting.com/proxy/diisradi/stream
 https://streaming.broadcast.radio/dilseradio
 #EXTINF:0,DiscoFoxSound
 http://stream2-alfacast-hosting.com:8088/stream/1/
+#EXTINF:0,Radio Disco Melodia 80 
+https://antares.dribbcast.com/proxy/radiodiscomev2?mp=/;
 #EXTINF:0,Disco Mix
 https://s2.radio.co/sa78e95e1e/listen
 #EXTINF:0,Dj Osso Radio
@@ -1074,7 +1076,7 @@ http://192.111.140.6:9637/stream/1/
 #EXTINF:0,Fantasy Radio Malta
 https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_38753_stream_646339426
 #EXTINF:0,Radio Fantasy Rotterdam
-http://caster04.streampakket.com:8024/stream/2/
+http://213.202.241.199:8024/stream?1688557732155
 #EXTINF:0,RADIO FAUSTEX 3
 https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_5717_stream_155405390;stream.nsv
 #EXTINF:0,RADIO FAUSTEX 4
@@ -1400,7 +1402,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/977_OLDIES.mp3
 #EXTINF:0,HitTrAp Radio Old School
 https://radio.hittrap.com:1025/;
 #EXTINF:0,Hit West 80s
-http://listen.shoutcast.com/HITWEST80.mp3
+https://hitwestrennes.ice.infomaniak.ch/hitwest-rennes-128.aac
 #EXTINF:0,Hvidovre Naer Radio 95,2 
 http://stream.wlmm.dk:80/hnrmp3
 #EXTINF:0,Hofstreek FM
@@ -3181,6 +3183,8 @@ https://grupooro1.centrocibernetico.com/;
 https://server35903.streamplus.de/stream.mp3
 #EXTINF:0,Ostseewelle - Oldie Hits
 https://streamosw.ir-media-tec.com/oldies/mp3-192/radiode
+#EXTINF:0,OTR - Old Timer Radio
+http://s3.voscast.com:11030/;stream.mp3
 #EXTINF:0,Oude radio Piraten
 https://server5.radio-streams.net:2199/tunein/paul.pls
 #EXTINF:0,COLLECTOR Radio
@@ -3293,8 +3297,6 @@ https://popradiostream.se/stream/1/
 http://84.19.168.244:31883/popstop192.m3u
 #EXTINF:0,Popwelle. Das Musikradio
 https://popwelle.sp.radio.fm/stream
-#EXTINF:0,Postaway Radio
-http://listen.shoutcast.com/postawayradio
 #EXTINF:0,Power Fm
 http://fra-pioneer08.dedicateware.com:2340/;
 #EXTINF:0,Power Funk Radio
@@ -3553,8 +3555,6 @@ http://86.93.49.78:8080/live
 https://nr8.newradio.it:19602/stream
 #EXTINF:0,Radio Erzgebirge
 https://streams.bcs-systems.de/slp/live/erzgebirge/mp3/radio.de/playlist.m3u
-#EXTINF:0,Rádio Espadarte
-http://stream.zeno.fm/dt6fbu5vbv8uv
 #EXTINF:0,Radio Fantasy Classix
 https://frontend.streamonkey.net/fantasy-classix/stream/mp3?aggregator=Radio_de
 #EXTINF:0,Radio Fausto
@@ -3563,6 +3563,8 @@ https://stream.laut.fm/radiofausto?ref=radiode
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
+#EXTINF:0,Radio-FFR - Family & Friends Radio
+https://radio-ffr.de:8143/stream.mp3
 #EXTINF:0,Radio Five-O-Plus 93.3 FM
 http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 #EXTINF:0,Radio FlashBack 80
@@ -3621,8 +3623,6 @@ https://stream.laut.fm/radioherzblut?ref=radiode
 https://stream01.script24.net:9064/stream/1/
 #EXTINF:0,Webradio
 http://server35683.streamplus.de:12074/stream/1/
-#EXTINF:0,Radio-Hithammer Sendet für 24 stunden Hammer-Hits
-http://94.23.163.170:8275/stream/1/
 #EXTINF:0,Radio Horton
 https://radiohorton.radioca.st/stream/1/
 #EXTINF:0,Radio Houtstoker
@@ -3631,8 +3631,6 @@ http://13683.live.streamtheworld.com/SAM02AAC98.mp3
 https://ice12.fluidstream.net/ria60_ca.aac
 #EXTINF:0,Radio Italia Anni 60 - Trentino Alto Adige
 https://ice10.fluidstream.net/anni60tn.aac
-#EXTINF:0,Radio JUVI
-http://aler.org:8000/juvi
 #EXTINF:0,Radio-Kartoffelsalat
 https://server4.streamserver24.com:8080/proxy/radiokar?mp=/stream
 #EXTINF:0,Radio Kiepenkerl - Dein Oldie Radio
@@ -3663,6 +3661,8 @@ https://mscp2.live-streams.nl:8192/lifelinemp3
 https://stream2-alfacast-hosting.com/8132/;
 #EXTINF:0,Radio LO1 - Radio Limbach-Oberfrohna
 http://85.25.118.42:8000/;
+#EXTINF:0,Radio Locale Gozo
+https://streamingv2.shoutcast.com/gozo-radio
 #EXTINF:0,Radio London 266
 http://80.229.172.103:8000/;
 #EXTINF:0,Radio Lusitana

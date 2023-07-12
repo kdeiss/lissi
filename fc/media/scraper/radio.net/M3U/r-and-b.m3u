@@ -375,8 +375,6 @@ http://s10.citrus3.com:8374/stream
 https://201.netromedia.com/NCIFM2/NCIFM2/playlist.m3u8
 #EXTINF:0,CJAB NRJ 94.5 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC.aac
-#EXTINF:0,CJMD 96.9 FM LÉVIS
-https://stream2.statsradio.com:8074/live
 #EXTINF:0,CJNW Play 107
 https://ais-sa1.streamon.fm/7260_64k.aac
 #EXTINF:0,CKCK 94.5 JACK fm
@@ -661,6 +659,8 @@ https://icecast.omroep.nl/funx-utrecht-bb-mp3
 https://streaming.live365.com/a88806
 #EXTINF:0,Futuradio Urban
 https://futuradiourban.ice.infomaniak.ch/frurban-128.mp3?utm_source=radiofr&utm_medium=directory&utm_host=futuradiourban.ice.infomaniak.ch
+#EXTINF:0,Gagasi FM
+https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8
 #EXTINF:0,Gaslight Square R&B
 https://stream.zeno.fm/8vqs7whh7f0uv
 #EXTINF:0,Géneration-Hit
@@ -1955,8 +1955,6 @@ https://streaming.live365.com/a98419
 https://newcap.leanstream.co/CFXJFM
 #EXTINF:0,The NU Vibe Radio
 https://listen.openstream.co/7203/audio
-#EXTINF:0,The PLAYLIST Radio
-https://quincy.torontocast.com:1850/;?nocache=1637525557&type=http
 #EXTINF:0,thesoullounge
 https://streaming.live365.com/a38845
 #EXTINF:0,The Soul of Grenada
@@ -2055,6 +2053,8 @@ https://stream.zeno.fm/ax5v5k9b2hhvv
 https://strw1.openstream.co/1633
 #EXTINF:0,Urbanize.FM
 https://icy.urbanize.fm/
+#EXTINF:0,Urban Noize
+http://65.109.90.218:8298/stream
 #EXTINF:0,Urban Soul
 https://s25.maxcast.com.br:8078/live
 #EXTINF:0,Dance/Electric - Urbanradio.com

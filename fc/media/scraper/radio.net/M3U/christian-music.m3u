@@ -161,8 +161,6 @@ http://v3.directradios.com:8197/stream/1/
 https://khcb.streamguys1.com/spanish-128k-mp3
 #EXTINF:0,Radio Amistad Cristiana
 https://stream.zeno.fm/ne4fqfgc31zuv
-#EXTINF:0,Amor98
-https://radiosonline.one/radio/8070/radio.mp3
 #EXTINF:0,Amor de cristo
 https://stream.zeno.fm/3herybu76p8uv
 #EXTINF:0,Amor y Fé - Radio
@@ -1028,7 +1026,7 @@ https://maestro.emfcdn.com/stream_for/air1/tunein/aac
 #EXTINF:0,KAIM-FM - 95.5 The Fish
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAIMFM.mp3
 #EXTINF:0,KAIO-FM - Air1 90.5 FM
-http://emf.streamguys1.com/sa001_mp3_high_web
+https://emf-hls-b.streamguys1.com/seg001267-h128/playlist.m3u8
 #EXTINF:0,KAIP - Air1 Radui 88.9 FM
 https://emf-hls-b.streamguys1.com/seg001263-h128/playlist.m3u8
 #EXTINF:0,KAIS - Air1 90.7 FM
@@ -2881,6 +2879,8 @@ http://s20.myradiostream.com:15414/;
 https://radio.saopaulo01.com.br/9704/stream
 #EXTINF:0,Radio Santec - Deutsch
 https://audio.bild-und-ton.stream:16162/radiosantec-de
+#EXTINF:0,Radio Santec - English
+https://audio.bild-und-ton.stream:16162/radiosantec-de
 #EXTINF:0,Radio Santec - Español
 https://audio.bild-und-ton.stream:16162/radiosantec-es
 #EXTINF:0,Radio Santec - Français
@@ -3147,6 +3147,8 @@ https://rcf.streamakaci.com/rcf01.mp3
 https://rcf.streamakaci.com/rcf11.mp3
 #EXTINF:0,RCF Pays Tarnais
 https://rcf.streamakaci.com/rcf81.mp3
+#EXTINF:0,RCF Poitou
+https://rcf.streamakaci.com/rcf86.mp3
 #EXTINF:0,RCF Puy de Dôme
 https://rcf.streamakaci.com/rcf63.mp3
 #EXTINF:0,RCF Reims-Ardennes
