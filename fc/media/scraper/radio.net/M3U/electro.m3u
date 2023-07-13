@@ -1859,6 +1859,12 @@ http://198.245.50.150:10080/;
 http://170.250.52.83:8000/stream
 #EXTINF:0,Hazzard of Darkness
 http://hazzardstream.de:7777/stream/1/
+#EXTINF:0,HearMe.FM - Dazwell
+http://hearme.fm:9003/stream
+#EXTINF:0,HearMe.FM - The Very Best of Deephouse
+http://HearMe.fm:8023/stream
+#EXTINF:0,HearMe.FM - Smooth Lounge
+http://HearMe.fm:8052/stream
 #EXTINF:0,Heart Dance
 https://media-ssl.musicradio.com/HeartDance
 #EXTINF:0,Heart London
@@ -1877,8 +1883,6 @@ http://82.64.164.43:8000/stream
 https://nr3.newradio.it:18303/stream
 #EXTINF:0,HFM Ibiza
 https://stream.radiojar.com/kht3hhpmb.m3u
-#EXTINF:0,HGM
-http://radio.hgm.world:8000/airtime_192
 #EXTINF:0,Diva Radio Disco
 https://stream.deevaradio.net:10443/divaradiodisco?highlight
 #EXTINF:0,ELECTRO par Electro Radio
@@ -4043,8 +4047,6 @@ https://cast.radiogroup.com.ua/terrace128
 https://fr1.streamhosting.ch
 #EXTINF:0,Love or Hate Radio
 https://stream.zeno.fm/4n6wfwk1x68uv
-#EXTINF:0,LRADIO-BALTIJA
-https://radio.lradiostation.com/live
 #EXTINF:0,L-radio 104.9 fm
 http://server2.lradio.ru:8000/lradio64.aac
 #EXTINF:0,LRdR
@@ -4279,6 +4281,8 @@ http://radio.modules.pl:8500/stream/1/
 http://178.251.230.144:8000/highend
 #EXTINF:0,Modular Station
 https://broadcast.modular-station.com/radio/8000/radio.aac
+#EXTINF:0,Radio Moldova Muzical
+http://radiolive.trm.md:8000/RM-muzical
 #EXTINF:0,Radio Moldova Tineret
 http://radiolive.trm.md:8000/RM-tineret-128
 #EXTINF:0,Molona FM 
@@ -4347,6 +4351,8 @@ https://listen.radionomy.com/musicishouse
 https://www.radioking.com/play/musiclike
 #EXTINF:0,Radio MusicMax 
 http://91.232.4.33:7040/stream/1/
+#EXTINF:0,Music of Fantasy
+http://s4.genx-stream.de:8100/stream
 #EXTINF:0,Music Okey
 http://87.236.196.34:8902/stream
 #EXTINF:0,MusicStation.FM
@@ -6112,7 +6118,7 @@ https://s3.radio.co/sd4abfe69e/listen
 #EXTINF:0,Shirley & Spinoza Radio
 https://s2.radio.co/sec5fa6199/listen
 #EXTINF:0,ShoutDRIVE
-http://audio.kandi.shoutdrive.com/sd-aac
+http://live-audio.cdn.shoutdrive.com/sd-mp3/;stream.mp3
 #EXTINF:0,Shout Radio
 https://stream-shoutradio.creativedork.com/
 #EXTINF:0,ShowSet
