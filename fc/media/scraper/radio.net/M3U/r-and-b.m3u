@@ -119,8 +119,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC.aac
 https://streaming.live365.com/a98661
 #EXTINF:0,KOWN 95.7 FM The Boss
 https://ice41.securenetsystems.net/KOWNLP
-#EXTINF:0,97.6 The Temp
-https://usa4.fastcast4u.com/proxy/dogsday10?mp=/1
 #EXTINF:0,97.7 The Surge
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,99 Jams WJMI
@@ -305,10 +303,6 @@ https://streaming.live365.com/a91220
 http://breakradio.ice.infomaniak.ch/breakradio-128.aac
 #EXTINF:0,BreakZ.FM - HipHop meets House
 https://breakz-high.rautemusik.fm/
-#EXTINF:0,Brightstar Studios
-https://s17.ssl-stream.com/proxy/brightstar?mp=/stream&1684313417739
-#EXTINF:0,Brightstar Studios
-https://s17.ssl-stream.com/proxy/brightstar?mp=/stream
 #EXTINF:0,Broadcast Hip-Hop Network 
 https://live.amperwave.net/direct/broadcasthiphop-broadcasthiphopnetworkaac-imc
 #EXTINF:0,Broadtube Radio
@@ -377,8 +371,6 @@ http://s10.citrus3.com:8374/stream
 https://201.netromedia.com/NCIFM2/NCIFM2/playlist.m3u8
 #EXTINF:0,CJAB NRJ 94.5 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC.aac
-#EXTINF:0,CJMD 96.9 FM LÉVIS
-https://stream2.statsradio.com:8074/live
 #EXTINF:0,CJNW Play 107
 https://ais-sa1.streamon.fm/7260_64k.aac
 #EXTINF:0,CKCK 94.5 JACK fm
@@ -542,7 +534,7 @@ http://sv2.famcast.co.za/proxy/energyfm?mp=%2Fstream
 #EXTINF:0,Energy R'n'B
 https://scdn.nrjaudio.fm/adwz1/at/36019/aac_64.mp3
 #EXTINF:0,Energy Urban
-http://185.52.127.170/de/33025/mp3_128.mp3?adws_out_b1&access_token=be8dcbbcaac24511af03e567d79e8881
+https://energyurban.ice.infomaniak.ch/energyurban-high.mp3
 #EXTINF:0,ENERGY Classic RnB
 https://scdn.nrjaudio.fm/adwz1/de/56248/mp3_128.mp3?origine=radio.net
 #EXTINF:0,ENERGY Hits
@@ -1035,8 +1027,6 @@ https://ice66.securenetsystems.net/KRVV
 https://ice42.securenetsystems.net/KSBU
 #EXTINF:0,KSJR Smooth Jazz Radio
 https://stream.zeno.fm/k6udx25w3s8uv
-#EXTINF:0,KSRS-DB
-https://streaming.radio.co/sf33651d06/listen
 #EXTINF:0,KSSR Southern Soul Radio
 https://stream.zeno.fm/7497bwkvpwzuv
 #EXTINF:0,KTFZ The Funk Zone
@@ -1365,8 +1355,6 @@ https://s8.voscast.com:9857/stream
 http://151.80.43.143:8036/.mp3
 #EXTINF:0,Myjam Radio 
 https://cast2.asurahosting.com/proxy/michael5/stream
-#EXTINF:0,My Power Hitz
-https://ice66.securenetsystems.net/MYPOWERENT
 #EXTINF:0,mysoulradio.com
 http://s9.voscast.com:8732/stream/1/
 #EXTINF:0,My Vybe Radio
@@ -1395,8 +1383,6 @@ https://stream.danubiusradio.hu/danubius_320k
 https://icecast.omroep.nl/funx-bb-mp3
 #EXTINF:0,NRJ CLASSIC RNB
 https://scdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3?origine=radio.net
-#EXTINF:0,NRJ DnB
-https://skymedia-live.bitflip.ee/NRJ
 #EXTINF:0,NRJ HIP HOP RNB HITS
 https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ Pop RnB Dance
@@ -1415,8 +1401,8 @@ https://ec5.yesstreaming.net:1825/stream
 https://streaming.live365.com/a22706
 #EXTINF:0,Oldies Roundup
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3594460_SC
-#EXTINF:0,Omroep Almere On Air 
-https://players.rcast.net/stream/65615.mp3
+#EXTINF:0,Omroep Almere
+http://stream.omroepalmere.nl:8000/live
 #EXTINF:0,ON 2000s
 https://0n-2000s.radionetz.de/0n-2000s.mp3
 #EXTINF:0,ON 90s
@@ -2079,8 +2065,6 @@ http://hydra.cdnstream.com/1532_backup
 http://hydra.cdnstream.com/1541_128
 #EXTINF:0,Today's R&B - Urbanradio.com
 http://hydra.cdnstream.com/1531_backup
-#EXTINF:0,Rádio Vale FM
-http://216.245.217.22:8470/live
 #EXTINF:0,The Vibe of Vegas
 http://icyrelay.181.fm/181-vibe_128k.mp3?_=1
 #EXTINF:0,VIBE 90
@@ -2191,8 +2175,6 @@ https://ice66.securenetsystems.net/WORNDB
 https://listen.radioking.com/radio/336604/stream/385105
 #EXTINF:0,WPWZ Power 95.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPWZFM_SC
-#EXTINF:0,WQBP
-https://streaming.live365.com/a22551
 #EXTINF:0,WQRB RNB RADIO
 http://65.109.81.84:7100/stream
 #EXTINF:0,WRBO 103.5 FM

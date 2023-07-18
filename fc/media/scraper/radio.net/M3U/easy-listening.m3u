@@ -182,11 +182,11 @@ https://boxstream.danceradiouk.com/stream/1/
 #EXTINF:0,Breeze Acoustic
 https://ec5.yesstreaming.net:1915/stream
 #EXTINF:0,The Breeze Auckland
-https://icecast.mediaworks.nz/breeze_128kbps
+https://livestream.mediaworks.nz/radio_origin/breeze_128kbps/chunklist.m3u8
 #EXTINF:0,Breeze Easy
 https://ec5.yesstreaming.net:2805/stream
 #EXTINF:0,The Breeze Waikato 99.4
-https://icecast.mediaworks.nz/breeze_waikato_128kbps
+https://livestream.mediaworks.nz/radio_origin/more_128kbps/playlist.m3u8
 #EXTINF:0,Breeze Radio
 https://ec5.yesstreaming.net:1555/stream
 #EXTINF:0,The Breeze Tauranga
@@ -381,6 +381,8 @@ https://www.radioking.com/play/fce-continuo
 https://stream.rcs.revma.com/1grpmk88n98uv
 #EXTINF:0,FG CHIC. Zen
 https://stream.rcs.revma.com/ffynknv9n98uv
+#EXTINF:0,FM Kortrijk
+http://stream.twinmedia.be:8100/stream/1/
 #EXTINF:0,Radio Fm Lima
 https://stream.zeno.fm/5yk23mppw2hvv.aac
 #EXTINF:0,Free Yuor Mind
@@ -417,7 +419,7 @@ https://stream.lokalradio.nrw/444zv6x
 http://server1.chilltrax.com:9000/;?highlight
 #EXTINF:0,LOUNGE par Vibration
 https://vibrationlounge.ice.infomaniak.ch/vibrationlounge.mp3?radiofrHighlight
-#EXTINF:0,Música para estudar - NRJ
+#EXTINF:0,Música para estudar - rautemusik
 https://rautemusik-de-hz-fal-stream18.radiohost.de/study?ref=radiode
 #EXTINF:0,Hollywood Candlelight and Wine
 https://stream.zeno.fm/ugzmd4rrqwzuv
@@ -754,7 +756,7 @@ http://onair7.xdevel.com:7194/1
 #EXTINF:0,Radio BBSI
 http://188.165.236.130:8118/stream
 #EXTINF:0,Radio Bellissima Relax
-https://giorgia.radiobellissima.it/radio/8030/stream
+https://listen.openstream.co/3607/audio
 #EXTINF:0,Radio Benidorm
 http://116.202.246.47:8148/stream
 #EXTINF:0,Radio Berg - Dein Lounge Radio
@@ -956,7 +958,7 @@ https://streamingv2.shoutcast.com/Sitis
 #EXTINF:0,60 North
 https://r3.zetcast.net/stream
 #EXTINF:0,Sleepbot Environmental Broadcast
-http://sc13.shoutcaststreaming.us:8218/seb
+http://sleepbot.com/ambience/cgi/listen.m3u
 #EXTINF:0,Sleep Radio
 https://cast4.my-control-panel.com/proxy/sleeprad/stream
 #EXTINF:0,Slowly Radio

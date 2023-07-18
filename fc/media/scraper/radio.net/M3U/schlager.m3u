@@ -113,6 +113,8 @@ https://streams.antennemv.de/bauerkorl/mp3-192/radiode/
 https://streams.antennemv.de/partymix/mp3-192/radiode/
 #EXTINF:0,AMV Schlager
 https://streams.antennemv.de/amv-schlager/mp3-128/radiode/
+#EXTINF:0,Antenne Niedersachsen Schlager
+https://stream.antenne-schlager.de/schlager-live/mp3-192/radiode/
 #EXTINF:0,Schützenfest Hits - Antenne Niedersachsen
 https://stream.antenne.com/schuetzenfest/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Schlager Radio
@@ -166,7 +168,7 @@ http://c02.lexycast.de:3600/
 #EXTINF:0,Beatfox Radio
 https://stream.laut.fm/discofox-fm?ref=radiode
 #EXTINF:0,Beat Of Sound Radio
-http://musicserver2.m-hosting.eu:9025/listen1
+https://streamserver3.m-hosting.eu:9027/listen1
 #EXTINF:0,Beats 4 friends
 http://193.26.157.100:8174/stream/1/
 #EXTINF:0,Beatz and More
@@ -258,7 +260,7 @@ https://audiostreams.deluxemusic.tv/schlager/mp3-192/audiostreams.deluxemusic.tv
 #EXTINF:0,DEUNL-Radio Welt der Musik
 http://streamplus55.leonex.de:10446/
 #EXTINF:0,Deutsches Hitradio
-https://frontend.streamonkey.net/meda-deutscheshitradio/stream/mp3?aggregator=RadioDe
+https://stream2-alfacast-hosting.com:10915/live.m3u
 #EXTINF:0,Deutsches Musikradio
 http://136.243.133.81:8000/live
 #EXTINF:0,DGL-Radio
@@ -367,8 +369,6 @@ http://radiofunsunday.servemp3.com:8000/stream
 https://stream2-alfacast-hosting.com/8104/stream
 #EXTINF:0,Future Beatz
 http://148.251.82.234:27000/stream/1/
-#EXTINF:0,Galaxy of Music
-http://c02.lexycast.de:2480/stream/1/
 #EXTINF:0,Gay-Live-Schlager
 https://stream.laut.fm/gay-live-schlager?ref=radiode
 #EXTINF:0,Geiseltal-Radio
@@ -435,6 +435,8 @@ https://stream.laut.fm/hitradiosuhl?ref=radiode
 https://s2.free-shoutcast.com/stream/18012
 #EXTINF:0,hotradio-for-you
 http://s2.genx-stream.de:9050
+#EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
+https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
 #EXTINF:0,hr4 Mitte
@@ -1953,8 +1955,6 @@ http://193.26.157.100:8004/stream/1/
 https://stream.music-tempel.de:8080/;
 #EXTINF:0,Musikbude-Ostheim
 https://stream.laut.fm/musikbude-ostheim?ref=radiode
-#EXTINF:0,MUsikgartenradio der Garten der Musik
-http://c02.lexycast.de:1930/stream
 #EXTINF:0,Musikkaennchen 
 https://stream.laut.fm/musikkaennchen?ref=radiode
 #EXTINF:0,Radio Musiktruhe - Best of Musik
@@ -2059,6 +2059,8 @@ https://radio.paulas-welle.de:9000/stream
 https://ecmanager4.pro-fhi.net/pephit
 #EXTINF:0,Perfect Schlageroldies
 https://stream.radiojar.com/rk8e9x2vetzuv
+#EXTINF:0,Phoenix-Powerradio
+https://s4.genx-stream.de:8302/stream/1/
 #EXTINF:0,Piraten.FM
 https://piraten.fm/top/1
 #EXTINF:0,Piratenkanjers
@@ -2088,7 +2090,7 @@ http://streaming.radionomy.com/Radio100-tubes
 #EXTINF:0,Radio 2000
 http://159.69.217.78:8000/stream
 #EXTINF:0,Radio 32 Schlager
-https://stream.radio32.ch/radio32
+https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
 #EXTINF:0,Radio66
 https://radio66.stream.laut.fm/radio66
 #EXTINF:0,Radio66 Schlager
@@ -2185,8 +2187,6 @@ https://stream2-alfacast-hosting.com/8110/;
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
-#EXTINF:0,Radio-FFR - Family & Friends Radio
-https://radio-ffr.de:8143/stream.mp3
 #EXTINF:0,Radio Flamingo
 https://live.radioflamingo.at/rf
 #EXTINF:0,RadioForum2
@@ -2197,6 +2197,8 @@ http://85.25.217.22:8100/stream/1/
 https://stream2-alfacast-hosting.com/8122/stream
 #EXTINF:0,Radio Fun and more
 https://stream.rcast.net/68115
+#EXTINF:0,Radio Funky Town
+http://stream04.stream-webradiotechnik.de:18800/listen1
 #EXTINF:0,Radio-GLE, der gute Laune Express
 https://gutelaune-express.stream.laut.fm/gutelaune-express
 #EXTINF:0,Radio Grün-Weiss

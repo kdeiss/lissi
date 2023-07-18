@@ -459,8 +459,6 @@ http://65.109.81.84:7221/
 https://login.streamplus.de/app.php/streamserver/public/14963.m3u
 #EXTINF:0,Beats 4 friends
 http://193.26.157.100:8174/stream/1/
-#EXTINF:0,Beatz Radio
-https://stream-beatzradio.creativedork.com/
 #EXTINF:0,Bedford Radio
 https://stream6.hippynet.co.uk/proxy/bedford/stream
 #EXTINF:0,Radio beiFreunden 
@@ -686,7 +684,7 @@ https://streamingv2.shoutcast.com/CITY-POP-RADIO
 #EXTINF:0,CITYSOUNDZ R&B
 http://s10.citrus3.com:8374/stream
 #EXTINF:0,CIUDAD RADIO 101.5 FM
-https://emiteradio.com/proxy/monteroradio
+https://emiteradio.com/stream/monteroradio/stream.pls
 #EXTINF:0,102.1 CJCY
 https://rogers-hls.leanstream.co/rogers/med1021.stream/icy
 #EXTINF:0,CJOJ Hits FM 95.5 FM
@@ -709,8 +707,6 @@ https://stream.zeno.fm/maly3dozoulvv
 https://stream.zeno.fm/s0qpbxuf6f8uv
 #EXTINF:0,Classic Central Radio
 https://stream.zeno.fm/bp1pwy8mky8uv
-#EXTINF:0,Classic Dance Hitz
-https://streams.radio.co/s7a933605c/listen
 #EXTINF:0,Classic FM 103.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFM_SC
 #EXTINF:0,Classic FM 106.9
@@ -951,8 +947,6 @@ https://sonic.mediatelekom.net/9014/stream
 https://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
 #EXTINF:0,Espace Girly
 http://broadcast.infomaniak.ch/espace-vintage-high.mp3
-#EXTINF:0,Espacio Network 106.1 FM
-https://acp2.lorini.net:28050/stream
 #EXTINF:0,Essex Mix Radio
 http://apollo.shoutca.st:8073/stream
 #EXTINF:0,Estacion 90's radio
@@ -1215,8 +1209,6 @@ https://stream.zenolive.com/6s70zgrq4heuv
 https://pureplay.cdnstream1.com/6039_64.aac/playlist.m3u8
 #EXTINF:0,GotRadio - 90's Alternative
 https://pureplay.cdnstream1.com/6039_64.aac/playlist.m3u8
-#EXTINF:0,Grand FM
-https://server14.srvsh.com.br:7342/stream/1/
 #EXTINF:0,Grenslandradio.nl
 http://server-grenslandradio.nl:8032/;
 #EXTINF:0,Grenzland-Radio
@@ -2349,8 +2341,8 @@ https://rn1.fluidstream.eu/nostalgia_pv.aac?FLID=7
 http://streaming.radionomy.com/NOSTALGICARADIO
 #EXTINF:0,Nostalgic FM
 https://radionostalgic.ro:8040/mp3/stream/1/
-#EXTINF:0,Nostalgie Belgique 90
-https://streamingp.shoutcast.com/Nostalgie90-aac
+#EXTINF:0,Nostalgie 90
+https://stream.rcs.revma.com/wq4dq533ehuvv
 #EXTINF:0,NOSTALGIE BEST OF 90
 https://scdn.nrjaudio.fm/adwz1/fr/55206/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Nostalgie Dance Party 90
@@ -2793,6 +2785,8 @@ https://stream.zeno.fm/barax6bmwzzuv
 http://sv11.hdradios.net:7234/stream
 #EXTINF:0,Radio Club
 https://radios.solumedia.com/6004/stream
+#EXTINF:0,radioclub 80
+http://play.enhd.co:7024/;
 #EXTINF:0,Radio Club 80 Señal Retro
 http://ecuamedios.net:8022/stream/1/
 #EXTINF:0,Radio Club La Preferida
@@ -2840,7 +2834,7 @@ https://stream-59.zeno.fm/ed7k8qs1a5zuv?zs=Q-m7VMiHSAusrAeewLkt3w
 #EXTINF:0,Disco Funk Voyage
 http://stream.zeno.fm/q6p6v39ygchvv
 #EXTINF:0,Radio Disco Hits
-https://c02.lexycast.de:2720/stream
+http://94.23.161.48:12005/stream
 #EXTINF:0,Radio Disco-Mix
 https://radiodd.cloud/radio/8000/radio.mp3
 #EXTINF:0,RADIO D'OR FM MiRAGOANE
@@ -2929,6 +2923,8 @@ https://listen.radioking.com/radio/453545/stream/508427
 https://stream.zeno.fm/mq9q4fk4sm0uv
 #EXTINF:0,Radio Frecuencia FM
 https://stream.zeno.fm/mq9q4fk4sm0uv
+#EXTINF:0,Radio-Freunde
+https://server3.streamserver-unlimited.de:8839
 #EXTINF:0,Radio-FunBox 
 http://stream.radio-funbox.de:8000/stream/1/
 #EXTINF:0,Radio G-FM
@@ -3067,6 +3063,8 @@ http://158.69.114.190:8018/stream
 https://play10.tikast.com:20106/stream
 #EXTINF:0,Rádio MB
 https://ice3.abradio.cz/radiomb128.mp3
+#EXTINF:0,Radio Mega Online
+https://server.streamingradios.net:7043/stream/1/
 #EXTINF:0,Radio MFK
 https://stream1.radiomfk.dk/radiomfk
 #EXTINF:0,RADIO MILLENIUM
@@ -3383,8 +3381,6 @@ https://stream03.dghost.com.br:8250/stream
 https://live.radyo.in/9054/stream
 #EXTINF:0,Radyo Dejavu
 http://radyodejavu.canliyayinda.com:8054/stream/1/
-#EXTINF:0,Radyo Gabile
-http://radyo.gabile.com:2006/stream/1/
 #EXTINF:0,Radyo Gri
 https://gribalkon.radioca.st/stream
 #EXTINF:0,Rancho de Teja Radio
@@ -3551,6 +3547,8 @@ https://stream.rpr1.de/90erdance/aac-128/radiode
 https://stream.rpr1.de/90errock/aac-128/radiode
 #EXTINF:0,RPR1.90er Trash
 https://stream.rpr1.de/90ertrash/mp3-128/radiode
+#EXTINF:0,RPT-FM - 90sEuroDance
+http://radioptfm.de:8010/stream/
 #EXTINF:0,94,3 rs2 BERLIN, MEIN LIEBLINGS MIX
 https://stream.rs2.de/rs2/mp3-128/radiode;stream.nsv
 #EXTINF:0,rs2 90er Party
@@ -3724,7 +3722,7 @@ http://81.204.18.78:8090/aac
 #EXTINF:0,Star Power Musique
 https://listen.radioking.com/radio/178591/stream/220252
 #EXTINF:0,Star-Power-Radio
-http://85.215.200.206:8000/listen
+http://85.215.200.206:8000/
 #EXTINF:0,STATIC: THE BEST OF 1989
 https://streamingV2.shoutcast.com/Static-TheBestof1989
 #EXTINF:0,STATIC: THE BEST OF 1991
@@ -3969,8 +3967,6 @@ https://stream.zeno.fm/sd795v1kmtzuv
 https://stream.zeno.fm/0bv7vt7q3a0uv
 #EXTINF:0,Universiriencia Radio
 http://stream-57.zeno.fm/t328tux77f8uv?zs=7CKcRUceTCK7hrSL8ZGa1w
-#EXTINF:0,Urban Classics
-https://radio.andaina.net:8082/listen.pls
 #EXTINF:0,UrCity Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC17.mp3
 #EXTINF:0,Old School RnB - Urbanradio.com
@@ -4131,8 +4127,6 @@ http://server3.streamserver-unlimited.de:8250
 https://stream.zeno.fm/acbe04shgf9uv
 #EXTINF:0,Windrush Radio
 http://s30.myradiostream.com:29210/stream/1/
-#EXTINF:0,WISH FM 102.4 FM
-https://ice.wbcengineering.com:8130/stream
 #EXTINF:0,Wit 90
 https://wit90s.ice.infomaniak.ch/wit90s.mp3
 #EXTINF:0,WJKR HD2 - Star 95.1 

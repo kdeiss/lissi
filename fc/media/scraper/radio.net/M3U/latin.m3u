@@ -664,7 +664,7 @@ http://server3.20comunicacion.com:8028/stream/1/
 #EXTINF:0,Estéreo Latino 102.9 - KLTN
 https://prod-18-212-8-243.wostreaming.net/univision-kltnfmaac-imc1
 #EXTINF:0,Qué Buena 92.9
-http://stream.abacast.net/playlist/univision-kromfmaac-ibc2.m3u
+https://live.wostreaming.net/direct/univision-kromfmaac-imc2?source=webPIPplayer&us_privacy=1YNN
 #EXTINF:0,Estereo La Voz Del Cordero
 https://stream.zeno.fm/qytuh41hw5quv
 #EXTINF:0,Estéreo limeña
@@ -704,7 +704,7 @@ https://s2.free-shoutcast.com/stream/18258
 #EXTINF:0,Exa FM Durango
 https://stream3.mexiserver.com:10076/stream.mp3
 #EXTINF:0,Exa FM Ecuador
-https://20283.live.streamtheworld.com/ECUADOR_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ECUADOR.mp3
 #EXTINF:0,Exa FM Ensenada
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA.mp3
 #EXTINF:0,Exa FM Guadalajara
@@ -777,8 +777,6 @@ https://alpha.radioplayer.com.ar:9180/fantastica-chilecito
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632c9c1cbc02c60329991efa/playlist.m3u8
 #EXTINF:0,Fantástica - Cali
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cb854b70c350af5bc290b/playlist.m3u8
-#EXTINF:0,Fapatur Radio
-http://fapatur1.no-ip.biz:9000/;
 #EXTINF:0,Fara Fara Radio
 https://panel.retrolandigital.com/radio/8190/listen
 #EXTINF:0,Radio Felicidad 1180 AM
@@ -903,8 +901,6 @@ http://78.129.229.113:31097/corriente
 https://usa16.fastcast4u.com/proxy/girasolradiopatzun?mp=%2F1
 #EXTINF:0,Glaciar 105.7
 https://stream.zeno.fm/uc6dpxzw6sjtv
-#EXTINF:0,glamour fm Málaga
-http://142.132.128.75:8006/stream/1/
 #EXTINF:0,Gooaky
 https://streaming.live365.com/a07804
 #EXTINF:0,Goodstation Radio
@@ -962,7 +958,7 @@ https://str0.creacast.com/capsao?radiode
 #EXTINF:0,LATINO par Hotmixradio
 https://streamingp.shoutcast.com/hotmixradio-latino-64.aac?radiofr
 #EXTINF:0,Latino - my105ritmolatino
-http://stream01.my105.ch/my105ritmolatino.mp3?radiode
+https://my105-stream14.radiohost.de/my105-ritmolatino_mp3-192
 #EXTINF:0,LATIN PARTY - Canal Fiesta Radio
 https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/chunklist_b250000.m3u8
 #EXTINF:0,HIT FM Latinoamerica
@@ -1144,7 +1140,7 @@ https://prod-44-202-154-79.wostreaming.net/univision-kllefmaac-imc2
 #EXTINF:0,KLLI Cali 93.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC_SC
 #EXTINF:0,KLNV - La Nueva 106.5
-http://stream.abacast.net/playlist/univision-klnvfmaac-ibc2.m3u
+https://live.amperwave.net/manifest/univision-kovefmaac-imc1
 #EXTINF:0,KLOB - José 94.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
 #EXTINF:0,KLSQ - Univision América 870 AM
@@ -1475,8 +1471,6 @@ https://servidor39.brlogic.com:7414/live
 https://securestream.radioshd.info:7107/stream
 #EXTINF:0,La Salsera FM
 http://stream-53.zeno.fm/4qbzbrvdmy8uv?zs=9nntSTdSRuGXPaSPudttHg
-#EXTINF:0,La Soberana Radio
-https://node-35.zeno.fm/rmyfcm918vzuv?ref=radiode
 #EXTINF:0,La Sonora Tunja 89.1
 https://sonic.paulatina.co/7068/stream
 #EXTINF:0,KINT FM - La Suavecita 93.9
@@ -2769,8 +2763,6 @@ https://stream.laut.fm/reggaeton-fm?ref=radiode
 http://stream.zeno.fm/z6hdhgcpq18uv
 #EXTINF:0,Remix con Dj Pajaro Herrera
 https://usa19.fastcast4u.com/djpajaroherrera
-#EXTINF:0,Resumen Federal
-http://streaming01.shockmedia.com.ar:9570/;
 #EXTINF:0,retro fm
 https://streaming.radiosenlinea.com.ar/8922/stream
 #EXTINF:0,retrofuturo
@@ -2783,8 +2775,6 @@ https://stream.zeno.fm/1kmsvecw398uv
 https://sp.sintonizapp.com:7028/stream
 #EXTINF:0,Revelación Estereo
 https://server.radiogs.org:7126/stream
-#EXTINF:0,Rincon Chido Radio
-https://s5.radio.co/s11c3af6d5/listen
 #EXTINF:0,Radio Internacional Norte Stereo
 https://stream.radio.co/sf1ac3e15b/listen
 #EXTINF:0,Ritmo 101.9
@@ -2805,6 +2795,8 @@ https://stream.zeno.fm/4w40d9ku1ehvv
 https://stmundial.net:7017/;
 #EXTINF:0,Radio Ritmo y Romance
 https://stream.zeno.fm/7glwqektfbjvv
+#EXTINF:0,RLDM - Radio Lévé Doubout Matinik
+http://srv2.streaming-ingenierie.fr:8176/stream/1/
 #EXTINF:0,RMC Latin In Love
 http://edge.radiomontecarlo.net/rmcweb024
 #EXTINF:0,Radio Monte Carlo - Music Star Pino Daniele
@@ -2959,6 +2951,8 @@ https://stm21.xcast.com.br:10044/stream/1/
 http://s28.myradiostream.com:20348/stream/1/
 #EXTINF:0,Radio Sol
 https://radio.streamgates.net/stream/sol
+#EXTINF:0,Solo Temazos
+https://creativoagencia.stream/8042/stream
 #EXTINF:0,Radio Son de Costa Rica
 https://centova.hostingelectrica.net/proxy/mavargas?mp=/stream
 #EXTINF:0,Son De La Calle
@@ -3057,8 +3051,6 @@ https://servidor17.brlogic.com:7428/live
 http://198.148.103.200:8052/stream/1/
 #EXTINF:0,Super Tokio Radio
 https://streamer.radio.co/s83eb8ff39/listen
-#EXTINF:0,Supremateve FM
-http://209.95.50.179:8164/;
 #EXTINF:0,Radio Sur Adeje 107.9 FM
 http://streaming.enacast.com:8000/radiosuradeje56.mp3
 #EXTINF:0,Swing Latinos 96.5 FM
@@ -3246,7 +3238,7 @@ http://server1.fleetradionetwork.com:8163/stream/1/
 #EXTINF:0,Sonidoclave.net
 http://www.sonidoclave.net
 #EXTINF:0,Tu mundo stereo
-https://stream.zeno.fm/g8mv4hbupp8uv
+https://stream.zeno.fm/uvdzzhbupp8uv
 #EXTINF:0,Tu Música Aquí Radio
 https://stream.zeno.fm/p9wm4gp5enruv
 #EXTINF:0,Tunerlike Radio
