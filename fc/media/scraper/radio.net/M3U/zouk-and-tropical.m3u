@@ -47,8 +47,6 @@ https://servidor15.brlogic.com:7292/live
 http://bongoradio.com:9000/stream/1/
 #EXTINF:0,Boomstation
 https://s10.voscast.com:9589/stream
-#EXTINF:0,Boom Station SLU
-http://198.27.68.65:8886/stream
 #EXTINF:0,Boracay Beach Radio
 http://s7.viastreaming.net:8390/
 #EXTINF:0,Buenísima Estéreo
@@ -114,7 +112,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCT.mp3
 #EXTINF:0,Exa FM Republica Dominicana
 https://s2.free-shoutcast.com/stream/18258
 #EXTINF:0,Exa FM Ecuador
-https://20283.live.streamtheworld.com/ECUADOR_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ECUADOR.mp3
 #EXTINF:0,Exa FM Ibarra
 https://streamingecuador.net:7030/stream
 #EXTINF:0,Exa FM Irapuato
@@ -507,6 +505,8 @@ http://radio74.dyndns.org:8000/radio74stlint.mp3?
 https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3
 #EXTINF:0,RIKA FM 103.3
 http://node-13.zeno.fm/cgv3yr3ced0uv?zs=-baJUmtPTVipvN12FCZREg&rj-tok=AAABgT1-9n0Aw8u59AOIbF4OSQ&rj-ttl=5
+#EXTINF:0,RLDM - Radio Lévé Doubout Matinik
+http://srv2.streaming-ingenierie.fr:8176/stream/1/
 #EXTINF:0,RNA - Radio Ny Antsika Antananarivo
 http://live-rna.dagoradiosound.info:9005/;
 #EXTINF:0,Radio Rossignol

@@ -79,8 +79,6 @@ https://webradio.radiomonitor.com/stream/CentralFM/
 https://stream.statsradio.com:8076/stream
 #EXTINF:0,103.1 WOGB FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOGBFMAAC_SC
-#EXTINF:0,103.5 Capital FM Kigali
-http://stream.zeno.fm/wmf5p1176juvv
 #EXTINF:0,COOL FM 103.5
 http://stream.statsradio.com:8040/stream
 #EXTINF:0,103.5 KISS FM
@@ -361,6 +359,8 @@ https://ondemand.rrr.org.au/getstream
 https://stream.swifthosting.com.au/;
 #EXTINF:0,3SER Casey Radio 97.7 FM
 https://s3.radio.co/s8f8288fe9/listen
+#EXTINF:0,3SFM Smart FM 99.1 
+http://110.143.21.104:88/broadwave.m3u
 #EXTINF:0,3SH 1332 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_3SHAAC.aac
 #EXTINF:0,TRFM 99.5 FM
@@ -1263,8 +1263,6 @@ http://yayin.asymedya.com:8020/;
 https://stream.zeno.fm/yg1gkzwabzzuv
 #EXTINF:0,AS.Radio
 https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream
-#EXTINF:0,Assembleia de Deus Alem Paraiba
-https://s08.maxcast.com.br:8218/live?id=1576834561749
 #EXTINF:0,Assembleia de Deus Icoaraci
 https://sonicpanel.oficialserver.com:7059/stream
 #EXTINF:0,Radio Asturias
@@ -1846,7 +1844,7 @@ https://stream.zeno.fm/zrqzua72w7zuv.aac
 #EXTINF:0,Cadena 3 Santa Fe 101.7
 https://c3live-sm.mediainbox.net/c3santafe.mp3
 #EXTINF:0,Cadena COPE Cantabria
-https://wecast-m02-02.flumotion.com/copesedes/santander.mp3
+https://flucast01-o-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:0,Cadena COPE Cartagena
 https://wecast-b02-06.flumotion.com/copesedes/cartagena.mp3
 #EXTINF:0,Cadena COPE Coruña
@@ -1860,9 +1858,9 @@ https://wecast03-h-cloud.flumotion.com/copesedes/guadix.mp3
 #EXTINF:0,Cadena COPE Inter Comarcas
 https://stream.zeno.fm/nsh0yawtx7zuv.aac?rj-tok=AAABeq72wxwA_bXZpTl_BlIGmQ&rj-ttl=5
 #EXTINF:0,Cadena COPE Jaca
-https://wecast-m02-05.flumotion.com/copesedes/jaca.mp3
+https://flucast09-o-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:0,Cadena COPE Jaén
-https://wecast-m02-05.flumotion.com/copesedes/jaen.mp3
+https://wecast-b01-06.flumotion.com/copesedes/jaen.mp3
 #EXTINF:0,Cadena COPE Jerez
 https://wecast-b01-03.flumotion.com/copesedes/jerez.mp3
 #EXTINF:0,Cadena COPE Lorca
@@ -1870,7 +1868,7 @@ https://wecast-b03-03.flumotion.com/copesedes/lorca.mp3
 #EXTINF:0,Cadena COPE Madrid
 https://flucast-b03-05.flumotion.com/cope/madrid.mp3
 #EXTINF:0,Cadena COPE Oviedo
-https://wecast-m02-04.flumotion.com/copesedes/asturias.mp3
+https://wecast07-h-cloud.flumotion.com/copesedes/asturias.mp3
 #EXTINF:0,Cadena COPE Pozoblanco
 https://srv7031.dns-lcinternet.com/8066/stream
 #EXTINF:0,Cadena COPE Ribadeo
@@ -1884,7 +1882,7 @@ https://wecast-b03-04.flumotion.com/copesedes/soria.mp3
 #EXTINF:0,Cadena COPE Villalba
 https://wecast-b02-04.flumotion.com/copesedes/villalba.mp3
 #EXTINF:0,Cadena COPE Vitoria
-https://wecast-m01-05.flumotion.com/copesedes/vitoria.mp3
+https://flucast15-h-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:0,Cadena COPE Zaragoza
 https://wecast-b03-04.flumotion.com/copesedes/zaragoza.mp3
 #EXTINF:0,Cadena Dial Babyradio
@@ -1915,6 +1913,8 @@ https://server.laradio.online:58381/live
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS_SC
 #EXTINF:0,Cadena SER Granada
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADAAAC_SC?csegid=12000
+#EXTINF:0,Cadena SER Ronda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RONDAAAC_SC
 #EXTINF:0,Cadena SER Vitoria
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VITORIA_SC
 #EXTINF:0,Cadena Tropical
@@ -3259,8 +3259,6 @@ https://stream.zeno.fm/9fsvnsfy77zuv
 http://172.82.129.90:9420/stream
 #EXTINF:0,Dogan 21 FM
 http://yayin1.yayindakiler.com:3024/stream/1/
-#EXTINF:0,Doğuş Radyo
-http://yayin.netyayin.net:9833/;
 #EXTINF:0,Dolce Suby
 https://icecast.unitedradio.it/Suby.mp3
 #EXTINF:0,Dolunay FM
@@ -4033,6 +4031,8 @@ http://190.61.250.140:9994/;
 https://radiohd.net/7028/stream;
 #EXTINF:0,FM Clube Teresina
 http://stm4.xcast.com.br:8938/stream/1/
+#EXTINF:0,FM DEJAVU
+http://62.210.129.76:9990/;
 #EXTINF:0,FM Del Carmen
 http://radios-online.info:2930/listen.pls
 #EXTINF:0,FM Del Lago Esquel
@@ -5125,8 +5125,6 @@ https://radiohd.streaminghd.co:7220/stream
 https://live.hunter.fm/pop_high
 #EXTINF:0,Huskie Radio
 https://cast3.asurahosting.com/proxy/johnhers/stream
-#EXTINF:0,i108.3
-https://streamer.radio.co/s7e4d4e5fe/listen
 #EXTINF:0,I94 FM
 https://www.ophanim.net:8444/s/8370
 #EXTINF:0,Ibero 90.9 FM
@@ -5385,6 +5383,8 @@ https://listen-jackmedia.sharp-stream.com/390_jack_fm_64_aac
 https://ais-sa2.cdnstream1.com/1985_64.aac
 #EXTINF:0,Jackson Palace Radio
 https://jacksonspalace.radioca.st/stream?nocache=20021&type=http
+#EXTINF:0,Jade Radio 21.6 Fm Online
+https://s01.digitalserver.org:7675/stream/1/
 #EXTINF:0,Jæren Misjonsradio
 http://radioip.no:443/jm
 #EXTINF:0,Jagat Radio
@@ -8789,8 +8789,6 @@ https://stream.laut.fm/madness?ref=radiode
 https://stream.laut.fm/mager1602?ref=radiode
 #EXTINF:0,MAGIC Christmas
 https://stream.laut.fm/magic-christmas?ref=radiode
-#EXTINF:0,Magicmelodie
-https://stream.laut.fm/magicmelodie?ref=radiode
 #EXTINF:0,Magic Music Radio
 https://stream.laut.fm/magic-music-radio?ref=radiode
 #EXTINF:0,mainadmin
@@ -11052,7 +11050,7 @@ https://server2.ejeserver.com:8348/live
 #EXTINF:0,La Voz De La Raza
 https://guascafm.com/radio/8250/raza1200
 #EXTINF:0,La Voz de los Chapines
-https://cloudstream2032.conectarhosting.com/9998/stream
+https://cloudstream2032.conectarhosting.com/8024/stream
 #EXTINF:0,La Voz de los Robles 1490 AM
 http://134.122.117.112/radio/8000/radio.mp3
 #EXTINF:0,La voz del pueblo latino
@@ -11389,6 +11387,8 @@ https://stream.laut.fm/magic-christmas?ref=radiode
 http://67.212.165.106:8150/stream
 #EXTINF:0,Magic La Radio
 http://stream.magiclaradio.com:8760/stream
+#EXTINF:0,Magicmelodie
+http://s4.genx-stream.de:8400/;
 #EXTINF:0,Magic Music
 https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
 #EXTINF:0,Magic Music FM
@@ -11916,7 +11916,7 @@ http://c3.radioboss.fm:8076/autodj
 #EXTINF:0,Moin.fm
 https://stream.moin-fm.de:8000/stream
 #EXTINF:0,Radio Moldova Muzical
-http://radiolive.trm.md:8000/RM-muzical
+http://radiolive.trm.md:8000/RM-muzical-256
 #EXTINF:0,Moms Spaghetti Radio
 https://n16a-eu.rcs.revma.com/6q7ksnnz6k0uv
 #EXTINF:0,Mona FM - Plus de Fiesta
@@ -12232,7 +12232,7 @@ https://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/aac/low?aggregator=radio-d
 #EXTINF:0,NDR 2 - Region Schleswig-Holstein
 https://icecast.ndr.de/ndr/ndr2/schleswigholstein/aac/low?aggregator=radio-de
 #EXTINF:0,NdR Radio FM 103.9
-http://streaming.engelhosting.com.br:8160/stream
+https://streamconex.com:8096/stream
 #EXTINF:0,Ndulé World FM
 https://manager5.streamradio.fr:1995/stream
 #EXTINF:0,NEED Radio 
@@ -12329,6 +12329,8 @@ http://02.bitstreaming.info:8554/stream/1/
 https://scdn.nrjaudio.fm/adwz1/fr/58573/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-1000-Tubes
 #EXTINF:0,NOSTALGIE 80 LES TUBES N 1
 https://scdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-80-Les-Tubes-N-1
+#EXTINF:0,Nostalgie 2000
+https://stream.rcs.revma.com/vuzz3g53ehuvv
 #EXTINF:0,NOSTALGIE BEACH PARTY
 https://scdn.nrjaudio.fm/adwz1/fr/57258/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Beach-Party
 #EXTINF:0,Nostalgie Belgique
@@ -12457,6 +12459,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/30157/mp3_128.mp3?origine=radio.net
 https://scdn.nrjaudio.fm/adwz1/fr/31149/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ Belgique
 https://streamingp.shoutcast.com/NRJ-aac
+#EXTINF:0,NRJ Nouveautés
+https://stream.rcs.revma.com/pge88k4uhhuvv
 #EXTINF:0,NRJ BEST HITS EVER
 https://scdn.nrjaudio.fm/adwz1/fr/31251/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ C'EST MARSEILLE BEBE
@@ -12973,6 +12977,8 @@ https://streams.paradiso.de/Summer/aac-64/radiode/
 https://stream.zeno.fm/smz0tdd937zuv
 #EXTINF:0,Paraiso Musical Colombia
 https://sonic01.instainternet.com:7018/stream
+#EXTINF:0,Rádio Paraíso prime
+http://148.72.158.239:8204/live
 #EXTINF:0,paramita fm
 http://s5.alhastream.com/radio/8210/radio
 #EXTINF:0,Paredão Piseiro
@@ -13031,6 +13037,8 @@ https://mars.streamerr.co/8010/stream
 https://listen.radiomax.technology/penny-italy
 #EXTINF:0,PEP'HIT
 https://ecmanager4.pro-fhi.net/pephit
+#EXTINF:0,Percikan Iman
+http://45.64.97.211:9866/;
 #EXTINF:0,Pereira Stereo
 https://stream.zeno.fm/24gau1sq0wzuv
 #EXTINF:0,La Radio du Père Noël
@@ -13281,8 +13289,6 @@ https://live.powerhitz.com/70s?aw_0_req.gdpr=true
 https://live.powerhitz.com/timeblender?aw_0_req.gdpr=true
 #EXTINF:0,Powerhitz.com - Total Country
 https://live.powerhitz.com/country?aw_0_req.gdpr=true
-#EXTINF:0,Radio Power Italia
-http://philae.shoutca.st:8090/stream
 #EXTINF:0,Power Millennium
 https://wr19-ice.stream.khz.se/wr19_mp3
 #EXTINF:0,POWER PARANA
@@ -13323,6 +13329,8 @@ https://stream.zeno.fm/75t5evfqg5zuv
 https://stream.rcast.net/200737
 #EXTINF:0,Princesa FM 96.9
 http://148.72.158.239:8165/live
+#EXTINF:0,Pringles FM 100.3
+http://streaming4.wnpower.com:8410/;
 #EXTINF:0,Pri Radio
 https://a1.asurahosting.com:8130/radio.mp3
 #EXTINF:0,Privilege Web Radio
@@ -15159,6 +15167,8 @@ http://01.solumedia.com.ar:8260/;
 https://cc6.streammaximum.com/proxy/radiojunqueiroweb/stream
 #EXTINF:0,Radio Jupi FM
 https://cdn.radioscast.com.br/bs/proxy/stream.php?ip=cloud.cdnseguro.com&mount=%2Fstream&port=9358
+#EXTINF:0,Rádio Juruá FM
+https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
 #EXTINF:0,Radio Juventude FM
 http://wz2.dnip.com.br/juventudefm/juventudefm.stream/playlist.m3u8
 #EXTINF:0,Rádio Juventude Prudente
@@ -15609,8 +15619,6 @@ http://radiolive.trm.md:8000/PGM1_256kb
 http://streaming.enantena.com:8000/radiomollet56.mp3
 #EXTINF:0,RadioMonster.FM - Tophits
 https://tophits.radiomonster.fm/320.mp3
-#EXTINF:0,Rádio Montanha
-http://live8.livemus.com.br:27328/stream/1/
 #EXTINF:0,Radio Mont-Blanc - Vallée de Chamonix 
 https://radiomontblanc2.ice.infomaniak.ch/radiomontblanc2-128.mp3
 #EXTINF:0,Radio Mont-Blanc - Savoie
@@ -15859,6 +15867,8 @@ http://s9.voscast.com:8224/stream/1/
 https://ssl.dfstreaming.com:7050/;
 #EXTINF:0,Radio Palestina 102.9 FM
 http://stream-40.zeno.fm/f7fz8x1ap98uv?zs=8Ga_CHPrQjq0jNORQR-U2Q
+#EXTINF:0,Radio Palmeira 102.1 FM
+https://stm2.matutos.com.br:10458/stream
 #EXTINF:0,Radio Palmira
 https://stream.zeno.fm/few4ba4tnd0uv
 #EXTINF:0,Radio Pampa
@@ -16194,7 +16204,7 @@ https://rmb.ice.infomaniak.ch/rmb-high.mp3
 #EXTINF:0,Rádio Roberto Carlos
 https://servidor15-2.brlogic.com:8058/live
 #EXTINF:0,Radio Robledo
-http://93.144.6.38:8000/stream
+https://sp.totalstreaming.net/9986/;
 #EXTINF:0,Radio Rock Argentino
 https://stream.zeno.fm/2d8cqb6cx6duv
 #EXTINF:0,Radio rockola playa
@@ -17885,6 +17895,10 @@ https://stream.radiojar.com/g4tyehk5yvduv
 https://cast4.asurahosting.com/proxy/rzn/stream
 #EXTINF:0,Sabambú FM
 https://mediacp15.rootservers.co:8024/live
+#EXTINF:0,Şafak Radyo 100.5
+http://www.safakradyo.com:2626/;
+#EXTINF:0,Safak Radyo
+http://safakradyo.com:2626/;
 #EXTINF:0,SAfm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC_SC
 #EXTINF:0,Saldanha FM
@@ -19385,6 +19399,8 @@ http://vibration.stream2net.eu:8400/vibration-vibracao.mp3
 https://vibrationwork.ice.infomaniak.ch/vibrationwork.mp3
 #EXTINF:0,Radio Vicenza
 https://ice02.fluidstream.net/fluid02?FLID=7
+#EXTINF:0,Vic Mar Producciones Radio Premier
+https://s01.digitalserver.org:7016/stream/1/
 #EXTINF:0,Victoria FM 103.9
 https://emisorasvirtuales.com.co:9252/live
 #EXTINF:0,Vida FM Arcos 103.7
@@ -20326,7 +20342,7 @@ https://stream.theradiator.org/womm-lp_fm_256
 #EXTINF:0,Wonder-Radio 
 https://listen.radionomy.com/wonderradio.m3u
 #EXTINF:0,Woope-Radio
-http://rwcams1.spdns.de:9720/;
+http://rwcams1.spdns.de:9710/;
 #EXTINF:0,World Hits Radio
 https://stream.zenolive.com/cpvysp4m4ceuv
 #EXTINF:0,World Vibes Radio Online
@@ -20551,6 +20567,8 @@ https://ice10.securenetsystems.net/WTRO
 https://s8.yesstreaming.net:17118/stream
 #EXTINF:0,WTSX-LP 104.9 FM
 http://s2.myradiostream.com:5832/;stream.mp3
+#EXTINF:0,WTTC Golden Oldies WTZN
+https://ice8.securenetsystems.net/WTZNAM
 #EXTINF:0,WTTP-LP 101.1 FM
 http://www.ophanim.net:8730/;
 #EXTINF:0,WTTR 102.3 - AM 1470
