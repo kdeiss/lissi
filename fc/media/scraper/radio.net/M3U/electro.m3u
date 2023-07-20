@@ -203,8 +203,6 @@ https://ssl1.transmissaodigital.com:2490/stream/;
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,98bpm - Destin's Pure Dance Station
 https://ec4.yesstreaming.net:3305/stream
-#EXTINF:0,AATM Radio
-http://ec1.everestcast.host:4030/stream
 #EXTINF:0,AB 95 FM - Albacete 95
 https://stream.zeno.fm/szskq9dxs98uv
 #EXTINF:0,ABC Dance
@@ -1429,6 +1427,8 @@ http://relay.181.fm:8800/;
 https://scdn.nrjaudio.fm/adwz1/at/36035/mp3_128.mp3
 #EXTINF:0,Energy Dance
 https://energydance.ice.infomaniak.ch/energydance-high.mp3
+#EXTINF:0,Energy Workout
+https://energyworkout.ice.infomaniak.ch/energyworkout-high.mp3
 #EXTINF:0,ENERGY Clubbin'
 https://scdn.nrjaudio.fm/adwz1/de/33023/mp3_128.mp3?origine=radio.net
 #EXTINF:0,ENERGY Dance
@@ -4563,8 +4563,6 @@ https://stream.radioplay.fi/nrj/nrj_64.aac?
 https://scdn.nrjaudio.fm/adwz1/fr/56708/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ Hits For Running
 https://scdn.nrjaudio.fm/adwz1/fr/30057/mp3_128.mp3?origine=radio.net
-#EXTINF:0,NRJ Nouvelle Caledonie 93.5
-https://testradio01.ice.infomaniak.ch/testradio01-192.mp3
 #EXTINF:0,NRJ PARTY HITS
 https://scdn.nrjaudio.fm/adwz1/fr/30063/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ Pop RnB Dance
@@ -4967,6 +4965,8 @@ http://live.prodjradio.net:8000/stream/1/
 https://media.streamforce.nl/proxy/profm/stream
 #EXTINF:0,Pro FM Dance
 https://player.streamforce.nl:8302/live
+#EXTINF:0,Progressive FM
+http://stream-42.zeno.fm/xxmfpdaa7ehvv?zs=gEESrpIBShKawSkF3N16Xw
 #EXTINF:0,Progressive Rock AZUSA
 https://streaming.live365.com/a38225
 #EXTINF:0,PROJECT BÄM ON AIR - Da tanzt sogar die Oma!
@@ -5279,8 +5279,6 @@ https://servidor40.brlogic.com:8252/live
 http://philae.shoutca.st:8173/stream
 #EXTINF:0,RadioGora.Ru Electro
 http://listen.radiogora.ru:8000/electro320
-#EXTINF:0,Radio Electronica Colombiana
-https://radio30.virtualtronics.com:20033/stream
 #EXTINF:0,RADIO ENERGIA DANCE
 http://192.254.68.106:10055/stream/1/
 #EXTINF:0,Radio Energy Web
@@ -5695,8 +5693,6 @@ https://listen.radioking.com/radio/120313/stream/159811
 https://listen.radioking.com/radio/277843/stream/323506
 #EXTINF:0,Radio STREGA
 https://onair7.xdevel.com/proxy/xautocloud_f0ya_922?mp=/;1/
-#EXTINF:0,Radio Studio Box
-http://nrf1.newradio.it:10352/stream
 #EXTINF:0,Radio Studio Dance
 http://nr9.newradio.it:9630/stream
 #EXTINF:0,Radio Synthetique
@@ -5849,8 +5845,6 @@ https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 https://radiorecord.hostingradio.ru/pump96.aacp
 #EXTINF:0,Radio Record Vip Mix
 https://radiorecord.hostingradio.ru/vip96.aacp
-#EXTINF:0,REC Radio Electrónica Colombiana
-https://radio30.virtualtronics.com:20033/stream
 #EXTINF:0,Recreio FM
 https://player.srvaudio.com.br/player-ssl/11328/stream/1/
 #EXTINF:0,Rádio Rede Dakota
