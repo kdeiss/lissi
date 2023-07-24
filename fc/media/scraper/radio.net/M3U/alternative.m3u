@@ -659,6 +659,8 @@ http://radio.dawgtalkers.net:8000/listenAAA
 https://stream.freefm.de/Studio
 #EXTINF:0,FreeRockRadio
 https://streamingv2.shoutcast.com/freerockradio
+#EXTINF:0,Freies Radio Freudenstadt
+https://s3.fairprice-streams.de:9148/stream
 #EXTINF:0,Freies Radio Kassel
 https://www.freies-radio-kassel.de/stream/FRKStream2.m3u
 #EXTINF:0,Freies Radio Freistadt
@@ -2191,8 +2193,6 @@ http://62.149.196.16:8080/stream/1/
 https://rockstation.radiostream.pro/mp3
 #EXTINF:0,Rock Stock Bar
 http://51.79.50.36:8000/stream
-#EXTINF:0,Radio Rojc
-https://cf.widecastcdn.live/Z07ww1NUNl/128k/1689589374.aac
 #EXTINF:0,Rolling Rock FM
 https://stream.zeno.fm/qvvr14d4g3quv
 #EXTINF:0,ROUGH Radio
@@ -2261,8 +2261,6 @@ https://turadio.accesopanel.com:7253/;
 https://ice2.somafm.com/digitalis-128-mp3
 #EXTINF:0,SomaFM - Groove Salad Classic
 https://ice2.somafm.com/gsclassic-128-mp3
-#EXTINF:0,Radio Sommières
-https://flux.radio-sommieres.fr/stream/
 #EXTINF:0,Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
 #EXTINF:0,Sonic Radio.rocks
@@ -2521,6 +2519,8 @@ http://radio.wesleyan.edu:8000/stream
 https://wfmu.org/wfmu.pls
 #EXTINF:0,WFPN Radio Norwich CT
 http://s25.myradiostream.com:9672/;
+#EXTINF:0,WFSE - Fighting Scots Radio 88.9
+https://ice5.securenetsystems.net/WFSE
 #EXTINF:0,WFTK 96 Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFMAAC_SC
 #EXTINF:0,WFUV Public Radio

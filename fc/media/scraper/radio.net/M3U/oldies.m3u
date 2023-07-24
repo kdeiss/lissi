@@ -233,6 +233,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRQNFMAAC.aac
 https://streaming.servicioswebmx.com/8284/stream
 #EXTINF:0,94.9 The Surf FM Radio
 https://ice24.securenetsystems.net/WVCO
+#EXTINF:0,95.3 WJPA
+https://us2.maindigitalstream.com/ssl/WJPA
 #EXTINF:0,95.7 Coast FM
 https://vistaradio.streamb.live/SB00082
 #EXTINF:0,96.5 Inner FM
@@ -325,8 +327,6 @@ https://conectperu.com/8362/stream
 https://cast3.my-control-panel.com/proxy/secutim/stream
 #EXTINF:0,WASP-DB
 https://stream-063.zeno.fm/6gngumgkwxhvv
-#EXTINF:0,AMANDA FM
-https://s33.maxcast.com.br:9005/live
 #EXTINF:0,Amazing Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_CLASSIC_HITS_S01.mp3
 #EXTINF:0,AMBER HD1
@@ -367,8 +367,6 @@ http://server7.servistreaming.com:10035/stream?type=.mp3
 http://lin1.san.fast-serv.com:9844/;
 #EXTINF:0,Angel Fire Radio
 https://streaming.live365.com/a63504
-#EXTINF:0,Angels Love Radio
-http://angelsloveradio.de/playlisten/listen.pls
 #EXTINF:0,Anglo Paradise
 http://sonic-us.streaming-chile.com:8228/stream
 #EXTINF:0,Antenne Brandenburg vom rbb
@@ -451,6 +449,8 @@ http://hosting.studioradiomedia.fr:2020/stream
 http://s5.radio.co/sd74f3bd87/listen.m3u
 #EXTINF:0,Audio Noir
 http://streams.audionoir.com:8000/noir/;stream.mp3
+#EXTINF:0,AudioSet
+https://radios.yanapak.org/AudioSet
 #EXTINF:0,Radio Augusta International
 https://ecmanager4.pro-fhi.net:2660/stream/1/
 #EXTINF:0,Aurora Sertaneja
@@ -805,6 +805,8 @@ http://stream.trifal.com:8000/oldies
 https://tx.planetradio.co.uk/icecast.php?i=clyde2.mp
 #EXTINF:0,Coast FM Classic Gold
 http://213.175.217.198:8000/coast-gold
+#EXTINF:0,Columbia AM
+https://caster04.streampakket.com/proxy/8031/stream
 #EXTINF:0,Concept Radio
 http://comet.shoutca.st:9015/stream
 #EXTINF:0,Continental FM
@@ -815,6 +817,8 @@ https://stream.radiocontinu.nl/radiocontinu
 https://s2.yesstreaming.net:17161/stream
 #EXTINF:0,Cool Oldies
 http://c8.radioboss.fm:8114/stream
+#EXTINF:0,Cool Oldies 96
+http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream/1/
 #EXTINF:0,Cool Oldies MKE
@@ -1433,8 +1437,6 @@ https://playerservices.streamtheworld.com/api/livestream?mount=SAM12AAC035&trans
 http://s2.genx-stream.de:9050
 #EXTINF:0,House & Techno Classics on MixLive.ie
 https://listen.openstream.co/6519/audio
-#EXTINF:0,Housland FM
-https://stream.zeno.fm/efstkoxf4botv
 #EXTINF:0,Houston Radio Platinum.com
 https://ais-edge51-live365-dal02.cdnstream.com/a83297
 #EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
@@ -1629,8 +1631,6 @@ https://ice2.securenetsystems.net/KGUMFM
 http://honey.macchiatomedia.org:8080/stream/1/
 #EXTINF:0,KHRO 92.3 The Fox
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC_SC
-#EXTINF:0,KIFW 1230 AM
-https://ice9.securenetsystems.net/KIFW
 #EXTINF:0,King Radio
 https://www.tunefm.de:2000/stream/kingradio
 #EXTINF:0,KISD 98.7 FM
@@ -3759,8 +3759,6 @@ http://radio.radionow.es:8600/;
 https://radionr1.de:10000/live
 #EXTINF:0,Radio Oberland
 https://radiooberland--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiooberland/live/mp3/high?ar-distributor=f0a0
-#EXTINF:0,Radio Obozrevatel Rock
-https://radio-stream-0.obozrevatel.com/rockmusic128.mp3
 #EXTINF:0,RadioGora.Ru Oldies
 http://listen.radiogora.ru:8000/oldies128
 #EXTINF:0,Radio Oldtimer
@@ -4211,8 +4209,6 @@ https://usa10.fastcast4u.com/nada22
 https://streaming.live365.com/a89224
 #EXTINF:0,SBR - Serena Beach Radio
 http://streamplus6.leonex.de:20138/stream/1/
-#EXTINF:0,Suara Celebes FM Makassar 90.9
-http://live2.indostreamserver.com:8022/;
 #EXTINF:0,Schausteller Radio
 http://85.25.185.170:8000/stream/1/
 #EXTINF:0,Radio Schlagerparadies - Oldieexpress
@@ -4537,6 +4533,8 @@ https://securestreams.autopo.st:1197/stream/1/
 http://646.cloudrad.io:8234/stream/1/
 #EXTINF:0,The Stroll
 https://cast4.my-control-panel.com/proxy/radiosy3/live
+#EXTINF:0,610 Sturgeon "The Sturgeon"
+https://ais-edge103-live365-dal02.cdnstream.com/a36019
 #EXTINF:0,The Valley
 http://192.96.205.49:8080/;
 #EXTINF:0,Throw Back Hits Radio
@@ -5197,6 +5195,8 @@ https://yimago.torontocast.stream/yeye
 https://mscp2.live-streams.nl:8012/live.mp3
 #EXTINF:0,Your-Family-Radio
 https://s3.genx-stream.de:8252
+#EXTINF:0,Your Hits Radio 
+https://servidor24.brlogic.com:7240/live
 #EXTINF:0,Your Kawartha Oldies
 https://listenlivenow.net/proxy/gord?mp=/stream
 #EXTINF:0,Z103.com

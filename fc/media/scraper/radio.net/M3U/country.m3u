@@ -549,6 +549,8 @@ https://stream03.ustream.ca/kitiganzibi128.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKXAFMAAC_SC
 #EXTINF:0,CKXC Country 93.5 FM
 https://rogers-hls.leanstream.co/rogers/kin935.stream/playlist.m3u8
+#EXTINF:0,CKYC Country 93
+https://bayshore-ais.leanstream.co/CKYCFM
 #EXTINF:0,CKYL River Country 94.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKYLFMAAC.aac
 #EXTINF:0,CKYL River Country 94.9 FM
@@ -937,8 +939,6 @@ http://91.121.121.25:8130/stream/1/
 http://grupomundodigital.com:8577/stream
 #EXTINF:0,Doctor Pundit - 21st Century Hit List
 https://samcloud.spacial.com/api/listen?sid=125881&rid=263984&f=mp3,any&br=128000,any&m=sc&t=ssl
-#EXTINF:0,Doublasfm
-http://doublasfm.hopto.org:8000/live
 #EXTINF:0,Downda Road Radio
 https://downdaroad.out.airtime.pro/downdaroad_b
 #EXTINF:0,Downtown Country
@@ -1069,8 +1069,6 @@ https://vps-6de10815.vps.ovh.ca:10919/;
 http://stream.mjm-webhosting.com.au:8040/;stream.mp3
 #EXTINF:0,105.1FM The Wolf (WLFN)
 https://shout2.brnstream.com/proxy/1051wolffm?mp=/stream
-#EXTINF:0,The Folk Guitar Place
-https://login.webinternetradio.com/folk
 #EXTINF:0,franksstube
 http://franksstube.stream.laut.fm:8080/franksstube
 #EXTINF:0,Frank and Terry Radio
@@ -1611,6 +1609,8 @@ http://stream.abacast.net/direct/townsquare-kkcbfmaac-ibc3
 https://ice9.securenetsystems.net/KKBO
 #EXTINF:0,KKDQ 99.3 FM
 https://ice6.securenetsystems.net/KKDQ
+#EXTINF:0,KKDT - My Country 93.5 FM
+https://ice8.securenetsystems.net/KKDT?type=.mp3
 #EXTINF:0,KKDY Hot Country 102.5 FM
 https://ice41.securenetsystems.net/KKDY
 #EXTINF:0,KKEX KIX 96.7 FM
@@ -2437,6 +2437,8 @@ https://live.leanstream.co/CKRYFM-MP3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJCJFMAAC.aac
 #EXTINF:0,Puro Tejano de Monclova
 https://stream.zeno.fm/8ntdqy9ng0quv
+#EXTINF:0,Q106.8 Country | WQKT-DB
+http://broadcasting.kennyinteractivehosting.com:8006/;
 #EXTINF:0,WQCH-AM/FM
 http://173.166.241.62:8000/listen
 #EXTINF:0,Radiamo 
@@ -2657,6 +2659,8 @@ http://streamplus6.leonex.de:20138/stream/1/
 http://s3.genx-stream.de:9050/listen.pls
 #EXTINF:0,Scotland's Scotland
 http://s7.myradiostream.com:10126/listen.mp3
+#EXTINF:0,ScratchRad.io
+https://cast2.my-control-panel.com/proxy/djscratchnorway/Radio
 #EXTINF:0,SCs MIX
 https://ice66.securenetsystems.net/SCMIX
 #EXTINF:0,SCs MIX God and Country Radio
