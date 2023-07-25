@@ -107,8 +107,6 @@ https://s3.radio.co/s0ee714232/listen
 https://streaming.live365.com/a98661
 #EXTINF:0,KOWN 95.7 FM The Boss
 https://ice41.securenetsystems.net/KOWNLP
-#EXTINF:0,97.6 The Temp
-https://usa4.fastcast4u.com/proxy/dogsday10?mp=/1
 #EXTINF:0,97.7 The Surge
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,97.9 The Beat
@@ -635,6 +633,8 @@ https://ice2.somafm.com/fluid-128-mp3
 https://channels.fluxfm.de/boom-fm-classics/radiode/stream.mp3
 #EXTINF:0,John Reed Radio
 https://streams.fluxfm.de/john-reed/mp3-128/radiode/
+#EXTINF:0,Fly Dialogue
+https://streamer.radio.co/sa49373135/listen
 #EXTINF:0,FMHipHop
 https://streaming.live365.com/a37306
 #EXTINF:0,FOQO
@@ -819,6 +819,8 @@ http://us3.internet-radio.com:8536
 https://panel.amediastream.eu:8500/live
 #EXTINF:0,Homeboyz FM
 http://homeboyzradio-atunwadigital.streamguys1.com/homeboyzradio
+#EXTINF:0,hoodstar 365 tv radio
+https://s1.voscast.com:11683/stream
 #EXTINF:0,Hoodz Radio
 https://stream.radiojar.com/u3y9n1ykb
 #EXTINF:0,Hoodz
@@ -831,8 +833,6 @@ https://streaming.live365.com/a66044
 https://live.powerhitz.com/hot108?aw_0_req.gdpr=true
 #EXTINF:0,Hot 21 Radio
 https://usa18.fastcast4u.com/proxy/cbardzin?mp=/1
-#EXTINF:0,Hot 92.3 FM
-https://stream.radio.co/sa0ad77520/listen
 #EXTINF:0,Hot 92.5 The heat
 https://listen.radioking.com/radio/283255/stream/337267
 #EXTINF:0,WQHT - HOT 97 
@@ -1797,6 +1797,8 @@ http://manager7.streamradio.fr:1360/stream
 https://icecast.omroep.nl/funx-bb-mp3
 #EXTINF:0,NRG HipHop
 http://live.nrgplay.com/stream/hiphop
+#EXTINF:0,NRJ DnB
+https://skymedia-live.bitflip.ee/NRJ
 #EXTINF:0,NRJ HIP HOP RNB HITS
 https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ RAP FR
@@ -1827,8 +1829,6 @@ https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
 https://s9.myradiostream.com/:14296/;
 #EXTINF:0,ONE Station
 https://stream.onestation.net/onestation-128.mp3
-#EXTINF:0,On Radio Black Music
-http://radio2.suaradionanet.net:8060/stream
 #EXTINF:0,ON STREET RADIO
 https://streamingv2.shoutcast.com/ONSTREET
 #EXTINF:0,On Top FM
@@ -1988,7 +1988,7 @@ https://jonasfalkestedt.radioca.st/stream
 #EXTINF:0,PyroRadio
 http://mp3streaming.planetwideradio.com:9830/pyrorad
 #EXTINF:0,Q96 THE BEAT
-http://server2.fleetradionetwork.com:7010/stream/1/
+https://streaming.live365.com/a31045
 #EXTINF:0,Q-Bradeira Black 
 https://s10.w3bserver.com/radio/8130/radio.mp3
 #EXTINF:0,QSKY Radio
@@ -2120,7 +2120,7 @@ https://radiorecord.hostingradio.ru/mf96.aacp
 #EXTINF:0,Radio Regenbogen - Hip-Hop and R’n‘B
 https://stream.regenbogen.de/hiphop/aac-128/radiode
 #EXTINF:0,Radio ReyMod
-https://radio17.servidorderadio.net:7079/stream?type=http&nocache=129068
+https://server.streamcasthd.com:7092/stream/1/
 #EXTINF:0,Radio Rumba Inter
 https://node-01.zeno.fm/cwenv3ce9yzuv.aac?
 #EXTINF:0,100% Hiphop - Radios 100FM
@@ -2245,8 +2245,6 @@ https://ukwesta.streaming.broadcast.radio:17480/rotationradio
 http://streaming.radioroyal.org:8024/hi;
 #EXTINF:0,Royalty Kings and Queens Corp Radio Station
 https://fastcast4u.com/player/daznino/
-#EXTINF:0,Radio Paul Bert 
-https://rocket.streamradio.fr:8012/stream
 #EXTINF:0,r.p.i.
 https://passas00.radioca.st/
 #EXTINF:0,RPR1. Hip-Hop
@@ -2468,7 +2466,7 @@ https://streamingv2.shoutcast.com/ThatHotness
 #EXTINF:0,The Beat
 https://stream.oneplay.no/beatoslo64
 #EXTINF:0,The Beat 104.9 FM
-https://live.wostreaming.net/direct/alphacorporate-kbtefmaac-ibc4
+https://prod-54-234-185-32.amperwave.net/alphacorporate-kbtefmaac-ibc4
 #EXTINF:0,The Beat 98.5
 http://stream.abacast.net/playlist/univision-kbbtfmaac-ibc2.m3u
 #EXTINF:0,The Beat Show Radio
@@ -2511,8 +2509,6 @@ http://listen.one.hiphop/top-hip-hop-songs
 https://rocket.streamradio.fr/stream/TopRadioFr
 #EXTINF:0,Top Trend Radio 101
 http://149.56.157.81/proxy/cwatters?mp=%2Fstream
-#EXTINF:0,Torqued Cash Music
-https://az10.yesstreaming.net:8200/radio.mp3
 #EXTINF:0,TRACC RADIO
 https://usa19.fastcast4u.com/traccradio
 #EXTINF:0,Trace FM Cote D'Ivoire
@@ -2535,8 +2531,6 @@ http://64.20.39.8:8141/stream/1/
 http://www.fleetradionetwork.com:8241/autodj
 #EXTINF:0,TruCulture Radio
 http://server1.fleetradionetwork.com:8163/stream/1/
-#EXTINF:0,True Radio Birmingham
-https://streams.radio.co/s8b36c3c56/listen
 #EXTINF:0,The Real Underground Radio
 https://usa10.fastcast4u.com/tru100
 #EXTINF:0,Trust96.3fm
@@ -2719,6 +2713,8 @@ https://streaming.live365.com/a04911
 http://stream.radiojar.com/y47fsua10heuv
 #EXTINF:0,WLLD - Wild 94.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLLDFM.mp3
+#EXTINF:0,WLOA LOUD 102.3
+https://ice24.securenetsystems.net/WLOA
 #EXTINF:0,WLZN - Blazin 92.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLZNFM.mp3
 #EXTINF:0,WMGC The bounce 105.1 FM
@@ -2727,8 +2723,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFMAACIHR_S
 http://69.30.214.54:14316/stream
 #EXTINF:0,WMNX Coast 97.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMNXFM_SC
-#EXTINF:0,WMSO Bumpin 104.1
-https://stream1.flinn.com:8443/1041FM.aac
 #EXTINF:0,WNRV Power 1081
 https://s3.radio.co/s574e54b94/listen
 #EXTINF:0,WOPSS 90.5
@@ -2815,8 +2809,6 @@ https://s1.voscast.com:10589/stream
 http://192.95.39.65:5553/stream
 #EXTINF:0,Z90 FM
 http://patmos.cdnstream.com:9579/1?aw_0_req.gdpr=true&cb=169291.mp3
-#EXTINF:0,Radio Zig Zag Hip Hop 80!
-https://zig.syndicastream.fr:8443/stream
 #EXTINF:0,ZMIX97
 http://ca6.rcast.net:4052/stream/1/
 #EXTINF:0,Zoar FM 107.9

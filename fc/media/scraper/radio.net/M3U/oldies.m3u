@@ -285,8 +285,6 @@ http://listen.radionomy.com/addicted2oldiesmusicradio
 https://listen.radionomy.com/addictive-70s.m3u
 #EXTINF:0,Adult Contemporary Music Relaxing
 https://stream-62.zeno.fm/7evvcp3u0p8uv?zs=kT1RpGgERN2RjwLd98bRXw
-#EXTINF:0,AEROESTEREO 94.3 FM
-https://aerostereo.radionline.com.es/listen/aerostereo/mp3
 #EXTINF:0,Afya Radio FM
 https://cast4.my-control-panel.com/stream/afyaradi/stream.pls
 #EXTINF:0,Hudson Valley Time Machine Airchecks
@@ -303,8 +301,6 @@ http://centova1.cheapshoutcast.com:8252/;stream.nsv
 http://67.212.238.178:7086/stream/1/
 #EXTINF:0,All Oldies Channel
 http://radio.alloldieschannel.com:8000/stream
-#EXTINF:0,Allrequest Show
-http://204.141.167.21:10230/stream/1/
 #EXTINF:0,All Scottish Radio
 https://streaming.live365.com/a45584
 #EXTINF:0,Allsound Radio
@@ -327,6 +323,8 @@ https://conectperu.com/8362/stream
 https://cast3.my-control-panel.com/proxy/secutim/stream
 #EXTINF:0,WASP-DB
 https://stream-063.zeno.fm/6gngumgkwxhvv
+#EXTINF:0,AMANDA FM
+https://s33.maxcast.com.br:9005/live
 #EXTINF:0,Amazing Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_CLASSIC_HITS_S01.mp3
 #EXTINF:0,AMBER HD1
@@ -1090,7 +1088,7 @@ https://caster05.streampakket.com/proxy/8321/stream
 #EXTINF:0,100% Oldie-Party von Feierfreund
 https://streams.feierfreund.de/oldies/mp3-192/radiode/
 #EXTINF:0,ferry fm
-https://ferryfmlive.radioca.st/stream/1/
+https://ferryfmlive.radioca.st/;
 #EXTINF:0,FFH OLDIES
 https://streams.ffh.de/ffhchannels/aac/hqoldies.aac?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Fictop Flashback
@@ -1743,8 +1741,6 @@ https://ice10.securenetsystems.net/KSVB
 https://ice8.securenetsystems.net/KTDZ
 #EXTINF:0,KTL-Radio 
 http://streamplus51.leonex.de:24844/stream/1/
-#EXTINF:0,KTOY 104.7 FM
-https://ice7.securenetsystems.net/KTOY
 #EXTINF:0,kulthitRADIO in NRW
 https://frontend.streamonkey.net/kulthitradio-nrw?aggregator=RadioDe
 #EXTINF:0,Radio Kungsbacka 95.2 FM
@@ -2716,7 +2712,7 @@ https://live.radiostudio.be/ludo.m3u
 #EXTINF:0,Lüneburger Radio
 https://stream.rcast.net/67357
 #EXTINF:0,LuxuriaMusic
-https://media.luxuriamusic.com/files/streams/Mp3/luxuriamusic_32_acc.pls
+https://ice10.securenetsystems.net/LUXOMP3
 #EXTINF:0,Lyca Gold
 https://listen-lycaradio.sharp-stream.com/1035.mp3
 #EXTINF:0,M100
@@ -2985,18 +2981,18 @@ https://centova2.svdns.com.br:20034/stream/;
 http://streaming.radionomy.com/NOSTALGICARADIO
 #EXTINF:0,Nostalgie
 https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3?origine=radio.net
-#EXTINF:0,Nostalgie Belgique 60
-https://streamingp.shoutcast.com/NostalgiePremium?=&gdpr=true&gdpr_consent=CPTcsUAPTcsUAAHABBENB_CsAP_AAAAAAAAAIhtf_X__b3_j-_5___t0eY1f9_7_v-0zjhfdt-8N3f_X_L8X_2M7vF36pq4KuR4Eu3LBIQVlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_3-_-_f_V_997Lv9_____9_P___9v__9____gAAAJCQAYAAgiGSgAwABBEMNABgACCIYqADAAEEQykAGAAIIhjoAMAAQRDIQAYAAgiGIgAwABBEMZABgACCIYAAA.f_gAAAAAAAAA&lang=de-DE&accept-language=de-DE&userref=RI6iokyTCj1643281864612&userrid=RI6iokyTCj1643281864612&___cb=765189827570541
+#EXTINF:0,Nostalgie 60
+https://stream.rcs.revma.com/q04c62u3ehuvv
 #EXTINF:0,Nostalgie Belgique
-https://streamingp.shoutcast.com/NostalgiePremium
+https://stream.rcs.revma.com/5gd04cwptg0uv
 #EXTINF:0,Nostalgie 105.2 FM Belgrad
 http://nostalgie128.streaming.rs:9250/;stream.mp3
 #EXTINF:0,Nostalgie Rock
 https://stream.rcs.revma.com/7ym5et43ehuvv
 #EXTINF:0,NOSTALGIE BEST OF 80 90
 https://scdn.nrjaudio.fm/adwz1/fr/57831/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Best-Of-80-90
-#EXTINF:0,Nostalgie Belgique Le Meilleur de Nostalgie
-https://streamingp.shoutcast.com/NostalgieLeMeilleur-aac
+#EXTINF:0,Le Meilleur de Nostalgie
+https://stream.rcs.revma.com/r9gvhg43ehuvv
 #EXTINF:0,NOSTALGIE CHANSONS FRANCAISES
 https://scdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Chansons-Fran-aises
 #EXTINF:0,NOSTALGIE Deutschland
@@ -3111,6 +3107,8 @@ http://178.19.127.144/
 https://live.radioart.com/fOldies.mp3
 #EXTINF:0,WNYC-DB New York City Oldoes Radio Live 365
 https://streaming.live365.com/a02077
+#EXTINF:0,OLDIES RADIO LIVE 365
+https://streaming.live365.com/a02077
 #EXTINF:0,Oldies Radio
 https://ice.abradio.cz/oldiesradio128.mp3
 #EXTINF:0,Oldies WMVO
@@ -3207,8 +3205,6 @@ https://radio5.domint.net:8166/stream
 https://s2.radio.co/s3ec20c9a3/listen
 #EXTINF:0,OZONEfm
 https://live.ozonefm.ro:8443/ozonefm
-#EXTINF:0,OZ Rewind
-http://45.64.97.211:9868/;
 #EXTINF:0,P9 Retro
 https://p9.p4groupaudio.com/P09_MM?args=other_01&distributor=radionet
 #EXTINF:0,Painel Web Rádio
@@ -3485,6 +3481,8 @@ https://onair7.xdevel.com/proxy/xautocloud_g6oa_1827?mp=/;1/
 http://5.9.65.9:8075/stream
 #EXTINF:0,Radio Bonheur
 https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
+#EXTINF:0,Radio Bop
+https://live.urbanza.co.za/radio/8020/radiobop
 #EXTINF:0,Radio Brasov
 https://live.radiobrasov.ro/stream.mp3?source=radionet
 #EXTINF:0,Rádio Cabo Branco FM
@@ -3631,6 +3629,10 @@ https://stream.laut.fm/radioherzblut?ref=radiode
 https://stream01.script24.net:9064/stream/1/
 #EXTINF:0,Webradio
 http://server35683.streamplus.de:12074/stream/1/
+#EXTINF:0,Radio Hogeland
+https://mscp2.live-streams.nl:8072/stream.mp3
+#EXTINF:0,Radio Hogeland
+https://mscp2.live-streams.nl:8072/stream.mp3
 #EXTINF:0,Radio Horton
 https://radiohorton.radioca.st/stream/1/
 #EXTINF:0,Radio Houtstoker
@@ -3705,6 +3707,8 @@ https://servermax.azuracast.com.es/listen/radio_silencio_fm/MAXIMAFMINTERNACIONA
 http://192.99.83.154:8006/stream
 #EXTINF:0,MDM Radio
 https://stream.radio-mdm.fr:8443/stream.mp3
+#EXTINF:0,radiomediona
+https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,Radio Melody
 https://stream.streambase.ch/rm/mp3-192/radiode/
 #EXTINF:0,Radio M Evergreen
@@ -3883,8 +3887,6 @@ http://onair7.xdevel.com:7046/1
 https://server4.streamserver24.com:26237/live
 #EXTINF:0,Radio Sky FM
 http://live.radiosky.ro:8000/radiosky.mp3
-#EXTINF:0,Radio So Flashack
-http://stm9.srvstm.com:13544/stream/1/
 #EXTINF:0,RADIO SOLE DIGITAL
 https://rsoled23.radioca.st/stream/1/
 #EXTINF:0,Radio Sotenas
@@ -4506,7 +4508,7 @@ https://streaming.live365.com/b68000_128mp3
 #EXTINF:0,THE BASS STATION 561 (Heat 4 Da Streets)
 http://stream.zeno.fm/rgukwcyhcrtuv
 #EXTINF:0,The Best Fm
-https://nr12.newradio.it:8630/stream
+http://nr12.newradio.it:8630/stream
 #EXTINF:0,The English 909 Radio
 https://www.radioking.com/play/the-english-909/523475
 #EXTINF:0,The Fox Oldies
@@ -4819,8 +4821,6 @@ http://stream1.mtcstream.com:8500/wdicfm
 https://video1.getstreamhosting.com:2000/tunein/9004/128K/pls
 #EXTINF:0,WDLW Kool Kat Oldies 1380 AM
 https://us2.maindigitalstream.com/ssl/WDLW
-#EXTINF:0,WDLY AM1430
-http://stream.zeno.fm/axh3jwb41sdtv
 #EXTINF:0,WDR 4 
 https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,RÁDIO WEB FLORESTA DIGITAL
@@ -4969,8 +4969,6 @@ https://streaming.live365.com/a04907
 http://listen.mediatechusa.com:8000/wlnc
 #EXTINF:0,WLNG 92.1 FM
 http://sc7.shoutcaststreaming.us:8100/listen.pls
-#EXTINF:0,WLPK K Mix 106.9
-http://13.bteradio.com:9090/KMIX.mp3
 #EXTINF:0,94.7 WLS Chicago's Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
 #EXTINF:0,Saint Leo University Radio

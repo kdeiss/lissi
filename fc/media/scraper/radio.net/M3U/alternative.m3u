@@ -209,6 +209,8 @@ http://antennedoc.ice.infomaniak.ch/antennedoc-48.mp3
 https://streams.antenne-sylt.de/sylt/mp3-128/radiode/
 #EXTINF:0,Antenne Sylt – Schleswig-Holstein
 https://streams.antenne-sylt.de/festland/mp3-128/radiode/
+#EXTINF:0,Antipodes Radio
+https://a1.asurahosting.com:9920/radio.mp3
 #EXTINF:0,AROCK Radio
 https://streaming.live365.com/a71753
 #EXTINF:0,Array Radio
@@ -507,6 +509,8 @@ https://streams.deltaradio.de/delta-indie/mp3-128/radiode/
 https://streams.deltaradio.de/delta-poprock/mp3-128/radiode/
 #EXTINF:0,Denmark Street Radio
 https://s2.radio.co/s083ffad04/listen
+#EXTINF:0,Detroit’s Rock 104.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC322_SC
 #EXTINF:0,Deviant Behavior Radio
 https://s5.radio.co/sa1e68ef03/listen
 #EXTINF:0,Devilzz Radio 
@@ -929,8 +933,6 @@ http://kteclive.oit.edu:8000/live.mp3
 https://streamer.kuci.org:8088/high
 #EXTINF:0,KUCR 88.3 FM
 http://138.23.75.92:8001
-#EXTINF:0,KUMM U-90
-http://146.57.36.230:8256/listen
 #EXTINF:0,KUOM RADIO K
 http://radiokstreams.cce.umn.edu:8128/;
 #EXTINF:0,KURQ New Rock 107.3 FM
@@ -1888,7 +1890,7 @@ https://sr11.inmystream.it/proxy/foxyone?mp=/stream
 #EXTINF:0,Radio Free Raleigh
 https://streaming.live365.com/a49915
 #EXTINF:0,Radio FRO 105,0 - Freier Rundfunk Oberösterreich
-https://stream.fro.at/fro-128.ogg
+https://stream.fro.at/fro-db9009
 #EXTINF:0,Radio Fun 100.1 FM
 http://63.247.65.202:8183/stream
 #EXTINF:0,Radio Futura
@@ -2049,8 +2051,6 @@ https://radio.radiobot.org/listen/rvk/rvk.mp3
 https://shoutcast.k-planet.eu/8004/stream
 #EXTINF:0,Radio Vesánico
 https://radiosonline.one/radio/8390/radio.mp3
-#EXTINF:0,Rádio Web Cajuí - A sua Rádio Agroecológica
-https://s1.bycast.com.br:8019/live
 #EXTINF:0,Rádio Web Nova Alternativa
 https://stream.zeno.fm/277nkh4x438uv
 #EXTINF:0,Radio Woking
@@ -2109,8 +2109,6 @@ https://rdu985fm-gecko.radioca.st/stream/1/
 https://s2.mexside.net/8002/stream
 #EXTINF:0,Real Radio 104.1 
 https://stream.revma.ihrhls.com/zc609
-#EXTINF:0,Reboot.fm
-http://87.118.122.220:8002/stream
 #EXTINF:0,Red Moskito Radio
 http://streaming.radiolinksmedia.com:9070/stream
 #EXTINF:0,Rehegoo Radio UK - HD
@@ -2193,6 +2191,8 @@ http://62.149.196.16:8080/stream/1/
 https://rockstation.radiostream.pro/mp3
 #EXTINF:0,Rock Stock Bar
 http://51.79.50.36:8000/stream
+#EXTINF:0,Radio Rojc
+https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8
 #EXTINF:0,Rolling Rock FM
 https://stream.zeno.fm/qvvr14d4g3quv
 #EXTINF:0,ROUGH Radio
@@ -2261,6 +2261,8 @@ https://turadio.accesopanel.com:7253/;
 https://ice2.somafm.com/digitalis-128-mp3
 #EXTINF:0,SomaFM - Groove Salad Classic
 https://ice2.somafm.com/gsclassic-128-mp3
+#EXTINF:0,Radio Sommières
+https://flux.radio-sommieres.fr/stream/
 #EXTINF:0,Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
 #EXTINF:0,Sonic Radio.rocks
@@ -2321,6 +2323,8 @@ https://streamingV2.shoutcast.com/GrrrlsGrrrlsGrrrls
 https://stream.zeno.fm/np8qblly48xtv
 #EXTINF:0,Strange Fruit Radio
 http://195.166.151.210:8002/stream
+#EXTINF:0,Streamplus
+http://server35870.streamplus.de:11166/stream/1/
 #EXTINF:0,Stuart Bedasso Radio
 http://streaming.live365.com/a90366
 #EXTINF:0,Studio 21
@@ -2473,8 +2477,6 @@ https://streaming.radio.co/sefa4c74e3/listen
 http://209.95.50.189:8178/stream
 #EXTINF:0,WBOS - ALT 92.9 Boston
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFM.mp3
-#EXTINF:0,WBRS 100.1 FM
-http://s6.yesstreaming.net:9016/stream
 #EXTINF:0,WBRU
 https://s3.radio.co/s115121de1/listen
 #EXTINF:0,WBWC - The Sting 88.3 FM
@@ -2545,6 +2547,8 @@ https://ice7.securenetsystems.net/WHSN?type=.mp3
 http://172.99.75.169:8000/whusfm
 #EXTINF:0,Wicked Rock Radio
 http://cast2.asurahosting.com:8029/;
+#EXTINF:0,Willy Radio
+https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac
 #EXTINF:0,WIOW - 102.3 WOW! Radio
 https://streamingv2.shoutcast.com/1023WOW-Radio
 #EXTINF:0,WITR - 89.7 FM
@@ -2578,7 +2582,7 @@ https://patmos.cdnstream.com:9541/stream
 #EXTINF:0,Saint Leo University Radio
 https://streaming.live365.com/a27373
 #EXTINF:0,WMBR 88.1 FM
-http://headphones.mit.edu:8000/hi
+https://wmbr.org:8002/hi
 #EXTINF:0,WMCK.FM McKeesport
 http://66.207.128.43:8000/;
 #EXTINF:0,WMHD Radio

@@ -183,8 +183,6 @@ http://std1.ladio.net:8020/charlie27745
 https://stream.zeno.fm/gqdb1rev5s8uv
 #EXTINF:0,FM La Boca
 https://s24.myradiostream.com/14984/listen.mp3
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,FM Masters 101.3
 http://ice.dant.com:4232/fmmasters
 #EXTINF:0,FM Mundo
@@ -237,6 +235,8 @@ https://streamingv2.shoutcast.com/FrequenceMeteoLive
 https://stream.zeno.fm/y8edx1955p8uv
 #EXTINF:0,Friendship Radio
 http://198.7.59.28:8028/stream
+#EXTINF:0,FRINGE FM
+https://streaming.live365.com/a05030
 #EXTINF:0,FSN World News
 https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3
 #EXTINF:0,GABNet
@@ -433,8 +433,6 @@ http://sweb.co.il:8042//stream?type=http&nocache=4379
 https://audio01.viaflux.com:5444/live
 #EXTINF:0,Radio Itatiaia Juiz de Fora 105.3 FM
 https://live.paineldj.com.br/proxy/itatiaia?mp=/stream
-#EXTINF:0,Izwi Lomzanzi FM
-https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8
 #EXTINF:0,Jalisco Radio
 https://sp2.servidorrprivado.com/8136/stream
 #EXTINF:0,Jambo! Radio
@@ -965,8 +963,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KNTHAM.mp3
 https://ice8.securenetsystems.net/KNTK
 #EXTINF:0,KNUJ 860
 https://ice23.securenetsystems.net/KNUJ
-#EXTINF:0,KNVC Carson City Community Radio
-http://204.141.167.20:16400/stream
 #EXTINF:0,KNWH - KNews 94.3 FM
 https://live.wostreaming.net/manifest/alphacorporate-knwzamaac-imc4
 #EXTINF:0,KNWP Northwest Public Radio
@@ -1297,14 +1293,10 @@ http://kxparadio.serverroom.us:5852/;
 https://platteriverradio.broadcasttool.com/kxpn-aac
 #EXTINF:0,KXRA 1490 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXRAAMAAC_SC
-#EXTINF:0,KXRO - Newsradio 1320 AM
-https://prod-3-95-197-210.wostreaming.net/alphacorporate-kxroamaac-ibc4?
 #EXTINF:0,KXST - CBS Sports Radio 1140 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXSTAM.mp3
 #EXTINF:0,KXYL NewsTalk 102.3 FM
 https://ice8.securenetsystems.net/KXYL
-#EXTINF:0,KYCA - The News 1490
-http://streaming.kahm.info:8030/stream
 #EXTINF:0,KYCNRADIO.com
 http://streaming.live365.com/a84091
 #EXTINF:0,Kyob Radio 91.3 
@@ -1607,8 +1599,6 @@ https://stream.zeno.fm/41eb0w2hq2zuv
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC60_SC
 #EXTINF:0,Musik, News, Talk
 http://stream.laut.fm/radio-salzburg?ref=radiode
-#EXTINF:0,Musix Dose
-https://usa15.fastcast4u.com/proxy/musixdos?mp=%2F1
 #EXTINF:0,Mystery and Suspense Radio Network
 http://hemnos.cdnstream.com/1667_32
 #EXTINF:0,Naija FM 102.7 Lagos
@@ -2225,8 +2215,6 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
-#EXTINF:0,Rádio Assembleia Minas Gerais
-http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -2735,8 +2723,6 @@ https://manager5.streamradio.fr:1495/stream
 http://www.rkmradio.com:8000/stream/1/
 #EXTINF:0,Radio Sporting
 http://5.135.183.124:8426/stream
-#EXTINF:0,Plus Radio Belize
-http://stream.zeno.fm/ffw2uyxp3nhtv
 #EXTINF:0,Radio Stereo Dalia 96.1 FM
 https://stream-42.zeno.fm/0dqs1rnv6k8uv?zs=Aw-3ljsySY6gCR6JpDWJ7w
 #EXTINF:0,Radio Študent
@@ -2832,13 +2818,13 @@ http://45.32.154.169:8022/;
 #EXTINF:0,Radyo Spor
 http://live4.radyotvonline.com:8160/;
 #EXTINF:0,Radyo Tanbou
-http://radyotanbou.myvnc.com:8000/live
+https://streaming.shoutcast.com/rtb
 #EXTINF:0,RAI Radio Andalucía Información
 https://cdnlive.codev8.net/rtvalive/smil:channel34.smil/playlist.m3u8
 #EXTINF:0,RAI webradio 6
 http://icestreaming.rai.it:80/9.mp3
 #EXTINF:0,Rap 107 FM - 107.2 FM
-https://enacast.com/rap107/streams/HD
+http://streaming.enantena.com:8000/rap56.mp3
 #EXTINF:0,Rasti
 http://eu9.fastcast4u.com:2116/stream
 #EXTINF:0,RBE - Radio Beckwith Evangelica
@@ -3001,6 +2987,8 @@ https://directe.cugat.cat/directeHQ.mp3
 http://stream.internetgirona.com:8004/;
 #EXTINF:0,Sapporo City FM
 http://std1.ladio.net:8030/scfm
+#EXTINF:0,Sat.1 Live AD
+https://live.datamatix.at:9032/;
 #EXTINF:0,Radio Sausalito
 http://quarrel.str3am.com:7090/live
 #EXTINF:0,Sayaji FM
@@ -3255,8 +3243,6 @@ https://stream.zeno.fm/hmrzpc00vd0uv
 https://server8.emitironline.com:18798/;
 #EXTINF:0,AFN Souda Bay - The Eagle 107.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SDBAAC.aac
-#EXTINF:0,TGRT FM
-https://nminhgrts.mediatriple.net/tgrtfm.aac
 #EXTINF:0,Radio TGW FM 107.3
 http://ample-zeno-08.radiojar.com/8827exas36duv
 #EXTINF:0,The best of ERICADE.radio
@@ -3507,8 +3493,6 @@ https://ice64.securenetsystems.net/WATN
 https://ice3.securenetsystems.net/WAUB
 #EXTINF:0,WAUB 1590
 https://ice3.securenetsystems.net/WAUB
-#EXTINF:0,WAVA-FM - 105.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAFM.mp3
 #EXTINF:0,WAVH 106.5 FM - FM Talk 106.5
 https://us9.maindigitalstream.com/ssl/wavhfm
 #EXTINF:0,WAXY - 790 AM The Ticket
@@ -4051,6 +4035,8 @@ http://stream.abacast.net/direct/alphacorporate-wkrsamaac-ibc4
 https://live.wostreaming.net/manifest/goodkarma-wktifmaac-hlsc2.m3u8
 #EXTINF:0,WKWF - Sports Radio 1600 AM
 https://sh.fl-us.audio-stream.com/proxy/rconne02?mp=/stream
+#EXTINF:0,WKWN Newstalk 1420 AM
+http://199.91.56.36:55566/listen
 #EXTINF:0,WKXD-HD3 - SPORTS RADIO 104.7
 https://ice24.securenetsystems.net/WKXDHD3
 #EXTINF:0,WKXQ 92.5 FM
@@ -4089,8 +4075,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLLFFM.mp3
 https://ice64.securenetsystems.net/WLLX
 #EXTINF:0,WLMN IPR News Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM_SC
-#EXTINF:0,WLOB News Talk
-https://ic1.mainstreamnetwork.com/wlob-am
 #EXTINF:0,WLPA - ESPN 1490 AM
 http://ctcstream.com:8000/stream/1/
 #EXTINF:0,WLPE - Gnnradio 91.7 FM
@@ -4109,6 +4093,8 @@ https://wlrh.streamguys1.com/news
 https://wlrh.streamguys1.com/news
 #EXTINF:0,WLS AM 890
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAM.mp3
+#EXTINF:0,WLSS - The Answer 930 AM
+https://26433.live.streamtheworld.com/WLSSAMAAC.aac
 #EXTINF:0,WLTQ - Catholic Radio 730 AM
 https://streamingv2.shoutcast.com/catholicradiosc
 #EXTINF:0,WLUR 91.5 FM
@@ -4503,8 +4489,6 @@ https://stream.zenolive.com/st9bhqvgvceuv
 https://ice8.securenetsystems.net/WTSL
 #EXTINF:0,WTSN - News-Talk 1270 AM - The Pulse of NH
 https://ice64.securenetsystems.net/WTSN
-#EXTINF:0,WTSR 91.3 FM
-https://www.streamcontrol.net:8444/s/13090
 #EXTINF:0,WTSV - The Pulse 1230 AM
 https://ice8.securenetsystems.net/WTSL
 #EXTINF:0,WTTN Devil Radio 92.7 FM
@@ -4605,8 +4589,6 @@ https://tektite.streamguys1.com:5145/wwnolive-mp3
 https://tektite.streamguys1.com:5145/wwnolive-mp3
 #EXTINF:0,WWPR - 1490 AM
 https://ice5.securenetsystems.net/WWPR
-#EXTINF:0,WWSC
-https://ice10.securenetsystems.net/WWSC
 #EXTINF:0,WWTC - The Patriot 1280 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWTCAM.mp3
 #EXTINF:0,WWTK TK 730
