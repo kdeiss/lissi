@@ -227,8 +227,6 @@ https://cast.mgtradio.net/radio/8000/radio.aac
 https://stm01.virtualcast.com.br:8350/stream
 #EXTINF:0,Mirante FM 100.3
 https://player-ssl.painelstream.net:8094/live
-#EXTINF:0,MIX879 FM
-http://str81.aovivonanet.com:9952/;stream.mp3
 #EXTINF:0,Mix Arapiraca
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC_SC
 #EXTINF:0,MS Web Rádio
@@ -629,6 +627,8 @@ http://45.43.200.58:8310/stream/1/
 https://stream.zeno.fm/ma76bamgzs8uv
 #EXTINF:0,Radio Nova Satuba
 https://stream.zeno.fm/9cgpk8mz4yzuv
+#EXTINF:0,Rádio Onda FM 87.5
+http://95.216.27.138:9304/stream/1/
 #EXTINF:0,Radio On Gospel
 https://hts03.kshost.com.br:11910/live
 #EXTINF:0,Radio Online Buritama Gospel
@@ -719,8 +719,22 @@ https://serv-audio-soflashback.audiovox.pw:7020/;?type=http&nocache=107036
 https://srv1.braudio.com.br/7008
 #EXTINF:0,Rádio Som Zão - Araturi
 http://stm12.voxtreaming.com.br:6890/stream/1/
+#EXTINF:0,Rádio Sound FM - 80s
+https://live.radiosoundfm.com.br/80s/stream
+#EXTINF:0,Rádio Sound FM - Eletrônica
+https://stream.zeno.fm/wablfblem4ntv
+#EXTINF:0,Rádio Sound FM - latin
+https://live.radiosoundfm.com.br/latin/stream
+#EXTINF:0,Rádio Sound FM - MPB
+https://stream.zeno.fm/me7yzxbonizvv
+#EXTINF:0,Rádio Sound FM - Pagode
+https://stream-158.zeno.fm/ylp4tqd5epfvv
 #EXTINF:0,Rádio Sound FM - Rap
 https://live.radiosoundfm.com.br/rap/stream
+#EXTINF:0,Rádio Sound FM -Reggae
+https://live.radiosoundfm.com.br/reggae/stream
+#EXTINF:0,Rádio Sound FM - Rock
+https://live.radiosoundfm.com.br/rock/stream
 #EXTINF:0,Rádio Sound FM - Sertanejo
 https://live.radiosoundfm.com.br/sertanejo/stream
 #EXTINF:0,Radio Stillus Web
@@ -883,6 +897,8 @@ https://8442.brasilstream.com.br/stream
 https://play.radio.br:8089/ucsfmbento/ucsfmbento/icecast.audio
 #EXTINF:0,UCSfm Vacaria
 https://stream1.play.radio.br:8089/UCS/FMVacaria/icecast.audio
+#EXTINF:0,Unama FM
+http://200.129.133.210:8000/;stream.mp3
 #EXTINF:0,Vale Verde FM
 https://painelstream.net/player-ssl/rvn01/8262/
 #EXTINF:0,Verdinha 810 AM
