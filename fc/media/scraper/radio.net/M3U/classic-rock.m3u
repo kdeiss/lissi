@@ -529,8 +529,6 @@ https://stream-52.zeno.fm/8tsfz1fp97zuv?zs=okwvlafNT9KBUgZIMLJxMw
 https://manager4.streamradio.fr:1185/stream
 #EXTINF:0,Exclusively Creedence Clearwater Revival
 https://streaming.exclusive.radio/er/creedence/icecast.audio
-#EXTINF:0,EXPRESS WEB RADIO
-https://stm1.xcast.com.br:9864/stream/1/
 #EXTINF:0,Éxtasis Digital Guadalajara
 http://192.99.16.17:3414/;
 #EXTINF:0,Fanática CL
@@ -559,6 +557,8 @@ http://freebird.ddns.net:8050/;
 http://radio.dawgtalkers.net:8000/listenAAA
 #EXTINF:0,FreeRockRadio
 https://streamingv2.shoutcast.com/freerockradio
+#EXTINF:0,FreshRadioUS
+https://s3.radio.co/s3f45e9838/listen
 #EXTINF:0,Radio Fugue
 http://statslive.infomaniak.com/playlist/radiofugue/radiofugue-128.aac/playlist.m3u
 #EXTINF:0,FunHouse Radio USA
@@ -829,14 +829,14 @@ https://streaming.live365.com/a65004
 https://ice24.securenetsystems.net/KPKY
 #EXTINF:0,KPMI 94.5 The River
 http://209.191.211.196:8001/kpmifm.mp3
+#EXTINF:0,KPOW Power 97.7 FM
+http://stream.radiojar.com/zwtcz3bkxy8uv
 #EXTINF:0,KQRS - 92KQRS
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFM.mp3
 #EXTINF:0,KRGY - The Wolf 97.3 FM
 https://ice8.securenetsystems.net/KRGY?
 #EXTINF:0,KRHQ Q102.3
 https://ice41.securenetsystems.net/KRHQ
-#EXTINF:0,KRJK - Jack FM 97.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
 #EXTINF:0,VOCM K-Rock 97.5 FM
 https://newcap.leanstream.co/VOCMFM
 #EXTINF:0,KROR - Classic Rock 101.5 FM
@@ -1369,8 +1369,6 @@ https://stream.zeno.fm/m6h6rck061atv
 http://nvradios.com:9486/stream/1/
 #EXTINF:0,Radio Noise Rock
 http://rocklive.radionoise.ro:9130/listen.pls
-#EXTINF:0,Radio Nord 98.3
-http://radio.tabyenskilda.se:8050/stream/1/
 #EXTINF:0,Radio Oro Málaga
 http://185.23.192.118:8002/;
 #EXTINF:0,Radio Oro Marbella

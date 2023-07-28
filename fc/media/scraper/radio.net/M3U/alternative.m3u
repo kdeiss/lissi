@@ -127,6 +127,8 @@ https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/index.m3u8
 https://tx.planetradio.co.uk/icecast.php?i=absolute90s.mp3
 #EXTINF:0,Absolute Rock
 http://www.absolute-rock.com:8000/mp3
+#EXTINF:0,Absolut musicXL
+https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl?aggregator=radiode
 #EXTINF:0,acareimon Radio
 https://stream.zeno.fm/s2siwa5tloftv
 #EXTINF:0,AceRadio-90s Alternative Rock
@@ -145,6 +147,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_FREP_SC
 https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
 #EXTINF:0,ahoy radio
 https://s37.derstream.net/ahoy-radio.mp3
+#EXTINF:0,Akademik by Antyradio
+https://an05.cdn.eurozet.pl/ant-web.mp3
 #EXTINF:0,Radio Akadera
 https://stream4.nadaje.com:11847/;
 #EXTINF:0,aktuelles.radio
@@ -257,6 +261,8 @@ https://stream.zeno.fm/h7gb0gra508uv
 https://bigrradio.cdnstream1.com/5132_128
 #EXTINF:0,BBC Radio 6 Music
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_6music.m3u8
+#EXTINF:0,RadioBDC
+https://playerservices.streamtheworld.com/api/livestream-redirect/INDIE617AAC.aac
 #EXTINF:0,Be 99.7 FM
 http://ca5.rcast.net:8070/stream.mp3
 #EXTINF:0,Be Inspired Radio Network
@@ -337,8 +343,6 @@ https://s3.radio.co/s9909bd65f/listen
 http://burnfm.radionetz.de:8000/burn-fm.mp3
 #EXTINF:0,Radio Buzz 101
 https://ice3.securenetsystems.net/BUZZ101
-#EXTINF:0,ByKiwiRadio
-http://109.169.23.17:8350/stream
 #EXTINF:0,Radio Cabo Verde International
 http://41.221.203.141:8090
 #EXTINF:0,Radio Califa
@@ -347,8 +351,6 @@ https://streamingV2.shoutcast.com/Radio-Califa
 https://diffusion.lafrap.fr/rca
 #EXTINF:0,Campusfm
 http://5.9.16.111:8510/campusfm
-#EXTINF:0,Radio Campus Paris
-http://www.radiocampusparis.org:8000/stream_rcp
 #EXTINF:0,Campusradio Karlsruhe
 http://campusradio.zak.kit.edu:8000/campusradiokitbib
 #EXTINF:0,Canaã FM
@@ -667,6 +669,8 @@ https://streamingv2.shoutcast.com/freerockradio
 https://s3.fairprice-streams.de:9148/stream
 #EXTINF:0,Freies Radio Kassel
 https://www.freies-radio-kassel.de/stream/FRKStream2.m3u
+#EXTINF:0,FreshRadioUS
+https://s3.radio.co/s3f45e9838/listen
 #EXTINF:0,Freies Radio Freistadt
 https://develop.servus.at:8443/frf
 #EXTINF:0,Friedrich Frieden
@@ -933,6 +937,8 @@ http://kteclive.oit.edu:8000/live.mp3
 https://streamer.kuci.org:8088/high
 #EXTINF:0,KUCR 88.3 FM
 http://138.23.75.92:8001
+#EXTINF:0,KUMM U-90
+http://146.57.36.230:8256/listen
 #EXTINF:0,KUOM RADIO K
 http://radiokstreams.cce.umn.edu:8128/;
 #EXTINF:0,KURQ New Rock 107.3 FM
@@ -1619,8 +1625,6 @@ https://centova.hostingtico.com:7006/stream
 https://icecast.omroep.nl/3fm-serioustalent-mp3
 #EXTINF:0,NRK P13
 https://lyd.nrk.no/nrk_radio_p13_mp3_m
-#EXTINF:0,Nu Rock Radio
-http://65.109.81.84:8100/stream
 #EXTINF:0,NWKX Radio
 http://195.166.151.210:8002/pls
 #EXTINF:0,NXT RADIO
@@ -1705,8 +1709,6 @@ https://streams.pinguinradio.com/PinguinRadio320.mp3
 https://n03.radiojar.com/4dy80ayp5gruv?rj-ttl=5&rj-tok=AAABg_VSpZIAoQO1rbkzYdSiRA
 #EXTINF:0,Piratenradio.ch 
 https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
-#EXTINF:0,Planet Z Live
-https://cp12.shoutcheap.com:18220/strem
 #EXTINF:0,PLAY Radio
 https://stream.playradio.rs:8443/play.aac
 #EXTINF:0,Play Rock Web
@@ -1849,8 +1851,6 @@ http://stm.mixhostbrasil.com.br:6708/stream
 https://frontend.streamonkey.net/radioc-live?aggregator=radio.de
 #EXTINF:0,Radio Communautaire de Ferme Leblanc RCF
 https://usa11.fastcast4u.com/proxy/tuvhouiq?mp=%2F1
-#EXTINF:0,Radiocorner
-https://be.server89.com:10971/stream
 #EXTINF:0,Radio Coteaux
 http://str80.streamakaci.com:7960/listen.pls
 #EXTINF:0,Radio Deep Music
@@ -2077,6 +2077,8 @@ https://jm8n.net:7025/stream/1/
 http://relay.radio.ethz.ch/sender.mp3
 #EXTINF:0,Radius 106,6
 https://develop.servus.at:8443/radius
+#EXTINF:0,Radio Radsport - Rock Alternative
+http://live.radioradsport.de:8000/radioradsportrock
 #EXTINF:0,RADYO NATIN CALBAYOG
 https://net.radyonatinfm.com/listen/dysi/calbayog
 #EXTINF:0,Rai Radio 2 Indie
@@ -2323,8 +2325,6 @@ https://streamingV2.shoutcast.com/GrrrlsGrrrlsGrrrls
 https://stream.zeno.fm/np8qblly48xtv
 #EXTINF:0,Strange Fruit Radio
 http://195.166.151.210:8002/stream
-#EXTINF:0,Streamplus
-http://server35870.streamplus.de:11166/stream/1/
 #EXTINF:0,Stuart Bedasso Radio
 http://streaming.live365.com/a90366
 #EXTINF:0,Studio 21
@@ -2433,6 +2433,8 @@ http://stream.radio-unicc.de:8000/unicc_hq.mp3.m3u
 https://unisabana.out.airtime.pro/unisabana_a
 #EXTINF:0,Up&Down Rock Radio 
 http://streaming.radionomy.com/Up-DownYourockradio
+#EXTINF:0,Urban Nation
+http://s3.free-shoutcast.com:18002/stream/1/
 #EXTINF:0,urgent fm
 http://urgentstream.radiostudio.be:8000/aac
 #EXTINF:0,Van Radio - Hard Rock
