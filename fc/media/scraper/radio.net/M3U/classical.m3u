@@ -453,8 +453,6 @@ https://live.radioart.com/fCello_works.mp3
 https://rozhlas.stream/ddur_high.aac
 #EXTINF:0,CFIM 92.7 FM
 http://stream02.ustream.ca:8000/cfim128.mp3
-#EXTINF:0,CFMZ Classical 96.3 FM
-http://stream.abacast.net/playlist/mzmedia-cfmzfmmp3-ibc2.m3u
 #EXTINF:0,RadioArt: Chamber Works
 https://live.radioart.com/fChamber_works.mp3
 #EXTINF:0,CHANSONS ROUGES MOSAIK RADIO
@@ -773,8 +771,6 @@ https://dbc.ice.infomaniak.ch/dbc-96.mp3
 https://stream.laut.fm/deepsunbeachfunk?ref=radiode
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,Diego Primavera Radio
 https://stream.zeno.fm/c1fa6x66vhruv
 #EXTINF:0,Diferente104 FM
@@ -963,8 +959,6 @@ https://rwandanationalcongress.co.uk:8020/radio.mp3
 http://iNewAge.com/listen.m3u
 #EXTINF:0,RadioArt: Harpsichord
 https://live.radioart.com/fHarpsichord.mp3
-#EXTINF:0,Classical Music Archives
-http://HearMe.fm:8021/stream
 #EXTINF:0,Hélène fm
 https://helenefm.ice.infomaniak.ch/helenefm-low.aac
 #EXTINF:0,H+H Radio
@@ -1638,7 +1632,7 @@ https://stream-61.zeno.fm/bv8v9akqbxquv
 #EXTINF:0,Precious Radio Dream
 https://preciousradio.net/proxy/dream/stream
 #EXTINF:0,Dwójka - Polskie Radio Program 2 
-https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+http://stream3.polskieradio.pl:8902/;
 #EXTINF:0,Positively Classical
 https://streaming.positivity.radio/pr/posiclassical/icecast.audio
 #EXTINF:0,Positively Sleep Classical

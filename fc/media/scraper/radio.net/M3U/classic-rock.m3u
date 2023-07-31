@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,011.FM - Retro 70's
-http://listen.011fm.com:8006/stream04
 #EXTINF:0,011.FM - Big 80's
 https://listen.011fm.com/stream05
 #EXTINF:0,0nlineradio CLASSIC ROCK
@@ -254,6 +252,8 @@ https://bigrradio.cdnstream1.com/5172_128
 #EXTINF:0,BigR - Rock Top 40
 https://bigrradio.cdnstream1.com/5204_128
 #EXTINF:0,Birch Street Radio
+https://jenny.torontocast.com:8172/stream
+#EXTINF:0,Birch Street Radio (US)
 https://jenny.torontocast.com:8172/stream
 #EXTINF:0,Bliss Radio
 https://stream.zeno.fm/ty5h0ecgka0uv
@@ -549,8 +549,6 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://streamingv2.shoutcast.com/bruce-classic-rock
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -673,6 +671,8 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
+#EXTINF:0,KATX 97.7 FM
+http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -710,7 +710,7 @@ https://vercel.com/
 #EXTINF:0,KDLC Rock 97.7 FM
 https://ice42.securenetsystems.net/KDLC
 #EXTINF:0,KDUX-FM - Classic Rock 104.7 FM
-http://stream.abacast.net/direct/alphacorporate-kduxfmaac-ibc4&source=website
+https://live.amperwave.net/manifest/alphacorporate-kduxfmaac-ibc4
 #EXTINF:0,KEGR Radio
 https://securestreams4.autopo.st:1673/stream/1/
 #EXTINF:0,KEGX - Eagle Classic Rock 106.5 FM
@@ -881,6 +881,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1225,8 +1227,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CFDA_FMAAC.aac
 https://ppw.streamguys1.com/sgplayer-aac
 #EXTINF:0,Planet Rock
 https://tx.planetradio.co.uk/icecast.php?i=planetrock.mp3
-#EXTINF:0,Radio Playback Rock
-https://stream02.radioplayback.dk/stream
 #EXTINF:0,Play Rock Web
 https://laradiossl.online:10323/live
 #EXTINF:0,Plus FM
@@ -1369,6 +1369,8 @@ https://stream.zeno.fm/m6h6rck061atv
 http://nvradios.com:9486/stream/1/
 #EXTINF:0,Radio Noise Rock
 http://rocklive.radionoise.ro:9130/listen.pls
+#EXTINF:0,Radio Nord 98.3
+http://radio.tabyenskilda.se:8050/stream/1/
 #EXTINF:0,Radio Oro Málaga
 http://185.23.192.118:8002/;
 #EXTINF:0,Radio Oro Marbella
@@ -1430,7 +1432,7 @@ http://spb.radioshock.ru/radioshock
 #EXTINF:0,Radio Sonica Salto
 https://stream.zeno.fm/0184wy5pwy8uv
 #EXTINF:0,Rádio Sound FM - Rock
-https://live.radiosoundfm.com.br/rock/stream
+https://stream.zeno.fm/6r8xiccmsbktv
 #EXTINF:0,Radio Sous-Sol
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC187_SC
 #EXTINF:0,Classic Rock 104 - Radiostorm.com
@@ -1975,8 +1977,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WJEZFM.mp3
 http://65.109.81.84:9197/live
 #EXTINF:0,WJKI / WXSH The Vault 103.5 & 106.1 FM
 https://ice66.securenetsystems.net/WJKI
-#EXTINF:0,WJLI Rock 98.3
-http://207.162.185.111:8000/kastor
 #EXTINF:0,WJNG WMKX Mega Rock 105.5 FM
 https://ice41.securenetsystems.net/WMKX
 #EXTINF:0,WJZM DB
@@ -1995,6 +1995,8 @@ https://ice6.securenetsystems.net/WKIT?type=.mp3
 https://ice5.securenetsystems.net/WKLC?
 #EXTINF:0,WKLT - The Rock Station 97.5 FM
 https://live.wostreaming.net/manifest/midwestern-wkltfmaac-ibc1
+#EXTINF:0,WKRR - WKRR 92.3 FM
+https://dbc.streamguys1.com/wkrr-fm.aac
 #EXTINF:0,WKRU The 106.7 Big Dog FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKRUFMAAC_SC
 #EXTINF:0,WKRZradio
