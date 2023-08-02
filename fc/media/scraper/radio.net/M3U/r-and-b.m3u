@@ -119,6 +119,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC.aac
 https://streaming.live365.com/a98661
 #EXTINF:0,KOWN 95.7 FM The Boss
 https://ice41.securenetsystems.net/KOWNLP
+#EXTINF:0,97.6 The Temp
+https://usa4.fastcast4u.com/proxy/dogsday10?mp=/1
 #EXTINF:0,97.7 The Surge
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,99 Jams WJMI
@@ -188,7 +190,7 @@ https://streams.barbaradio.de/maedelsabend/mp3-192/radiode/
 #EXTINF:0,Barely Brothers Radio
 http://streaming.live365.com/a58492
 #EXTINF:0,Base FM
-https://stream.basefm.co.nz:8443/BaseAAC
+https://example.1337.geek.nz/Base320MP3
 #EXTINF:0,Bates FM - R&B
 https://bigrradio.cdnstream1.com/5138_128
 #EXTINF:0,Bates FM - The R&B Mix
@@ -209,6 +211,8 @@ https://listen.radioking.com/radio/144127/stream/184333
 https://streaming.live365.com/a96447
 #EXTINF:0,Beach Party Radio
 https://stream.zeno.fm/g857h6zha3quv
+#EXTINF:0,beat radio 6
+https://s8.myradiostream.com/55556/listen.mp3
 #EXTINF:0,Beats4u
 https://server36093.streamplus.de/stream.mp3
 #EXTINF:0,Radio Belizemix 1
@@ -319,6 +323,8 @@ https://listen.radioking.com/radio/573125/stream/633149
 http://bulletinflightradio.out.airtime.pro:8000/bulletinflightradio_a?_ga=2.61340012.1590847432.1687564283-637690527.1672790142
 #EXTINF:0,Bushrod Music
 https://streaming.live365.com/a64515
+#EXTINF:0,ByKiwiRadio
+http://109.169.23.17:8350/stream
 #EXTINF:0,Calvada Sound Radio
 https://streaming.live365.com/a82334?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1677255425
 #EXTINF:0,Cambrian Radio
@@ -602,7 +608,7 @@ https://streams.feierfreund.de/gayparty/mp3-128/radiode/
 #EXTINF:0,FiRealReggaeMuzikRadio
 https://stream.zeno.fm/14ccvhy67p8uv
 #EXTINF:0,WPOD 106.3 First Up Radio
-https://a1.asurahosting.com/listen/first_up_radio_106.3_wpod/radio.mp3
+https://a1.asurahosting.com/hls/first_up_radio_106.3_wpod/live.m3u8
 #EXTINF:0,Flava
 https://ais-nzme.streamguys1.com/nz_010_aac
 #EXTINF:0,Flava 107
@@ -665,6 +671,8 @@ https://icecast.omroep.nl/funx-utrecht-bb-mp3
 https://streaming.live365.com/a88806
 #EXTINF:0,Futuradio Urban
 https://futuradiourban.ice.infomaniak.ch/frurban-128.mp3?utm_source=radiofr&utm_medium=directory&utm_host=futuradiourban.ice.infomaniak.ch
+#EXTINF:0,Gagasi FM
+https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8
 #EXTINF:0,Gaslight Square R&B
 https://stream.zeno.fm/8vqs7whh7f0uv
 #EXTINF:0,Gems Radio 
@@ -757,6 +765,8 @@ https://rs2.ptservidor.com/proxy/hiphopp?mp=/stream
 https://11ec74e.online-server.cloud/stream
 #EXTINF:0,HIP HOP STREETS RADIO
 http://stream.zeno.fm/sdk5vzrft0hvv
+#EXTINF:0,Hippie Soul Cafe
+https://ec2.yesstreaming.net:2355/stream
 #EXTINF:0,HIT 104
 https://icepool.silvacast.com/HIT104.mp3
 #EXTINF:0,Hit Radio RnB
@@ -1439,8 +1449,6 @@ https://ontopfmweb-friskydj.radioca.st/stream
 https://stream.open.fm/26
 #EXTINF:0,OpenFM - 100% Beyoncé
 https://stream.open.fm/111
-#EXTINF:0,OpenFM - 100% Justin Timberlake
-https://stream.open.fm/103
 #EXTINF:0,Opulence Radio
 https://radioinfant.antfarm.co.za/RadioOpulence-vjs/
 #EXTINF:0,Ostseewelle - Dance & Black Hits
@@ -1603,8 +1611,6 @@ https://edge15.streamonkey.net/fantasy-934/stream/mp3
 http://stm7.voxhd.com.br:9366/;
 #EXTINF:0,Radio Flipside
 https://s4.radio.co/s36248407c/listen
-#EXTINF:0,Radio Free Detroit
-https://radiofreedetroit.out.airtime.pro:8000/radiofreedetroit_a
 #EXTINF:0,Radio Fresh West
 https://ssl.mestrestream.xyz:6690/stream;
 #EXTINF:0,RadioHooks
@@ -1863,8 +1869,16 @@ https://streamingV2.shoutcast.com/Static-TheBestOf1980
 https://streamingv2.shoutcast.com/static-the-best-of-1990
 #EXTINF:0,STATIC: BLUES
 https://streamingV2.shoutcast.com/Static-BluesExplosion
+#EXTINF:0,Static: Bristol
+https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
+#EXTINF:0,Static: Decatur
+https://radiostatic.stream/listen/static_-_decatur,_il/HD.aac
+#EXTINF:0,Static: Durango
+https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
+#EXTINF:0,Static: Charlotte Amalie-St. Thomas
+https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
 #EXTINF:0,Steve Fox Old School
 https://s15.total-streaming.com:9008/oldschool
 #EXTINF:0,STL Smooth Jazz
@@ -1953,6 +1967,8 @@ https://streaming.live365.com/a98419
 https://newcap.leanstream.co/CFXJFM
 #EXTINF:0,The NU Vibe Radio
 https://listen.openstream.co/7203/audio
+#EXTINF:0,The PLAYLIST Radio
+https://quincy.torontocast.com:1850/;?nocache=1637525557&type=http
 #EXTINF:0,The Soul 105.3
 https://ice24.securenetsystems.net/WRDR
 #EXTINF:0,thesoullounge

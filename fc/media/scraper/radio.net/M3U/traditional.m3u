@@ -80,11 +80,9 @@ http://178.160.193.131:8000/stream/1/
 #EXTINF:0,ArtMadeira
 https://www.radioking.com/play/radio-romantica
 #EXTINF:0,Rádio ASC Edições
-https://streamingv2.shoutcast.com/asc-edicoes
+http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Athens Pathos 101.1
 http://dione.shoutca.st:8628/stream/1/
-#EXTINF:0,Radio Avesta 103.5 FM
-http://test.radioavesta.se:8000/;stream.mp3
 #EXTINF:0,Baba Radyo 105.6
 http://37.247.98.7/;
 #EXTINF:0,balkanhi
@@ -150,7 +148,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8
 #EXTINF:0,Radio Cañar Stereo
 https://rr5100.globalhost1.com/8054/stream
 #EXTINF:0,Rádio Cantinho dos Emigrantes
-http://185.240.251.169:9148/stream
+http://185.240.251.169:9148/stream/1/
 #EXTINF:0,Capital FM 92.4
 http://streaming.softnep.net:8037/;stream.nsv
 #EXTINF:0,Radio Caprice - Gypsy ЦЫГАНСКАЯ ПЕСНЯ
@@ -263,8 +261,6 @@ https://play8.tikast.com/proxy/hombres?mp=/stream
 https://c11.radioboss.fm:18212/stream
 #EXTINF:0,Flamenco Sur Radio
 https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/playlist.m3u8
-#EXTINF:0,Flamenkito Radio
-https://centova.hostingelectrica.net/proxy/buenosam?mp=%2Fstream.mp3&_=1
 #EXTINF:0,Flamingo Stereo
 http://streamingcwsradio20.com:9890/stream/1/
 #EXTINF:0,FM 89.9 - Profesional FM
@@ -399,6 +395,8 @@ https://ice7.securenetsystems.net/MOVIDITA?
 https://stream.zeno.fm/qx35qzmes68uv
 #EXTINF:0,La Poderosa LG
 https://server3.sit-mexico.com:2199/proxy/poderosacdobr?mp=/stream
+#EXTINF:0,La Potencia Grupera 
+https://stream.zeno.fm/pcyvmdcanbruv
 #EXTINF:0,La Que Buena FM
 http://ribotech.net:8000/stream/
 #EXTINF:0,La Rancherita del Aire
@@ -761,8 +759,6 @@ http://radio-yasoo.ath.cx:7500/;
 https://yayin.radyoakdeniz.com/9470/stream
 #EXTINF:0,Radyo Dejavu
 http://radyodejavu.canliyayinda.com:8054/stream/1/
-#EXTINF:0,RADYO DEM
-https://yayin.radyodem.com/8000/stream
 #EXTINF:0,Christmas Chor by rautemusik
 https://christmas-chor-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,RCFM Radio Crónica Folk Musical
@@ -886,7 +882,7 @@ https://nmicenotrt.mediatriple.net/trt_turku.aac
 #EXTINF:0,Türk Beats Radio
 https://radiocaster.io/listen/turk_beats/radio.mp3
 #EXTINF:0,Türkiyem FM
-https://server7.streamserver24.com:61468/stream/1/
+https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream
 #EXTINF:0,Türkü Radyo
 http://radyo.turkuradyo.net:4591/;
 #EXTINF:0,Uldash FM Радио Юлдаш
@@ -903,6 +899,8 @@ https://listen.radioking.com/radio/474857/stream/531260
 https://stream.zeno.fm/cm040yp7grruv
 #EXTINF:0,Radio Velkaton
 http://188.40.62.20:8044/stream/1/
+#EXTINF:0,VERSE 24 - MAKKAH LIVE
+http://149.28.52.216:3344/stream/10/
 #EXTINF:0,WAFC-FM - Radio Fiesta 106 FM
 https://ice7.securenetsystems.net/WAFC
 #EXTINF:0,WAFZ-FM - La Ley 92.1 FM

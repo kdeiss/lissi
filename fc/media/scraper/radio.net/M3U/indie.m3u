@@ -15,6 +15,8 @@ https://strm112.1.fm/gorillafm_mobile_mp3
 http://247urbanhits.com:8000/stream
 #EXTINF:0,2FBI - FBi Radio 94.5 FM
 https://streamer.fbiradio.com/stream
+#EXTINF:0,2XS Rocks
+https://2xsrocks.com:8443/2XS
 #EXTINF:0,318 LIVE FM
 https://ais-edge104-live365-dal02.cdnstream.com/a69830
 #EXTINF:0,NPO 3FM Alternative
@@ -103,6 +105,8 @@ https://radio.streemlion.com:2025/stream
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=%2Fstream
 #EXTINF:0,BBS Radio Station 1
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=/stream
+#EXTINF:0,BBS Radio Station 2
+https://cast.bbstalkradio.com/proxy/bbsradio2?mp=/stream
 #EXTINF:0,Beach Paradise Radio
 http://s28.myradiostream.com:28054/listen.mp3
 #EXTINF:0,Bear Radio Network
@@ -126,6 +130,8 @@ https://puma.streemlion.com:1950/stream
 #EXTINF:0,Big Indie Giant Radio
 http://puma.streemlion.com:1950/stream
 #EXTINF:0,Birch Street Radio
+https://jenny.torontocast.com:8172/stream
+#EXTINF:0,Birch Street Radio (US)
 https://jenny.torontocast.com:8172/stream
 #EXTINF:0,Rádio Bizarro
 https://streaming.live365.com/a07135
@@ -1051,6 +1057,8 @@ http://b6.be:8000/resonance.mp3
 http://stream.zeno.fm/zfrvvmtkmrhvv.m3u
 #EXTINF:0,Radio Rocket
 http://88.198.3.18:8026/stream
+#EXTINF:0,Radio Rock Hits
+https://live.radiorockhits.online/listen/radiorockhits/radio.mp3
 #EXTINF:0,Radio Rueda
 https://radio.love4stream.com/radio/8000/radio.mp3
 #EXTINF:0,radio SAW Rock Alternative
@@ -1193,8 +1201,6 @@ https://stream.zeno.fm/x8nvf604pa0uv
 https://nrf1.newradio.it:10414/stream
 #EXTINF:0,Yo soy Love
 http://nvradios.com:9328/
-#EXTINF:0,STAR: St Andrews Radio
-https://stream.standrewsradio.com/stream.mp3
 #EXTINF:0,Stardom Radio
 https://streaming.live365.com/a45637
 #EXTINF:0,STAR FM Alternative Rock
@@ -1203,10 +1209,18 @@ https://stream.starfm.de/alternat/mp3-192/radiode
 https://streamingV2.shoutcast.com/Static-TheBestOf1981
 #EXTINF:0,STATIC: BIG HAIR 
 https://streamingV2.shoutcast.com/BigHairOnStatic
+#EXTINF:0,Static: Bristol
+https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
+#EXTINF:0,Static: Decatur
+https://radiostatic.stream/listen/static_-_decatur,_il/HD.aac
+#EXTINF:0,Static: Durango
+https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
 #EXTINF:0,STATIC: GRRRLS, GRRRLS, GRRRLS
 https://streamingV2.shoutcast.com/GrrrlsGrrrlsGrrrls
 #EXTINF:0,Static: House of Slack
 https://streamingv2.shoutcast.com/-houseofslack
+#EXTINF:0,Static: Charlotte Amalie-St. Thomas
+https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
 #EXTINF:0,Stereo Beat Live
 http://stream-47.zeno.fm/d7a7wrbrtzzuv?zs=rKbcAXmVSearCHFmS5WGkw&rj-tok=AAABeNFMBYEAN8D_3QJgx01hcQ&rj-ttl=5
 #EXTINF:0,Radio StHörfunk

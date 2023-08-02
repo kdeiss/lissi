@@ -347,6 +347,8 @@ http://79.111.14.76:8000/souljazz
 http://79.120.39.202:8000/vocaljazz
 #EXTINF:0,Casa Bertallot
 https://nr7.newradio.it/proxy/abertall?mp=/stream
+#EXTINF:0,Caspian Jazz
+http://caspian.hopto.org:8000/;
 #EXTINF:0,Cáspita Radio Experimental
 https://stream.zeno.fm/x3fy171xt4zuv
 #EXTINF:0,CBFX Ici Musique Montreal 100.7 FM
@@ -539,8 +541,6 @@ https://audiostreams.deluxemusic.tv/easy/mp3-128/website
 http://streaming1.locucionar.com:14747/stream
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,dicjazz
 https://stream.zeno.fm/mtes551d308uv
 #EXTINF:0,Digi Radio New York
@@ -1576,7 +1576,7 @@ http://get.lulu.fm/luluzwei.mp3
 #EXTINF:0,Luxygalaxy
 http://uk1.internet-radio.com:8271/stream/1/
 #EXTINF:0,LVM-RADIO
-http://209.126.107.199:10012/listen.pls
+http://radio9.pro-fhi.net:9047/stream/1/
 #EXTINF:0,Lyon Demain
 https://www.radioking.com/play/lyon-demain
 #EXTINF:0,M2 Jazz
@@ -1812,7 +1812,7 @@ http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/mpeg/icecast.audio
 #EXTINF:0,Precious Radio Mood
 https://preciousradio.net/proxy/mood/stream
 #EXTINF:0,Dwójka - Polskie Radio Program 2 
-https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+http://stream3.polskieradio.pl:8902/;
 #EXTINF:0,Projet XY
 https://flux.saaslys.com/radio/8010/radio.mp3
 #EXTINF:0,Pro-Radio 1
@@ -1979,8 +1979,6 @@ http://110.145.174.78:8000/;
 https://stream.zeno.fm/d1qa2zdbcm8uv
 #EXTINF:0,Radio Nula Organic
 https://strm.radionula.com/channel2
-#EXTINF:0,Radio Obozrevatel Acid Jazz
-https://radio-stream-0.obozrevatel.com/newjazz128.mp3
 #EXTINF:0,Radio Obozrevatel Jazz
 https://radio-stream-0.obozrevatel.com/Jazz128.mp3
 #EXTINF:0,Radio Obozrevatel Jazz-Rock
@@ -2051,8 +2049,6 @@ https://icecast6.play.cz/radio-xaver.aac
 https://s5.radio.co/s206e3321a/listen
 #EXTINF:0,Radio Yacht
 https://radioyachtcapri.newradio.it/1
-#EXTINF:0,Radio Žett
-https://ec4.yesstreaming.net:2375/stream
 #EXTINF:0,Radio Zinzine
 http://91.121.65.189:8000/zinzine-aix
 #EXTINF:0,Radio z QLTURĄ
@@ -2311,8 +2307,6 @@ https://stream.zeno.fm/zeldkiq9h3tuv
 https://streams.radio.menu/listen/super-relax-fm/radio.mp3
 #EXTINF:0,Super Relax FM
 https://streams.radio.menu/listen/super-relax-fm/radio.mp3
-#EXTINF:0,Swangoo Radio
-http://108.178.13.122:8199/stream/1/
 #EXTINF:0,Swansbrook Radio
 https://s5.radio.co/s760caf20b/listen
 #EXTINF:0,Sweet One Radio
@@ -2645,6 +2639,8 @@ https://peridot.streamguys1.com:7835/WUCF-HD2
 https://stream.wusb.stonybrook.edu:8092/stream/1/
 #EXTINF:0,WUSF 89.7 FM
 https://streaming.wusf.fm/wusf
+#EXTINF:0,WVAS-FM 90.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WVASFM.mp3
 #EXTINF:0,WVBA Vermont Public Radio 88.9 FM
 http://vpr.streamguys.net/vpr64.aac
 #EXTINF:0,WVID - VID 90.3 FM
