@@ -1403,6 +1403,8 @@ https://stream.danubiusradio.hu/danubius_320k
 https://icecast.omroep.nl/funx-bb-mp3
 #EXTINF:0,NRJ CLASSIC RNB
 https://scdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3?origine=radio.net
+#EXTINF:0,NRJ DnB
+https://skymedia-live.bitflip.ee/NRJ
 #EXTINF:0,NRJ HIP HOP RNB HITS
 https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ Pop RnB Dance
@@ -1413,8 +1415,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3?origine=radio.net
 https://scdn.nrjaudio.fm/adwz1/fr/30171/mp3_128.mp3?origine=radio.net
 #EXTINF:0,OBOSSO RADIO
 https://www.radioking.com/play/obossohits
-#EXTINF:0,Okunslive
-https://ec5.yesstreaming.net:1825/stream
 #EXTINF:0,Old Flame Radio
 https://streaming.live365.com/a22706
 #EXTINF:0,Oldies Roundup
@@ -1457,8 +1457,6 @@ https://streamosw.ir-media-tec.com/danceblack/mp3-192/radiode
 https://streaming.radionomy.com/OTBHipHopRadio
 #EXTINF:0,Ouiz radio
 http://163.172.187.229:8000/radio.mp3
-#EXTINF:0,Outlaw Entertainment Radio
-http://37.59.47.192:8688/;stream.mp3
 #EXTINF:0,Oxygène Grenoble
 https://streamingp.shoutcast.com/radio-oxygene-grenoble
 #EXTINF:0,OZ Radio
@@ -1477,8 +1475,6 @@ https://cloud.cdnseguro.com:2363/stream/1/
 https://cloud.cdnseguro.com:2363/stream/1/
 #EXTINF:0,Pardon My Fresh Radio
 https://listen.radionomy.com/pardonmyfreshradionetwork
-#EXTINF:0,Parti FM
-http://ca7.rcast.net:8016/;
 #EXTINF:0,Party Rain Radio
 https://streaming.live365.com/a32054
 #EXTINF:0,Passion Radio UK
@@ -1819,6 +1815,8 @@ https://edge.mixlr.com/channel/aqspm
 http://som-factory.eu/streambox/listen_256.pls
 #EXTINF:0,Sony Hulk Radio
 http://edge2-b.exa.live365.net/a87400
+#EXTINF:0,SOS Radio - Sound Of the Strand
+https://streaming.live365.com/a20149
 #EXTINF:0,Soul Addict Radio
 https://www.radioking.com/play/soul-addict-radio
 #EXTINF:0,Soul City Radio
@@ -1875,10 +1873,40 @@ https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
 https://radiostatic.stream/listen/static_-_decatur,_il/HD.aac
 #EXTINF:0,Static: Durango
 https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
+#EXTINF:0,Static: Eureka Springs
+https://radiostatic.stream/listen/static_-_eureka_springs,_ar/static-eureka-springs.aac
+#EXTINF:0,Static: Fremont
+https://radiostatic.stream/listen/static_-_freemont,_ne/static-fremont
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
+#EXTINF:0,Static: Huron
+https://radiostatic.stream/listen/static_-_huron,_sd/static-huron
+#EXTINF:0,Static: Muscle Shoals
+https://radiostatic.stream/listen/static_-_muscle_shoals,_al/static-muscle-shoals
+#EXTINF:0,Static: Myrtle Beach
+https://radiostatic.stream/listen/static_-_myrtle_beach,_sc/static-myrtle-beach
+#EXTINF:0,Static: New Castle
+https://radiostatic.stream/listen/static_-_new_castle,_de/static-new-castle.aac
+#EXTINF:0,Static: Ocean Springs
+https://radiostatic.stream/listen/static_-_ocean_springs,_ms/static-ocean-springs.aac
+#EXTINF:0,Static: Osage Beach
+https://radiostatic.stream/listen/static_-_osage_beach,_mo/static-osage-beach.aac
+#EXTINF:0,Static: Park City
+https://radiostatic.stream/listen/static_-_park_city,_ut/static-park-city.aac
+#EXTINF:0,Static: Savannah
+https://radiostatic.stream/listen/static_-_savannah,_ga/static-savannah.aac
+#EXTINF:0,Static: Sewanee
+https://radiostatic.stream/listen/static_-_sewanee,_tn/sewanee.aac
+#EXTINF:0,Static: Silver City
+https://radiostatic.stream/listen/static_-_silver_city,_nm/static-silver-city.aac
 #EXTINF:0,Static: Charlotte Amalie-St. Thomas
 https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
+#EXTINF:0,Static: The Dells
+https://radiostatic.stream/listen/static_-_the_dells,_wi/static-the-dells.aac
+#EXTINF:0,Static: Tupelo
+https://radiostatic.stream/listen/static_-_tupelo,_ms/static-tupelo.aac
+#EXTINF:0,Static: Tyler
+https://radiostatic.stream/listen/static_-_tyler,_tx/static-tyler.aac
 #EXTINF:0,Steve Fox Old School
 https://s15.total-streaming.com:9008/oldschool
 #EXTINF:0,STL Smooth Jazz
