@@ -1039,8 +1039,6 @@ http://dreamsiteradiocp3.com:8110/stream/1/
 http://equinox.shoutca.st:8805/stream
 #EXTINF:0,Dancetime.FM - Deejay
 https://dance.radiomonster.fm/320.mp3
-#EXTINF:0,Dancetime.FM - Jukebox
-https://listen.dancetime.fm/jukebox3G/listen.pls
 #EXTINF:0,DanceTrax Radio
 https://ec6.yesstreaming.net:1875/stream
 #EXTINF:0,DanceUKRadio
@@ -1433,12 +1431,18 @@ https://streaming.radiosenlinea.com.ar/9138/stream
 http://relay.181.fm:8800/;
 #EXTINF:0,Energy Extravadance
 https://scdn.nrjaudio.fm/adwz1/at/36035/mp3_128.mp3
+#EXTINF:0,Energy Air
+https://energyair.ice.infomaniak.ch/energyair-high.mp3
 #EXTINF:0,Energy Dance
 https://energydance.ice.infomaniak.ch/energydance-high.mp3
+#EXTINF:0,Energy Workout
+https://energyworkout.ice.infomaniak.ch/energyworkout-high.mp3
 #EXTINF:0,ENERGY Clubbin'
 https://scdn.nrjaudio.fm/adwz1/de/33023/mp3_128.mp3?origine=radio.net
 #EXTINF:0,ENERGY Dance
 https://frontend.streamonkey.net/energy-dance/stream/mp3?aggregator=radiode
+#EXTINF:0,Energy FM Australia
+https://streamer.radio.co/saf43677d2/listen
 #EXTINF:0,Energy FM Brazil
 https://media.energyfm.com.br/stream.mp3
 #EXTINF:0,Energy FM
@@ -1549,8 +1553,14 @@ https://streams.ffh.de/ffhchannels/aac/hqjustwhite.aac?amsparams=playerid:RTFFHR
 https://streams.ffh.de/ffhchannels/mp3/hqworkout.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Radio FG
 https://stream.rcs.revma.com/v105uuwcu5hvv
+#EXTINF:0,FG. avant-garde.
+https://stream.rcs.revma.com/02s8zcv9898uv
 #EXTINF:0,FG Belgique
 https://stream.rcs.revma.com/5wesqhfap98uv
+#EXTINF:0,FG. belgium.
+https://stream.rcs.revma.com/5wesqhfap98uv
+#EXTINF:0,FG. classics.
+https://stream.rcs.revma.com/37n8gxv9n98uv
 #EXTINF:0,FG. Club
 https://radiofg.impek.com/fg6.mp3
 #EXTINF:0,DANCE ONE
@@ -4061,6 +4071,8 @@ https://node-12.zeno.fm/naa184nyk18uv.aac?rj-ttl=5&rj-tok=AAABfCbXZkMAyRcT_8YEjL
 https://digitacdn.akamaized.net/hls/live/629243/loop/master.m3u8
 #EXTINF:0,Loops Radio
 http://progressive.ozelip.com:7670/stream/1/
+#EXTINF:0,Techno Station - Loops Radio
+https://ssl190.ozelip.com/asistan/stream/592d1829a29021cb2d68538b3238f88e
 #EXTINF:0,Los 40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
 #EXTINF:0,Los40 Dance
@@ -4315,6 +4327,8 @@ https://stream.zeno.fm/fef5gc4qn18uv
 http://79.8.227.117:8010/stream/1/
 #EXTINF:0,MMRadioXtra
 https://stream.zeno.fm/mc7c27g1uchvv
+#EXTINF:0,mmxRadio
+https://stream.mmx-radio.de/listen/mmxradio/mmx
 #EXTINF:0,Mobiloilstereo fm
 https://stream.zeno.fm/k3v16k5xk2zuv
 #EXTINF:0,ModFM
@@ -6737,6 +6751,8 @@ http://74.91.122.134:8000/stream/1/
 https://ukbassradio.com/stream
 #EXTINF:0,ukdjs radio
 https://stream.ukdjs.radio:8984/ukdjs
+#EXTINF:0,UK FLAVA
+https://uk2.streamingpulse.com/ssl/ukflavaradio
 #EXTINF:0,UltraCol FM 
 https://vm65162.streamerr.co/listen/ultracol_/radio.mp3
 #EXTINF:0,unchained-radio
@@ -6769,6 +6785,8 @@ https://streamingv2.shoutcast.com/up-zic-radio
 https://eu10.fastcast4u.com:2880/stream
 #EXTINF:0,Urbaine Radio
 https://streamingv2.shoutcast.com/urbaineradiofr
+#EXTINF:0,URBANradio
+https://sonic.sistemahost.es:8080/;stream.nsv
 #EXTINF:0,Urban Soul
 https://s25.maxcast.com.br:8078/live
 #EXTINF:0,Urban Sunsets
