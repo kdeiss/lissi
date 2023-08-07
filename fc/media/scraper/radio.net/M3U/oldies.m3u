@@ -632,7 +632,7 @@ https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
 #EXTINF:0,Carolina Classic Hits
 https://ais-sa2.cdnstream1.com/1374_128
 #EXTINF:0,Happy Radio Caroline 319 Gold
-https://happy.radiocaroline319.nl:8430/radio320.mp3
+https://happy.rcgoldserver.nl/listen/happy_oldies/radio320.mp3
 #EXTINF:0,Radio Caroline Flashback
 http://sc2.radiocaroline.net:10558/stream/1/
 #EXTINF:0,Car Tunes Radio
@@ -1230,7 +1230,7 @@ https://streaming.silvacast.com/GOLDFM.mp3
 #EXTINF:0,Gold FM Canarias
 https://panel.amediastream.eu:9500/goldfm
 #EXTINF:0,Gold FM
-https://goldfm.nu/goldfm_aacp
+https://live-bauerse-fm.sharp-stream.com/goldfm_web_se_aacp
 #EXTINF:0,Goldies Radio
 http://5.63.151.52:7064/stream/1/
 #EXTINF:0,Gold
@@ -2098,7 +2098,7 @@ https://stream.laut.fm/hollywood?ref=radiode
 #EXTINF:0,hotradio4you
 https://stream.laut.fm/hotradio4you?ref=radiode
 #EXTINF:0,Ice Dance Radio
-https://stream.laut.fm/ice-dance-radio?ref=radiode
+https://streamserver3.m-hosting.eu:8035/stream
 #EXTINF:0,jorp-fm
 https://stream.laut.fm/jorp-fm?ref=radiode
 #EXTINF:0,jukebox
@@ -2997,6 +2997,8 @@ https://stream.rcs.revma.com/q04c62u3ehuvv
 https://stream.rcs.revma.com/5gd04cwptg0uv
 #EXTINF:0,Nostalgie 105.2 FM Belgrad
 http://nostalgie128.streaming.rs:9250/;stream.mp3
+#EXTINF:0,Nostalgie+
+https://stream.rcs.revma.com/s9mkgtsqtg0uv
 #EXTINF:0,Nostalgie Rock
 https://stream.rcs.revma.com/7ym5et43ehuvv
 #EXTINF:0,NOSTALGIE BEST OF 80 90
@@ -3017,8 +3019,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/58054/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 http://c32.radioboss.fm:8139/stream
 #EXTINF:0,Nostalgie NL - What a feeling !
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radionet
-#EXTINF:0,Nostalgie+
-https://stream.rcs.revma.com/s9mkgtsqtg0uv
 #EXTINF:0,NOSTALGIE POP 80
 https://streamingp.shoutcast.com/NostalgiePop80-aac
 #EXTINF:0,NOSTALGIE ROCK 80
@@ -4018,7 +4018,7 @@ https://schlager-oldies-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,Rotherham Radio
 https://stream3.themediasite.co.uk:8004/stream
 #EXTINF:0,RCS Network Story
-https://ice12.fluidstream.net/fluid1202.mp3
+https://ice09.fluidstream.net/fluid9116.aac
 #EXTINF:0,RDG Classics
 http://bluford.torontocast.com:8070/stream
 #EXTINF:0,rdkso
@@ -4182,7 +4182,7 @@ https://streams.rsa-sachsen.de/rsa-live/mp3-128/radiode/
 #EXTINF:0,VELDEKEN
 https://caster04.streampakket.com/proxy/8090/stream
 #EXTINF:0,RSC
-http://r-sc.eu:52160/;
+https://sound-channel.eu:52172/stream
 #EXTINF:0,R.SH Oldies
 https://streams.rsh.de/oldies/mp3-192/radio.de/
 #EXTINF:0,R.SH Weihnachtsmix
@@ -4235,7 +4235,7 @@ https://schwany.streampanel.cloud/2-schlager
 https://schwany.streampanel.cloud/6-oldiehit
 #EXTINF:0,Schwany Souvenir1
 https://schwany.streampanel.cloud/9-souvenir1
-#EXTINF:0,Schwarzwaldradio
+#EXTINF:0,Schwarzwaldradio: Oldies. Neu. Entdecken.
 https://frontend.streamonkey.net/fho-schwarzwaldradiolive?aggregator=radio.de
 #EXTINF:0,Radio-Schwung
 https://server32899.streamplus.de/stream/1/
@@ -4719,6 +4719,8 @@ https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 http://s3.xrad.io:8044/
 #EXTINF:0,Vinyl 107
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
+#EXTINF:0,Vinyl Days Radio
+https://everestcast.shoutcastservices.com:1245/stream
 #EXTINF:0,Vinylgodis
 https://securestreams2.autopo.st:1061/stream
 #EXTINF:0,VinylHits

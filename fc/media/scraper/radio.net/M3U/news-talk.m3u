@@ -134,7 +134,7 @@ http://live.radioevros.gr:8000/live
 #EXTINF:0,Exa FM Republica Dominicana
 https://s2.free-shoutcast.com/stream/18258
 #EXTINF:0,Exa FM Ecuador
-http://playerservices.streamtheworld.com/api/livestream-redirect/ECUADOR.mp3
+https://26563.live.streamtheworld.com/ECUADOR_SC
 #EXTINF:0,Exa FM Ibarra
 https://streamingecuador.net:7030/stream
 #EXTINF:0,Exa FM Las Vegas
@@ -171,7 +171,7 @@ https://stream.zeno.fm/mmyqe07wqp8uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC48.aac
 #EXTINF:0,FlakkeeNieuwsRadio
 https://server-28.stream-server.nl:8872/stream
-#EXTINF:0,FM costanera 92.9
+#EXTINF:0,FM COSTANERA 88.1
 https://miestacion.turadioonline.com.ar/8036/stream
 #EXTINF:0,FM de la Ciudad
 https://stream01.server-inside.com.ar:9658/ciudadpigue
@@ -243,6 +243,8 @@ http://198.7.59.28:8028/stream
 https://streaming.live365.com/a05030
 #EXTINF:0,FSN World News
 https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3
+#EXTINF:0,Radio Fuenlabrada 89.4 FM
+https://radioserver12.profesionalhosting.com/proxy/pkg78581/stream
 #EXTINF:0,GABNet
 http://s2.voscast.com:10050/;
 #EXTINF:0,Gabriela FM
@@ -2075,6 +2077,8 @@ https://streaming.radiosenlinea.com.ar/9130/stream
 https://stream.zeno.fm/e68myd0nrjxvv
 #EXTINF:0,Postreros Tiempos Int.
 http://108.59.9.147:8170/stream
+#EXTINF:0,Rádio Povídka
+https://ice3.radia.cz/povidka128.mp3
 #EXTINF:0,Power 102fm
 https://radio.securenetsystems.net/cwa/KCEZ
 #EXTINF:0,Power 95.5
@@ -2094,7 +2098,7 @@ https://dattavolt.com/8142/stream
 #EXTINF:0,Jedynka - Polskie Radio Program 1
 https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
 #EXTINF:0,Dwójka - Polskie Radio Program 2 
-http://stream3.polskieradio.pl:8902/;
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,Trójka - Polskie Radio Program 3
 https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 #EXTINF:0,Czwórka - Polskie Radio Program 4 
@@ -2831,8 +2835,28 @@ http://45.32.154.169:8022/;
 http://live4.radyotvonline.com:8160/;
 #EXTINF:0,Radyo Tanbou
 https://streaming.shoutcast.com/rtb
+#EXTINF:0,RAI Radio Andalucía Información Almeria
+https://cdnlive.codev8.net/rtvalive/smil:channel32.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Cádiz
+https://cdnlive.codev8.net/rtvalive/smil:channel25.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Campo de Gibraltar
+https://cdnlive.codev8.net/rtvalive/smil:channel27.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Córdoba
+https://cdnlive.codev8.net/rtvalive/smil:channel29.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Granada
+https://cdnlive.codev8.net/rtvalive/smil:channel30.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Huelva
+https://cdnlive.codev8.net/rtvalive/smil:channel33.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Jaén
+https://cdnlive.codev8.net/rtvalive/smil:channel31.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Jerez
+https://cdnlive.codev8.net/rtvalive/smil:channel26.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Málaga
+https://cdnlive.codev8.net/rtvalive/smil:channel28.smil/playlist.m3u8
 #EXTINF:0,RAI Radio Andalucía Información
 https://cdnlive.codev8.net/rtvalive/smil:channel34.smil/playlist.m3u8
+#EXTINF:0,RAI Radio Andalucía Información Sevilla
+https://cdnlive.codev8.net/rtvalive/smil:channel6.smil/playlist.m3u8
 #EXTINF:0,RAI webradio 6
 http://icestreaming.rai.it:80/9.mp3
 #EXTINF:0,Rap 107 FM - 107.2 FM
@@ -2895,30 +2919,74 @@ https://directe.ripolletradio.cat/live?mp3
 https://vps-6de10815.vps.ovh.ca:10990/stream
 #EXTINF:0,Radio Kuber Kontrei
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3560393_SC
-#EXTINF:0,RNE - 13 horas Comunidad Valenciana
-https://mediavod-lvlt.rtve.es/resources/TE_S13HO02/mp3/6/6/1648451687266.mp3
-#EXTINF:0,RNE - Besaide-País Vasco
-https://mediavod-lvlt.rtve.es/resources/TE_R18BLBA/mp3/8/3/1648451409238.mp3
-#EXTINF:0,RNE - Informativo de Aragón
+#EXTINF:0,RNE - Andalucía Informativos
+https://f141.rndfnk.com/star/crtve/rne1/and/mp3/128/ct/stream.mp3
+#EXTINF:0,RNE - Aragón Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18HSCA/mp3/5/3/1648451626735.mp3
-#EXTINF:0,RNE - Informativo de Asturias
+#EXTINF:0,RNE - Asturias Informativos 
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON02/mp3/5/7/1648447979375.mp3
-#EXTINF:0,RNE - Informativo de Cantabria
+#EXTINF:0,RNE - Baleares Informativos
+https://d141.rndfnk.com/star/crtve/rne1/bal/mp3/128/ct/stream.mp3
+#EXTINF:0,RNE - Canarias Informativos 
+https://d141.rndfnk.com/star/crtve/rne1/cnr/mp3/128/ct/stream.mp3
+#EXTINF:0,RNE - Cantabria Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON03/mp3/3/0/1648459521803.mp3
-#EXTINF:0,RNE - Informativo de Castilla-La Mancha
+#EXTINF:0,RNE - Castilla-La Mancha Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18TLDO/mp3/2/9/1648452106792.mp3
-#EXTINF:0,RNE - Informativo de Castilla y León
+#EXTINF:0,RNE - Castilla y León Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18BRGS/mp3/3/4/1648452687743.mp3
-#EXTINF:0,RNE - Informativo de Ceuta
+#EXTINF:0,RNE - Cataluña Informativos
+https://d111.rndfnk.com/star/crtve/rne1/cat/mp3/128/ct/stream.mp3
+#EXTINF:0,RNE - Ceuta Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON09/mp3/1/8/1648127695481.mp3
-#EXTINF:0,RNE - Informativo de Galicia
+#EXTINF:0,RNE - Extremadura Informativos
+https://f121.rndfnk.com/star/crtve/rne1/ext/mp3/128/ct/stream.mp3
+#EXTINF:0,RNE - Galicia Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18CRNA/mp3/9/3/1648451466239.mp3
-#EXTINF:0,RNE - Informativo de Madrid
+#EXTINF:0,RNE - La Rioja Informativos
+https://f131.rndfnk.com/star/crtve/rne1/rio/aac/64/ct/stream.aac
+#EXTINF:0,RNE - Madrid Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SINFMA/mp3/4/5/1648383734654.mp3
-#EXTINF:0,RNE - Informativo de Murcia
+#EXTINF:0,RNE - Murcia Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON06/mp3/1/5/1648451486351.mp3
-#EXTINF:0,RNE - Informativo de Navarra
+#EXTINF:0,RNE - Navarra Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON07/mp3/6/4/1648451466246.mp3
+#EXTINF:0,RNE - País Vasco Informativos
+https://mediavod-lvlt.rtve.es/resources/TE_R18BLBA/mp3/8/3/1648451409238.mp3
+#EXTINF:0,Radio 5 Almeria
+https://f121.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Badajoz
+https://f121.rndfnk.com/star/crtve/rne5/mer/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Barcelona
+https://rtvehlslivestream.akamaized.net/hls/live/2097775/rne5/bcn/T1691046856/128/s24142064.aac
+#EXTINF:0,Radio 5 Cáceres
+https://f141.rndfnk.com/star/crtve/rne5/cce/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Cádiz
+https://d121.rndfnk.com/star/crtve/rne5/cad/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Córdoba
+https://f121.rndfnk.com/star/crtve/rne5/cor/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Gerona
+https://d111.rndfnk.com/star/crtve/rne5/ger/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Granada
+https://d111.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Huelva
+https://d121.rndfnk.com/star/crtve/rne5/onu/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Jaén
+https://d141.rndfnk.com/star/crtve/rne5/jae/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Las palmas
+https://f141.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Lérida
+https://d131.rndfnk.com/star/crtve/rne5/ler/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Málaga
+https://f121.rndfnk.com/star/crtve/rne5/mal/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Mérida
+https://f131.rndfnk.com/star/crtve/rne5/mer/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Sevilla
+https://f131.rndfnk.com/star/crtve/rne5/sev/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Tarragona
+https://d111.rndfnk.com/star/crtve/rne5/tar/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Tenerife
+https://f141.rndfnk.com/star/crtve/rne5/ten/mp3/128/stream.mp3
 #EXTINF:0,RNT Radio Tchad
 https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio
 #EXTINF:0,American Comedy
@@ -2999,6 +3067,8 @@ https://directe.cugat.cat/directeHQ.mp3
 http://stream.internetgirona.com:8004/;
 #EXTINF:0,Sapporo City FM
 http://std1.ladio.net:8030/scfm
+#EXTINF:0,Sarandí 690
+https://d10kxd8jv78zl6.cloudfront.net/sarandi.m3u8
 #EXTINF:0,Sat.1 Live AD
 https://live.datamatix.at:9032/;
 #EXTINF:0,Radio Sausalito

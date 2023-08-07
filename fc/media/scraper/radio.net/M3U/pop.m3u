@@ -678,7 +678,7 @@ http://stream.89.0rtl.de/remmidemmi/mp3-128/radiode/
 #EXTINF:0,89.0 RTL TrendingNow
 https://stream.89.0rtl.de/trend/mp3-128/radiode/
 #EXTINF:0,89.7 Bay
-https://stream.v3.network:18022/;stream.mp3
+https://stream.v3.network/proxy/897bay/stream.mp3?_=1
 #EXTINF:0,89.9 TheLight
 http://stream.lightfm.com.au:8138/;stream.nsv
 #EXTINF:0,89 HIT FM - HIGHFLY
@@ -2577,6 +2577,8 @@ https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3?aggregator=
 https://icecast.radiobremen.de/rb/bremenzwei/live/icecast.radiobremen.de?aggregator=radio-de
 #EXTINF:0,Bremer-Weser-Welle
 https://stream01.script24.net:9144/stream/1/
+#EXTINF:0,Bréniges FM
+https://stream.rcs.revma.com/94h58rve1hhvv
 #EXTINF:0,Brexmier Radio
 https://listen.radionomy.com/brexmierradio
 #EXTINF:0,Radio Brežice Eu
@@ -2647,6 +2649,8 @@ https://streaming.radio.co/saed08c46d/listen
 https://100.cv.ua:8443/play
 #EXTINF:0,BurningStation
 http://176.9.148.80:8290/stream/1/
+#EXTINF:0,Burnside Radio UK
+https://streaming04.liveboxstream.uk/proxy/burnside?mp=/burnsideradiouk.aac
 #EXTINF:0,BushRadio.online
 http://core0.sv1.bethann.wishfulthinkings.net:8000/bushradio
 #EXTINF:0,Radio Bustolive
@@ -2806,7 +2810,7 @@ http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 #EXTINF:0,Canale Italia
 https://rci.canaleitalia.tv:8007/;
 #EXTINF:0,Canal Fiesta Radio
-https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/chunklist_b250000.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/playlist.m3u8
 #EXTINF:0,Canal FM
 http://vps335355.ovh.net:8000/canalfm.mp3
 #EXTINF:0,Canal Metropol 88.3 Málaga
@@ -2963,7 +2967,7 @@ http://79.120.77.11:8000/postshanson
 http://79.120.77.11:8000/ussr
 #EXTINF:0,Radio Caprice - Vocal
 http://79.120.77.11:8000/vocal
-#EXTINF:0,Caravan FM
+#EXTINF:0,CARAVAN.fm
 https://frontend.streamonkey.net/caravanfm-primestream?aggregator=Radio.de
 #EXTINF:0,Caribbean Rhythms Radio Network
 https://www.ophanim.net:8444/s/7950
@@ -3154,7 +3158,7 @@ https://reims.ice.infomaniak.ch/reims-128.mp3
 #EXTINF:0,Channel 4 FM 104.8
 https://public.radio.co/stations/sce558c2e6/status?
 #EXTINF:0,Channel R - Today’s Hits
-https://streaming.live365.com/a23165
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC312_SC
 #EXTINF:0,Channel X94
 https://s5.radio.co/sea8361925/listen
 #EXTINF:0,Chanquete FM
@@ -3228,7 +3232,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/30227/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CHERIE ZEN
 https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CherryRadio 
-http://stream.infocomwebservices.com:1040/stream
+https://diffusion.toutelaradio.com/cherryradio
 #EXTINF:0,Cherry80
 https://icecast.beatzone.cz/radio/8630/cherry.mp3
 #EXTINF:0,Cherry On The Rox
@@ -4092,7 +4096,7 @@ http://cristalfm.no-ip.biz:8000/listen.pls
 #EXTINF:0,Radio Cristal
 https://radiocristal.ice.infomaniak.ch/radiocristal-high.mp3
 #EXTINF:0,Crooner Radio
-https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
+https://croonerradio.ice.infomaniak.ch/croonerradio-midfi.mp3
 #EXTINF:0,Crooner Radio Frank Sinatra 
 https://direct.croonerradio.fr/croonerradio-franksinatra-midfi.mp3
 #EXTINF:0,Crooner Radio Gentlemen Drivers
@@ -4119,6 +4123,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMYFMAAC.aac?
 https://live.ctdasradio.de/dist-radiode
 #EXTINF:0,CT Radio
 https://node-34.zeno.fm/ynpex02tn2zuv
+#EXTINF:0,ctuRadio
+http://ams-pioneer02.dedicateware.com:1220/stream
 #EXTINF:0,CTVS Radio
 http://stream.zeno.fm/6qtb0um3gwzuv
 #EXTINF:0,Cuba80s
@@ -4288,7 +4294,7 @@ http://stream01.insidetec.com:9108/radiosolsl
 #EXTINF:0,Delta FM Boulogne
 https://deltafmboulogne.ice.infomaniak.ch/deltafmboulogne-high.mp3
 #EXTINF:0,DELTA FM CALAIS
-http://deltafmcalais.ice.infomaniak.ch/deltafmcalais-128.aac
+https://deltafmcalais.ice.infomaniak.ch/deltafmcalais-128.aac
 #EXTINF:0,Delta FM Dunkerque
 https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.aac
 #EXTINF:0,DELTA FM LILLE
@@ -4649,6 +4655,8 @@ https://securestreams6.autopo.st:2110/stream.mp3
 http://server4.streamserver24.com:26455/;
 #EXTINF:0,dpd DRIVER’S RADIO
 https://frontend.streamonkey.net/dpd-driversradio?aggregator=RadioDe
+#EXTINF:0,Dresdner-Partyradio
+https://streams.radiopsr.de/psr-live/mp3-192/homepage/
 #EXTINF:0,Splendid Radio Pennsylvania
 https://stream.zeno.fm/dqv8ucg11anvv
 #EXTINF:0,Rádio Regional FM Dracena
@@ -5159,6 +5167,8 @@ https://s3.radio.co/s8a69138f9/listen
 http://scg.streamingmurah.com:8194/stream
 #EXTINF:0,ERF Jess
 https://stream.erf.de/erfjess.m3u
+#EXTINF:0,ERFM
+https://bohort.erfm.fr/radio?_=1691136206981
 #EXTINF:0,Ernst.FM
 http://85.25.217.22:8040/stream
 #EXTINF:0,ERT3 102 FM
@@ -6075,8 +6085,8 @@ https://stream.ffn.de/ffn-comedy/mp3-192
 https://stream.ffn.de/tannenbaum/mp3-192/;stream.nsv
 #EXTINF:0,FG. belgium.
 https://stream.rcs.revma.com/5wesqhfap98uv
-#EXTINF:0,FG CHIC. French
-https://n15a-eu.rcs.revma.com/3x5uxtcxgkhvv
+#EXTINF:0,FG CHIC FRENCH
+https://stream.rcs.revma.com/3x5uxtcxgkhvv
 #EXTINF:0,FGL Fréquence Grands Lacs
 http://str31.creacast.com:80/fgl
 #EXTINF:0,fibwi radio
@@ -7054,7 +7064,7 @@ https://streaming.radio.co/s5b773f8d3/low
 #EXTINF:0,GURBANI
 http://gurbani.out.airtime.pro:8000/gurbani_b
 #EXTINF:0,Gurbetci FM 105.4
-http://live2.radyotvonline.com:8750/;
+https://sssx.radyosfer.com/gurbetcifm/stream
 #EXTINF:0,Gurdek FM
 http://anadolu.liderhost.com.tr:8112/stream/1/
 #EXTINF:0,Radio Gwendalyn
@@ -7346,7 +7356,7 @@ https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3?
 #EXTINF:0,Highlander Radio
 https://jenny.torontocast.com:2000/stream/highlanderradio/stream
 #EXTINF:0,CROONER par Crooner Radio
-https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
+https://croonerradio.ice.infomaniak.ch/croonerradio-midfi.mp3
 #EXTINF:0,J-POP par Powerplay Kawaii
 https://kathy.torontocast.com:3060/stream/1/?radiofr
 #EXTINF:0,Top 40 by GotRadio
@@ -16661,6 +16671,8 @@ http://mjoystream.westeurotele.com:8000/radio-egoisty
 http://mjoystream.westeurotele.com:8000/radio-z-kryjivky
 #EXTINF:0,MJ Tunes
 https://listen.radionomy.com/mjtunes.m3u
+#EXTINF:0,MK FM - Milton Keys Local Radio
+https://mkfmradioplayer2.radioca.st/;stream.nsv
 #EXTINF:0,MKR - Münchner Kirchenradio
 https://ice.cr6.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dsmb-DAB-128-mp3
 #EXTINF:0,M Le Média
@@ -16692,7 +16704,7 @@ http://shoutcast2.wirelessantwerpen.be:8412/stream/1/
 #EXTINF:0,MOKAWA FM
 https://securestream.radioshd.info:7087/stream/1/
 #EXTINF:0,Radio Moldova Muzical
-http://radiolive.trm.md:8000/RM-muzical-256
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:0,Radio Moldova Tineret
 http://radiolive.trm.md:8000/RM-tineret-128
 #EXTINF:0,Molise Web Radio
@@ -17385,6 +17397,8 @@ https://server.spainbroadcast.net/8028/;
 https://sc.streamingfm.it:8070/nostalgia
 #EXTINF:0,Nostalgie 2000
 https://stream.rcs.revma.com/vuzz3g53ehuvv
+#EXTINF:0,Nostalgie Camping
+https://stream.rcs.revma.com/8cshgmq4ehuvv
 #EXTINF:0,Nostalgie Fiesta
 https://stream.rcs.revma.com/5wfaapu3ehuvv
 #EXTINF:0,Nostalgie 80
@@ -17393,8 +17407,8 @@ https://stream.rcs.revma.com/e4xgg233ehuvv
 https://stream.rcs.revma.com/2vy2me53ehuvv
 #EXTINF:0,Nostalgie Belgique - Pop 90
 https://stream.rcs.revma.com/r5bmbrp4ehuvv
-#EXTINF:0,Nostalgie Camping
-https://stream.rcs.revma.com/8cshgmq4ehuvv
+#EXTINF:0,Nostalgie Summertime
+https://stream.rcs.revma.com/ww3zhvq4ehuvv
 #EXTINF:0,NOSTALGIE DE Pop Rock 80
 https://scdn.nrjaudio.fm/adwz1/de/57486/mp3_128.mp3
 #EXTINF:0,NOSTALGIE LES PLUS GRANDS TUBES FRANCAIS
@@ -17403,8 +17417,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=radio.net
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFNL.mp3
 #EXTINF:0,Nostalgie NL - What a feeling !
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radionet
-#EXTINF:0,Nostalgie Summertime
-https://stream.rcs.revma.com/ww3zhvq4ehuvv
 #EXTINF:0,Nóta FM
 http://live.notafm.hu:8000/notafm
 #EXTINF:0,Noticias MVS
@@ -18934,7 +18946,7 @@ http://live.prodjradio.net:8000/stream/1/
 #EXTINF:0,Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 #EXTINF:0,Dwójka - Polskie Radio Program 2 
-http://stream3.polskieradio.pl:8902/;
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,100% PROGRESSIVE ROCK
 https://streamingV2.shoutcast.com/100-PROGRESSIVEROCK
 #EXTINF:0,PROJECT BÄM ON AIR - Da tanzt sogar die Oma!
@@ -20227,6 +20239,8 @@ https://www.racux.de/listen/radio_cuxhaven/radio-app.mp3
 http://ample-zeno-02.radiojar.com/wgfcgvtuwz4tv?rj-ttl=5&rj-token=AAABWsx4QzdeNSQ_VT3u6R2rUSTfMQiciCWJ12TMk7UN2Nq1tBw7vA
 #EXTINF:0,Radio Darbast
 http://live.radiodarbast.com:8443/stream.mp3
+#EXTINF:0,Radio Dardesheim
+https://stream2-alfacast-hosting.com/8096/stream
 #EXTINF:0,Radio Darmstadt
 https://stream.radiodarmstadt.de/radar.mp3
 #EXTINF:0,Radio Dave 80s
@@ -23089,6 +23103,8 @@ https://gribalkon.radioca.st/stream
 http://radyo.cc.ankara.edu.tr:8089/;
 #EXTINF:0,Radyo Kulu
 http://178.33.135.245:3940/stream/1/
+#EXTINF:0,Akustikland - Radyoland
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 #EXTINF:0,Alem FM 89.2
 https://turkmedya.radyotvonline.net/alemfmaac
 #EXTINF:0,Sari Tramvay - Radyoland
@@ -23218,9 +23234,9 @@ https://streaming.live365.com/a26179
 #EXTINF:0,RCSM - RÁDIO COMUNITÁRIA SANTA MARIA
 https://blueeyecaboverde.com/shoutcast/live.mp3
 #EXTINF:0,RCS Network Napoli
-https://ice09.fluidstream.net/fluid9114.aac?FLID=7
+https://ice09.fluidstream.net/fluid9114.aac
 #EXTINF:0,RCS Network Melody
-https://ice12.fluidstream.net:80/fluid1204.mp3
+http://ice09.fluidstream.net:80/fluid9120.aac
 #EXTINF:0,RCS Network 
 http://players.fluidstream.net/rcsnetwork.pls
 #EXTINF:0,RADIO RCU
@@ -23266,7 +23282,7 @@ https://sr11.inmystream.it:8026/stream
 #EXTINF:0,RDU 98.5 FM
 https://rdu985fm-gecko.radioca.st/stream/1/
 #EXTINF:0,R-Dwa
-https://live.aurafm.org/R-Dwa.m3u
+http://live.francra.org:8000/R-Dwa
 #EXTINF:0,Reach OnAir
 https://stream.reachonair.com:8443/play
 #EXTINF:0,Real 97.8 FM
@@ -23902,7 +23918,9 @@ https://rsaradio-westallgaeu.cast.addradio.de/rsaradio/westallgaeu/mp3/high?ar-d
 #EXTINF:0,Radio Belarus
 https://stream2.datacenter.by/belarusfm
 #EXTINF:0,RSC
-http://r-sc.eu:52160/;
+https://sound-channel.eu:52172/stream
+#EXTINF:0,rsd-radio
+https://server4.streamserver24.com:43630/stream
 #EXTINF:0,RSG Radio
 http://116.203.7.166:9000/stream/1/
 #EXTINF:0,R.SH
@@ -24233,7 +24251,7 @@ http://hosting.studioradiomedia.fr:1100/schoolradio
 http://hosting.studioradiomedia.fr:1100/schoolradio
 #EXTINF:0,Schwany5 Oberkrain
 https://schwany.streampanel.cloud/5-oberkrain
-#EXTINF:0,Schwarzwaldradio
+#EXTINF:0,Schwarzwaldradio: Oldies. Neu. Entdecken.
 https://frontend.streamonkey.net/fho-schwarzwaldradiolive?aggregator=radio.de
 #EXTINF:0,Radio-Schwung
 https://server32899.streamplus.de/stream/1/
@@ -24610,7 +24628,7 @@ https://s5.mexside.net:2150/stream
 #EXTINF:0,Sony Hulk Radio
 http://edge2-b.exa.live365.net/a87400
 #EXTINF:0,SOS-Radio
-https://stream.sos-radio.net/128
+http://stream.sos-radio.net/128
 #EXTINF:0,SoulCast
 https://s10.w3bserver.com/radio/8140/;/live
 #EXTINF:0,Soul Radio
@@ -26942,7 +26960,7 @@ https://stream.zeno.fm/zgbnaxs8e3quv
 #EXTINF:0,Webradio-Ried
 https://stream.tramp-cast.ch/8022/stream
 #EXTINF:0,webradio-starline
-https://azuracast.matze-hosting.at/listen/webradio-starline/radio.mp3
+https://streamserver3.m-hosting.eu:10302/stream
 #EXTINF:0,WebRadio Waasland
 https://cast1.torontocast.com:2245/stream
 #EXTINF:0,WebradioWilhelmshaven 
@@ -28244,7 +28262,7 @@ http://audiostreamen.nl:8028/
 #EXTINF:0,Zocker-freaks-radio
 http://stream.laut.fm/zocker-freaks-radio
 #EXTINF:0,Zoe FM
-http://shoutcast.movemedia.eu/zoe32
+https://shoutcast.movemedia.eu/zoe128
 #EXTINF:0,Zombiestation
 http://81.169.218.25:8000/;
 #EXTINF:0,Radio Zona Club Djs Ecuador

@@ -656,7 +656,7 @@ http://server3.streamserver-unlimited.de:2199/tunein/go455.pls
 #EXTINF:0,Radio Bayern Oldies
 http://eu4.fastcast4u.com:5638/;
 #EXTINF:0,Bay Retro
-https://stream.v3.network:18014/stream.mp3
+https://stream.v3.network/proxy/retro/stream.mp3?_=1
 #EXTINF:0,BB RADIO - 80er
 https://streambbr.ir-media-tec.com/80s/mp3-128/radiode_web/
 #EXTINF:0,BBR CLUB 80 99.3
@@ -920,7 +920,7 @@ https://ais-sa2.cdnstream1.com/1374_128
 #EXTINF:0,CarolinaFM
 https://turadio.accesopanel.com/8058/stream
 #EXTINF:0,Happy Radio Caroline 319 Gold
-https://happy.radiocaroline319.nl:8430/radio320.mp3
+https://happy.rcgoldserver.nl/listen/happy_oldies/radio320.mp3
 #EXTINF:0,Carousel FM
 http://streaming.broadcastradio.com:11120/CarouselFM
 #EXTINF:0,Carousel Radio UK
@@ -972,7 +972,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC013_SC
 #EXTINF:0,CHERIE 80
 https://scdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CherryRadio 
-http://stream.infocomwebservices.com:1040/stream
+https://diffusion.toutelaradio.com/cherryradio
 #EXTINF:0,Chevere Radio TV
 https://media.streambrothers.com:8180/stream
 #EXTINF:0,Chicago's Variety Station
@@ -1979,6 +1979,8 @@ https://stream2.svrdedicado.org/8264/stream
 https://listen.radionomy.com/80-exits.m3u
 #EXTINF:0,Hot80s
 https://server3.streamserver-unlimited.de:8019/;
+#EXTINF:0,Hot 97,7 Retro
+https://kathy.torontocast.com:2165/stream
 #EXTINF:0,Hot Hitz 80s
 https://s1.reliastream.com/proxy/hothitz80s?mp=/stream/;
 #EXTINF:0,Hotmix 80's

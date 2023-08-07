@@ -607,6 +607,8 @@ http://ice.creacast.com/bpm-vernon
 http://bpstream.hostco.de:3000/;
 #EXTINF:0,BreakZ.FM - HipHop meets House
 https://breakz-high.rautemusik.fm/
+#EXTINF:0,Bréniges FM
+https://stream.rcs.revma.com/94h58rve1hhvv
 #EXTINF:0,BRG EDM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGEEDM_S01AAC.aac
 #EXTINF:0,Bridge FM Hungary
@@ -621,6 +623,8 @@ http://uk3.internet-radio.com:11168
 https://s4.radio.co/s69b281ac0/listen
 #EXTINF:0,Radio BurgerFuel
 https://s3.radio.co/s9909bd65f/listen
+#EXTINF:0,Burnside Radio UK
+https://streaming04.liveboxstream.uk/proxy/burnside?mp=/burnsideradiouk.aac
 #EXTINF:0,By Djs Radio
 https://stream.zeno.fm/k54gqekduuhvv
 #EXTINF:0,ByKiwiRadio
@@ -940,8 +944,6 @@ https://mp3.stream.tb-group.fm/ct.mp3
 #EXTINF:0,COSMO - Dance
 https://wdr-cosmo-dance.icecast.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,Costa Del Mar - Dance
-https://radio4.cdm-radio.com:18000/stream-mp3-Dance
-#EXTINF:0,Costa del Mar Dance
 https://radio4.cdm-radio.com:18000/stream-mp3-Dance
 #EXTINF:0,Costa Del Mar - Deep-House
 https://radio4.cdm-radio.com:18012/stream-mp3-Deep
@@ -1442,7 +1444,7 @@ https://scdn.nrjaudio.fm/adwz1/de/33023/mp3_128.mp3?origine=radio.net
 #EXTINF:0,ENERGY Dance
 https://frontend.streamonkey.net/energy-dance/stream/mp3?aggregator=radiode
 #EXTINF:0,Energy FM Australia
-https://streamer.radio.co/saf43677d2/listen
+https://play.enrega.com/stream/audio.mp3
 #EXTINF:0,Energy FM Brazil
 https://media.energyfm.com.br/stream.mp3
 #EXTINF:0,Energy FM
@@ -1498,7 +1500,7 @@ http://str1.mediatelekom.net:8010/;
 #EXTINF:0,Europa Plus Residance
 https://emg02.hostingradio.ru/ep-residance128.mp3
 #EXTINF:0,Evosonic Radio
-https://radio.koennmer.net/evosonic.mp3
+http://radio.koennmer.net/evosonic.mp3
 #EXTINF:0,Evropa 2 Movin
 https://ice.actve.net/web-e2-movin
 #EXTINF:0,Exa 102.1
@@ -4338,7 +4340,7 @@ http://178.251.230.144:8000/highend
 #EXTINF:0,Modular Station
 https://broadcast.modular-station.com/radio/8000/radio.aac
 #EXTINF:0,Radio Moldova Muzical
-http://radiolive.trm.md:8000/RM-muzical-256
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:0,Radio Moldova Tineret
 http://radiolive.trm.md:8000/RM-tineret-128
 #EXTINF:0,Molona FM 
@@ -4399,6 +4401,8 @@ https://stream.zeno.fm/twzk6szs6ueuv
 http://n07.radiojar.com/w6c6bssk95vtv?rj-ttl=5&rj-tok=AAABg_VSfd8AjDSgrRgIb8D80A
 #EXTINF:0,MusicArtclub Radio
 https://eu9.fastcast4u.com/proxy/musicart?mp=/1
+#EXTINF:0,Music Club 105.8 FM
+https://antares.dribbcast.com/proxy/music1058?mp=/stream
 #EXTINF:0,Music Factory Radio
 https://i4.streams.ovh:2200/ssl/musicfactory?mp=/stream
 #EXTINF:0,M.I.H - Music Is House 
@@ -4435,6 +4439,8 @@ http://stream01.my105.ch/my105blasterjaxx.mp3
 http://stream01.my105.ch/my105bobsinclar.mp3
 #EXTINF:0,my105 Dance
 http://stream01.my105.ch/my105dance.mp3
+#EXTINF:0,my105 DANCE IT
+https://my105-stream17.radiohost.de/my105-dance_mp3-192?
 #EXTINF:0,my105 DJ Nights
 http://stream01.my105.ch/my105djnights.mp3
 #EXTINF:0,my105 DJ Radio
@@ -6478,7 +6484,7 @@ https://liveradio.swr.de/rddez3a/raka06/
 #EXTINF:0,Synthetic FM Synth Channel
 http://stream.syntheticfm.com:8040/live
 #EXTINF:0,SynthwaveRadio
-https://icecast.synthwaveradio.eu:8000/live
+http://cast3.my-control-panel.com:9794/stream
 #EXTINF:0,Systrum Sistum - SSR1 
 https://systrum.net/SSR1
 #EXTINF:0,Systrum Sistum - SSR2
@@ -6950,7 +6956,7 @@ https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10895&type
 #EXTINF:0,Web Rádio Plus
 https://s16.maxcast.com.br:8228/live
 #EXTINF:0,webradio-starline
-https://azuracast.matze-hosting.at/listen/webradio-starline/radio.mp3
+https://streamserver3.m-hosting.eu:10302/stream
 #EXTINF:0,We Get Lifted Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3667151_SC
 #EXTINF:0,We House Radio

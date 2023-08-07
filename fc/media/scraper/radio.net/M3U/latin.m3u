@@ -276,7 +276,7 @@ http://audiocdn.mainstreaming.tv/101157/cm
 #EXTINF:0,Canal Ebro Radio
 http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 #EXTINF:0,Canal Fiesta Radio
-https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/chunklist_b250000.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/playlist.m3u8
 #EXTINF:0,Rádio Canal Só Forró
 https://player.painelvox.com/player-ssl/8512/;
 #EXTINF:0,La Cancion de la Trova
@@ -700,7 +700,7 @@ https://s2.free-shoutcast.com/stream/18258
 #EXTINF:0,Exa FM Durango
 https://stream3.mexiserver.com:10076/stream.mp3
 #EXTINF:0,Exa FM Ecuador
-http://playerservices.streamtheworld.com/api/livestream-redirect/ECUADOR.mp3
+https://26563.live.streamtheworld.com/ECUADOR_SC
 #EXTINF:0,Exa FM Ensenada
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA.mp3
 #EXTINF:0,Exa FM Guadalajara
@@ -1929,6 +1929,8 @@ https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-altea.mp3
 #EXTINF:0,my105 RITMO LATINO
 https://my105-stream14.radiohost.de/my105-ritmolatino_mp3-192
+#EXTINF:0,my105 RITMO LATINO FR
+https://my105-stream17.radiohost.de/my105-ritmolatino_mp3-192?
 #EXTINF:0,my105 RITMO LATINO IT
 https://my105-stream17.radiohost.de/my105-ritmolatino_mp3-192
 #EXTINF:0,My 106.3
@@ -3262,7 +3264,7 @@ https://server.radiogs.org:7059/stream/1/
 #EXTINF:0,Ultra Radio Puebla
 https://sp3.servidorrprivado.com/8100/stream
 #EXTINF:0,ULUSAL LATİN
-http://162.254.207.45:9326/;stream.mp3
+https://stream.guventechnology.com:2020/stream/ulusalradyo/stream
 #EXTINF:0,Unimel estereo
 http://148.72.152.176:8360/stream
 #EXTINF:0,Unisarc Estéreo
