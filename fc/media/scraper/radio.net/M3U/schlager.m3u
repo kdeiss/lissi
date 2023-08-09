@@ -85,6 +85,8 @@ http://www.radio-alpenfunk.de/minicaster/live.pls
 https://server7517.streamplus.de/;stream.mp3
 #EXTINF:0,Radio Alsterwelle
 https://stream.laut.fm/alsterwelle?ref=radiode
+#EXTINF:0,Altmühltal Radio
+http://c02.lexycast.de:4480/;?type=http&nocache=1688063336
 #EXTINF:0,Radio Altstadtwelle
 https://icecast.multhielemedia.de/radio/8040/rheinradio.mp3?1607975081
 #EXTINF:0,Ambiance Music 
@@ -2608,7 +2610,7 @@ https://stream.laut.fm/schlagerstarmagazin-radio?ref=radiode
 #EXTINF:0,Schlager time
 http://schlagers.org:8760/2TJW/mp3/stream
 #EXTINF:0,schlager traum
-https://s1.schlagertraum.net:8302/stream/1/
+https://schlagertraumradio.de/icecast_stream.pls
 #EXTINF:0,Schlagerzender
 https://stream.laut.fm/schlagerzender?ref=radiode
 #EXTINF:0,Schnuffelradio
@@ -2780,7 +2782,7 @@ https://stream.zeno.fm/9yejmortuiztv
 #EXTINF:0,Webradio-Ried
 https://stream.tramp-cast.ch/8022/stream
 #EXTINF:0,webradio-starline
-https://azuracast.matze-hosting.at/listen/webradio-starline/radio.mp3
+https://streamserver3.m-hosting.eu:10302/stream
 #EXTINF:0,WebRadioWattenscheid
 http://stream11.shoutcastsolutions.com:8988/stream
 #EXTINF:0,webradio

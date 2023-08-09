@@ -144,7 +144,7 @@ https://stream.laut.fm/radiocampesinacubana?ref=radiode
 #EXTINF:0,CanalBREIZH 
 http://webradio-preprod.tamm-kreiz.bzh:8000/airtime_128m
 #EXTINF:0,Flamenco Radio
-https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/chunklist_b250000.m3u8
 #EXTINF:0,Radio Cañar Stereo
 https://rr5100.globalhost1.com/8054/stream
 #EXTINF:0,Rádio Cantinho dos Emigrantes
@@ -515,6 +515,8 @@ http://asculta.radioxnet.ro:8888/stream/1/
 http://amber.streamguys.com:4070/;
 #EXTINF:0,MC Radio
 https://server4p.com/8012/stream
+#EXTINF:0,Rádio MEC 800 AM
+https://radio2.lflr.com.br/ebc-live/radio-mec/chunks.m3u8
 #EXTINF:0,Radio Medinabaye Kaffrine
 https://stream.zenolive.com/w4v1hckvewwtv
 #EXTINF:0,Radio Mega Lusa
@@ -554,7 +556,7 @@ http://cknn.openbroadcaster.com:8000/CKNN
 #EXTINF:0,Radio Özden 99.4
 http://live.radyotvonline.com:9050/
 #EXTINF:0,OK Radio
-http://live.okradio.net:8020/stream/1/
+https://sslstream.okradio.net/443
 #EXTINF:0,Old World Czech Music
 https://s4.radio.co/s4a8ed49b4/listen
 #EXTINF:0,Lokale Omroep Baarle
@@ -695,6 +697,8 @@ https://radiokos.radioca.st/stream/1/
 https://i6.streams.ovh/sc/radiolampsi/stream
 #EXTINF:0,RADIO LA VOZ Peru
 https://servermax.azuracast.com.es/radio/8030/LAVOZDELPUEBLOAREQUIPA
+#EXTINF:0,RadioMajevica
+https://live.radiomajevica.com:7520/live
 #EXTINF:0,Radio Makedonissa 106.4 Ράδιο Μακεδόνισσα 106.4
 https://netradio.live24.gr/makedonissa1064
 #EXTINF:0,RADIOMANA WEB

@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:0,Cadena SER Radio 90 Motilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLAAAC_SC
+#EXTINF:0,Cadena SER Alcázar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR_SC
+#EXTINF:0,Cadena SER Alcoy
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY_SC
+#EXTINF:0,Cadena SER Algeciras
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS_SC
+#EXTINF:0,Cadena SER Alicante
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTEAAC_SC
+#EXTINF:0,Cadena SER Aranda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDAAAC_SC
+#EXTINF:0,Cadena SER Arosa
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AROSAAAC_SC
+#EXTINF:0,Cadena SER Córdoba
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC?csegid=10000
+#EXTINF:0,Cadena SER Radio Elda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELDAAAC.aac
+#EXTINF:0,Cadena SER Principat d'Andorra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA_SC
 #EXTINF:0,Doctors Explain FM
 https://node-11.zeno.fm/w7h7ffg9vv8uv?rj-ttl=5&rj-tok=AAABe3hs-EEAIChw60FWUuAB1Q
 #EXTINF:0,Deutschlandradio Dokumente und Debatten
@@ -1539,6 +1559,8 @@ https://zas7.ndx.co.za:8042/stream
 https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDS Station
 http://stream.mds-station.com:8000/01-mds
+#EXTINF:0,Rádio MEC 800 AM
+https://radio2.lflr.com.br/ebc-live/radio-mec/chunks.m3u8
 #EXTINF:0,Med1 Radio
 https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/chunklist_w663726031.m3u8
 #EXTINF:0,Radio Medinabaye Kaffrine
@@ -2095,6 +2117,8 @@ http://stream.zeno.fm/68fwbu11r98uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/WZNBFM.mp3
 #EXTINF:0,Presencia Regional
 https://dattavolt.com/8142/stream
+#EXTINF:0,Professional Podcast Network 2
+https://www.streamcontrol.net:8444/s/15020/
 #EXTINF:0,Jedynka - Polskie Radio Program 1
 https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
 #EXTINF:0,Dwójka - Polskie Radio Program 2 
@@ -2333,6 +2357,8 @@ https://usa5.fastcast4u.com/proxy/radiocultura?mp=/1
 http://radio.transmite.pe:9330/stream
 #EXTINF:0,Radio Del Pueblo 830 AM
 http://streaming.radiolinksmedia.com:7830/;
+#EXTINF:0,Radio Delta Metković
+https://ec2s.crolive.com.hr/RadioDelta
 #EXTINF:0,Radio Dial 670 AM
 https://stream-32.zeno.fm/8wgv914262quv?zs=F1s_KlRmSfuqiL9xsKZDJA
 #EXTINF:0,Rádio Diário FM
@@ -2947,46 +2973,108 @@ https://mediavod-lvlt.rtve.es/resources/TE_R18CRNA/mp3/9/3/1648451466239.mp3
 https://f131.rndfnk.com/star/crtve/rne1/rio/aac/64/ct/stream.aac
 #EXTINF:0,RNE - Madrid Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SINFMA/mp3/4/5/1648383734654.mp3
+#EXTINF:0,RNE - Melilla Informativos
+https://d131.rndfnk.com/star/crtve/rne5/mel/mp3/128/stream.mp3
 #EXTINF:0,RNE - Murcia Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON06/mp3/1/5/1648451486351.mp3
 #EXTINF:0,RNE - Navarra Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON07/mp3/6/4/1648451466246.mp3
 #EXTINF:0,RNE - País Vasco Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18BLBA/mp3/8/3/1648451409238.mp3
+#EXTINF:0,Radio 5 A Coruña 
+https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Albacete
+https://d121.rndfnk.com/star/crtve/rne5/alb/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Almeria
 https://f121.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Ávila
+https://d111.rndfnk.com/star/crtve/rne5/avi/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Badajoz
 https://f121.rndfnk.com/star/crtve/rne5/mer/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Barcelona
 https://rtvehlslivestream.akamaized.net/hls/live/2097775/rne5/bcn/T1691046856/128/s24142064.aac
+#EXTINF:0,Radio 5 Bilbao
+https://d141.rndfnk.com/star/crtve/rne5/bil/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Burgos
+https://f121.rndfnk.com/star/crtve/rne5/bur/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Cáceres
 https://f141.rndfnk.com/star/crtve/rne5/cce/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Cádiz
 https://d121.rndfnk.com/star/crtve/rne5/cad/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Cartagena
+https://f141.rndfnk.com/star/crtve/rne5/crt/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Ciudad Real
+https://d121.rndfnk.com/star/crtve/rne5/cdr/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Córdoba
 https://f121.rndfnk.com/star/crtve/rne5/cor/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Cuenca
+https://f141.rndfnk.com/star/crtve/rne5/cue/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Gerona
 https://d111.rndfnk.com/star/crtve/rne5/ger/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Gijón
+https://d111.rndfnk.com/star/crtve/rne5/gij/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Granada
 https://d111.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Guadalajara
+https://d111.rndfnk.com/star/crtve/rne5/gua/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Huelva
 https://d121.rndfnk.com/star/crtve/rne5/onu/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Huesca
+https://d141.rndfnk.com/star/crtve/rne5/osc/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Jaén
 https://d141.rndfnk.com/star/crtve/rne5/jae/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Las palmas
 https://f141.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 León
+https://d111.rndfnk.com/star/crtve/rne5/leo/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Lérida
 https://d131.rndfnk.com/star/crtve/rne5/ler/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Lugo
+https://d111.rndfnk.com/star/crtve/rne5/lug/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Málaga
 https://f121.rndfnk.com/star/crtve/rne5/mal/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Mérida
 https://f131.rndfnk.com/star/crtve/rne5/mer/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Orense
+https://f141.rndfnk.com/star/crtve/rne5/ore/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Oviedo
+https://d131.rndfnk.com/star/crtve/rne5/ast/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Palencia
+https://f131.rndfnk.com/star/crtve/rne5/pal/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Ponferrada
+https://f131.rndfnk.com/star/crtve/rne5/pfr/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Pontevedra
+https://f121.rndfnk.com/star/crtve/rne5/ptv/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Salamanca
+https://f121.rndfnk.com/star/crtve/rne5/sal/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 San Sebastián
+https://f121.rndfnk.com/star/crtve/rne5/don/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Santiago
+https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Segovia
+https://f141.rndfnk.com/star/crtve/rne5/seg/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Sevilla
 https://f131.rndfnk.com/star/crtve/rne5/sev/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Soria
+https://f121.rndfnk.com/star/crtve/rne5/sor/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Tarragona
 https://d111.rndfnk.com/star/crtve/rne5/tar/mp3/128/stream.mp3
 #EXTINF:0,Radio 5 Tenerife
 https://f141.rndfnk.com/star/crtve/rne5/ten/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Teruel
+https://f141.rndfnk.com/star/crtve/rne5/ter/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Toledo
+https://f131.rndfnk.com/star/crtve/rne5/tol/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Valladolid
+https://d141.rndfnk.com/star/crtve/rne5/vll/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Victoria
+https://f141.rndfnk.com/star/crtve/rne5/vit/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Vigo
+https://f131.rndfnk.com/star/crtve/rne5/vig/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Zamora
+https://d141.rndfnk.com/star/crtve/rne5/zam/mp3/128/stream.mp3
+#EXTINF:0,Radio 5 Zaragoza
+https://f131.rndfnk.com/star/crtve/rne5/zgz/mp3/128/stream.mp3
 #EXTINF:0,RNT Radio Tchad
 https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio
 #EXTINF:0,American Comedy
@@ -3609,6 +3697,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBBWAM.mp3
 https://ice23.securenetsystems.net/WBCF
 #EXTINF:0,WBCN Fox Sports Radio Charlotte
 https://playerservices.streamtheworld.com/api/livestream-redirect/WSOCF3AAC_SC?pname=TDSdk
+#EXTINF:0,WBEK
+https://stream.wbez.org/wbez64-web.aac
 #EXTINF:0,WBEN
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBENAM.mp3
 #EXTINF:0,WBEQ - Chicago Public Radio 90.7 FM WBEZ
@@ -4185,6 +4275,8 @@ https://wlrh.streamguys1.com/news
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAM.mp3
 #EXTINF:0,WLSS - The Answer 930 AM
 https://26433.live.streamtheworld.com/WLSSAMAAC.aac
+#EXTINF:0,WLTA - Faith Talk 1400 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNIVAM.mp3
 #EXTINF:0,WLTQ - Catholic Radio 730 AM
 https://streamingv2.shoutcast.com/catholicradiosc
 #EXTINF:0,WLUR 91.5 FM

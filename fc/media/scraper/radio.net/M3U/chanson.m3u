@@ -59,6 +59,8 @@ https://scdn.nrjaudio.fm/adwz1/fr_re/55731/aac_64.mp3
 https://scdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CHERIE ZEN
 https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net
+#EXTINF:0,CHUN-FM
+http://192.95.31.59:9954/;
 #EXTINF:0,Couleurs FM
 http://91.121.179.64:8000/Couleursfm
 #EXTINF:0,Collines La Radio
@@ -223,8 +225,6 @@ https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 https://manager7.streamradio.fr:2625/stream
 #EXTINF:0,Maxi France
 https://sr3.publicssl.net/srv/8358/stream
-#EXTINF:0,Medi 1
-https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8
 #EXTINF:0,Meuse FM - Bar-Le-Duc
 https://www.radioking.com/play/meuse-fm-bar-le-duc-commercy
 #EXTINF:0,Mistral FM
@@ -275,14 +275,14 @@ https://stream.rcs.revma.com/23yuem43ehuvv
 https://stream.rcs.revma.com/r9gvhg43ehuvv
 #EXTINF:0,NOSTALGIE LES PLUS GRANDS TUBES FRANCAIS
 https://scdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=radio.net
-#EXTINF:0,Nostalgie 100 plus grandes Chansons
-https://scdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=radio.net
+#EXTINF:0,NOSTALGIE LES PLUS GRANDS TUBES
+https://scdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Tubes
 #EXTINF:0,NOSTALGIE TOUS LES TUBES, TOUS LES STYLES
 https://scdn.nrjaudio.fm/adwz1/fr/30699/mp3_128.mp3?origine=radio.net
 #EXTINF:0,N'Radio
 https://radio.ice.infomaniak.ch/nradio-128.mp3
 #EXTINF:0,NRJ FRENCH HITS
-https://scdn.nrjaudio.fm/adwz1/fr/30037/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30037/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-French-Hits
 #EXTINF:0,NRJ Made in France
 https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Webradio-Offranville
@@ -331,8 +331,6 @@ http://stream.radiochablais.ch/chablais-100francais.mp3
 https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3
 #EXTINF:0,Radio Courtoisie
 https://ice.creacast.com/radio-courtoisie
-#EXTINF:0,Radio d'Oc
-https://radiodoc.ice.infomaniak.ch/radiodoc-128.mp3
 #EXTINF:0,RadioEthic
 http://163.172.37.18:8000/radioethic.mp3
 #EXTINF:0,Radio Eva

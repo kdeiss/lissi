@@ -180,7 +180,7 @@ https://streams.barbaradio.de/schmusekatze/mp3-192/radiode/
 #EXTINF:0,Bates FM - Office Standards
 https://bigrradio.cdnstream1.com/5137_128
 #EXTINF:0,Bay Easy
-https://stream.v3.network:18022/;stream.mp3?_=1
+https://stream.v3.network/proxy/easy/stream.mp3?_=1
 #EXTINF:0,Bayernwelle
 https://addrad.io/44565c5
 #EXTINF:0,Bayernwelle Chiemgau
@@ -258,13 +258,13 @@ https://s17.myradiostream.com/10938/stream/1/
 #EXTINF:0,Chelmer Radio
 https://chelmer.btsstream.com/stream/chelmer
 #EXTINF:0,CHERIE BALLADS
-https://scdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-BALLADS
 #EXTINF:0,Chérie plus belle musique
 https://scdn.nrjaudio.fm/adwz1/fr/56237/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CHERIE POP
 https://scdn.nrjaudio.fm/adwz1/fr/30227/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CHERIE ROMANTIC
-https://scdn.nrjaudio.fm/adwz1/fr/30287/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30287/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-ROMANTIC
 #EXTINF:0,CHIQUIMULA91COM
 http://streaming.radionomy.com/chiquimula91com
 #EXTINF:0,Chono radio
@@ -349,6 +349,8 @@ https://samcloud.spacial.com/api/listen?sid=91554&rid=165436&f=mp3,any&br=128000
 https://emisorasvirtuales.com.co:9090/live
 #EXTINF:0,Dost FM
 http://yayin.dostfm.com:8920/stream/1/
+#EXTINF:0,DR'Radio Digital
+https://s2.suenalive.com/8014/stream
 #EXTINF:0,Radyo Kalusugan
 https://listen.radioking.com/radio/443468/stream/499589
 #EXTINF:0,Radio Dychovka (Radio Slovak Blasmusik)
@@ -556,7 +558,7 @@ https://bonneville.cdnstream1.com/2709_48.aac
 #EXTINF:0,K-POP Love Radio
 http://node-14.zeno.fm/psx4yr2rsf9uv.aac?zs=OR1mj1KQRQ2cXN4mElkA2g&rj-tok=AAABgT1-A9UAaIk6cJxyKHq_7w&rj-ttl=5
 #EXTINF:0,KRJK - Jack FM 97.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
+http://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
 #EXTINF:0,kronehit love
 https://secureonair.krone.at/kronehit14.mp3
 #EXTINF:0,kulthitRADIO Kuschel Pop
@@ -813,6 +815,8 @@ https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream
 http://streamtotal.net:8136/stream
 #EXTINF:0,Rádio Melodias de Amor
 https://sonicpanel.oficialserver.com/8020/stream;stream.nsv
+#EXTINF:0,Melodías del corazón
+https://stream.zeno.fm/nbcpokz3q3wvv
 #EXTINF:0,Melodias Del Recuerdo
 http://equinox.shoutca.st:8068/stream/1/
 #EXTINF:0,melo radio Acoustic
@@ -881,8 +885,8 @@ https://streams.norawebstreams.de/nora-80er/mp3-128/radiode/
 https://stream.rcs.revma.com/53zabb43ehuvv
 #EXTINF:0,Nostalgie NL - Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3
-#EXTINF:0,Nostalgie Les plus grands Slows
-https://scdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3?origine=radio.net
+#EXTINF:0,NOSTALGIE LES PLUS GRANDS SLOWS
+https://scdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Slows
 #EXTINF:0,Nova Classic Rock
 http://server-51.stream-server.nl:8427
 #EXTINF:0,Rádio Nova São Paulo FM
@@ -892,7 +896,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ ROMANTIC
 https://scdn.nrjaudio.fm/adwz1/fr/30191/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ SENTIMENTAL
-https://scdn.nrjaudio.fm/adwz1/fr/31277/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31277/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Sentimental
 #EXTINF:0,Radio Nueva Bahía FM
 https://server.ohradio.com.ar/8294/stream
 #EXTINF:0,Number1 Türk Slow
@@ -923,6 +927,8 @@ https://webradio0010.ice.infomaniak.ch/webradio0010-128.mp3
 https://stream.laut.fm/only-romantic-radio?ref=radiode
 #EXTINF:0,ON Relax
 https://0n-relax.radionetz.de/0n-relax.mp3
+#EXTINF:0,ON TUNE RADIO
+https://radio.streamingcpanel.com:7003/stream/1/
 #EXTINF:0,OpenFM - 500 Rock Hits
 https://stream.open.fm/82
 #EXTINF:0,OpenFM - ALT Freszzz
@@ -973,8 +979,6 @@ http://stream4.nadaje.com:15476/radiobialystok
 https://sonic.portalfoxmix.cl:7128/stream/1/
 #EXTINF:0,Power 98 Love Songs
 https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
-#EXTINF:0,Power Türk Love
-http://powerlove.listenpowerapp.com/powerlove/mpeg/icecast.audio
 #EXTINF:0,Precious Radio Love
 https://preciousradio.net/proxy/love/stream
 #EXTINF:0,Pro-Radio 1
@@ -1067,6 +1071,8 @@ https://streaming.livebroadcast.biz/radio/8010/classica
 http://streaming01.hstbr.net:8206/live
 #EXTINF:0,Rádio Clube FM - Brasília 105.5
 https://8157.brasilstream.com.br/stream
+#EXTINF:0,Radio Conexion 80
+https://streamming.dobitsoluciones.com:7012/live
 #EXTINF:0,Radio Coqueta FM
 https://cloudstream2032.conectarhosting.com/8214/
 #EXTINF:0,Radio Coração Sertanejo
@@ -1231,8 +1237,6 @@ http://stream.lokalradio.nrw/444zwn6
 https://stream.saw-musikwelt.de/saw-rock-balladen/mp3-192/stream.mp3
 #EXTINF:0,Radio Siegen - Dein Love Radio
 http://stream.lokalradio.nrw/444zxhp
-#EXTINF:0,Radio Siglos
-http://51.255.123.116:10367/;stream.nsv
 #EXTINF:0,Radio Soft
 https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3
 #EXTINF:0,Radio Sol FM 104.9
@@ -1467,8 +1471,6 @@ https://stream.spreeradio.de/soft/mp3-128/radioDE/
 https://stream.starfm.de/ballads/mp3-192/radiode
 #EXTINF:0,Stereo Beso
 http://stream-42.zeno.fm/t5e82fb0vneuv?zs=8PErFurCTq2VE3qsHX4iKA
-#EXTINF:0,Stereo Colón Radio
-https://sh4.radioonlinehd.com:8516/stream
 #EXTINF:0,Stereo Cristal 101.1 FM
 https://stream9.mexiserver.com/8274/;
 #EXTINF:0,Stereo Latina

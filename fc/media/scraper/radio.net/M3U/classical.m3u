@@ -1632,7 +1632,7 @@ https://stream-61.zeno.fm/bv8v9akqbxquv
 #EXTINF:0,Precious Radio Dream
 https://preciousradio.net/proxy/dream/stream
 #EXTINF:0,Dwójka - Polskie Radio Program 2 
-http://stream3.polskieradio.pl:8902/;
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,Positively Classical
 https://streaming.positivity.radio/pr/posiclassical/icecast.audio
 #EXTINF:0,Positively Sleep Classical
@@ -1682,7 +1682,7 @@ http://131.0.136.54:7620/test.mp3/
 #EXTINF:0,Radio Cagnac
 http://2stream.dyndns.org:8000/cagnac_sd.mp3
 #EXTINF:0,Radio Chopin
-http://stream3.polskieradio.pl:8960/;mp3
+https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
 #EXTINF:0,Radio Clasic
 http://37.251.146.169:8000/stream/1/
 #EXTINF:0,Radio Clásica
@@ -2109,6 +2109,8 @@ https://wpln.streamguys1.com/wfclfm.mp3
 https://purdue.streamguys1.com/wbaa-news
 #EXTINF:0,Boston's Best Radio
 https://node-10.zeno.fm/fwp237yypfhvv?zs=S_9kLd8_QrWtdAFVrvTEyQ&rj-tok=AAABgT1-qLMAF3HIUVdJxZr3qg&rj-ttl=5
+#EXTINF:0,WBEK
+https://stream.wbez.org/wbez64-web.aac
 #EXTINF:0,WBJC - 91.5 FM
 http://wbjc-ice.streamguys1.com:80/live
 #EXTINF:0,WBLU Blue Lake Public Radio WBLV

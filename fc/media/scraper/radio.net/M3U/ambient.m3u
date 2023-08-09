@@ -193,6 +193,8 @@ https://streaming05.liveboxstream.uk/proxy/earknow1?mp=/stream
 https://live.radioart.com/fDidgeridoo.mp3
 #EXTINF:0,Radio Dimensione Relax
 https://jenny.torontocast.com:2000/stream/dimensionerelax
+#EXTINF:0,Se détendre, se relaxer, s'endormir avec Radio Dimensione Relax
+http://jenny.torontocast.com:8012/stream
 #EXTINF:0,Discovery 2 Radio
 https://s9.webradio-hosting.com/proxy/coneror2/stream
 #EXTINF:0,Intergalactic FM 4 - The Dream Machine
@@ -647,8 +649,6 @@ https://streaming.positivity.radio/pr/uplifting/icecast.audio
 https://streaming.positivity.radio/pr/posivibe/icecast.audio
 #EXTINF:0,Positively Zen
 https://streaming.positivity.radio/pr/zen/icecast.audio
-#EXTINF:0,Psychedelik.com - AmbientByYuman
-http://62.210.114.63:8002/stream/1/
 #EXTINF:0,Psyndora Chillout
 https://cast.magicstreams.gr/sc/psychill/stream
 #EXTINF:0,Psyradio - Chillout
@@ -835,5 +835,3 @@ https://wlanmusic.net/stream.mp3
 https://strw1.openstream.co/870?
 #EXTINF:0,Zero Beat Zone (MRG.fm)
 http://listen.mrg.fm:2199/tunein/zerobeat_zone.pls
-#EXTINF:0,ZOOradio 
-https://www.zoofine.com:8000/radio
