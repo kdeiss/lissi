@@ -57,8 +57,6 @@ http://c01.lexycast.de:4080/istream/1/stream/1/
 http://stream2-alfacast-hosting.com:8088/stream/1/
 #EXTINF:0,Downtown Island Radio Club
 http://92.222.193.229:8075/stream/1/
-#EXTINF:0,Dream Dance Radio
-http://212.224.89.183:8050
 #EXTINF:0,Erzgebirger Musik Express 
 https://hermes.bcs-systems.de/radio-erzgebirge_simulcast_192k_mp3
 #EXTINF:0,100% Discofox von Feierfreund
@@ -192,7 +190,7 @@ https://stream.laut.fm/hitradio-schlagerwelle?ref=radiode
 #EXTINF:0,hotradio4you
 https://stream.laut.fm/hotradio4you?ref=radiode
 #EXTINF:0,Ice Dance Radio
-https://stream.laut.fm/ice-dance-radio?ref=radiode
+https://streamserver3.m-hosting.eu:8035/stream
 #EXTINF:0,Kanalstadt-Radio-Datteln
 https://stream.laut.fm/kanalstadt-radio-datteln?ref=radiode
 #EXTINF:0,Radio Klangbild
@@ -377,8 +375,6 @@ https://s5.stream-webradiotechnik.de:10652/stream/1/
 https://radionr1.de:10000/live
 #EXTINF:0,Radiopalast
 https://s1.genx-stream.de:7002
-#EXTINF:0,Radio-RDB
-http://s2.zkm-stream.de:8000/;
 #EXTINF:0,Radio Salü Urlaubsradio
 http://internetradio.salue.de:8000/schlagerparty
 #EXTINF:0,radio SAW Schlagerparty
@@ -412,7 +408,7 @@ https://stream.laut.fm/schlagergarage?ref=radiode
 #EXTINF:0,SchlagerRadio.FM
 https://schlager-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,schlager traum
-https://s1.schlagertraum.net:8302/stream/1/
+https://schlagertraumradio.de/icecast_stream.pls
 #EXTINF:0,Radio-Shakerdance
 https://stream.radio-shakerdance.de:8002/listen1
 #EXTINF:0,Radio-Siebenbuergen Hauptstream

@@ -451,8 +451,6 @@ https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
 https://live.radioart.com/fCello_works.mp3
 #EXTINF:0,Cesky Rozhlas D-dur
 https://rozhlas.stream/ddur_high.aac
-#EXTINF:0,CFIM 92.7 FM
-http://stream02.ustream.ca:8000/cfim128.mp3
 #EXTINF:0,RadioArt: Chamber Works
 https://live.radioart.com/fChamber_works.mp3
 #EXTINF:0,CHANSONS ROUGES MOSAIK RADIO
@@ -1631,8 +1629,6 @@ https://stream.zeno.fm/0dfts8bred5tv
 https://stream-61.zeno.fm/bv8v9akqbxquv
 #EXTINF:0,Precious Radio Dream
 https://preciousradio.net/proxy/dream/stream
-#EXTINF:0,Dwójka - Polskie Radio Program 2 
-https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,Positively Classical
 https://streaming.positivity.radio/pr/posiclassical/icecast.audio
 #EXTINF:0,Positively Sleep Classical
@@ -1681,8 +1677,6 @@ https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
 http://131.0.136.54:7620/test.mp3/
 #EXTINF:0,Radio Cagnac
 http://2stream.dyndns.org:8000/cagnac_sd.mp3
-#EXTINF:0,Radio Chopin
-https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
 #EXTINF:0,Radio Clasic
 http://37.251.146.169:8000/stream/1/
 #EXTINF:0,Radio Clásica
@@ -2315,6 +2309,8 @@ http://wpr-ice.streamguys.net/wpr-music-96
 https://q2stream.wqxr.org/q2-web
 #EXTINF:0,Operavore
 https://opera-stream.wqxr.org/operavore-web
+#EXTINF:0,WRCJ
+https://proxy.tpa-01.stream101.com/proxy/wrcjfm/stream
 #EXTINF:0,WRR Classical 101.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRRFMAAC.aac
 #EXTINF:0,90.3 WRST-FM Oshkosh
@@ -2343,6 +2339,8 @@ https://streaming.floridaclassicalstation.fm/wsmr-web
 https://listen.radioking.com/radio/298441/stream/345004
 #EXTINF:0,WTJB Troy University Public Radio
 http://live.str3am.com:2380/troy1
+#EXTINF:0,WTJU-FM Classical
+https://streams.wtju.net/wtju-live.mp3
 #EXTINF:0,ten23dajams
 http://server2.fleetradionetwork.com:7250/index.html?sid=1
 #EXTINF:0,WUFT-HD2 Classical
