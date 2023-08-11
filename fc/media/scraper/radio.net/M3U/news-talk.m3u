@@ -219,6 +219,8 @@ http://45.169.236.3:8000/formula-mp3
 https://servidor20.brlogic.com:8250/live
 #EXTINF:0,FOX News
 https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc?
+#EXTINF:0,Fox Sports Abilene
+https://ice42.securenetsystems.net/KASN
 #EXTINF:0,FOX Sports Radio
 https://stream.revma.ihrhls.com/zc4732/hls.m3u8
 #EXTINF:0,France Culture
@@ -1363,8 +1365,6 @@ https://radios.solumedia.com/6198/stream
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62729d3b49e6534cacc80fdb/playlist.m3u8
 #EXTINF:0,La FQ
 https://s2.mexside.net/8056/stream
-#EXTINF:0,Lagoa Dourada
-https://live.paineldj.com.br/proxy/radiolagoasd?mp=%2Flive
 #EXTINF:0,Lagos Talks 91.3
 https://lagostalks-atunwadigital.streamguys1.com/lagostalks
 #EXTINF:0,La GS 104.7 FM
@@ -2067,8 +2067,6 @@ https://drive.uber.radio/uber/podiojoerogan/icecast.audio
 https://ice3.abradio.cz/pohadka128.mp3
 #EXTINF:0,Polskie Radio Olsztyn
 http://213.73.25.178:7055/listen.pls
-#EXTINF:0,Polskie Radio 24
-https://stream15.polskieradio.pl/pr24/pr24.sdp/chunklist_w211674803.m3u8
 #EXTINF:0,Radio Popolare
 https://livex.radiopopolare.it/radiopop2?FLID=7
 #EXTINF:0,POPWEEK
@@ -2647,6 +2645,8 @@ http://stm1.streaminghd.net.br:7314/stream/1/
 http://stm2.srvif.com:8348/stream
 #EXTINF:0,Radio Poitou
 https://streamingv2.shoutcast.com/RadioPoitou
+#EXTINF:0,Radio Poland
+https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
 #EXTINF:0,Rádio Ponte Nova 790 AM
 http://wz1.dnip.com.br:1935/pontenova/pontenova.stream/playlist.m3u8
 #EXTINF:0,Radio Popolare Milano
@@ -2919,136 +2919,28 @@ https://directe.ripolletradio.cat/live?mp3
 https://vps-6de10815.vps.ovh.ca:10990/stream
 #EXTINF:0,Radio Kuber Kontrei
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3560393_SC
-#EXTINF:0,RNE - Andalucía Informativos
-https://f141.rndfnk.com/star/crtve/rne1/and/mp3/128/ct/stream.mp3
 #EXTINF:0,RNE - Aragón Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18HSCA/mp3/5/3/1648451626735.mp3
 #EXTINF:0,RNE - Asturias Informativos 
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON02/mp3/5/7/1648447979375.mp3
-#EXTINF:0,RNE - Baleares Informativos
-https://d141.rndfnk.com/star/crtve/rne1/bal/mp3/128/ct/stream.mp3
-#EXTINF:0,RNE - Canarias Informativos 
-https://d141.rndfnk.com/star/crtve/rne1/cnr/mp3/128/ct/stream.mp3
 #EXTINF:0,RNE - Cantabria Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON03/mp3/3/0/1648459521803.mp3
 #EXTINF:0,RNE - Castilla-La Mancha Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18TLDO/mp3/2/9/1648452106792.mp3
 #EXTINF:0,RNE - Castilla y León Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18BRGS/mp3/3/4/1648452687743.mp3
-#EXTINF:0,RNE - Cataluña Informativos
-https://d111.rndfnk.com/star/crtve/rne1/cat/mp3/128/ct/stream.mp3
 #EXTINF:0,RNE - Ceuta Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON09/mp3/1/8/1648127695481.mp3
-#EXTINF:0,RNE - Extremadura Informativos
-https://f121.rndfnk.com/star/crtve/rne1/ext/mp3/128/ct/stream.mp3
 #EXTINF:0,RNE - Galicia Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18CRNA/mp3/9/3/1648451466239.mp3
-#EXTINF:0,RNE - La Rioja Informativos
-https://f131.rndfnk.com/star/crtve/rne1/rio/aac/64/ct/stream.aac
 #EXTINF:0,RNE - Madrid Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SINFMA/mp3/4/5/1648383734654.mp3
-#EXTINF:0,RNE - Melilla Informativos
-https://d131.rndfnk.com/star/crtve/rne5/mel/mp3/128/stream.mp3
 #EXTINF:0,RNE - Murcia Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON06/mp3/1/5/1648451486351.mp3
 #EXTINF:0,RNE - Navarra Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_SCRON07/mp3/6/4/1648451466246.mp3
 #EXTINF:0,RNE - País Vasco Informativos
 https://mediavod-lvlt.rtve.es/resources/TE_R18BLBA/mp3/8/3/1648451409238.mp3
-#EXTINF:0,Radio 5 A Coruña 
-https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Albacete
-https://d121.rndfnk.com/star/crtve/rne5/alb/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Almeria
-https://f121.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Ávila
-https://d111.rndfnk.com/star/crtve/rne5/avi/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Badajoz
-https://f121.rndfnk.com/star/crtve/rne5/mer/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Barcelona
-https://rtvehlslivestream.akamaized.net/hls/live/2097775/rne5/bcn/T1691046856/128/s24142064.aac
-#EXTINF:0,Radio 5 Bilbao
-https://d141.rndfnk.com/star/crtve/rne5/bil/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Burgos
-https://f121.rndfnk.com/star/crtve/rne5/bur/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Cáceres
-https://f141.rndfnk.com/star/crtve/rne5/cce/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Cádiz
-https://d121.rndfnk.com/star/crtve/rne5/cad/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Cartagena
-https://f141.rndfnk.com/star/crtve/rne5/crt/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Ciudad Real
-https://d121.rndfnk.com/star/crtve/rne5/cdr/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Córdoba
-https://f121.rndfnk.com/star/crtve/rne5/cor/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Cuenca
-https://f141.rndfnk.com/star/crtve/rne5/cue/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Gerona
-https://d111.rndfnk.com/star/crtve/rne5/ger/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Gijón
-https://d111.rndfnk.com/star/crtve/rne5/gij/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Granada
-https://d111.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Guadalajara
-https://d111.rndfnk.com/star/crtve/rne5/gua/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Huelva
-https://d121.rndfnk.com/star/crtve/rne5/onu/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Huesca
-https://d141.rndfnk.com/star/crtve/rne5/osc/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Jaén
-https://d141.rndfnk.com/star/crtve/rne5/jae/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Las palmas
-https://f141.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 León
-https://d111.rndfnk.com/star/crtve/rne5/leo/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Lérida
-https://d131.rndfnk.com/star/crtve/rne5/ler/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Lugo
-https://d111.rndfnk.com/star/crtve/rne5/lug/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Málaga
-https://f121.rndfnk.com/star/crtve/rne5/mal/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Mérida
-https://f131.rndfnk.com/star/crtve/rne5/mer/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Orense
-https://f141.rndfnk.com/star/crtve/rne5/ore/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Oviedo
-https://d131.rndfnk.com/star/crtve/rne5/ast/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Palencia
-https://f131.rndfnk.com/star/crtve/rne5/pal/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Ponferrada
-https://f131.rndfnk.com/star/crtve/rne5/pfr/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Pontevedra
-https://f121.rndfnk.com/star/crtve/rne5/ptv/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Salamanca
-https://f121.rndfnk.com/star/crtve/rne5/sal/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 San Sebastián
-https://f121.rndfnk.com/star/crtve/rne5/don/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Santiago
-https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Segovia
-https://f141.rndfnk.com/star/crtve/rne5/seg/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Sevilla
-https://f131.rndfnk.com/star/crtve/rne5/sev/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Soria
-https://f121.rndfnk.com/star/crtve/rne5/sor/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Tarragona
-https://d111.rndfnk.com/star/crtve/rne5/tar/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Tenerife
-https://f141.rndfnk.com/star/crtve/rne5/ten/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Teruel
-https://f141.rndfnk.com/star/crtve/rne5/ter/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Toledo
-https://f131.rndfnk.com/star/crtve/rne5/tol/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Valladolid
-https://d141.rndfnk.com/star/crtve/rne5/vll/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Victoria
-https://f141.rndfnk.com/star/crtve/rne5/vit/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Vigo
-https://f131.rndfnk.com/star/crtve/rne5/vig/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Zamora
-https://d141.rndfnk.com/star/crtve/rne5/zam/mp3/128/stream.mp3
-#EXTINF:0,Radio 5 Zaragoza
-https://f131.rndfnk.com/star/crtve/rne5/zgz/mp3/128/stream.mp3
 #EXTINF:0,RNT Radio Tchad
 https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio
 #EXTINF:0,American Comedy
@@ -3331,6 +3223,8 @@ https://s5.radio.co/s760caf20b/listen
 https://liveradio.swr.de/rddez3a/swraktuell/
 #EXTINF:0,Tactacめ
 https://node-14.zeno.fm/692dbdr067zuv
+#EXTINF:0,Take it : Ta web radio
+http://s31.myradiostream.com:4196/stream/1/
 #EXTINF:0,Talk 106.7
 https://live.wostreaming.net/manifest/townsquare-kkwnfmaac-hlsc3.m3u8
 #EXTINF:0,Talk 94.5 / WTKN
