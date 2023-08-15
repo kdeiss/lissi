@@ -45,6 +45,8 @@ https://samcloud.spacial.com/api/listen?sid=122917&amp;rid=265708&amp;f=mp3,any&
 https://radio25.virtualtronics.com/proxy/activafm?mp=%2Fstream
 #EXTINF:0,Activa Hits
 https://sonic.mediatelekom.net/8160/stream
+#EXTINF:0,Activa Online
+https://stream-44.zeno.fm/v6ay1m67gwzuv?zs=u3dyTTOTQayftgvhdwmcRg
 #EXTINF:0,Activa Radio
 https://ssl.painelcast.com:6776/stream/1/
 #EXTINF:0,Activate FM
@@ -332,7 +334,7 @@ http://185.23.192.118:8012/;
 #EXTINF:0,Charanga Latina
 https://sonic.portalfoxmix.club/8046/stream
 #EXTINF:0,CHERIE LATINO
-https://scdn.nrjaudio.fm/adwz1/fr/30247/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30247/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-LATINO
 #EXTINF:0,Cherry80
 https://icecast.beatzone.cz/radio/8630/cherry.mp3
 #EXTINF:0,Radio Chiloe 1030 AM
@@ -423,6 +425,8 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
+#EXTINF:0,costaradio
+http://109.169.76.104:23614/stream
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,C-Oye 89.1 FM Insuperable
@@ -723,8 +727,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRA.mp3
 #EXTINF:0,Exa FM Mexicali
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM.mp3
-#EXTINF:0,Exa FM Monterrey
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFM.mp3
 #EXTINF:0,Exa FM Morelia 89.3
 http://192.187.112.50:8039/stream/1/
 #EXTINF:0,Exa FM Nogales
@@ -1285,14 +1287,10 @@ http://stream.abacast.net/direct/univision-kljafmaac-ibc1
 https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3
 #EXTINF:0,La Kalidosa
 https://radio35.virtualtronics.com/proxy/lakalidosa?mp=%2Fstream
-#EXTINF:0,La Kalle 96.1 FM
-http://167.114.118.120:7448/;
 #EXTINF:0,La Kalle 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE.mp3
 #EXTINF:0,La Kantina Online
 http://163.172.198.16:8417/stream/1/
-#EXTINF:0,La Karibeña
-http://167.114.118.120:7442/listen.pls
 #EXTINF:0,La Konzentida Grupera
 https://stream.zeno.fm/r5ub1mdhpnruv
 #EXTINF:0,La Kura Fm
@@ -1793,14 +1791,14 @@ https://eu1.lhdserver.es:9167/stream
 http://94.23.159.187:9994/stream/1/
 #EXTINF:0,MegaMezclas
 https://sonic-us.streaming-chile.com/9998/;
+#EXTINF:0,Mega Romantica
+http://fasserver.dyndns.org:8002/stream
 #EXTINF:0,Rádio Meio Norte 99.9 FM
 https://webradio.amsolution.com.br/radio/8280/meionorte
 #EXTINF:0,La Mejor Colima
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRO.mp3
 #EXTINF:0,Melodia FM
 http://51.255.123.116:10307/stream/1/
-#EXTINF:0,Melodia Stereo 730 AM
-https://i40.letio.com/7000.aac
 #EXTINF:0,RÁDIO METROPOLITANA PORTO 
 https://stream.zeno.fm/merfn44vwd0uv
 #EXTINF:0,Metro Radio
@@ -1974,13 +1972,13 @@ https://stream.zeno.fm/w3zdg28b6zhvv
 #EXTINF:0,npmradio
 https://stream.zeno.fm/f7hbnx9f5a0uv
 #EXTINF:0,NRJ FIESTA
-https://scdn.nrjaudio.fm/adwz1/fr/31247/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31247/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Fiesta
 #EXTINF:0,NRJ FIESTA LATINA
-https://scdn.nrjaudio.fm/adwz1/fr/55210/mp3_128.mp3?origine=radio.net
-#EXTINF:0,NRJ Latino
-https://scdn.nrjaudio.fm/adwz1/fr/30077/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/55210/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Fiesta-Latina
+#EXTINF:0,NRJ LATINO
+https://scdn.nrjaudio.fm/adwz1/fr/30077/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Latino
 #EXTINF:0,NRJ LATINO HITS
-https://scdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Latino-Hits
 #EXTINF:0,Radio Nueva Bahía FM
 https://server.ohradio.com.ar/8294/stream
 #EXTINF:0,Radio Nueva Q FM
@@ -2041,8 +2039,6 @@ https://sv2.globalhostlive.com/proxy/pacifico/stream
 https://stream.zeno.fm/hfqaq0bhfg8uv
 #EXTINF:0,PALACIO VALLENATO
 https://play8.tikast.com/proxy/lucas?mp=/stream
-#EXTINF:0,Palenke Radio
-https://fra-ranger01.dedicateware.com:8054/stream
 #EXTINF:0,Radio Paloma 97.5 FM
 https://sonic.streamingchilenos.com/8018/stream
 #EXTINF:0,Palpitar Stereo
@@ -2987,8 +2983,6 @@ https://server.radiogs.org/8074/stream
 https://audiostreaming.luz.network/stream/13/;?nocache=18685&type=http
 #EXTINF:0,Stereo Uno 94.1 FM
 https://audiostreaming.luz.network/stream/7/;?nocache=18681&type=http
-#EXTINF:0,Stream Radio
-https://streamradio.ddns.net/listen/stream_radio/radio.mp3
 #EXTINF:0,Studio 21 Tejano
 http://91.121.121.25:8136/stream/1/
 #EXTINF:0,Styrialounge
@@ -3221,6 +3215,8 @@ https://stream.zeno.fm/p9wm4gp5enruv
 https://sv2.globalhostlive.com/proxy/tuner/stream
 #EXTINF:0,Tu Nuevo El Sol Radio Latino
 https://servidor15.brlogic.com:7574/live
+#EXTINF:0,TuRadioLatina.com
+http://streamingned.com:7080/stream
 #EXTINF:0,Tu Radio Los Montones Abajo
 http://stream.zeno.fm/r4tk2hfksfhvv
 #EXTINF:0,TU Radio UT
@@ -3339,8 +3335,6 @@ https://samcloud.spacial.com/api/listen?sid=114762&amp;rid=196863&amp;f=mp3,any&
 http://146.71.118.220:35044/stream
 #EXTINF:0,WAMR 107,5 Amor
 https://live.wostreaming.net/direct/univision-wamrfmaac-imc1
-#EXTINF:0,WAUN-FM - La Más Grande 92.7 FM
-https://prod-54-82-205-117.wostreaming.net/magnumbroadcasting-waunfmaac-ibc1?
 #EXTINF:0,WAYE 1220 AM - La Jefa
 https://1.ice1.sslstream.com/waye_fm.mp3
 #EXTINF:0,WBVL-LP Latino 99.7 FM

@@ -163,14 +163,8 @@ http://usa14.fastcast4u.com:5252/;
 https://stream.zeno.fm/4d2et4w314zuv
 #EXTINF:0,Baladas del Recuerdo
 https://stream.zeno.fm/g7vk70rqr68uv
-#EXTINF:0,Baladas Pop Retro 
-https://media.streamingradiomx.com/listen/baladas_pop_retro/radio.mp3
 #EXTINF:0,Baladas Radio
 https://stream.zeno.fm/2px5afm1ra0uv
-#EXTINF:0,Baladas Románticas Radio
-https://media.streamingradiomx.com/listen/baladas_románticas_radio/radio.mp3
-#EXTINF:0,Radio Baladas Viejitas Románticas
-https://media.streamingradiomx.com/listen/radio_baladas_viejitas_rom%C3%A0nticas/radio.mp3
 #EXTINF:0,Bandit Ballads
 https://wr21-ice.stream.khz.se/wr21_mp3
 #EXTINF:0,& KnickKnack. Von barba radio
@@ -262,7 +256,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 #EXTINF:0,Chérie plus belle musique
 https://scdn.nrjaudio.fm/adwz1/fr/56237/mp3_128.mp3?origine=radio.net
 #EXTINF:0,CHERIE POP
-https://scdn.nrjaudio.fm/adwz1/fr/30227/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30227/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-POP
 #EXTINF:0,CHERIE ROMANTIC
 https://scdn.nrjaudio.fm/adwz1/fr/30287/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-ROMANTIC
 #EXTINF:0,CHIQUIMULA91COM
@@ -457,8 +451,6 @@ https://pureplay.cdnstream1.com/6010_128.mp3
 https://pureplay.cdnstream1.com/6035_64.aac/playlist.m3u8
 #EXTINF:0,GrooveWave Soul
 http://stm1.srvif.com:7584/stream/1/
-#EXTINF:0,Grupera 96.7
-https://media.streamingradiomx.com/listen/radiofm/fm
 #EXTINF:0,Guavio Estéreo
 https://radiohd.streaminghd.co:7029/stream
 #EXTINF:0,Heartbeat FM
@@ -717,6 +709,8 @@ https://stream.lokalradio.nrw/444zwfx
 http://stream.zeno.fm/du4ncbpqnchvv
 #EXTINF:0,Llanerita Estéreo
 https://stream.zeno.fm/51tqfi069katv
+#EXTINF:0,Locaza fm
+https://sonicpanel.tmcreativos.com/8056/stream
 #EXTINF:0,Lolliradio Soft
 https://stream.lolliradio.net/lolli_soft.mp3?FLID=7
 #EXTINF:0,Los latidos del corazon
@@ -809,6 +803,8 @@ https://stream20.usastreams.com/8004/stream
 https://radiolatina.info:10948/stream/1/
 #EXTINF:0,Mega Rádio Romântica
 https://stream.zeno.fm/sfxf6d5u3gruv
+#EXTINF:0,Mega Romantica
+http://fasserver.dyndns.org:8002/stream
 #EXTINF:0,Radio Mela
 https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream
 #EXTINF:0,Melodia 60
@@ -892,9 +888,9 @@ http://server-51.stream-server.nl:8427
 #EXTINF:0,Rádio Nova São Paulo FM
 https://stream.zeno.fm/2spkyxtr0wzuv
 #EXTINF:0,NRJ LOVE
-https://scdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Love
 #EXTINF:0,NRJ ROMANTIC
-https://scdn.nrjaudio.fm/adwz1/fr/30191/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30191/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Romantic
 #EXTINF:0,NRJ SENTIMENTAL
 https://scdn.nrjaudio.fm/adwz1/fr/31277/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Sentimental
 #EXTINF:0,Radio Nueva Bahía FM
@@ -1025,10 +1021,6 @@ https://node-19.zeno.fm/1n6wvg15bzzuv?zs=wd15sXFcR3-C6PNMcf0tkw&rj-ttl=3&rj-tok=
 https://player.streamproarte.com.br/proxy/7352/stream
 #EXTINF:0,RadioAvatarFm
 https://stream.zeno.fm/mppgars39nhvv
-#EXTINF:0,Radio Baladas - Viejitas pero bonitas
-https://media.streamingradiomx.com/radio/8050/radio.mp3
-#EXTINF:0,Radio Baladas Viejitas Bonitas
-https://media.streamingradiomx.com/listen/radio_baladas_viejitas_bonitas/radio.mp3
 #EXTINF:0,Radio Benavides
 https://stream.zeno.fm/1obzlddyytbvv
 #EXTINF:0,Radio Berg - Dein Love Radio
@@ -1237,6 +1229,8 @@ http://stream.lokalradio.nrw/444zwn6
 https://stream.saw-musikwelt.de/saw-rock-balladen/mp3-192/stream.mp3
 #EXTINF:0,Radio Siegen - Dein Love Radio
 http://stream.lokalradio.nrw/444zxhp
+#EXTINF:0,Radio Siglos
+http://51.255.123.116:10367/;stream.nsv
 #EXTINF:0,Radio Soft
 https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3
 #EXTINF:0,Radio Sol FM 104.9

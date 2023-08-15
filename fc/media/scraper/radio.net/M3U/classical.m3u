@@ -153,6 +153,10 @@ https://live.radioart.com/fBallet_music.mp3
 https://live.radioart.com/fBaroque.mp3
 #EXTINF:0,Bartok Radio
 http://mr-stream.mediaconnect.hu/4739/mr3.aac
+#EXTINF:0,Batuta Radio
+http://51.15.160.78:8192/stream/1/
+#EXTINF:0,Batuta Radio
+http://51.15.160.78:8192/streaming
 #EXTINF:0,Bayrak Klasik
 http://sc.brtk.net:8006/stream/1/
 #EXTINF:0,Bayraktar Radyo
@@ -771,8 +775,6 @@ https://dbc.ice.infomaniak.ch/dbc-96.mp3
 https://stream.laut.fm/deepsunbeachfunk?ref=radiode
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,Diego Primavera Radio
 https://stream.zeno.fm/c1fa6x66vhruv
 #EXTINF:0,Diferente104 FM
@@ -906,7 +908,7 @@ https://direct.fipradio.fr/live/fipnantes-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,FIP Strasbourg
 https://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,neoFM
-https://streams.fluxfm.de/neofm/mp3-320/radiode/play.m3u
+https://streams.fluxfm.de/neofm/mp3-320/radiode/
 #EXTINF:0,きみのFM88ラジオ局
 http://std1.ladio.net:8010/kimino88
 #EXTINF:0,Fortress Radio
@@ -1009,8 +1011,6 @@ https://stream.zeno.fm/crrvmrsmug0uv
 https://streaming.radio.co/sdf2a51a1c/listen
 #EXTINF:0,Indómita Classics
 https://sonic.sistemahost.es:7046/;
-#EXTINF:0,Instrumentales de Oro Radio
-https://media.streamingradiomx.com/listen/instrumentales_de_oro_radio/radio.mp3
 #EXTINF:0,Instrumentals Forever
 https://quincy.torontocast.com:1925/stream
 #EXTINF:0,Iowa Public Radio Classical
@@ -1481,8 +1481,6 @@ http://onair22.streaming.xdevel.com:7598/;
 https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDR KULTUR
 https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/aac/high/stream.aac?aggregator=radio-de
-#EXTINF:0,Rádio MEC 99.3 FM
-https://radio2.lflr.com.br/ebc-live/radio-mec-fm/playlist.m3u8
 #EXTINF:0,Mechanical Music Radio
 http://198.27.66.225:8978/stream
 #EXTINF:0,Med1 Radio - Classique
@@ -1600,7 +1598,7 @@ https://astro4.rastream.com/opus
 #EXTINF:0,RadioArt: Orchestral
 https://live.radioart.com/fOrchestral.mp3
 #EXTINF:0,Organlive
-https://www.organlive.com/organlive_320eu.m3u
+https://www.organlive.com/organlive_128.m3u
 #EXTINF:0,Organ Magic
 https://listen.57fm.com/omagic
 #EXTINF:0,RadioArt: Organ
@@ -1631,6 +1629,8 @@ https://stream.zeno.fm/0dfts8bred5tv
 https://stream-61.zeno.fm/bv8v9akqbxquv
 #EXTINF:0,Precious Radio Dream
 https://preciousradio.net/proxy/dream/stream
+#EXTINF:0,Dwójka - Polskie Radio Program 2 
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,Positively Classical
 https://streaming.positivity.radio/pr/posiclassical/icecast.audio
 #EXTINF:0,Positively Sleep Classical
@@ -1986,7 +1986,7 @@ http://wshu.streamguys.org:80/wshu-baroque
 #EXTINF:0,Super Relax FM
 https://streams.radio.menu/listen/super-relax-fm/radio.mp3
 #EXTINF:0,P2
-https://sverigesradio.se/topsy/direkt/163-hi-mp3.pls
+https://sverigesradio.se/topsy/direkt/163-lo-aac.pls
 #EXTINF:0,P2 Klassisk Jul
 https://http-live.sr.se/srextra11-mp3-192
 #EXTINF:0,P2 Klassiskt
@@ -2118,7 +2118,7 @@ https://wblv.streamguys1.com/live
 #EXTINF:0,WBOM Streaming Radio 
 https://quincy.torontocast.com:1225/stream
 #EXTINF:0,WBUX 90.5 FM - WCPE
-http://audio-mp3.ibiblio.org:8000/wcpe.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3
 #EXTINF:0,WCJS Radio
 http://us5.internet-radio.com:8201/stream/1/
 #EXTINF:0,WCLV 104.9 FM

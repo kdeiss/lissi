@@ -366,9 +366,9 @@ http://stream02.ustream.ca:8000/cfim128.mp3
 #EXTINF:0,CHANSONS ROUGES MOSAIK RADIO
 https://sv6.vestaradio.com/CHANSONSROUGESMOSAIKRADIO
 #EXTINF:0,CHERIE JAZZY
-https://scdn.nrjaudio.fm/adwz1/fr/30241/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30241/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-JAZZY
 #EXTINF:0,CHERIE ZEN
-https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-ZEN
 #EXTINF:0,Chez Watt
 http://37.187.77.45:9090/stream
 #EXTINF:0,Radio Chicureo
@@ -539,8 +539,6 @@ https://audiostreams.deluxemusic.tv/easy/mp3-128/website
 http://streaming1.locucionar.com:14747/stream
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,dicjazz
 https://stream.zeno.fm/mtes551d308uv
 #EXTINF:0,Digi Radio New York
@@ -866,7 +864,7 @@ https://stream.zeno.fm/6refydksdrruv
 #EXTINF:0,Invencible Radio
 http://node-35.zeno.fm/f7mhrb76rchvv?zs=yI4A80YoTO6Z6Kqfeh25UA&rj-tok=AAABgT1-cxsA4I6JVSNnNlE6mA&rj-ttl=5
 #EXTINF:0,iSPY Radio
-https://listen.radionomy.com/ispyradio.m3u
+http://streaming.radionomy.com/ispyradio
 #EXTINF:0,Is That Jazz Radio
 https://streams.radio.co/s6c38081af/listen
 #EXTINF:0,iTÜ radyosu Jazz-Blues
@@ -1715,8 +1713,8 @@ https://streams.norawebstreams.de/nora-live/mp3-128/radiode/
 https://cast1.torontocast.com:1635/stream
 #EXTINF:0,Nostalgie Jazz
 https://stream.rcs.revma.com/5t0ewz43ehuvv
-#EXTINF:0,Nostalgie Jazz
-https://scdn.nrjaudio.fm/adwz1/fr/30641/mp3_128.mp3?origine=radio.net
+#EXTINF:0,NOSTALGIE JAZZ
+https://scdn.nrjaudio.fm/adwz1/fr/30641/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Jazz
 #EXTINF:0,Rádio Nova 98.9 FM
 http://centova.radios.pt:9528/stream/1/
 #EXTINF:0,NPO Soul & Jazz
@@ -1813,6 +1811,8 @@ https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
 http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/mpeg/icecast.audio
 #EXTINF:0,Precious Radio Mood
 https://preciousradio.net/proxy/mood/stream
+#EXTINF:0,Dwójka - Polskie Radio Program 2 
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,Projet XY
 https://flux.saaslys.com/radio/8010/radio.mp3
 #EXTINF:0,Pro-Radio 1
@@ -2219,8 +2219,6 @@ https://vip2.fastcast4u.com/proxy/smoothwavehd?mp=%2F1
 https://smoothjazz.cdnstream1.com/2586_128.mp3
 #EXTINF:0,Smooth Motion FM
 https://vm.motionfm.com/motiontwo_aacp
-#EXTINF:0,Smooth Radio 100.3
-http://192.99.41.102:5016/stream
 #EXTINF:0,smooth radio 100.4
 https://media-the.musicradio.com/SmoothUK
 #EXTINF:0,So Jazzy Radio

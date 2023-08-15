@@ -109,8 +109,6 @@ https://s3.radio.co/s0ee714232/listen
 https://streaming.live365.com/a98661
 #EXTINF:0,KOWN 95.7 FM The Boss
 https://ice41.securenetsystems.net/KOWNLP
-#EXTINF:0,97.6 The Temp
-https://usa4.fastcast4u.com/proxy/dogsday10?mp=/1
 #EXTINF:0,97.7 The Surge
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,97.9 The Beat
@@ -383,8 +381,6 @@ http://cassini.shoutca.st:8855/stream/1/
 http://patmos.cdnstream.com:9599/1?aw_0_req.gdpr=false&cb=568901.mp3
 #EXTINF:0,Capital XTRA Reloaded
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
-#EXTINF:0,Cap Ouest Urban
-https://naradiourbain.ice.infomaniak.ch/naradiourbain-192.mp3
 #EXTINF:0,Radio Caprice - Abstract Hip-Hop
 http://79.111.14.76:8000/abstracthiphop
 #EXTINF:0,Radio Caprice - Hip-Hop
@@ -521,8 +517,6 @@ https://ais-edge102-live365-dal02.cdnstream.com/a03573
 https://streaming.live365.com/a46210
 #EXTINF:0,Deviant Behavior Radio
 https://s5.radio.co/sa1e68ef03/listen
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,DIGGA.FM - Deutschrap. 24 Stunden. Täglich
 https://icepool.silvacast.com/DIGGAFM.mp3
 #EXTINF:0,DilemaRadio - Hiphop Rap & Trap Music
@@ -622,7 +616,7 @@ https://edge.mixlr.com/channel/qzxij
 #EXTINF:0,FIP autour du groove
 https://direct.fipradio.fr/live/fip-webradio3.mp3?ID=pd569ib97j
 #EXTINF:0,WPOD 106.3 First Up Radio
-https://a1.asurahosting.com/hls/first_up_radio_106.3_wpod/live.m3u8
+https://a1.asurahosting.com:8770/radio.mp3
 #EXTINF:0,FISHBONE RADIO
 https://icepool.silvacast.com/DEFJAY.mp3
 #EXTINF:0,Flava
@@ -839,8 +833,6 @@ https://streaming.live365.com/a66044
 https://live.powerhitz.com/hot108?aw_0_req.gdpr=true
 #EXTINF:0,Hot 21 Radio
 https://usa18.fastcast4u.com/proxy/cbardzin?mp=/1
-#EXTINF:0,Hot 92.3 FM
-https://s5.radio.co/se940ac6fd/listen
 #EXTINF:0,Hot 92.5 The heat
 https://listen.radioking.com/radio/283255/stream/337267
 #EXTINF:0,HOT 93.3
@@ -875,6 +867,8 @@ https://streaming.radio.co/s735df8c1c/listen
 https://s3.radio.co/s307fd01d6/listen
 #EXTINF:0,ILLADELPHIA RADIO
 http://edge2-a.exa.live365.net/a92856
+#EXTINF:0,iLLANOiZE Radio
+https://streamer.radio.co/s89c643931/listen
 #EXTINF:0,I LOVE DEUTSCHRAP BESTE
 https://streams.ilovemusic.de/iloveradio6.mp3
 #EXTINF:0,I LOVE DEUTSCHRAP FIRST!
@@ -1211,7 +1205,7 @@ https://stream.laut.fm/dead_or_allive?ref=radiode
 https://stream.laut.fm/deadradio?ref=radiode
 #EXTINF:0,Deffusion
 https://stream.laut.fm/deffusion?ref=radiode
-#EXTINF:0,Dengê Med
+#EXTINF:0,Radyo Dengê MED
 https://stream.laut.fm/dengemed?ref=radiode
 #EXTINF:0,Der Rapsender
 https://stream.laut.fm/derrapsender?ref=radiode
@@ -1812,9 +1806,9 @@ https://icecast.omroep.nl/funx-bb-mp3
 #EXTINF:0,NRG HipHop
 http://live.nrgplay.com/stream/hiphop
 #EXTINF:0,NRJ HIP HOP RNB HITS
-https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Hip-Hop-Rnb-Hits
 #EXTINF:0,NRJ RAP FR
-https://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Rap-FR
 #EXTINF:0,NSD Radio
 https://www.radioking.com/play/nsd-radio
 #EXTINF:0,Old Flame Radio
@@ -2434,7 +2428,7 @@ https://stream.zeno.fm/4uvhk732g9duv
 #EXTINF:0,P3 Din Gata
 https://sverigesradio.se/topsy/direkt/2576-hi-aac.pls
 #EXTINF:0,P3
-https://sverigesradio.se/topsy/direkt/164-hi-mp3.pls
+https://sverigesradio.se/topsy/direkt/164-lo-aac.pls
 #EXTINF:0,Sveriges Radio P3 Din gata
 https://http-live.sr.se/dingata-mp3-128
 #EXTINF:0,SWEET RADIO SENEGAL
@@ -2821,8 +2815,6 @@ https://xclusive-mochaala.radioca.st/stream
 https://s40.myradiostream.com/22546/listen.mp3
 #EXTINF:0,XtazzBeat
 https://listen.radionomy.com/xtazzbeat1.m3u
-#EXTINF:0,YAKALA FM 
-https://yakalafm.ice.infomaniak.ch/yakalafm-128.mp3
 #EXTINF:0,YNG RADIO Sound of The City
 https://stream.zeno.fm/omvjdz80zznvv
 #EXTINF:0,Young Radio

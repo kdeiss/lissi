@@ -93,8 +93,6 @@ https://listen.radioking.com/radio/121066/stream/162115
 https://listen.openstream.co/5916/audio
 #EXTINF:0,Radio Air TOUCH
 http://c8.radioboss.fm:8133/radioairtouch
-#EXTINF:0,Akasha RadioTV
-https://kathy.torontocast.com:3190/stream
 #EXTINF:0,Algorythme Lounge
 https://radio8.pro-fhi.net/live/AlgorythmeLounge
 #EXTINF:0,Allegro Radio
@@ -284,9 +282,9 @@ https://live.stream.charivari.de/955charivari-lounge?aggregator=radio.de
 #EXTINF:0,charivari Relax
 https://frontend.streamonkey.net/charivaristream-relax?aggregator=radiode
 #EXTINF:0,CHERIE SWEET HOME
-https://scdn.nrjaudio.fm/adwz1/fr/30289/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30289/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-SWEET-HOME
 #EXTINF:0,CHERIE ZEN
-https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-ZEN
 #EXTINF:0,chillectro
 https://listen.radionomy.com/chillectro
 #EXTINF:0,Chill House Musik
@@ -434,7 +432,7 @@ https://a1.asurahosting.com:8920/radio.mp3
 #EXTINF:0,Dezigne Live
 https://drspinosa.radioca.st/stream/1/
 #EXTINF:0,DFM Chill-out
-https://dfm-spoknochi.hostingradio.ru/spoknochi96.aacp
+https://dfm.hostingradio.ru/dfm96.aacp
 #EXTINF:0,Radio Dimensione Relax
 https://jenny.torontocast.com:2000/stream/dimensionerelax
 #EXTINF:0,Se détendre, se relaxer, s'endormir avec Radio Dimensione Relax
@@ -596,7 +594,7 @@ https://streams.fluxfm.de/jazzschwarz/mp3-128/radiode/
 #EXTINF:0,FluxLounge
 https://streams.fluxfm.de/lounge/mp3-320/radiode/
 #EXTINF:0,neoFM
-https://streams.fluxfm.de/neofm/mp3-320/radiode/play.m3u
+https://streams.fluxfm.de/neofm/mp3-320/radiode/
 #EXTINF:0,Yoga Sounds
 https://fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162
 #EXTINF:0,FM104
@@ -605,6 +603,8 @@ https://wg.cdn.tibus.net/fm104MP3128
 https://www.radioking.com/api/radio/francophonie-express.m3u
 #EXTINF:0,Free Yuor Mind
 https://stream.zeno.fm/n71uxcyc5p8uv
+#EXTINF:0,Fréquence Terre
+http://frequenceterre.freeboxos.fr:443/frequenceterre
 #EXTINF:0,Fresh Fm Radio London
 https://eu4.fastcast4u.com/proxy/blacka?mp=/1
 #EXTINF:0,Frisky Radio CHILL
@@ -1172,7 +1172,7 @@ http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Massive Chilled
 https://stream.jtsmedia.uk/radio/8060/massivechilled
 #EXTINF:0,M.Deep Radio
-http://mdeep.ru:8000/live_aac
+https://deephousex.ru///live
 #EXTINF:0,RadioArt: Meditation
 https://live.radioart.com/fMeditation.mp3
 #EXTINF:0,Melodies Web Radio
@@ -1242,13 +1242,13 @@ http://radio.streemlion.com:1160/stream/1/
 #EXTINF:0,North Shore Music FM
 https://server35795.streamplus.de/stream.mp3
 #EXTINF:0,NRJ CHILL
-https://scdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Chill
 #EXTINF:0,NRJ DEEP
-https://scdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Deep
 #EXTINF:0,NRJ LOUNGE
-https://scdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Lounge
 #EXTINF:0,NRJ RELAX
-https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Relax
 #EXTINF:0,NRWwelle
 http://rs2.easytron24.net:21036/stream/1/
 #EXTINF:0,Nueva Radio Cristiana Salvación Emanuel
@@ -1922,4 +1922,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3
 #EXTINF:0,Zero Beat Ambient Zone (MRG.fm)
 http://62.149.196.16:8800/stream2
 #EXTINF:0,Zero Beat Zone (MRG.fm)
-http://listen.mrg.fm:2199/tunein/zerobeat_zone.pls
+http://listen.mrg.fm:8800/listen.pls?sid=3
+#EXTINF:0,ZOOradio 
+https://www.zoofine.com:8000/radio

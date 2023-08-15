@@ -312,7 +312,7 @@ https://streams.fluxfm.de/Chillhop/mp3-128/radiode/
 #EXTINF:0,Hippie Trippy Garden Pretty
 https://streams.fluxfm.de/event02/mp3-128/radiode/
 #EXTINF:0,neoFM
-https://streams.fluxfm.de/neofm/mp3-320/radiode/play.m3u
+https://streams.fluxfm.de/neofm/mp3-320/radiode/
 #EXTINF:0,FreeChannel-Chillout
 https://ssl-1.radiohost.pl:7199/stream/
 #EXTINF:0,FRESH FM
@@ -518,9 +518,9 @@ https://mpc2.mediacp.eu/stream/natureradiosleep
 #EXTINF:0,Naviar Radio
 https://studio25.radiolize.com/radio/8020/radio.mp3?1643113564
 #EXTINF:0,NRJ DEEP
-https://scdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Deep
 #EXTINF:0,NRJ RELAX
-https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Relax
 #EXTINF:0,OM Radio
 http://188.138.237.167:8002/stream/1/
 #EXTINF:0,ON Chillout
@@ -834,4 +834,6 @@ https://wlanmusic.net/stream.mp3
 #EXTINF:0,Yimago Radio 4 : New Age
 https://strw1.openstream.co/870?
 #EXTINF:0,Zero Beat Zone (MRG.fm)
-http://listen.mrg.fm:2199/tunein/zerobeat_zone.pls
+http://listen.mrg.fm:8800/listen.pls?sid=3
+#EXTINF:0,ZOOradio 
+https://www.zoofine.com:8000/radio

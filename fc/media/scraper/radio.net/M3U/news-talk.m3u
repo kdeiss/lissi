@@ -189,8 +189,6 @@ http://std1.ladio.net:8020/charlie27745
 https://stream.zeno.fm/gqdb1rev5s8uv
 #EXTINF:0,FM La Boca
 https://s24.myradiostream.com/14984/listen.mp3
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,FM Masters 101.3
 http://ice.dant.com:4232/fmmasters
 #EXTINF:0,FM Mundo
@@ -1365,6 +1363,8 @@ https://radios.solumedia.com/6198/stream
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62729d3b49e6534cacc80fdb/playlist.m3u8
 #EXTINF:0,La FQ
 https://s2.mexside.net/8056/stream
+#EXTINF:0,Lagoa Dourada
+https://live.paineldj.com.br/proxy/radiolagoasd?mp=%2Flive
 #EXTINF:0,Lagos Talks 91.3
 https://lagostalks-atunwadigital.streamguys1.com/lagostalks
 #EXTINF:0,La GS 104.7 FM
@@ -1539,8 +1539,6 @@ https://zas7.ndx.co.za:8042/stream
 https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDS Station
 http://stream.mds-station.com:8000/01-mds
-#EXTINF:0,Rádio MEC 800 AM
-https://radio2.lflr.com.br/ebc-live/radio-mec/chunks.m3u8
 #EXTINF:0,Radio Medinabaye Kaffrine
 https://stream.zenolive.com/w4v1hckvewwtv
 #EXTINF:0,Melki-TzedekRadio
@@ -1941,8 +1939,6 @@ https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8
 https://livefastly-webs.ondacero.es/zamora-pull/audio/master.m3u8
 #EXTINF:0,Onda Cero Zaragoza
 https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8
-#EXTINF:0,Onda Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
 #EXTINF:0,Onda Paz 93.3 FM
 https://srv7021.dns-lcinternet.com/8064/stream
 #EXTINF:0,Onda Punta Radio
@@ -2067,6 +2063,8 @@ https://drive.uber.radio/uber/podiojoerogan/icecast.audio
 https://ice3.abradio.cz/pohadka128.mp3
 #EXTINF:0,Polskie Radio Olsztyn
 http://213.73.25.178:7055/listen.pls
+#EXTINF:0,Polskie Radio 24
+https://stream15.polskieradio.pl/pr24/pr24.sdp/master_w2134521875.m3u8
 #EXTINF:0,Radio Popolare
 https://livex.radiopopolare.it/radiopop2?FLID=7
 #EXTINF:0,POPWEEK
@@ -2098,7 +2096,9 @@ https://dattavolt.com/8142/stream
 #EXTINF:0,Professional Podcast Network 2
 https://www.streamcontrol.net:8444/s/15020/
 #EXTINF:0,Jedynka - Polskie Radio Program 1
-https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+https://stream11.polskieradio.pl/pr1/pr1.sdp/master_w1134875011.m3u8
+#EXTINF:0,Dwójka - Polskie Radio Program 2 
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0,Trójka - Polskie Radio Program 3
 https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 #EXTINF:0,Czwórka - Polskie Radio Program 4 
@@ -2387,6 +2387,8 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
+#EXTINF:0,Radio FM Oasis 95.7
+http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://sg.centrocibernetico.com/formula103
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -2645,8 +2647,6 @@ http://stm1.streaminghd.net.br:7314/stream/1/
 http://stm2.srvif.com:8348/stream
 #EXTINF:0,Radio Poitou
 https://streamingv2.shoutcast.com/RadioPoitou
-#EXTINF:0,Radio Poland
-https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
 #EXTINF:0,Rádio Ponte Nova 790 AM
 http://wz1.dnip.com.br:1935/pontenova/pontenova.stream/playlist.m3u8
 #EXTINF:0,Radio Popolare Milano
@@ -2801,8 +2801,6 @@ http://s1.radiosnethosting.com:9888/;stream.mp3
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 #EXTINF:0,Rádio Vale 98FM
 http://cast4.hoost.com.br:8597/stream
-#EXTINF:0,Radio Vati
-http://radiostream.neotel.mk:8000/radiovati
 #EXTINF:0,Radio Victoria (LT39)
 http://stream.v4.radiovictoria.pl:8176/
 #EXTINF:0,Radio Vida en Familia
@@ -2881,8 +2879,6 @@ http://radiocast.rtp.pt/rdpint80a.mp3
 http://ca8.rcast.net:8022/;
 #EXTINF:0,Radio Regent
 https://streamer.radio.co/se3e1e3815/low
-#EXTINF:0,Renouveau FM Bamako
-https://stream.zeno.fm/nxugn83rwqwtv
 #EXTINF:0,Replay News
 https://replaynews.ice.infomaniak.ch/replaynews-192.mp3
 #EXTINF:0,Republic Broadcasting Network
@@ -3047,8 +3043,6 @@ http://fmt01.egihosting.com:9468/;
 https://hosting.studioradiomedia.fr:1285/stream
 #EXTINF:0,Ràdio Seu 107.2 FM
 https://streaming.enacast.com/radiolaseu128.mp3
-#EXTINF:0,Shaun Keaveny's Community Garden Radio
-https://s2.radio.co/sd76fc9995/listen
 #EXTINF:0,SHEKINAH RADIO
 https://stream.zeno.fm/cxpsu3rs0uhvv
 #EXTINF:0,Radio Shemroon
@@ -3261,8 +3255,6 @@ http://192.99.4.210:3596/;
 http://79.10.196.202:8000/radiotandem/stream/1/
 #EXTINF:0,Technikradio 
 http://streamplus50.leonex.de:10554/stream/1/
-#EXTINF:0,Radio Tele Far
-http://69.46.24.226:7146/stream/1/
 #EXTINF:0,Telemedellin Radio
 https://colombiawebs.com.co/proxy/stream320?mp=/stream
 #EXTINF:0,Radio Tele Ole Haiti
@@ -3309,6 +3301,8 @@ https://station.voscast.com/60e3bf68f128e/
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAACHI.aac
 #EXTINF:0,The X Files Network
 https://stream.radiojar.com/8a7e21u8n8hvv
+#EXTINF:0,Tico Sports - Chiefs en español
+https://s2.netradiostation.com/proxy/ticosportskc?mp=/TicoSportsChiefs.aac
 #EXTINF:0,Tilos Szoveges Radio
 http://stream.tilos.hu:8000/szoveg
 #EXTINF:0,TimeJust Radio
@@ -4049,8 +4043,6 @@ http://146.71.118.220:35054/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOHD2_SC
 #EXTINF:0,WKNO NPR 91.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOFM_SC
-#EXTINF:0,WKNY - Radio Kingston 1490 AM
-http://stream.radiokingston.org:8000/rk.mp3
 #EXTINF:0,WKQK / WMEL 1300 AM
 http://vip.livecastnet.com:8000/radio1300.mp3
 #EXTINF:0,WKQY - CSN Christian Radio 100.1 FM

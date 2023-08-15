@@ -206,7 +206,7 @@ https://streams.80s80s.de/neo/mp3-192/radiode/
 #EXTINF:0,80s80s
 https://streams.80s80s.de/web/mp3-192/radiode/
 #EXTINF:0,80s80s David Bowie
-https://streams.80s80s.de/bowie/mp3-192/radiode/play.m3u
+https://streams.80s80s.de/bowie/aac-64/radiode/
 #EXTINF:0,80s80s Breakdance
 https://streams.80s80s.de/breakdance/mp3-192/radiode/
 #EXTINF:0,80s80s DANCE
@@ -224,7 +224,7 @@ https://streams.80s80s.de/mix/aac-64/radiode/
 #EXTINF:0,80s80s Italo Disco
 https://streams.80s80s.de/italohits/mp3-192
 #EXTINF:0,80s80s Michael Jackson
-https://streams.80s80s.de/mj/mp3-128/streams.80s80s.de/radiode/play.m3u
+https://streams.80s80s.de/mj/aac-64/streams.80s80s.de/radiode/
 #EXTINF:0,80s80s Love
 https://streams.80s80s.de/love/mp3-192/radiode/play.m3u
 #EXTINF:0,80s80s MAXIS
@@ -966,7 +966,7 @@ https://listen-cheesyfm.sharp-stream.com/cheesyfm.mp3
 #EXTINF:0,Chepito Rios Online Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC013_SC
 #EXTINF:0,CHERIE 80
-https://scdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-80-S
 #EXTINF:0,CHERNESTARDREAMER ONLINE RADIO
 https://cast.jomarhost.com/radio/8000/radio.mp3
 #EXTINF:0,CherryRadio 
@@ -1189,8 +1189,6 @@ https://ec3.yesstreaming.net:2985/stream
 https://stream.zeno.fm/34gf7y0k6yzuv
 #EXTINF:0,DANCE 80
 https://www.shoutcastitalia.com/proxy/dance80?mp=/stream
-#EXTINF:0,Dance and Fox Radio
-http://144.76.84.153:26335/stream/1/
 #EXTINF:0,Dancefox24
 https://stream.laut.fm/dancefox24?ref=radiode
 #EXTINF:0,Dansebandmusikk
@@ -1385,8 +1383,6 @@ http://sc-80s.eldoradio.lu:80/stream/1/
 http://82.201.132.237:8000/;
 #EXTINF:0,El Portal del Amor
 http://s1.redradioypc.com:8024/stream
-#EXTINF:0,El Rapto se Acerca
-https://stream.zeno.fm/kraz7tksrqzuv.pls
 #EXTINF:0,El Semáforo Radio
 http://audiohd.sonidosenlared.com:8044/stream
 #EXTINF:0,Emeraude 2
@@ -1597,8 +1593,6 @@ https://stream.zeno.fm/5yk23mppw2hvv.aac
 http://emartesg.sytes.net:8080/fmluzu
 #EXTINF:0,FM Rescate Rock & Pop
 https://cloudstream2032.conectarhosting.com/9558/stream
-#EXTINF:0,Sentir Radio
-https://node-25.zeno.fm/gzv2ddtecd0uv
 #EXTINF:0,FM Sombras
 https://ascl.denial.cl:2020/stream/8012
 #EXTINF:0,FM The Best
@@ -1769,8 +1763,6 @@ http://199.233.234.34:25418/stream/1/
 https://addrad.io/4455854
 #EXTINF:0,Gong 80er Hits
 https://addrad.io/445fyvb
-#EXTINF:0,good-sound
-http://stream.good-sound.de:1610/;
 #EXTINF:0,Gospel Classic Forever Brasil
 https://stream.zenolive.com/6s70zgrq4heuv
 #EXTINF:0,GotRadio - Rockin 80's
@@ -3470,7 +3462,7 @@ https://de2.streamingpulse.com/ssl/Mixtimeradio
 #EXTINF:0,MMO-Interactive
 https://mcsheagmmoradio.radioca.st/;
 #EXTINF:0,mmRadio
-http://shoutcast.mattmski.net:8000/stream
+https://shoutcast.mattmski.net:8000/stream
 #EXTINF:0,Momentos de Amor y Alegria
 https://jm8n.net:7040/;
 #EXTINF:0,Mona FM - Plus de 80
@@ -3555,6 +3547,8 @@ https://my105-stream14.radiohost.de/my105-allthehits_mp3-192?
 http://stream.radiojar.com/7wwewez83v8uv
 #EXTINF:0,My88
 http://149.56.93.50:8004/;
+#EXTINF:0,Myall Coast Radio
+https://audio-edge-3mayu.fra.h.radiomast.io/8a7977d1-a8df-4ae4-a987-984eada92c1b?t=default
 #EXTINF:0,MyDay Radio
 http://87.117.201.166:8000/;
 #EXTINF:0,Myhitmusic - TOMs CLUB 80s
@@ -3640,7 +3634,7 @@ http://streaming.radionomy.com/NOSTALGICARADIO
 #EXTINF:0,Nostalgic FM
 https://radionostalgic.ro:8040/mp3/stream/1/
 #EXTINF:0,NOSTALGIE 100% FRANCAIS 80
-https://scdn.nrjaudio.fm/adwz1/fr/56164/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/56164/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-100-Francais-80
 #EXTINF:0,NOSTALGIE 80 LES N 1
 https://scdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Nostalgie 80
@@ -3656,15 +3650,15 @@ https://scdn.nrjaudio.fm/adwz1/de/57486/mp3_128.mp3
 #EXTINF:0,Nostalgie Guadeloupe
 http://2stream.dyndns.org:8000/nostalgiegp
 #EXTINF:0,NOSTALGIE FANS DES ANNEES 80
-https://scdn.nrjaudio.fm/adwz1/fr/56373/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/56373/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Fans-Des-Annees-80
 #EXTINF:0,NOSTALGIE NEW WAVE
-https://scdn.nrjaudio.fm/adwz1/fr/30703/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30703/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-New-Wave
 #EXTINF:0,Nostalgie NL - 80
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3
 #EXTINF:0,Nostalgie Radio Show
 http://opportunity.shoutca.st:8175/;
 #EXTINF:0,NOSTALGIE USA 80
-https://scdn.nrjaudio.fm/adwz1/fr/56621/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/56621/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-USA-80
 #EXTINF:0,Nova FM - 90,7
 https://paineldj6.com.br:20037/stream
 #EXTINF:0,NovaradioDigital
@@ -3744,7 +3738,7 @@ https://streaming.live365.com/a02077
 #EXTINF:0,Radio Oldies Romania
 https://www.radiooldies.ro/listen.m3u
 #EXTINF:0,Old School 94.1 FM
-http://c23.radioboss.fm:8030/stream
+http://stream.zeno.fm/8d4htdspa8zuv
 #EXTINF:0,Radio Oldxit - Радио Олдхит
 http://radio.oldxit.ru:8000/radio
 #EXTINF:0,Olympia Classics 
@@ -4209,8 +4203,6 @@ https://stream.zeno.fm/xqstrbp8qm0uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFM_SC
 #EXTINF:0,Radio Badal
 https://stream.zenolive.com/nhrtcxg09u8uv
-#EXTINF:0,Radio Baladas - Viejitas pero bonitas
-https://media.streamingradiomx.com/radio/8050/radio.mp3
 #EXTINF:0,Radio Basilisk
 https://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3
 #EXTINF:0,RBI Radio
@@ -4256,7 +4248,7 @@ http://live3.livemus.com.br:27018/stream/1/
 #EXTINF:0,Radio Brocken
 https://stream.radiobrocken.de/live/mp3-128/radiode
 #EXTINF:0,Radio Brocken 80er
-https://stream.radiobrocken.de/80er/mp3-128/radiode/play.m3u
+https://stream.radiobrocken.de/80er/mp3-128/radiode/
 #EXTINF:0,Radio Brocken 100 % Musik
 https://stream.radiobrocken.de/100-prozent-musik/mp3-256/radiode/
 #EXTINF:0,Radio Brocken Ü30-Partymix
@@ -4421,8 +4413,6 @@ https://radio-expansie.nl/interessante-websites/
 https://frontend.streamonkey.net/fhn-radiof945?aggregator=radiode
 #EXTINF:0,Rádio Farol Ria
 https://sws.onradio.biz:10987/;
-#EXTINF:0,Radio FEST
-https://primary.moodyradiostream.org/radiofest
 #EXTINF:0,Radio Feten-World
 https://stream10.g-factory.de:31502/stream/1/
 #EXTINF:0,Radio Fire Power
@@ -4448,7 +4438,7 @@ https://stream.radiojar.com/ympb8vef3p8uv
 #EXTINF:0,Rádio Forró in Love
 https://stream.zeno.fm/xwaz6qvaf18uv
 #EXTINF:0,Radio Fox4You
-http://85.25.217.22:8100/stream/1/
+http://85.25.217.22:8100/;?1691478411706
 #EXTINF:0,Radiofoxgarden
 https://www.radiofoxgarden.de/listen.pls
 #EXTINF:0,Radio Freccia La Rocca
@@ -4561,8 +4551,6 @@ http://192.99.79.240:8228/stream
 https://s7.alhastream.com/radio/8130/radio
 #EXTINF:0,Radio Kiepenkerl - Dein 80er Radio
 https://stream.lokalradio.nrw/444zfw6
-#EXTINF:0,Radio KIKS
-https://stream.radiokiks.sk/kiks_hq.mp3
 #EXTINF:0,Radio Klein Karoo
 http://s5.voscast.com:9816/listen.mp3
 #EXTINF:0,Radio Klips
@@ -4759,6 +4747,8 @@ https://forwardmystream.com/radiooptimumfm974
 https://stream.nsp.se/P5
 #EXTINF:0,Radio Padova History
 https://sphera.fluidstream.eu/rpd_history.mp3?FLID=3&aw_0_req.gdpr=true&type=.mp3
+#EXTINF:0,Radio Paiper
+http://radiopaiper.ddns.net:8000/stream/1/
 #EXTINF:0,Radio Panamby Online
 https://serverssl.deradios.stream/8178/;
 #EXTINF:0,Radio Paradiso Berlin
@@ -4846,7 +4836,7 @@ https://streams.radiopsr.de/psr-live/mp3-128/radiode/
 #EXTINF:0,Radio Puerto Montt 107.5 fm
 http://stream.zeno.fm/9ysukb9cdtwtv
 #EXTINF:0,Radio Puerto Real
-https://prealserver.ga/radio/8000/radio.mp3
+https://realserver.es/listen/puerto_real/radio.mp3
 #EXTINF:0,Radio Punto Zero Tre Venezie
 https://ice02.fluidstream.net/rpz.mp3?FLID=7
 #EXTINF:0,Radio Rama
@@ -5075,8 +5065,6 @@ http://audio.questreaming.com:20130/;
 http://stream-40.zeno.fm/7k8nz2b2r98uv?zs=Zn5stv6PSjK_REg1ohTpXw
 #EXTINF:0,Radio Vision de Cristo
 https://server.radiogs.net:7103/;
-#EXTINF:0,Radio Vitrolinha
-https://s10.w3bserver.com/radio/8140/radio.mp3
 #EXTINF:0,Radio Viva 24.
 http://204.12.193.98:8181/stream
 #EXTINF:0,Radio v Nitre
@@ -5787,8 +5775,6 @@ http://5.63.151.52:8066/stream
 http://thecheese.ddns.net:8000/;stream.mp3
 #EXTINF:0,TheCommonSense
 https://c11.radioboss.fm/stream/33
-#EXTINF:0,Theen Tamil Osai
-http://178.33.135.245:3616/stream/1/
 #EXTINF:0,The German Radio
 https://streaming.live365.com/a97323
 #EXTINF:0,The Groove
@@ -5958,7 +5944,7 @@ http://stream-57.zeno.fm/t328tux77f8uv?zs=7CKcRUceTCK7hrSL8ZGa1w
 #EXTINF:0,Unlimited80s Dot Com
 https://s01.azuracast.cl/radio/8020/stream/1/
 #EXTINF:0,Unser-Kellerradio-DD.de
-http://144.76.84.153:21342/;
+http://server4.streamserver24.com:21342/listen
 #EXTINF:0,Urban Classics
 https://sonic.sistemahost.es:8180/;stream.nsv
 #EXTINF:0,Old School RnB - Urbanradio.com
@@ -6129,6 +6115,8 @@ http://uk2.internet-radio.com:8011/stream
 https://stream.welleniederrhein.de/444zgxx
 #EXTINF:0,West Norfolk Radio
 http://178.33.135.246:5930/stream
+#EXTINF:0,West Tampa Radio
+http://fasserver.dyndns.org:8001/stream
 #EXTINF:0,WFM
 https://flux-mp3.w-feel-muse.fr/
 #EXTINF:0,WFM, le fil musical du web
