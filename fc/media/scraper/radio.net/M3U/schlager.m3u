@@ -157,8 +157,6 @@ https://auszeitradio1.de:444/stream/1/
 https://ice15.fluidstream.net/ballaballa.aac?FLID=7
 #EXTINF:0,Ballermann Radio
 https://radio-ballermann.stream24.net/ballermann-radio.mp3?ref=Radiode
-#EXTINF:0,Banana-Joe-Radio
-http://systemweb-server3.de:10000/stream/2/
 #EXTINF:0,Bandieten uit Twente - Piratenmuziek
 https://securestream4.digipal.nl:1307/stream.mp3
 #EXTINF:0,& Lovesongs. Von barba radio
@@ -238,7 +236,7 @@ http://stream.dance-music-radio.de:8000/stream/1/
 #EXTINF:0,Radio Dance Night
 https://stream2-alfacast-hosting.com/8140/stream
 #EXTINF:0,Danzamagic
-http://217.160.188.250:8000/listen
+http://217.160.188.250:8000/stream/1/
 #EXTINF:0,Das Durchgeknallte Radio
 https://das-durchgeknallte-radio.de:8102/;
 #EXTINF:0,Radio Dauerbrenner
@@ -343,8 +341,6 @@ https://streams.ffh.de/ffhchannels/mp3/hqparty.mp3?amsparams=playerid:RTFFHRadio
 https://streams.ffh.de/ffhchannels/mp3/hqschlager.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Fire-Force-Radio
 https://sp.fire-force-radio.de/listen/fire-force-radio/radio.mp3
-#EXTINF:0,Flamingstars MusicWord
-http://144.76.84.153:22048/stream/1/
 #EXTINF:0,Foerde Radio - Schlager
 https://live.foerde-radio.de/Stream4
 #EXTINF:0,Foxtanz
@@ -369,6 +365,8 @@ http://148.251.82.234:27000/stream/1/
 https://stream.laut.fm/gay-live-schlager?ref=radiode
 #EXTINF:0,Geiseltal-Radio
 http://streamplus53.leonex.de:20916/;
+#EXTINF:0,General Hit Radio
+https://srv.webradiomanager.fr:1330/stream
 #EXTINF:0,Germanradio.info
 http://stream.germanradio.info:10300/;
 #EXTINF:0,Germanradio.info/Schlager
@@ -389,8 +387,6 @@ https://edge08.streamonkey.net/gong-live
 https://addrad.io/44557x4
 #EXTINF:0,Grenzland-Radio
 https://listen.radioking.com/radio/353983/stream/403198
-#EXTINF:0,Grenzland-Musik
-http://144.76.84.153:38123/stream/1/
 #EXTINF:0,Grenzland Radio
 https://www.radioking.com/play/grenzland-radio
 #EXTINF:0,Radio Grüne Welle
@@ -827,7 +823,7 @@ https://stream.laut.fm/furry00?ref=radiode
 https://stream.laut.fm/gamefm-schlager?ref=radiode
 #EXTINF:0,gamingreich-fm
 https://stream.laut.fm/gamingreich-fm?ref=radiode
-#EXTINF:0,Gay Live Schlager
+#EXTINF:0,Gay-Live
 https://stream.laut.fm/gay-live-schlager?ref=radiode
 #EXTINF:0,GayRadio
 https://stream.laut.fm/gayradio?ref=radiode
@@ -1915,8 +1911,6 @@ https://pool.radiopaloma.de/RADIOPALOMA_rde.mp3?amsparams=playerid:radio-de_kach
 https://pool.radiopaloma.de/RP-Partyschlager_rde.mp3
 #EXTINF:0,MagicExpressRadio
 https://stream.laut.fm/magicexpressradio?ref=radiode
-#EXTINF:0,Mandy-Tanzpalast
-http://144.76.84.153:23430/stream/1/
 #EXTINF:0,MaschseeWelle
 https://saurus.streampanel.net/rnjdwsal?mp=/stream
 #EXTINF:0,Mausi-Dance-Radio
@@ -1994,9 +1988,9 @@ https://s3.genx-stream.de:8802/stream/1/
 #EXTINF:0,Radio Northsea Music Waves
 https://listen.radionomy.com/hitmusic-northsea
 #EXTINF:0,Nova's Music Lounge
-http://144.76.84.153:21712
-#EXTINF:0,NRJ Made in France
-https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=radio.net
+http://94.130.222.237:21712/
+#EXTINF:0,NRJ MADE IN FRANCE
+https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Made-In-France
 #EXTINF:0,NRWwelle
 http://rs2.easytron24.net:21036/stream/1/
 #EXTINF:0,Oberpfalz Radio
@@ -2201,12 +2195,14 @@ https://stream2-alfacast-hosting.com/8110/;
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
+#EXTINF:0,Radio-FFR - Family & Friends Radio
+https://radio-ffr.de:8143/stream.ogg
 #EXTINF:0,Radio Flamingo
 https://live.radioflamingo.at/rf
 #EXTINF:0,RadioForum2
 https://s7.streamcaster.eu:8112/stream1
 #EXTINF:0,Radio Fox4You
-http://85.25.217.22:8100/stream/1/
+http://85.25.217.22:8100/;?1691478411706
 #EXTINF:0,Radio Freistatt
 https://stream2-alfacast-hosting.com/8122/stream
 #EXTINF:0,Radio Fun and more
@@ -2447,8 +2443,6 @@ https://stream.lokalradio.nrw/44522fx
 https://stream.laut.fm/wunderfee?ref=radiode
 #EXTINF:0,Radio Wuppertal - Dein Schlager Radio
 https://stream.radiowuppertal.de/44524kf
-#EXTINF:0,Radio Zwei
-https://cast5.asurahosting.com/proxy/rene1/stream
 #EXTINF:0,Radyo Dejavu
 http://radyodejavu.canliyayinda.com:8054/stream/1/
 #EXTINF:0,RAI Südtirol
@@ -2647,8 +2641,6 @@ https://azura.fun-life-radio.de:9443/listen/sound-of-galaxy/radio.mp3
 http://stream04.stream-webradiotechnik.de:8150/stream/1/
 #EXTINF:0,Sound-Phoenix
 https://stream.sound-phoenix.de:8002/stream/1/
-#EXTINF:0,special-sound-radio 
-http://93.186.198.53:8070/steam/1/stream/1/
 #EXTINF:0,SpeedyRadio
 http://server-07.stream-server.nl:8312/;
 #EXTINF:0,Kuschelschlager
@@ -2731,8 +2723,6 @@ https://stream.silvacast.com/RPLive/mp3-128/radio_de/
 https://streaming.live365.com/a97323
 #EXTINF:0,The House of Music
 https://c02.lexycast.de:4530/;
-#EXTINF:0,tierischLive
-http://server35557.streamplus.de/stream.mp3
 #EXTINF:0,Radio Tirol Italia
 https://str0.creacast.com/radiotirol_a
 #EXTINF:0,Tirolia-Express

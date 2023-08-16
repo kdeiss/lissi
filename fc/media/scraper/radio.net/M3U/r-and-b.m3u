@@ -119,8 +119,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC.aac
 https://streaming.live365.com/a98661
 #EXTINF:0,KOWN 95.7 FM The Boss
 https://ice41.securenetsystems.net/KOWNLP
-#EXTINF:0,97.6 The Temp
-https://usa4.fastcast4u.com/proxy/dogsday10?mp=/1
 #EXTINF:0,97.7 The Surge
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,99 Jams WJMI
@@ -339,8 +337,6 @@ https://media-ssl.musicradio.com/Capital
 https://atunwadigital.streamguys1.com/capitalfm
 #EXTINF:0,Capital XTRA Reloaded
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
-#EXTINF:0,Cap Ouest Urban
-https://naradiourbain.ice.infomaniak.ch/naradiourbain-192.mp3
 #EXTINF:0,Radio Caprice - R'n'B
 http://79.120.77.11:8000/rnb
 #EXTINF:0,Casa Da Black Music - Nacionais e Internacionais Da Música
@@ -350,7 +346,7 @@ https://croydoncentralradio.com/radio/8120/radio.mp3?
 #EXTINF:0,CFXL XL 103 Calgary
 https://newcap.leanstream.co/CFXLFM
 #EXTINF:0,Channel R - Today’s Hits
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC312_SC
+https://stream.radio.co/sf49a3129c/listen
 #EXTINF:0,Chérie R'n'B Chic
 https://scdn.nrjaudio.fm/adwz1/fr/30275/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Chicago 77.3
@@ -413,6 +409,8 @@ https://streamingV2.shoutcast.com/Cocktelera-Blues
 http://streaming.colourfulradio.com:80/colourful
 #EXTINF:0,Commish Radio
 https://listen.radionomy.com/commishradio.m3u
+#EXTINF:0,Compound Radio
+https://samcloud.spacial.com/api/listen?sid=137831&m=sc&rid=292485&t=ssl
 #EXTINF:0,Condo Jamz Radio
 https://streaming.live365.com/a74972
 #EXTINF:0,COOLZONE WEB RADIO
@@ -521,8 +519,6 @@ https://stream.rcast.net/68702
 https://edge.iono.fm/xice/ecr_live_medium.aac
 #EXTINF:0,Easy Radio
 https://listen.radioking.com/radio/534455/stream/592967
-#EXTINF:0,EbenRadio - Rediscover Music
-http://s8.voscast.com:7558/;
 #EXTINF:0,East Coast Radio Jams
 http://stream.zeno.fm/dcxkzmhkgbquv
 #EXTINF:0,egoFM R&B
@@ -606,7 +602,7 @@ https://streams.feierfreund.de/gayparty/mp3-128/radiode/
 #EXTINF:0,FiRealReggaeMuzikRadio
 https://stream.zeno.fm/14ccvhy67p8uv
 #EXTINF:0,WPOD 106.3 First Up Radio
-https://a1.asurahosting.com/hls/first_up_radio_106.3_wpod/live.m3u8
+https://a1.asurahosting.com:8770/radio.mp3
 #EXTINF:0,Flava
 https://ais-nzme.streamguys1.com/nz_010_aac
 #EXTINF:0,Flava 107
@@ -721,8 +717,6 @@ https://listen.radioking.com/radio/70135/stream/107968
 https://streaming.live365.com/a94699
 #EXTINF:0,Ground Up Radio
 http://streaming.live365.com/a94699
-#EXTINF:0,G's Melody Cafe
-http://radio.streemlion.com:4280/stream
 #EXTINF:0,GSN24LIVE
 http://n06.radiojar.com/297u51tq0wzuv.m4a?1664889464=&rj-tok=AAABg6MwMxwAKqSBrVXnG1S1AQ&rj-ttl=5
 #EXTINF:0,Global Sensations Radio Network
@@ -827,6 +821,8 @@ https://ilikeitoldskool.radioca.st/stream
 https://s3.radio.co/s307fd01d6/listen
 #EXTINF:0,ILLADELPHIA RADIO
 http://edge2-a.exa.live365.net/a92856
+#EXTINF:0,iLLANOiZE Radio
+https://streamer.radio.co/s89c643931/listen
 #EXTINF:0,I LOVE HIP HOP
 https://streams.ilovemusic.de/iloveradio3.mp3
 #EXTINF:0,I LOVE MUSIC & CHILL
@@ -975,8 +971,6 @@ https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=un
 https://tx.planetradio.co.uk/icecast.php?i=kisstory.mp3
 #EXTINF:0,WKIZ Kizz Radio
 http://s29.myradiostream.com:6106/stream/1/
-#EXTINF:0,KJAMS Radio
-https://streamer.radio.co/s2d19da17e/listen
 #EXTINF:0,KJLH - Radio Free 102.3 FM
 http://stream.abacast.net/playlist/kjlh-kjlhfmaac-ibc2.m3u
 #EXTINF:0,KJMC 89.3
@@ -1097,7 +1091,7 @@ https://stream.laut.fm/blackbox?ref=radiode
 https://stream.laut.fm/blackbulls?ref=radiode
 #EXTINF:0,blackplanetradio
 https://stream.laut.fm/blackplanetradio?ref=radiode
-#EXTINF:0,Citymusic FM
+#EXTINF:0,CityMusicFM
 https://stream.laut.fm/citymusicfm?ref=radiode
 #EXTINF:0,dacorner
 https://stream.laut.fm/dacorner?ref=radiode
@@ -1394,15 +1388,15 @@ https://stream.danubiusradio.hu/danubius_320k
 #EXTINF:0,FunX
 https://icecast.omroep.nl/funx-bb-mp3
 #EXTINF:0,NRJ CLASSIC RNB
-https://scdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Classic-RnB
 #EXTINF:0,NRJ HIP HOP RNB HITS
-https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net
-#EXTINF:0,NRJ Pop RnB Dance
-https://scdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Hip-Hop-Rnb-Hits
+#EXTINF:0,NRJ POP RNB DANCE
+https://scdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Pop-Rnb-Dance
 #EXTINF:0,NRJ RNB
-https://scdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-RnB
 #EXTINF:0,NRJ RNB FR
-https://scdn.nrjaudio.fm/adwz1/fr/30171/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30171/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-RnB-FR
 #EXTINF:0,Old Flame Radio
 https://streaming.live365.com/a22706
 #EXTINF:0,Oldies Roundup
@@ -2077,6 +2071,8 @@ https://stream.galaxywebsolutions.com/proxy/uniquevi?mp=/stream
 http://live.audiospace.co/unityradio
 #EXTINF:0,UNSERDING Schwarz
 https://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:0,Uptown Radio
+https://www.maxradio.ca:8000/UptownRadio.aac
 #EXTINF:0,Urban 96.5 FM
 https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/urban96fmlag
 #EXTINF:0,URBAN FM GABON
@@ -2221,8 +2217,6 @@ https://ice66.securenetsystems.net/WORNDB
 https://listen.radioking.com/radio/336604/stream/385105
 #EXTINF:0,WPWZ Power 95.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPWZFM_SC
-#EXTINF:0,WQBP
-https://streaming.live365.com/a22551
 #EXTINF:0,WQRB RNB RADIO
 http://65.109.81.84:7100/stream
 #EXTINF:0,WRBO 103.5 FM
@@ -2281,8 +2275,6 @@ https://xclusive-mochaala.radioca.st/stream
 https://s40.myradiostream.com/22546/listen.mp3
 #EXTINF:0,Y97.9Fm - Takoradi
 https://atunwadigital.streamguys1.com/yfm979takoradi
-#EXTINF:0,YAKALA FM 
-https://yakalafm.ice.infomaniak.ch/yakalafm-128.mp3
 #EXTINF:0,ZMIX97
 http://ca6.rcast.net:4052/stream/1/
 #EXTINF:0,Zo Kreyol FM

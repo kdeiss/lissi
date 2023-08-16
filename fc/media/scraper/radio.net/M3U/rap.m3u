@@ -212,7 +212,7 @@ https://server02.ouvir.radio.br:8060/stream
 #EXTINF:0,Radyo Fenomen Rap
 https://live.radyofenomen.com/fenomenrap/abr/playlist.m3u8
 #EXTINF:0,WPOD 106.3 First Up Radio
-https://a1.asurahosting.com/hls/first_up_radio_106.3_wpod/live.m3u8
+https://a1.asurahosting.com:8770/radio.mp3
 #EXTINF:0,Fleet Boom Radio
 http://64.20.39.8:8101/stream/1/
 #EXTINF:0,Flow 103
@@ -225,6 +225,8 @@ https://streamer.radio.co/sa49373135/listen
 https://www.internet-radio.com/station/flyfreshnphat/
 #EXTINF:0,FMHipHop
 https://streaming.live365.com/a37306
+#EXTINF:0,Forfm Radio
+https://stream3.vestaradio.com/FORFM
 #EXTINF:0,French touch FM
 http://92.63.102.253:8000/live
 #EXTINF:0,Fréquence Sillé
@@ -358,7 +360,7 @@ https://stream.kissfm.de/kissfm-urbanbeats/mp3-128/?ref=radiode
 #EXTINF:0,KISS FM – OLDSCHOOL DEUTSCHRAP & HIPHOP
 https://stream.kissfm.de/kissfm-oldschool-deutsch/mp3-128/?ref=radiode
 #EXTINF:0,KLOKi Pirate Radio Denver
-https://phunkyride.com
+https://kloki.us:8000/denver
 #EXTINF:0,Konbini Radio
 https://listen.radioking.com/radio/55174/stream/92320
 #EXTINF:0,Radio Koudjouni
@@ -1344,23 +1346,23 @@ http://radio.nationsglory.fr:8000/stream/1/
 #EXTINF:0,N-JOY Soundfiles Hip-Hop
 https://icecast.ndr.de/ndr/loop/6/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,NRJ CLASSIC RAP FR
-https://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Classic-Rap-FR
 #EXTINF:0,NRJ CLASSIC RAP US
-https://scdn.nrjaudio.fm/adwz1/fr/31093/mp3_128.mp3?origine=radio.net
-#EXTINF:0,NRJ FRESH RAP FR
-https://scdn.nrjaudio.fm/adwz1/fr/31555/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31093/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Classic-Rap-US
+#EXTINF:0,NRJ NOUVEAUTES RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/31555/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Nouveautes-Rap-Fr
 #EXTINF:0,NRJ GANGSTA RAP
-https://scdn.nrjaudio.fm/adwz1/fr/31081/mp3_128.mp3?origine=radio.net
-#EXTINF:0,NRJ LE HIT YOUTUBE RAP FR
-https://scdn.nrjaudio.fm/adwz1/fr/57102/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31081/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Gangsta-Rap
+#EXTINF:0,NRJ HITS YOUTUBE RAP FR
+https://scdn.nrjaudio.fm/audio1/fr/57102/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ RAP
-https://scdn.nrjaudio.fm/adwz1/fr/56702/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/56702/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Rap
 #EXTINF:0,NRJ RAP 2000
-https://scdn.nrjaudio.fm/adwz1/fr/57451/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/57451/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Rap-2000
 #EXTINF:0,NRJ RAP FR
-https://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Rap-FR
 #EXTINF:0,NRJ RAP US
-https://scdn.nrjaudio.fm/adwz1/fr/30061/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/30061/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Rap-US
 #EXTINF:0,Radio Odzew
 https://s3.slotex.pl/shoutcast/7468/stream?sid=1
 #EXTINF:0,ON Black
@@ -1486,7 +1488,7 @@ https://www.radioking.com/play/radio-raptz/78175
 #EXTINF:0,Radio Saint Affrique
 http://stream.radios-arra.fr:8000/stafrique
 #EXTINF:0,Radio-Satisfaction
-https://securestreams6.autopo.st:2479/stream
+https://securestreams6.autopo.st:2479/stream/1/
 #EXTINF:0,radio SAW 90er
 https://stream.saw-musikwelt.de/saw-90er/mp3-128/radiode/stream.mp3
 #EXTINF:0,radio SAW Urban Music

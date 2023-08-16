@@ -279,8 +279,6 @@ http://listen.radionomy.com/addicted2oldiesmusicradio
 https://listen.radionomy.com/addictive-70s.m3u
 #EXTINF:0,Adult Contemporary Music Relaxing
 https://stream-62.zeno.fm/7evvcp3u0p8uv?zs=kT1RpGgERN2RjwLd98bRXw
-#EXTINF:0,AEROESTEREO
-https://panel.aerostereo.com/listen/aerostereo/radio.mp3
 #EXTINF:0,Afya Radio FM
 https://cast4.my-control-panel.com/stream/afyaradi/stream.pls
 #EXTINF:0,Hudson Valley Time Machine Airchecks
@@ -613,6 +611,8 @@ http://onair18.xdevel.com:7968/;
 https://centova.hostingelectrica.net/proxy/buenosam?mp=/stream
 #EXTINF:0,BWR Webwelle Nord
 http://server4.streamserver24.com:21970/stream/1/
+#EXTINF:0,Cabin Radio
+http://184.154.117.188/stream
 #EXTINF:0,Café Romántico Radio
 http://162.244.81.98:8110/listen
 #EXTINF:0,Caledon FM
@@ -2725,6 +2725,8 @@ http://eu7.fastcast4u.com:5268/stream/1/
 http://138.201.198.218:8010/stream/1/
 #EXTINF:0,MAX5
 http://77.248.42.43:8000/stream/1/
+#EXTINF:0,MAX FM
+http://15020.cloudrad.io:9222/live
 #EXTINF:0,Maxi45
 https://maxi45.schlagerparadies.de/maxi45
 #EXTINF:0,MaXX
@@ -2768,7 +2770,7 @@ https://mdr-284300-2.sslcast.mdr.de/mdr/284300/2/aac/high/stream.aac?aggregator=
 #EXTINF:0,MDR THÜRINGEN Suhl
 https://mdr-284300-3.sslcast.mdr.de/mdr/284300/3/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,Meerradio
-https://olon.az.icecast.ebsd.ericsson.net/meer_fm
+https://nlpo.streamabc.net/redbm-meerradio-mp3-192-1136555
 #EXTINF:0,Mega Fm Web
 http://server10.srvsh.com.br:8008/live
 #EXTINF:0,Mega Hit FM - Mega Classics
@@ -3015,6 +3017,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/58004/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 http://hts07.kshost.com.br:11104/stream/1/
 #EXTINF:0,Radio Nova
 https://stream.bauermedia.fi/radionova/radionova_128.mp3
+#EXTINF:0,Nova's Music Lounge
+http://94.130.222.237:21712/
 #EXTINF:0,NovaStar
 https://streaming.live365.com/a19911
 #EXTINF:0,Nova Webradio
@@ -3151,6 +3155,8 @@ https://0n-disco.radionetz.de/0n-disco.mp3
 https://s2.radio.co/s03d947c9d/listen
 #EXTINF:0,One Gold Radio
 https://ec5.yesstreaming.net:2155/stream
+#EXTINF:0,One Move FM
+https://stream.loopert.com/stream/33
 #EXTINF:0,ON Jukebox
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3
 #EXTINF:0,ON Kult
@@ -3317,8 +3323,6 @@ https://stream.radio-pv.com/
 https://stream.rcast.net/200737
 #EXTINF:0,Progresif Radio
 http://184.154.43.106:8396/stream/1/
-#EXTINF:0,Proxi Radio
-http://178.33.111.38
 #EXTINF:0,PT Cruiser Radio
 http://streaming.radionomy.com/PTCruiserRadioUK
 #EXTINF:0,Radio Public Santé - Génération Séniors
@@ -3555,6 +3559,8 @@ https://stream.laut.fm/radiofausto?ref=radiode
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
+#EXTINF:0,Radio-FFR - Family & Friends Radio
+https://radio-ffr.de:8143/stream.ogg
 #EXTINF:0,Radio Five-O-Plus 93.3 FM
 http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 #EXTINF:0,Radio FlashBack 80
@@ -4269,6 +4275,8 @@ http://stream.zeno.fm/dbyyuxmn4nhvv
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=radionet
 #EXTINF:0,Slingeland FM
 https://ms7.mx-cd.net/dtv-21/105-567919/Slingeland_FM.smil/playlist.m3u8
+#EXTINF:0,Small FM
+http://121.99.240.116:8001/stream
 #EXTINF:0,Smash Hits Radio Retro
 https://s3.radio.co/s802363087/listen
 #EXTINF:0,Smooth 70's
@@ -4955,6 +4963,8 @@ https://streaming.live365.com/a04907
 http://listen.mediatechusa.com:8000/wlnc
 #EXTINF:0,WLNG 92.1 FM
 http://sc7.shoutcaststreaming.us:8100/listen.pls
+#EXTINF:0,WLPK K Mix 106.9
+http://13.bteradio.com:9090/KMIX.mp3
 #EXTINF:0,94.7 WLS Chicago's Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
 #EXTINF:0,Saint Leo University Radio
