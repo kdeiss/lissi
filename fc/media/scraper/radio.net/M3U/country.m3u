@@ -204,7 +204,7 @@ http://streaming.live365.com/a58492
 #EXTINF:0,Bates FM - Country Hodgepodge
 https://bigrradio.cdnstream1.com/5134_128
 #EXTINF:0,BearXM
-https://s9.citrus3.com:2020/stream/bearxm
+https://streaming.radio.co/s23cec6e98/listen
 #EXTINF:0,Beauty-Dream-Radio
 https://server9.streamserver24.com/stream/41100/stream
 #EXTINF:0,BeGoodRadio - 80s Country
@@ -328,7 +328,7 @@ http://79.111.119.111:8000/countryrock
 #EXTINF:0,Cariboo Radio
 https://ice5.securenetsystems.net/CARIBOO
 #EXTINF:0,Carter County Radio
-http://us1.streamingpulse.com:7007/stream
+http://us1.streamingpulse.com:7007/live
 #EXTINF:0,Cat Country 98
 https://cat-country-98.streamb.live/SB00148
 #EXTINF:0,WUUU FM Cat Country 98.9
@@ -609,10 +609,6 @@ https://bayshore-ais.leanstream.co/CFDCFM
 https://icepool.silvacast.com/COUNTRY108.mp3
 #EXTINF:0,Radio Country116 
 https://mesradiosweb.ca/radio/8010/radio.mp3
-#EXTINF:0,Country-4all
-https://live.country58.nl:8200/stream
-#EXTINF:0,Country58
-https://live.country58.nl:8200/stream
 #EXTINF:0,Country 600 CKAT
 https://rogers-hls.leanstream.co/rogers/nor600.stream/icy
 #EXTINF:0,Country 603
@@ -925,10 +921,6 @@ https://ice55.securenetsystems.net/DASH35
 https://ice55.securenetsystems.net/DASH13
 #EXTINF:0,dasliveradio
 http://server2.cityedv.at:8105/;
-#EXTINF:0,Datça OnAir
-http://185.126.217.8:9358/stream/1/
-#EXTINF:0,Datça OnAir
-http://185.126.217.8:9358/;
 #EXTINF:0,Desert Radio AZ
 https://streaming.live365.com/a90407
 #EXTINF:0,Desert Tracks Radio
@@ -941,6 +933,8 @@ http://91.121.121.25:8130/stream/1/
 http://grupomundodigital.com:8577/stream
 #EXTINF:0,Doctor Pundit - 21st Century Hit List
 https://samcloud.spacial.com/api/listen?sid=125881&rid=263984&f=mp3,any&br=128000,any&m=sc&t=ssl
+#EXTINF:0,Doublasfm
+http://doublasfm.hopto.org:8000/live
 #EXTINF:0,Downda Road Radio
 https://downdaroad.out.airtime.pro/downdaroad_b
 #EXTINF:0,Downtown Country
@@ -1071,6 +1065,8 @@ https://vps-6de10815.vps.ovh.ca:10919/;
 http://stream.mjm-webhosting.com.au:8040/;stream.mp3
 #EXTINF:0,105.1FM The Wolf (WLFN)
 https://shout2.brnstream.com/proxy/1051wolffm?mp=/stream
+#EXTINF:0,Fourtyfive
+https://cheetah.streemlion.com:3630/stream
 #EXTINF:0,franksstube
 http://franksstube.stream.laut.fm:8080/franksstube
 #EXTINF:0,Frank and Terry Radio
@@ -1093,6 +1089,8 @@ https://azura.nexusradio-hosting.de/listen/fun_life_music/stream
 https://stream.zeno.fm/gx7wexz0cg0uv
 #EXTINF:0,Gator Country 101.9. FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWGR_FMAAC.aac
+#EXTINF:0,Radio Gemini FM
+http://nrf1.newradio.it:10236/stream
 #EXTINF:0,Generación Radio
 https://antares.dribbcast.com/proxy/generacionradio?mp=/stream
 #EXTINF:0,Ghetto Radio Ghana
@@ -1225,6 +1223,8 @@ https://stream-29.zeno.fm/0zvu9cv4ququv?zs=ZnxZCgFjQ4eEAadxS7OFdw
 https://vistaradio.streamb.live/SB00107
 #EXTINF:0,Jumbo Office Radio
 https://stream.zeno.fm/0aea3pg0smzuv
+#EXTINF:0,Jwonder FM
+http://c11.radioboss.fm:8109/stream
 #EXTINF:0,K107 FM Kirkcaldy Community Radio
 http://s11.myradiostream.com:9020/stream/1/
 #EXTINF:0,KAAB Outlaw Country 106.5
@@ -1951,8 +1951,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUTTFMAAC_SC
 https://kut.streamguys1.com/kutx-web
 #EXTINF:0,KUZZ 107.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC
-#EXTINF:0,KVCR
-https://mp3.kvcr.org/live.mp3
 #EXTINF:0,KVMK Maverick 100.9
 https://ice42.securenetsystems.net/MAVERICK
 #EXTINF:0,KVOE Country
@@ -2771,6 +2769,8 @@ https://edge.audioxi.com/SUN
 http://john631.serverroom.net:6484/stream/1/
 #EXTINF:0,Sweet FM
 https://sweet.stream.laut.fm/sweet
+#EXTINF:0,SwissCountryRadio
+https://scr.streaming.deliver.media/scr_aac_128
 #EXTINF:0,Radio Tatras International
 http://s32.myradiostream.com:10486/stream/1/
 #EXTINF:0,Taylor and Martin Radio
@@ -3051,8 +3051,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WDKWFMAAC_SC
 https://ice64.securenetsystems.net/WDLC
 #EXTINF:0,WDMP Outlaw Country 99.3 FM
 https://ice6.securenetsystems.net/WDMPFM
-#EXTINF:0,WDMS - Real Country 100.7 FM
-https://ice3.securenetsystems.net/WDMS
 #EXTINF:0,WNDB - Thunder 102
 https://ice6.securenetsystems.net/WDNB
 #EXTINF:0,WDNB Thunder 102 / 104.5
@@ -3197,6 +3195,8 @@ http://stream.abacast.net/direct/alphabluefield-whkxfmaac-ibc2
 https://ice8.securenetsystems.net/WHMD
 #EXTINF:0,WHPO - 101 Country
 https://ice6.securenetsystems.net/WHPO?
+#EXTINF:0,WHTH - Buckeye Country 107.7
+http://shoutcast.wnko.com:4444/stream
 #EXTINF:0,WHWY - Highway 98 - 98.1 FM
 https://ice42.securenetsystems.net/WHWY
 #EXTINF:0,WIBK - The Buckle 96.9 FM 1360 AM
@@ -3423,6 +3423,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLXXFMAAC_SC
 #EXTINF:0,WLYP - 100.9 FM
 https://toombsnow.biz/downloads/meredithoctober182011.mp3
+#EXTINF:0,WMCT 1390 AM
+https://crystalout.surfernetwork.com:8001/WMCT-AM_MP3
 #EXTINF:0,WMDH-FM Nash FM 102.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMDHFMAAC_SC
 #EXTINF:0,WMDJ 100.1 FM
@@ -3629,8 +3631,6 @@ http://107.182.234.197:7444/stream
 https://ice24.securenetsystems.net/WCCWAM
 #EXTINF:0,WTCM Today's Country Music 103.5 FM
 https://ice24.securenetsystems.net/WTCMFM
-#EXTINF:0,WTDR Thunder 1350
-https://ice5.securenetsystems.net:80/WTDR
 #EXTINF:0,WTFC
 https://listen.radioking.com/radio/298441/stream/345004
 #EXTINF:0,WTGR Tiger Country 97.5 FM

@@ -145,6 +145,8 @@ http://s1.slotex.pl:7238/stream/1/
 http://178.160.193.131:8000/stream/1/
 #EXTINF:0,ASO PICARDIE
 https://manager5.streamradio.fr/asopicardie
+#EXTINF:0,Avant Garde Classical Music Radio
+https://centova.streams.gr:8033/stream
 #EXTINF:0,RadioArt: A. Vivaldi
 https://live.radioart.com/fVivaldi.mp3
 #EXTINF:0,RadioArt: Ballet Music
@@ -167,6 +169,8 @@ https://streamingV2.shoutcast.com/Beethoven-Radio
 http://sweden2.tanevar.xyz:8000
 #EXTINF:0,BFC Classique
 https://ecmanager3.pro-fhi.net/bfcclassique
+#EXTINF:0,Bhajans Radio Guyana
+https://s5.citrus3.com:8148/stream
 #EXTINF:0,BigR - Christmas Classics
 https://bigrradio.cdnstream1.com/5190_128
 #EXTINF:0,Blue Ridge Public Radio
@@ -177,8 +181,6 @@ http://stream.bnr.bg:8012/hristo-botev.aac
 https://stream.zeno.fm/utnnx7paza0uv
 #EXTINF:0,Borusan Klasik
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
-#EXTINF:0,BOX : Classical Radio
-https://api.streamafrica.net/misc/blocked.mp3
 #EXTINF:0,Brass Band Radio
 https://uk6.internet-radio.com/proxy/brassbandradio?mp=/stream/
 #EXTINF:0,Bravo! Classical Music
@@ -771,8 +773,6 @@ https://dbc.ice.infomaniak.ch/dbc-96.mp3
 https://stream.laut.fm/deepsunbeachfunk?ref=radiode
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,Diego Primavera Radio
 https://stream.zeno.fm/c1fa6x66vhruv
 #EXTINF:0,Diferente104 FM
@@ -1276,7 +1276,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD2.mp3
 #EXTINF:0,KUAF 2 Classical 
 https://war.streamguys1.com:7031/kuaf2
 #EXTINF:0,KUAT-FM 90.5 - Classical KUAT
-https://streaming.azpm.org/kuat128.mp3
+https://hls.azpm.org/t-fmp4/128k/kuat128.m3u8?StreamS-MSE-1.0_uuid=e4c6a339-1f3b-4ff3-a2a5-c264ad1636f1
 #EXTINF:0,KUCO-FM 90.1
 http://kuco.streamguys1.com/live_acc
 #EXTINF:0,KUCV - NET Radio 91.1 FM
@@ -1319,8 +1319,6 @@ https://ais-sa3.cdnstream1.com/2694_64.aac
 https://radio.lagrandeevasion.fr/evasion
 #EXTINF:0,La Mega 97.3 FM
 http://node-02.zeno.fm/hcw5f95ugy8uv?zs=YJG4oWGoSduBay8I1nJnJA&rj-tok=AAABgT1-4AIAOz82B9H-xd43mg&rj-ttl=5
-#EXTINF:0,Latinoamerica Digital 100.1 FM
-https://stream.zeno.fm/pb0eq6jxjfwvv
 #EXTINF:0,Latvijas Radio 3 Klasika
 https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8
 #EXTINF:0,100 Prozent Klassik
@@ -2029,8 +2027,6 @@ http://s3.voscast.com:10018/;
 https://streams.radio.co/scf0104908/listen
 #EXTINF:0,The Free Radio
 https://listen.thefreeradio.net/listen/the_free_radio/radio.mp3
-#EXTINF:0,The Sound of Ireland
-https://christmasfm.cdnstream1.com/2548_128.mp3
 #EXTINF:0,Timeline Radio
 https://stream.zeno.fm/mu74ukrh5a0uv
 #EXTINF:0,Tinder Radio - Wedding Classical
