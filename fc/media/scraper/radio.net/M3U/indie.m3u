@@ -102,13 +102,13 @@ https://radio.streemlion.com:2025/stream
 #EXTINF:0,BBS Radio
 https://cast.bbstalkradio.com/proxy/bbsradio?mp=%2Fstream
 #EXTINF:0,BBS Radio Station 1
-https://cast.bbstalkradio.com/proxy/bbsradio?mp=/stream
+http://cast.bbstalkradio.com:9996/stream
 #EXTINF:0,Beach Paradise Radio
 http://s28.myradiostream.com:28054/listen.mp3
 #EXTINF:0,Bear Radio Network
 http://107.181.227.250:8044/;
 #EXTINF:0,BearXM
-https://s9.citrus3.com:2020/stream/bearxm
+https://streaming.radio.co/s23cec6e98/listen
 #EXTINF:0,Beaub FM
 https://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3
 #EXTINF:0,Berisik Radio
@@ -163,6 +163,8 @@ http://streaming.radionomy.com/BypassFM
 https://addrad.io/4459jw2
 #EXTINF:0,Ça dégouline dans le cornet
 https://www.cadegoulinedanslecornet.fr/cadegoulinedanslecornet
+#EXTINF:0,Radio Cafe
+http://s03.radio-tochka.com:6045/;stream.nsv
 #EXTINF:0,Radio Califa
 https://streamingV2.shoutcast.com/Radio-Califa
 #EXTINF:0,CampFM - das Festivalradio
@@ -1015,10 +1017,6 @@ https://www.radiolotte.de/stream/radiolotte.pls
 https://streaming.live365.com/a42370
 #EXTINF:0,radio moncalieri
 http://nrf1.newradio.it:10292/stream
-#EXTINF:0,Radio Newmarket
-http://110.145.174.78:8000/;
-#EXTINF:0,Radio Newmarket
-http://110.145.174.78:8000/;
 #EXTINF:0,Radio Nowy Świat
 https://n15a-eu.rcs.revma.com/ypqt40u0x1zuv
 #EXTINF:0,RADIO nuages

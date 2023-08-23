@@ -77,8 +77,6 @@ http://streamingraddios.net:7997/stream/1/
 https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3
 #EXTINF:0,Emisora Colon FM
 http://200.58.112.14:11955/
-#EXTINF:0,Emisoras ABC
-http://174.127.75.88:8190/stream
 #EXTINF:0,Empire KVCR
 http://mp3.kvcr.org/live.mp3
 #EXTINF:0,Radio En Ba Mango
@@ -247,6 +245,8 @@ https://frequencek.ice.infomaniak.ch/frequencek-128.mp3
 https://streamingv2.shoutcast.com/FrequenceMeteoLive
 #EXTINF:0,FREQUENCY5FM - Talk - English
 https://stream.zeno.fm/y8edx1955p8uv
+#EXTINF:0,Friendship Radio
+http://198.7.59.28:8028/stream
 #EXTINF:0,FRINGE FM
 https://streaming.live365.com/a05030
 #EXTINF:0,FSN World News
@@ -333,8 +333,6 @@ http://222.252.21.96:8000/HANOI96
 https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=22
 #EXTINF:0,Harvest Christian Radio
 http://stream.zeno.fm/zvny0fefymzuv
-#EXTINF:0,HBCUiRadio
-http://stream.radiojar.com/uvtmy5t6dg5tv
 #EXTINF:0,HealthcareNOW Radio
 https://healthcarenowradio.out.airtime.pro:8443/healthcarenowradio_c
 #EXTINF:0,HealthyLife.net Radio
@@ -601,8 +599,6 @@ https://stream.xmission.com/kcpw2
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:0,KCUB - Sports Radio 1290 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCUBAM.mp3
-#EXTINF:0,KCUP News/Talk 1230 AM
-http://streaming.rubinbroadcasting.com/kcup
 #EXTINF:0,KCUR - 89.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP.aac?
 #EXTINF:0,KCXL 1140 AM
@@ -623,8 +619,6 @@ https://nwmedia-ktisam.streamguys1.com/ktis-am
 http://peridot.streamguys.com:5110/live
 #EXTINF:0,KDQN - Southwest Arkansas Daily 1390 AM
 https://ice6.securenetsystems.net/KDQN?
-#EXTINF:0,KDR 100.3 FM
-https://stream-152.zeno.fm/r2cwafaqua0uv?zs=G0s-TglUTbqyPX1yQqyl0g
 #EXTINF:0,KDUS - NBC Sports AM 1060
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDUSAM.mp3
 #EXTINF:0,KEDM Public Radio 90.3 FM
@@ -691,8 +685,6 @@ https://stream.radiojar.com/38vtv55ez38uv
 https://live.wostreaming.net/direct/univision-deportesaac-imc2
 #EXTINF:0,KFLD - News Talk 870 AM
 http://stream.abacast.net/direct/townsquare-kfldamaac-ibc3
-#EXTINF:0,KFLS Newsradio 1450
-https://ice10.securenetsystems.net/KFLS
 #EXTINF:0,KFNN - Money Radio 1510
 https://ice41.securenetsystems.net/KFNN
 #EXTINF:0,KFNN 1510 AM
@@ -854,7 +846,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAM.mp3
 #EXTINF:0,KKOB News Radio 770 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC
 #EXTINF:0,KKOH - KOH News 780 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC.aac
 #EXTINF:0,KKOL - WALL STREET BUSINESS NETWORK 1300 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLAMAAC.aac?
 #EXTINF:0,KKUA Hawaii Public Radio 90.7 FM
@@ -1001,8 +993,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KOILAMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC_SC
 #EXTINF:0,Kol HaMusica 91.5
 https://kankolhamusica.media.kan.org.il/hls/live/2024817/2024817/playlist.m3u8
-#EXTINF:0,KOMO - News Radio 1000 AM
-https://live.wostreaming.net/manifest/sinclair-komoamaac-hlsc2.m3u8
 #EXTINF:0,Komsomolskaya Pravda Комсомольская Права
 https://kpradio.hostingradio.ru:8003/chelyabinsk.radiokp128.mp3
 #EXTINF:0,KONA - Information Radio 610 AM
@@ -1227,8 +1217,6 @@ http://stream.abacast.net/direct/townsquare-kutiamaac-ibc3
 https://17483.live.streamtheworld.com/WQWKAMAAC.aac?
 #EXTINF:0,KVHL 91.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVHLFMAAC.aac
-#EXTINF:0,KVI - TALK RADIO 570 AM
-http://stream.abacast.net/direct/sinclair-kviamaac-ibc2
 #EXTINF:0,KVIP-FM
 https://ic1.sslstream.com/kvip
 #EXTINF:0,KVLU 91.3 FM
@@ -1362,7 +1350,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHXTFM.mp3
 #EXTINF:0,La Caliente Torreón 92.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTRRFM.mp3
 #EXTINF:0,La Capital de la Noticia
-https://stream.zeno.fm/kzxf3h1xa84tv
+https://stream-142.zeno.fm/u1q3a220974tv?zs=ygZzdXsCRLeGPciJ3adT6w
 #EXTINF:0,La Clé des Ondes
 https://www.lacledesondes.fr/streaming
 #EXTINF:0,La Colectiva Radio 102.5
@@ -1393,6 +1381,8 @@ https://stream.zenolive.com/axr92qawesmtv
 http://procyon.shoutca.st:8559/stream
 #EXTINF:0,La Querendona 1270 AM
 https://emisorasvirtuales.com.co:9381/live
+#EXTINF:0,La Red
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
 #EXTINF:0,La Red FM
 http://turadioenvivo.com:11015/stream
 #EXTINF:0,La Reina 98.7 FM
@@ -1546,7 +1536,7 @@ https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=
 #EXTINF:0,MDS Station
 http://stream.mds-station.com:8000/01-mds
 #EXTINF:0,Rádio MEC 800 AM
-https://radio2.lflr.com.br/ebc-live/radio-mec/chunks.m3u8
+https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
 #EXTINF:0,Radio Medinabaye Kaffrine
 https://stream.zenolive.com/w4v1hckvewwtv
 #EXTINF:0,Melki-TzedekRadio
@@ -1667,8 +1657,6 @@ https://live.webhosting4u.gr/radioroumelinews
 https://edge.audioxi.com/NT
 #EXTINF:0,NewsTalk 106-108fm
 https://stream.audioxi.com/NT
-#EXTINF:0,News Talk 107.1 KTFS
-https://cp13.shoutcheap.com:18153/stream
 #EXTINF:0,News/Talk 1340 WSOY
 https://playerservices.streamtheworld.com/api/livestream-redirect/WSOYAMAAC_SC
 #EXTINF:0,NewsTalk 1450 KNSI
@@ -1869,8 +1857,6 @@ https://fastcast4u.com/player/radioangel/
 https://listen-petersfield.sharp-stream.com/petersfield.aac
 #EXTINF:0,Radio Sound Piacenza 24
 https://sr6.inmystream.it:18018/stream/1/
-#EXTINF:0,Radio Picosa
-https://stream-159.zeno.fm/4u6aagg55bhvv
 #EXTINF:0,Play 100.9 FM
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8
 #EXTINF:0,Plexus Radio - Dark Matter
@@ -2005,6 +1991,8 @@ https://stream.zeno.fm/g9r5knnm17zuv
 http://www.quran-radio.org:8002/;stream.nsv
 #EXTINF:0,Quran Radio Tafsir
 http://206.72.199.179:9992/;
+#EXTINF:0,RAANOD Radio
+https://stream-163.zeno.fm/e25tqnhy8xduv
 #EXTINF:0,RAC1 87.7 FM
 https://streaming.rac1.cat/
 #EXTINF:0,RAC 1
@@ -2449,10 +2437,6 @@ http://stream.radiomundo.uy:8000/2.mp4
 http://generalrodriguez.gob.ar:8000/radio
 #EXTINF:0,Radio Mystery Theater USA
 https://ais-sa3.cdnstream1.com/2800_128.mp3
-#EXTINF:0,Radio Nacional de Honduras
-https://stream.zeno.fm/mb5f69fk0d0uv
-#EXTINF:0,Radio Nacional de Honduras Oficial
-http://stream-59.zeno.fm/wxsfkbgk0d0uv?zs=7tfrjMx3SUW59gSO5ntfrA
 #EXTINF:0,Radio Nacional
 http://eu2.serviaudio.com:23116/
 #EXTINF:0,Radio Naropa - satsangs 24/7
@@ -2559,8 +2543,6 @@ https://icecast.teveo.cu/b3jbfThq
 https://streams.loudspeaker.org/radio/8020/talk
 #EXTINF:0,Rádio Renascença - Noticiário
 https://amsrr.streaming.mediaservices.windows.net/9671bb22-3678-4b73-b944-5f5ee2344eb2/noticiario_2803202217148443.mp3
-#EXTINF:0,Rádio Renascença - Noticiários
-https://renascenca.mc.tritondigital.com/OMNY_RDIORENASCENANOTICIRIOS_PODCAST_P/media/d/clips/58028bcf-e01f-4274-aca7-ad3300f67928/d4d808c0-10fc-4c94-bc85-ad7800a097e2/c4248055-b55b-4055-83bb-ae660078e633/audio/direct/t1648452034/Notici_rio_das_8h.mp3?t=1648452034&in_playlist=e96b5334-2b08-4ee7-a9f7-ad7800a099e1&utm_source=Podcast
 #EXTINF:0,Radio Republica 99.9 FM
 https://streamlky.alsolnet.com/republica99
 #EXTINF:0,Radio RF101
@@ -3076,7 +3058,7 @@ https://ericade.radio/
 #EXTINF:0,The Breeze 107.5 FM Cheltenham
 https://ice24.securenetsystems.net/WZZZ?playSessionID=04F113E4-D1FB-9575-59132CA5A4F124E2
 #EXTINF:0,The Detour Talk
-http://arizona.thedetour.us:8080/;
+https://ssl.shoutcaststreaming.us:8010/;
 #EXTINF:0,The Dog at Drake University
 http://91.121.164.210:8256/stream/1/
 #EXTINF:0,The Engineered Network
@@ -3099,6 +3081,8 @@ https://station.voscast.com/60e3bf68f128e/
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAACHI.aac
 #EXTINF:0,The X Files Network
 https://stream.radiojar.com/8a7e21u8n8hvv
+#EXTINF:0,Tico Sports - Chiefs en español
+https://s2.netradiostation.com/proxy/ticosportskc?mp=/TicoSportsChiefs.aac
 #EXTINF:0,Tilos Szoveges Radio
 http://stream.tilos.hu:8000/szoveg
 #EXTINF:0,TimeJust Radio
@@ -3160,7 +3144,7 @@ http://centova13.ciclanohost.com.br:8056/stream
 #EXTINF:0,TUDN 1200 AM
 https://live.wostreaming.net/direct/univision-deportesaac-imc2
 #EXTINF:0,Ouvir a Rádio Tupi 104.1 FM
-http://euroticast5.euroti.com.br:8024/stream/1/
+https://stm5.voxhd.com.br:7386/stream
 #EXTINF:0,TWR - UK
 https://icy-e-03-boh.sharp-stream.com/twruk.mp3
 #EXTINF:0,Tyresö Radion 91,4
@@ -3317,6 +3301,8 @@ https://ice64.securenetsystems.net/WATN
 https://ice3.securenetsystems.net/WAUB
 #EXTINF:0,WAUB 1590
 https://ice3.securenetsystems.net/WAUB
+#EXTINF:0,WAVA-FM - 105.1 FM
+https://19803.live.streamtheworld.com/WAVAFMAAC.aac
 #EXTINF:0,WAVH 106.5 FM - FM Talk 106.5
 https://us9.maindigitalstream.com/ssl/wavhfm
 #EXTINF:0,WAXY - 790 AM The Ticket
@@ -3373,8 +3359,6 @@ https://oom-radiohio.streamguys1.com/cols/wbnsam.mp3
 http://backbonenetworks.streamguys.com/WBNW.mp3
 #EXTINF:0,WBOB - AM 600
 https://ice41.securenetsystems.net/WBOB
-#EXTINF:0,WBOR - The Maine Alternative 91.1 FM
-http://139.140.232.18:8000/WBOR
 #EXTINF:0,WBSM 1420 AM
 http://stream.abacast.net/direct/townsquare-wbsmamaac-ibc3
 #EXTINF:0,WBTA 1490

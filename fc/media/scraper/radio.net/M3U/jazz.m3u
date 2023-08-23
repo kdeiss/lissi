@@ -569,6 +569,8 @@ https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=radio-de
 http://streaming.live365.com/a01677
 #EXTINF:0,Doowop Radio
 http://66.59.109.208:8000/;stream.mp3?sid=2
+#EXTINF:0,Doublasfm
+http://doublasfm.hopto.org:8000/live
 #EXTINF:0,DR P2
 https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-320000.m3u8
 #EXTINF:0,DR P8 Jazz
@@ -1065,6 +1067,8 @@ https://c30.radioboss.fm:18119/stream
 https://www.streamvortex.com:8444/s/10330
 #EXTINF:0,Jazz Vespers Radio
 https://kathy.torontocast.com:4325/stream
+#EXTINF:0,Jazz Vibe Radio
+http://stream.radiojar.com/atdu64k7ehuvv
 #EXTINF:0,J.A.Z.Z. VNU
 http://ice2.securenetsystems.net/JAZZVNU
 #EXTINF:0,JazzW3
@@ -1959,6 +1963,8 @@ https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 https://www.radioking.com/play/radio-2-lhers
 #EXTINF:0,Radio Lima 89
 https://stream.zeno.fm/4hygmbuxr5quv
+#EXTINF:0,Radio Mandarina
+https://s3radio.hostingwebcloud.com/proxy/vicente/stream
 #EXTINF:0,Radio Mirabelle
 http://listen.radionomy.com/radiomirabelle.m3u
 #EXTINF:0,Radio München
@@ -1969,10 +1975,6 @@ http://stream.zeno.fm/t3rxo9ca6m2uv
 https://listen.radionomy.com/radio-navafriamia-
 #EXTINF:0,Radio NET
 http://195.24.89.6:8000/
-#EXTINF:0,Radio Newmarket
-http://110.145.174.78:8000/;
-#EXTINF:0,Radio Newmarket
-http://110.145.174.78:8000/;
 #EXTINF:0,Radio New Music Star
 https://stream.zeno.fm/d1qa2zdbcm8uv
 #EXTINF:0,Radio Nula Organic
@@ -2457,8 +2459,6 @@ https://c11.radioboss.fm:18134/stream
 https://live.radioart.com/fVocal_jazz.mp3
 #EXTINF:0,Voce Nustrale 
 https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3
-#EXTINF:0,Voice of Paso - Jazz
-https://streaming.live365.com/a82503
 #EXTINF:0,VPR Classical
 https://vprclassical.streamguys1.com/vprclassical-web
 #EXTINF:0,Vuelo714
@@ -2551,8 +2551,6 @@ https://wicn-ice.streamguys1.com/live-mp3
 http://wjab.streamguys.net/listen.pls
 #EXTINF:0,WJKR-DB Jo Khool Radio
 https://node-20.zeno.fm/ft80agnb5qzuv
-#EXTINF:0,WJST Jet Set 
-https://streaming.live365.com/a25017
 #EXTINF:0,WJSU-FM 88.5
 https://ic2.sslstream.com/wjsu-fm
 #EXTINF:0,WJZA Smooth Jazz
