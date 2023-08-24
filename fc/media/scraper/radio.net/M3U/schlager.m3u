@@ -183,6 +183,8 @@ https://stream.berliner-rundfunk.de/brf-ein-herz-fuer-schlager/mp3-128/?ref=radi
 https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac
 #EXTINF:0,black-in-whit
 http://stream2-alfacast-hosting.com/8020/stream
+#EXTINF:0,black-rose-of-love
+http://streamserver3.m-hosting.eu:10800/stream
 #EXTINF:0,Radio Bläss
 https://schwany.streampanel.cloud/10-blaess
 #EXTINF:0,Blue Magic Radio
@@ -825,8 +827,6 @@ https://stream.laut.fm/furry00?ref=radiode
 https://stream.laut.fm/gamefm-schlager?ref=radiode
 #EXTINF:0,gamingreich-fm
 https://stream.laut.fm/gamingreich-fm?ref=radiode
-#EXTINF:0,Gay-Live
-https://stream.laut.fm/gay-live-schlager?ref=radiode
 #EXTINF:0,GayRadio
 https://stream.laut.fm/gayradio?ref=radiode
 #EXTINF:0,gdr
@@ -1915,6 +1915,8 @@ https://pool.radiopaloma.de/RADIOPALOMA_rde.mp3?amsparams=playerid:radio-de_kach
 https://pool.radiopaloma.de/RP-Partyschlager_rde.mp3
 #EXTINF:0,MagicExpressRadio
 https://stream.laut.fm/magicexpressradio?ref=radiode
+#EXTINF:0,Mandy-Tanzpalast
+http://94.130.222.237/stream/jozollig.pls?mp=/stream
 #EXTINF:0,MaschseeWelle
 https://saurus.streampanel.net/rnjdwsal?mp=/stream
 #EXTINF:0,Mausi-Dance-Radio
@@ -2443,6 +2445,8 @@ https://stream.lokalradio.nrw/44522fx
 https://stream.laut.fm/wunderfee?ref=radiode
 #EXTINF:0,Radio Wuppertal - Dein Schlager Radio
 https://stream.radiowuppertal.de/44524kf
+#EXTINF:0,Radio Zwei
+https://cast5.asurahosting.com/tunein/rene1.asx
 #EXTINF:0,Radyo Dejavu
 http://radyodejavu.canliyayinda.com:8054/stream/1/
 #EXTINF:0,RAI Südtirol
@@ -2788,7 +2792,7 @@ http://mp3.wunschradio.de/wunschradio-schlager.mp3
 #EXTINF:0,Wuppertaler-Radio
 http://178.254.2.121:8010/stream/1/
 #EXTINF:0,ybbstaler-schlager-radio
-http://streamserver3.m-hosting.eu:10800/;
+http://streamserver3.m-hosting.eu:10800/stream
 #EXTINF:0,Zappelkiste
 http://s5.stream-webradiotechnik.de:10250
 #EXTINF:0,Zocker-freaks-radio

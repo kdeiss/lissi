@@ -21,8 +21,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/livestream_SC
 https://stream.104.6rtl.com/country/mp3-192/radioDE/
 #EXTINF:0,104.7 KCMB
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCMBFM_SC
-#EXTINF:0,104.9 WIGO Country
-https://ice64.securenetsystems.net/WIGO
 #EXTINF:0,105 WQSB
 https://ice7.securenetsystems.net/WQSB
 #EXTINF:0,106.1 FLIP FM - KFLIP
@@ -121,8 +119,6 @@ http://live-radio01.mediahubaustralia.com/CTRW/aac/
 http://streams.abidingradio.org:7840/1
 #EXTINF:0,AB RADIO GH
 http://stream.zeno.fm/9axksn76bm8uv
-#EXTINF:0,Absolute Radio Country
-https://streaming.live365.com/a74353
 #EXTINF:0,AccentFM
 http://stream.accentfm.nl:8091/high
 #EXTINF:0,AceRadio-Country Mix
@@ -237,6 +233,8 @@ https://bigrradio.cdnstream1.com/5175_128
 https://listen.radionomy.com/BigStar97.m3u
 #EXTINF:0,Birdhill Radio
 http://5.79.74.155:8000/stream/1/
+#EXTINF:0,black-rose-of-love
+http://streamserver3.m-hosting.eu:10800/stream
 #EXTINF:0,Black Sparrow Radio KBSR
 https://streams.radio.co/sb821fbb0a/listen
 #EXTINF:0,Bluegrass Jamboree
@@ -867,8 +865,6 @@ https://live.radioart.com/fCountry.mp3
 https://stream.rcs.revma.com/h7rwanvb938uv
 #EXTINF:0,Country-Radio
 https://www.country-radio.eu:8143/cr128.mp3
-#EXTINF:0,Country Radio 105.2 FM Invercargill
-http://countryradio2.no-ip.org:8000/;
 #EXTINF:0,Countryradio.Musicbox4friends
 https://maggie.torontocast.com:8092/country
 #EXTINF:0,Country Road Radio
@@ -921,6 +917,10 @@ https://ice55.securenetsystems.net/DASH35
 https://ice55.securenetsystems.net/DASH13
 #EXTINF:0,dasliveradio
 http://94.249.194.189:8550/
+#EXTINF:0,Datça OnAir
+http://185.126.217.8:9358/stream/1/
+#EXTINF:0,Datça OnAir
+http://185.126.217.8:9358/;
 #EXTINF:0,Desert Radio AZ
 https://streaming.live365.com/a90407
 #EXTINF:0,Desert Tracks Radio
@@ -1949,6 +1949,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUTTFMAAC_SC
 https://kut.streamguys1.com/kutx-web
 #EXTINF:0,KUZZ 107.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC
+#EXTINF:0,KVCR
+https://kvcr.streamguys1.com/live
 #EXTINF:0,KVMK Maverick 100.9
 https://ice42.securenetsystems.net/MAVERICK
 #EXTINF:0,KVOE Country
@@ -1969,8 +1971,6 @@ https://corn.kvsc.org/broadband
 https://svinews.com:8443/wave
 #EXTINF:0,KWAY The Winner AM 1470
 https://ice10.securenetsystems.net/KWAYAM
-#EXTINF:0,KWBY Cowboy Radio 98.5 FM
-http://mm.txol.net:8004/radio4
 #EXTINF:0,KWDD Wild 94.3 FM
 https://ice8.securenetsystems.net/KWDD
 #EXTINF:0,KWED 1580 AM
@@ -3191,8 +3191,6 @@ http://stream.abacast.net/direct/alphabluefield-whkxfmaac-ibc2
 https://ice8.securenetsystems.net/WHMD
 #EXTINF:0,WHPO - 101 Country
 https://ice6.securenetsystems.net/WHPO?
-#EXTINF:0,WHTH - Buckeye Country 107.7
-http://shoutcast.wnko.com:4444/stream
 #EXTINF:0,WHWY - Highway 98 - 98.1 FM
 https://ice42.securenetsystems.net/WHWY
 #EXTINF:0,WIBK - The Buckle 96.9 FM 1360 AM
@@ -3419,8 +3417,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLXXFMAAC_SC
 #EXTINF:0,WLYP - 100.9 FM
 https://toombsnow.biz/downloads/meredithoctober182011.mp3
-#EXTINF:0,WMCT 1390 AM
-https://crystalout.surfernetwork.com:8001/WMCT-AM_MP3
 #EXTINF:0,WMDH-FM Nash FM 102.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMDHFMAAC_SC
 #EXTINF:0,WMDJ 100.1 FM
@@ -3786,7 +3782,7 @@ http://c3.radioboss.fm:8070/stream
 #EXTINF:0,WZZS - La Numero Uno 106.9 FM
 https://ice66.securenetsystems.net/WTMY
 #EXTINF:0,ybbstaler-schlager-radio
-http://streamserver3.m-hosting.eu:10800/;
+http://streamserver3.m-hosting.eu:10800/stream
 #EXTINF:0,Yimago Country
 https://strw1.openstream.co/867?aw_0_1st.collectionid%3D3661%26stationId%3D3661%26publisherId%3D891%26k%3D1661776390
 #EXTINF:0,YourFM
