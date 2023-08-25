@@ -1149,6 +1149,8 @@ http://ic1.christiannetcast.com/bottradio?
 https://wrn.streamguys1.com/kbnr
 #EXTINF:0,KBNV - American Family Radio 90.1 FM
 http://mediaserver3.afa.net:8000/talk.mp3
+#EXTINF:0,KBPU - Freedom Radio 88.7 FM
+http://162.212.157.221:8000/live.aac
 #EXTINF:0,KBPW - American Family Radio 88.1 FM
 http://mediaserver3.afa.net:8000/talk.mp3
 #EXTINF:0,KBQC - American Family Radio 88.5 FM
@@ -1533,16 +1535,10 @@ https://stream.kcrd-fm.org:8000/kmmk
 https://stream.zeno.fm/kyvcfnsvh9duv
 #EXTINF:0,KMSL - American Family Radio 91.7 FM
 http://mediaserver3.afa.net:8000/talkhigh.mp3
-#EXTINF:0,KNBE - WJFM SonLife Radio 88.9 FM
-http://peridot.streamguys.com:5930/wjfm
 #EXTINF:0,KNDZ - KVIP 89.3 FM
 https://ic1.sslstream.com/kvip?rnd=8188
 #EXTINF:0,KNEO - The Word 91.7 FM
 https://ice41.securenetsystems.net/KNEO
-#EXTINF:0,KNFA - WJFM SonLife Radio 90.7 FM
-http://peridot.streamguys.com:5930/wjfm
-#EXTINF:0,KNHD SLR 1450 AM
-http://peridot.streamguys.com:5930/wjfm
 #EXTINF:0,KNIL-LP 95.9 FM
 http://72.8.197.131:88/broadwave.mp3?rate=1&src=1
 #EXTINF:0,KNIR - Radio Maria 1360 AM
@@ -1615,8 +1611,6 @@ https://guadaluperadio.digital:2020/stream/AudioLiveGR
 https://ic2.christiannetcast.com/kspd-am
 #EXTINF:0,KSRI - Air1 90.7 FM
 https://maestro.emfcdn.com/stream_for/air1/tunein/aac
-#EXTINF:0,KSSW / KUUZ SLR 96.9 & 95.9 FM
-http://peridot.streamguys.com:5930/wjfm
 #EXTINF:0,KSWP
 https://ic1.sslstream.com/kswp-fm?rnd=5059
 #EXTINF:0,KTGW The Word 91.7 FM
@@ -3349,6 +3343,8 @@ http://www.redeimaculada945fm.ddns.com.br:8010/;stream.mp3
 https://centova2.euroti.com.br:20028/live
 #EXTINF:0,RefNet
 http://icecast.refnet.fm:8000/utc/-0400
+#EXTINF:0,Radio Online Renovadoxcristo
+https://turadio.accesopanel.com/8254/stream
 #EXTINF:0,Renuevo FM
 https://radio3.domint.net:8116/stream
 #EXTINF:0,Radio Restauración Chile
@@ -3553,8 +3549,6 @@ http://www.segenswelle.de:8000/plautdietsch
 http://www.segenswelle.de:8000/russisch
 #EXTINF:0,Szent István Rádió
 http://online.szentistvanradio.hu:7000/adas
-#EXTINF:0,Tabernacle of Grâce radio
-https://server50.servistreaming.com:6363/stream
 #EXTINF:0,Tabernaculo Nueva Jerusalem
 https://stream.zeno.fm/wa17cv6ud48uv?rj-tok=AAABe4fMIKIAjmTezAmfRilC9Q&rj-ttl=5
 #EXTINF:0,Radio Tamaraceite 95.5 / 96.3 FM
@@ -4077,6 +4071,8 @@ https://ice23.securenetsystems.net/HEYRADIO
 https://primary.moodyradiostream.org/wkes-high.aac
 #EXTINF:0,WHGW-LP - WHGW-LP 100.3 FM
 http://war.str3am.com:7180/live
+#EXTINF:0,WHHR - Freedom Radio FM 92.1
+http://162.212.157.221:8000/live.aac
 #EXTINF:0,WHIC - THE STATION OF THE CROSS 1460 AM
 https://hfc.streamguys1.com/whic-wmtq
 #EXTINF:0,WHIC The Station of the Cross - English
@@ -4143,6 +4139,8 @@ https://ais-sa3.cdnstream1.com/2641_64.aac
 https://ice7.securenetsystems.net/WJCX
 #EXTINF:0,WJDM - Radio Cantico Nuevo 1530 AM
 https://panel.streamenviron.com:8006/stream.mp3
+#EXTINF:0,WJEP - Freedom Radio FM 91.1 FM
+http://162.212.157.221:8000/live.aac
 #EXTINF:0,WJFH - The Joy FM 91.5
 https://rtn.cdnstream1.com/2579_96.aac
 #EXTINF:0,WJIC - 91.7 FM
@@ -4241,6 +4239,8 @@ https://ais-sa1.streamon.fm/7668_48k.aac/playlist.m3u8
 http://war.str3am.com:7180/live
 #EXTINF:0,WLOF - 101.7 FM The station of the Cross 
 https://hfc.streamguys1.com/wqom
+#EXTINF:0,WLOG - Freedom Radio FM 89.1 FM
+https://stream.freedomradiofm.com/rbga.aac?
 #EXTINF:0,WLPF - GNNradio Good News Network 98.5 FM
 https://ice7.securenetsystems.net/WLPE
 #EXTINF:0,WLPT - Good News Network
@@ -4473,8 +4473,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WTBNAM.mp3
 http://shout2.brnstream.com:8024/;stream.nsv
 #EXTINF:0,WTGN 97.7 FM
 https://ice24.securenetsystems.net/WTGN
-#EXTINF:0,WTGY SLR 95.7 FM
-http://peridot.streamguys.com:5930/wjfm
 #EXTINF:0,WTHE 1520
 http://ph1.ministeriotv.com:8004/stream
 #EXTINF:0,WTLG - AFR Talk 88.3 FM

@@ -2749,8 +2749,6 @@ http://eu7.fastcast4u.com:5268/stream/1/
 http://138.201.198.218:8010/stream/1/
 #EXTINF:0,MAX5
 http://77.248.42.43:8000/stream/1/
-#EXTINF:0,MAX FM
-http://15020.cloudrad.io:9222/live
 #EXTINF:0,Maxi45
 https://maxi45.schlagerparadies.de/maxi45
 #EXTINF:0,MaXX
@@ -3583,6 +3581,8 @@ https://stream.laut.fm/radiofausto?ref=radiode
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
+#EXTINF:0,Radio-FFR - Family & Friends Radio
+https://radio-ffr.de:8143/stream.ogg
 #EXTINF:0,Radio Five-O-Plus 93.3 FM
 http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 #EXTINF:0,Radio FlashBack 80
@@ -3691,6 +3691,8 @@ http://80.229.172.103:8000/;
 http://11.stmip.net:8404/stream
 #EXTINF:0,Radio-Lux
 https://radio-lux.stream.laut.fm/radio-lux
+#EXTINF:0,Radio Löwenkeller
+https://c02.lexycast.de:3690/;?type=http&nocache=40
 #EXTINF:0,Radio Majestic
 https://server-28.stream-server.nl:8876/stream
 #EXTINF:0,Radio Malchow
@@ -3711,8 +3713,6 @@ https://servermax.azuracast.com.es/listen/radio_silencio_fm/MAXIMAFMINTERNACIONA
 http://192.99.83.154:8006/stream
 #EXTINF:0,MDM Radio
 https://stream.radio-mdm.fr:8443/stream.mp3
-#EXTINF:0,radiomediona
-https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,Radio Melody
 https://stream.streambase.ch/rm/mp3-192/radiode/
 #EXTINF:0,Radio M Evergreen
@@ -4277,8 +4277,6 @@ https://everestcast.shoutcastservices.com:1965/stream
 https://stream.zeno.fm/u1tneffk08quv
 #EXTINF:0,Sintonía Digital
 https://stream.zeno.fm/1cysfppp5a0uv
-#EXTINF:0,Sirilaka Radio
-https://servidor14.brlogic.com:8456/live
 #EXTINF:0,Skatkis Stereo
 http://64.150.176.42:8122/stream/1/
 #EXTINF:0,Skillingsviser
@@ -4625,6 +4623,8 @@ http://streaming.radionomy.com/TV80scom
 https://ec1.yesstreaming.net:1955/stream
 #EXTINF:0,Tyme 102.9 WTYM
 http://51.81.171.213:8146/stream
+#EXTINF:0,UChoice Radio
+https://ice42.securenetsystems.net/UCR?playSessionID=5F839133-C57C-0036-8EB47CE3F8837047
 #EXTINF:0,The UK 1940s Radio Station
 http://1940sradio1.co.uk:8100/stream/1/
 #EXTINF:0,Unified Arts Radio
