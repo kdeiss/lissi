@@ -119,8 +119,6 @@ http://centauri.shoutca.st:9060/stream/1/
 https://stream.tunerplay.com/radio/8040/radio.mp3
 #EXTINF:0,21 Radio Dijon
 http://82.64.123.204:8001/21radio
-#EXTINF:0,24-7 Niche Radio - Romance
-https://ssl.shoutcaststreaming.us:8039/;?
 #EXTINF:0,247 Stereo
 https://c19.radioboss.fm:18080/stream
 #EXTINF:0,247 The Sound 
@@ -436,7 +434,7 @@ https://stream.laut.fm/arc
 #EXTINF:0,Radio Atlantis Rotterdam
 https://fra-ranger01.dedicateware.com:2020/stream/radioatlantisrotterdam/stream
 #EXTINF:0,ATLANTIS UK
-https://us2.amfmph.com:8080/stream
+http://54.38.44.70:8100/stream
 #EXTINF:0,Atomik Radio
 http://hosting.studioradiomedia.fr:2020/stream
 #EXTINF:0,Attic Radio
@@ -1293,6 +1291,8 @@ https://stream.laut.fm/habbotouch?ref=radiode
 http://s21.myradiostream.com:4610/
 #EXTINF:0,Halloweenradio
 https://listen.halloweenradio.net
+#EXTINF:0,Hamara Radio
+https://radio.adeeltek.com/listen/hamara/radio.mp3
 #EXTINF:0,95.0 HAMBURG ZWEI
 https://frontend.streamonkey.net/hh2-950?aggregator=Radio.de
 #EXTINF:0,Hank's Gumshoe OTR
@@ -2871,8 +2871,6 @@ https://ssl-1.radiohost.pl:9569/stream
 https://streaming.live365.com/a67710
 #EXTINF:0,MITA 
 https://streaming.live365.com/a26037
-#EXTINF:0,MIX995FM.NET
-https://ssl.shoutcaststreaming.us:8125/stream
 #EXTINF:0,MiXed Beatz Radio
 http://s5.radio.co/s52de48a74/listen.m3u
 #EXTINF:0,MIX FM LIGHT
@@ -2969,8 +2967,6 @@ https://nsu.radioca.st/nlivexmas
 http://streaming.live365.com/a87029
 #EXTINF:0,Noordzee Gold
 http://stream.noordzee105.be:8000/gold
-#EXTINF:0,NORA Oldie Party
-https://streams.norawebstreams.de/nora-oldieparty/mp3-128/radiode/
 #EXTINF:0,NORA Oldies 60er & 70er
 https://streams.norawebstreams.de/nora-oldies/mp3-128/radiode/
 #EXTINF:0,NORA Weihnachten
@@ -2983,12 +2979,12 @@ https://stream-53.zeno.fm/qmhb4q9xgm0uv?zs=DB0uMnLfS6yIZcbruKVcVg
 http://radio.dawgtalkers.net:8000/listen
 #EXTINF:0,North Pole Radio
 http://85.25.217.22:8050/stream/1/
-#EXTINF:0,Radio Nostalgia
-https://ice08.fluidstream.net/nostalgia_li.mp3
 #EXTINF:0,Nostalgia
 https://stream.zeno.fm/1r0mr23b368uv
 #EXTINF:0,Nostalgia FM
 https://server.spainbroadcast.net/8028/;
+#EXTINF:0,Radio Nostalgia - Genoa Calcio
+https://rn1.fluidstream.eu/nostalgia_li.mp3
 #EXTINF:0,Radio Nostalgia
 https://kathy.torontocast.com:2250/stream/1/
 #EXTINF:0,Nostalgia Oldies
@@ -3041,6 +3037,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/58004/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 http://hts07.kshost.com.br:11104/stream/1/
 #EXTINF:0,Radio Nova
 https://stream.bauermedia.fi/radionova/radionova_128.mp3
+#EXTINF:0,Nova's Music Lounge
+http://94.130.222.237:21712/listen.pls
 #EXTINF:0,NovaStar
 https://streaming.live365.com/a19911
 #EXTINF:0,Nova Webradio
@@ -3221,6 +3219,8 @@ https://radio5.domint.net:8166/stream
 https://s2.radio.co/s3ec20c9a3/listen
 #EXTINF:0,OZONEfm
 https://live.ozonefm.ro:8443/ozonefm
+#EXTINF:0,OZ Rewind
+http://45.64.97.211:9868/;
 #EXTINF:0,P9 Retro
 https://p9.p4groupaudio.com/P09_MM?args=other_01&distributor=radionet
 #EXTINF:0,Painel Web Rádio
@@ -3487,8 +3487,6 @@ http://92.204.50.53:40310/stream/1/
 http://stream2.bestfm.sk/128.mp3
 #EXTINF:0,radioBlue
 https://onair7.xdevel.com/proxy/xautocloud_g6oa_1827?mp=/;1/
-#EXTINF:0,Radio Bohemia
-http://5.9.65.9:8075/stream
 #EXTINF:0,Radio Bonheur
 https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
 #EXTINF:0,Radio Bop
@@ -3581,8 +3579,6 @@ https://stream.laut.fm/radiofausto?ref=radiode
 http://server7.streamserver24.com:31651/stream
 #EXTINF:0,Radio Freunde der Musik
 http://stream04.stream-webradiotechnik.de:8650/stream/1/
-#EXTINF:0,Radio-FFR - Family & Friends Radio
-https://radio-ffr.de:8143/stream.ogg
 #EXTINF:0,Radio Five-O-Plus 93.3 FM
 http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 #EXTINF:0,Radio FlashBack 80
@@ -3685,8 +3681,6 @@ https://mscp2.live-streams.nl:8192/lifelinemp3
 https://stream2-alfacast-hosting.com/8132/;
 #EXTINF:0,Radio LO1 - Radio Limbach-Oberfrohna
 http://85.25.118.42:8000/;
-#EXTINF:0,Radio London 266
-http://80.229.172.103:8000/;
 #EXTINF:0,Radio Lusitana
 http://11.stmip.net:8404/stream
 #EXTINF:0,Radio-Lux
@@ -3837,6 +3831,8 @@ https://server7.streamserver24.com:8080/proxy/rheinwelle2?mp=/stream/
 http://streams.radioriel.org:8040/stream
 #EXTINF:0,Radio Rio Preto Internet
 https://ssl.painelcast.com:7586/stream
+#EXTINF:0,Rádio Rodin
+https://icecast.bizwebradio.com/listen/rodin/radio.aac
 #EXTINF:0,Radio R.O.M.
 http://rs1.radiostreamer.com:8270
 #EXTINF:0,Radio Romantic
@@ -3897,6 +3893,8 @@ https://rsoled23.radioca.st/stream/1/
 http://sc1.radiosotenas.se/stream/1/
 #EXTINF:0,Radio Sound 83 
 https://sr11.inmystream.it/proxy/roberto?mp=/stream
+#EXTINF:0,Radio Soundgarden
+https://s11.streamcaster.eu:8114/stream1
 #EXTINF:0,Radiospazioweb
 https://stream.zeno.fm/hsn78gsdk5zuv
 #EXTINF:0,Radio-SRW
@@ -3997,8 +3995,6 @@ https://streams.rautemusik.fm/rautemusik_radyomerhaba/aac-48/
 https://net.radyonatinfm.com/listen/dysi/calbayog
 #EXTINF:0,Rag FM
 http://sc7.shoutcaststreaming.us:8564/;
-#EXTINF:0,Rakeeb Media Group (RMG)
-http://89.17.125.230:8000/
 #EXTINF:0,Ramkat Radio
 https://uslradio.net/8024/stream
 #EXTINF:0,Raol Retro
@@ -4023,8 +4019,6 @@ https://giorgia.radiobellissima.it:8070/radio.mp3
 https://giorgia.radiobellissima.it:8210/radio.mp3
 #EXTINF:0,RDMIX ITALO DISCO 80S
 https://giorgia.radiobellissima.it:8340/radio.mp3
-#EXTINF:0,Real Music FM
-http://82.15.165.75:88/broadwave.mp3?src=1&amp;rate=1
 #EXTINF:0,Real Oldies Music Radio
 https://streaming.live365.com/a67594
 #EXTINF:0,Radio Echo Des Choucas
@@ -4547,8 +4541,6 @@ https://securestreams.autopo.st:1197/stream/1/
 http://646.cloudrad.io:8234/stream/1/
 #EXTINF:0,The Stroll
 https://cast4.my-control-panel.com/proxy/radiosy3/live
-#EXTINF:0,610 Sturgeon "The Sturgeon"
-https://ais-edge103-live365-dal02.cdnstream.com/a36019
 #EXTINF:0,The Valley
 http://192.96.205.49:8080/;
 #EXTINF:0,Throw Back Hits Radio
@@ -4623,8 +4615,6 @@ http://streaming.radionomy.com/TV80scom
 https://ec1.yesstreaming.net:1955/stream
 #EXTINF:0,Tyme 102.9 WTYM
 http://51.81.171.213:8146/stream
-#EXTINF:0,UChoice Radio
-https://ice42.securenetsystems.net/UCR?playSessionID=5F839133-C57C-0036-8EB47CE3F8837047
 #EXTINF:0,The UK 1940s Radio Station
 http://1940sradio1.co.uk:8100/stream/1/
 #EXTINF:0,Unified Arts Radio
@@ -4637,8 +4627,6 @@ https://rs4.stream24.net/unser-radio.mp3
 http://host6.cartwall.at:7320/;
 #EXTINF:0,Up&Down Music Radio
 https://listen.radionomy.com/up-downmusicradio
-#EXTINF:0,Urban Essex Online Radio 
-https://urbanessexradio.radioca.st/
 #EXTINF:0,The Greatest R&B Hits - Urbanradio.com
 http://hydra.cdnstream.com/1534_backup
 #EXTINF:0,golden juke box
@@ -4953,8 +4941,6 @@ http://wkcs.knoxschools.org:8000/listen.mp3
 http://lin2.lax.fast-serv.com:8542/stream
 #EXTINF:0,WKOZ Cruising 98.3 FM
 https://ice10.securenetsystems.net/WKOZ
-#EXTINF:0,WKPL - Pickle FM 92.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/WKPLFM_SC.mp3
 #EXTINF:0,WKSD - Hot 99.7 FM
 https://ice5.securenetsystems.net/WKSD
 #EXTINF:0,WKSN Kissin' Oldies 1340

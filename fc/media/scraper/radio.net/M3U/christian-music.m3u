@@ -199,8 +199,6 @@ https://s4.radio.co/s74b13e7c4/listen
 http://streaming31.hstbr.net:8230/autodj
 #EXTINF:0,Audio Juvenil Cristiano
 http://stream-59.zeno.fm/fgc3v3kwt98uv?zs=gnk62vI7QWKJAb6pvmYtkw
-#EXTINF:0,Radio Autentica Ubate
-http://108.163.229.102:8047/stream/1/
 #EXTINF:0,Aviva2
 https://stream.avivamientoradio.net/radio/8000/radio.mp3
 #EXTINF:0,Avivamiento Radio
@@ -215,6 +213,8 @@ http://198.245.60.88:8300/;stream.mp3
 http://51.15.160.78:8012/;stream.mp3
 #EXTINF:0,Barak Radio Cristiana
 https://stream.zeno.fm/fwaca23w8qzuv.aac
+#EXTINF:0,Baraton FM 103.9
+https://stream.zeno.fm/e47f2kkmb78uv
 #EXTINF:0,Basco Radio - Gospel Christian
 https://stream.zeno.fm/004cqdd1fs8uv
 #EXTINF:0,Battle Axe Radio
@@ -1579,8 +1579,6 @@ http://s2.voscast.com:9758/;stream1618583524865/1
 https://stream.zeno.fm/tzz7ctkz9p8uv
 #EXTINF:0,KPNO - Good News Radio 90.9 FM
 https://ice41.securenetsystems.net/KGRD
-#EXTINF:0,KPN Radio
-http://us3.streamingpulse.com:7320/;
 #EXTINF:0,KPPC FM RADIO 96.9 FM
 https://radio.securenetsystems.net/v5/KPPCFM
 #EXTINF:0,KPRD
@@ -1921,6 +1919,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WCRFFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/IM_2_SC?pname=TDSdk
 #EXTINF:0,MPM Gospel Live Radio
 https://streams.radio.co/s25a906be3/listen
+#EXTINF:0,Mt Zion Radio KE
+https://stream.zeno.fm/2dw31b0rrfhvv
 #EXTINF:0,Música Barahonera
 http://stream-50.zeno.fm/cbzd3817schvv?zs=-T5o85eESCGdiu16-EAzuQ
 #EXTINF:0,Musica Cristiana Internacional
@@ -3337,8 +3337,6 @@ https://14398c.ha.azioncdn.net/primary/rj_voltaredonda.sdp/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/sp_votuporanga.sdp/playlist.m3u8
 #EXTINF:0,Rede Católica de Web rádio
 https://caikron.com.br:8060/stream
-#EXTINF:0,Rede Imaculada 94.5
-http://www.redeimaculada945fm.ddns.com.br:8010/;stream.mp3
 #EXTINF:0,REDE VERTICAL
 https://centova2.euroti.com.br:20028/live
 #EXTINF:0,RefNet
@@ -3987,6 +3985,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WFHMFM.mp3
 https://ice8.securenetsystems.net/WOTJ
 #EXTINF:0,WFIF - Life Changing Radio 1500 AM
 https://ic1.sslstream.com/wfif-fm
+#EXTINF:0,WFIL AM 560
+https://26433.live.streamtheworld.com/WFILAMAAC.aac
 #EXTINF:0,WFIX - 91.3 The Fix
 http://sc7.shoutcaststreaming.us:8026/;
 #EXTINF:0,WFKJ 890 AM - Oasis Network
@@ -4463,6 +4463,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3
 http://mediaserver3.afa.net:8000/talkhigh.mp3
 #EXTINF:0,WSMA 90.5 FM
 https://ice7.securenetsystems.net/CSNAAC
+#EXTINF:0,WSOG 88.1
+http://173.161.7.254:8000/stream1
 #EXTINF:0,WTBB Truth Radio
 http://s2.stationplaylist.com:9050/truth1.aac
 #EXTINF:0,WTBJ Truth Radio
@@ -4477,6 +4479,8 @@ https://ice24.securenetsystems.net/WTGN
 http://ph1.ministeriotv.com:8004/stream
 #EXTINF:0,WTLG - AFR Talk 88.3 FM
 http://mediaserver3.afa.net:8000/talkhigh.mp3
+#EXTINF:0,WTLN 950 AM
+https://14013.live.streamtheworld.com/WTLNAMAAC.aac
 #EXTINF:0,WTMR - 800 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTMRAM.mp3
 #EXTINF:0,WTMZ The Music Zone
@@ -4571,8 +4575,6 @@ https://ic2.sslstream.com/wzxv-fm
 http://88.119.151.74:8001/xfm
 #EXTINF:0,XMO Radio - The X Music Network
 https://streaming.live365.com/a71133
-#EXTINF:0,Yana 93.3 Fm
-https://usa16.fastcast4u.com/proxy/yana?mp=/stream
 #EXTINF:0,Yeshua La Voz de Jesucristo 1530 AM
 http://162.144.254.131:8010/yeshua
 #EXTINF:0,Yonkodo Radio

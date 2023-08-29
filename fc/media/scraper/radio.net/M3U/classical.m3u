@@ -131,6 +131,8 @@ http://s3.viastreaming.net:7030/stream/1/
 http://radiocast.rtp.pt/antena2opera80a.mp3
 #EXTINF:0,RTP Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
+#EXTINF:0,104.5 FM - Antena 1 Foz
+https://f64.fabricahost.com.br/antena1fozdoiguacu
 #EXTINF:0,apollo radio))) - Dresden
 https://streams.bcs-systems.de/apollo/live/dresden/mp3/radio.de
 #EXTINF:0,apollo radio))) - Chemnitz
@@ -181,6 +183,8 @@ http://stream.bnr.bg:8012/hristo-botev.aac
 https://stream.zeno.fm/utnnx7paza0uv
 #EXTINF:0,Borusan Klasik
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
+#EXTINF:0,BP Radio Classic
+https://radio.bpgn.xyz/listen/classic/low
 #EXTINF:0,Brass Band Radio
 https://uk6.internet-radio.com/proxy/brassbandradio?mp=/stream/
 #EXTINF:0,Bravo! Classical Music
@@ -475,8 +479,6 @@ https://christmasfm.cdnstream1.com/2549_128.mp3
 https://ais-sa1.streamon.fm/7230_128k.aac
 #EXTINF:0,CICZ The Dock 104.1 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CICZFM.mp3
-#EXTINF:0,CILU 102.7 FM - LU Radio
-http://luradio-server.lakeheadu.ca:8000/stereo128
 #EXTINF:0,CINA 1650 AM
 https://ice8.securenetsystems.net/CINA
 #EXTINF:0,CINEMUSIC Radio
@@ -735,8 +737,6 @@ https://streams.greenhost.nl:8006/vredenburg
 https://streams.greenhost.nl:8006/concertzenderlive
 #EXTINF:0,Radio Concierto
 https://radio02.ferozo.com/proxy/ra02001297?mp=/stream
-#EXTINF:0,Conjunto Country Radio
-https://ssl.shoutcaststreaming.us:8146/stream/1/
 #EXTINF:0,Contemporary Classical
 https://streaming.radio.co/sbbdfc8d3d/listen
 #EXTINF:0,Cotswold Hospital Radio - The Patientstation
@@ -791,8 +791,6 @@ https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=radio-de
 https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-320000.m3u8
 #EXTINF:0,Easy Jazz
 https://streaming.live365.com/a17629
-#EXTINF:0,eCienciano
-https://listen.openstream.co/6265/audio
 #EXTINF:0,El Cibernetico Rojas Radio
 https://sonic.radiostreaminglatino.com:10986/stream/1/
 #EXTINF:0,Emmachev Radio
@@ -982,7 +980,7 @@ https://mediaserv30.live-streams.nl:18088/live
 #EXTINF:0,Hitradio Buxtehude Classic 
 https://stream.hitradio-buxtehude.de/radiode/hitradio-buxtehude-classic
 #EXTINF:0,Hits 100 Arizona
-https://stream.zeno.fm/rvwgmn50k2zuv
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4627614_SC
 #EXTINF:0,HJCK
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HJCK.mp3
 #EXTINF:0,Hot Country 103
@@ -1030,7 +1028,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIAAFM.mp3
 #EXTINF:0,IPR News 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM.mp3
 #EXTINF:0,iriezio nfm
-http://usa4.fastcast4u.com:6350/stream
+http://usa19.fastcast4u.com:7660/;
 #EXTINF:0,Iranian public radio
 https://my.radiolize.com/radio/8390/radio.mp3
 #EXTINF:0,Is That Jazz Radio
@@ -1485,8 +1483,6 @@ http://onair22.streaming.xdevel.com:7598/;
 https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDR KULTUR
 https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/aac/high/stream.aac?aggregator=radio-de
-#EXTINF:0,Rádio MEC 99.3 FM
-https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/playlist.m3u8
 #EXTINF:0,Mechanical Music Radio
 http://198.27.66.225:8978/stream
 #EXTINF:0,Med1 Radio - Classique
@@ -1655,6 +1651,8 @@ https://dattavolt.com/8328/stream
 https://edge.iono.fm/xice/112_medium.aac
 #EXTINF:0,Radio1 Classic
 https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
+#EXTINF:0,radio24online
+http://icecast2.radio24online.com:9000/radio24online.mp3
 #EXTINF:0,Radio 74
 http://radio74.ice.infomaniak.ch/radio74.aac
 #EXTINF:0,Radio 9 
@@ -1819,6 +1817,8 @@ http://streams.radioriel.org:8030/stream
 http://s5.voscast.com:10128/1
 #EXTINF:0,Radio Russian National Orchestra
 https://rnor.ru/data/radioRNO/radio128.mp3
+#EXTINF:0,Rádio Rodin
+https://icecast.bizwebradio.com/listen/rodin/radio.aac
 #EXTINF:0,Radio R.O.M.
 http://rs1.radiostreamer.com:8270
 #EXTINF:0,SRR Radio Romania Muzical
@@ -1827,6 +1827,8 @@ http://stream2.srr.ro:8022/listen.pls
 https://gb25.streamgates.net/radios-audio/100Classic/playlist.m3u8
 #EXTINF:0,Radio Sagittarius
 https://listen.radioking.com/radio/255907/stream/300502
+#EXTINF:0,Radio Salmak
+http://stream.radiojar.com/atdbyqwr8vuvv
 #EXTINF:0,Radio Shang-A-Lang
 https://s3.radio.co/sfefabbd16/listen
 #EXTINF:0,Retro Radio Singjaal
@@ -2035,6 +2037,8 @@ http://s3.voscast.com:10018/;
 https://streams.radio.co/scf0104908/listen
 #EXTINF:0,The Free Radio
 https://listen.thefreeradio.net/listen/the_free_radio/radio.mp3
+#EXTINF:0,The Sound of Ireland
+https://christmasfm.cdnstream1.com/2548_128.mp3
 #EXTINF:0,Timeline Radio
 https://stream.zeno.fm/mu74ukrh5a0uv
 #EXTINF:0,Tinder Radio - Wedding Classical

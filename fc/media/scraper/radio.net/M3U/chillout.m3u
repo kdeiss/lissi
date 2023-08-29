@@ -613,8 +613,6 @@ https://chill.friskyradio.com/friskychill_mp3_high
 http://audio.sjamz.com:9022/;
 #EXTINF:0,Galaxie Lounge
 https://www.radioking.com/play/galaxielounge
-#EXTINF:0,GBSRADIO
-https://listen.radioking.com/radio/132484/stream/172396
 #EXTINF:0,Génesis by Foromedios Radio
 https://stream-47.zeno.fm/1dgzgncevbruv?zs=611JgDozRPCZSse9nQwGnA
 #EXTINF:0,Glastonbury Radio
@@ -1235,6 +1233,8 @@ https://listen.radioking.com/radio/100408/stream/139171
 https://nordicbeatradio.radioca.st/stream/1/
 #EXTINF:0,Nordic Lodge Copenhagen
 http://radio.streemlion.com:1160/stream/1/
+#EXTINF:0,North Shore Music FM
+https://server35795.streamplus.de/stream.mp3
 #EXTINF:0,NRJ CHILL
 https://scdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Chill
 #EXTINF:0,NRJ DEEP
@@ -1358,7 +1358,7 @@ https://s3.voscast.com:10545/stream
 #EXTINF:0,Czwórka - Polskie Radio Program 4 
 https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
 #EXTINF:0,Progressive FM
-http://stream-42.zeno.fm/xxmfpdaa7ehvv?zs=gEESrpIBShKawSkF3N16Xw
+https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Positively Birdsong
 https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
 #EXTINF:0,Positively Cascade
@@ -1389,6 +1389,8 @@ http://51.255.235.165:5092/;
 http://stream.zeno.fm/sgpeqtzkmzauv.m3u
 #EXTINF:0,R2 Audiovisual Radio
 https://stream.zeno.fm/bufaptza04zuv
+#EXTINF:0,radio24online
+http://icecast2.radio24online.com:9000/radio24online.mp3
 #EXTINF:0,Radio42
 http://www.radio42.eu/playHiFi.pls
 #EXTINF:0,Radio 90,1 - Dein Lounge Radio
@@ -1915,3 +1917,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3
 http://62.149.196.16:8800/stream2
 #EXTINF:0,Zero Beat Zone (MRG.fm)
 http://listen.mrg.fm:8800/listen.pls?sid=3
+#EXTINF:0,ZOOradio 
+https://www.zoofine.com:8000/radio

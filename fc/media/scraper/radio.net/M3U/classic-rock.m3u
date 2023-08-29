@@ -59,10 +59,6 @@ https://stream.1a-webradio.de/saw-rock/mp3-128/radiode-1A/stream.mp3
 https://strmreg.1.fm/crock_mobile_mp3
 #EXTINF:0,1-Radio ROCK AMERICA 
 https://listen.radionomy.com/1-radiorockamerica
-#EXTINF:0,24-7 Niche Radio - Legends Classic Rock
-https://ssl.shoutcaststreaming.us:8043/;?
-#EXTINF:0,24-7 Niche Radio - Legends
-https://ssl.shoutcaststreaming.us:8041/;?
 #EXTINF:0,3MDR Mountain District Radio 97.1 FM
 https://icecast1.myradio.click/cast1_64k.aacp
 #EXTINF:0,Triple M 99.5 Cairns
@@ -141,6 +137,8 @@ https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3
 https://streaming.live365.com/a63504
 #EXTINF:0,ANGE RADIO
 http://listen.radionomy.com/AngeRadio
+#EXTINF:0,104.5 FM - Antena 1 Foz
+https://f64.fabricahost.com.br/antena1fozdoiguacu
 #EXTINF:0,ANTENNE BAYERN - Classic Rock
 https://stream.antenne.de/classic-rock-live/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,ANTENNE CLASSIC ROCK
@@ -225,8 +223,6 @@ https://baytrustradio.radioca.st/stream
 https://radio.streemlion.com:1795/stream
 #EXTINF:0,BCC Rock Radio
 https://radio12.pro-fhi.net/radio/9134/stream.mp3
-#EXTINF:0,Bear Metal Radio
-https://ssl.shoutcaststreaming.us:8114/;
 #EXTINF:0,Beatles 24/7
 https://streaming.live365.com/a13402
 #EXTINF:0,Bel RTL
@@ -267,6 +263,8 @@ https://bigrradio.cdnstream1.com/5155_128
 https://bigrradio.cdnstream1.com/5166_128
 #EXTINF:0,Boomer Web Radio
 https://us2.maindigitalstream.com/ssl/KOBMA
+#EXTINF:0,BP Radio Classic
+https://radio.bpgn.xyz/listen/classic/low
 #EXTINF:0,CADENA Dial 91.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 #EXTINF:0,Café Radio
@@ -496,9 +494,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1_SC
 #EXTINF:0,EKR - Oldies Paradies
 http://ekrrockradio3.scs.ms:8300/;
 #EXTINF:0,EKR - Retro Rock
-https://ssl.shoutcaststreaming.us:8053/stream/1/
-#EXTINF:0,EKR - European Klassik Rock
-https://ssl.shoutcaststreaming.us:8027/stream/1/
+http://ekrrockradio4.scs.ms:8400/;
 #EXTINF:0,EKR - Easy Rock Paradise
 http://ekrrockradio2.scs.ms:8200/
 #EXTINF:0,El TunelRock Online
@@ -547,8 +543,6 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://stream.bruce-radio.be/bruce-classic-rock
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -573,8 +567,6 @@ https://streaming.live365.com/a11381
 https://gemradio.radioca.st/stream/1/
 #EXTINF:0,Generations X
 https://streaming.live365.com/a68269
-#EXTINF:0,Go FM
-https://stream4.thepuremix.net/gofm.mp3
 #EXTINF:0,089Kult
 https://addrad.io/4455854
 #EXTINF:0,Gong 97.1
@@ -835,6 +827,8 @@ http://stream.radiojar.com/zwtcz3bkxy8uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFM.mp3
 #EXTINF:0,KRGY - The Wolf 97.3 FM
 https://ice8.securenetsystems.net/KRGY?
+#EXTINF:0,KRHQ Q102.3
+https://ice41.securenetsystems.net/KRHQ
 #EXTINF:0,KRIC the Classic
 https://streaming.live365.com/a39754
 #EXTINF:0,KRJK - Jack FM 97.3 FM
@@ -1417,6 +1411,8 @@ https://bayshore-ais.leanstream.co/CIXKFM
 https://digitacdn.akamaized.net/hls/live/629243/radiorock/master-128000.m3u8
 #EXTINF:0,Radio Rock
 https://tx.planetradio.co.uk/http_live_bauerno.php?i=radiorock_no_aac&aw_0_1st.playerid=radio_net
+#EXTINF:0,RADIO ROCKLINE
+https://ice.creacast.com/rockline
 #EXTINF:0,Radio Rock Master
 https://live.paineldj.com.br/proxy/rockmaster?mp=%2Fstream
 #EXTINF:0,Generación al aire
@@ -1606,7 +1602,7 @@ https://streaming.radiostreamlive.com/radiorockon_devices?
 #EXTINF:0,Rock On - Online Radio Panamá
 https://stream.zeno.fm/55vpetz081zuv
 #EXTINF:0,Rockradio.dk
-https://stream.rcs.revma.com/shut3awap8hvv
+https://stream.rcs.revma.com/4dug9tcr58hvv
 #EXTINF:0,RockRadio (MRG.fm)
 http://62.149.196.16:8080/stream2
 #EXTINF:0,Rock Radio
@@ -2081,8 +2077,6 @@ http://stream.abacast.net/direct/townsquare-wpdhfmaac-ibc3
 http://64.24.74.20:8000/wpgs.m3u
 #EXTINF:0,WPKE / WEKB Classic Rock 103.1 FM & 1240 / 1460 AM
 https://ice24.securenetsystems.net/WPKE?playSessionID=812111D3-D603-5902-6F305CF931C572B0
-#EXTINF:0,WPMD
-http://199.180.75.123/stream/1/
 #EXTINF:0,WPRY - The Zone 95.3 FM
 https://ice10.securenetsystems.net/KLMZ
 #EXTINF:0,WPVM - The Voice 103.7 FM
