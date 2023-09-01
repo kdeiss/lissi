@@ -131,8 +131,6 @@ http://s3.viastreaming.net:7030/stream/1/
 http://radiocast.rtp.pt/antena2opera80a.mp3
 #EXTINF:0,RTP Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
-#EXTINF:0,104.5 FM - Antena 1 Foz
-https://f64.fabricahost.com.br/antena1fozdoiguacu
 #EXTINF:0,apollo radio))) - Dresden
 https://streams.bcs-systems.de/apollo/live/dresden/mp3/radio.de
 #EXTINF:0,apollo radio))) - Chemnitz
@@ -187,14 +185,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK
 https://radio.bpgn.xyz/listen/classic/low
 #EXTINF:0,Brass Band Radio
 https://uk6.internet-radio.com/proxy/brassbandradio?mp=/stream/
-#EXTINF:0,Bravo! Classical Music
-https://listen.radionomy.com/bravo-classicalmusic
-#EXTINF:0,Bravo! Classical Music
-https://streamingv2.shoutcast.com/Bravo-ClassicalMusic
-#EXTINF:0,Bravo! Opera
-https://listen.radionomy.com/bravo-opera
-#EXTINF:0,Bravo! Ópera radio
-https://streamingv2.shoutcast.com/Bravo-Opera
 #EXTINF:0,Bremen Zwei
 https://icecast.radiobremen.de/rb/bremenzwei/live/icecast.radiobremen.de?aggregator=radio-de
 #EXTINF:0,Brissa Avhalon
@@ -739,6 +729,8 @@ https://streams.greenhost.nl:8006/vredenburg
 https://streams.greenhost.nl:8006/concertzenderlive
 #EXTINF:0,Radio Concierto
 https://radio02.ferozo.com/proxy/ra02001297?mp=/stream
+#EXTINF:0,Conjunto Country Radio
+https://ssl.shoutcaststreaming.us:8146/stream/1/
 #EXTINF:0,Contemporary Classical
 https://streaming.radio.co/sbbdfc8d3d/listen
 #EXTINF:0,Cotswold Hospital Radio - The Patientstation

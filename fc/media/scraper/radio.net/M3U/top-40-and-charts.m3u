@@ -613,6 +613,8 @@ http://s7.myradiostream.com:16186/stream/1/
 https://stream.bigfm.de/hamburg/mp3-128/radiode/
 #EXTINF:0,bigFM Niedersachsen
 https://stream.bigfm.de/niedersachsen/mp3-128/radiode
+#EXTINF:0,bigFM Nordrhein-Westfalen
+https://stream.bigfm.de/nrw/mp3-128/radiode
 #EXTINF:0,bigFM Rheinland-Pfalz
 https://streams.bigfm.de/deutschland/128-mp3/radiode
 #EXTINF:0,Big FM
@@ -647,8 +649,6 @@ https://s5.voscast.com:9097/stream
 https://listen.openstream.co/4278/audio
 #EXTINF:0,Blacklife-Radio
 http://94.249.254.176:8000/;
-#EXTINF:0,BLACK MAGIC RADIO
-http://cast3.my-control-panel.com/proxy/kroksyst/stream
 #EXTINF:0,Blackpool Radio
 https://blackpoolradio.radioca.st/stream/1/
 #EXTINF:0,Radio Blaubeuren
@@ -703,8 +703,6 @@ https://live.visir.is/hls-radio/bylgjan/playlist.m3u8
 https://listen.openstream.co/6691/audio
 #EXTINF:0,Cadena 3
 https://liveradio.mediainbox.net/radio3.mp3
-#EXTINF:0,CADENA Dial Andalucia Este 91.8 FM
-http://streaming8.elitecomunicacion.es:8226/stream/1/
 #EXTINF:0,Cadena Digital
 http://185.23.192.118:8006/;
 #EXTINF:0,Cadena Elite Granada 106.4 FM
@@ -729,6 +727,8 @@ http://campusradio.zak.kit.edu:8000/campusradiokitbib
 http://fluoz.radiojar.com:80/thynsc4a1neuv/source
 #EXTINF:0,Canal 105 FM
 https://stream-35.zeno.fm/b94afcu8na0uv?zs=5YUOiT0QQTW2_fjpMvX6dw
+#EXTINF:0,Canal95
+https://streaming.conectaapp.cl/canal95
 #EXTINF:0,Radio Candela Mega Classic Hits
 http://c2.radioboss.fm:8487/stream
 #EXTINF:0,Cape Winelands FM
@@ -1183,6 +1183,8 @@ http://streamplus55.leonex.de:10446/
 https://le08.euddn.net/9e66fa7c09ac134a900eeabfb85702a059d3e6a13a958993bf09693079a363569f44b6838fa3a7eeaa6ff9a53ae24493457c078c3a932d5fd2a7001c8518b7a332320cf0d5c80218f2a0128feb18bcf31a1617f49f47af8effe6fdd7a48b3e56d5dce41b564cad8fac459b6ae1e0f4b57fbc5dfbe3d0ecbf46967d538b045101b48c1f4bab5db018097fc7579e51d9403e40240b33cac56675979aabf8e1f6fe/dfm.aac
 #EXTINF:0,DFM 101.2 FM
 https://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:0,DFT NEWS RADIO
+https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,Diaspora Life Radio
 https://puma.streemlion.com:1280/stream
 #EXTINF:0,Die - wilden - 4
@@ -1703,6 +1705,8 @@ https://server18857.streamplus.de/stream.mp3
 https://s9.citrus3.com:2020/public/funcidy
 #EXTINF:0,Fun Radio 104.3
 http://solid9.streamupsolutions.com:8077/stream
+#EXTINF:0,Fun Radio Czechoslovakia
+https://stream.funradio.sk:18443/fun128.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -2119,8 +2123,6 @@ https://stream.cor.insanityradio.com/insanity320.mp3
 https://addrad.io/445fxg4
 #EXTINF:0,Inselradio Föhr
 https://s10.streamingcloud.online:13192/stream
-#EXTINF:0,Mallorca Sunshine Radio - Classics
-https://stream.rcs.revma.com/mallorcasunshineradioclassics
 #EXTINF:0,interativa FM Vila Nova dos Martírios
 http://stm21.srvaudio.com.br:10978/stream/1/
 #EXTINF:0,InterCentro Palomora
@@ -2173,6 +2175,8 @@ https://live.stream.maxfive.com/max5-joelive?aggregator=radiode
 https://rs33.stream24.net/joke-fm.mp3
 #EXTINF:0,The Jonathan Channel
 https://tjc.wnyc.org/js-stream
+#EXTINF:0,Jon Radio
+https://radiostream.neotel.mk/jonradio
 #EXTINF:0,Jouw 90's Radio
 http://streaming.jouw90sradio.nl/90saac
 #EXTINF:0,Radio Jovem FM
@@ -2391,8 +2395,6 @@ https://icecast4.play.cz/kissmorava128.mp3
 https://icecast1.play.cz/kissproton128.mp3
 #EXTINF:0,Kiss Publikum
 https://icecast8.play.cz/kisspublikum128.mp3
-#EXTINF:0,Kisstanbul Radio
-https://cast1.torontocast.com:3875/stream
 #EXTINF:0,Radio Kit FM
 http://big1.coollabel-productions.com:8100/kitfm274.mp3
 #EXTINF:0,KJCK-FM 97.5 FM
@@ -2433,6 +2435,8 @@ https://ice42.securenetsystems.net/KLSM
 https://ice3.securenetsystems.net/KLTA
 #EXTINF:0,KLTA Big 98.7
 https://ice3.securenetsystems.net/KLTA
+#EXTINF:0,KLTG The Beach 96.5 FM
+https://ice42.securenetsystems.net/KLTGFM
 #EXTINF:0,KLUC-FM - 98.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLUCFM.mp3
 #EXTINF:0,KMCK Power 105.7 FM
@@ -2527,6 +2531,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KVYBFM.mp3
 https://ice5.securenetsystems.net/KWLF
 #EXTINF:0,KWNN 98.3 - KWIN
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWINFM.mp3
+#EXTINF:0,KWPW Power 108 FM
+https://ice42.securenetsystems.net/KWPW
 #EXTINF:0,KWWK-DB Worldwide Radio
 http://192.95.39.65:5561/;stream/1
 #EXTINF:0,KWWV Wild 106.1 FM
@@ -4891,12 +4897,14 @@ https://streaming.live365.com/a60541
 https://stream.laut.fm/playhits?ref=radiode
 #EXTINF:0,Playhitz
 https://listen.openstream.co/3638/audio/
+#EXTINF:0,Play Radio FM
+https://live.playradio.org:8443/FMHD
 #EXTINF:0,Play Radio
 https://stream.radiojar.com/0zs50dbr274tv
 #EXTINF:0,Play Radio
 https://stream.radiojar.com/d9cm273ystzuv
 #EXTINF:0,Play Radio Priego 88 FM
-https://streaming01.radiosenlinea.com.ar:10887/stream/1/
+https://radios.sonidoshd.com:7016/stream
 #EXTINF:0,Plexus Radio - Top 40 Hot hits
 https://stream.zeno.fm/ekmnvb8e22quv
 #EXTINF:0,Puls FM Varberg
@@ -5373,8 +5381,12 @@ https://stream.lokalradio.nrw/44525zp
 http://server9.20comunicacion.com:8200/live
 #EXTINF:0,kayseri radio life
 http://yayin2.canliyayin.org:8698/;
+#EXTINF:0,Radio Lina
+https://streaming.shoutcast.com/radiolina
 #EXTINF:0,Radio Line 99.1 FM
 https://online.radioline.fm:8443/stream
+#EXTINF:0,radio locali d'italia
+https://shoutcast2.streamingmedia.it/proxy/radiolocaliditalia
 #EXTINF:0,Radio Lusitana
 http://11.stmip.net:8404/stream
 #EXTINF:0,Radio M 24 102.7
@@ -5383,6 +5395,8 @@ https://sp0.redeaudio.com/9924/stream
 https://rbx2.hnux.com/149.202.22.75:8598/stream/1/
 #EXTINF:0,Radio Magenta
 http://sr9.inmystream.info:8038/stream
+#EXTINF:0,RadioMagicUnicorn
+https://radio.chat4beat.nl:7443/listen/radiomagicunicorn/radio.mp3
 #EXTINF:0,Radio Mainumby FM
 https://sonicpanel.gabehost.com/8034/stream
 #EXTINF:0,Radio Manbassa
@@ -5419,6 +5433,8 @@ http://yayin.radiomoodtr.com:5862/stream/1/
 http://i.klikhost.com:8320/
 #EXTINF:0,Radio Mülheim - Dein Top40 Radio
 https://stream.lokalradio.nrw/445268p
+#EXTINF:0,RMV Radio Marne la Vallée
+https://rmv.amediacast.com/livehd
 #EXTINF:0,Radio Nacional de Honduras Oficial
 http://stream-59.zeno.fm/wxsfkbgk0d0uv?zs=7tfrjMx3SUW59gSO5ntfrA
 #EXTINF:0,Radio Nano
@@ -5463,6 +5479,8 @@ http://server4.streamserver24.com:21648/stream/1/
 http://91.90.255.85:8000/01
 #EXTINF:0,Radio Pinocchio
 https://server7.streamserver24.com:8080/proxy/radiopin?mp=/stream
+#EXTINF:0,RADIO +39
+https://sr7.inmystream.it/proxy/antonio?mp=/stream
 #EXTINF:0,RadioPlay.nl
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Radio Plus Pristina
@@ -5591,6 +5609,8 @@ https://stream-41.zeno.fm/n7ur3nfdft5tv?zs=lAuhNCyPTHqis9LQEPzbVA
 http://94.24.49.44:8400/;
 #EXTINF:0,RADIO STAR hitsradio
 https://streamingv2.shoutcast.com/RADIOSTARHITSRADIO
+#EXTINF:0,Stella Fm
+https:/nr12.newradio.it:8652/stream
 #EXTINF:0,Radio Studio 1 105.8
 https://radiostudio1.ice.infomaniak.ch/radiostudio1-128.mp3?
 #EXTINF:0,Radio Studio 20
@@ -5719,6 +5739,8 @@ https://listen.radionomy.com/radioxdfeelthemusic.m3u
 http://stream.zeno.fm/erqt4rfve5zuv
 #EXTINF:0,RadioXYZ
 https://streaming.coollective.nl:8443/RadioXYZ
+#EXTINF:0,Radio Yanosik
+https://stream.rcs.revma.com/24yk9b7ebhuvv
 #EXTINF:0,Radio Zaracay
 https://stream-56.zeno.fm/as3xhhc0ts8uv?zs=0MHPlcgOSH6k5gG_An7aOQ
 #EXTINF:0,Radio ZET Hits
@@ -6159,6 +6181,8 @@ https://liveradio.swr.de/rddez3a/swr3/
 https://listen.openstream.co/4802/audio
 #EXTINF:0,Talento Chocoano
 https://listen.radionomy.com/talento-chocoano.m3u
+#EXTINF:0,Tamil Beatz
+https://stream.zeno.fm/wghr4hh9r4pvv
 #EXTINF:0,Radio Tatras International
 http://s32.myradiostream.com:10486/stream/1/
 #EXTINF:0,Tay FM 
@@ -6553,8 +6577,6 @@ https://ice42.securenetsystems.net/WEOW
 http://servers58.com:8900/stream
 #EXTINF:0,Western Cape FM 92.8
 https://stream.zeno.fm/ez9w4mwz2tzuv
-#EXTINF:0,West Tampa Radio
-http://fasserver.dyndns.org:8001/stream
 #EXTINF:0,WEUP 1700 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEUPAM_SC
 #EXTINF:0,WEZF - Star 92.9
@@ -6603,8 +6625,6 @@ https://ice5.securenetsystems.net/WIVQ?type=.mp3
 https://nebcoradio.com:8443/WIXM
 #EXTINF:0,WIXX 101 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC
-#EXTINF:0,W!ZARD Radio Station
-http://159.223.10.111:8000/wizardstream
 #EXTINF:0,WIZM Z93
 http://crystalout.surfernetwork.com:8001/WIZM_MP3
 #EXTINF:0,WJAS - the Talk of Pittsburgh
@@ -6677,6 +6697,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WNFNFMAAC_SC
 https://ice23.securenetsystems.net/WINK106
 #EXTINF:0,WNTQ 93Q
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNTQFMAAC_SC
+#EXTINF:0,WOAO STEREO
+https://conectperu.com/8124/stream
 #EXTINF:0,WODS - 103.3 AMP Radio
 https://live.wostreaming.net/manifest/audacy-wwbxfmaac-hlsc.m3u8
 #EXTINF:0,WOJO - La Que Buena 105.1 FM
@@ -6725,6 +6747,8 @@ https://ice.wbcengineering.com:8127/stream
 https://ice5.securenetsystems.net/WSKS
 #EXTINF:0,WSMD Star 98.3 FM
 http://www.streamvortex.com:11010/live
+#EXTINF:0,WSOY Y103
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSOYFMAAC_SC
 #EXTINF:0,WSPK - K-104.7 104.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WSPKFMAAC.aac
 #EXTINF:0,WSSX 95.1 FM
