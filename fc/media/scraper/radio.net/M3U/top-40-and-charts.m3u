@@ -33,8 +33,6 @@ https://streaming.radio.co/s188e71c13/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEFM_1021AAC_SC
 #EXTINF:0,102.5 Edge FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/EDGE1025AAC_SC
-#EXTINF:0,102FM.re
-https://rocket.streamradio.fr:8006/stream
 #EXTINF:0,103.5 Capital FM Kigali
 http://stream.zeno.fm/wmf5p1176juvv
 #EXTINF:0,WXSS - 103.7 KISS-FM
@@ -451,6 +449,8 @@ https://surilive.com:8000/stream
 https://frontend.streams.arabella.at/arabella-hot?aggregator=radio-at
 #EXTINF:0,Arabesk Radyo 
 https://dinle.arabeskradyo.biz/stream/1/
+#EXTINF:0,Arauto FM
+https://cast3.youngtech.radio.br/listen/arautofm/radio
 #EXTINF:0,Radio Archipiélago
 https://radios.blumhost.es/8006/stream
 #EXTINF:0,Aready Global
@@ -973,6 +973,8 @@ https://newcap.leanstream.co/CKQKFM
 https://stream.jpbgdigital.com/CKQQ/HEAAC/48k/playlist.m3u8
 #EXTINF:0,CKRL 89,1
 http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:0,CKRW - The Rush 96.1 FM
+https://sssx.radyosfer.com/gurbetcifm/stream
 #EXTINF:0,CKSG Star 93.3 FM
 https://ice64.securenetsystems.net/CKSG
 #EXTINF:0,CKUE 100.7 Cool FM
@@ -1269,6 +1271,8 @@ http://stream.ehrhiti.lv:8000/Stream_27.aac
 http://stream.ehrhiti.lv:8000/Stream_33.aac
 #EXTINF:0,Eingdoi Radio Thailand
 http://ohmi-design.com:8170/stream/1/
+#EXTINF:0,EiTB Euskadi Gaztea
+https://multimedia.eitb.eus/live-content/gaztea-hls/bitrate_1.m3u8
 #EXTINF:0,Radio El Bahdja 91.5 FM
 https://webradio.tda.dz/ElBahdja_64K.mp3
 #EXTINF:0,Eldoradio - 25 Joer Chartbreaker
@@ -1705,7 +1709,7 @@ https://server18857.streamplus.de/stream.mp3
 https://s9.citrus3.com:2020/public/funcidy
 #EXTINF:0,Fun Radio 104.3
 http://solid9.streamupsolutions.com:8077/stream
-#EXTINF:0,Fun Radio Czechoslovakia
+#EXTINF:0,Fun Radio - Live
 https://stream.funradio.sk:18443/fun128.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
@@ -1769,6 +1773,8 @@ https://pureplay.cdnstream1.com/6024_64.aac/playlist.m3u8
 http://stream.zeno.fm/luostc35tu7tv
 #EXTINF:0,Grande Serra Fm 90,9
 https://ouricuri.grandeserra.com.br/;
+#EXTINF:0,Great 93
+https://a.hostpleng.cloud/8000/stream/1/
 #EXTINF:0,Greatest Hits Non-Stop
 https://s8.myradiostream.com/58238/stream/1/
 #EXTINF:0,Grensland
@@ -2019,6 +2025,8 @@ https://ice41.securenetsystems.net/HOTT93
 https://stream.zeno.fm/cltpbd1wwacvv
 #EXTINF:0,Hitradio-Breitungen
 https://s3.genx-stream.de:8052/stream
+#EXTINF:0,HotStarRadio.DE
+https://s3.genx-stream.de:8652
 #EXTINF:0,Huahin Radio Thailand 
 https://inter1.plathong.net/7008/stream/1/
 #EXTINF:0,Splendid Radio Iowa
@@ -2075,6 +2083,8 @@ https://live.leanstream.co/ICRTFM-MP3
 https://tarquinia-danidi01.radioca.st/srteam2
 #EXTINF:0,IDM RADIO
 https://player.voxhd.com.br/proxy/8364
+#EXTINF:0,iHeartRadio Pop Mexicali
+https://stream9.mexiserver.com:8094/;
 #EXTINF:0,I LOVE 2 DANCE
 https://streams.ilovemusic.de/iloveradio2.mp3
 #EXTINF:0,I LOVE DANCE FIRST!
@@ -3965,6 +3975,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC_SC
 http://192.187.112.50:8174/;stream.mp3
 #EXTINF:0,Los 40 Principales Martínez de la Torre
 http://144.217.67.108:2381/;
+#EXTINF:0,Los 40 Principales Matamoros
+http://radio.alphamx.net:8104/;
 #EXTINF:0,Los 40 Principales Mérida
 https://stream.zeno.fm/44t6wqmc4p8uv
 #EXTINF:0,Los 40 Principales Tapachula
@@ -5451,6 +5463,8 @@ http://195.24.89.6:8000/
 https://ec1.everestcast.host:2980/stream
 #EXTINF:0,Radio New York Live 
 https://streaming.radiostreamlive.com/radionylive_devices
+#EXTINF:0,Radio Noirmout
+https://flux.radionoirmout.fr:8443/wrn.mp3
 #EXTINF:0,Radio NORDJYSKE
 https://stream.anr.dk/nordjyske
 #EXTINF:0,RADIO NORMANDIE CHERBOURG
@@ -5609,8 +5623,6 @@ https://stream-41.zeno.fm/n7ur3nfdft5tv?zs=lAuhNCyPTHqis9LQEPzbVA
 http://94.24.49.44:8400/;
 #EXTINF:0,RADIO STAR hitsradio
 https://streamingv2.shoutcast.com/RADIOSTARHITSRADIO
-#EXTINF:0,Stella Fm
-https:/nr12.newradio.it:8652/stream
 #EXTINF:0,Radio Studio 1 105.8
 https://radiostudio1.ice.infomaniak.ch/radiostudio1-128.mp3?
 #EXTINF:0,Radio Studio 20

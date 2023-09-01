@@ -201,6 +201,8 @@ https://ssl1.transmissaodigital.com:2490/stream/;
 https://stream.radiojar.com/0rzd7542w68uv
 #EXTINF:0,98bpm - Destin's Pure Dance Station
 https://ec4.yesstreaming.net:3305/stream
+#EXTINF:0,99.9 Plaza Radio
+https://stream1.solstreaming.com:8112/stream
 #EXTINF:0,AB 95 FM - Albacete 95
 https://stream.zeno.fm/szskq9dxs98uv
 #EXTINF:0,ABC Dance
@@ -1641,6 +1643,8 @@ https://ec5.yesstreaming.net:2615/stream
 https://stream1.themediasite.co.uk:7014/stream
 #EXTINF:0,Fitness Radio
 https://stream-22.zeno.fm/fb9sp98vc5zuv?zs=101ebyGXS9K2g2bsiUCKXg
+#EXTINF:0,Flaix BAC
+https://nodo07-cloud01.streaming-pro.com:8005/flaixbac.mp3
 #EXTINF:0,Flaix FM
 https://flaixfm.streaming-pro.com:8003
 #EXTINF:0,FLASH DANCE 90
@@ -1779,8 +1783,6 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
-#EXTINF:0,Fun Radio Dance
-https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -2081,6 +2083,8 @@ https://fra-pioneer08.dedicateware.com:1945/stream
 https://mp3.stream.tb-group.fm/ht.mp3
 #EXTINF:0,Hoxton FM
 http://99.198.118.250:8014/stream
+#EXTINF:0,HotStarRadio.DE
+https://s3.genx-stream.de:8652
 #EXTINF:0,Hunter.FM - Smash!
 https://hls.hunter.fm/smash/192.m3u8
 #EXTINF:0,Hunter.FM - Tropical
@@ -2107,12 +2111,14 @@ https://stream.zeno.fm/n5qq5qpv8k0uv
 https://ssl1.viastreaming.net:7005/;listen.mp3
 #EXTINF:0,SonicaAlternative
 https://ssl1.viastreaming.net:8005/stream/1/
-#EXTINF:0,No More No Less
-https://ssl1.viastreaming.net:8750/stream/1/
 #EXTINF:0,SonicaClub
 https://ssl1.viastreaming.net:8032/stream/1/
-#EXTINF:0,Sonica Tribe
-https://ssl1.viastreaming.net:8805/stream/1/
+#EXTINF:0,Sonica Connect
+https://ssl1.viastreaming.net:8550/;listen.mp3
+#EXTINF:0,Sonica Futura
+https://ssl1.viastreaming.net:8820/;listen.mp3
+#EXTINF:0,SoniCalm
+https://ssl1.viastreaming.net:8915/;listen.mp3
 #EXTINF:0,ICE RADIO WALDKRAIBURG 6 CLUB DANCE
 https://irw.tunefm.de:8510/stream
 #EXTINF:0,IceRadio
@@ -2159,8 +2165,6 @@ https://streamingv2.shoutcast.com/in2music
 http://radio.howtojointheindiediscothequewaitlist.com/stream.ogg.m3u
 #EXTINF:0,Indie Fm
 https://sonicpanel.streamsolutions.us/8008/stream
-#EXTINF:0,Indulge Radio
-https://stream.radio.co/s86b916ea9/listen
 #EXTINF:0,Inpulz Dein Stadtradio für Freiberg
 https://bud.streampanel.net/rybqsryh?mp=/stream
 #EXTINF:0,insidedancefloor la webradio
@@ -4179,6 +4183,8 @@ https://audio.mabu-beatz-radio.com:8003/deephouse
 http://fc.macjingle.at:8000/stream/1/
 #EXTINF:0,COPE MÁS MADRID
 https://net4-cope-flucast.flumotion.com/cope/net4.mp3.m3u
+#EXTINF:0,MagicHIT
+http://stream.rcs.revma.com/gbrmyffefphvv
 #EXTINF:0,magic-soundz
 http://s5.stream-webradiotechnik.de:9700/stream/1/
 #EXTINF:0,Magicstar Greece
@@ -4577,10 +4583,6 @@ http://live.audiospace.co/nsdaac
 http://live.audiospace.co/nsdaac
 #EXTINF:0,Non-Stop Hitradio
 https://jenny.torontocast.com:8002/nshitradio
-#EXTINF:0,NonStopPlay.com
-https://ais-edge25-fra01.cdnstream.com/nsp-64k-aac
-#EXTINF:0,NonStopPlay Pure Dance
-http://stream.nonstopplay.co.uk/nsppd-128k-mp3
 #EXTINF:0,Noods radio
 https://noodsradio.com/listen
 #EXTINF:0,Nord-FM
@@ -5407,8 +5409,6 @@ https://feelo.80.yayin.com.tr/stream/1/
 https://feelo.80.yayin.com.tr/stream/1/
 #EXTINF:0,Radio Fivoarana
 http://serveur.wanastream.com:9000/stream.oggg
-#EXTINF:0,Ràdio Flaixbac
-https://flaixbac.streaming-pro.com:8007/stream/1/
 #EXTINF:0,Radioflash FM
 https://skywatcherawakenedradio.radiolebowski.com/play
 #EXTINF:0,Radio Floricultura
@@ -6275,8 +6275,6 @@ http://ice2.somafm.com/cliqhop-128-mp3
 https://ice2.somafm.com/digitalis-128-mp3
 #EXTINF:0,Sonance Sessions Radio
 https://cast1.torontocast.com:1305/stream
-#EXTINF:0,SonicaFutura
-https://ssl1.viastreaming.net:8820/stream/1/
 #EXTINF:0,Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
 #EXTINF:0,Sonic.FM
