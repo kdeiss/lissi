@@ -1269,8 +1269,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KATMFMAAC_SC
 https://live.wostreaming.net/direct/alphacorporate-kmktfmaac-ibc4
 #EXTINF:0,KAUU - The Eagle 105.1 FM
 https://ais-sa1.streamon.fm/7169_48k.aac
-#EXTINF:0,KAVV - The Cave
-http://208.70.75.109:9000/stream
 #EXTINF:0,KAVV Cave 97.7 FM
 http://ednixon.com:8000/stream
 #EXTINF:0,KAWO - WOW Country 104.3 FM
@@ -1303,8 +1301,6 @@ https://ice8.securenetsystems.net/KBJMAM
 https://ice5.securenetsystems.net/KBKK
 #EXTINF:0,KBKZ Coyote Country 96.5 FM
 https://ice42.securenetsystems.net/KBKZFM
-#EXTINF:0,KBLP - Oklahoma Country 105
-http://stream.kblpradio.com:8000/stream
 #EXTINF:0,KBLP 105.1 FM
 http://stream.kblpradio.com:8000/stream
 #EXTINF:0,KBMW - 1450 AM
@@ -1357,6 +1353,8 @@ https://ais-sa1.streamon.fm/7396_48k.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCMBFM.mp3
 #EXTINF:0,KCNI 1280 AM
 https://crystalin.surfernetwork.com:8000/KBBN_MP3
+#EXTINF:0,KCNY 107.1 FM
+http://107.182.234.197:7564/stream
 #EXTINF:0,KCOM Comanche Country
 https://www.ophanim.net:8444/s/7350
 #EXTINF:0,KCOS Digital
@@ -1517,8 +1515,6 @@ https://ice9.securenetsystems.net/KHAZ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHCMFM.mp3
 #EXTINF:0,KHKI 97.3 Nash FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHKIFMAAC_SC
-#EXTINF:0,KHLB 102.5 FM
-https://ice42.securenetsystems.net/KHLB
 #EXTINF:0,KHLS / KOSE / KYEL Thunder Country 96.3 / 105.5 FM & 860 AM
 http://hemnos.cdnstream.com/1411_64
 #EXTINF:0,KHPQ Hot Country - Q 92.1 FM
@@ -1761,6 +1757,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KOLVFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOMSFMAAC_SC
 #EXTINF:0,KONY - Kony Country 99.9 FM
 https://streamdb3web.securenetsystems.net/v5/KONY2
+#EXTINF:0,KONY Country 99.9 FM (US Only)
+https://ice10.securenetsystems.net/KONY
 #EXTINF:0,KORA 98.3 FM
 https://ais-sa1.streamon.fm/7270_48k.aac/playlist.m3u8
 #EXTINF:0,KORN Country 92.1 FM
@@ -1939,8 +1937,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUSOFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUTTFMAAC_SC
 #EXTINF:0,KUTX 98.9 FM
 https://kut.streamguys1.com/kutx-web
-#EXTINF:0,KUZZ 107.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC
 #EXTINF:0,KVCR
 https://kvcr.streamguys1.com/live
 #EXTINF:0,KVMK Maverick 100.9
@@ -1953,6 +1949,8 @@ http://kea.cdnstream.com/1929_128
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVOXFMAAC_SC
 #EXTINF:0,KVPI The Legend 1050 AM
 https://ice8.securenetsystems.net/KVPIAM
+#EXTINF:0,KVRA 70's Music Authority
+https://ais-edge102-live365-dal02.cdnstream.com/a64609
 #EXTINF:0,KVRD Country 105.7 FM
 https://forcht.streamguys1.com/wgrk-fm
 #EXTINF:0,KVRP Big Country 97.1 FM
@@ -1963,6 +1961,8 @@ https://corn.kvsc.org/broadband
 https://svinews.com:8443/wave
 #EXTINF:0,KWAY The Winner AM 1470
 https://ice10.securenetsystems.net/KWAYAM
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWDD Wild 94.3 FM
 https://ice8.securenetsystems.net/KWDD
 #EXTINF:0,KWED 1580 AM
@@ -2025,8 +2025,6 @@ https://ice23.securenetsystems.net/KYEZ
 https://crystalout.surfernetwork.com:8001/KYKC-FM_MP3
 #EXTINF:0,KYKZ Kicks 96.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KYKZFMAAC_SC
-#EXTINF:0,KYLS 1450 AM & 95.9 FM
-https://ice41.securenetsystems.net/KYLS
 #EXTINF:0,KYNU - Big Dog Country 95.5 FM
 https://ice23.securenetsystems.net/KYNU
 #EXTINF:0,KYNU Big Dog 95.5 FM
@@ -2459,6 +2457,8 @@ http://91.121.59.45:8361/stream
 https://streaming.radiostreamlive.com/radiocountrylive_devices
 #EXTINF:0,Radio Country M.L
 http://rcml.eliradios.com:8498/;
+#EXTINF:0,Radio County UK
+https://securestreams5.autopo.st:1816/;
 #EXTINF:0,RADIO CRISTAL FM 92,9
 http://str81.aovivonanet.com:8132/listen.pls
 #EXTINF:0,Radio De Schans
@@ -3185,6 +3185,8 @@ http://stream.abacast.net/direct/alphabluefield-whkxfmaac-ibc2
 https://ice8.securenetsystems.net/WHMD
 #EXTINF:0,WHPO - 101 Country
 https://ice6.securenetsystems.net/WHPO?
+#EXTINF:0,WHTH - Buckeye Country 107.7
+http://shoutcast.wnko.com:4444/stream
 #EXTINF:0,WHWY - Highway 98 - 98.1 FM
 https://ice42.securenetsystems.net/WHWY
 #EXTINF:0,WIBK - The Buckle 96.9 FM 1360 AM
@@ -3241,8 +3243,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIZSAMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIZSAMAAC_SC
 #EXTINF:0,WJBC 93.7 Nash Icon
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCFMAAC_SC
-#EXTINF:0,WJBE Country Legends 88.5
-https://ice24.securenetsystems.net/WJBEFM
 #EXTINF:0,WJCL-FM - KIX 96.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCLFM.mp3
 #EXTINF:0,WJDR Hot Country 98.3 FM
