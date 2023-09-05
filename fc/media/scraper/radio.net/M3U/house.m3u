@@ -359,6 +359,8 @@ http://stream.zeno.fm/xcmv558wquhvv.m3u
 https://www.radioking.com/play/deejay-2
 #EXTINF:0,Clubbers Paradise
 http://138.201.234.215:10898/stream/1/
+#EXTINF:0,Clubbers Radio
+http://s3.slotex.pl:7300/;stream.nsv
 #EXTINF:0,Radio Clubbing Music
 https://listen.radionomy.com/radioclubbingmusic3.m3u
 #EXTINF:0,CLUB | Soulside Radio
@@ -597,8 +599,6 @@ http://protostar.shoutca.st:9089/stream/1/
 https://uk2.internet-radio.com/proxy/divinestream?mp=%2Fstream
 #EXTINF:0,DJBUZZ RADIO - LA RADIO DE TOUS LES DEEJAYS !
 https://stream.rcvfm.fr:8000/djbuzz-192k.mp3
-#EXTINF:0,djcontrolradio
-http://ecmanager2.pro-fhi.net:2240/stream
 #EXTINF:0,DJ IN THE MIX
 https://stream2.radiodienst.de/proxy/toneart/djinthemix
 #EXTINF:0,DJ Mag Radio
@@ -675,6 +675,8 @@ http://109.169.76.155:25542/stream.m3u
 https://stream.radiojar.com/fkyxx4q35k0uv
 #EXTINF:0,Electro Zone Radio 
 https://stream.electroradio.fm/192k?icy=https
+#EXTINF:0,Elixir Club
+http://radioserver11.profesionalhosting.com/proxy/elixir
 #EXTINF:0,EMR2.0
 https://streaming.radiosenlinea.com.ar/9138/stream
 #EXTINF:0,EMRadio (C.R)
@@ -855,8 +857,6 @@ http://www.globalbeats.fm/gbfm_green_mp3.pls
 https://globalhardhouse.radioca.st/stream
 #EXTINF:0,Radio Globo
 https://globo.newradio.it/globorm64
-#EXTINF:0,Goeres-Radio
-https://stream04.stream-webradiotechnik.de:8352/stream/1/
 #EXTINF:0,G One Radio
 https://www.radioking.com/play/g-one-radio
 #EXTINF:0,Good Groove Radio
@@ -891,6 +891,8 @@ http://hearme.fm:9505/autodj
 http://hearme.fm:9506/autodj
 #EXTINF:0,HearMe.FM - The Very Best of Deephouse
 http://HearMe.fm:8023/stream
+#EXTINF:0,HearMe.FM - DJ Cato Lindberget
+http://hearme.fm:9001/stream
 #EXTINF:0,HearMe.FM - DJ Chezza - The Friday Nite Mix
 http://hearme.fm:9506/stream
 #EXTINF:0,HearMe.FM - It's a Mess Radio
@@ -1633,8 +1635,6 @@ https://www.radioking.com/play/line-out-radio/469243
 https://azura12.instainternet.com/radio/8010/radio.mp3?1612272077
 #EXTINF:0,LIONNER Radio
 https://stream.zeno.fm/mdddu58h8yzuv
-#EXTINF:0,Live Mix 
-https://audio.livemix.com.br/livemix
 #EXTINF:0,Loca FM Melodic Techno
 http://s02.fjperezdj.com:8056/live
 #EXTINF:0,Loca FM House
@@ -1871,8 +1871,6 @@ https://myhouseradiofm.out.airtime.pro:8000/myhouseradiofm_a
 https://stream.zeno.fm/vtzf1dppgxiuv
 #EXTINF:0,Mzansi Joburg City FM
 http://stream.zeno.fm/y42u4pmnqwzuv
-#EXTINF:0,Nationvibe radio
-https://broadcast.shoutstream.co.uk:8030/stream
 #EXTINF:0,Naxi House Radio
 http://naxidigital-house128.streaming.rs:8000/;
 #EXTINF:0,NCRADIO
@@ -1880,7 +1878,7 @@ https://manager.conceptradio.fr:1535/stream?1677255444549
 #EXTINF:0,Network Satellite
 http://sr2.inmystream.info:8123/;
 #EXTINF:0,Radio New York Floor
-https://freeuk25.listen2myradio.com/live.mp3
+https://eu8.fastcast4u.com/proxy/coco?mp=/1
 #EXTINF:0,nice
 https://ice.cr1.streamzilla.xlcdn.com:8000/sz=nice-broadcast-media-gmbh=nice-DJ-CHANNEL-128-mp3
 #EXTINF:0,Night Club Radio
@@ -1971,8 +1969,6 @@ https://radio7.pro-fhi.net:19085/stream
 https://s53.radiolize.com/radio/8220/radio.mp3
 #EXTINF:0,PARADOX FM
 https://paradoxfm.out.airtime.pro/paradoxfm_a
-#EXTINF:0,PartyBase FM
-http://87.98.217.63:23794/stream.mp3
 #EXTINF:0,Radio Party Groove
 https://stream15.top-ix.org/partygroove
 #EXTINF:0,PARTY VIBE RADIO Techno
@@ -2381,8 +2377,6 @@ http://38.96.148.28:11884/;stream.mp3
 https://www.radioking.com/play/radio-star/49346
 #EXTINF:0,Radio Stonewall
 https://listen.radioking.com/radio/277843/stream/323506
-#EXTINF:0,THE CLUB radio 89.8 FM - Mallorca
-https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3
 #EXTINF:0,Radio Top 1
 https://s1.servertec85.com:7002/stream
 #EXTINF:0,Radio Top Side 
@@ -2485,6 +2479,8 @@ https://rt1.radio/2mup2
 https://rt1.radio/wnyj4
 #EXTINF:0,rundspruch.net Dance
 https://fra-pioneer08.dedicateware.com:1315/stream
+#EXTINF:0,RunnRadio
+http://stream.radiojar.com/h2czvm3wpg8uv
 #EXTINF:0,S4-Radio SIX
 http://s4-stream.com:10024/stream
 #EXTINF:0,Sacré Radio
@@ -2709,8 +2705,6 @@ https://stream2-alfacast-hosting.com/8004/stream
 https://cdn.instream.audio:9256/stream
 #EXTINF:0,The CHILLx Lounge
 https://kathy.torontocast.com:1815/stream
-#EXTINF:0,The Club 92.0 FM
-https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3
 #EXTINF:0,The Fashion Radio
 https://servidor18.brlogic.com:7682/live
 #EXTINF:0,TheGoosh Radio (Deep House)

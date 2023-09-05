@@ -17,6 +17,8 @@ https://stream.zeno.fm/9a8gmbkhkf9uv
 http://185.13.37.111:8000/mpd.mp3
 #EXTINF:0,1A Volksmusik
 https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3
+#EXTINF:0,685 Radio
+https://s88.radiolize.com:8040/radio.mp3
 #EXTINF:0,78kai45
 https://rdst.win:37845/stream
 #EXTINF:0,98.5 La Comadre
@@ -342,7 +344,7 @@ http://78.24.9.110:31088/;
 #EXTINF:0,Joichen's Radio-Malayalam
 https://streamingv2.shoutcast.com/joichens-radio1
 #EXTINF:0,Judaiques FM
-https://www.radioking.com/play/jfm-2
+https://stream.rcs.revma.com/138w9xn95tuvv
 #EXTINF:0,Kafa Radyo
 https://moondigitalmaster.radyotvonline.net:443/kafaradyo/playlist.m3u8?
 #EXTINF:0,FM kahoku 78.7
@@ -525,8 +527,6 @@ https://www.radioking.com/play/meuse-fm-bar-le-duc-commercy
 http://192.99.34.205:8237/stream
 #EXTINF:0,Mohd Rafi Radio
 http://radio.mohdrafi.com/steam/1/
-#EXTINF:0,Moysikos Episkeptis
-https://wyep.org/stream
 #EXTINF:0,Radio Mundial FM 96,5 IJUI
 https://centova4.transmissaodigital.com:20071/;
 #EXTINF:0,Radyo Musiki 
@@ -543,8 +543,6 @@ http://streaming.webhostnepal.com:9888/
 http://norradyo.com:8000/live
 #EXTINF:0,NRK Folkemusikk
 https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_m.m3u
-#EXTINF:0,Nuxalk Radio
-http://cknn.openbroadcaster.com:8000/CKNN
 #EXTINF:0,Radio Özden 99.4
 http://live.radyotvonline.com:9050/
 #EXTINF:0,OK Radio
@@ -871,10 +869,6 @@ http://91.121.121.25:8064/stream/1/
 http://eu10.fastcast4u.com:2970/stream/1/
 #EXTINF:0,Tinder Radio - Christmas Carols
 https://streaming.exclusive.radio/er/christmascarols/icecast.audio
-#EXTINF:0,Radio Tirana 1 
-http://79.106.48.2:8000/radiotirana1
-#EXTINF:0,Radio Tirana 3
-http://79.106.48.2:8000/radiotirana3
 #EXTINF:0,Radio Trelleborg 92.8 FM
 https://stream.nsp.se/RaTbg_AAC_Hi
 #EXTINF:0,TRT NAĞME
@@ -904,7 +898,7 @@ https://stream.zeno.fm/cm040yp7grruv
 #EXTINF:0,Radio Velkaton
 http://188.40.62.20:8044/stream/1/
 #EXTINF:0,VERSE 24 - MAKKAH LIVE
-http://149.28.52.216:3344/stream/10/
+http://149.28.52.216:3344/stream/10/;
 #EXTINF:0,WAFC-FM - Radio Fiesta 106 FM
 https://ice7.securenetsystems.net/WAFC
 #EXTINF:0,WAFZ-FM - La Ley 92.1 FM
