@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Adio.fm
 https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
+#EXTINF:0,BEAT FM
+http://5230.cloudrad.io:8354/live
 #EXTINF:0,Cadena SER Alcoy
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY
 #EXTINF:0,Cadena SER Aranda
@@ -781,6 +783,8 @@ http://stream.abacast.net/direct/townsquare-kidoamaac-ibc3
 https://manager8.streamradio.fr:3040/stream
 #EXTINF:0,KIHU 1010 AM
 https://stream.xmission.com/kcpw2
+#EXTINF:0,KIIS 100.9
+http://14867.cloudrad.io:9224/live
 #EXTINF:0,Sports Radio Beaumont 1510 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KIKRAM.mp3
 #EXTINF:0,KILT SportsRadio 610 AM
@@ -1131,6 +1135,8 @@ https://war.streamguys1.com:8435/
 https://live.wostreaming.net/manifest/eagleradio-ksjqfmaac-ibc4
 #EXTINF:0,KSLM 104.3 FM & 1220 AM
 https://kccs-streaming.com/9996/stream
+#EXTINF:0,KSMX - KSMA News-Talk 1240 AM
+https://live.wostreaming.net/manifest/agmedia28-ksmaamaac-hlsc3.m3u8
 #EXTINF:0,KSOM 96.5 - All The Best Country
 http://hestia.cdnstream.com/1528_128
 #EXTINF:0,KSQD 90.7 FM - Commuity Radio
@@ -1315,8 +1321,6 @@ http://streaming.live365.com/a84091
 https://usa17.fastcast4u.com/proxy/fahenr00?mp=/stream
 #EXTINF:0,KYOS 1480 AM
 https://ice42.securenetsystems.net/KYOS
-#EXTINF:0,KYST La Nueve Veinte 920 AM
-http://67.212.165.106:8204/stream
 #EXTINF:0,KZAZ Northwest Public Radio
 http://134.121.234.129:8000/NWPRCLASSICAL
 #EXTINF:0,KZNS - KSL Sports Zone 97.5 FM & 1280 AM
@@ -1539,8 +1543,8 @@ https://zas7.ndx.co.za:8042/stream
 https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDS Station
 http://stream.mds-station.com:8000/01-mds
-#EXTINF:0,Rádio MEC 800 AM
-https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
+#EXTINF:0,Med1 Radio
+https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8
 #EXTINF:0,Radio Medinabaye Kaffrine
 https://stream.zenolive.com/w4v1hckvewwtv
 #EXTINF:0,Melki-TzedekRadio
@@ -1573,6 +1577,8 @@ http://hyades.shoutca.st:8998/live
 https://streaming.radio.co/sc042534a3/listen
 #EXTINF:0,Milenium FM
 http://emisiones.com.uy:8092/mile
+#EXTINF:0,Military Broadcast Talk
+http://s3.nexuscast.com/proxy/mbradiotalk/stream
 #EXTINF:0,Mindalia Radio Voz English
 https://online.vibacomunicacion.com:10010/stream
 #EXTINF:0,Minuto95® ♪
@@ -2155,6 +2161,8 @@ https://servidor37.brlogic.com:7016/live?type=.m3u
 http://r18.ciclano.io:9693/stream
 #EXTINF:0,Radio Cielo
 http://167.114.118.120:7342/stream/1/
+#EXTINF:0,Radio Círculo
+https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8
 #EXTINF:0,Radio City FM
 http://190.52.32.13:1935/radiocity/live_1/playlist.m3u8
 #EXTINF:0,Rádio Clube 1
@@ -2241,8 +2249,6 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
-#EXTINF:0,Radio FM Oasis 95.7
-http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://sg.centrocibernetico.com/formula103
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -2819,6 +2825,8 @@ https://streaming-live.rtp.pt/liveradio/vida80a/chunklist_DVR.m3u8
 https://cdnlive.codev8.net/rtpalive/smil:radio.smil/chunklist_b1000000.m3u8
 #EXTINF:0,RTPA - RadioTelevisión del Principado de Asturias
 https://cdnlive.codev8.net/rtpalive/smil:radio.smil/playlist.m3u8
+#EXTINF:0,RTS
+https://stream.zeno.fm/6c5cv8nrt1duv.m4a
 #EXTINF:0,RTV Radio Más
 http://streamingcwsradio10.com:8644/;
 #EXTINF:0,Ruff Ryders Radio
@@ -3659,6 +3667,8 @@ https://ice41.securenetsystems.net/WHBU?playSessionID=DB2B63B2-9798-3AEB-3594700
 https://ice64.securenetsystems.net/WHDZ
 #EXTINF:0,WHEP 1310 - Radio Baldwin
 https://ice5.securenetsystems.net/WHEP
+#EXTINF:0,WHGB 1400 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAM.mp3
 #EXTINF:0,WHGW-LP - WHGW-LP 100.3 FM
 http://war.str3am.com:7180/live
 #EXTINF:0,WHHQ - Ave Maria Radio 1250 AM
@@ -4491,3 +4501,5 @@ https://stream.zeno.fm/sa7v036wpqzuv
 http://streaming.promomedios.com:8006/;
 #EXTINF:0,The Zone Sports Radio
 https://streamdb7web.securenetsystems.net/v5/ZONE1150
+#EXTINF:0,ZSPORTS3.COM
+https://ic1.sslstream.com/zsportslive?
