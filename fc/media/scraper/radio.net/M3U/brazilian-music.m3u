@@ -231,6 +231,8 @@ https://cast.mgtradio.net/radio/8000/radio.aac
 https://stm01.virtualcast.com.br:8350/stream
 #EXTINF:0,Mirante FM 100.3
 https://player-ssl.painelstream.net:8094/live
+#EXTINF:0,MIX879 FM
+http://str81.aovivonanet.com:9952/;stream.mp3
 #EXTINF:0,Mix Arapiraca
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC_SC
 #EXTINF:0,MS Web Rádio
@@ -273,8 +275,6 @@ https://stm01.virtualcast.com.br:8186/live
 https://s42.maxcast.com.br:8343/live
 #EXTINF:0,Plenitude Web Radio
 http://s02.transmissaodigital.com:7094/stream/1/
-#EXTINF:0,Pontual FM 95,3
-https://stm16.xcast.com.br:9196
 #EXTINF:0,Portal da Luz
 https://server6.hostradios.com/8246/stream
 #EXTINF:0,Quixada FM Web Radio
@@ -455,6 +455,8 @@ http://wz3.dnip.com.br/legalfm1hd/legalfm1hd.stream/playlist.m3u8
 http://s1.stmxp.net:8046/stream/1/
 #EXTINF:0,Radio Deus Esta No Ar
 https://s03.maxcast.com.br:8108/live
+#EXTINF:0,Radio Digital FM
+https://stream.zeno.fm/5dtqds7hfrruv
 #EXTINF:0,RÁDIO DIVINA VONTADE
 http://stm1.srvif.com:6702/;
 #EXTINF:0,Rádio Educadora de Belém 1470
@@ -465,8 +467,6 @@ https://cast.youngtech.radio.br/radio/8220/radio
 http://streaming12.hstbr.net:8138/live
 #EXTINF:0,Rádio Estação Floripa
 http://hts06.kshost.com.br:10786/stream/1/
-#EXTINF:0,RÁDIO ESTAÇAO VOX
-http://srv1.braudio.com.br:7382/stream
 #EXTINF:0,Rádio Estereosom Sertaneja FM
 http://streaming.ntelecom.com.br:8500/stream
 #EXTINF:0,Radio Eureka
@@ -499,8 +499,6 @@ https://server.radiogs.org:7006/;
 http://10.stmip.net:8292/stream
 #EXTINF:0,Radio Formosa FM
 https://servidor37-5.brlogic.com:8056/live
-#EXTINF:0,Radio Fortmax
-http://srv1.stmip.com:7048/;
 #EXTINF:0,Rádio Gazeta 93.3 FM
 http://centova5.acresites.com.br:8101/stream?type=mp3
 #EXTINF:0,Radio Gazeta Online
@@ -711,26 +709,22 @@ http://05.stmip.net:8090/stream
 https://srv1.braudio.com.br/7008
 #EXTINF:0,Rádio Som Zão - Araturi
 http://stm12.voxtreaming.com.br:6890/stream/1/
-#EXTINF:0,Rádio Sound FM - 80s
+#EXTINF:0,Hitz FM - 80s
 https://stream.zeno.fm/a9lb3jrylnjtv
-#EXTINF:0,Rádio Sound FM - Eletrônica
+#EXTINF:0,Hitz FM - Eletrônica
 https://stream.zeno.fm/wablfblem4ntv
-#EXTINF:0,Rádio Sound FM - latin
+#EXTINF:0,Hitz FM - Latrina
 https://stream.zeno.fm/wedbxumjpizvv
-#EXTINF:0,Rádio Sound FM - MPB
+#EXTINF:0,Hitz FM - Mpb
 https://stream.zeno.fm/me7yzxbonizvv
-#EXTINF:0,Rádio Sound FM - Pagode
+#EXTINF:0,Hitz FM - Pagode
 https://stream-158.zeno.fm/ylp4tqd5epfvv
-#EXTINF:0,Rádio Sound FM - Rap
+#EXTINF:0,Hitz FM - Rap
 https://stream.zeno.fm/t3hkprtlrh1uv
-#EXTINF:0,Rádio Sound FM - Rock
+#EXTINF:0,Hitz FM - Rock
 https://stream.zeno.fm/6r8xiccmsbktv
-#EXTINF:0,Rádio Sound FM - Sertanejo
+#EXTINF:0,Hitz FM - Sertanejo
 https://stream-154.zeno.fm/duqmhcd1qjyuv
-#EXTINF:0,Radio Stillus Web
-http://server02.stmsg.com.br:18238/streamstream/1/stream/1/
-#EXTINF:0,Rádio Super
-https://cc3.streammaximum.com:20048/;
 #EXTINF:0,Radio Super Funk Melody
 https://ssl.xcast.com.br:8156/stream
 #EXTINF:0,Radio Super Nova
@@ -836,7 +830,7 @@ http://s01.transmissaodigital.com:7404/stream/1/
 #EXTINF:0,Romantismo Sertanejo
 http://stm4.voxhd.com.br:7228/stream/1/
 #EXTINF:0,Salvador FM
-https://streaming.livespanel.com:9230/ssafm9230
+https://cast.radiu.live:9230/stream
 #EXTINF:0,Sananduva FM
 https://cast2.youngtech.radio.br/radio/8190/radio
 #EXTINF:0,São Paulo FM

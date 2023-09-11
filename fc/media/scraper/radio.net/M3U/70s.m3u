@@ -187,6 +187,8 @@ http://67.212.238.178:7086/stream/1/
 https://kathy.torontocast.com:2495/stream
 #EXTINF:0,All Time 70s 80s Greatest
 https://listen.radionomy.com/alltime70s80sgreatest.m3u
+#EXTINF:0,Alltime Oldies Radio
+https://streaming.live365.com/a92393
 #EXTINF:0,Allzic Années 70
 https://allzic50.ice.infomaniak.ch/allzic50.mp3
 #EXTINF:0,Alternatif Dinle
@@ -768,7 +770,7 @@ http://stream-43.zeno.fm/v5y94yxw2ehvv?zs=td9nrlgwTpKyco1VgTK_Fw
 #EXTINF:0,GALAXIA PANAMA
 http://stream-51.zeno.fm/6v5negdtfy8uv?zs=Jq_GEDHwSdGeBSanbcgO2w
 #EXTINF:0,Gartenheim-Radio
-http://gartenheim-radio.de:8200/stream/1/
+https://gartenheimradio.sp.radio.fm/stream
 #EXTINF:0,GDRADIO - Grateful Dead Radio
 http://108.163.245.230:8100/;
 #EXTINF:0,Geek Public Radio
@@ -867,6 +869,8 @@ http://stream-50.zeno.fm/bhcx5yf2198uv?zs=xsuZtbTbS3yciyj0MNQ7jg
 https://streaming.live365.com/a80572
 #EXTINF:0,Mother Road Radio : Hits On 66
 https://ice42.securenetsystems.net/HO66
+#EXTINF:0,HITz Digital
+http://loveradio.stream:8000/mytunerradio
 #EXTINF:0,Hola Jalisco
 https://casthd.net:7020/;
 #EXTINF:0,HORIZON FM
@@ -1058,7 +1062,7 @@ https://stream3.polarhost.cl/Rockola_mp3
 #EXTINF:0,Laser Hot Hits International
 http://213.175.217.198:8000/laserhq
 #EXTINF:0,La Super Tropical
-https://usa14.fastcast4u.com/proxy/supertropical?mp=/1;
+https://cast4.my-control-panel.com/proxy/supertropical/stream;fondo=05
 #EXTINF:0,Radio Latina
 https://media.velcom.it:8014/radiolatina
 #EXTINF:0,LatitudeRadio
@@ -1575,8 +1579,6 @@ http://e10088.cloudrad.io:8000/stream/1/
 http://stream-44.zeno.fm/5ua3vfnm45quv?zs=Nk-NlKRrQuyuxA1DUK9w3w
 #EXTINF:0,Old Men\`s Radio
 https://server-10.stream-server.nl:18140/stream/1/
-#EXTINF:0,Old School 94.1 FM
-http://stream.zeno.fm/8d4htdspa8zuv
 #EXTINF:0,Olympia Classics 
 https://streams.olympia-classics.nl/classics
 #EXTINF:0,OMG Greatest Hits
@@ -1971,8 +1973,6 @@ https://stream.zeno.fm/2habryuzqa0uv
 https://stream.zeno.fm/gzh890b5rm0uv
 #EXTINF:0,Rádio Mundial Radio
 http://server05.srvsh.com.br:7348/stream/1/
-#EXTINF:0,13 punta ballena
-https://streaming5.locucionar.com/proxy/radiomundo?mp=/stream
 #EXTINF:0,Radio Music Hall - 2e Rete
 https://stream.zeno.fm/1bh60byekf9uv
 #EXTINF:0,Radio Music Sambre ( RMS ) 
@@ -2297,8 +2297,6 @@ https://stream.zeno.fm/w4k013c2gm0uv
 https://radio2.pro-fhi.net/radio/9039/stream
 #EXTINF:0,SABROSURARADIO
 https://stream.zeno.fm/ukp7fzugvg0uv/;
-#EXTINF:0,SABROZA 98.7
-https://laradiossl.online:10191/live
 #EXTINF:0,Salsa4te
 http://server1.visiotec.it:8100/stream/1/
 #EXTINF:0,Samui Island Radio
@@ -2417,6 +2415,8 @@ http://gemini.shoutca.st:8047/stream
 https://bayern.streampanel.net/whamkkhs?mp=/stream
 #EXTINF:0,Sunrise to sunset
 https://streamingv2.shoutcast.com/Sunrisetosunset
+#EXTINF:0,Radio-Sunshine4you
+https://stream.radio-sunshine4you.eu:8002/stream/1/
 #EXTINF:0,Super CFL Radio
 http://192.111.140.11:8323/;
 #EXTINF:0,Super Clásica
@@ -2547,8 +2547,6 @@ http://radyo.turkuradyo.net:4591/;
 https://server27722.streamplus.de/stream/1/
 #EXTINF:0,U 105.8 FM
 https://gbradio.cdn.tibus.net/U105
-#EXTINF:0,Ucam Afición Radio
-http://radiocostatenerife.sytes.net:8010/stream.mp3
 #EXTINF:0,UK Radio Network
 https://stream.zeno.fm/efgenxw00a0uv
 #EXTINF:0,UK Radio Network - Greatest Hits
@@ -2579,8 +2577,6 @@ http://stream-40.zeno.fm/7pwfg6vghzzuv?zs=Rj61Wn8mSxiHd56p8dvyAA
 https://streamingv2.shoutcast.com/vfe-variety
 #EXTINF:0,Vietnam Vet Radio
 https://cast2.asurahosting.com/proxy/vietnam1/stream
-#EXTINF:0,Vilassar Ràdio
-https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3
 #EXTINF:0,Vinhedos Light
 https://stream.zeno.fm/w2q2zqsdfwzuv
 #EXTINF:0,Abbotford Street
@@ -2631,6 +2627,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac
 https://radio10.pro-fhi.net/flux-qlvuthph/192stream
 #EXTINF:0,WDDT Online Radio
 https://streaming.live365.com/a40850
+#EXTINF:0,WDR 4 Rheinland
+http://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,WDUX Lakes 92.7
 http://107.182.234.197:7625/stream
 #EXTINF:0,Web Rádio Arroio Grande As Antigas Músicas do Passado

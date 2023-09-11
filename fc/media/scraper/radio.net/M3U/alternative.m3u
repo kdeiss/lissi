@@ -45,8 +45,6 @@ https://edge.clrmedia.co.uk/obfm_mp3
 https://strmreg.1.fm/x_mobile_mp3
 #EXTINF:0,1.FM - High Voltage
 https://strm112.1.fm/highvoltage_mobile_mp3
-#EXTINF:0,1LIVE Rock Hits
-https://wdr-1live-rockhits.icecast.wdr.de/wdr/1live/rockhits/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,1LIVE Neu für den Sektor
 https://wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,1 Pure Alternative Radio
@@ -737,8 +735,6 @@ https://live.radiogrenouille.com:8443/live
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4477787_SC
 #EXTINF:0,Radio Gwendalyn
 http://stream.radiogwen.ch:8000/radiogwen
-#EXTINF:0,Halcones ITCA Radio
-https://s01.digitalserver.org/9252/stream
 #EXTINF:0,HaPPyFan-Radio
 http://bayern.streampanel.cloud:11079/listen1
 #EXTINF:0,Harrogate Community Radio
@@ -1538,7 +1534,7 @@ https://radio13.pro-fhi.net/live/MauriceRadioLibre
 #EXTINF:0,max neo 106.5
 https://cast.maxneo.de/maxneo-hq.mp3
 #EXTINF:0,MDR SPUTNIK
-https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/aac/high/stream.aac?aggregator=radio-de
+https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
 #EXTINF:0,MDR SPUTNIK Rock
 https://mdr-284331-1.sslcast.mdr.de/mdr/284331/1/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,Mediatica FM 
@@ -1769,8 +1765,6 @@ http://prpfm.streamon.fm:8000/PRPFM-64k.aac
 https://stream.laut.fm/pulloverdisko?ref=radiode
 #EXTINF:0,Pulse Talk Radio
 https://mars.streamerr.co/8022/stream
-#EXTINF:0,Punto Hop Radio
-https://ssl.livecastradio.com:7014/stream/1/
 #EXTINF:0,PureRock.US - America's Pure Rock
 https://purerock.radioca.st/stream/1/
 #EXTINF:0,PXL radio
@@ -2043,8 +2037,6 @@ https://hispa.duckdns.org:444/stream.mp3
 https://securestreams.autopo.st:1056/;
 #EXTINF:0,Radio Tamworth - Your Voice in The Community
 http://streaming.tcrfm.co.uk:8080/live
-#EXTINF:0,Radio Tec - la Radio de los Venados
-https://s01.digitalserver.org/8010/stream
 #EXTINF:0,Radio Télé Boussol.CA
 https://stream.zeno.fm/aebfyb7fx38uv
 #EXTINF:0,Radio Terminal
@@ -2227,8 +2219,6 @@ https://live.rtrfm.com.au/stream/1/
 https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8
 #EXTINF:0,Radio Universitaria de Alcalá de Henares (RUAH)
 http://streaming.elitecomunicacion.es:8066/
-#EXTINF:0,Rubio Radio
-https://s01.digitalserver.org/9244/stream
 #EXTINF:0,Ruta de Escape 492
 https://stream.zeno.fm/cc0pfxmded0uv
 #EXTINF:0,Ruta Internacional Nº 1 km 194
@@ -2278,7 +2268,7 @@ https://flux.radio-sommieres.fr/stream/
 #EXTINF:0,Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
 #EXTINF:0,Sonic Radio.rocks
-https://stream.rcast.net/62239
+https://radiohosts.xyz:8000/radio.mp3
 #EXTINF:0,Sonic Stream
 https://sonicstream.out.airtime.pro/sonicstream_b
 #EXTINF:0,Soundportal
@@ -2487,8 +2477,6 @@ https://streaming.live365.com/a83776
 https://stream.laut.fm/vdren?ref=radiode
 #EXTINF:0,Veronica Alternative XL
 https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
-#EXTINF:0,Vic Per 13.2 FM Online
-https://s01.digitalserver.org:7663/stream/1/
 #EXTINF:0,VillageRadio.Net
 https://streaming.live365.com/a73319
 #EXTINF:0,Vinculo FM
@@ -2506,7 +2494,7 @@ https://ice8.securenetsystems.net/WACCLP
 #EXTINF:0,WAPS - The Summit 91.3 FM
 http://streamer2.legatocommunications.com/wapshq
 #EXTINF:0,Warrios-Bass-Keller
-https://s4.genx-stream.de:8052/listen
+https://s4.genx-stream.de:8052/stream
 #EXTINF:0,WaveRadio Boston
 https://streaming.live365.com/a06194
 #EXTINF:0,WBCR 90.3 FM
@@ -2725,8 +2713,6 @@ https://ice23.securenetsystems.net/WZNE
 https://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC
 #EXTINF:0,X106.5
 https://oom-cmg.streamguys1.com/jac1029/jac1029-iheart.aac
-#EXTINF:0,X FM 94.7
-http://streamingecuador.net:8036/stream
 #EXTINF:0,X-id 97.7 X-ið
 https://live.visir.is/hls-radio/x977/playlist.m3u8
 #EXTINF:0,XL:UK Radio
