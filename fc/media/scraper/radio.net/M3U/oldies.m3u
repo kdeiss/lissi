@@ -295,6 +295,8 @@ http://radio.alloldieschannel.com:8000/stream
 https://streaming.live365.com/a45584
 #EXTINF:0,Allsound Radio
 https://kathy.torontocast.com:2495/stream
+#EXTINF:0,Alltime Oldies Radio
+https://streaming.live365.com/a92393
 #EXTINF:0,musicstraat 2
 https://everestcast.streams.ovh/allyradio
 #EXTINF:0,Allzic Années 50
@@ -353,8 +355,6 @@ https://amicaradioveneta.stream.laut.fm/amicaradioveneta
 http://68.235.48.99:10035/stream
 #EXTINF:0,Amphora Radio
 http://server7.servistreaming.com:10035/stream?type=.mp3
-#EXTINF:0,Andy's 80s
-http://lin1.san.fast-serv.com:9844/;
 #EXTINF:0,Angel Fire Radio
 https://streaming.live365.com/a63504
 #EXTINF:0,Anglo Paradise
@@ -434,7 +434,7 @@ https://stream.laut.fm/arc
 #EXTINF:0,Radio Atlantis Rotterdam
 https://fra-ranger01.dedicateware.com:2020/stream/radioatlantisrotterdam/stream
 #EXTINF:0,ATLANTIS UK
-http://54.38.44.70:8100/stream
+https://uksoutha.streaming.broadcast.radio/boss-atlantis
 #EXTINF:0,Atomik Radio
 http://hosting.studioradiomedia.fr:2020/stream
 #EXTINF:0,Attic Radio
@@ -817,8 +817,6 @@ https://stream.radiocontinu.nl/radiocontinu
 https://s2.yesstreaming.net:17161/stream
 #EXTINF:0,Cool Oldies
 http://c8.radioboss.fm:8114/stream
-#EXTINF:0,Cool Oldies 96
-http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream/1/
 #EXTINF:0,Cool Oldies MKE
@@ -1025,6 +1023,8 @@ https://streamall.alsolnet.com/estaciondelsigloaudio
 http://radio13.servidorderadio.net/8410/stream
 #EXTINF:0,Est FM
 https://str0.creacast.com/estfm1
+#EXTINF:0,Eternal Fusion
+https://cast6.asurahosting.com/proxy/ian1234/stream
 #EXTINF:0,EURODISCO
 https://eurodisco.stream.laut.fm/eurodisco?t302=2023-01-12_11-40-16&amp;uuid=8a25318e-eadf-4ac0-8d82-7a85c3b30d07
 #EXTINF:0,Evesham Hospital Radio
@@ -1107,8 +1107,6 @@ https://radio.ldsr.tv:8022/stream
 https://channels.fluxfm.de/60s/radiode/stream.mp3
 #EXTINF:0,FM101 Faisalabad
 https://whmsonic.radio.gov.pk:8024/relay?type=http&nocache=9
-#EXTINF:0,FM105
-https://s01.digitalserver.org/9208/stream
 #EXTINF:0,FM1 Gold 
 https://stream.streambase.ch/ffm/mp3-192/fm1gold-radiode/
 #EXTINF:0,Radio La Loca
@@ -1196,7 +1194,7 @@ http://audio1.meway.tv:8030/stream/1/
 #EXTINF:0,Gargano FM
 https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio
 #EXTINF:0,Gartenheim-Radio
-http://gartenheim-radio.de:8200/stream/1/
+https://gartenheimradio.sp.radio.fm/stream
 #EXTINF:0,GayInternetRadio
 http://server24942.streamplus.de:18956/;
 #EXTINF:0,Geel FM
@@ -1627,6 +1625,8 @@ http://streamer.ykwc.com:8000/stream.mp3
 https://www.streamvortex.com:8444/s/10120
 #EXTINF:0,KJAA 1240
 http://globecasting.us:8000/KJAA
+#EXTINF:0,KJBL 96.5 FM
+https://ice9.securenetsystems.net/KJBL
 #EXTINF:0,KJMO - Cool 97.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KJMOFM.mp3
 #EXTINF:0,KKHB - Cool 105.5 FM
@@ -4273,6 +4273,8 @@ https://s01.radio-siebenbuergen.de/
 https://stream.rcs.revma.com/9sw1nuvb938uv
 #EXTINF:0,Silver Radio
 https://atunwapodcasts.com/player/silverfm.html
+#EXTINF:0,Silverstar-Radio
+http://94.249.254.137:8050/listen1
 #EXTINF:0,Simply Gold Radio
 https://everestcast.shoutcastservices.com:1965/stream
 #EXTINF:0,Rádio Sintonia Fina
@@ -4827,8 +4829,10 @@ http://stream1.mtcstream.com:8500/wdicfm
 https://video1.getstreamhosting.com:2000/tunein/9004/128K/pls
 #EXTINF:0,WDLW Kool Kat Oldies 1380 AM
 https://us2.maindigitalstream.com/ssl/WDLW
-#EXTINF:0,WDR 4 
-https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:0,WDR 4 Ruhrgebiet
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:0,WDR 4 Rheinland
+http://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,RÁDIO WEB FLORESTA DIGITAL
 https://stream.zeno.fm/213625tfmf9uv
 #EXTINF:0,WEBR 1440
@@ -5065,6 +5069,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIBQFM.mp3
 https://ice10.securenetsystems.net/WPTW
 #EXTINF:0,WPUB-FM - Kool 102.7
 https://crystalout.surfernetwork.com:8001/WPUB-FM_MP3
+#EXTINF:0,WPWQ - Oldies Superstar 106.7 FM
+https://ice23.securenetsystems.net/WPWQ?type=.mp3
 #EXTINF:0,WQCT - Your Good Time Oldies 1520 AM
 https://ice6.securenetsystems.net/WQCT
 #EXTINF:0,WQFB - Surf 97.3 FM
@@ -5101,8 +5107,6 @@ http://95.173.162.189:9940/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM.mp3
 #EXTINF:0,WRTZ 1410 AM
 https://www.streamvortex.com:8444/s/10090
-#EXTINF:0,WRUL 97.3 All Oldies 1460 WROY
-https://ice24.securenetsystems.net/WRUL
 #EXTINF:0,WSAT / WTIX Memories 1280
 https://ice9.securenetsystems.net/WSAT
 #EXTINF:0,WSBB AM 1230 and AM 1490
