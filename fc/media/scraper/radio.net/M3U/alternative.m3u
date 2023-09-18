@@ -59,6 +59,8 @@ http://s16.myradiostream.com:7304/stream/1/
 https://live-radio01.mediahubaustralia.com/2TJW/mp3/stream/1/
 #EXTINF:0,2MCE - Charles Sturt University 92.3 & 94.7 FM
 http://arts-ed-streams.csu.edu.au:8080/2MCE
+#EXTINF:0,2UNE TUNE! 106.9 FM
+http://129.180.126.81:8010/stream
 #EXTINF:0,2YYY - Young 92.3 FM
 https://streaming.2yyyradio.com/radio/8000/radio.mp3
 #EXTINF:0,FlorestaFM
@@ -1674,7 +1676,7 @@ https://stream.open.fm/6
 #EXTINF:0,OpenFM - Alt PL
 https://stream.open.fm/36
 #EXTINF:0,OpenLab 106.4 FM
-https://ice09.fluidstream.net/openlab.aac?FLID=7
+https://ice04.fluidstream.net/openlab.mp3
 #EXTINF:0,Orgánica Radio
 http://192.187.112.50:8178/stream/1/
 #EXTINF:0,Original 106 FM
@@ -2473,8 +2475,6 @@ http://streaming.radionomy.com/Up-DownYourockradio
 http://s3.free-shoutcast.com:18002/stream/1/
 #EXTINF:0,urgent fm
 http://urgentstream.radiostudio.be:8000/aac
-#EXTINF:0,Van Radio - Hard Rock
-https://streaming.live365.com/a83776
 #EXTINF:0,vdren archive
 https://stream.laut.fm/vdren?ref=radiode
 #EXTINF:0,Veronica Alternative XL
@@ -2697,6 +2697,8 @@ https://streaming.radio.co/sf74aab051/listen
 http://streamer.cci.utk.edu:8000/wutk
 #EXTINF:0,WVFS 89.7 FM
 http://voice.wvfs.fsu.edu:8000/stream
+#EXTINF:0,WVOF - 88.5 FM
+http://fmstudio.fairfield.edu:8000/listen
 #EXTINF:0,WVUD
 http://128.175.76.123:8000/stream/2/
 #EXTINF:0,WXPN
@@ -2715,6 +2717,8 @@ https://ice23.securenetsystems.net/WZNE
 https://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC
 #EXTINF:0,X106.5
 https://oom-cmg.streamguys1.com/jac1029/jac1029-iheart.aac
+#EXTINF:0,X FM 94.7
+http://streamingecuador.net:8036/stream
 #EXTINF:0,X-id 97.7 X-ið
 https://live.visir.is/hls-radio/x977/playlist.m3u8
 #EXTINF:0,XL:UK Radio
