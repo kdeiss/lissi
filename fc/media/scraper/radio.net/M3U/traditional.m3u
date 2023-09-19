@@ -543,6 +543,8 @@ http://streaming.webhostnepal.com:9888/
 http://norradyo.com:8000/live
 #EXTINF:0,NRK Folkemusikk
 https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_m.m3u
+#EXTINF:0,Nuxalk Radio
+http://cknn.openbroadcaster.com:8000/CKNN
 #EXTINF:0,Radio Özden 99.4
 http://live.radyotvonline.com:9050/
 #EXTINF:0,OK Radio
@@ -657,6 +659,8 @@ http://158.69.119.6:8095/stream/1/
 http://radiodhaakad.com:8000/live
 #EXTINF:0,Ράδιο Δίφωνο Παλιά Λαϊκά
 http://cast.radiohost.ovh:9005/live
+#EXTINF:0,Radio Dunav
+https://dunav.yunethosting.net:8001/stream.ogg
 #EXTINF:0,Radio Eviva
 https://stream.streambase.ch/reviva/mp3-192/radiode/
 #EXTINF:0,ABradio.cz Radio Folk
@@ -817,8 +821,6 @@ https://radio.sikhnet.com/proxy/channel5/autodj
 https://radio.sikhnet.com/proxy/sggsenglish/autodj
 #EXTINF:0,SikhNet The Classics
 https://radio.sikhnet.com/proxy/channel6/autodj
-#EXTINF:0,SikhNet Gurbani Katha - English
-https://radio.sikhnet.com/proxy/kathaenglish/autodj
 #EXTINF:0,SikhNet Gurbani Katha - Punjabi
 https://radio.sikhnet.com/proxy/katha/autodj
 #EXTINF:0,SikhNet All Gurbani Styles
@@ -901,8 +903,6 @@ https://listen.radioking.com/radio/474857/stream/531260
 https://stream.zeno.fm/cm040yp7grruv
 #EXTINF:0,Radio Velkaton
 http://188.40.62.20:8044/stream/1/
-#EXTINF:0,VERSE 24 - MAKKAH LIVE
-http://149.28.52.216:3344/stream/10/;
 #EXTINF:0,WAFC-FM - Radio Fiesta 106 FM
 https://ice7.securenetsystems.net/WAFC
 #EXTINF:0,WAFZ-FM - La Ley 92.1 FM

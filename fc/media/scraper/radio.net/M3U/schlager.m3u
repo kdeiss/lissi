@@ -104,7 +104,7 @@ https://stream.antenneduesseldorf.de/44522px
 #EXTINF:0,ANTENNE BAYERN - Faschings Hits
 https://stream.antenne.de/faschings-hits/stream/aacp?aw_0_1st.playerid=radio.de
 #EXTINF:0,Radio Antenne Korbach 1
-http://stream.laut.fm/antennekorbach1
+https://antennekorbach1.stream.laut.fm/antennekorbach1
 #EXTINF:0,Antenne Mallorca
 https://radio-ballermann.stream24.net/ballermann-radio.mp3?ref=Radiode
 #EXTINF:0,ANTENNE MÜNSTER - Dein Schlager Radio
@@ -349,8 +349,6 @@ https://sp.fire-force-radio.de/listen/fire-force-radio/radio.mp3
 https://server4.streamserver24.com:8080/proxy/flamings?mp=/stream
 #EXTINF:0,Foerde Radio - Schlager
 https://live.foerde-radio.de/Stream4
-#EXTINF:0,Foxtanz
-http://176.9.148.80:8740/Foxtanz
 #EXTINF:0,fresh80s Angelsfox Weihnachtssender
 http://85.25.217.22:9050/stream/1/
 #EXTINF:0,Das Freundschaft Radio
@@ -2281,6 +2279,8 @@ http://185.23.192.118:8002/;stream.mp3
 https://stream.laut.fm/radiomannheim?ref=radiode
 #EXTINF:0,Radio Marl
 https://c32.radioboss.fm:18152/stream
+#EXTINF:0,Radio Master Hits
+https://live.radiomaster.fr/hits
 #EXTINF:0,Radio Max HR
 https://azuracast.novi-net.net/radio/8010/radiomax.aac
 #EXTINF:0,Radio Megahertz
@@ -2322,7 +2322,7 @@ https://radionr1.de:10000/live
 #EXTINF:0,Radio Oberhausen - Dein Schlager Radio
 https://stream.lokalradio.nrw/44524n6
 #EXTINF:0,Radio Olymp FM
-https://cs-service-hosting.eu:8000/stream
+https://cs-service-hosting.eu:8002/stream
 #EXTINF:0,Radio Oranje Internationaal
 https://server-51.stream-server.nl:18310/;
 #EXTINF:0,Radio Osttirol
@@ -2733,8 +2733,6 @@ http://tuner.m1.fm/kuschelschlager.mp3
 http://tuner.m1.fm/schlagerparty.mp3
 #EXTINF:0,The bestest and greatest Hits
 https://stream.silvacast.com/RPLive/mp3-128/radio_de/
-#EXTINF:0,The German Radio
-https://streaming.live365.com/a97323
 #EXTINF:0,The House of Music
 https://c02.lexycast.de:4530/;
 #EXTINF:0,The Nightphoenix Radio
@@ -2747,14 +2745,10 @@ https://str0.creacast.com/radiotirol_a
 https://server-28.stream-server.nl:8846/stream
 #EXTINF:0,TMR-Radio.de 
 http://listen.cdn.streammonks.net:8080/l4m5w
-#EXTINF:0,TopHits.FM Schlager
-https://stream.tophitsfm.de:8050/listen.mp3
 #EXTINF:0,Radio Trallacity
 http://stream04.stream-webradiotechnik.de:9150/stream/1/
 #EXTINF:0,Radio-Trance-Nation
 http://94.23.115.253:8109/stream/1/
-#EXTINF:0,TRAPLINEFM #SCHLAGER
-https://stream.traplinefm.at:8010/schlager_320kbps
 #EXTINF:0,Turbo-Hitradio - Schlager
 https://stream.laut.fm/hitradio-schlager?ref=radiode
 #EXTINF:0,Twentseboys
@@ -2775,6 +2769,8 @@ http://stream1.iradio-project.eu:8006/stream/1/
 http://dirks-ideen.de:12090/stream/1/
 #EXTINF:0,Web Rádio B2 Schlager Party
 https://stream.zeno.fm/9yejmortuiztv
+#EXTINF:0,Webradio-Ried
+https://stream.tramp-cast.ch/8022/stream
 #EXTINF:0,webradio-starline
 https://streamserver3.m-hosting.eu:10302/stream
 #EXTINF:0,WebRadioWattenscheid
