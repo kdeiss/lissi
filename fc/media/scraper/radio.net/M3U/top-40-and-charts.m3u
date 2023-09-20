@@ -369,8 +369,6 @@ http://server.laradio.online:8457/live
 http://stream.altmedia.me/onair
 #EXTINF:0,Ambiental 102.7 FM
 http://stream-53.zeno.fm/200an1um6f0uv?zs=mBaBHE9FS6Wos7YETuQGKg&rj-tok=AAABfXCagG4ATDWpcVrMuBfAEg&rj-ttl=5
-#EXTINF:0,Amena Radio
-http://s1.ssl-stream.com:8020/radio.mp3
 #EXTINF:0,AmwajFM
 http://radiolive.rtv.gov.sy:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:0,Andys-Musikscheune
@@ -1722,7 +1720,7 @@ https://frontend.streamonkey.net/fhn-radiogalaxy?aggregator=radiode
 #EXTINF:0,Galway Bay 95.8 FM
 https://wg.cdn.tibus.net/galwaybay.mp3
 #EXTINF:0,Gaming Community
-http://radio.brakemc.net//listen/gc/radio.mp3
+https://radio.brakemc.net/listen/gc/radio.mp3
 #EXTINF:0,Radio Gamma Puglia
 http://onair18.xdevel.com:8098/;
 #EXTINF:0,Gay-Live-Radio
@@ -2205,6 +2203,8 @@ https://r10.ciclano.io:15033/stream
 https://shout35.crossradio.com.br:18038/1
 #EXTINF:0,Jovem Pan FM Ipatinga
 http://radio3.logicahost.com.br:9130/stream/1/
+#EXTINF:0,Jovem Pan FM Maceió
+http://radios.cabreuvoip.com.br:7054/stream
 #EXTINF:0,Jovem Pan FM Manaus
 https://shout25.crossradio.com.br:18022/1
 #EXTINF:0,Jovem Pan FM Maringá
@@ -2285,6 +2285,8 @@ https://stream02.itego.nl/kbc-high
 http://stream.abacast.net/direct/townsquare-kbeafmaac-ibc3
 #EXTINF:0,KBEE - B 98.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBEEFM.mp3
+#EXTINF:0,KBFF - Live 95.5 FM
+https://prod-3-93-66-177.amperwave.net/alphacorporate-kbfffmaac-ibc4
 #EXTINF:0,KBLQ-FM - Q92 92.9 FM
 https://ice9.securenetsystems.net/KBLQ
 #EXTINF:0,KBNZ - Now 97.9 FM
@@ -5135,8 +5137,6 @@ https://live.radio.si/Antena
 http://live.radioantena.si/Antena-Stajerska
 #EXTINF:0,Radio ara web
 https://sv12.hdradios.net:6752
-#EXTINF:0,Radio Argento
-http://167.86.86.4:8565/stream
 #EXTINF:0,Radio Austria - Top 40
 https://top40.securestream.radioaustria.at/top40
 #EXTINF:0,RadioAvatarFm
@@ -6661,6 +6661,8 @@ https://dbc.streamguys1.com/wkzl-fm.aac
 https://server20.servistreaming.com:9003/stream
 #EXTINF:0,WLBA - La mejor 1130 AM
 https://1.ice1.firststreaming.com:8000/waos_am.mp3
+#EXTINF:0,WLFX 106.7 The Pinnacle
+https://ice24.securenetsystems.net/WLFX
 #EXTINF:0,WLTB - MAGIC 101.7 FM 
 https://ice3.securenetsystems.net/WLTB?
 #EXTINF:0,WLTC - Lite 103.7 FM

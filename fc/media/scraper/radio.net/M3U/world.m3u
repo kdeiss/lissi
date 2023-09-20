@@ -2061,6 +2061,8 @@ https://ic2.sslstream.com/koay-fm?rnd=4064
 https://sp.radiotamilonline.com/8006/stream
 #EXTINF:0,KODX 96.9 FM
 https://stream.pacificaservice.org:9000/kodx
+#EXTINF:0,KOFH 99.1 FM
+https://ice42.securenetsystems.net/KOFH
 #EXTINF:0,KOGQ-LP 98.9 FM
 http://18.220.54.199:8002/;
 #EXTINF:0,KOKO-LP 96.3 FM
@@ -2207,8 +2209,6 @@ https://ice42.securenetsystems.net/KWCOFM?playSessionID=EBA460C8-99E3-6A75-84D76
 https://ice6.securenetsystems.net/KWEM
 #EXTINF:0,KWIT/KOJI FM 90
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWITFM_SC
-#EXTINF:0,KWJD Radio
-http://thassos.cdnstream.com:5269/stream
 #EXTINF:0,KWSO 91.9 FM
 https://terrasrvcs.alpine.io/kwso
 #EXTINF:0,K-WULF
@@ -2535,8 +2535,6 @@ https://stream.laut.fm/krugoval?ref=radiode
 https://stream.laut.fm/lautlosfm?ref=radiode
 #EXTINF:0,Lenny
 https://stream.laut.fm/lenny?ref=radiode
-#EXTINF:0,Lev FM
-http://stream.laut.fm/levfm?ref=radiode
 #EXTINF:0,live4u
 https://stream.laut.fm/live4u?ref=radiode
 #EXTINF:0,M 4 Radio
@@ -4397,8 +4395,10 @@ https://nl.digitalrm.pt:8182/stream
 https://servidor18.brlogic.com:7174/live
 #EXTINF:0,Radio Mais Online
 https://hts08.kshost.com.br:12162/live
-#EXTINF:0,Radio Manchete
+#EXTINF:0,Radio Majagual
 https://s11.maxcast.com.br:8108/live?id=848021440006
+#EXTINF:0,Radio Manchete
+https://radiolatina.info/9832/stream
 #EXTINF:0,Radio Manos 103.4
 https://radios.justweb.pt/8008/stream
 #EXTINF:0,Radio MAQAM - Arabic Radio
@@ -4837,10 +4837,8 @@ https://stream9.mexiserver.com/8326/stream
 https://ssl.srvstm.com:8532/type=mp3&volume=100&bufferlength=10&autostart=true
 #EXTINF:0,Radio Santa Mónica
 https://archi-us.digitalproserver.com/santa-maria-am.aac
-#EXTINF:0,Ràdio Sant Quirze
-http://167.114.118.120:7894/stream/1/
 #EXTINF:0,Ràdio Sant Vicenç 90.2
-http://streaming.enantena.com:8000/radiosantquirze56.mp3
+http://167.114.118.120:7894/stream/1/
 #EXTINF:0,Radio Satélite 100.7 FM
 https://enacast.com/radiosantvicenc/streams/HD
 #EXTINF:0,Radio Satélite 102.3 FM
@@ -5115,8 +5113,10 @@ http://bluford.torontocast.com:8096/stream
 https://icecast.teveo.cu/jWCmP3Fj
 #EXTINF:0,Radio Verite
 https://stream.radiovazogasy.com/stream
-#EXTINF:0,Radio Vertientes
+#EXTINF:0,radioveronique
 http://198.101.12.86:9990/;
+#EXTINF:0,Radio Vertientes
+https://server2.inetcast.nl/radioveronique/stream
 #EXTINF:0,Radio Veseli Bosanac
 https://icecast.teveo.cu/7mw4Jvfh
 #EXTINF:0,Radioviaggio
@@ -6191,10 +6191,8 @@ https://kvbstreams.dyndns.org/wkvi-fm
 https://1.ice1.firststreaming.com:8000/waos_am.mp3
 #EXTINF:0,WLEY-FM - La Ley 107.9 FM
 https://ice24.securenetsystems.net/WLCZ
-#EXTINF:0,WLIM 93.3 The Breeze
-https://liveaudio.lamusica.com/CHI_WLEY_icy?aw_0_1st.playerid=radio.net
 #EXTINF:0,WLLY-FM - La Ley 99.5 FM
-http://108.163.245.230:8037/xstream
+https://liveaudio.lamusica.com/CHI_WLEY_icy?aw_0_1st.playerid=radio.net
 #EXTINF:0,WLPN-LP Lumpen Radio
 https://ice7.securenetsystems.net/WLLY
 #EXTINF:0,WLQQ Q 106.7 FM
