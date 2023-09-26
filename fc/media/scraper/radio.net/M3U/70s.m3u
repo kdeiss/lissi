@@ -119,8 +119,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC018_SC
 http://stream.hitfm.de:9050/live
 #EXTINF:0,90.1 The Beat
 https://stream.zeno.fm/4x1bb0cd0s8uv
-#EXTINF:0,906 HIT80
-https://ice09.fluidstream.net/906_era80.aac?FLID=6
 #EXTINF:0,91.7 Coast FM
 https://vistaradio.streamb.live/SB00081?
 #EXTINF:0,92.5 GOLD FM
@@ -1173,14 +1171,12 @@ https://stream.laut.fm/kraftpaket1422am?ref=radiode
 https://stream.laut.fm/kulthits?ref=radiode
 #EXTINF:0,Radio Lechtal
 https://stream.laut.fm/lechtal?ref=radiode
-#EXTINF:0,Lev FM
+#EXTINF:0,LEV FM
 http://stream.laut.fm/levfm?ref=radiode
 #EXTINF:0,lighthouse
 https://stream.laut.fm/lighthouse?ref=radiode
 #EXTINF:0,loreensdiner
 https://stream.laut.fm/loreensdiner?ref=radiode
-#EXTINF:0,Marks Party
-https://stream.laut.fm/marks-party-radio?ref=radiode
 #EXTINF:0,maximix
 https://stream.laut.fm/maximix?ref=radiode
 #EXTINF:0,Meinkult Radio
@@ -1516,7 +1512,7 @@ http://stream.n-music.tk:8000/stream/1/
 #EXTINF:0,Bekende Hits
 https://servidor19.brlogic.com:7066/live?identifier=radio.net&amp;source=9379
 #EXTINF:0,NonStopOldies 
-http://s18.myradiostream.com:9676/stream/1/
+https://s18.myradiostream.com/:9676/listen.mp3
 #EXTINF:0,North Coast's Greatest Hits
 http://radio.dawgtalkers.net:8000/listen
 #EXTINF:0,Radio Nostalgia Piemonte
@@ -1549,8 +1545,8 @@ http://190.82.105.90:8012/;stream.nsv
 https://cast4.asurahosting.com/tunein/miles.pls
 #EXTINF:0,Oblivion Boulevard
 https://kathy.torontocast.com:1065/stream
-#EXTINF:0,OcioNews Classics
-https://radios.soyoutuber.com/listen/ocionews_classics/radio192.mp3
+#EXTINF:0,OcioNews Radio Tv
+https://radios.soyoutuber.com/listen/ocionews/radio128.mp3
 #EXTINF:0,Øst FM 95.0 FM
 http://stream.wlmm.dk/oestfmmp3
 #EXTINF:0,Offshore Music Radio
@@ -1692,7 +1688,7 @@ https://live.powerhitz.com/70s?aw_0_req.gdpr=true
 #EXTINF:0,Powerhitz.com - The Officemix
 https://live.powerhitz.com/officemix
 #EXTINF:0,POWER WEB RADIO
-http://live9.livemus.com.br:27460/stream/1/
+https://live10.livemus.com.br:27044/stream
 #EXTINF:0,Pregón Latino Radio
 http://stream2.305stream.com:8102/;
 #EXTINF:0,PREMIUM CLASSICS 98.9
@@ -2250,7 +2246,7 @@ https://streams.radiomast.io/2317de18-b1e4-4472-bc63-366b1d785252
 #EXTINF:0,Rivierenland Radio
 https://rivierenlandradio.stream-server.nl/stream
 #EXTINF:0,RTL Gold
-https://shoutcast.rtl.lu/rtlgold
+https://sc.rtl.lu/rtlgold
 #EXTINF:0,RMC New Classics
 http://edge.radiomontecarlo.net/rmcweb011
 #EXTINF:0,RMF 70s
@@ -2441,8 +2437,6 @@ https://ssl.xcast.com.br:7068/stream/1/stream/1/
 https://stream504.live:7020/stream/1/
 #EXTINF:0,Radio Superoldie
 http://medium.radiosuperoldie.com:8877/stream/1/
-#EXTINF:0,Suprema FM
-http://stream.playerlive.info:8095/live.aac
 #EXTINF:0,Surf City Radio
 https://streaming.live365.com/a40117
 #EXTINF:0,Surfradio

@@ -131,10 +131,6 @@ https://stream.89.0rtl.de/childhood-party/aac-64/radiode/
 https://stream.89.0rtl.de/flashback/mp3-128/radiode/
 #EXTINF:0,89 HIT FM - Munichs Power Station
 http://stream.hitfm.de:9050/live
-#EXTINF:0,906 HIT9020
-https://ice09.fluidstream.net/906_hit9020.aac?FLID=6
-#EXTINF:0,906 One Dance
-https://ice09.fluidstream.net/906_dance_it.aac?FLID=6
 #EXTINF:0,90 dance radio
 https://nrf1.newradio.it:9934/stream
 #EXTINF:0,90er
@@ -950,7 +946,7 @@ https://stream.zeno.fm/g1u270e2ybruv
 #EXTINF:0,Radio Eurodance Classic 
 https://quincy.torontocast.com:2965/stream
 #EXTINF:0,Europa FM España
-https://atres-live.europafm.com/delegaciones/efm/barcelona/master.m3u8
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
 #EXTINF:0,Exclusively The Bee Gees
 https://streaming.exclusive.radio/er/beegees/icecast.audio
 #EXTINF:0,Exito 98.3 FM
@@ -1107,6 +1103,8 @@ https://freshgol.radioca.st/stream
 https://ecmanager.pro-fhi.net/radiofrysson2
 #EXTINF:0,Full Radio
 http://sonic.portalfoxmix.cl:8478/;
+#EXTINF:0,Fun Radio 80.90.Roky
+https://stream.funradio.sk:18443/80-90-128.mp3
 #EXTINF:0,Fun Tower Radio
 https://mercury.reliastream.com/tunein/funtower.pls
 #EXTINF:0,Future 1 Radio
@@ -1483,6 +1481,8 @@ http://live.radiokiss.gr/kissfm1006hq.mp3
 https://quincy.torontocast.com:3315/stream
 #EXTINF:0,Kiss Music FM
 https://stream.zeno.fm/aq899a53rs8uv
+#EXTINF:0,Kisstanbul Radio
+https://cast1.torontocast.com:3875/stream
 #EXTINF:0,WKIZ Kizz Radio
 http://s29.myradiostream.com:6106/stream/1/
 #EXTINF:0,K-LOVE 90s
@@ -1807,7 +1807,7 @@ https://stream.laut.fm/komplizierte-tatsachen?ref=radiode
 https://stream.laut.fm/radio-kraftfahrerkreise?ref=radiode
 #EXTINF:0,Kanalstadt-Radio-Datteln 2
 https://stream.laut.fm/krd2?ref=radiode
-#EXTINF:0,Lev FM
+#EXTINF:0,LEV FM
 http://stream.laut.fm/levfm?ref=radiode
 #EXTINF:0,LoungeForFriendsRadio 
 https://stream.laut.fm/lffr?ref=radiode
@@ -2375,8 +2375,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac
 https://oberimaradio.radioca.st/stream
 #EXTINF:0,Ocean Breeze Radio
 https://streaming.live365.com/a15158
-#EXTINF:0,OcioNews Classics
-https://radios.soyoutuber.com/listen/ocionews_classics/radio192.mp3
+#EXTINF:0,OcioNews Radio Tv
+https://radios.soyoutuber.com/listen/ocionews/radio128.mp3
 #EXTINF:0,RADIO OLD HITS • RETRO
 https://sc10.conectarhosting.com/proxy/retrohitsgt?mp=/stream
 #EXTINF:0,OLDIE ANTENNE Rock Classics
@@ -2497,8 +2497,6 @@ https://hls-01-retro90.emgsound.ru/3/playlist.m3u8
 https://s4.genx-stream.de:8302/stream/1/
 #EXTINF:0,Pioneer FM Zlatoust 103.4
 http://variant.fm:8000/PPR-192
-#EXTINF:0,piraten hits
-https://www.piratenhits.com:8052/live
 #EXTINF:0,Planet 107.5 FM
 http://k2.usastreams.com/yeah1075
 #EXTINF:0,Planet 90
@@ -2588,7 +2586,7 @@ http://c01.lexycast.de:2610/stream/1/
 #EXTINF:0,Power-Sound-Radio
 http://www.power-sound-radio.eu:10000/stream/1/
 #EXTINF:0,POWER WEB RADIO
-http://live9.livemus.com.br:27460/stream/1/
+https://live10.livemus.com.br:27044/stream
 #EXTINF:0,Pregón Latino Radio
 http://stream2.305stream.com:8102/;
 #EXTINF:0,Premier radio
@@ -2805,8 +2803,6 @@ http://stm7.painelvox.com:8190/;
 https://servidor26.brlogic.com:8738/live
 #EXTINF:0,Radio Dance Network
 https://sr6.inmystream.it/proxy/gianni?mp=/stream
-#EXTINF:0,Radio Dance Portugal
-http://s1.stmxp.net:8046/stream/1/
 #EXTINF:0,Radio Dance Set Mix
 https://stream.zenolive.com/t03ax7c9e3quv
 #EXTINF:0,Radio Dancing
@@ -3492,11 +3488,9 @@ https://server.streamingradios.net/8054/stream
 #EXTINF:0,RLD1
 http://server3.streamserver-unlimited.de:2199/tunein/iu341.pls
 #EXTINF:0,RTL Gold
-https://shoutcast.rtl.lu/rtlgold
+https://sc.rtl.lu/rtlgold
 #EXTINF:0,Radio Monte Carlo - 90
 http://edge.radiomontecarlo.net/rmcweb009
-#EXTINF:0,RMF
-https://s4.streamcaster.eu:8109/stream/1/
 #EXTINF:0,RMF 2000
 https://rs9-krk2.rmfstream.pl/2000
 #EXTINF:0,RMF 90s
@@ -3617,6 +3611,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DEV_SEAFM.mp3
 https://radioselby.radioca.st/stream
 #EXTINF:0,Select'tubes
 https://streaming.shoutcast.com/select-tubes
+#EXTINF:0,Senkanime Radio
+http://stm43.stmsrv.com:8014/;
 #EXTINF:0,Sertanejo FM
 https://stream.zeno.fm/qcwuy1y3tm0uv
 #EXTINF:0,Settai FM
@@ -3795,8 +3791,6 @@ https://stm6.xcast.com.br:9754/stream
 https://ecuamedios.net:10975/
 #EXTINF:0,Super-Radio 
 https://aska.ru-hoster.com:8000/stream
-#EXTINF:0,Suprema FM
-http://stream.playerlive.info:8095/live.aac
 #EXTINF:0,Supreme Clientele Radio
 http://stream.radiojar.com/thcyv16sezzuv
 #EXTINF:0,SUR 20 Radio
@@ -3903,8 +3897,6 @@ https://streaming.radio.co/s9b15ffd8e/listen
 https://listen.radionomy.com/top-radio
 #EXTINF:0,Top Trash Station
 https://rautemusik-de-hz-fal-stream18.radiohost.de/top100station_mp3-192
-#EXTINF:0,Tor94FM
-http://87.98.219.178:8260/stream?nocache=665&type=http
 #EXTINF:0,RTI Radio Total International 
 http://81.169.141.17:9090/stream/1/
 #EXTINF:0,Totally Radio 90s

@@ -197,8 +197,6 @@ https://s5.radio.co/s253044a7a/listen
 https://stream.mfmstreaming.nl:1090/stream
 #EXTINF:0,Discology Radio
 https://visual.shoutca.st/stream/discology
-#EXTINF:0,Disco Mix
-https://s2.radio.co/sa78e95e1e/listen
 #EXTINF:0,Disco Net Radio Athens
 https://stream1.468.gr:7008/stream/1/
 #EXTINF:0,Discoradio
@@ -774,7 +772,7 @@ https://icecast.ndr.de/ndr/loop/22/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,Radio New York Floor
 https://eu8.fastcast4u.com/proxy/coco?mp=/1
 #EXTINF:0,NonStopOldies 
-http://s18.myradiostream.com:9676/stream/1/
+https://s18.myradiostream.com/:9676/listen.mp3
 #EXTINF:0,Nostalgie Fiesta
 https://stream.rcs.revma.com/5wfaapu3ehuvv
 #EXTINF:0,NOSTALGIE DANCE PARTY 90
@@ -911,8 +909,6 @@ http://s1.slotex.pl:7474/stream/1/;
 https://cast.server89.com/radio/8090//radio.mp3
 #EXTINF:0,RadioDanceMusic
 https://radiomusic.newradio.it/dancemusic
-#EXTINF:0,Radio Dance Portugal
-http://s1.stmxp.net:8046/stream/1/
 #EXTINF:0,Radio Del Mar - Italia
 https://stream.zeno.fm/681eeuu34hhvv
 #EXTINF:0,RADIO DES MAKES
@@ -1013,6 +1009,8 @@ https://s2.radioparty.pl:8015/stream
 https://stream.zeno.fm/9y3dskfdwnhvv
 #EXTINF:0,Radio Planet dj Musica
 https://stream.zeno.fm/60xs671wy1zuv
+#EXTINF:0,Radio Prelude
+https://broadcast.miami/proxy/prelude?mp=/stream/;
 #EXTINF:0,Radio Pro Music 90s
 https://stream.adradio.ro/8414
 #EXTINF:0,Radio Puerto Montt 107.5 fm
@@ -1225,6 +1223,8 @@ https://streaming.coollective.nl:8443/UbuntuFMdance
 https://stream.ukdjs.radio:8984/ukdjs
 #EXTINF:0,ULTIMATE WORLD
 https://stream.zeno.fm/f530355g9k8uv
+#EXTINF:0,Radio Unidisco
+https://broadcast.miami/proxy/unidisco?mp=/stream/;
 #EXTINF:0,Up&Down Music Radio
 https://listen.radionomy.com/up-downmusicradio
 #EXTINF:0,UP RADIO

@@ -179,10 +179,6 @@ http://stream.hitfm.de:9050/eazyfm
 http://stream.hitfm.de:9050/starmix
 #EXTINF:0,8k
 http://radio8k.out.airtime.pro:8000/radio8k_a
-#EXTINF:0,906 HIT9020
-https://ice09.fluidstream.net/906_hit9020.aac?FLID=6
-#EXTINF:0,906 One Dance
-https://ice09.fluidstream.net/906_dance_it.aac?FLID=6
 #EXTINF:0,90s 3NeRgY
 https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
 #EXTINF:0,90s90s Clubhits
@@ -501,6 +497,8 @@ https://icy-e-03-boh.sharp-stream.com:80/ssvcbfbs20.mp3
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac
 #EXTINF:0,BFM (BrooklynFM) 
 https://stream.bfmradio.us/stream128/
+#EXTINF:0,B-HITRADIO
+https://studio26.radiolize.com/radio/8000/radio.mp3
 #EXTINF:0,bigFM Dance Radio
 https://stream.bigfm.de/dance/aac-128/radiode
 #EXTINF:0,bigFM MASHUP
@@ -1073,8 +1071,6 @@ http://naxos.cdnstream.com/1366_128
 http://209.133.210.170:8190/stream/1/
 #EXTINF:0,Dance Nation FM
 https://stream.zeno.fm/ph0e8ptph98uv
-#EXTINF:0,Dance Radio
-http://manager5.streamradio.fr:1370/stream
 #EXTINF:0,Dance Radio Amsterdam
 http://stream.danceradio.nl:9920/
 #EXTINF:0,Dance Radio Rotterdam
@@ -1106,7 +1102,7 @@ https://stream-36.zeno.fm/wrx3pc66ng0uv?zs=afweOYP7TTCOm0QvZLtS4w
 #EXTINF:0,Dansebandmusikk
 https://stream-30.zeno.fm/kycgpfd7mg0uv?zs=fj50dzfqQ_iM1781uniFoA
 #EXTINF:0,Dark Edge Radio
-https://stream.darkedge.ro:8002/index.html
+https://stream.darkedge.ro:8002/;
 #EXTINF:0,EBM Radio
 http://www.ebm-radio.org:7000/;537270416216132stream.nsv
 #EXTINF:0,Radio DarkFire
@@ -1575,6 +1571,8 @@ http://onair7.xdevel.com:7024/stream/1/
 https://ascl.denial.cl:2020/stream/8030
 #EXTINF:0,FANS STEREO
 https://sp.onliveperu.com/8148/stream
+#EXTINF:0,Fantas FM
+http://176.9.43.216:8178/index.html.mp3
 #EXTINF:0,Fantasy FM
 https://eu4.fastcast4u.com/proxy/fantasyfm?mp=/1
 #EXTINF:0,FDL 100.4
@@ -2265,8 +2263,6 @@ https://play.wrhradios.com/8014/stream
 https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
 #EXTINF:0,KCRZ
 https://crystalout.surfernetwork.com:8001/KPFZ-FM_MP3
-#EXTINF:0,KCSB - FM 91.9
-http://live.kcsb.org/KCSB_64.mp3
 #EXTINF:0,KEDUBONSON
 https://listen.radioking.com/radio/22673/stream/55397
 #EXTINF:0,Keimada Radio Sound
@@ -2331,6 +2327,8 @@ https://kisskiss.fluidstream.eu/KissKiss.aac?
 https://kisskiss.fluidstream.eu/KissKiss.aac?
 #EXTINF:0,KISS
 https://live-bauerno.sharp-stream.com/kiss_no_mp3
+#EXTINF:0,Kisstanbul Radio
+https://cast1.torontocast.com:3875/stream
 #EXTINF:0,Beats Radio
 https://edge08.streams.klassikradio.de/beats-radio?
 #EXTINF:0,Klassik Radio Jean Michel Jarre
@@ -4598,7 +4596,7 @@ https://streaming.radiosenlinea.com.ar:10648/stream
 #EXTINF:0,NRG.RADIO
 https://uksouth.streaming.broadcast.radio/nrg
 #EXTINF:0,NRJ België
-https://stream.rcs.revma.com/xh00fwuptg0uv
+https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3
 #EXTINF:0,NRJ CLUBBIN
 https://scdn.nrjaudio.fm/adwz1/fr/30017/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Clubbin-
 #EXTINF:0,NRJ CLUB HITS
@@ -4638,7 +4636,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 #EXTINF:0,NRK P3
 https://lyd.nrk.no/nrk_radio_p3_mp3_m.m3u
 #EXTINF:0,NST Music FM 
-http://80.211.203.79:8020/nstmusicfm
+http://radio.nstmusicfm.eu:8428/nstmusicfm
 #EXTINF:0,Radio NTI
 https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3
 #EXTINF:0,One Dance
@@ -5003,8 +5001,6 @@ https://ice.leviracloud.eu/phr96-aac
 https://ice2.powerhitradio.lt/PHR_AAC
 #EXTINF:0,Power Hits Radio
 https://stream-43.zeno.fm/a1satkkuzrquv?zs=RL20aieRQ4KIiHl4WTDwWw
-#EXTINF:0,Radio Power Italia
-http://philae.shoutca.st:8090/stream
 #EXTINF:0,Powerstar Radio Fm 101.7
 https://stm10.xcast.com.br:12046/;
 #EXTINF:0,Power Türk FM
@@ -5031,6 +5027,8 @@ http://live.prodjradio.net:8000/stream/1/
 https://media.streamforce.nl/proxy/profm/stream
 #EXTINF:0,Pro FM Dance
 https://player.streamforce.nl:8302/live
+#EXTINF:0,Progressive FM
+https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Progressive Rock AZUSA
 https://streaming.live365.com/a38225
 #EXTINF:0,Professional Idiots Radio
@@ -5492,7 +5490,7 @@ http://radiomegahit.zapto.org:8080/;
 #EXTINF:0,Rádio Mega Top
 https://stream.zeno.fm/22sc3gc842quv
 #EXTINF:0,Radio Melodic House
-https://stream4.vestaradio.com/RadioMelodicHouse
+https://www.radioking.com/play/radio-melodic-house/672385
 #EXTINF:0,Радио МЕТРО
 http://stream.radiometro.ru:8230/;
 #EXTINF:0,Radio M Gym
@@ -6028,7 +6026,7 @@ https://dancechannel.schlagerparadies.de/dancechannel
 #EXTINF:0,RMX Radio
 http://radio.alphamx.net:8130/;
 #EXTINF:0,RN5
-https://radio9.pro-fhi.net:19019/rn5
+https://radio4.pro-fhi.net:19020/rn5
 #EXTINF:0,RNE Radio 3
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
 #EXTINF:0,Road FM
@@ -6101,8 +6099,6 @@ https://solid9.streamupsolutions.com/proxy/kmqvxqfq/live
 https://fra-pioneer08.dedicateware.com:1315/stream
 #EXTINF:0,RussianFM
 http://radio.russianfm.de:8000/;
-#EXTINF:0,Russian! Radio
-https://s35.derstream.net/stream
 #EXTINF:0,Radio Russkaya Reklama.
 https://securestreams5.autopo.st:1844/stream/1/
 #EXTINF:0,S4-Radio SIX
@@ -6863,8 +6859,6 @@ http://virtualdjradio.com:8000/channel2.mp3
 https://radio.stmsrv.com:8072/
 #EXTINF:0,Vision180 Radio
 https://streams2.vision.org.au/vision180-128k.mp3
-#EXTINF:0,Vision FM
-http://stm45.srvstm.com:19104/;
 #EXTINF:0,Radio Viva Fm
 https://stream2.vivafm.it:9002/stream.mp3
 #EXTINF:0,VIVAcidade
