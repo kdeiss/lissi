@@ -4475,8 +4475,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 https://scdn.nrjaudio.fm/adwz1/ma/55820/aac_64.mp3?origine=radio.net
 #EXTINF:0,NRJ Antilles hit music only Martinique Guadeloupe
 https://scdn.nrjaudio.fm/fr_an/55248/mp3_128.mp3?cdn_path=audio_lbs10&access_token=f18045980a2f4a0b8229b440d169b079
-#EXTINF:0,NRJ MASH UP
-https://scdn.nrjaudio.fm/adwz1/fr/58611/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-MASH-UP
 #EXTINF:0,NRJ Maurice
 https://scdn.nrjaudio.fm/adwz1/mu/55802/aac_64.mp3
 #EXTINF:0,NRJ MORNING MOTIVATION
@@ -5449,6 +5447,8 @@ http://195.24.89.6:8000/
 https://ec1.everestcast.host:2980/stream
 #EXTINF:0,Radio New York Live 
 https://streaming.radiostreamlive.com/radionylive_devices
+#EXTINF:0,Radio Noirmout
+https://flux.radionoirmout.fr:8443/wrn.mp3
 #EXTINF:0,Radio NORDJYSKE
 https://stream.anr.dk/nordjyske
 #EXTINF:0,RADIO NORMANDIE CHERBOURG
@@ -5607,6 +5607,8 @@ https://stream-41.zeno.fm/n7ur3nfdft5tv?zs=lAuhNCyPTHqis9LQEPzbVA
 http://94.24.49.44:8400/;
 #EXTINF:0,RADIO STAR hitsradio
 https://streamingv2.shoutcast.com/RADIOSTARHITSRADIO
+#EXTINF:0,Stella Fm
+https:/nr12.newradio.it:8652/stream
 #EXTINF:0,Radio Studio 1 105.8
 https://radiostudio1.ice.infomaniak.ch/radiostudio1-128.mp3?
 #EXTINF:0,Radio Studio 20
@@ -6615,8 +6617,6 @@ https://ice5.securenetsystems.net/WIVQ?type=.mp3
 https://nebcoradio.com:8443/WIXM
 #EXTINF:0,WIXX 101 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC
-#EXTINF:0,W!ZARD Radio Station
-http://159.223.10.111:8000/wizardstream
 #EXTINF:0,WIZM Z93
 http://crystalout.surfernetwork.com:8001/WIZM_MP3
 #EXTINF:0,WJAS - the Talk of Pittsburgh
