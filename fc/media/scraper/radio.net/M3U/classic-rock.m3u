@@ -305,6 +305,8 @@ http://79.120.77.11:8000/rock
 http://stream.radiocarcoma.com:8080/stream/1/
 #EXTINF:0,Radio Caroline 259 Gold
 http://www.rcgoldserver.com:8316/stream
+#EXTINF:0,Radio Caroline International
+sc2.radiocaroline.net:8000/stream
 #EXTINF:0,Carter County Radio
 http://us1.streamingpulse.com:7007/live
 #EXTINF:0,Casa de Dios Bogotá
@@ -419,8 +421,6 @@ https://listen.radionomy.com/classic-rock-records.m3u
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC164.aac
 #EXTINF:0,Radio Club Network
 http://nr9.newradio.it:9438/stream/1/
-#EXTINF:0,Coast Rock FM
-https://streaming.shoutcast.com/coast-rock-fm
 #EXTINF:0,Colmena Radio
 https://streaming.evolucionstreaming.com/8124/stream
 #EXTINF:0,The Colorful Radio
@@ -539,6 +539,8 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://stream.bruce-radio.be/bruce-classic-rock
+#EXTINF:0,FM Rythem
+https://stream.zeno.fm/kpl7fxcoerdvv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -791,6 +793,8 @@ https://ice9.securenetsystems.net/KMGM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFM.mp3
 #EXTINF:0,The X 100.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/KMGXFM.mp3
+#EXTINF:0,Kmp3 Cumberland Classics
+https://s40.myradiostream.com/13002/stream.mp3
 #EXTINF:0,KMYK - 93.5 Rocks the Lake 93.5 FM
 https://ice8.securenetsystems.net/KMYK
 #EXTINF:0,KNEN - 94 Rock 94.7 FM
@@ -1167,14 +1171,10 @@ https://streaming.live365.com/a02077
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
 #EXTINF:0,Onda40music
 https://radio.radiosstreaming.com:8000/onda40music.mp3
-#EXTINF:0,ONE FM Salzburg
-https://stream-150.zeno.fm/1fydzxa7fhgtv
 #EXTINF:0,ON Jukebox
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3
 #EXTINF:0,ON Rock
 https://0n-rock.radionetz.de/0n-rock.mp3
-#EXTINF:0,Out of Character Radio
-https://dj.oocradio.com/listen/oocradio/radio.mp3
 #EXTINF:0,OpenFM - Classic Rock
 https://stream.open.fm/32
 #EXTINF:0,OpenFM - Polski Rock Classic
@@ -1389,8 +1389,6 @@ https://stream.zeno.fm/0k6va3rg8rhvv
 https://stream.zeno.fm/03wskcnp6f0uv
 #EXTINF:0,Radio Rock Canada 
 https://bayshore-ais.leanstream.co/CIXKFM
-#EXTINF:0,Radio Rock
-https://digitacdn.akamaized.net/hls/live/629243/radiorock/master-128000.m3u8
 #EXTINF:0,Radio Rock
 https://tx.planetradio.co.uk/http_live_bauerno.php?i=radiorock_no_aac&aw_0_1st.playerid=radio_net
 #EXTINF:0,RADIO ROCKLINE
