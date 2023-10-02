@@ -1525,8 +1525,6 @@ https://stream.laut.fm/rtv1?ref=radiode
 https://stream.laut.fm/rwb?ref=radiode
 #EXTINF:0,Radio West
 https://stream.laut.fm/r-west?ref=radiode
-#EXTINF:0,Sachsenland Radio
-https://stream.laut.fm/sachsenlandradio?ref=radiode
 #EXTINF:0,Sachsenschlager FM
 https://stream.laut.fm/sachsenschlagerfm?ref=radiode
 #EXTINF:0,Saphira Sound Radio
@@ -1920,7 +1918,7 @@ https://pool.radiopaloma.de/RP-Partyschlager_rde.mp3
 #EXTINF:0,MagicExpressRadio
 https://stream.laut.fm/magicexpressradio?ref=radiode
 #EXTINF:0,Mandy-Tanzpalast
-http://94.130.222.237/stream/jozollig.pls?mp=/stream
+https://server4.streamserver24.com/proxy/jozollig?mp=/stream
 #EXTINF:0,MaschseeWelle
 https://saurus.streampanel.net/rnjdwsal?mp=/stream
 #EXTINF:0,Mausi-Dance-Radio
@@ -1967,8 +1965,6 @@ Https://s2.genx-stream.de:11452
 http://88.198.175.30:5574/stream/1/
 #EXTINF:0,Museumsradio 1476
 https://museum.streamserver24.com:8080/stream/1/
-#EXTINF:0,Music For Friends
-https://s2.zkm-stream.de:10994
 #EXTINF:0,Music-of-Fantasy
 http://193.26.157.100:8004/stream/1/
 #EXTINF:0,Music-Tempel
@@ -2019,6 +2015,8 @@ https://fs1.stream24.net:8410/stream
 https://funkhaus-ingolstadt.stream24.net/oldie-welle-ingolstadt.mp3
 #EXTINF:0,Ollis Webradio
 http://server15.blitz-stream.de:7310/stream/1/
+#EXTINF:0,on-4your-life
+http://stream-02.mystical-host.de:8000/stream
 #EXTINF:0,ON Deutsch Pop
 https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
 #EXTINF:0,Only4you Radio

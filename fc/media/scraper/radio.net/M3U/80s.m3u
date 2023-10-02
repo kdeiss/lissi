@@ -243,6 +243,8 @@ https://streams.80s80s.de/weihnachten/mp3-128/radiode/
 https://stream.80sa.live/80s-alive.mp3
 #EXTINF:0,80's & Disco
 https://streamingv2.shoutcast.com/80-s--Disco
+#EXTINF:0,80's Bylgjan
+https://live.visir.is/hls-radio/80s/playlist.m3u8
 #EXTINF:0,80s By The Hour
 https://streamingv2.shoutcast.com/80sByTheHour
 #EXTINF:0,80's Disco
@@ -349,8 +351,8 @@ https://stream.zeno.fm/py3gf4m4hg8uv
 http://streaming.services.everywan.net:8000/live
 #EXTINF:0,ADDICTED 2 OLDIES MUSIC RADIO
 http://listen.radionomy.com/addicted2oldiesmusicradio
-#EXTINF:0,AEROESTEREO
-https://panel.aerostereo.com/public/aerostereo
+#EXTINF:0,AEROSTEREO
+https://panel.aerostereo.com/listen/aerostereo/radio.mp3
 #EXTINF:0,American Free Alternative Radio 
 https://streamingV2.shoutcast.com/AmericanFreeAlternativeRadio
 #EXTINF:0,Affinity Radio
@@ -388,7 +390,7 @@ https://stream.zeno.fm/zsuau4tcvp8uv
 #EXTINF:0,ALL80S
 https://streamingV2.shoutcast.com/all80s
 #EXTINF:0,All80s Jukebox
-http://centauri.shoutca.st:8035/stream/1/
+https://securestreams7.autopo.st/
 #EXTINF:0,All 80s Jukebox
 https://securestreams7.autopo.st/?uri=https://all80s.radioca.st/stream
 #EXTINF:0,All Gold Radio
@@ -443,8 +445,6 @@ http://rosetta.shoutca.st:8558/listen.mp3
 http://vmd54090.contaboserver.net:8004/stream/1/
 #EXTINF:0,Angel of Melody
 https://stream-webcast-lt-24.de:10917/stream/1/
-#EXTINF:0,Anglo Paradise
-http://sonic-us.streaming-chile.com:8228/stream
 #EXTINF:0,Anker Radio
 http://ankerwebstream.dyndns.org/anker
 #EXTINF:0,ANMIC 24
@@ -950,7 +950,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 #EXTINF:0,CHERNESTARDREAMER ONLINE RADIO
 https://cast.jomarhost.com/radio/8000/radio.mp3
 #EXTINF:0,CherryRadio 
-https://diffusion.toutelaradio.com/cherryradio
+https://diffusion.toutelaradio.com:1040/stream
 #EXTINF:0,Chevere Radio TV
 https://media.streambrothers.com:8180/stream
 #EXTINF:0,Chicago's Variety Station
@@ -1133,6 +1133,8 @@ https://sonic1.transmissaodigital.com/8062/stream
 https://eu9.fastcast4u.com/proxy/coventry?fbclid=IwAR0muK0HBmdQufrVbYCQFMi_qf88GlMEtH5VrwToZjqBVXi5qKuWISWyOnU&mp=%2F1
 #EXTINF:0,Crazy 80s Radio
 https://listen.radionomy.com/crazy80-sradio.m3u
+#EXTINF:0,Crazy-Barmy-Radio
+http://stream04.stream-webradiotechnik.de:8550/stream/1/
 #EXTINF:0,Crazy-Club-Beats
 https://s5.stream-webradiotechnik.de:10252/stream/1/
 #EXTINF:0,CrazyGagaRadio
@@ -1235,8 +1237,6 @@ https://radios.miservidor.cloud/8006/stream
 https://addrad.io/4454wnt
 #EXTINF:0,DIE NEUE 107.7 – PURE
 https://addrad.io/445999g
-#EXTINF:0,DIGITAL 2 (HD) The Radio From Your Génération
-https://ecmanager4.pro-fhi.net:2315/stream
 #EXTINF:0,diis Radio
 https://cast4.asurahosting.com/proxy/diisradi/stream
 #EXTINF:0,DIL 80s
@@ -1322,7 +1322,7 @@ https://usa10.fastcast4u.com/dragons
 #EXTINF:0,Dreamforce Clasicos del Rock
 https://stream.zeno.fm/25h9e29w1ehvv
 #EXTINF:0,Radio Drehscheibe
-https://s2.zkm-stream.de:8006/stream/1/
+https://c01.lexycast.de:2860/;
 #EXTINF:0,DRIVE Radio
 https://listen.radionomy.com/driveradio.m3u
 #EXTINF:0,DRO79 Drolo Mix
@@ -1644,7 +1644,7 @@ http://play.radioftb.net:8008/stream/1/
 #EXTINF:0,FuhneOne FM
 https://server18857.streamplus.de/stream.mp3
 #EXTINF:0,FUNK and CO 
-https://cast1.torontocast.com:1440/stream
+https://funkandco-radio.torontocast.stream/funkandco-mp3.pls
 #EXTINF:0,Radio Funky Hits
 http://node-13.zeno.fm/57h4vyd5pf9uv.aac?zs=XINDuha6Toi_77gO5l_q_w&rj-tok=AAABgT1-gJwAs8h6uiK1mJF0rQ&rj-ttl=5
 #EXTINF:0,Funland Radio
@@ -2035,6 +2035,8 @@ https://stream.zeno.fm/1f0d4p3cuwzuv
 http://262.cloudrad.io:8440/stream/1/
 #EXTINF:0,Janner Radio
 https://stream.radio.co/s14d3725f1/listen
+#EXTINF:0,JayaRadio.com
+http://s2.free-shoutcast.com:18128/;stream.mp3
 #EXTINF:0,Jenny FM Classic
 http://stream1.jenny.fm:8500/stream/1/
 #EXTINF:0,JFM Radio
@@ -3346,7 +3348,7 @@ https://service-stream27.live/8008/stream/;
 #EXTINF:0,Radio Melodie Story
 https://radio.melodiestory.fr:8000/live.mp3
 #EXTINF:0,Melody-4-scorpion
-https://stream-webcast-lt-24.de:8190/
+https://stream-melody.de:8192/;
 #EXTINF:0,Melody radio
 http://s6.onweb.gr:8512/stream
 #EXTINF:0,MELODY
@@ -3413,8 +3415,6 @@ https://onair15.xdevel.com/proxy/radiocatsdogs2?mp=/;stream/;
 https://mixfm.radionetz.de/mixfm.mp3
 #EXTINF:0,Classic Hits Mix 106
 https://stream.laut.fm/classichits106?ref=radiode
-#EXTINF:0,Mix 106
-https://playerservices.streamtheworld.com/api/livestream-redirect/WUBUFMAAC.aac
 #EXTINF:0,Mix 106.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFM.mp3
 #EXTINF:0,Cheshire's Mix 56
@@ -3809,8 +3809,6 @@ https://stream8.toserver.net:8443/ottofm.mp3
 https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
 #EXTINF:0,Our Jukebox
 https://streamingV2.shoutcast.com/Our-Jukebox
-#EXTINF:0,Oxigeno/Radio
-https://autodj.live/radio/8030/live
 #EXTINF:0,Oxygène Radio
 https://icecast.oxygeneradio.fr:8443/OxygeneRadio.aac
 #EXTINF:0,OZZI FM
@@ -4083,8 +4081,6 @@ http://streaming.radionomy.com/Radio5sur5
 http://radio7.md:8000/128
 #EXTINF:0,RADIO 70 80 90
 https://rblive80.it/radiobrand2/8354
-#EXTINF:0,Radio 800
-https://stream.zeno.fm/h4hxd5zc1k8uv
 #EXTINF:0,Rádio 80 FM 
 https://centova.euroti.com.br:20001/1/stream.mp3
 #EXTINF:0,Rádio 80FM - O melhor dos anos 80
@@ -4362,7 +4358,7 @@ https://srv2.braudio.com.br/7402
 #EXTINF:0,Rádio Eramos Jovens Disco Dance
 https://srv1.braudio.com.br/7020
 #EXTINF:0,Radio Erft
-https://stream.lokalradio.nrw/444z756
+https://stream.lokalradio.nrw/444z78p
 #EXTINF:0,Radio Erft - Dein 80er Radio
 https://stream.lokalradio.nrw/444zg8p
 #EXTINF:0,Radio Erzgebirge - 80er Kulthits
@@ -5121,8 +5117,6 @@ https://node-08.zeno.fm/57kv56x32yzuv
 https://80s-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,Raw Radio
 https://playoutonestreaming.com/proxy/raw/?mp=/mp3;
-#EXTINF:0,Rayan FM
-https://stream.zeno.fm/uszmihkbhc0uv
 #EXTINF:0,Rayland Cebu
 https://stream.zeno.fm/w0ahwc360tzuv
 #EXTINF:0,rbb 88.8
@@ -5143,6 +5137,8 @@ https://giorgia.radiobellissima.it:8200/radio.mp3
 https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 #EXTINF:0,RDMIX ITALO DISCO 80S
 https://giorgia.radiobellissima.it:8340/radio.mp3
+#EXTINF:0,Reactor Online
+https://emisoras.hn:2000/stream/Reactor/stream
 #EXTINF:0,Real FM 
 https://de1.streamingpulse.com/ssl/RealFMSpain
 #EXTINF:0,Recuerdos Gruperos Radio
@@ -5622,7 +5618,7 @@ https://stream.zenolive.com/0mskr5nkvg0uv.aac
 #EXTINF:0,StereoRey 100.9 FM
 https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8
 #EXTINF:0,StereoRey Argentina
-https://kappa.radioplayer.com.ar:9144/1035
+https://alpha.radioplayer.com.ar/stream/stereorey/1027
 #EXTINF:0,stiersoundradio
 https://s14.streamcaster.eu:8314/stream1.mp3
 #EXTINF:0,Radio Stinesen
@@ -5997,6 +5993,8 @@ https://radio30.virtualtronics.com/proxy/viejaguardia?mp=/stream
 https://sonic01.instainternet.com:7064/stream/1/
 #EXTINF:0,Vijay FM
 https://vijayfm-prabak78.radioca.st/stream
+#EXTINF:0,Vilassar Ràdio
+https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3
 #EXTINF:0,VillageRadio.Net
 https://streaming.live365.com/a73319
 #EXTINF:0,Vinhedos Light
@@ -6125,8 +6123,6 @@ https://flux-mp3.w-feel-muse.fr/
 https://flux-mp3.w-feel-muse.fr/
 #EXTINF:0,WFMX 107.9 Mix
 https://stream.radio.co/s5c993fa61/listen
-#EXTINF:0,White Cliffs Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC146_SC
 #EXTINF:0,The Wicked MIXX
 https://ais-sa2.cdnstream1.com/1991_64.aac
 #EXTINF:0,WildCatFantasyRadio
@@ -6217,8 +6213,6 @@ https://wylcradio.com/
 http://x1.xsminternet.com:58090/stream/2/
 #EXTINF:0,Xanadú Radio Tenerife
 https://server8.emitironline.com:10852/radio.mp3
-#EXTINF:0,XD Radio
-http://live.xdradio.nl/stream/xdradio
 #EXTINF:0,X FM 94.7
 http://streamingecuador.net:8036/stream
 #EXTINF:0,XLR Radio 

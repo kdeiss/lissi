@@ -1763,6 +1763,8 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
+#EXTINF:0,HIT RADIO GUYANE
+http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
 https://cdnradio.streamakaci.com/funradio.mp3
 #EXTINF:0,Fun Streaming
@@ -4009,6 +4011,8 @@ https://stream.ldcradio.co.uk/radio/8000/aac1
 http://185.53.58.147:8000/aac1
 #EXTINF:0,LEBONMIX RADIO
 https://stream9.xdevel.com/audio0s976748-1514/stream/icecast.audio
+#EXTINF:0,Legend FM
+http://play.legendfm.in:8000/live128
 #EXTINF:0,Leipzig Beatzz
 https://www.radioking.com/play/leipzig-beatz
 #EXTINF:0,Mouv'
@@ -4169,8 +4173,6 @@ https://cdn.instream.audio/:9310/stream
 https://mangialsonic.com.ar/chm.mp3
 #EXTINF:0,Radio Mania
 https://ice09.fluidstream.net/fluid0913.mp3?FLID=7
-#EXTINF:0,Maqui Online radio
-http://creativoagencia.stream/8026/stream
 #EXTINF:0,MARSANARYAS
 https://cast4.asurahosting.com/proxy/marsanaryas/stream
 #EXTINF:0,Rádio Marte Madeira
@@ -4291,8 +4293,6 @@ https://stream.zeno.fm/q0gt9m4b6ehvv
 https://ice2.somafm.com/missioncontrol-128-mp3
 #EXTINF:0,Miuzeknonstop Radio
 https://mzkradio.ddns.net:8443/miuzeknonstop
-#EXTINF:0,Mix 106
-https://playerservices.streamtheworld.com/api/livestream-redirect/WUBUFMAAC.aac
 #EXTINF:0,Mix365 Radio
 https://cloud.mix365.co.uk:8005/radio.mp3
 #EXTINF:0,Mixadance FM
@@ -4632,7 +4632,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 #EXTINF:0,NRK P3
 https://lyd.nrk.no/nrk_radio_p3_mp3_m.m3u
 #EXTINF:0,NST Music FM 
-http://radio.nstmusicfm.eu:8428/nstmusicfm
+http://109.169.23.17:8428/nstmusicfm
 #EXTINF:0,Radio NTI
 https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3
 #EXTINF:0,One Dance
@@ -5009,8 +5009,6 @@ https://stream1.primal.fm/
 https://streamer.radio.co/s23e62020a/listen
 #EXTINF:0,Prime Radio 100.3 FM
 http://s20.myradiostream.com:6738/stream.mp3
-#EXTINF:0,PriMuz FM
-http://listen2.myradio24.com:9000/8118
 #EXTINF:0,Prisma Radio
 https://playradio.mx/proxy/prismaradio?mp=/stream
 #EXTINF:0,Prive Radio
@@ -5023,8 +5021,6 @@ http://live.prodjradio.net:8000/stream/1/
 https://media.streamforce.nl/proxy/profm/stream
 #EXTINF:0,Pro FM Dance
 https://player.streamforce.nl:8302/live
-#EXTINF:0,Progressive FM
-https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Progressive Rock AZUSA
 https://streaming.live365.com/a38225
 #EXTINF:0,Professional Idiots Radio
@@ -5741,6 +5737,8 @@ http://stm20.voxtreaming.com.br:6928/stream/1/
 https://www.radioking.com/play/radio-star-dance/49340
 #EXTINF:0,Radio Star Electro
 https://www.radioking.com/play/radio-star-electro/49334
+#EXTINF:0,Radio Stars
+https://radios.sonidoshd.com/8372/stream
 #EXTINF:0,Radio Station Essence
 https://listen.radioking.com/radio/120313/stream/159811
 #EXTINF:0,radio sternschnuppe
@@ -6051,6 +6049,8 @@ http://radioptfm.de:8010/stream/
 https://s34.myradiostream.com/:10422/listen.mp3
 #EXTINF:0,RRO Voll die party
 https://streams.rro.ch/event.mp3
+#EXTINF:0,Radio Studio 1
+https://studiooneasbl.ice.infomaniak.ch/studiooneasbl-128.mp3
 #EXTINF:0,rs2 Dance
 https://stream.rs2.de/rs2-dance/mp3-128/?ref=radiode
 #EXTINF:0,R.SA - Hinhörkanal

@@ -186,7 +186,7 @@ https://livestream.mediaworks.nz/radio_origin/breeze_128kbps/chunklist.m3u8
 #EXTINF:0,Breeze Easy
 https://ec5.yesstreaming.net:2805/stream
 #EXTINF:0,The Breeze Waikato 99.4
-https://livestream.mediaworks.nz/radio_origin/more_128kbps/playlist.m3u8
+https://digitalstreams3.mediaworks.nz/breeze-HAM-high/playlist.m3u8
 #EXTINF:0,Breeze Radio
 https://ec5.yesstreaming.net:1555/stream
 #EXTINF:0,The Breeze Tauranga
@@ -655,8 +655,6 @@ https://stream.oneplay.no/romerike128
 https://online.vibacomunicacion.com:8002/stream
 #EXTINF:0,Misty Radio
 https://streaming.live365.com/a67710
-#EXTINF:0,Mix 106
-https://playerservices.streamtheworld.com/api/livestream-redirect/WUBUFMAAC.aac
 #EXTINF:0,MIX FM LIGHT
 https://stream.rcs.revma.com/1ck16c9sabuvv
 #EXTINF:0,Mocha by Sorcerer Radio
@@ -956,7 +954,7 @@ https://hosting.studioradiomedia.fr:1705/stream
 #EXTINF:0,RTRfm
 https://live.rtrfm.com.au/stream/1/
 #EXTINF:0,Der Bäcker Ruetz
-https://liferadio-tirol.streamabc.net/43-rr-mp3-192-8454060
+https://stream.liferadio.tirol/ruetz/mp3-192/Ruetz
 #EXTINF:0,RZN
 https://a1.asurahosting.com:8190/rzn.mp3
 #EXTINF:0,Sami Swoi Radio
@@ -1145,6 +1143,8 @@ http://puma.streemlion.com:3820/stream
 http://node-05.zeno.fm:80/2f33725t4mzuv
 #EXTINF:0,2WOW - WOW 100.7 FM
 http://streamer3.rightclickitservices.com:9760/stream/1/
+#EXTINF:0,WQBQ The Q 1410 AM
+http://184.154.43.106:8235/stream
 #EXTINF:0,WQEZ-DB Beautiful QEZ
 https://eagle.streemlion.com/proxy/joseph1?mp=/stream
 #EXTINF:0,WRIV - WRIV 1390 AM

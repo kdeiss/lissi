@@ -306,7 +306,7 @@ http://stream.radiocarcoma.com:8080/stream/1/
 #EXTINF:0,Radio Caroline 259 Gold
 http://www.rcgoldserver.com:8316/stream
 #EXTINF:0,Radio Caroline International
-sc2.radiocaroline.net:8000/stream
+http://sc2.radiocaroline.net:8000/stream
 #EXTINF:0,Carter County Radio
 http://us1.streamingpulse.com:7007/live
 #EXTINF:0,Casa de Dios Bogotá
@@ -347,8 +347,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CHTZFM_SC
 https://ice64.securenetsystems.net/CHUC
 #EXTINF:0,CICZ The Dock 104.1 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CICZFM.mp3
-#EXTINF:0,Rádio Cidade 97.7 FM
-http://cast.midiaip.com.br:9770/stream/1/
 #EXTINF:0,CIFM 98.3 FM
 https://stream.jpbgdigital.com/CIFM/HEAAC/48k/playlist.m3u8
 #EXTINF:0,CIJK Rewind 89.3 FM
@@ -357,8 +355,6 @@ https://newcap.leanstream.co/CIJKFM
 https://corus.leanstream.co/CIQBFM
 #EXTINF:0,K-97 CIRK FM
 https://newcap.leanstream.co/CIRKFM
-#EXTINF:0,CIRR Proud FM
-https://ice7.securenetsystems.net/CIRR
 #EXTINF:0,Ciudad UNM Radio FM 88.7
 http://69.64.46.123:9014/;
 #EXTINF:0,CIZZ Zed 98.9 FM
@@ -539,8 +535,8 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://stream.bruce-radio.be/bruce-classic-rock
-#EXTINF:0,FM Rythem
-https://stream.zeno.fm/kpl7fxcoerdvv
+#EXTINF:0,FM Lider 93.5
+https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -659,6 +655,8 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
+#EXTINF:0,KATX 97.7 FM
+http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -871,6 +869,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1531,8 +1531,6 @@ https://cloud.radiosonicpanel.ro/8022/stream
 http://65.109.81.84:7320/stream
 #EXTINF:0,Rocket FM 95.3
 http://stream.thsradio.se:8000/rocket_hi.mp3
-#EXTINF:0,Rocket 977
-http://cast.midiaip.com.br:9770/1;
 #EXTINF:0,Rock FM Brasil
 https://stream.zeno.fm/3rdwqmk9y5quv
 #EXTINF:0,Rock FM
@@ -1761,8 +1759,6 @@ https://ice8.securenetsystems.net/ROOTS
 https://ice6.securenetsystems.net/ROOTS2
 #EXTINF:0,The School of Rock
 https://ais-sa2.cdnstream1.com/1981_64.aac
-#EXTINF:0,The Specialty Channel
-http://38.96.148.254:6812/;
 #EXTINF:0,The Underground
 http://192.99.2.151:8126/stream/1/
 #EXTINF:0,The Vinyl Generation
@@ -2051,8 +2047,6 @@ http://64.24.74.20:8000/wpgs.m3u
 https://ice24.securenetsystems.net/WPKE?playSessionID=812111D3-D603-5902-6F305CF931C572B0
 #EXTINF:0,WPMD
 http://199.180.75.123/stream/1/
-#EXTINF:0,WPRY - The Zone 95.3 FM
-https://ice10.securenetsystems.net/KLMZ
 #EXTINF:0,WPVM - The Voice 103.7 FM
 http://stream.wpvmfm.org:8000/wpvm-128k.mp3
 #EXTINF:0,WPZX - Rock 107 105.9 FM
