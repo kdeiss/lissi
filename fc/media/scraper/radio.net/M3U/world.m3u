@@ -391,6 +391,8 @@ http://radio.domiplay.net:9300/stream/1/
 https://server6.globalhostla.com:9390/stream
 #EXTINF:0,Babylon Radio
 https://babylonradio.com/live.html
+#EXTINF:0,Babyradio
+http://s3.onweb.gr:8464/stream/1/
 #EXTINF:0,Bachata Radio RD
 https://stream.zeno.fm/67uy7hfxsf9uv
 #EXTINF:0,Bachatipico
@@ -467,8 +469,6 @@ http://sonando.us.digitalproserver.com/beatfm_aac
 http://stream-40.zeno.fm/gzfawgky238uv?zs=Wn8_aw3WRD2HJm_4TLcFMQ
 #EXTINF:0,Beats Telugu Radio
 https://listen.shoutcast.com/beatsteluguradio.m3u
-#EXTINF:0,Beit Schomer Israel- Jewish messianic music
-https://5ae99077600e5.streamlock.net/live/shoutcast.stream/playlist.m3u8
 #EXTINF:0,Bela FM
 https://servidor37.brlogic.com:7022/live
 #EXTINF:0,Bellisima FM
@@ -707,6 +707,8 @@ http://stream.zeno.fm/2qc80wh5srhvv
 https://streamer.eagrpservices.com/audio/chadafm.mp3
 #EXTINF:0,Chania Radio 99.6 FM
 http://s4.onweb.gr:8434/stream/1/
+#EXTINF:0,Channel X - House Classics
+http://stream2.radiostad.org:8346/stream/1/
 #EXTINF:0,Chann Pardesi Radio
 https://stream.zenolive.com/yk787xymf24tv
 #EXTINF:0,Charles Stanley Radio
@@ -1051,8 +1053,6 @@ http://server-25.stream-server.nl:8394/stream/1/
 https://stream-36.zeno.fm/y0uf615c27zuv?zs=rUnxnOOdTD6hn49pL3ahQA
 #EXTINF:0,DJ Hutch
 http://192.99.41.102:5012/;
-#EXTINF:0,DJ Molemix Radio
-https://server.streamingradios.net:7096/stream/1/
 #EXTINF:0,DMG radio
 http://s22.myradiostream.com:13628/stream/1/
 #EXTINF:0,DMIXOLOGIST.NET
@@ -1543,6 +1543,8 @@ http://88.212.34.18:8000/aacphighband.aac
 https://centova.radio.com.pt/proxy/549?mp=/stream
 #EXTINF:0,Grande Rio Fm 87.9 
 http://shout35.crossradio.com.br:8058/1;
+#EXTINF:0,GravityRadiox.com
+http://192.99.170.8:8000/stream
 #EXTINF:0,GreekBeat Radio
 https://securestreams5.autopo.st:1943/1/stream
 #EXTINF:0,GreekBeat Radio
@@ -3073,10 +3075,8 @@ https://www.nasze.fm/sounds/targiplayer_20171204153601.mp3
 http://vndcradio2.serverroom.us:4480/;
 #EXTINF:0,Naxi Active Radio
 https://stream.zeno.fm/n8dgaa5k6gruv
-#EXTINF:0,Ndulé World FM
-http://109.206.96.34:8555/;
 #EXTINF:0,Nea Radio
-https://manager5.streamradio.fr:1995/stream
+http://109.206.96.34:8555/;
 #EXTINF:0,Nea Radio Pluss
 https://nettradio.nearadio.no:8100/stream
 #EXTINF:0,Nea TrHits
@@ -3311,10 +3311,8 @@ https://stream.zeno.fm/27d88yfh9ueuv
 https://sonic.paulatina.co/8098/stream
 #EXTINF:0,PEF – Posto Emissor do Funchal (Canal 2)
 http://centova.radio.com.pt:9422/stream/1/
-#EXTINF:0,PEMG Radio
-http://centova.radios.pt:9426/listen.pls
 #EXTINF:0,Penedés FM-La teva ràdio del Penedès
-https://streaming.live365.com/a55093
+http://centova.radios.pt:9426/listen.pls
 #EXTINF:0,PEOPLE FLY
 https://penedesfmradio.radio12345.com/
 #EXTINF:0,PERAN NET
@@ -3555,10 +3553,8 @@ http://radioalternativa.ddns.net:9830/stream/1/
 http://167.114.118.120:7816/stream
 #EXTINF:0,RADIO AMERICA 96.1 FM
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?aid=5b8ea6f89ff52d0770a144c4&dnt=true&pid=tkNbjTngLvNpGzB98H45xI3f6IXH6DUM&sid=8B9EcEZrHrG7ahQqgmlQH24UkIf00pVF&uid=F1XuPWcZ1l9uUD5AONn5Hso7eHZk1LRb&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1666354029687&ot=MzaQUpkZF4ycsBNyVMt_Fw&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&aw_0_1st.playerId=appName&liveId=60bfd82b9488941e9d86eb1d&propertyName=appName&propertyType=web-app&propertyVersion=v0
-#EXTINF:0,Radio America Guatemala
-http://167.114.118.120:7398/;
 #EXTINF:0,Radio América - Guayaquil
-http://66.113.177.108:7060/;
+http://167.114.118.120:7398/;
 #EXTINF:0,Rádio Amigo Unidos
 https://streamingecuador.net:9101/stream
 #EXTINF:0,Rádio Amizade Viva
@@ -4375,8 +4371,10 @@ https://nl.digitalrm.pt:8182/stream
 https://servidor18.brlogic.com:7174/live
 #EXTINF:0,Radio Mais Online
 https://hts08.kshost.com.br:12162/live
-#EXTINF:0,Radio Manchete
+#EXTINF:0,Radio Majagual
 https://s11.maxcast.com.br:8108/live?id=848021440006
+#EXTINF:0,Radio Manchete
+https://radiolatina.info/9832/stream
 #EXTINF:0,Radio Manos 103.4
 https://radios.justweb.pt/8008/stream
 #EXTINF:0,Radio MAQAM - Arabic Radio
@@ -5467,10 +5465,8 @@ https://stream-57.zeno.fm/7x34ndtxnfhvv?zs=METuZOGsTMm7GnAzob-ftg&1664883738005
 https://stream-10.zeno.fm/tgzmw19rqrquv?zs=DE3x5WCbT9OW6a2CtopnBw
 #EXTINF:0,Salsa Mambo 27
 http://192.99.41.102:5060/stream/1/
-#EXTINF:0,Salsareo !salsa sin miseria!
-https://cast4.my-control-panel.com/proxy/salsamambo/stream;
 #EXTINF:0,Sama Radio Dakar
-http://shoutcast.tmcreativos.com:8216/;
+https://cast4.my-control-panel.com/proxy/salsamambo/stream;
 #EXTINF:0,Samen1
 https://streamingp.shoutcast.com/JamendoLounge
 #EXTINF:0,Samugam FM
@@ -5623,8 +5619,10 @@ https://ice31.securenetsystems.net/BRILAMP3?playSessionID=805EEAEA-3EE0-47E6-BC7
 https://ice31.securenetsystems.net/BRILAMP3?playSessionID=F226725E-AAF5-43B1-9F995B2C474A8728
 #EXTINF:0,Squad Radio Florești
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC200.aac
-#EXTINF:0,SR Stereo 105.0 FM
+#EXTINF:0,S Radio non stop
 http://109.169.23.124:9447/;
+#EXTINF:0,SR Stereo 105.0 FM
+http://dione.shoutca.st:8014/stream
 #EXTINF:0,Stacion San Alejandro 91.3 FM
 https://stream.zeno.fm/a5eep3ukbm0uv
 #EXTINF:0,Stanvaste Radio
@@ -6077,8 +6075,10 @@ https://ice24.securenetsystems.net/WDHR?playSessionID=8113D564-DC3D-8FC1-218B50D
 http://www.ophanim.net:9120/;
 #EXTINF:0,Web Rádio Carol
 https://ice10.securenetsystems.net/WDTL
-#EXTINF:0,Web Rádio Figueiró
+#EXTINF:0,Web Rádio Colonial
 https://stream.zeno.fm/p064qgwd268uv
+#EXTINF:0,Web Rádio Figueiró
+http://server03.streamingilimitado.com.br:12380/stream/1/
 #EXTINF:0,Web Radio Melody
 https://rs2.ptservidor.com/proxy/orlando/stream
 #EXTINF:0,215 Servidão Antônio Manoel Nunes

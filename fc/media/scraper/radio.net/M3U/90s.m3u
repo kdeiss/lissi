@@ -261,6 +261,8 @@ https://s32.myradiostream.com/18756/listen.mp3
 http://centova1.cheapshoutcast.com:8252/;stream.nsv
 #EXTINF:0,allonefm
 https://cast4.asurahosting.com/proxy/allonefm/stream
+#EXTINF:0,AllsortsHits 
+https://a2.asurahosting.com:7270/radio.mp3
 #EXTINF:0,Allzic Années 90
 https://allzic24.ice.infomaniak.ch/allzic24.mp3
 #EXTINF:0,Alo Fm
@@ -417,8 +419,6 @@ https://stream.laut.fm/bdjeurodance90s?ref=radiode
 https://stream.laut.fm/bdjmaximix?ref=radiode
 #EXTINF:0,BEAT LIFE PANAMÁ
 http://65.109.81.84:7221/
-#EXTINF:0,Beatradio msG
-https://login.streamplus.de/app.php/streamserver/public/14963.m3u
 #EXTINF:0,Beats 4 friends
 http://193.26.157.100:8174/stream/1/
 #EXTINF:0,Bedford Radio
@@ -2394,7 +2394,7 @@ https://streams.olympia-classics.nl/classics
 #EXTINF:0,Omroep Horst aan de Maas
 https://msic.mx-cd.net/157-661257/Omroep_Horst_aan_de_Maas
 #EXTINF:0,on-4your-life
-http://stream-02.mystical-host.de:8000/stream
+https://stream.on-4your-life.de:8000/radio.mp3
 #EXTINF:0,ON 90s
 https://0n-90s.radionetz.de/0n-90s.mp3
 #EXTINF:0,ONDA 80 RADIO
@@ -2681,8 +2681,6 @@ https://servidor21-2.brlogic.com:8938/live
 https://sonic-cl.streaming-chile.com/8108/stream
 #EXTINF:0,Rádio AKI 1
 https://stream.zeno.fm/ah9nnm5z6mruv
-#EXTINF:0,Radio AldeaPlus
-https://streaming.viphosting.cl/8096/stream
 #EXTINF:0,Rádio Alpes
 https://s13.maxcast.com.br:8162/live
 #EXTINF:0,Radio ALR
@@ -3377,8 +3375,6 @@ https://giorgia.radiobellissima.it:8200/radio.mp3
 https://maggie.torontocast.com:2020/stream/rdmixeurodance90s
 #EXTINF:0,RDMIX ITALIAN VINTAGE 70 80 90
 https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
-#EXTINF:0,Reactor Online
-https://emisoras.hn:2000/stream/Reactor/stream
 #EXTINF:0,Real FM 
 https://de1.streamingpulse.com/ssl/RealFMSpain
 #EXTINF:0,Radio Record Superdiskoteka 90 - Супердискотека 90-х
@@ -3525,8 +3521,6 @@ https://stream.rpr1.de/90erdance/aac-128/radiode
 https://stream.rpr1.de/90errock/aac-128/radiode
 #EXTINF:0,RPR1.90er Trash
 https://stream.rpr1.de/90ertrash/mp3-128/radiode
-#EXTINF:0,RPT-FM - 90sEuroDance
-http://radioptfm.de:8010/stream/
 #EXTINF:0,94,3 rs2 BERLIN, MEIN LIEBLINGS MIX
 https://stream.rs2.de/rs2/mp3-128/radiode;stream.nsv
 #EXTINF:0,rs2 90er Party
