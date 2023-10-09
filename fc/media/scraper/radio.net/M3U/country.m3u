@@ -951,8 +951,6 @@ https://manager4.streamradio.fr:1185/stream
 https://streaming.exclusive.radio/er/bradpaisley/icecast.audio
 #EXTINF:0,Exclusively Alabama
 https://streaming.exclusive.radio/er/alabama/icecast.audio
-#EXTINF:0,Exclusively Anne Murray
-https://streaming.exclusive.radio/er/annemurray/icecast.audio
 #EXTINF:0,Exclusively Brantley Gilbert
 https://streaming.exclusive.radio/er/brantleygilbert/icecast.audio
 #EXTINF:0,Exclusively Brooks & Dunn
@@ -963,10 +961,6 @@ https://streaming.exclusive.radio/er/carrieunderwood/icecast.audio
 https://streaming.exclusive.radio/er/charleypride/icecast.audio
 #EXTINF:0,Exclusively Chicks
 https://streaming.exclusive.radio/er/dixiechicks/icecast.audio
-#EXTINF:0,Exclusively Colt Ford
-https://streaming.exclusive.radio/er/coltford/icecast.audio
-#EXTINF:0,Exclusively Dallas Smith
-https://streaming.exclusive.radio/er/dallassmith/icecast.audio
 #EXTINF:0,Exclusively Dolly Parton
 https://streaming.exclusive.radio/er/dollyparton/icecast.audio
 #EXTINF:0,Exclusively Eagles
@@ -981,8 +975,6 @@ https://streaming.exclusive.radio/er/georgejones/icecast.audio
 https://streaming.exclusive.radio/er/georgestrait/icecast.audio
 #EXTINF:0,Exclusively Glen Campbell
 https://streaming.exclusive.radio/er/glencampbell/icecast.audio
-#EXTINF:0,Exclusively Gretchen Peters
-https://streaming.exclusive.radio/er/gretchenpeters/icecast.audio
 #EXTINF:0,Exclusively Hank Williams
 https://streaming.exclusive.radio/er/hankwilliams/icecast.audio
 #EXTINF:0,Exclusively Jim Reeves
@@ -999,8 +991,6 @@ https://streaming.exclusive.radio/er/kennychesney/icecast.audio
 https://streaming.exclusive.radio/er/kennyrogers/icecast.audio
 #EXTINF:0,Exclusively Kiefer Sutherland
 https://streaming.exclusive.radio/er/kiefersutherland/icecast.audio
-#EXTINF:0,Exclusively Kip Moore
-https://streaming.exclusive.radio/er/kipmoore/icecast.audio
 #EXTINF:0,Exclusively Lady Antebellum
 https://streaming.exclusive.radio/er/ladyantebellum/icecast.audio
 #EXTINF:0,Exclusively Linda Ronstadt
@@ -1195,6 +1185,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC30_SC
 https://servidor36.brlogic.com:7050/live
 #EXTINF:0,IndieRadioFM.net COUNTRY RADIO FM
 https://listen.openstream.co/3932/audio
+#EXTINF:0,irCountry Radio
+http://109.169.23.17:11009/stream
 #EXTINF:0,Irish Country Radio
 http://stream13.shoutcastsolutions.com:8020/stream/1/
 #EXTINF:0,Irish Country Music Radio - ICMR
@@ -1965,6 +1957,8 @@ https://corn.kvsc.org/broadband
 https://svinews.com:8443/wave
 #EXTINF:0,KWAY The Winner AM 1470
 https://ice10.securenetsystems.net/KWAYAM
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWDD Wild 94.3 FM
 https://ice8.securenetsystems.net/KWDD
 #EXTINF:0,KWED 1580 AM
@@ -2499,6 +2493,8 @@ http://101.100.143.138:8002/stream
 http://167.114.118.119:7322/stream/1/
 #EXTINF:0,Radio La Tipica RD
 https://stream-42.zeno.fm/9vg8dfvnbd0uv?zs=CFr5bZ85SYOdrzS8ULVOXQ
+#EXTINF:0,Radio Larvik
+https://eu10.fastcast4u.com:15220/;?type=http&nocache=1696568828
 #EXTINF:0,Radio L - Country
 https://radioliechtenstein.ice.infomaniak.ch/radioliechtenstein-128.mp3
 #EXTINF:0,Rádio Mais Sertaneja
@@ -3131,8 +3127,6 @@ https://ice7.securenetsystems.net/WGGC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGGYFM.mp3
 #EXTINF:0,WGH-FM - The Eagle 97.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGHFM.mp3
-#EXTINF:0,WGJK K Country 99.5
-https://ais-sa1.streamon.fm/7051_24k.aac
 #EXTINF:0,WGKX Kix 105.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGKXFMAAC_SC
 #EXTINF:0,WGLM 1380 AM
@@ -3153,8 +3147,6 @@ http://ice41.securenetsystems.net/WGPA
 https://ice5.securenetsystems.net/WGRX
 #EXTINF:0,WGTN AM & FM
 https://ice66.securenetsystems.net/WGTNRADIO?playSessionID=224CD81A-E928-270E-9F4126B582B757DC
-#EXTINF:0,WGTY - Froggy 107.7
-https://playerservices.streamtheworld.com/api/livestream-redirect/WGTYFMAAC.aac
 #EXTINF:0,WGUO Gumbo 94.9 FM
 https://ice42.securenetsystems.net/WGUO
 #EXTINF:0,WHAP - Fox Sports 1340 AM
@@ -3181,6 +3173,8 @@ http://stream.abacast.net/direct/alphabluefield-whkxfmaac-ibc2
 https://ice8.securenetsystems.net/WHMD
 #EXTINF:0,WHPO - 101 Country
 https://ice6.securenetsystems.net/WHPO?
+#EXTINF:0,WHTH - Buckeye Country 107.7
+http://shoutcast.wnko.com:4444/stream
 #EXTINF:0,WHWY - Highway 98 - 98.1 FM
 https://ice42.securenetsystems.net/WHWY
 #EXTINF:0,WIBK - The Buckle 96.9 FM 1360 AM
@@ -3401,6 +3395,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLXXFMAAC_SC
 #EXTINF:0,WLYP - 100.9 FM
 https://toombsnow.biz/downloads/meredithoctober182011.mp3
+#EXTINF:0,WMCT 1390 AM
+https://crystalout.surfernetwork.com:8001/WMCT-AM_MP3
 #EXTINF:0,WMDH-FM Nash FM 102.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMDHFMAAC_SC
 #EXTINF:0,WMDJ 100.1 FM
@@ -3615,6 +3611,8 @@ https://ice9.securenetsystems.net/WTGR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTHIFMAAC_SC
 #EXTINF:0,WTHK - KIXX 100.7 FM
 https://ice6.securenetsystems.net/WXXK
+#EXTINF:0,WTIQ 1490 The Maverick
+https://ice64.securenetsystems.net/WTIQ
 #EXTINF:0,WTTN - 97.5 Eagle Country 97.5 FM
 https://crystalout.surfernetwork.com:8001/WTNN_MP3
 #EXTINF:0,WTNN 97.5 Eagle Country
