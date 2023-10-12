@@ -1843,8 +1843,6 @@ https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8
 http://stream.zeno.fm/hyguvedna9quv
 #EXTINF:0,Plus Radio Fortaleza
 http://179.127.4.122:8619/stream/1/
-#EXTINF:0,Progressive Mind Radio
-https://stream.zeno.fm/6vu8pug96ehvv
 #EXTINF:0,Podio Podcast Radio - Area 51
 https://drive.uber.radio/uber/podioarea51/icecast.audio
 #EXTINF:0,Podio Arts And Culture
@@ -2779,6 +2777,8 @@ https://cast1.asurahosting.com:2199/tunein/noe.pls
 http://icecast7.play.cz:8000/cro2-128.mp3
 #EXTINF:0,Cesky Rozhlas Plus
 https://rozhlas.stream/plus_high.aac
+#EXTINF:0,RPP Lima
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8
 #EXTINF:0,RPP Noticias
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 #EXTINF:0,RPRadio
@@ -3341,14 +3341,10 @@ http://procyon.shoutca.st:8212/stream/1/
 https://ice23.securenetsystems.net/WBVP
 #EXTINF:0,WBZ - NewsRadio 1030
 https://stream.revma.ihrhls.com/zc7729/hls.m3u8
-#EXTINF:0,WBZU - WILK FM Newsradio103.1
-https://prod-3-89-21-172.wostreaming.net/audacy-wilkamaac-hlsc.m3u8
 #EXTINF:0,WCAI - Cape and Islands NPR 90.1 FM
 https://wgbh-live.streamguys1.com/wcai
 #EXTINF:0,WCAP 980
 https://audio-edge-vqwx4.yyz.g.radiomast.io/a59bbcb6-0330-48e3-bf93-1f054ac27b5c
-#EXTINF:0,WCBC - 1270 AM
-https://pstnet3.shoutcastnet.com:30094/stream
 #EXTINF:0,WCBM - Breaking News 680 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCBMAM.mp3
 #EXTINF:0,WCBM Talkradio 680 AM
@@ -3949,6 +3945,8 @@ https://ice10.securenetsystems.net/WNIX
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNKTFM.mp3
 #EXTINF:0,WNNZ 640 New England Public Radio
 http://nepr.iad.streamguys1.com/WNNZ.mp3
+#EXTINF:0,WNOI 103.9 FM
+https://ic2.sslstream.com/wnoifh2
 #EXTINF:0,WNOS - WNOS New Bern's Newstalk Radio 1450 AM 
 http://64.251.26.228:8002/stream
 #EXTINF:0,Connecticut Public Radio
@@ -4031,8 +4029,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WPICAM.mp3
 https://ais-sa2.cdnstream1.com/2056_128.mp3
 #EXTINF:0,WPLN / WHRS / WTML Nashville News 90.3 / 91.7 / 91.5 FM
 http://wpln.streamguys.org/wplnfm.mp3
-#EXTINF:0,WPNN - Pensacola Talk Radio 790 AM
-http://208.85.240.2:8310/;stream.nsv
 #EXTINF:0,WPNW Joy Worship 96.5/98.9
 http://ic1.nwrnetwork.com/wpnw
 #EXTINF:0,WPOG 710 AM

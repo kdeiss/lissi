@@ -1655,6 +1655,8 @@ https://streaming.fmokey.cl/moviles.mp3
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:0,FM Trujui 90.1 FM
 http://62.210.129.76:9302/;
+#EXTINF:0,FM Tu
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMTU_SC.mp3
 #EXTINF:0,Forest One
 https://c2.prostream365.com:8010/live
 #EXTINF:0,Fórmula 30
@@ -2193,8 +2195,6 @@ https://r10.ciclano.io:15033/stream
 https://shout35.crossradio.com.br:18038/1
 #EXTINF:0,Jovem Pan FM Ipatinga
 http://radio3.logicahost.com.br:9130/stream/1/
-#EXTINF:0,Jovem Pan FM Maceió
-http://radios.cabreuvoip.com.br:7054/stream
 #EXTINF:0,Jovem Pan FM Manaus
 https://shout25.crossradio.com.br:18022/1
 #EXTINF:0,Jovem Pan FM Maringá
@@ -2805,6 +2805,8 @@ https://stream.laut.fm/chartmix?ref=radiode
 https://stream.laut.fm/chartradio24?ref=radiode
 #EXTINF:0,chartradio-germany
 https://stream.laut.fm/chartradio-germany?ref=radiode
+#EXTINF:0,charts
+https://stream.laut.fm/charts?ref=radiode
 #EXTINF:0,charts100
 https://stream.laut.fm/charts100?ref=radiode
 #EXTINF:0,Charts Deutschland Webradio
@@ -5089,6 +5091,10 @@ https://radio6-dunkerque.ice.infomaniak.ch/radio6-dunkerque-128.mp3
 https://radio6-montreuilsurmer.ice.infomaniak.ch/radio6-montreuilsurmer-128.mp3
 #EXTINF:0,Radio 7 Albania
 https://cp1.sednastream.com/proxy/radio7albania
+#EXTINF:0,Radio 7 - Gute Laune
+https://streams.radio7.de/gutelaune/mp3-192/radiode/
+#EXTINF:0,Radio 7 - Mädelsparty
+https://streams.radio7.de/maedelsparty/mp3-192/radiode/
 #EXTINF:0,Radio 7 Ulm
 https://streams.radio7.de/ulm/mp3-192/radiode/
 #EXTINF:0,Radio 90,1 - Dein Top40 Radio
@@ -5261,7 +5267,7 @@ https://s2.radio.co/s57984e821/listen
 https://stream.laut.fm/radio-for-friends?ref=radiode
 #EXTINF:0,Radio for Vapers
 http://server32109.streamplus.de:12532/stream/1/
-#EXTINF:0,Radio-For-You
+#EXTINF:0,WEBRADIOFORYOU
 https://stream2-alfacast-hosting.com/8198/stream
 #EXTINF:0,Radiofoxgarden
 https://www.radiofoxgarden.de/listen.pls
@@ -6017,16 +6023,6 @@ https://stream.liferadio.at/sonnleitner/aac-64/
 http://185.224.91.193:8000/stream/1/
 #EXTINF:0,Soundcity Radio 88.5
 https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmnrb
-#EXTINF:0,Soundcity Radio 91.1
-https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
-#EXTINF:0,Soundcity Radio 91.3
-https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
-#EXTINF:0,Soundcity Radio 96.3
-https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
-#EXTINF:0,Soundcity Radio 96.5
-https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
-#EXTINF:0,Soundcity Radio 98.5
-https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
 #EXTINF:0,Hitz FM - Pop
 https://stream.zeno.fm/mtnzfojq64lvv
 #EXTINF:0,soundlarge – Wir lieben Musik.
