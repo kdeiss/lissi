@@ -85,8 +85,6 @@ https://radios.solumedia.com:10967/stream
 https://stream.radiojar.com/4ggz3rkd838uv
 #EXTINF:0,AIR Romana Tropical Hits Radio
 https://n10.radiojar.com/4ggz3rkd838uv?rj-ttl=5&rj-tok=AAABg_VR5LIAQlxDTIktsO490Q
-#EXTINF:0,Aji Picante Radio
-http://usa4.fastcast4u.com/proxy/ajipicante?mp=%2F1
 #EXTINF:0,Aktiva Radio Boston
 https://stream.zeno.fm/tk2e1wbp7s8uv
 #EXTINF:0,ALBUM RADIO URBAN
@@ -131,8 +129,6 @@ https://streaming.radiosenlinea.com.ar/8854/stream
 https://ais-sa2.cdnstream1.com/2202_128.mp3
 #EXTINF:0,Armonía Radio
 https://stream.zeno.fm/0eshy1v4czzuv
-#EXTINF:0,ARO RADIO
-http://62.210.38.137:8132/stream/1/
 #EXTINF:0,Arriba Colombia
 http://cdn.instream.audio:9137/stream
 #EXTINF:0,Emisora Salsa y Son - Atmósfera 18
@@ -973,6 +969,8 @@ https://streamingp.shoutcast.com/hotmixradio-latino-128.mp3
 https://streaming.hotmixradio.fr/hotmix-salsa-en-mp3
 #EXTINF:0,Huallil Radio
 https://stream.zeno.fm/hur4hx7yb5zuv
+#EXTINF:0,HUDA RADIO
+https://icecasthd.net/proxy/huda/huda
 #EXTINF:0,Husa Radio
 https://stream.zeno.fm/g4n5ce5sbkeuv
 #EXTINF:0,Radio Iberolatina
@@ -1143,8 +1141,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC.aac
 https://ice5.securenetsystems.net/KPTJ
 #EXTINF:0,KQMR - La Kalle 100.3 FM
 http://stream.abacast.net/direct/univision-kqmrfmaac-ibc2
-#EXTINF:0,KRGT - Radio La Kalle 99.3 FM
-http://54.203.4.208/univision-krgtfmaac-ibc2
 #EXTINF:0,kronehit latino
 https://secureonair.krone.at/kronehit05.mp3
 #EXTINF:0,KRRS - El Patrón 
@@ -1198,7 +1194,7 @@ http://167.114.116.223:8781/stream/1/
 #EXTINF:0,La Caja Radio
 https://sp3.servidorrprivado.com:10915/stream/1/
 #EXTINF:0,La Caliente Monterrey
-https://playerservices.streamtheworld.com/api/livestream-redirect/XETFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/XETFM_SC.mp3
 #EXTINF:0,La Caliente 90.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/QTEJA_CR_SC
 #EXTINF:0,La Caliente de NY
@@ -1257,6 +1253,8 @@ https://node-02.zeno.fm/8764an14h18uv?
 https://emisorasvirtuales.com.co:9183/live
 #EXTINF:0,KDTD - La Grande 1340
 https://us2.maindigitalstream.com/ssl/KDTD
+#EXTINF:0,LA GRANDEMTY RADIO
+https://stream.zeno.fm/cd1fu35abkhvv
 #EXTINF:0,La Grupera MX
 https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 #EXTINF:0,La Inolvidable 93.7 FM
@@ -1306,9 +1304,9 @@ https://radiohd.streaminghd.co:9316/stream
 #EXTINF:0,La Mega Armenia
 https://mdstrm.com/audio/633d83bf3b07310855f79c40/live.m3u8
 #EXTINF:0,La Mega Barranquilla
-https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
 #EXTINF:0,La Mega Bucaramanga
-https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
 #EXTINF:0,La Mega Cali
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
 #EXTINF:0,La Mega Cucuta
@@ -1322,7 +1320,7 @@ https://stream.mediasector.es/radio/8020/lamega.mp3
 #EXTINF:0,La Mega Medellín
 https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8
 #EXTINF:0,La Mega Pereira
-https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8
 #EXTINF:0,La Mega Popayán
 https://stream-51.zeno.fm/3m614137tc9uv?
 #EXTINF:0,La Mega Star 95.1 FM
@@ -1676,7 +1674,7 @@ https://stream.zeno.fm/qbmvgpm314zuv?rj-tok=AAABd_RZ0x4AIEl2rvecluvCDw&rj-ttl=5
 #EXTINF:0,Loja Stereo
 https://securestream.radioshd.info:7072/stream/1/
 #EXTINF:0,Los 40 Principales Costa Rica
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CRAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CR_SC.mp3
 #EXTINF:0,Los 40 Principales 91.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
 #EXTINF:0,Los 40 Principales Chile
