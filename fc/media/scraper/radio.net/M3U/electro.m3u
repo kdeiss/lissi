@@ -145,8 +145,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3?d
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3?dist=radionet
 #EXTINF:0,538 PARTY
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3?dist=radionet
-#EXTINF:0,RADIO 538
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
 #EXTINF:0,5FBI Fresh 92.7 FM
 https://live.fresh927.com.au/freshmp3
 #EXTINF:0,5IK Beats Radio
@@ -473,8 +471,6 @@ https://cast1.asurahosting.com/proxy/beatradi/stream
 https://cast1.asurahosting.com/proxy/beatrad1/stream
 #EXTINF:0,Beats Radio
 https://satcom.rfchosting.ca:8100/stream/1/
-#EXTINF:0,Beats4u
-https://server36093.streamplus.de/stream.mp3
 #EXTINF:0,Beats Online CR
 https://streamingv2.shoutcast.com/beats-online-cr
 #EXTINF:0,Beatz4you
@@ -523,7 +519,7 @@ https://stream.bigfm.de/party/aac-128/radiode
 https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-6355201
 #EXTINF:0,bigFM Trashpop
 https://stream.bigfm.de/trashpop/mp3-128/radiode
-#EXTINF:0,bigFM URBAN CLUB BEATS
+#EXTINF:0,bigFM Turn Up
 https://stream.bigfm.de/urbanclubbeats/mp3-128/radiode
 #EXTINF:0,BigTimeFM
 https://stream.bigtimefm.de/stream.mp3
@@ -773,6 +769,8 @@ http://s45.myradiostream.com:18304/stream/1/
 http://listen.shoutcast.com/centerwavesradio
 #EXTINF:0,Cerise FM - Clubbing
 https://stream.rcs.revma.com/q90fb3dwnwzuv.mp3
+#EXTINF:0,Radio Cezar Gdańsk
+http://us2freenew.listen2myradio.com:30889/stream
 #EXTINF:0,Radio CFM 
 http://stream2.radiocfm.ro:9290
 #EXTINF:0,Channel 44000
@@ -1443,6 +1441,8 @@ https://stream.zeno.fm/68gv6rnnpd0uv
 http://91.121.162.224:9087/stream/1/
 #EXTINF:0,electronicflow
 https://derelectronicflow.stream.laut.fm/derelectronicflow
+#EXTINF:0,Elektroniq radio
+http://78.129.185.81:6654/stream
 #EXTINF:0,electroradio.fm
 https://stream.radiojar.com/fkyxx4q35k0uv
 #EXTINF:0,Electro Reggaeton Radio
@@ -1677,8 +1677,6 @@ https://streams.fluxfm.de/soundofberlin/aac-64/radiode/play.pls
 https://streams.fluxfm.de/xjazz/mp3-320/radiode/play.pls
 #EXTINF:0,FluxKompensator
 https://fluxfm.streamabc.net/flx-fluxkompensator-aacplus-64-6283953
-#EXTINF:0,Flynn radio
-http://manager7.streamradio.fr:3240/stream
 #EXTINF:0,FM101 - The Planet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC445_SC
 #EXTINF:0,FM104's HitMix
@@ -1763,8 +1761,6 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
-#EXTINF:0,Fun Radio Dance
-https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -1823,6 +1819,8 @@ https://ginandjuice.radioca.st/stream/1/
 https://live.radioglamorize.com/stream/1/
 #EXTINF:0,Radio Glarissimo
 https://fridolin.ice.infomaniak.ch/fridolin-192.mp3
+#EXTINF:0,GlitterBeam
+https://s7.yesstreaming.net:8050/stream
 #EXTINF:0,globalbeats green channel
 http://www.globalbeats.fm/gbfm_green_mp3.pls
 #EXTINF:0,Global Disco
@@ -2313,7 +2311,7 @@ https://stream.kissfm.de/kiss-tuning-beats/mp3-128/?ref=radiode
 https://ice-11.spilarinn.is/fmxtra
 #EXTINF:0,KISS FM – REMIX
 https://stream.kissfm.de/kissfm-remix/mp3-128/?ref=radiode
-#EXTINF:0,KISS FM Rumänien
+#EXTINF:0,KISS FM Romania
 https://www.kissfm.ro/listen.pls
 #EXTINF:0,Železnička 6
 https://stream.zeno.fm/v148h04dztzuv
@@ -2332,7 +2330,7 @@ https://kisskiss.fluidstream.eu/KissKiss.aac?
 #EXTINF:0,KISS
 https://live-bauerno.sharp-stream.com/kiss_no_mp3
 #EXTINF:0,Beats Radio
-https://edge08.streams.klassikradio.de/beats-radio?
+https://klassikr.streamabc.net/klr-beatsnational-mp3-192-9584635
 #EXTINF:0,Klassik Radio Jean Michel Jarre
 https://stream.klassikradio.de/jmjarre/mp3-128/radiode/
 #EXTINF:0,KNHC - C89.5 Seattle's Hottest Music - 89.5 FM
@@ -2842,7 +2840,7 @@ https://stream.laut.fm/electric-circus?ref=radiode
 #EXTINF:0,electricfabric
 https://stream.laut.fm/electricfabric?ref=radiode
 #EXTINF:0,Electri C Ity Studios
-https://listen.radioking.com/radio/591490/stream/652246
+https://streams.radiomast.io/b5d03261-dba1-490e-868c-2e56c2878ca7
 #EXTINF:0,Electric Sound Area
 https://stream.laut.fm/electric-sound-area?ref=radiode
 #EXTINF:0,Electrodancefloor
@@ -4297,6 +4295,8 @@ https://ice2.somafm.com/missioncontrol-128-mp3
 https://mzkradio.ddns.net:8443/miuzeknonstop
 #EXTINF:0,Mix365 Radio
 https://cloud.mix365.co.uk:8005/radio.mp3
+#EXTINF:0,Mix93fm
+https://cast3.asurahosting.com/proxy/mixfmst4/stream
 #EXTINF:0,Mixadance FM
 https://stream.mixadance.fm/mixadance
 #EXTINF:0,Mixaradio Saint-Quentin
@@ -4553,8 +4553,6 @@ https://listen.nolife-radio.com/stream
 https://listen.nonstopstreaming.net/nsd
 #EXTINF:0,Non-Stop Hitradio
 https://jenny.torontocast.com:8002/nshitradio
-#EXTINF:0,NonStopPlay Pure Dance
-http://stream.nonstopplay.co.uk/nsppd-128k-mp3
 #EXTINF:0,Noods radio
 https://noodsradio.com/listen
 #EXTINF:0,Nord-FM
@@ -4975,8 +4973,6 @@ https://listen.radionomy.com/pophitsstation
 https://streaming.live365.com/a40380
 #EXTINF:0,PopTron!
 https://ice2.somafm.com/poptron-128-mp3
-#EXTINF:0,Positiva Mix
-https://centova.svdns.com.br:20011/stream/1/
 #EXTINF:0,Positiva Radio
 https://sp.oyotunstream.com:10923/;stream.nsv
 #EXTINF:0,Pothos
@@ -5025,6 +5021,8 @@ http://live.prodjradio.net:8000/stream/1/
 https://media.streamforce.nl/proxy/profm/stream
 #EXTINF:0,Pro FM Dance
 https://player.streamforce.nl:8302/live
+#EXTINF:0,Progressive FM
+https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Progressive Rock AZUSA
 https://streaming.live365.com/a38225
 #EXTINF:0,PROJECT BÄM ON AIR - Da tanzt sogar die Oma!
@@ -5416,7 +5414,7 @@ http://85.214.45.85:8000/;
 #EXTINF:0,radio hashtag+
 https://frontend.streamonkey.net/schweinfurt-radiohashtagplus?aggregator=radiode
 #EXTINF:0,Radio Heaven
-https://s3.slotex.pl/shoutcast/7600/stream?sid=1
+https://sc1.radioheaven.pl:8000/;stream.mp3
 #EXTINF:0,Radio Helax
 http://ice.abradio.cz:8000/helax128.mp3
 #EXTINF:0,Radio Hercomarca Vilcashuaman
@@ -6820,7 +6818,7 @@ https://stream-47.zeno.fm/xus6v57m6yzuv?zs=S3jQeoSxQHOo7z81_90AsA
 #EXTINF:0,VIBRATION - 108
 https://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 #EXTINF:0,VIBRATION
-http://vibrationbelgique.ice.infomaniak.ch:80/vibrationbelgique-high
+https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high.mp3
 #EXTINF:0,Vibration Club
 https://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3
 #EXTINF:0,Vicious Mallorca
@@ -6919,8 +6917,6 @@ http://streaming.radionomy.com/JamendoLounge
 http://live7.livemus.com.br:27632/stream/1/
 #EXTINF:0,Web Radio 5.9 
 http://5.135.39.189:8106/stream/1/
-#EXTINF:0,Web Rádio Antenna Joinville
-https://ssl.xcast.com.br:6756/stream/1/
 #EXTINF:0,Web Rádio B2 Electro Dance
 http://stream.zeno.fm/0zf3vbuvx8quv
 #EXTINF:0,Web Radio Bass

@@ -87,8 +87,6 @@ http://radioheiloo.no-ip.info:8010/listen.pls
 http://5230.cloudrad.io:8354/live
 #EXTINF:0,Berliner Rundfunk – Disco
 https://stream.berliner-rundfunk.de/brf-disco/mp3-128/radiode/
-#EXTINF:0,best-of-sound.de
-http://stream.psy-hosting.de:8000/listen
 #EXTINF:0,BMC
 https://stream.zeno.fm/nbryaaxbdm0uv
 #EXTINF:0,Radio BMG
@@ -659,6 +657,8 @@ https://stream.laut.fm/radio-blood-diamond?ref=radiode
 https://stream.laut.fm/radio-blumenberg-1?ref=radiode
 #EXTINF:0,radio_boogie-woogie
 https://stream.laut.fm/radio_boogie-woogie?ref=radiode
+#EXTINF:0,RADIO BRENNER
+http://stream.laut.fm/radiobrenner
 #EXTINF:0,Radio CR7
 https://stream.laut.fm/radio_cr7?ref=radiode
 #EXTINF:0,radiodisco
@@ -960,7 +960,7 @@ https://servidor15.brlogic.com:7054/live
 #EXTINF:0,Radio Happystation
 http://85.214.45.85:8000/;
 #EXTINF:0,Radio Heaven
-https://s3.slotex.pl/shoutcast/7600/stream?sid=1
+https://sc1.radioheaven.pl:8000/;stream.mp3
 #EXTINF:0,Radio HIT80
 http://88.198.175.30:6377/stream
 #EXTINF:0,Radio Hits80

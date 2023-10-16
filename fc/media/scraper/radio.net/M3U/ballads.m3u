@@ -326,7 +326,7 @@ http://ams-pioneer02.dedicateware.com:1460/stream
 #EXTINF:0,Radio Cuore
 https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio
 #EXTINF:0,D99
-https://playerservices.streamtheworld.com/api/livestream-redirect/D99.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC.mp3
 #EXTINF:0,DANCEFMLIVE LOVE
 https://broadcast.dancefmlive.com/radio/8020/radio.mp3
 #EXTINF:0,Das Landradio
@@ -373,8 +373,6 @@ https://scdn.nrjaudio.fm/adwz1/de/33055/mp3_128.mp3?origine=radio.net
 https://stream.epic-classical.com/classical-romance?ref=radiode
 #EXTINF:0,Epic-Lounge - Christmas Lounge
 https://stream.epic-lounge.com/christmas-lounge?ref=radiode
-#EXTINF:0,Es Amor 104.5 FM
-https://s01.digitalserver.org:7026/stream/1/
 #EXTINF:0,Esencia de amor
 https://stream.zeno.fm/k3cr5sn8f78uv
 #EXTINF:0,Eska Gorzów
@@ -553,6 +551,8 @@ https://kloi.streamguys1.com/live
 https://bonneville.cdnstream1.com/2709_48.aac
 #EXTINF:0,K-POP Love Radio
 http://node-14.zeno.fm/psx4yr2rsf9uv.aac?zs=OR1mj1KQRQ2cXN4mElkA2g&rj-tok=AAABgT1-A9UAaIk6cJxyKHq_7w&rj-ttl=5
+#EXTINF:0,KRJK - Jack FM 97.3 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
 #EXTINF:0,kronehit love
 https://secureonair.krone.at/kronehit14.mp3
 #EXTINF:0,kulthitRADIO Kuschel Pop
@@ -956,7 +956,7 @@ https://stream.radiojar.com/httms151kwzuv
 #EXTINF:0,Radio Piekary 88.7 FM
 https://stream.radiopiekary.pl/
 #EXTINF:0,PM RADIO Quevedo
-https://radio42.globalhost1.com:8010/stream
+https://as100.globalhost1.com/8010/stream
 #EXTINF:0,La Poderosa Radio Online Romantica
 https://stream.zeno.fm/yd40ka5u63duv
 #EXTINF:0,Polskie Radio Białystok
@@ -1293,8 +1293,6 @@ https://stream.zeno.fm/hzurtmuux7zuv
 https://r11.ciclano.io:15024/stream
 #EXTINF:0,REGENBOGEN 2 Classic Rock
 https://stream.regenbogen2.de/classicrock/aac-128/radiode
-#EXTINF:0,Reina de las Marismas
-https://securestream.conectarhosting.com:9052/stream
 #EXTINF:0,Reminiscencias Radio
 http://stream.zeno.fm/v7zz6m6p7mzuv
 #EXTINF:0,Retro en Español
@@ -1617,8 +1615,6 @@ https://crystalin.surfernetwork.com:8000/WRHQ_MP3
 https://ice23.securenetsystems.net/WRMM
 #EXTINF:0,WRRM - Warm 98.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFM.mp3
-#EXTINF:0,WSIA - WSIA 88.9 FM
-http://vorbis.wsia.fm:8000/wsia.mp3
 #EXTINF:0,WSNY - Sunny 95 94.7 FM
 https://live.wostreaming.net/manifest/saga-wsnyfmaac-hlsc2.m3u8
 #EXTINF:0,WSUL - WSUL 98.3 FM
