@@ -143,8 +143,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3?d
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3?dist=radionet
 #EXTINF:0,538 PARTY
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3?dist=radionet
-#EXTINF:0,RADIO 538
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
 #EXTINF:0,5FBI Fresh 92.7 FM
 https://live.fresh927.com.au/freshmp3
 #EXTINF:0,5IK Beats Radio
@@ -963,8 +961,6 @@ https://orense-mas-copesedes-flucast.flumotion.com/copesedes/orense-mas.mp3.m3u
 https://pamplona-mas-copesedes-flucast.flumotion.com/copesedes/pamplona-mas.mp3.m3u
 #EXTINF:0,COPE MÁS SAN SEBASTIÁN
 https://ssebastian-mas-copesedes-flucast.flumotion.com/copesedes/ssebastian-mas.mp3.m3u
-#EXTINF:0,COPE CANTABRIA
-https://santander-copesedes-flucast.flumotion.com/copesedes/santander.mp3.m3u
 #EXTINF:0,COPE MÁS SEVILLA
 https://sevilla-mas-copesedes-flucast.flumotion.com/copesedes/sevilla-mas.mp3.m3u
 #EXTINF:0,COPE MÁS TENERIFE
@@ -1761,6 +1757,8 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
+#EXTINF:0,Fun Radio Dance
+https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -4139,8 +4137,6 @@ https://audio.mabu-beatz-radio.com:8003/deephouse
 http://fc.macjingle.at:8000/stream/1/
 #EXTINF:0,Madness-of-Beats
 https://s10.streamingcloud.online/stream/13252
-#EXTINF:0,COPE MÁS MADRID
-https://net4-cope-flucast.flumotion.com/cope/net4.mp3.m3u
 #EXTINF:0,MagicHIT
 http://stream.rcs.revma.com/gbrmyffefphvv
 #EXTINF:0,magic-soundz
@@ -4541,6 +4537,8 @@ https://listen.nolife-radio.com/stream
 https://listen.nonstopstreaming.net/nsd
 #EXTINF:0,Non-Stop Hitradio
 https://jenny.torontocast.com:8002/nshitradio
+#EXTINF:0,NonStopPlay Pure Dance
+http://stream.nonstopplay.co.uk/nsppd-128k-mp3
 #EXTINF:0,Noods radio
 https://noodsradio.com/listen
 #EXTINF:0,Nord-FM
@@ -5417,8 +5415,6 @@ https://malta1122.startdedicated.de:9000/intime_128
 http://185.105.4.100/proxy/radioinv?mp=%2Fstream
 #EXTINF:0,Radio Jeans - House Tecno Dance
 http://streaming.radiojeans.net/rj_dance.m3u
-#EXTINF:0,Radio Junior
-https://stream.votreradiosurlenet.eu/radiojunior.mp3
 #EXTINF:0,Radio Kampus 97,1 FM
 https://stream.open.fm/337
 #EXTINF:0,Radio Kec Internacional
@@ -6911,8 +6907,6 @@ https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10895&type
 http://stm9.mestrestream.xyz:8286/;
 #EXTINF:0,Web Rádio Plus
 https://s16.maxcast.com.br:8228/live
-#EXTINF:0,webradio-starline
-https://streamserver3.m-hosting.eu:10302/stream
 #EXTINF:0,We Get Lifted Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3667151_SC
 #EXTINF:0,We House Radio
