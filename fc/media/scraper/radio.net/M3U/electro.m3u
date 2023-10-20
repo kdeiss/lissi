@@ -143,6 +143,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3?d
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3?dist=radionet
 #EXTINF:0,538 PARTY
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3?dist=radionet
+#EXTINF:0,RADIO 538
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
 #EXTINF:0,5FBI Fresh 92.7 FM
 https://live.fresh927.com.au/freshmp3
 #EXTINF:0,5IK Beats Radio
@@ -286,7 +288,7 @@ http://109.169.54.86:8074/stream/1/
 #EXTINF:0,Alpicat Radio 107.9 FM
 https://streaming.enacast.com/alpicatradio128.mp3
 #EXTINF:0,Alpimur Radio
-http://137.74.85.85:7080/live.mp3
+https://sonic1-rbx.cloud-center.ro/8046/stream
 #EXTINF:0,Al Tope Radio
 http://server.laradio.online:8457/live
 #EXTINF:0,Amapiano FM
@@ -931,14 +933,20 @@ https://ejido-copesedes-flucast.flumotion.com/copesedes/ejido.mp3.m3u
 https://ferrol-copesedes-flucast.flumotion.com/copesedes/ferrol.mp3.m3u
 #EXTINF:0,COPE GUADIX
 https://guadix-copesedes-flucast.flumotion.com/copesedes/guadix.mp3.m3u
+#EXTINF:0,COPE JACA
+https://jaca-copesedes-flucast.flumotion.com/copesedes/jaca.mp3.m3u
 #EXTINF:0,COPE JEREZ
 https://jerez-copesedes-flucast.flumotion.com/copesedes/jerez.mp3.m3u
+#EXTINF:0,COPE LORCA
+https://lorca-copesedes-flucast.flumotion.com/copesedes/lorca.mp3.m3u
 #EXTINF:0,COPE MÁS A CORUÑA
 https://lacoruna-mas-copesedes-flucast.flumotion.com/copesedes/lacoruna-mas.mp3.m3u
 #EXTINF:0,COPE MÁS ALBACETE
 https://albacete-mas-copesedes-flucast.flumotion.com/copesedes/albacete-mas.mp3.m3u
 #EXTINF:0,COPE MÁS BILBAO
 https://bilbao-mas-copesedes-flucast.flumotion.com/copesedes/bilbao-mas.mp3.m3u
+#EXTINF:0,COPE MÁS CANTABRIA
+https://santander-mas-copesedes-flucast.flumotion.com/copesedes/santander-mas.mp3.m3u
 #EXTINF:0,COPE MÁS CASTELLÓN
 https://castellon-mas-copesedes-flucast.flumotion.com/copesedes/castellon-mas.mp3.m3u
 #EXTINF:0,COPE MÁS GRAN CANARIA
@@ -973,6 +981,8 @@ https://zaragoza-mas-copesedes-flucast.flumotion.com/copesedes/zaragoza-mas.mp3.
 https://motril-copesedes-flucast.flumotion.com/copesedes/motril.mp3.m3u
 #EXTINF:0,COPE OVIEDO
 https://asturias-copesedes-flucast.flumotion.com/copesedes/asturias.mp3.m3u
+#EXTINF:0,COPE PLASENCIA
+https://plasencia-copesedes-flucast.flumotion.com/copesedes/plasencia.mp3.m3u
 #EXTINF:0,COPE RIBADEO
 https://ribadeo-copesedes-flucast.flumotion.com/copesedes/ribadeo.mp3.m3u
 #EXTINF:0,COPE RONDA
@@ -1751,8 +1761,6 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
-#EXTINF:0,Fun Radio Dance
-https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -1927,16 +1935,6 @@ http://82.64.164.43:8000/stream
 https://hessfm.live/listen/hessfm/radio.mp3
 #EXTINF:0,HEY DJ Radio
 https://nr3.newradio.it:18303/stream
-#EXTINF:0,Diva Radio Disco
-https://stream.deevaradio.net:10443/divaradiodisco?highlight
-#EXTINF:0,ELECTRO par Electro Radio
-https://stream.radiojar.com/fkyxx4q35k0uv
-#EXTINF:0,Frisky Radio
-https://stream.frisky.friskyradio.com/mp3_low
-#EXTINF:0,HAPPY - The VIBE
-http://c5.hostingcentar.com:9543/stream
-#EXTINF:0,Dance by RadioParty Djmixes 
-https://s2.radioparty.pl:8015/djmixes
 #EXTINF:0,Hirschmilch Electronic Channel
 https://hirschmilch.de:7001/electronic.mp3
 #EXTINF:0,Hirschmilch Prog-House Channel
@@ -1963,6 +1961,8 @@ http://variant.fm:8000/RECORD-192
 http://stm1.emiteonline.com:8003/hitradio
 #EXTINF:0,Hit Mixx Radio
 https://streaming.live365.com/a84356
+#EXTINF:0,Hitparty
+https://sc7.gergosnet.com/hitpartyAAC64.mp3
 #EXTINF:0,Hit Radio Fr 
 http://quasar.shoutca.st:8853/stream/1/
 #EXTINF:0,Hit Radio Dancefloor
@@ -2181,8 +2181,6 @@ http://iwayhigh.net:8000/stream/1/
 https://stream.zeno.fm/7z2zfas9d2zuv
 #EXTINF:0,iZOTOP
 https://ecmanager3.pro-fhi.net:2170/stream
-#EXTINF:0,COPE JACA
-https://jaca-copesedes-flucast.flumotion.com/copesedes/jaca.mp3.m3u
 #EXTINF:0,JAM FM Berlin
 https://stream.jam.fm/jamfm-live/mp3-128/radioDE/
 #EXTINF:0,Jam FM - Chill the Virus
@@ -4073,8 +4071,6 @@ https://digitacdn.akamaized.net/hls/live/629243/loop/master.m3u8
 http://progressive.ozelip.com:7670/stream/1/
 #EXTINF:0,Techno Station - Loops Radio
 https://ssl190.ozelip.com/asistan/stream/592d1829a29021cb2d68538b3238f88e
-#EXTINF:0,COPE LORCA
-https://lorca-copesedes-flucast.flumotion.com/copesedes/lorca.mp3.m3u
 #EXTINF:0,Los 40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
 #EXTINF:0,Los40 Dance
@@ -4253,8 +4249,6 @@ https://sc.creacast.com/metropolys-riviera
 https://live.miamiglobalradio.com/radio/8000/radio.mp3
 #EXTINF:0,Miami SoundSets
 http://85.25.248.77:8215/;
-#EXTINF:0,Midlands Radio
-https://fra-pioneer08.dedicateware.com:1210/stream
 #EXTINF:0,Midtone Music
 https://solid41.streamupsolutions.com/proxy/vihpzdha?mp=/;type=mp3
 #EXTINF:0,Milano Beat Radio
@@ -4547,8 +4541,6 @@ https://listen.nolife-radio.com/stream
 https://listen.nonstopstreaming.net/nsd
 #EXTINF:0,Non-Stop Hitradio
 https://jenny.torontocast.com:8002/nshitradio
-#EXTINF:0,NonStopPlay Pure Dance
-http://stream.nonstopplay.co.uk/nsppd-128k-mp3
 #EXTINF:0,Noods radio
 https://noodsradio.com/listen
 #EXTINF:0,Nord-FM
@@ -4903,8 +4895,6 @@ https://streams.planetradio.de/plrchannels/mp3/hqnightwax.mp3?amsparams=playerid
 https://streams.planetradio.de/plrplus/mp3/hqpower.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,planet radio the club
 https://streams.planetradio.de/plrchannels/mp3/hqtheclub.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,COPE PLASENCIA
-https://plasencia-copesedes-flucast.flumotion.com/copesedes/plasencia.mp3.m3u
 #EXTINF:0,PlasticAge Radio Australia
 http://192.99.83.154:8084/stream/1/
 #EXTINF:0,Radio-Plattendreher
@@ -4967,6 +4957,8 @@ https://listen.radionomy.com/pophitsstation
 https://streaming.live365.com/a40380
 #EXTINF:0,PopTron!
 https://ice2.somafm.com/poptron-128-mp3
+#EXTINF:0,Positiva Mix
+https://centova.svdns.com.br:20011/stream/1/
 #EXTINF:0,Positiva Radio
 https://sp.oyotunstream.com:10923/;stream.nsv
 #EXTINF:0,Pothos
@@ -5015,6 +5007,8 @@ http://live.prodjradio.net:8000/stream/1/
 https://media.streamforce.nl/proxy/profm/stream
 #EXTINF:0,Pro FM Dance
 https://player.streamforce.nl:8302/live
+#EXTINF:0,Progressive FM
+https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Progressive Rock AZUSA
 https://streaming.live365.com/a38225
 #EXTINF:0,PROJECT BÄM ON AIR - Da tanzt sogar die Oma!
@@ -5131,8 +5125,6 @@ https://icy.unitedradio.it/Radio105.aac?
 https://cast1.torontocast.com:3045/stream
 #EXTINF:0,Radio 1 Uno
 https://streaming01.shockmedia.com.ar/9472/stream
-#EXTINF:0,RADIO TRANQUILA
-http://radio.ascultatare.ro:8032/stream/1/
 #EXTINF:0,Radio 35
 https://centova.wlservices.org/proxy/kbfaywma?mp=/stream&1653056258979
 #EXTINF:0,Radio3S - SolarSoundSystem
@@ -5355,8 +5347,6 @@ https://stream.laut.fm/radiofausto?ref=radiode
 https://feelo.80.yayin.com.tr/stream/1/
 #EXTINF:0,Radio Feelo
 https://feelo.80.yayin.com.tr/stream/1/
-#EXTINF:0,Radio Fivoarana
-http://serveur.wanastream.com:9000/stream.oggg
 #EXTINF:0,Radioflash FM
 https://skywatcherawakenedradio.radiolebowski.com/play
 #EXTINF:0,Radio Floricultura
@@ -6109,8 +6099,6 @@ https://listen.radionomy.com/sancine.m3u
 http://192.111.140.6:9772/stream/1/
 #EXTINF:0,San Marcos en Linea
 https://stream-51.zeno.fm/04d0p1t74qzuv?zs=1TzWQiKYT3SqXZt1uP-ZZA
-#EXTINF:0,COPE MÁS CANTABRIA
-https://santander-mas-copesedes-flucast.flumotion.com/copesedes/santander-mas.mp3.m3u
 #EXTINF:0,SASH - Club Dance Only
 https://sashstream.de:8002/stream
 #EXTINF:0,Save Radio
@@ -6219,6 +6207,8 @@ https://radio3.pro-fhi.net/radio/9022/stream.mp3
 https://stream.zeno.fm/cq777w3k1qzuv
 #EXTINF:0,SOCIAL RADIO
 https://icecast.dynamicradiogroup.nl/01-socialradio_mp3
+#EXTINF:0,SOD
+https://stream.hosting24h-4you.de/8030/stream
 #EXTINF:0,Solo Temazos
 https://radios.medialive.stream:7013/stream
 #EXTINF:0,SomaFM - Cliqhop idm
