@@ -105,6 +105,8 @@ https://cast.bbstalkradio.com/proxy/bbsradio?mp=%2Fstream
 http://cast.bbstalkradio.com:9996/stream
 #EXTINF:0,Beach Paradise Radio
 http://s28.myradiostream.com:28054/listen.mp3
+#EXTINF:0,Bear Radio Network
+http://107.181.227.250:8044/;
 #EXTINF:0,Q72.5 - Gay Public Radio
 https://streaming.radio.co/s23cec6e98/listen
 #EXTINF:0,Beaub FM
@@ -773,6 +775,8 @@ https://s3.radio.co/s7df9664ab/listen
 http://live.m2stream.fr/m2rock-128.mp3
 #EXTINF:0,M3 Radio
 http://streaming.live365.com/a50800
+#EXTINF:0,M80 - Indie
+https://stream-hls.bauermedia.pt/m80indie.aac/playlist.m3u8
 #EXTINF:0,MABU Beatz Radio Whoomp
 https://audio.mabu-beatz-radio.com:8003/indie
 #EXTINF:0,Maqui Online radio
@@ -1030,7 +1034,7 @@ https://stream.qfm.network:8443/stream
 #EXTINF:0,Radio Radieschen
 https://radioradieschen.stream.kapper.net/radioradieschen
 #EXTINF:0,Radio Résonance
-http://b6.be:8000/resonance.mp3
+http://resonance.tiersbox.org:8000/resonance.mp3
 #EXTINF:0,Radio Robotic
 http://stream.zeno.fm/zfrvvmtkmrhvv.m3u
 #EXTINF:0,Radio Rocket
@@ -1326,7 +1330,7 @@ http://stream.waxradioindy.com/waxz128
 #EXTINF:0,WBRU
 https://s3.radio.co/s115121de1/listen
 #EXTINF:0,WCYT - The Point 91.1 FM
-http://13.bteradio.com:9090/wcyt.mp3.m3u
+http://13.bteradio.com:9090/wcyt.mp3
 #EXTINF:0,WreckinDaGameRadioakaTheDream
 https://s8.citrus3.com:8440/stream
 #EXTINF:0,WDRE - The Drive 100.5

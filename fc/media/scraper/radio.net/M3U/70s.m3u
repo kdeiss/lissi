@@ -189,8 +189,6 @@ https://listen.radionomy.com/alltime70s80sgreatest.m3u
 https://streaming.live365.com/a92393
 #EXTINF:0,Allzic Années 70
 https://allzic50.ice.infomaniak.ch/allzic50.mp3
-#EXTINF:0,Alternatif Dinle
-https://void.idserverhost.com:8016/stream
 #EXTINF:0,Altmühltal Radio
 http://c02.lexycast.de:4480/;?type=http&nocache=1688063336
 #EXTINF:0,AMANDA FM
@@ -469,7 +467,7 @@ https://newcap.leanstream.co/CKWBFM
 http://99.198.118.250:8329/;
 #EXTINF:0,Classic FM 103.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFM_SC
-#EXTINF:0,Classic FM 106.9
+#EXTINF:0,c
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106_SC.mp3
 #EXTINF:0,Classic Gold
 https://cast1.torontocast.com:3365/stream
@@ -599,8 +597,6 @@ https://server3.streamserver-unlimited.de:8199/stream
 https://london-dedicated.myautodj.com:3199/proxy/djfrenzyradio/stream
 #EXTINF:0,DJ Jan The Mans
 https://quincy.torontocast.com:2505/stream?x=1679395565177
-#EXTINF:0,DJ's Retro La Radio Retro
-https://c16.radioboss.fm/stream/202
 #EXTINF:0,DMAX RADIO
 https://www.radioking.com/play/dmax-radio
 #EXTINF:0,Doctor Pundit Decades Radio
@@ -721,6 +717,8 @@ https://paineldj.com.br:20054/stream.mp3
 https://streamingv2.shoutcast.com/fm-goud-noord-limburg
 #EXTINF:0,Radio Fm Lima
 https://stream.zeno.fm/5yk23mppw2hvv.aac
+#EXTINF:0,Focus Fantastic
+http://159.69.77.12:8002/stream
 #EXTINF:0,Forever 70
 https://stream.zeno.fm/wnvbrmc7rmzuv
 #EXTINF:0,Formula Disco
@@ -887,6 +885,8 @@ https://stream.zeno.fm/n5qq5qpv8k0uv
 http://stream.stylefmtasik.com:9460/stream
 #EXTINF:0,i feel Radio
 https://live.ifeelradio.gr/proxy/ifeeldj?mp=/stream
+#EXTINF:0,IMAGINE RADIO
+http://imagineradio.ice.infomaniak.ch/imagineradio-192.mp3
 #EXTINF:0,Impact FM - Années 70 
 https://impactfmannees70.ice.infomaniak.ch/impactfmannees70-64.aac
 #EXTINF:0,INDÓMITA FM
@@ -962,7 +962,7 @@ http://stream.kennetradio.com/128.mp3
 #EXTINF:0,Kent's Krypt
 https://streaming.live365.com/a94693
 #EXTINF:0,KEOM 88.5 FM
-https://live.wostreaming.net/direct/mesquite-keomfmaac-ibc4
+https://live.amperwave.net/manifest/mesquite-keomfmaac-hlsc4.m3u8
 #EXTINF:0,KFLO-LP 102.9 FM
 http://216.163.19.29:8080/stream.mp3
 #EXTINF:0,KHYT K-Hit 107.5 FM
@@ -1479,6 +1479,8 @@ http://streaming.radionomy.com/MY-GENERATION-FM
 https://radio.myhitmusic.de/Toms-Club70s-aac.mp3
 #EXTINF:0,My Perth Digital
 https://playerservices.streamtheworld.com/api/livestream-redirect/MY_PERTH_DAAC_SC
+#EXTINF:0,Namib Radio 
+https://s20.reliastream.com:8018/stream
 #EXTINF:0,NBC Milano
 https://nr7.newradio.it:19350/stream
 #EXTINF:0,NBC Milano We Play Again!
@@ -1617,8 +1619,6 @@ https://cloud.cdnseguro.com:2363/stream/1/
 https://www.radioking.com/play/palace-radio/116740
 #EXTINF:0,Radio Pallieter Lier / Nijlen
 https://s39.myradiostream.com/14494/listen.mp3
-#EXTINF:0,Pandemia Radio
-https://01.solumedia.com.ar:7864/stream
 #EXTINF:0,Tamil Panpalai India
 https://tamilpanpalai.radioca.st/stream/3/
 #EXTINF:0,Party Hit Radio
@@ -1863,6 +1863,8 @@ https://cors.streammaximum.com/https://cc6.streammaximum.com/proxy/radioflashbac
 https://stream.zeno.fm/dhxbvuurw38uv
 #EXTINF:0,Radio FM Best
 https://stream9.mexiserver.com:7098/stream
+#EXTINF:0,Radio Forest
+http://15424.cloudrad.io:9182/live
 #EXTINF:0,Radio Fórmula 24
 https://stream.radiojar.com/ympb8vef3p8uv
 #EXTINF:0,Rádio Forró in Love
@@ -2123,6 +2125,8 @@ https://stream.zeno.fm/m980jildj6ctv
 https://stream.zeno.fm/kbvay51w4tzuv
 #EXTINF:0,Radio Totaal 
 https://totaal-streaming.de/radio/8000/radio2
+#EXTINF:0,Radio Transmundial 60 70 80 e 90
+https://hts02.kshost.com.br:9260/live
 #EXTINF:0,RADIO TRUJILLO HONDURAS
 https://stream504.live:7010/stream/1/
 #EXTINF:0,Radio TSOP – The Sound of Philadelphia
@@ -2177,8 +2181,6 @@ https://live.radyositesihazir.com/8034/stream
 https://node-08.zeno.fm/57kv56x32yzuv
 #EXTINF:0,Goldies by rautemusik
 https://goldies-high.rautemusik.fm/?ref=radiode
-#EXTINF:0,Rubber Chicken Radio
-https://streaming.live365.com/a26179
 #EXTINF:0,RDL
 https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3
 #EXTINF:0,RDMIX DJSET 70's 80's 90's
@@ -2597,6 +2599,8 @@ https://stream.radio.co/sd60e90ab1/listen
 https://radio.vintageobscura.net/stream
 #EXTINF:0,Vintage Radio!
 http://s3.xrad.io:8044/
+#EXTINF:0,Vinyl Days Radio
+https://stream.shoutcastservices.com/proxy/vinyldays/stream
 #EXTINF:0,vinylonlineradio
 https://s9.citrus3.com:2020/public/vinylonlineradio
 #EXTINF:0,Funky Town
@@ -2677,8 +2681,6 @@ https://s9.voscast.com:9155/stream
 http://stream.radiojar.com/7h6fwkn7g6hvv
 #EXTINF:0,WJMF-LP The Bridge 87.7 FM
 https://ice-1.streamhoster.com/lv_wfs_043--broadcast1
-#EXTINF:0,WJMT - Bluejay 96.3
-https://us2.maindigitalstream.com/ssl/WJMT
 #EXTINF:0,WKNRkeener13
 http://lin2.lax.fast-serv.com:8542/stream
 #EXTINF:0,WKRZradio
@@ -2701,8 +2703,6 @@ https://ice64.securenetsystems.net/WREN
 http://95.173.162.189:9940/;
 #EXTINF:0,WSCQ-LP Su Radio 96.3 FM
 https://ssl-proxy.icastcenter.com/get.php?data=mp3&port=9139&server=199.180.75.58&type=Shoutcast2
-#EXTINF:0,würzburgRADIO
-http://213.239.220.196:8700/;
 #EXTINF:0,wunschradio.fm 70er
 http://mp3.wunschradio.de/wunschradio-70er.mp3
 #EXTINF:0,wunschradio.fm 70er Rock
