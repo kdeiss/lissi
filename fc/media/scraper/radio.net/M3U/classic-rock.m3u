@@ -298,7 +298,7 @@ https://stream.zeno.fm/wwfckqts008uv
 #EXTINF:0,Candid Radio Wis
 https://stream.zeno.fm/cqzr6tus008uv
 #EXTINF:0,Radio Capital Classic Rock
-https://streamcdnb8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/live.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
 #EXTINF:0,Radio Caprice - Classic Rock/Rock
 http://79.120.77.11:8000/rock
 #EXTINF:0,Radio Carcoma
@@ -535,8 +535,6 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://stream.bruce-radio.be/bruce-classic-rock
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -611,14 +609,12 @@ https://stream.radiojar.com/2q2dbmeqazwtv
 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high?aggregator=radio-de
 #EXTINF:0,Hunter.FM - Rock
 https://hls.hunter.fm/rock/192.m3u8
-#EXTINF:0,I95.1 FM WWRI-LP
-https://ice64.securenetsystems.net/WWRI
 #EXTINF:0,ICE RADIO
 https://streamer.radio.co/s8d485e12a/listen
 #EXTINF:0,inetmusic.ca | The Big 70's
 https://s3.free-shoutcast.com/stream/18172
 #EXTINF:0,Inolvidablesfm Radio
-https://stream-152.zeno.fm/doaowbdiy8fvv?zs=Joykfc11RzunPgCPkj7i0A
+https://stream.zeno.fm/doaowbdiy8fvv
 #EXTINF:0,Inside The Gates Radio
 https://s2.radio.co/s98e7a2900/listen
 #EXTINF:0,ISKC Rock XXL
@@ -653,6 +649,8 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
+#EXTINF:0,KATX 97.7 FM
+http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -859,6 +857,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX - 96.7 The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3
 #EXTINF:0,KWMX The Wolf 96.7 FM
@@ -1720,7 +1720,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC275.mp
 #EXTINF:0,Moosomin's Rock Station - The Buzz
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC136_SC
 #EXTINF:0,The Eagle 100.9 FM
-https://live.wostreaming.net/direct/alphacorporate-kxglfmaac-ibc4
+https://live.amperwave.net/direct/alphacorporate-kxglfmaac-ibc4
 #EXTINF:0,The Eagle 94.1
 https://goldenwest.leanstream.co/goldenwest/CIMGFM.stream/playlist.m3u8
 #EXTINF:0,105.3 THE FOX
@@ -1844,7 +1844,7 @@ https://us2.streamingpulse.com/ssl/WAVS1
 #EXTINF:0,WAXS - Groovy 94.1 FM
 https://streamdb8web.securenetsystems.net/cirruscontent/WAXS
 #EXTINF:0,WBLM - Portland's Classic Rock 102.9 FM
-https://live.wostreaming.net/manifest/townsquare-wblmfmaac-hlsc3.m3u8
+https://live.amperwave.net/manifest/townsquare-wblmfmaac-hlsc3.m3u8
 #EXTINF:0,WBNO-FM - B-Rock 100.9 FM
 https://ice6.securenetsystems.net/WBNO?type=.flv&playSessionID=D85F9BA9-EBC8-82E3-2F208A5E504EB1FA&start=0
 #EXTINF:0,WBPC - Beach 95.1 FM
@@ -1888,7 +1888,7 @@ http://11.fusioncast.com.br:8362
 #EXTINF:0,WebRádio Retrô
 http://stream.zeno.fm/dvr6unm6xnhvv
 #EXTINF:0,95.9 The River WERV
-https://live.wostreaming.net/direct/alphacorporate-wervfmaac-ibc4
+https://live.amperwave.net/direct/alphacorporate-wervfmaac-ibc4
 #EXTINF:0,WEZX - Rock 107
 https://ais-sa1.streamon.fm/7247_48k.aac
 #EXTINF:0,WFKZ Sun 103.1 FM
@@ -1900,7 +1900,7 @@ https://ice24.securenetsystems.net/WFXJ
 #EXTINF:0,WGAG-LP - Little Buddy Radio 93.1 FM
 https://ic1.mainstreamnetwork.com/lbr?type=.mp3
 #EXTINF:0,WGBG - Big 107.7 Classic Rock
-https://live.wostreaming.net/manifest/wboc-wgbgfmaac-ibc2
+https://live.amperwave.net/manifest/wboc-wgbgfmaac-ibc2
 #EXTINF:0,WGLO - 95.5 FM Peoria's Classic Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFM.mp3
 #EXTINF:0,WGRF 97 Rock
@@ -1923,8 +1923,6 @@ https://ice8.securenetsystems.net/WIDL
 https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac
 #EXTINF:0,WILZ Wheelz 104.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WILZFMAAC_SC
-#EXTINF:0,WIMC Thunder 103.9
-https://forcht.streamguys1.com/wimc-fm?starttime=1599832793
 #EXTINF:0,WIMZ 103.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIMZFMAAC_SC
 #EXTINF:0,WIQO-FM - Lynchburg's Talk Station 100.9 FM
@@ -1943,8 +1941,6 @@ http://65.109.81.84:9197/live
 https://ice66.securenetsystems.net/WJKI
 #EXTINF:0,WJLI Rock 98.3
 http://207.162.185.111:8000/kastor
-#EXTINF:0,WJNG WMKX Mega Rock 105.5 FM
-https://ice41.securenetsystems.net/WMKX
 #EXTINF:0,WJZM DB
 https://live2ssl.rcast.net/stream/68748.mp3
 #EXTINF:0,WKBU - Bayou 95.7
@@ -1960,7 +1956,7 @@ https://ice6.securenetsystems.net/WKIT?type=.mp3
 #EXTINF:0,WKLC-FM - Rock 105 105.1 FM
 https://ice5.securenetsystems.net/WKLC?
 #EXTINF:0,WKLT - The Rock Station 97.5 FM
-https://live.wostreaming.net/manifest/midwestern-wkltfmaac-ibc1
+https://live.amperwave.net/manifest/midwestern-wkltfmaac-ibc1
 #EXTINF:0,WKRR - WKRR 92.3 FM
 https://dbc.streamguys1.com/wkrr-fm.aac
 #EXTINF:0,WKRU The 106.7 Big Dog FM
@@ -2006,9 +2002,9 @@ https://147.135.84.28:80/wrvm-fm
 #EXTINF:0,WNCX - 98.5 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNCXFM.mp3
 #EXTINF:0,WNDD - WIND-FM 95.5 FM
-https://live.wostreaming.net/manifest/saga-wyndfmaac-hlsc1.m3u8
+https://live.amperwave.net/manifest/saga-wyndfmaac-hlsc1.m3u8
 #EXTINF:0,WNDT - WIND-FM 92.5 FM
-https://live.wostreaming.net/manifest/saga-wyndfmaac-hlsc1.m3u8
+https://live.amperwave.net/manifest/saga-wyndfmaac-hlsc1.m3u8
 #EXTINF:0,WNLC - Classic 98.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNLCFMAAC.aac
 #EXTINF:0,WNNS 98.7 FM
@@ -2041,8 +2037,6 @@ http://stream.abacast.net/direct/townsquare-wpdhfmaac-ibc3
 http://64.24.74.20:8000/wpgs.m3u
 #EXTINF:0,WPKE / WEKB Classic Rock 103.1 FM & 1240 / 1460 AM
 https://ice24.securenetsystems.net/WPKE?playSessionID=812111D3-D603-5902-6F305CF931C572B0
-#EXTINF:0,WPMD
-http://199.180.75.123/stream/1/
 #EXTINF:0,WPRY - The Zone 95.3 FM
 https://ice10.securenetsystems.net/KLMZ
 #EXTINF:0,WPVM - The Voice 103.7 FM
@@ -2086,7 +2080,7 @@ https://audio-edge-vqwx4.yyz.g.radiomast.io/15c0b63b-cfaf-4cdf-9e46-4b14c3a56b01
 #EXTINF:0,WTCX 95.1 and 96.1 The Rock
 https://ice24.securenetsystems.net/WTCX
 #EXTINF:0,WTKV - TK99 105.5 FM
-https://live.wostreaming.net/manifest/galaxy-wtkwfmaac-hlsc1.m3u8
+https://live.amperwave.net/manifest/galaxy-wtkwfmaac-hlsc1.m3u8
 #EXTINF:0,WUKY NPR Rocks
 https://wuky.streamguys1.com/wuky?
 #EXTINF:0,WVDU.com - Voodoo Radio

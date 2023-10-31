@@ -237,8 +237,6 @@ https://21363.live.streamtheworld.com/3NRAAC.aac
 https://whav.streamguys1.com/live
 #EXTINF:0,Sonshine
 https://stream2.cnmns.net/sfm
-#EXTINF:0,99FM 
-https://streaming.fabrik.fm/99fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Aambiance 90
 https://listen.radionomy.com/aambiance-90.m3u
 #EXTINF:0,ABC Memories
@@ -609,10 +607,10 @@ https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=
 https://bremen-six.stream.laut.fm/bremen-six
 #EXTINF:0,BRev Media Uganda
 https://stream.zeno.fm/qsa9d6yjg5euv
+#EXTINF:0,Bromyard FM
+https://live.bromyardfm.uk/listen/bromyardfm/radio.mp3
 #EXTINF:0,Radio Bruno Classic
 http://onair18.xdevel.com:7968/;
-#EXTINF:0,Buenos Amigos Radio
-https://centova.hostingelectrica.net/proxy/buenosam?mp=/stream
 #EXTINF:0,BWR Webwelle Nord
 http://server4.streamserver24.com:21970/stream/1/
 #EXTINF:0,Café Romántico Radio
@@ -797,6 +795,8 @@ http://server28364.streamplus.de:10020/;
 http://87.98.245.250:8378/stream/1/
 #EXTINF:0,Club Retro
 http://s7.voscast.com:8504/stream/1/
+#EXTINF:0,Clubstory
+https://manager.conceptradio.fr:1085/stream
 #EXTINF:0,Club Trifal - Lounge
 http://stream.trifal.com:8000/lounge
 #EXTINF:0,Club Trifal - Oldies
@@ -1556,7 +1556,7 @@ https://ice24.securenetsystems.net/KBEWFM
 #EXTINF:0,KBEW-FM - 98 Country FM
 https://ice24.securenetsystems.net/KBEWFM
 #EXTINF:0,KOOL - 107.9 FM
-https://live.wostreaming.net/manifest/townsquare-kbklfmaac-hlsc3.m3u8
+https://live.amperwave.net/manifest/townsquare-kbklfmaac-hlsc3.m3u8
 #EXTINF:0,KBRC - Classic Hits Radio 1430 AM
 https://ice7.securenetsystems.net:80/KBRC
 #EXTINF:0,KBRD 680
@@ -1684,7 +1684,7 @@ https://ais-sa1.streamon.fm/7006_48k.aac/playlist.m3u8
 #EXTINF:0,KONA Stream
 http://jenny.torontocast.com:9002/stream/1/
 #EXTINF:0,Kool Oldies
-https://live.wostreaming.net/manifest/adamsradio-wqtlfmaac-ibc1
+https://live.amperwave.net/manifest/adamsradio-wqtlfmaac-ibc1
 #EXTINF:0,KQBK Kool Gold 104.7 FM
 https://ice42.securenetsystems.net/KQBK
 #EXTINF:0,KQIE Old School 104.7 FM
@@ -1694,7 +1694,7 @@ https://ice24.securenetsystems.net/KQRZ
 #EXTINF:0,KRAE 1480 AM
 https://ice7.securenetsystems.net/KYOYFM
 #EXTINF:0,KRCD - Recuerdo 103.9 FM
-https://live.wostreaming.net/direct/univision-krcdfmaac-imc2
+https://live.amperwave.net/direct/univision-krcdfmaac-imc2
 #EXTINF:0,KRCV - Recuerdo 98.3 FM
 https://live.amperwave.net/manifest/univision-wrtofmaac-imc1
 #EXTINF:0,KRCY Krazy FM 105.9
@@ -1712,7 +1712,7 @@ https://streaming.live365.com/a80325
 #EXTINF:0,KRWI Rewind 98
 http://streaming.rubinbroadcasting.com/rewind
 #EXTINF:0,KSCA - La 101.9 FM
-https://live.wostreaming.net/direct/univision-kscafmaac-imc2
+https://live.amperwave.net/direct/univision-kscafmaac-imc2
 #EXTINF:0,KSEO Good Time Oldies 750 AM
 https://ice9.securenetsystems.net/KSEO
 #EXTINF:0,KSVR-FM 91.7 FM
@@ -1745,8 +1745,6 @@ https://ice9.securenetsystems.net/KVOL
 https://ice7.securenetsystems.net/KVPIFM
 #EXTINF:0,KWCL Oldies 96.7 FM
 https://ice41.securenetsystems.net/KWCL?playSessionID=06BD80F1-155D-C0F4-07A67C348CFE5549
-#EXTINF:0,KWMC 1490 AM
-http://212.83.135.226:9314/;
 #EXTINF:0,kwol.ca
 https://streams.radio.co/s5af909f53/listen
 #EXTINF:0,KXOK
@@ -2668,7 +2666,7 @@ https://stream.liferadio.at/greatest-hits/aac-128/radioat/
 #EXTINF:0,Life Radio MDQ
 https://streaming.escuchanosonline.com:7149/stream
 #EXTINF:0,Life Radio Tirol Golden Oldies
-https://stream.liferadio.tirol/oldies/aac-128/radiode/
+http://stream.liferadio.tirol/oldies/mp3-192/radiode
 #EXTINF:0,LightRadio
 https://lightradio.radiostream.pro/mp3
 #EXTINF:0,Like Anthems
@@ -2708,7 +2706,7 @@ https://loveradio.streamingmedia.it/play
 #EXTINF:0,Ludo - Your Evergreens
 https://live.radiostudio.be/ludo.m3u
 #EXTINF:0,Lüneburger Radio
-https://stream.rcast.net/67357
+https://luneburgerradio.sp.radio.fm/stream
 #EXTINF:0,LuxuriaMusic
 https://ice10.securenetsystems.net/LUXOMP3
 #EXTINF:0,Lyca Gold
@@ -4013,8 +4011,6 @@ https://av.welle-landsberg.de/radio/8000/autodj.mp3
 http://radiowesterwald.de:8000/live
 #EXTINF:0,ORF Radio Wien
 https://orf-live.ors-shoutcast.at/wie-q1a
-#EXTINF:0,Radio-Wolfszauber
-https://stream.pod-gaming.de:8002/stream
 #EXTINF:0,Radio Yar
 http://192.34.153.102:8000/RadioYAR.mp3
 #EXTINF:0,Radio ZET Beatles
@@ -4242,7 +4238,7 @@ https://radio2.pro-fhi.net/radio/9039/stream
 #EXTINF:0,S4-Radio FIVE
 http://144.76.156.119:10090/stream.mp3
 #EXTINF:0,S4-Radio SEVEN
-http://s4-stream.com:10030/stream
+http://www.s4-stream.com:2199/tunein/s4radio7-stream2.pls
 #EXTINF:0,Saalewelle Schlager
 https://www.radioking.com/play/saalewelle-schlager
 #EXTINF:0,Sachsen Dance Radio
@@ -4295,8 +4291,6 @@ http://54.36.89.71:8037/live
 https://stream.radio-shakerdance.de:8002/listen1
 #EXTINF:0,Shawn Nagy's Super Oldies
 https://mercury.reliastream.com/proxy/superold
-#EXTINF:0,SHE RADIO - ROCK AND ROLL CHANNEL
-http://80.85.84.114:8054/stream
 #EXTINF:0,Shiawassee Radio
 https://streaming.live365.com/a12599
 #EXTINF:0,Shire Radio
@@ -4321,6 +4315,8 @@ https://everestcast.shoutcastservices.com:1965/stream
 https://stream.zeno.fm/u1tneffk08quv
 #EXTINF:0,Sintonía Digital
 https://stream.zeno.fm/1cysfppp5a0uv
+#EXTINF:0,Sirilaka Radio
+https://servidor14.brlogic.com:8456/live
 #EXTINF:0,Skatkis Stereo
 http://64.150.176.42:8122/stream/1/
 #EXTINF:0,Skillingsviser
@@ -4748,7 +4744,7 @@ http://s3.xrad.io:8044/
 #EXTINF:0,Vinyl 107
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
 #EXTINF:0,Vinyl Days Radio
-https://everestcast.shoutcastservices.com:1245/stream
+https://stream.shoutcastservices.com/proxy/vinyldays/stream
 #EXTINF:0,Vinylgodis
 https://securestreams2.autopo.st:1061/stream
 #EXTINF:0,VinylHits
@@ -4854,7 +4850,7 @@ http://147.135.84.27/wctr-am
 #EXTINF:0,WCXI - Birach Broadcasting Corporation 1160 AM
 http://audio.birach.com:9010/;stream.nsv
 #EXTINF:0,WDBQ-FM - Q 107.5 FM
-https://live.wostreaming.net/manifest/townsquare-wdbqfmaac-hlsc3.m3u8
+https://live.amperwave.net/manifest/townsquare-wdbqfmaac-hlsc3.m3u8
 #EXTINF:0,WDDT Online Radio
 https://streaming.live365.com/a40850
 #EXTINF:0,WDIC - The New 92.1 The Wolf
@@ -4973,8 +4969,6 @@ http://65.109.81.84:9197/live
 https://ic2.mainstreamnetwork.com/wjld-fm
 #EXTINF:0,WJLX Oldies 101.5 & 1240
 https://ice24.securenetsystems.net/WJLX
-#EXTINF:0,WJMT - Bluejay 96.3
-https://us2.maindigitalstream.com/ssl/WJMT
 #EXTINF:0,WJOT-FM - The Bash 105.9 FM
 http://ic1.mainstreamnetwork.com/wjot-fm.m3u
 #EXTINF:0,WJRG Gospel Inspirations
@@ -5026,7 +5020,7 @@ https://ice24.securenetsystems.net/WMCEFM
 #EXTINF:0,WMCK.FM McKeesport
 http://66.207.128.43:8000/;
 #EXTINF:0,1510 WMEX
-https://live.wostreaming.net/manifest/marshfield-wmexamaac-hlsc1.m3u8?source=v7
+https://live.amperwave.net/manifest/marshfield-wmexamaac-hlsc1.m3u8?source=v7
 #EXTINF:0,WMEX 1510 AM
 http://99.198.118.250:8226/;
 #EXTINF:0,105.9 WMEX FM
@@ -5167,10 +5161,6 @@ http://hemnos.cdnstream.com/1427_64?cb=367841.mp3
 https://ice8.securenetsystems.net/WTZNAM
 #EXTINF:0,WTTF - OLDIES 1600 AM
 https://ice64.securenetsystems.net/WTTF
-#EXTINF:0,WUPE - Whoopee 1110 AM
-https://prod-52-87-247-54.amperwave.net/townsquare-wupefmaac-hlsc3.m3u8
-#EXTINF:0,WUPE - Whoopee 100.1 FM
-https://prod-52-87-247-54.amperwave.net/townsquare-wupefmaac-hlsc3.m3u8
 #EXTINF:0,WVGT Smooth 97.1 FM
 https://jlespera.radioca.st
 #EXTINF:0,WVLI The Valley

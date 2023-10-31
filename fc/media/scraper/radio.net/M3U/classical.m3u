@@ -162,7 +162,7 @@ http://sc.brtk.net:8006/stream/1/
 #EXTINF:0,Bayraktar Radyo
 https://stream.rcast.net/67892
 #EXTINF:0,BBC Radio 3
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_three.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_three.m3u8
 #EXTINF:0,Bee FM
 https://stream.zeno.fm/b5z4bwe91rhvv
 #EXTINF:0,Beethoven Radio
@@ -1106,7 +1106,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFM_SC
 #EXTINF:0,Radio Kansas 
 https://audio-edge-qse4n.yyz.g.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
 #EXTINF:0,KHFM - CLASSICAL 95.5 FM
-https://live.wostreaming.net/manifest/agmedia28-khfmfmaac-ibc3?
+https://live.amperwave.net/manifest/agmedia28-khfmfmaac-ibc3?
 #EXTINF:0,KHKE 89.5
 https://news-stream.iowapublicradio.org/News.mp3
 #EXTINF:0,KHNE-FM - Nebraska Public Radio 89.1 FM
@@ -2009,6 +2009,8 @@ https://stream.srg-ssr.ch/m/rsc_de/mp3_128
 https://s5.radio.co/s760caf20b/listen
 #EXTINF:0,Radio Swiss Classic
 https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:0,Radio SwissJu
+https://server4.streamserver24.com:61420/stream
 #EXTINF:0,Swissradio.ch Classical
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
 #EXTINF:0,SWR2
@@ -2023,8 +2025,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924.mp
 https://christmasfm.cdnstream1.com/2551_128.mp3
 #EXTINF:0,Tallinn Pereraadio
 http://icecast.pereraadio.ee:8000/Tallinn
-#EXTINF:0,The Angel Classic Rock Mix No Commercials &amp; Live From Taylor Michigan
-http://nap.casthost.net:8287/stream
 #EXTINF:0,The Classical Station
 http://s3.voscast.com:10018/;
 #EXTINF:0,THE FLEX RADIO
@@ -2247,8 +2247,6 @@ https://dal-wku-stream-2.neighborhoodca.com/xstream
 https://wlrh.streamguys1.com/classical
 #EXTINF:0,WLRH Classical HD2
 https://wlrh.streamguys1.com/classical
-#EXTINF:0,WLRN Classical
-http://stream.wlrn.mobi/WLRNHD2AAC64
 #EXTINF:0,WLTR 91.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFMAAC_SC
 #EXTINF:0,WMEA - Maine Public Radio 90.1 FM

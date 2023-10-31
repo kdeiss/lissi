@@ -38,7 +38,7 @@ https://streaming05.liveboxstream.uk/proxy/sittingb?mp=/stream
 #EXTINF:0,113.fm Star!
 http://113fm-atunwadigital.streamguys1.com/1060
 #EXTINF:0,Rádio 11FM
-https://audio8.cmaudioevideo.com/proxy/vaovito1/stream
+https://cloud.cdnseguro.com:2595/stream
 #EXTINF:0,123 Radio
 http://stream.laut.fm/123radio?ref=radiode
 #EXTINF:0,1480 Plenitud Radio
@@ -245,7 +245,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_HOTP_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_JOE.mp3
 #EXTINF:0,AFN 360 Joe Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_JOEP_SC
-#EXTINF:0,AimRadio
+#EXTINF:0,Ai M Radio
 https://stream.zeno.fm/8g1pdg4bptzuv
 #EXTINF:0,Air FM
 https://edge.iono.fm/xice/257_medium.aac
@@ -393,8 +393,6 @@ https://stream.zeno.fm/a0zv4rck04gvv
 http://streamingned.com:7286/stream/1/
 #EXTINF:0,Ballina Killaloe Local Radio
 https://www.ballinakillaloelocalradio.com/
-#EXTINF:0,Radio Balsareny 107.1 FM
-http://streaming.enantena.com:8000/radiobalsarenyHD.mp3
 #EXTINF:0,Bangers Radio UK
 https://streaming.broadcast.radio/bangersradiouk
 #EXTINF:0,Bates FM - 90s Mix
@@ -604,7 +602,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CFTKAMAAC_SC
 #EXTINF:0,charivari Total 90er
 https://frontend.streamonkey.net/charivaristream-total90er?aggregator=radiode
 #EXTINF:0,Musik von Chatsaloonradio
-http://server36252.streamplus.de/listen
+https://server36330.streamplus.de/stream/1/
 #EXTINF:0,Cheesy FM
 https://listen-cheesyfm.sharp-stream.com/cheesyfm.mp3
 #EXTINF:0,Chepito Rios Online Radio
@@ -673,7 +671,7 @@ https://stream.zeno.fm/s0qpbxuf6f8uv
 https://stream.zeno.fm/bp1pwy8mky8uv
 #EXTINF:0,Classic FM 103.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFM_SC
-#EXTINF:0,Classic FM 106.9
+#EXTINF:0,c
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106_SC.mp3
 #EXTINF:0,Classic Gold
 https://cast1.torontocast.com:3365/stream
@@ -821,8 +819,6 @@ https://wupn864.out.airtime.pro/wupn864_a?_ga=2.185339433.1609580828.1636862335-
 https://stream.djossoradio.net/djosso.mp3?FLID=1
 #EXTINF:0,djscenic :: webradio
 https://stream.djscenic.ch:8443/djscenic
-#EXTINF:0,DJ's Retro La Radio Retro
-https://c16.radioboss.fm/stream/202
 #EXTINF:0,Delux Radio
 http://91.121.121.25:8093/stream/1/
 #EXTINF:0,DMAX RADIO
@@ -1045,6 +1041,8 @@ https://node-25.zeno.fm/gzv2ddtecd0uv
 https://stream9.mexiserver.com:7098/stream
 #EXTINF:0,FM Urbana Nogoya
 https://stream.zeno.fm/sb3xewaq01zuv
+#EXTINF:0,Focus Fantastic
+http://159.69.77.12:8002/stream
 #EXTINF:0,Forever 90
 https://stream.zeno.fm/fp3pz3f7rmzuv
 #EXTINF:0,Forever FM
@@ -1099,8 +1097,6 @@ https://ecmanager.pro-fhi.net/radiofrysson2
 https://stream.zeno.fm/wx6ocb9xkf2vv
 #EXTINF:0,Full Radio
 http://sonic.portalfoxmix.cl:8478/;
-#EXTINF:0,Fun Radio 80.90.Roky
-https://stream.funradio.sk:18443/80-90-128.mp3
 #EXTINF:0,Fun Tower Radio
 https://mercury.reliastream.com/tunein/funtower.pls
 #EXTINF:0,Future 1 Radio
@@ -1443,6 +1439,8 @@ https://play.wrhradios.com/8006/stream
 https://play.wrhradios.com/8014/stream
 #EXTINF:0,Kennet Radio
 http://stream.kennetradio.com/128.mp3
+#EXTINF:0,KEOM 88.5 FM
+https://live.amperwave.net/manifest/mesquite-keomfmaac-hlsc4.m3u8
 #EXTINF:0,KERB
 https://servidor21.brlogic.com:7224/live
 #EXTINF:0,Khaelitsha FM
@@ -1563,8 +1561,6 @@ https://streamingsonicpro.com/8138/stream
 https://cloudstream2032.conectarhosting.com/8160/stream
 #EXTINF:0,LA PODEROSA
 https://stream.zeno.fm/u2r9974z67zuv
-#EXTINF:0,La Rocka 90
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,Laser Hot Hits International
 http://213.175.217.198:8000/laserhq
 #EXTINF:0,LATI2
@@ -2015,12 +2011,14 @@ https://www.radioking.com/play/lessillonsdetonton/606593
 https://stream.l-fm.nl:8443/;
 #EXTINF:0,Liberation Radio Classics
 https://playerservices.streamtheworld.com/api/livestream-redirect/LIBRADIOCLASSICS_S01AAC.aac
+#EXTINF:0,Libre Antenne
+https://stream.libre-antenne.fr/radio/8000/radio.mp3
 #EXTINF:0,Life Radio 90er
 https://stream.liferadio.at/90er/mp3-192/radioat/
 #EXTINF:0,Life Radio Greatest Hits
 https://stream.liferadio.at/greatest-hits/aac-128/radioat/
 #EXTINF:0,Life Radio Tirol 90er
-https://stream.liferadio.tirol/90s/aac-128/radiode/
+http://stream.liferadio.tirol/90s/mp3-192/radiode
 #EXTINF:0,LightRadio
 https://lightradio.radiostream.pro/mp3
 #EXTINF:0,Lina Peligrosa
@@ -2389,8 +2387,6 @@ https://olgiata-danidi01.radioca.st/stream.mp3/;
 https://streams.olympia-classics.nl/classics
 #EXTINF:0,Omroep Horst aan de Maas
 https://msic.mx-cd.net/157-661257/Omroep_Horst_aan_de_Maas
-#EXTINF:0,on-4your-life
-https://stream.on-4your-life.de:8000/radio.mp3
 #EXTINF:0,ON 90s
 https://0n-90s.radionetz.de/0n-90s.mp3
 #EXTINF:0,ONDA 80 RADIO
@@ -2671,6 +2667,8 @@ https://streams.radio7.de/90errock/mp3-192/radiode/
 https://streams.radio7.de/90ersommer/mp3-192/radiode/
 #EXTINF:0,Radio 90,1 - Dein 90er Radio
 https://stream.radio901.de/444zkkf
+#EXTINF:0,RADIO 906 HIT 90/00
+https://stream.rcs.revma.com/yhwft5f39yuvv
 #EXTINF:0,Radio 90 FM Valencia
 https://stream.zeno.fm/015h6n8vfzzuv
 #EXTINF:0,Radio 90s Chimbote
@@ -2791,6 +2789,8 @@ https://radio.streaminghires.cl:8002/stream
 https://stream.zeno.fm/kt5mvyzqf48uv
 #EXTINF:0,Radio Club Retro
 https://radio.tvstream.cl/8098/stream
+#EXTINF:0,Radio Communautaire de Ferme Leblanc RCF
+https://usa11.fastcast4u.com/proxy/tuvhouiq?mp=%2F1
 #EXTINF:0,Radio Concepto Online
 https://stream-41.zeno.fm/7yctchbrhs8uv?zs=7_zwhGfgSoear2xTd1PX-A
 #EXTINF:0,Radio Concierto Tenerife
@@ -3270,7 +3270,7 @@ http://stream-50.zeno.fm/mfc879gzfm8uv?zs=bJlSVPnlS4u9O-BiNl4kKQ
 #EXTINF:0,Web Rádio Stilo Musical
 http://stm1.jnbhost.com.br:7014/stream
 #EXTINF:0,Radio Studio 21
-http://regia.homepc.it:80/;
+https://sf2.streamfacil.es:8016/stream
 #EXTINF:0,Radio Studio Dance
 http://nr9.newradio.it:9630/stream
 #EXTINF:0,Radio Sublime Vision
@@ -3409,6 +3409,8 @@ https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
 https://centova.hostingelectrica.net/proxy/recuer2_r7?mp=%2Fstream
 #EXTINF:0,Recuerdos Retro
 https://sonic.portalfoxmix.cl/8226/stream
+#EXTINF:0,Redemption Station
+https://s2.genx-stream.de:8502/stream
 #EXTINF:0,Rede Rwr
 http://stm10.xcast.com.br:7618/stream/1/
 #EXTINF:0,Reewind Radio Network
@@ -3594,7 +3596,7 @@ https://www.radioking.com/play/rvsfm
 #EXTINF:0,RWCOM
 http://cast3.hoost.com.br:8693/stream
 #EXTINF:0,S4-Radio SEVEN
-http://s4-stream.com:10030/stream
+http://www.s4-stream.com:2199/tunein/s4radio7-stream2.pls
 #EXTINF:0,Sachsen Dance Radio
 http://84.200.41.25:11000/listen1
 #EXTINF:0,Sadhik FM hot
@@ -3627,6 +3629,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DEV_SEAFM.mp3
 https://radioselby.radioca.st/stream
 #EXTINF:0,Select'tubes
 https://streaming.shoutcast.com/select-tubes
+#EXTINF:0,SEMA FM 98.3
+https://node-13.zeno.fm/8nby4derqwzuv.aac
 #EXTINF:0,Sentimental fm romantica
 https://sv16.hdradios.net:9130/stream
 #EXTINF:0,Sertanejo FM
@@ -4150,9 +4154,7 @@ http://s30.myradiostream.com:29210/stream/1/
 #EXTINF:0,Wit 90
 https://wit90s.ice.infomaniak.ch/wit90s.mp3
 #EXTINF:0,WJKR HD2 - Star 95.1 
-https://live.wostreaming.net/manifest/nabco-wjkrhd2aac-hlsc.m3u8
-#EXTINF:0,Akrons 80s 90s & MORE
-https://stream.zeno.fm/43yfrf5gq7zuv
+https://live.amperwave.net/manifest/nabco-wjkrhd2aac-hlsc.m3u8
 #EXTINF:0,WKRZradio
 https://ec2.yesstreaming.net:1565/stream
 #EXTINF:0,WDARE.FM - New York's Original Alternative Station
@@ -4169,8 +4171,6 @@ http://server-27.stream-server.nl:8388/stream/1/
 https://listen.radionomy.com/wonderradio.m3u
 #EXTINF:0,WPRR 102.5 FM The Ride
 https://listen.radioking.com/radio/336604/stream/385105
-#EXTINF:0,WQSH - Rewind 105.7 FM
-http://stream.abacast.net/direct/townsquare-wqshfmaac-ibc3
 #EXTINF:0,WRAR-FM - Real Radio 105.5 FM
 https://crystalout.surfernetwork.com:8001/WRAR-FM_MP3
 #EXTINF:0,WRBJRadio.com
