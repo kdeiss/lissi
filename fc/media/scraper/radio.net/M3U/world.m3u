@@ -1051,6 +1051,8 @@ http://usa10.fastcast4u.com:2730/;?nocache=1644207556&type=http
 https://stream.laut.fm/dntradio?ref=radiode
 #EXTINF:0,DOC Teach
 http://198.105.216.204:8224/;
+#EXTINF:0,Donderschoer Radio
+https://server-28.stream-server.nl:8806/stream
 #EXTINF:0,DONNA FM 97.7
 http://radiohd.net:3628/stream/1/
 #EXTINF:0,DOOWOPCAFE
@@ -1137,8 +1139,6 @@ https://radio.elgranlobo.com/listen/el_gran_lobo/radio.mp3
 https://stream.zeno.fm/82m5huc0ra0uv
 #EXTINF:0,ELLADA 94.3 FM
 https://stream.ellada943.gr:10198/radio.mp3
-#EXTINF:0,El Pinguino Radio
-http://streaming.elpinguino.com:8069/pinguino.mp3
 #EXTINF:0,El Poder Salsero
 http://192.99.41.102:5070/;
 #EXTINF:0,El Rey Jesús Radio
@@ -1477,8 +1477,12 @@ https://stream.zeno.fm/k37nc7qxea0uv
 https://stream.zeno.fm/bgu8g47ycg0uv
 #EXTINF:0,Gaslight Square World
 https://stream.zeno.fm/uqzyq5vvef9uv
+#EXTINF:0,REPUBLIQUE DEMOCRATIQUE DU CONGO; PROVINCE DU LUALABA; VILLE DE KOLWEZI
+https://servidor31.brlogic.com:7070/live
 #EXTINF:0,Gem 90s
 https://ec5.yesstreaming.net:1585/stream
+#EXTINF:0,GenteTuya Radio
+http://stm2.grupointernet.com:8217/stream/1/
 #EXTINF:0,Radiogentlemen
 https://listen.radionomy.com/radiogentlemen.m3u
 #EXTINF:0,Gestoert Leider Zugeil
@@ -1531,8 +1535,6 @@ http://192.99.170.8:8000/stream
 https://securestreams5.autopo.st:1943/1/stream
 #EXTINF:0,GreekBeat Radio
 https://securestreams5.autopo.st:1943/1/stream
-#EXTINF:0,Radio Grenouille 88.8
-https://live.radiogrenouille.com:8443/live
 #EXTINF:0,GR NEWS
 https://gr.fluidstream.eu/gr2.mp3?FLID=8&type=.mp3
 #EXTINF:0,Groovasmique
@@ -2872,7 +2874,7 @@ https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTINF:0,Meethi Mirchi
 http://rstream.mcot.net:9102/listen.pls
 #EXTINF:0,Mega 90.4 FM
-https://17803.live.streamtheworld.com/MUR_HIN_ISTAAC/HLS/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUR_HIN_ISTAAC.aac
 #EXTINF:0,megafmtop
 https://stream-42.zeno.fm/aqum9zva47zuv?zs=hKW2-HecTa2IMAxZvBrLMg
 #EXTINF:0,Mega St☆r
@@ -3147,10 +3149,8 @@ https://orf-live.ors-shoutcast.at/oe1-q1a
 https://orf-live.ors-shoutcast.at/campus-q1a
 #EXTINF:0,OLDIE ANTENNE Feten Hits
 http://live.radyotvonline.com:9050/
-#EXTINF:0,Old School Cuban Radio
-https://stream.oldie-antenne.de/oldie-antenne-fetenhits/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Old Skool Rave Tapes
-http://radio6.citrus3.com:8516/stream
+https://stream.oldie-antenne.de/oldie-antenne-fetenhits/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Old World Czech Music
 https://osrt.ovh:8000/listen
 #EXTINF:0,O Mundo da Flor
@@ -3221,8 +3221,10 @@ http://srv2.streaming-ingenierie.fr:8160/stream/1/
 https://mcp-1.streampanel.nl:8034/stream
 #EXTINF:0,outline radio la casa de las canciones buenas
 https://server5.radio-streams.net:2199/tunein/paul.pls
-#EXTINF:0,Ovejas Negrax Sound System
+#EXTINF:0,OUTREMERS 360 RADIO
 https://s1.voscast.com:11511/stream
+#EXTINF:0,Ovejas Negrax Sound System
+https://www.radioking.com/play/outremers360radio
 #EXTINF:0,Oxigeno FM
 https://stream.zeno.fm/sd0wcp7ddd0uv
 #EXTINF:0,Oz Arab Radio
@@ -3863,10 +3865,8 @@ http://149.56.241.147:8072/;
 https://radiodoc.ice.infomaniak.ch/radiodoc-128.mp3
 #EXTINF:0,Radio Dom Romani
 http://radiodbosco.myftp.biz:8000/radio
-#EXTINF:0,Radio Dos de Oro 92.5 FM
-https://player.ipstm.net/ssl.php?ip=srv11.ipstm.net&port=29944&mount=/
 #EXTINF:0,Radio Doxa FM
-https://stream.radiosenpy.net:7009/;
+https://player.ipstm.net/ssl.php?ip=srv11.ipstm.net&port=29944&mount=/
 #EXTINF:0,RadioDRK
 http://81.210.92.213:8000/play.mp3
 #EXTINF:0,Radio Dukagjini
@@ -4413,8 +4413,10 @@ https://radiomixandina-muchikperu.radioca.st/live
 http://webbradio1.intinor.se:8000/mnf.mp3
 #EXTINF:0,Radio Monte Horeb
 https://stream.zeno.fm/24nmttsb7zhvv
-#EXTINF:0,Radio München
+#EXTINF:0,Radio Morona 89.3 FM
 https://stream.zeno.fm/v3ad8han01zuv
+#EXTINF:0,Radio München
+https://streamingecuador.net:8286/radiomorona
 #EXTINF:0,Radio Mujer
 https://stream.radiomuenchen.net/rm256.mp3
 #EXTINF:0,Radio Mundial 700 AM
@@ -5351,8 +5353,10 @@ https://ice05.fluidstream.net/rta_planet.mp3
 https://radio.rtbf.be/lapremiere/mp3-160/rf
 #EXTINF:0,RTD Radio Rotterdam
 https://stream.zeno.fm/cxxm7escup8uv?rj-tok=AAABeBPXLrcAEOKCJoz2glVTjg&rj-ttl=5
-#EXTINF:0,RTV Maastricht FM
+#EXTINF:0,RTVHF
 https://panel.beheerstream.com:2199/tunein/xptgkqwz.pls
+#EXTINF:0,RTV Maastricht FM
+https://tv.streamecmsm.fr:2020/stream/rtvhflive
 #EXTINF:0,RTV Mir
 http://stream.rtvmaastricht.nl:8081/rtv/radio_audio/icecast.audio
 #EXTINF:0,RTV Parkstad
