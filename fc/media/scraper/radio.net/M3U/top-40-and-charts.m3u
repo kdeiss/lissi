@@ -19,6 +19,8 @@ https://pureplay.cdnstream1.com/6027_128.mp3
 https://pureplay.cdnstream1.com/6025_64.aac/playlist.m3u8
 #EXTINF:0,100hitz - Top 40
 http://206.217.213.236:9200/;
+#EXTINF:0,Ans Radio Palembang
+https://s3.alhastream.com:8470/radio
 #EXTINF:0,100% Summer
 https://kathy.torontocast.com:4655/stream
 #EXTINF:0,101.ru Radio Energy - Радио ENERGY
@@ -313,6 +315,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_STU.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_VIC.mp3
 #EXTINF:0,Air 106.1 FM
 https://goldenwest.leanstream.co/CFITFM
+#EXTINF:0,Air Connect
+https://stream.airconnectradio.com/ac192.mp3
 #EXTINF:0,AIR Romana Tropical Hits
 https://stream.radiojar.com/4ggz3rkd838uv
 #EXTINF:0,Airstrike Radio
@@ -323,6 +327,8 @@ http://sc2.streamwithq.com:8016/stream/1/
 http://zeus.lrb.lu:8000/stream
 #EXTINF:0,Aktivradio
 https://s4.radio.co/s7a78bf9d2/listen
+#EXTINF:0,Åle.no
+https://cast2.my-control-panel.com/stream/ale_no/stream.pls
 #EXTINF:0,Alerta Pereira
 https://conectadosmultimedia.com.co/proxy/alerta/stream
 #EXTINF:0,RADIO ALEX FM ROERMOND
@@ -711,6 +717,8 @@ http://campusradio.zak.kit.edu:8000/campusradiokitbib
 http://fluoz.radiojar.com:80/thynsc4a1neuv/source
 #EXTINF:0,Canal 105 FM
 https://stream-35.zeno.fm/b94afcu8na0uv?zs=5YUOiT0QQTW2_fjpMvX6dw
+#EXTINF:0,Canal 3
+https://radio.upstream-cloud.ch/canal3allemand-192.aac
 #EXTINF:0,Canal95
 https://streaming-secure.conectaapp.cl/canal95.cl
 #EXTINF:0,Radio Candela Mega Classic Hits
@@ -1681,8 +1689,6 @@ https://server18857.streamplus.de/stream.mp3
 https://s9.citrus3.com:2020/public/funcidy
 #EXTINF:0,Fun Radio 104.3
 http://solid9.streamupsolutions.com:8077/stream
-#EXTINF:0,Fun Radio - Live
-https://stream.funradio.sk:18443/fun192.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -1789,6 +1795,8 @@ https://stream.laut.fm/radioheljens?ref=radiode
 https://stream.lokalradio.nrw/44526px
 #EXTINF:0,Hero
 http://stream.radiomustathens.com/must-hero-mpeg
+#EXTINF:0,Heroradio
+http://84.200.41.36:8100/;
 #EXTINF:0,Het Stamcafe.nl
 https://stream.hetstamcafe.nl/hetstamcafe.mp3
 #EXTINF:0,Hexental Radio
@@ -3991,8 +3999,6 @@ http://s46.myradiostream.com:6076/stream/1/
 https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
 #EXTINF:0,Magicstar Greece
 https://stream-40.zeno.fm/qhk6q6tudg0uv?
-#EXTINF:0,Rádio Mais
-https://radios.justweb.pt/8048/stream
 #EXTINF:0,Rádio Mais Oeste
 https://centova.radio.com.pt/proxy/515?mp=/stream
 #EXTINF:0,Malankie Music Radio Station
@@ -5137,8 +5143,6 @@ https://stream.lokalradio.nrw/444z6xx
 http://stream.bubamara.com.mk/live-128.mp3
 #EXTINF:0,Radio Campus Slobozia
 http://82.208.130.74:7000/;
-#EXTINF:0,Radio Canal 3 - D
-http://radio.upstream-cloud.ch/canal3allemand-128.mp3
 #EXTINF:0,Ràdio Capital 93.7 FM
 http://streaming.martiproduccions.com:8000/capitalhd
 #EXTINF:0,Radio Carmarthenshire
@@ -5557,8 +5561,6 @@ http://rsirena.dnsalias.com:8000/rsirenacope
 https://radiosity.online:8000/aac
 #EXTINF:0,radioSKW
 https://server4.streamserver24.com:26237/live
-#EXTINF:0,RadioSLM
-https://stream.radioslm.fr:8443/;
 #EXTINF:0,Rádio Social Plus Brasil
 https://hts09.kshost.com.br:9608/stream/1/
 #EXTINF:0,Radio Son Sighisoara 89,5
@@ -5581,12 +5583,16 @@ https://stream-41.zeno.fm/n7ur3nfdft5tv?zs=lAuhNCyPTHqis9LQEPzbVA
 http://94.24.49.44:8400/;
 #EXTINF:0,RADIO STAR hitsradio
 https://streamingv2.shoutcast.com/RADIOSTARHITSRADIO
+#EXTINF:0,Stella Fm
+https:/nr12.newradio.it:8652/stream
 #EXTINF:0,Radio Studio 1 105.8
 https://radiostudio1.ice.infomaniak.ch/radiostudio1-128.mp3?
 #EXTINF:0,Radio Studio 20
 https://manager2.conceptradio.fr:1135/stream
 #EXTINF:0,RADIO SUD INTERNATIONAL
 https://cast1.torontocast.com:2805/stream
+#EXTINF:0,Radio Suedtirol
+https://server7.streamserver24.com:8080/proxy/radiosue?mp=/stream
 #EXTINF:0,Radio Swissitalia
 http://onair7.xdevel.com:7038/1
 #EXTINF:0,Radio System
@@ -5615,8 +5621,6 @@ https://stream2.radiotransilvania.ro/SatuMare
 https://stream2.radiotransilvania.ro/Cluj
 #EXTINF:0,Radio TEDDY - Kinderdisco
 https://streamtdy.ir-media-tec.com/disco/mp3-128/radiode_web/
-#EXTINF:0,Radio Tentación
-http://88.26.228.190:8020/;
 #EXTINF:0,Radio Tequila
 http://s43.myradiostream.com:20542/listen.mp3
 #EXTINF:0,SRR Radio Timisoara
@@ -6105,8 +6109,6 @@ https://playoutonestreaming.com/proxy/sugar1?mp=%2Fstream
 https://www.radioking.com/play/sumhits-radio
 #EXTINF:0,Sun FM 
 https://stream.sunfmua.com:8000/liveplus
-#EXTINF:0,SUN FM
-http://sunfmmayotte.ice.infomaniak.ch/sunfmmayotte-128.mp3
 #EXTINF:0,Sunrise-Radio
 https://bayern.streampanel.net/whamkkhs?mp=/stream
 #EXTINF:0,Sunset to sunrise
@@ -6479,6 +6481,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBHTFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBHTFM.mp3
 #EXTINF:0,WBHV All Hit B 94.5 FM
 https://ice10.securenetsystems.net/WBHV
+#EXTINF:0,WBQB - B 101.5 FM
+https://live.amperwave.net/manifest/centennialb-wbqbfmaac-hlsc3.m3u8
 #EXTINF:0,WBQT - HOT 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBQTFM.mp3
 #EXTINF:0,WBWB - B97 96.7 FM
@@ -6595,8 +6599,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WJGO_FMAAC_SC
 http://stream.abacast.net/direct/townsquare-wjimfmaac-ibc3
 #EXTINF:0,WJUL 1230 AM
 https://ice5.securenetsystems.net/WJUL
-#EXTINF:0,WJWC - The Heat 97.3fm - UrbanMix
-https://www.radioking.com/play/973theheat/648347
 #EXTINF:0,WJWZ - 97.9 JAMZ
 https://ice9.securenetsystems.net/WJWZ
 #EXTINF:0,WKBI-FM - B94

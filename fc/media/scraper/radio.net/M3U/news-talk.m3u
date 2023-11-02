@@ -587,6 +587,8 @@ https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCUBAM.mp3
 #EXTINF:0,KCUR - 89.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP.aac?
+#EXTINF:0,KCXL 1140 AM
+https://crystalout.surfernetwork.com:8001/KCXL_MP3
 #EXTINF:0,Red River Radio HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
 #EXTINF:0,KDET Community Radio 930 AM
@@ -657,8 +659,6 @@ https://live.amperwave.net/manifest/eagleradio-kfeqamaac-hlsc4.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFFNAMAAC.aac
 #EXTINF:0,KFGO - The Mighty 790 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAM.mp3
-#EXTINF:0,KFIG - 940 AM ESPN Radio
-https://ice5.securenetsystems.net/KFIG
 #EXTINF:0,KFIR - Voice of the Valley 720 AM
 https://ice10.securenetsystems.net/KFIR
 #EXTINF:0,KFIZ - News-Talk 1450 AM
@@ -687,8 +687,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAM.mp3
 https://amber.streamguys1.com:4625/
 #EXTINF:0,KFTK - FM Newstalk 97.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFTKFM.mp3
-#EXTINF:0,KFXD - The Fan 630 AM
-https://prod-3-95-159-36.amperwave.net/townsquare-kfxdfmaac-hlsc3.m3u8
 #EXTINF:0,KFXZ News Talk 98.5 FM 1520 AM 104.1 FM
 https://ice9.securenetsystems.net/KFXZAM
 #EXTINF:0,KFYI 550 AM NewsTalk
@@ -1021,6 +1019,8 @@ https://ice23.securenetsystems.net/KPLO
 https://stream.zeno.fm/tzz7ctkz9p8uv
 #EXTINF:0,KPPQ-LP Ventura CA
 https://kppq.streamguys1.com/live
+#EXTINF:0,KPUG - The Sports Leader 1170 AM
+https://live.amperwave.net/manifest/saga-kpugamaac-hlsc1.m3u8
 #EXTINF:0,KQDJ - ESPN 1400 AM
 https://ice23.securenetsystems.net/KQDJ
 #EXTINF:0,KQLX Ag News 890 AM
@@ -1103,6 +1103,8 @@ http://ksqd.info:8000/stream
 https://ice8.securenetsystems.net/KSRM
 #EXTINF:0,KSTX 89.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFM.mp3
+#EXTINF:0,KSUP - Hawk 107.9
+https://19.shoutstreams.com/proxy/juneau3/hawk
 #EXTINF:0,KSWS Northwest Public Radio
 http://134.121.234.129:8000/NWPRNEWS
 #EXTINF:0,KSYL Talkradio 970 AM
@@ -2364,7 +2366,7 @@ https://online.radionicaragua.com.ni/stream.ogg
 #EXTINF:0,Rádio Noroeste 96.7 FM
 https://paineldj5.com.br:6222/stream
 #EXTINF:0,Radio Noticias 88.1
-http://s2.netradiofm.com:8062/;
+https://stream.radioinfo.ar/p/8062/stream
 #EXTINF:0,Rádio Nova Birigui FM
 http://suaradio1.dyndns.ws:10074/stream
 #EXTINF:0,Radio New Zealand National
@@ -2623,8 +2625,6 @@ http://streaming.enantena.com:8000/rap56.mp3
 http://stream15.top-ix.org:80/radiobeckwith
 #EXTINF:0,RBN
 https://cast2.my-control-panel.com/proxy/rbn/stream;
-#EXTINF:0,rcast
-http://ca.rcast.net:8048/;
 #EXTINF:0,RCN 1470
 https://streamingcwsradio30.com:7025/stream
 #EXTINF:0,Radio Deutschland Eins
@@ -3029,8 +3029,6 @@ https://www.tsn.ca/radio/ottawa-1200
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_SC.mp3
 #EXTINF:0,CKGM TSN 690 Montreal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
-#EXTINF:0,Tsukure Radio
-https://media.streambrothers.com:8244/stream
 #EXTINF:0,Rádio Tucano 91.5 FM
 http://centova13.ciclanohost.com.br:8056/stream
 #EXTINF:0,TUDN 1200 AM
@@ -3917,6 +3915,8 @@ https://wosu.streamguys1.com/NPR_64
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 #EXTINF:0,WOYK 1350 AM
 https://ic2.mainstreamnetwork.com/woyk-am
+#EXTINF:0,WPAB - Ponce 550 AM
+http://server10.servistreaming.com:9059/stream
 #EXTINF:0,WPBR - Sakpase.fm 1340 AM
 https://usa11.fastcast4u.com/proxy/wpbr1340?mp=/1
 #EXTINF:0,WPEN - The Fanatic 97.5 FM
@@ -3935,6 +3935,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WPHTAM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPICAM.mp3
 #EXTINF:0,WPIE - ESPN Ithaca 1160 AM
 https://ais-sa2.cdnstream1.com/2056_128.mp3
+#EXTINF:0,WPIT - 73 WPIT 730 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPITAM.mp3
 #EXTINF:0,WPLN / WHRS / WTML Nashville News 90.3 / 91.7 / 91.5 FM
 http://wpln.streamguys.org/wplnfm.mp3
 #EXTINF:0,WPNW Joy Worship 96.5/98.9
@@ -3965,6 +3967,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WPTFAM.mp3
 https://ice7.securenetsystems.net/WLPE
 #EXTINF:0,WQAM 560 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQAMAM.mp3
+#EXTINF:0,WQBA - Univision America 1140 AM
+https://live.amperwave.net/manifest/univision-ktnqamaac-imc2
 #EXTINF:0,WQCS 88.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_SC
 #EXTINF:0,WQIZ - Catholic Radio in South Carolina 810 AM
