@@ -59,8 +59,6 @@ https://cervera.eldialdigital.com:23121/stream
 http://streaming.ntelecom.com.br:8518/stream?type=.mp3
 #EXTINF:0,EiTB Radio Euskadi
 http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3
-#EXTINF:0,El Chubut 90.1 FM
-http://62.210.129.76:9382/;
 #EXTINF:0,El Espejo Canario
 https://radioserver11.profesionalhosting.com/proxy/pkg1147232?mp=%2Fstream
 #EXTINF:0,El Heraldo de México
@@ -455,8 +453,6 @@ https://streamingv2.shoutcast.com/jembe-fm
 https://rs33.stream24.net/joke-fm.mp3
 #EXTINF:0,Jornalistas de Brasília
 http://stm3.xcast.com.br:6810/stream/1/
-#EXTINF:0,Jovem Pan 1020 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_AMAAC.aac
 #EXTINF:0,Jovem pan News (Curitiba)
 https://r18.ciclano.io:15156/live
 #EXTINF:0,Jovem Pan FM Jaboticabal
@@ -687,6 +683,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAM.mp3
 https://amber.streamguys1.com:4625/
 #EXTINF:0,KFTK - FM Newstalk 97.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFTKFM.mp3
+#EXTINF:0,KFXD - The Fan 630 AM
+https://live.amperwave.net/manifest/townsquare-kfxdfmaac-hlsc3.m3u8
 #EXTINF:0,KFXZ News Talk 98.5 FM 1520 AM 104.1 FM
 https://ice9.securenetsystems.net/KFXZAM
 #EXTINF:0,KFYI 550 AM NewsTalk
@@ -737,6 +735,8 @@ http://live.kboo.fm:8000/high
 https://stream.revma.ihrhls.com/zc377/hls.m3u8
 #EXTINF:0,KHPR Hawaii Public Radio 88.1 FM
 https://khpr-ice.streamguys1.com/khpr2
+#EXTINF:0,KICD - Full Service Radio 1240 AM
+https://live.amperwave.net/manifest/saga-kicdamaac-hlsc1.m3u8
 #EXTINF:0,KID 590 AM
 https://ice24.securenetsystems.net/KIDAM
 #EXTINF:0,KID / KIDG / KIDJ / KWIK Newsradio 590 / 1240 AM & 92.1 / 106.3 FM
@@ -1799,6 +1799,8 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
+#EXTINF:0,SBC Paradise FM
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -1925,8 +1927,6 @@ https://onair11.xdevel.com/proxy/sc_103im
 https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda
 #EXTINF:0,Radio 13
 http://tuasesorweb.com:8050/;
-#EXTINF:0,Rádio 1News
-http://hts05.kshost.com.br:9428/stream/1/
 #EXTINF:0,Radio 21
 https://stream.zeno.fm/xvxdf31gzk8uv
 #EXTINF:0,Radio230
@@ -1991,8 +1991,6 @@ http://live.francra.org:8000/Radio-Alto
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICA.mp3
 #EXTINF:0,Radio Apeldoorn
 http://stream.rtv-apeldoorn.nl/live
-#EXTINF:0,Radioapna
-http://ca.rcast.net:8048/;stream.mp3
 #EXTINF:0,Radio Arapey
 http://emisiones.com.uy:8085/arapey
 #EXTINF:0,Rádio Arari FM
@@ -2081,8 +2079,6 @@ https://stream.zeno.fm/93my5pgycf9uv
 http://srv05.brasilstream.com.br:9061/stream
 #EXTINF:0,Rádio Clube de Lages
 http://r13.ciclano.io:8341/stream
-#EXTINF:0,Rádio CMN
-https://shout25.crossradio.com.br:24014/1;
 #EXTINF:0,Radio Cosmos 103.7 FM
 https://audio3.tustreaming.cl/7410/stream
 #EXTINF:0,Radio Creactividad
@@ -2229,6 +2225,8 @@ https://radio.immo/stream/immo.ca.mp3
 https://stream.zeno.fm/haw3b9e6ybruv
 #EXTINF:0,Radio IMPERIUM
 https://stream.radioimperium.pl:8443/stream
+#EXTINF:0,Radio Independiente FM
+http://cdn1.onstream.audio:8094/independienteaac
 #EXTINF:0,Radio Indoamerica
 https://securestream.radioshd.info:7051/stream/1/
 #EXTINF:0,Rádio Informativo do Vale
@@ -2351,8 +2349,6 @@ http://eu2.serviaudio.com:23116/
 https://s41.radiolize.com/radio/8020/radio.mp3
 #EXTINF:0,Radio Nerazzurra
 https://api.spreaker.com/v2/episodes/18631166/play.mp3
-#EXTINF:0,Radio Net FM
-http://reflector.radionet.si:8000/stream.ogg
 #EXTINF:0,Radio News
 https://01.solumedia.com.ar:7678/stream
 #EXTINF:0,Radio News 24
@@ -3115,8 +3111,6 @@ https://voa46.akacast.akamaistream.net/7/448/437828/v1/ibb.akacast.akamaistream.
 https://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3
 #EXTINF:0,VOA News Now
 https://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3
-#EXTINF:0,Voice Of Charity Lebanon
-http://cast5.servcast.net:9990/stream
 #EXTINF:0,La Voix du Béarn
 http://radio-shoutcast.cyber-streaming.com:8002/stream
 #EXTINF:0,Rádio Voja24
