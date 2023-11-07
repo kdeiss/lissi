@@ -43,6 +43,8 @@ http://tess.fast-serv.com:8570/;
 http://199.189.111.28:8012/;
 #EXTINF:0,1A Entspannt
 https://1a-entspannt.radionetz.de/1a-entspannt.mp3
+#EXTINF:0,1A Jazz
+https://1a-jazz.radionetz.de/1a-jazz.mp3
 #EXTINF:0,1.FM - Adore Jazz
 https://strm112.1.fm/ajazz_mobile_mp3
 #EXTINF:0,1.FM - Bay Smooth Jazz
@@ -1234,7 +1236,7 @@ https://audio-edge-qse4n.yyz.g.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
 #EXTINF:0,KHNY - Honey 103 
 http://honey.macchiatomedia.org:8080/stream/1/
 #EXTINF:0,KIFM Smooth Jazz HD2
-https://live.wostreaming.net/manifest/audacy-kxsnfmaac-hlsc.m3u8
+https://live.amperwave.net/manifest/audacy-kxsnfmaac-hlsc.m3u8
 #EXTINF:0,KIHL 103.7 FM
 https://streaming.live365.com/a95022
 #EXTINF:0,KIOS Omaha Public Radio 91.5 FM
@@ -1537,6 +1539,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC.aac
 http://radio.linnrecords.com/cast/tunein.php/linnjazz/playlist.pls
 #EXTINF:0,Linn Radio
 http://radio.linnrecords.com/cast/tunein.php/linnradio/playlist.pls
+#EXTINF:0,Lit&Jazz 
+https://servidor35-2.brlogic.com:7096/live
 #EXTINF:0,Live Jazz Radio
 https://stream.zeno.fm/w5ue525vk2zuv?
 #EXTINF:0,Los Angeles Music Festival®
@@ -1577,8 +1581,6 @@ http://67.212.165.106:8150/stream
 https://strw1.openstream.co/385?aw_0_1st.collectionid%3D6439%26stationId%3D6439%26publisherId%3D205%26k%3D1654592866%26aw_0_azn.pcountry%3D%5B\CA\%5D%26aw_0_azn.planguage%3D%5B\en\%5D%26aw_0_azn.pgenre%3D%5B\Jazz\%2C\Music\%2C\Blues\%5D
 #EXTINF:0,Manhattan Jazz Club
 https://listen.openstream.co/6439/audio
-#EXTINF:0,RadioManouche
-http://stream.radiomanouche.com:8118/listen
 #EXTINF:0,Manzanita Radio
 https://streaming.live365.com/a78865
 #EXTINF:0,Radio mArt - Powered by Bombelman.com
@@ -1632,9 +1634,9 @@ https://mc-muzykabezslov.hostingradio.ru/muzykabezslov96.aacp
 #EXTINF:0,Morena FM
 https://ssl1.transmissaodigital.com:2692/stream/1/
 #EXTINF:0,Mother Earth Radio
-https://motherearth.streamserver24.com/listen/motherearth/motherearth.aac
+https://motherearth.streamserver24.com/listen/motherearth/motherearth.aac-lo
 #EXTINF:0,Mother Eareth Jazz
-https://motherearth.streamserver24.com/listen/motherearth_jazz/motherearth.jazz.mp3
+https://motherearth.streamserver24.com/listen/motherearth_jazz/motherearth.jazz.aac-lo
 #EXTINF:0,MR3 Radio Bartok
 http://stream002.radio.hu/mr3.mp3?
 #EXTINF:0,Mrs Yarringtons Radio
@@ -1669,10 +1671,6 @@ https://stream.open.fm/88
 https://music-station.live/radio/8000/stream/1/
 #EXTINF:0,Naxi Jazz Radio
 http://naxidigital-jazz128.streaming.rs:8170/;
-#EXTINF:0,NDR Info - Jazz Nacht
-https://icecast.ndr.de/ndr/loop/19/mp3/128/stream.mp3?aggregator=radio-de
-#EXTINF:0,NDR Info - Play Jazz
-https://icecast.ndr.de/ndr/loop/31/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,Néoar
 https://stream.zeno.fm/slkq0l4tw5wuv
 #EXTINF:0,Radio Neptune
@@ -1684,7 +1682,7 @@ https://www.radioking.com/play/new-morning-radio/62902
 #EXTINF:0,nicetunesradio.com
 https://eu10.fastcast4u.com:5125/stream
 #EXTINF:0,NIGHT TRAXX RADIO
-https://live.wostreaming.net/manifest/kjlh-kjlhfmmp3-ibc2
+https://live.amperwave.net/manifest/kjlh-kjlhfmmp3-ibc2
 #EXTINF:0,Nina fm
 http://flux.nina.fm/nina.mp3
 #EXTINF:0,Nivel20
@@ -1719,6 +1717,8 @@ https://orf-live.ors-shoutcast.at/oe1-q1a
 https://ice64.securenetsystems.net/OFRN
 #EXTINF:0,Oldtymerz Radio
 https://s2.radio.co/s31e6cd447/low
+#EXTINF:0,ON Blues
+http://0n-blues.radionetz.de/0n-blues.mp3
 #EXTINF:0,One Jazz Not 
 https://ecmanager.pro-fhi.net:1335/stream
 #EXTINF:0,OneLuvFM 
@@ -1831,6 +1831,8 @@ https://www.radioking.com/play/quantum-radio-2
 https://streaming.live365.com/a33242
 #EXTINF:0,Raiders FM
 http://198.178.121.76:8038/stream
+#EXTINF:0,Radio 16
+http://stream.radios-arra.fr:8000/radio16
 #EXTINF:0,Radio48.com
 https://ais-edge50-live365-dal02.cdnstream.com/a52467
 #EXTINF:0,Radio 4 Play Jazz
@@ -2242,7 +2244,7 @@ https://stream.zeno.fm/1htpr0nkns8uv
 #EXTINF:0,Southern Soul Blues
 https://everestcast.onlineradiostation.co:1870/stream/1/
 #EXTINF:0,Spazio Radio
-http://s6.mediastreaming.it:7190/
+https://ssl1.mediastreaming.it:7010/;
 #EXTINF:0,SpicyPimps Radio
 http://stream.radiojar.com/gtu4mhk0ga5tv
 #EXTINF:0,SPLASH Jazz
@@ -2391,8 +2393,6 @@ http://server.laradio.online:8233/stream/1/
 https://traxx005.ice.infomaniak.ch/traxx005-low.mp3
 #EXTINF:0,Triage FM
 http://radio.pro-fhi.net:9052/stream/1/
-#EXTINF:0,Rádio Triângulo 
-http://02.stmip.net:7802/live;stream.mp3
 #EXTINF:0,Tripping Tree Radio
 https://s7.voscast.com:10157/stream
 #EXTINF:0,TRQL Radio
@@ -2443,6 +2443,8 @@ https://c11.radioboss.fm:18134/stream
 https://live.radioart.com/fVocal_jazz.mp3
 #EXTINF:0,Voce Nustrale 
 https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3
+#EXTINF:0,Voice Covers
+https://radio2.vip-radios.fm:18087/stream-mp3-VoiceCovers
 #EXTINF:0,VPR Classical
 https://vprclassical.streamguys1.com/vprclassical-web
 #EXTINF:0,Vuelo714
@@ -2469,8 +2471,6 @@ https://stream2.statsradio.com:8152/stream
 https://stream.wbez.org/wbez64-web.aac
 #EXTINF:0,WBGO Jazz88 FM
 https://wbgo.streamguys1.com/wbgo128
-#EXTINF:0,WBGTP POWER 9 RADIO
-http://shaincast.caster.fm:12951/listen.mp3
 #EXTINF:0,WBKM
 https://streaming.radio.co/sefa4c74e3/listen
 #EXTINF:0,WBOM Streaming Radio 

@@ -73,8 +73,6 @@ http://los.cdnstream.com/1131_128
 http://247urbanhits.com:8000/stream
 #EXTINF:0,2CBD
 https://playerservices.streamtheworld.com/pls/2CBD.pls
-#EXTINF:0,2Fli Radio
-http://64.20.39.8:8111/stream/1/
 #EXTINF:0,318 LIVE FM
 https://ais-edge104-live365-dal02.cdnstream.com/a69830
 #EXTINF:0,538 ZOMER
@@ -337,8 +335,6 @@ https://breakz-high.rautemusik.fm/
 https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,Brightstar Studios
 https://s17.ssl-stream.com/proxy/brightstar?mp=/stream&1684313417739
-#EXTINF:0,Broadcast Hip-Hop Network 
-https://live.amperwave.net/direct/broadcasthiphop-broadcasthiphopnetworkaac-imc
 #EXTINF:0,Broadtube Radio
 http://streaming.radionomy.com/BroadtubeMusicChannel
 #EXTINF:0,Radio Buena Vida
@@ -737,8 +733,6 @@ https://streaming.radio.co/s25550b002/listen
 https://audio.lucaslempereur.fr/general
 #EXTINF:0,Helia - Hits 2021
 https://audio.lucaslempereur.fr/hits2021
-#EXTINF:0,HellifiedRadio
-https://az10.yesstreaming.net:8190/radio.mp3
 #EXTINF:0,HILLCHILL
 https://radio.hillchill.net/stream
 #EXTINF:0,hip-hop Daily
@@ -807,6 +801,8 @@ https://usa18.fastcast4u.com/proxy/cbardzin?mp=/1
 https://listen.radioking.com/radio/283255/stream/337267
 #EXTINF:0,WQHT - HOT 97 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
+#EXTINF:0,HOT 98 SANTOS
+https://live.virtualcast.com.br/hot98
 #EXTINF:0,Hotmix Classic Rap
 https://streaming.hotmixradio.fr/hotmix-rap_us-en-mp3
 #EXTINF:0,Hotmix HIP HOP
@@ -1037,6 +1033,8 @@ https://listen.openstream.co/6529/audio
 http://streamingned.com:7292/stream
 #EXTINF:0,Lampsi FM 92.3 
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:0,La Nueva Mega
+https://lamega.out.airtime.pro/lamega_a
 #EXTINF:0,La Peor Radio
 https://streamingv2.shoutcast.com/LapeorRadio
 #EXTINF:0,La Playroom
@@ -1637,8 +1635,6 @@ https://stream.zeno.fm/p0wp29crmm0uv
 https://zas7.ndx.co.za:8030/stream
 #EXTINF:0,Master FM
 http://hydra.shoutca.st:8178/live
-#EXTINF:0,MatMusic 
-https://radio.matmusicmysoundradio.com/stream/matmusic
 #EXTINF:0,MaximumFM.ca Hip Hop
 https://streamingv2.shoutcast.com/maximumfm-hip-hop
 #EXTINF:0,MDR JUMP In the Mix Channel
@@ -1739,8 +1735,6 @@ https://stream.rcs.revma.com/69u3fhduaq8uv
 https://streaming.live365.com/a46047
 #EXTINF:0,Nina fm
 http://flux.nina.fm/nina.mp3
-#EXTINF:0,N-JOY Soundfiles Hip-Hop
-https://icecast.ndr.de/ndr/loop/6/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,NO!FM Radio
 https://sstoyano.radioca.st/stream
 #EXTINF:0,fcams radio your radio, your music
@@ -1777,8 +1771,6 @@ https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
 https://s9.myradiostream.com/:14296/;
 #EXTINF:0,ONE Station
 https://stream.onestation.net/onestation-128.mp3
-#EXTINF:0,On Radio Black Music
-http://radio2.suaradionanet.net:8060/stream
 #EXTINF:0,ON STREET RADIO
 https://streamingv2.shoutcast.com/ONSTREET
 #EXTINF:0,On Top FM
@@ -2026,7 +2018,7 @@ https://stream.laut.fm/rap2soul?ref=radiode
 #EXTINF:0,Radio Kiepenkerl - Dein HipHop Radio
 https://addrad.io/4459kz4
 #EXTINF:0,Radio Krimi
-https://radio8.pro-fhi.net/flux-nwsimjda/stream
+https://radio13.pro-fhi.net/flux-nwsimjda2/stream
 #EXTINF:0,Radio Laser
 http://tachyon.shoutca.st:8084/stream
 #EXTINF:0,Radio Marimanga
@@ -2239,8 +2231,6 @@ https://radio.simulatorhits.com/radio/8000/stream
 https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio
 #EXTINF:0,Size Radio
 https://n10.radiojar.com/atr1e8aswa5tv
-#EXTINF:0,SkyBlueMusic 
-https://listen.radioking.com/radio/196462/stream/238957
 #EXTINF:0,Skyrock
 https://icecast.skyrock.net/s/natio_aac_96k
 #EXTINF:0,Skyrock Premier sur le Rap
@@ -2597,8 +2587,6 @@ https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
 https://ice5.securenetsystems.net/WAZA
 #EXTINF:0,WBAP Bluntzville Radio
 https://streaming.live365.com/a59597
-#EXTINF:0,WBGTP POWER 9 RADIO
-http://shaincast.caster.fm:12951/listen.mp3
 #EXTINF:0,WBLX 93 BLX
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLXFMAAC_SC
 #EXTINF:0,WBOB Radio
@@ -2673,18 +2661,16 @@ https://ice24.securenetsystems.net/WLOA
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLZNFM.mp3
 #EXTINF:0,WMGC The bounce 105.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFMAACIHR_SC
+#EXTINF:0,WMNT - INTERNET RADIO TV
+http://69.30.214.54:14316/stream
 #EXTINF:0,WMNX Coast 97.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMNXFM_SC
-#EXTINF:0,WMSO Bumpin 104.1
-https://stream1.flinn.com:8443/1041FM.aac
 #EXTINF:0,WNRV Power 1081
 https://s3.radio.co/s574e54b94/listen
 #EXTINF:0,WOPSS 90.5
 https://stream.zeno.fm/g769fqg8e8zuv
 #EXTINF:0,World Hype Radio
 https://stream.zenolive.com/356073y1xreuv
-#EXTINF:0,WorldwideBassRadio
-https://us.everestcast.com:1285/stream
 #EXTINF:0,WORN-DB – Digital 105.7 RnB Now
 https://ice66.securenetsystems.net/WORNDB
 #EXTINF:0,WPGC-FM 95.5 FM

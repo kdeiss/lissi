@@ -195,6 +195,8 @@ https://apollo.rserve.de:7007/;
 https://stream.ffn.de/radiobollerwagen/mp3-192/
 #EXTINF:0,Bosveld Stereo 107.5 FM
 https://iceant.antfarm.co.za:8000/Bosveld
+#EXTINF:0,Bremer-Weser-Welle
+https://stream01.script24.net:9144/stream/1/
 #EXTINF:0,Belgischer Rundfunk 2 BRF2
 https://streaming.brf.be/brf2-high.mp3
 #EXTINF:0,Radio Brocken Fetenhits
@@ -344,7 +346,7 @@ https://streams.ffh.de/ffhchannels/mp3/hqschlager.mp3?amsparams=playerid:RTFFHRa
 #EXTINF:0,Fire-Force-Radio
 https://sp.fire-force-radio.de/listen/fire-force-radio/radio.mp3
 #EXTINF:0,Flamingstars MusicWord
-https://server4.streamserver24.com:8080/proxy/flamings?mp=/stream
+http://94.130.222.237:22048/stream
 #EXTINF:0,Foerde Radio - Schlager
 https://live.foerde-radio.de/Stream4
 #EXTINF:0,Foxtanz
@@ -1051,7 +1053,7 @@ https://stream.laut.fm/marlradio?ref=radiode
 https://stream.laut.fm/marzlefm?ref=radiode
 #EXTINF:0,MashupFM Schlager
 https://stream.laut.fm/mashupfmschlager?ref=radiode
-#EXTINF:0,Mega Party Radio
+#EXTINF:0,mega-party-radio
 https://stream.laut.fm/mega-party-radio?ref=radiode
 #EXTINF:0,meinschlagerradio
 https://stream.laut.fm/meinschlagerradio?ref=radiode
@@ -1310,7 +1312,7 @@ https://stream.laut.fm/radio-gelsenkirchen?ref=radiode
 #EXTINF:0,Radio Goldberg
 http://stream.laut.fm/radio-goldberg?ref=radiode
 #EXTINF:0,Radio GoldStar
-https://stream.laut.fm/radiogoldstar?ref=radiode
+http://stream.laut.fm/radiogoldstar
 #EXTINF:0,Radio Havighorst
 https://stream.laut.fm/radio-havighorst?ref=radiode
 #EXTINF:0,Radio herzfunkt
@@ -1771,6 +1773,8 @@ https://stream.laut.fm/sowiewir?ref=radiode
 https://stream.laut.fm/sport-fm?ref=radiode
 #EXTINF:0,Spreekanal FM
 https://stream.laut.fm/spreekanal-fm?ref=radiode
+#EXTINF:0,Stadlpowerradio
+https://s4.genx-stream.de:8502/;stream.mp3
 #EXTINF:0,Stadtradiofeldkirch
 https://stream.laut.fm/stadtradiofeldkirch?ref=radiode
 #EXTINF:0,Stadtradiokonstanz
@@ -2427,6 +2431,8 @@ https://orf-live.ors-shoutcast.at/tir-q1a
 https://live.radioton.de/radioton-80er_zauberwrfel?ref=radiode
 #EXTINF:0,Radio U1 Tirol
 https://live.u1-radio.at/;stream.mp3
+#EXTINF:0,RadioUgaby
+http://s1.supermuza.com:7720/;
 #EXTINF:0,Radio Uno Villach
 https://radiouno.stream24.net:80/live.mp3
 #EXTINF:0,Radio Vest - Dein Schlager Radio

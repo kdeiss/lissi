@@ -147,8 +147,6 @@ http://s1.slotex.pl:7238/stream/1/
 http://178.160.193.131:8000/stream/1/
 #EXTINF:0,ASO PICARDIE
 https://manager5.streamradio.fr/asopicardie
-#EXTINF:0,Contemporary Classical Music Radio
-http://centova.streams.gr:8033/stream
 #EXTINF:0,RadioArt: A. Vivaldi
 https://live.radioart.com/fVivaldi.mp3
 #EXTINF:0,RadioArt: Ballet Music
@@ -407,8 +405,6 @@ https://stream.zeno.fm/gyuqp9ms008uv
 https://stream.zeno.fm/5dune0us008uv
 #EXTINF:0,Radio Capital ricorda Ennio Morricone
 https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/live.m3u8
-#EXTINF:0,Capital Community Radio 101.7 FM - Perth's Radio for Seniors
-http://ic2463.c1788.fast-serv.com/stream
 #EXTINF:0,Radio Caprice - Classical Baroque
 http://79.111.14.76:8000/baroque
 #EXTINF:0,Radio Caprice - Classical Choral/Vocal Music
@@ -787,8 +783,6 @@ https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-320000.m3u8
 https://streaming.live365.com/a17629
 #EXTINF:0,El Cibernetico Rojas Radio
 https://sonic.radiostreaminglatino.com:10986/stream/1/
-#EXTINF:0,Emmachev Radio
-https://listen.radioking.com/radio/508153/stream/565813
 #EXTINF:0,Energy Mediterránea Radio
 https://streaming.enacast.com/radioenergymediterraniaHD.mp3
 #EXTINF:0,EPIC CLASSICAL - Classical Background Music
@@ -1502,9 +1496,9 @@ https://s4.citrus3.com:8052/stream
 #EXTINF:0,MonteCarlo FM Tubarão
 https://rrdns-rcr.webnow.com.br/mtecarlot.aac
 #EXTINF:0,Mother Earth Radio
-https://motherearth.streamserver24.com/listen/motherearth/motherearth.aac
+https://motherearth.streamserver24.com/listen/motherearth/motherearth.aac-lo
 #EXTINF:0,Mother Earth Klassik
-https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik.mp3
+https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik.aac-lo
 #EXTINF:0,RadioArt: Mozart
 https://live.radioart.com/fMozart.mp3
 #EXTINF:0,MPB - Music Radio
@@ -1533,12 +1527,6 @@ http://naxidigital-classic128.streaming.rs:8030/;
 https://peridot.streamguys1.com:5515/WREM
 #EXTINF:0,NDR Kultur
 https://icecast.ndr.de/ndr/ndrkultur/live/aac/low?aggregator=radio-de
-#EXTINF:0,NDR Kultur - Belcanto
-https://icecast.ndr.de/ndr/loop/2/mp3/128/stream.mp3?aggregator=radio-de
-#EXTINF:0,NDR Kultur - Oper in einer Stunde
-https://icecast.ndr.de/ndr/loop/4/mp3/128/stream.mp3?aggregator=radio-de
-#EXTINF:0,NDR Kultur – Philipps Playlist - Musikalische Gedankenreisen
-https://icecast.ndr.de/ndr/loop/4/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,New England Public Media All Classic
 https://nepr.streamguys1.com/WFCR-HD.mp3
 #EXTINF:0,Radio Neptune
@@ -1676,7 +1664,7 @@ http://2stream.dyndns.org:8000/cagnac_sd.mp3
 #EXTINF:0,Radio Chopin
 https://stream85.polskieradio.pl/live/rytm.sdp/chunklist_w1496725832.m3u8
 #EXTINF:0,Radio Cidade Pirituba Sp
-https://player.alphanetdigital.com.br/proxy/7058/stream
+https://www.bravecenterhost.com:8046/stream
 #EXTINF:0,Radio Clasic
 http://37.251.146.169:8000/stream/1/
 #EXTINF:0,Radio Clásica
@@ -1705,8 +1693,6 @@ https://ice.creacast.com/radio-courtoisie
 https://radiocultura.jmvstream.com/stream
 #EXTINF:0,Radio Cultural La Libreria
 https://server7.hostradios.com/8328/stream
-#EXTINF:0,Radio D4B
-https://d4b.ice.infomaniak.ch/d4b-96.mp3
 #EXTINF:0,RadioDRK
 https://stream.zeno.fm/5ud6q7xfqm0uv
 #EXTINF:0,Radio Duna
