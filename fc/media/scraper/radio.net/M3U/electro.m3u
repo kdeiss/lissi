@@ -559,8 +559,6 @@ http://stream.bn-radio.de:8000/bn-radio.mp3
 https://streamingv2.shoutcast.com/prysmradio09-aac
 #EXTINF:0,Bogotá Electrónica
 https://stream.zenolive.com/qwu63d5k1s5tv
-#EXTINF:0,Boogie Bunker Radio
-https://edge.mixlr.com/channel/rovhv
 #EXTINF:0,Radio Boombastic
 https://s4.radio.co/s53213189a/listen
 #EXTINF:0,BoomFm
@@ -1119,6 +1117,10 @@ https://ice55.securenetsystems.net/DASH9
 https://ice55.securenetsystems.net/DASH31
 #EXTINF:0,DASH Zoetic
 https://ice55.securenetsystems.net/DASH45
+#EXTINF:0,Datça OnAir
+http://185.126.217.8:9358/stream/1/
+#EXTINF:0,Datça OnAir
+http://185.126.217.8:9358/;
 #EXTINF:0,db962 Dance Radio
 http://stream.db962.nl:8030/stream/1/
 #EXTINF:0,DBC Radio
@@ -1259,8 +1261,6 @@ https://radio25.virtualtronics.com/proxy/dixfm?mp=%2Fstream
 https://stream-40.zeno.fm/7qfsnmc8rrhvv
 #EXTINF:0,DJBUZZ RADIO - LA RADIO DE TOUS LES DEEJAYS !
 https://stream.rcvfm.fr:8000/djbuzz-192k.mp3
-#EXTINF:0,DJ Corsan
-https://stream.zeno.fm/9x4mtu90xqzuv
 #EXTINF:0,DJ FM
 https://mux.mtl.djfmradio.com/djfm3
 #EXTINF:0,DJ IN THE MIX
@@ -1633,6 +1633,8 @@ https://flashfm2.ice.infomaniak.ch/flashfm2-128.mp3
 https://stream.zeno.fm/1f5gve77fwzuv.mp3
 #EXTINF:0,Fleet EDM Radio
 http://64.20.39.8:8001/stream/1/
+#EXTINF:0,Fleet Top 40 Radio
+http://64.20.39.8:8041/stream/1/
 #EXTINF:0,Flex FM
 http://142.4.215.64:8116/stream/1/
 #EXTINF:0,Flip Flop Live Radio
@@ -1747,6 +1749,8 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
+#EXTINF:0,Fun Radio Dance
+https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -4225,8 +4229,6 @@ https://www.radioking.com/play/playlist-metropolys
 https://listen.radioking.com/radio/1203/stream/86
 #EXTINF:0,Metropolys Riviera
 https://sc.creacast.com/metropolys-riviera
-#EXTINF:0,MGZC Radio
-http://65.109.81.84:8096/stream
 #EXTINF:0,Miami Global Radio
 https://live.miamiglobalradio.com/radio/8000/radio.mp3
 #EXTINF:0,Miami SoundSets
@@ -4507,6 +4509,8 @@ http://www.nightline-radio.de:8000/;
 https://stream.nightride.fm/nightride.mp3
 #EXTINF:0,NIMF RADIO
 https://streaming.live365.com/a46047
+#EXTINF:0,N-JOY Weltweit
+https://icecast.ndr.de/ndr/loop/28/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,NME 2
 https://msmn3.co/proxy/x2mp33/stream
 #EXTINF:0,NO!FM Radio
@@ -4521,6 +4525,8 @@ https://listen.nolife-radio.com/stream
 https://listen.nonstopstreaming.net/nsd
 #EXTINF:0,Non-Stop Hitradio
 https://jenny.torontocast.com:8002/nshitradio
+#EXTINF:0,NonStopPlay Pure Dance
+http://stream.nonstopplay.co.uk/nsppd-128k-mp3
 #EXTINF:0,Noods radio
 https://noodsradio.com/listen
 #EXTINF:0,Nordic Chillout Radio
@@ -4652,7 +4658,7 @@ http://radionortetenerife.sytes.net:8011/stream.mp3
 #EXTINF:0,Onda Ocio
 https://radioserver10.profesionalhosting.com:23334/stream
 #EXTINF:0,Onda Radio Sicilia
-http://198.245.61.161:8678/stream/1/
+https://mpc2.mediacp.eu:8042/stream
 #EXTINF:0,Onda Torrente Radio
 http://5.135.183.124:8073/stream
 #EXTINF:0,Radio OndaWorld 
@@ -4989,6 +4995,8 @@ http://live.prodjradio.net:8000/stream/1/
 https://media.streamforce.nl/proxy/profm/stream
 #EXTINF:0,Pro FM Dance
 https://player.streamforce.nl:8302/live
+#EXTINF:0,Progressive FM
+https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Progressive Rock AZUSA
 https://streaming.live365.com/a38225
 #EXTINF:0,Professional Idiots Radio
@@ -5273,8 +5281,6 @@ https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream
 https://stream.zeno.fm/cxr470c39u8uv
 #EXTINF:0,Radio DJ 98.2
 http://radio.albaniaradiodj.al/stream
-#EXTINF:0,Rádio Dj Box
-https://ssl.srvstm.com:8530/stream/1/
 #EXTINF:0,Radio DJ ONE
 http://142.132.213.6:8504/stream/1/
 #EXTINF:0,Radio DJ Track to Track
@@ -5399,6 +5405,8 @@ https://malta1122.startdedicated.de:9000/intime_128
 http://185.105.4.100/proxy/radioinv?mp=%2Fstream
 #EXTINF:0,Radio Jeans - House Tecno Dance
 http://streaming.radiojeans.net/rj_dance.m3u
+#EXTINF:0,Radio Junior
+https://stream.votreradiosurlenet.eu/radiojunior.mp3
 #EXTINF:0,Radio Kampus 97,1 FM
 https://stream.open.fm/337
 #EXTINF:0,Radio Kec Internacional
@@ -6789,8 +6797,6 @@ https://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3
 https://srv.webradiomanager.fr:1335/stream
 #EXTINF:0,Vicious Mallorca
 http://radiorobot.es:8000/mallorcaaac
-#EXTINF:0,VINTAGE
-http://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3
 #EXTINF:0,Hit Club Dance
 https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance
 #EXTINF:0,Dancefloor Radio

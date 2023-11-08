@@ -485,8 +485,6 @@ https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
 http://www.clasicradio.ro:8000/stream/1/
 #EXTINF:0,Clásica FM Radio
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,Clásicos Radio Web
-https://securestream.conectarhosting.com:8151/;
 #EXTINF:0,Classic 1027
 https://edge.iono.fm/xice/49_medium.aac
 #EXTINF:0,RadioClassica
@@ -1527,6 +1525,8 @@ http://naxidigital-classic128.streaming.rs:8030/;
 https://peridot.streamguys1.com:5515/WREM
 #EXTINF:0,NDR Kultur
 https://icecast.ndr.de/ndr/ndrkultur/live/aac/low?aggregator=radio-de
+#EXTINF:0,NDR Kultur - Belcanto
+https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,New England Public Media All Classic
 https://nepr.streamguys1.com/WFCR-HD.mp3
 #EXTINF:0,Radio Neptune
