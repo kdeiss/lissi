@@ -409,8 +409,6 @@ http://info01.nlg.hu:8400/stream/1/
 https://streams.radio.co/se18e1e587/low
 #EXTINF:0,Inform Me
 http://node-18.zeno.fm/ta1fke6sz1zuv
-#EXTINF:0,Rádio Cultura dos Inhamuns 960 AM
-http://www.auranet.com.br:8028/stream
 #EXTINF:0,Insight Radio
 https://stream.radiospannenburg.nl/radiospannenburg
 #EXTINF:0,Inspiration 92.3 FM
@@ -1183,6 +1181,8 @@ https://crystalout.surfernetwork.com:8001/KUSH_MP3
 http://uprxstreamer.usu.edu:8000/stream
 #EXTINF:0,KUT 90.5 FM
 https://kut.streamguys1.com/kut-web
+#EXTINF:0,KUTI - ESPN 1460 AM
+http://stream.abacast.net/direct/townsquare-kutiamaac-ibc3
 #EXTINF:0,KVHL 91.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVHLFMAAC.aac
 #EXTINF:0,KVI - TALK RADIO 570 AM
@@ -1677,8 +1677,6 @@ http://s4.viastreaming.net:8935/;
 https://streams.nwpr.org:8443/NWPRNEWS
 #EXTINF:0,Northern Sound
 https://edge.audioxi.com/NORTHERNSOUND
-#EXTINF:0,Noticias Generacion News
-http://server7.servistreaming.com:10007/stream?type=.mp3
 #EXTINF:0,Notipress Internacional
 https://stream.zeno.fm/s298wd9xvk8uv?rj-tok=AAABfJGNsxUAgBjg2KoAVqNVsA&rj-ttl=5
 #EXTINF:0,Radio NOUR FM - Sikasso
@@ -1797,8 +1795,6 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
-#EXTINF:0,SBC Paradise FM
-https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -2224,7 +2220,7 @@ https://stream.zeno.fm/haw3b9e6ybruv
 #EXTINF:0,Radio IMPERIUM
 https://stream.radioimperium.pl:8443/stream
 #EXTINF:0,Radio Independiente FM
-http://cdn1.onstream.audio:8094/independienteaac
+https://sonicpanel.globalstream.pro/8178/stream
 #EXTINF:0,Radio Indoamerica
 https://securestream.radioshd.info:7051/stream/1/
 #EXTINF:0,Rádio Informativo do Vale
@@ -2313,6 +2309,8 @@ https://uk2.streamingpulse.com/ssl/mca
 https://s4.radio.co/s5cedb108a/low
 #EXTINF:0,Radio Metrópoli 1150 AM
 https://s2.yesstreaming.net:9088/stream
+#EXTINF:0,Radio Mexico
+https://ec1.everestcast.host:1735/stream
 #EXTINF:0,Radio Misiones
 https://stream.zeno.fm/yilbzjafxantv
 #EXTINF:0,Radio Mogadishu - Radio Muqdisho
@@ -3027,6 +3025,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
 https://media.streambrothers.com:8244/stream
 #EXTINF:0,Rádio Tucano 91.5 FM
 http://centova13.ciclanohost.com.br:8056/stream
+#EXTINF:0,TUDN 1200 AM
+https://tu.streamguys1.com/tudnradio/playlist.m3u8
 #EXTINF:0,Ouvir a Rádio Tupi 104.1 FM
 https://stm5.voxhd.com.br:7386/stream
 #EXTINF:0,TWR - UK
@@ -3085,8 +3085,6 @@ http://84.46.247.34/listen/vauclusefm/radio.mp3
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 #EXTINF:0,Vermont State House
 http://vprstate.streamguys.net:80/vprhouse24.mp3
-#EXTINF:0,Vermont State Senate
-http://vprstate.streamguys.net:80/vprsenate24.mp3
 #EXTINF:0,Via Litoral News
 http://stm23.srvaudio.com.br:10252/;
 #EXTINF:0,Villegas 91.1 FM
@@ -3137,6 +3135,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD3_NEWS_
 https://radio.securenetsystems.net/cirrusencore/WACV
 #EXTINF:0,WADK - News Talk Smooth Jazz 1540 AM
 https://crystalout.surfernetwork.com:8001/WADK-AM_MP3
+#EXTINF:0,WADO 1280 AM
+https://tu.streamguys1.com/wadoam/playlist.m3u8
 #EXTINF:0,WAGP - The Light 88.7 FM
 https://ice3.securenetsystems.net/WAGP
 #EXTINF:0,WAIM Newstalk 1230 AM
@@ -3181,7 +3181,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WAYYAMAAC.aac
 http://67.212.165.106:8004/live
 #EXTINF:0,WBAL - Baltimore News 1090 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBALAM.mp3
-#EXTINF:0,WBAP 96.7 FM
+#EXTINF:0,WBAP News Talk
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM.mp3
 #EXTINF:0,WBBL-FM - Sports 107.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJRWAMAAC.aac
@@ -3965,6 +3965,8 @@ https://stream.zeno.fm/ugqv8t9gs18uv
 https://ice5.securenetsystems.net/WQNT
 #EXTINF:0,WQVE 101.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQVEFM.mp3
+#EXTINF:0,WQBU Qué Buena 92.7
+https://tu.streamguys1.com/klqbfm/playlist.m3u8
 #EXTINF:0,WRAE - American Family Radio 88.7 FM
 http://mediaserver3.afa.net:8000/talkhigh.mp3
 #EXTINF:0,WRCG 106.9 Really Rocks
@@ -4327,6 +4329,8 @@ https://stream.zeno.fm/xupt8fmaf2zuv?rj-tok=AAABeCxFSKsAGCSaCiPMncny3w&rj-ttl=5
 https://uksoutha.streaming.broadcast.radio:16390/xpress
 #EXTINF:0,YB FM
 https://stream.zeno.fm/40089b2m1c9uv
+#EXTINF:0,Yergz Radio
+https://streaming.live365.com/a37146
 #EXTINF:0,Yeshua Messianic Radio
 http://dc3.serverse.com:1120/;
 #EXTINF:0,YLE Puhe

@@ -151,6 +151,8 @@ http://198.7.59.28:10006/;
 http://euroticast5.euroti.com.br:8070/;
 #EXTINF:0,Azul Radio 
 https://centova57.instainternet.com/proxy/azulradi?mp=/stream
+#EXTINF:0,Bachata Hit Radio
+https://radio.dominiserver.com/proxy/bachatahitradio?mp=/stream
 #EXTINF:0,Bachata Nation Radio
 http://stream.zeno.fm/vwcq5n2rruhvv
 #EXTINF:0,Musica de Bad Bunny Radio
@@ -423,8 +425,6 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
-#EXTINF:0,costaradio
-http://109.169.76.104:23614/stream
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,C-Oye 89.1 FM Insuperable
@@ -653,6 +653,8 @@ https://strw1.openstream.co/864
 https://stream.idomo.com.ar/zafiro
 #EXTINF:0,Estereo Latino
 http://server3.20comunicacion.com:8028/stream/1/
+#EXTINF:0,Qué Buena 92.9
+https://tu.streamguys1.com/kltnfm/playlist.m3u8
 #EXTINF:0,Estereo La Voz Del Cordero
 https://stream.zeno.fm/qytuh41hw5quv
 #EXTINF:0,Estéreo limeña
@@ -735,6 +737,8 @@ https://cervera.eldialdigital.com:9000/stream
 https://stream.zeno.fm/uwvn15eu01zuv
 #EXTINF:0,Exponente Radio
 http://albireo.shoutca.st:8031/live
+#EXTINF:0,Expresiones Colombia Radio
+https://stream.zeno.fm/ssqhe1ubv68uv
 #EXTINF:0,Expresso Latin Radio
 https://s2.free-shoutcast.com/stream/18248
 #EXTINF:0,Fabulosa Radio
@@ -1081,8 +1085,6 @@ https://stream.kissfm.de/kissfm-latin/mp3-128/?ref=radiode
 https://stream.zeno.fm/aq899a53rs8uv
 #EXTINF:0,KJAV Ultra 104.9 FM
 http://mexicanradio.org:9414/stream
-#EXTINF:0,KJFA - La Jefa 105.1 FM
-http://stream.abacast.net/playlist/univision-wojofmaac-ibc1.m3u
 #EXTINF:0,KKMO - El Rey 1360 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKMOAMAAC.aac
 #EXTINF:0,Klassik Radio Brazil
@@ -1095,8 +1097,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLBNFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC_SC
 #EXTINF:0,KLNV - La Nueva 106.5
 https://live.amperwave.net/manifest/univision-kovefmaac-imc1
-#EXTINF:0,KLOB - José 94.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
 #EXTINF:0,KLSQ - Univision América 870 AM
 http://stream.abacast.net/playlist/univision-ktnqamaac-ibc2.m3u
 #EXTINF:0,KLYY - José 97.5 FM
@@ -1121,8 +1121,6 @@ https://liveaudio.lamusica.com/SF_KRZZ_icy?aw_0_1st.playerid=radio.net
 https://ice7.securenetsystems.net/KRRS?type=.flv&playSessionID=D8B0CE37-B412-D4C3-D3CBB0EE8D19E989&start=0
 #EXTINF:0,KTSE-FM - La Suavecita FM 97.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTSEFM.mp3
-#EXTINF:0,KUFW 90.5
-https://kcsufm.stream.creek.org/stream
 #EXTINF:0,Kuikaradiomx
 https://stream.zeno.fm/uay1esm5f3quv
 #EXTINF:0,KV 94.7 FM
@@ -1403,6 +1401,8 @@ https://sp.sintonizapp.com:7024/stream
 http://stream.zeno.fm/yew48cshmkhvv
 #EXTINF:0,LA ROMANTICA
 https://servidor39.brlogic.com:7414/live
+#EXTINF:0,La Rumbera Ecuador
+https://securestream.radioshd.info:7107/stream
 #EXTINF:0,La Salsera FM
 http://stream-53.zeno.fm/4qbzbrvdmy8uv?zs=9nntSTdSRuGXPaSPudttHg
 #EXTINF:0,La Soberana Radio
@@ -1903,8 +1903,6 @@ https://noesfm.radioca.st/stream/1/
 https://ec1.everestcast.host:2375/stream
 #EXTINF:0,Norteña vs Banda
 https://stream.zeno.fm/armwyyz0k18uv
-#EXTINF:0,Noticias Generacion News
-http://server7.servistreaming.com:10007/stream?type=.mp3
 #EXTINF:0,Radio Nova Piura 94.5
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7174/listen.pls
 #EXTINF:0,Novedades Radio
@@ -2318,7 +2316,7 @@ https://cp11.serverse.com/proxy/jgzoanqj/stream
 #EXTINF:0,Radio Imperativa 502 HD
 https://securestream.radioshd.info:7020/stream/1/
 #EXTINF:0,Radio Independiente FM
-http://cdn1.onstream.audio:8094/independienteaac
+https://sonicpanel.globalstream.pro/8178/stream
 #EXTINF:0,Ràdio Indiana
 https://radio.martiproduccions.com/indianahd
 #EXTINF:0,Radio Indoamerica
@@ -3097,8 +3095,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TR_PASTO.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_PEREIRA.mp3
 #EXTINF:0,Tropicana Popayán 106.1 fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANAAAC.aac
-#EXTINF:0,Tropicana San Andrés 97.5 fm
-https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA.mp3
 #EXTINF:0,Tropicool Radio Boston
 https://stream.zeno.fm/z2p3g3pnqv8uv
 #EXTINF:0,TROPIK FM
@@ -3197,6 +3193,8 @@ https://server4.hostradios.com/8118/stream
 https://ice08.fluidstream.net/fluid811.aac
 #EXTINF:0,Vinotinto Radio Argentina
 https://stream.vinotintoradio.com/8506/stream
+#EXTINF:0,Vinotinto Radio Mexico
+https://streaming01.radiosenlinea.com.ar:10941/;
 #EXTINF:0,Virco Music Radio
 https://stream.zeno.fm/qenguw9ubv8uv
 #EXTINF:0,Virtual DJ Radio - TheGrind
