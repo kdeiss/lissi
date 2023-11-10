@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Adio.fm
 https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
+#EXTINF:0,Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-en
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
 #EXTINF:0,Cadena SER Aranda
@@ -169,6 +171,8 @@ https://stream.zeno.fm/b8xx0g6ynfhvv?rj-ttl=5
 http://91.232.174.18:8000/Stream
 #EXTINF:0,Fenix FM 95.1
 https://server4.hostradios.com:7028/stream
+#EXTINF:0,FestinAuditif.com
+https://www.radioking.com/play/festinauditif-com
 #EXTINF:0,Finality Radio
 https://s9.voscast.com:9063/stream
 #EXTINF:0,First Bible Network
@@ -345,8 +349,6 @@ https://stream.radiohertz.de/hertz-hq.mp3
 https://c11.radioboss.fm:18187/stream
 #EXTINF:0,historyradio.org
 https://stream.radiojar.com/6bmecgg3wd5tv
-#EXTINF:0,HLN
-https://tunein.streamguys1.com/cnnhln?
 #EXTINF:0,hochschulradio 97.1 FM Düsseldorf
 http://listen.hochschulradio.de:58000/hsr-192.m3u
 #EXTINF:0,Horizon Talk Radio Network
@@ -409,6 +411,8 @@ http://info01.nlg.hu:8400/stream/1/
 https://streams.radio.co/se18e1e587/low
 #EXTINF:0,Inform Me
 http://node-18.zeno.fm/ta1fke6sz1zuv
+#EXTINF:0,Rádio Cultura dos Inhamuns 960 AM
+http://www.auranet.com.br:8028/stream
 #EXTINF:0,Insight Radio
 https://stream.radiospannenburg.nl/radiospannenburg
 #EXTINF:0,Inspiration 92.3 FM
@@ -507,8 +511,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KARNFMAAC_SC
 https://ice23.securenetsystems.net/KARP
 #EXTINF:0,KAWC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCFM.mp3
-#EXTINF:0,KAZM 780 AM
-https://ice9.securenetsystems.net/KAZM
 #EXTINF:0,KAZU 90.3 FM
 https://icecastle.csumb.edu/live128
 #EXTINF:0,KBBI - 890 AM
@@ -1961,8 +1963,6 @@ https://radioagora-nanterre.fr/stream/agora.mp3
 https://unlimited5-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
 #EXTINF:0,RADIO AÏBO NIBO
 https://usa4.fastcast4u.com/proxy/radioaibonibo?mp=/1
-#EXTINF:0,Radio Al Ansaar
-https://anton.antfarm.co.za/alansaar/alansaar.stream/playlist.m3u8
 #EXTINF:0,Radio Alfa Lab
 https://ssl1.mediastreaming.it:8590/;
 #EXTINF:0,Radio Algérienne Chaine 1
@@ -2333,10 +2333,6 @@ http://stream.radiomundo.uy:8000/2.mp4
 http://generalrodriguez.gob.ar:8000/radio
 #EXTINF:0,Radio Mystery Theater USA
 https://ais-sa3.cdnstream1.com/2800_128.mp3
-#EXTINF:0,Radio Nacional de Honduras
-https://stream.zeno.fm/mb5f69fk0d0uv
-#EXTINF:0,Radio Nacional de Honduras Oficial
-http://stream-59.zeno.fm/wxsfkbgk0d0uv?zs=7tfrjMx3SUW59gSO5ntfrA
 #EXTINF:0,Radio Nacional
 http://eu2.serviaudio.com:23116/
 #EXTINF:0,Radio Naropa - satsangs 24/7
@@ -3245,8 +3241,6 @@ https://stream.revma.ihrhls.com/zc7729/hls.m3u8
 https://wgbh-live.streamguys1.com/wcai
 #EXTINF:0,WCAP 980
 https://audio-edge-vqwx4.yyz.g.radiomast.io/a59bbcb6-0330-48e3-bf93-1f054ac27b5c
-#EXTINF:0,WCBC - 1270 AM
-https://pstnet3.shoutcastnet.com:30094/stream
 #EXTINF:0,WCBM - Breaking News 680 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCBMAM.mp3
 #EXTINF:0,WCBM Talkradio 680 AM
