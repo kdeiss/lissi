@@ -445,8 +445,6 @@ https://stream.hitzzz.nl/hitzzz
 https://s2.free-shoutcast.com/stream/18012
 #EXTINF:0,hotradio-for-you
 http://s2.genx-stream.de:9050
-#EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
-https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
 #EXTINF:0,hr4 Mitte
@@ -1935,8 +1933,6 @@ https://server4.streamserver24.com/proxy/jozollig?mp=/stream
 https://saurus.streampanel.net/rnjdwsal?mp=/stream
 #EXTINF:0,Mausi-Dance-Radio
 https://mausi-dance-radio.stream.laut.fm/mausi-dance-radio
-#EXTINF:0,Maxis-Hitradio
-https://stream.maxishitradio.de:8002/stream/1/
 #EXTINF:0,MDR SACHSEN-ANHALT Dessau
 https://mdr-284290-1.sslcast.mdr.de/mdr/284290/1/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDR SACHSEN-ANHALT Halle
@@ -2041,6 +2037,8 @@ https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
 https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
 #EXTINF:0,ON Volksmusik 
 https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
+#EXTINF:0,ON Weihnachten
+https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
 #EXTINF:0,ORF Radio Oberösterreich
 https://orf-live.ors-shoutcast.at/ooe-q1a
 #EXTINF:0,OpenFM - Biesiada Śląska
@@ -2220,7 +2218,7 @@ https://live.radioflamingo.at/rf
 #EXTINF:0,RadioForum2
 https://s7.streamcaster.eu:8112/stream1
 #EXTINF:0,Radio Fox4You
-http://85.25.217.22:8100/;?1691478411706
+http://85.25.217.22:8100/;
 #EXTINF:0,Radio Freistatt
 https://stream2-alfacast-hosting.com/8122/stream
 #EXTINF:0,Radio Fun and more
@@ -2495,8 +2493,6 @@ https://radioerft--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radioerft/live/mp3
 http://c01.lexycast.de:4150/;
 #EXTINF:0,RMF PRL
 https://rs8-krk2.rmfstream.pl/PRL
-#EXTINF:0,Rockplanet-radio
-http://vmd54090.contaboserver.net:8008/stream/1/
 #EXTINF:0,RockPlanet-Radio.net
 http://c02.lexycast.de:1510/stream/1/
 #EXTINF:0,Rogos-Powerradio 
@@ -2569,6 +2565,8 @@ https://radioplayer-kuschelzeit.schlagerparadies.de/schlagerballaden
 https://radioplayer-oldieexpress.schlagerparadies.de/schlageroldies
 #EXTINF:0,Radio Schlagerparadies - Schlagerparty
 https://radioplayer-schlagerparty.schlagerparadies.de/schlagerparty
+#EXTINF:0,Radio Schlagerparadies - Weihnachtszauber
+https://stream1.schlagerparadies.de/weihnachtszauber.mp3
 #EXTINF:0,Schlager Radio Andrea Berg
 https://addrad.io/4454q8n
 #EXTINF:0,Schlager Radio - Baden-Württemberg

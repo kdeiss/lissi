@@ -18,7 +18,7 @@ https://sr1.publicssl.net/srv/8004/live
 #EXTINF:0,104FM.ca - Only Rock
 https://sr1.publicssl.net/srv/8004/live
 #EXTINF:0,105.4 Cascais
-https://sp0.redeaudio.com/9956/;;/stream.mp3
+https://play.radioregional.pt:8220/1/
 #EXTINF:0,Radio 105 Rock
 https://s5.voscast.com/cdn/?k=63f8e174e3cd5&m=;stream1677255029881/1
 #EXTINF:0,106.9 SFM
@@ -309,6 +309,8 @@ https://stream.radioblackout.org/blackout.mp3
 https://ice2.somafm.com/brfm-128-mp3
 #EXTINF:0,Blackwood fm
 http://server-21.stream-server.nl:8326/;0
+#EXTINF:0,Blip FM
+http://78.129.229.120:29654/;
 #EXTINF:0,blue panda radio
 https://samcloud.spacial.com/api/listen?sid=125772
 #EXTINF:0,Best Net Radio - 90s Alternative Rock
@@ -348,7 +350,7 @@ https://ice3.securenetsystems.net/BUZZ101
 #EXTINF:0,ByKiwiRadio
 https://radio.bykiwicorp.com/stream/bykiwiradio
 #EXTINF:0,Radio Cabo Verde International
-http://41.221.203.141:8090
+http://41.221.203.141:8093/stream
 #EXTINF:0,Radio Califa
 https://streamingV2.shoutcast.com/Radio-Califa
 #EXTINF:0,Radio Campus Angers
@@ -465,6 +467,8 @@ https://stream.zeno.fm/81m8p8m47bruv
 http://stream.coraxonline.com/rdcx128.mp3
 #EXTINF:0,Corte Duende
 https://yesca.st/corteduende/
+#EXTINF:0,Cottage Radio
+https://jenny.torontocast.com:2000/stream/CottageRadio
 #EXTINF:0,RTS - Couleur 3
 https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/playlist.m3u8
 #EXTINF:0,CPR - indie 102.3
@@ -655,6 +659,8 @@ https://nrf1.newradio.it:9930/stream
 https://stream.streambase.ch/ffm/mp3-192/fm1rock-radiode/
 #EXTINF:0,FM4
 https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:0,Fm General Paz 96.3
+http://streaming2.locucionar.com:8922/stream
 #EXTINF:0,FM Luzu 92.3 FM
 http://emartesg.sytes.net:8080/fmluzu
 #EXTINF:0,Folks Radio
@@ -991,6 +997,8 @@ https://stream.zeno.fm/av8m1adpxs8uv
 https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,La Rocka 90
 https://streaming01.shockmedia.com.ar:10624/stream?icy=http
+#EXTINF:0,lastFMpirate
+https://stream.lastfmpirate.com:8000/radio.mp3
 #EXTINF:0,Latin_Mania
 https://mx.hdaudiostreaming.com/8030/stream
 #EXTINF:0,LatitudeRadio
@@ -1765,8 +1773,6 @@ https://purerock.radioca.st/stream/1/
 https://live.radiostudio.be/pxl.m3u
 #EXTINF:0,QCindie.com
 https://stream.qcindie.com/live
-#EXTINF:0,Q Relajo
-https://one.cloudstreaming.eu/proxy/delgadl1/stream
 #EXTINF:0,QSRock.Radio
 http://142.44.135.172:8361/stream
 #EXTINF:0,Racoon Radio
@@ -1877,6 +1883,8 @@ https://stream.radiofabrik.at/rf_low.mp3
 http://ecoutez.fajet.net:16600/stream/1/
 #EXTINF:0,Radio Fares
 https://chanlive.club/radio/8140/radio.mp3
+#EXTINF:0,RADIO FEBBRE
+https://c34.radioboss.fm:8577/stream
 #EXTINF:0,Radio fips
 https://streams.radiofips.de/fipsmp3
 #EXTINF:0,Radioflash FM
@@ -1905,8 +1913,6 @@ https://stream.zeno.fm/h024mdrn8mzuv
 http://80.15.101.128:8006/live
 #EXTINF:0,Radio Hausmannstätten
 http://s4.myradiostream.com:7932/listen.m4a
-#EXTINF:0,Radio HIT 94.9 FM
-http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:0,Rádio Informativo do Vale
 https://superaudio.radio.br/radio/8070/stream
 #EXTINF:0,Radio JAV
@@ -2067,6 +2073,8 @@ http://mp3.radioypsilon.at:8000/mp3-160
 http://snd.radio-z.net:8000/Radio-Z
 #EXTINF:0,Radio Zeitz
 http://player.radio-zeitz.de/RadioZeitz.m3u
+#EXTINF:0,Radio Žett
+https://stream.radio-zett.org/listen/radio_zett/radio192.mp3
 #EXTINF:0,RadioZ Laja
 http://198.204.228.202:8560/mp3
 #EXTINF:0,Radio Zona 503 El Salvador
@@ -2165,6 +2173,8 @@ https://stream.zeno.fm/w2cav7ff6f0uv
 http://cc.vmakerhost.com:8225/stream
 #EXTINF:0,Rock n' Roll Radio
 https://digitalaudiobroadcasting.net:8006/stream/1/
+#EXTINF:0,Rock-Omlet
+https://radio.rock-omlet.com/live
 #EXTINF:0,Rock radio
 https://cast2.my-control-panel.com/proxy/vladas/stream
 #EXTINF:0,RockRadio (MRG.fm)
@@ -2425,8 +2435,8 @@ http://thevoidrad.io:8000/stream320
 http://uk1.internet-radio.com:8355/stream/1/
 #EXTINF:0,Tinder Radio - Beach Party
 https://streaming.exclusive.radio/er/beachparty/icecast.audio
-#EXTINF:0,Top 40 Radio
-https://conectperu.com/8130/stream
+#EXTINF:0,RADIO MAXIMA FM 92.7
+https://servermax.azuracast.com.es/listen/radio_silencio_fm/radio.mp3/RADIOMAXIMAAREQUIPA
 #EXTINF:0,TrenTMix Radio
 https://www.radioking.com/play/trentmix-radio
 #EXTINF:0,CFFF FM Trent Radio
@@ -2557,8 +2567,6 @@ http://wgsu-live.geneseo.edu:8000/icy_0
 http://149.56.185.82:8010//stream/1/
 #EXTINF:0,WHJE - The Edge 91.3 FM
 https://chs-whjestream.ccs.k12.in.us/whjestream
-#EXTINF:0,WHPC - Nassau Community College 90.3 FM
-http://ruby.streamguys.com:5420/whpc
 #EXTINF:0,WHSN - Bangor's Rock Alternative 89.3 FM
 https://ice7.securenetsystems.net/WHSN?type=.mp3
 #EXTINF:0,WHUS - Radio 91.7 FM

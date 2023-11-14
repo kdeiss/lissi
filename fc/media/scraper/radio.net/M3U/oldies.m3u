@@ -635,8 +635,6 @@ http://sc2.radiocaroline.net:10558/stream/1/
 http://us1.streamingpulse.com:7007/live
 #EXTINF:0,Car Tunes Radio
 http://198.199.71.224:5000/1/stream/1/
-#EXTINF:0,Casablanca Radio
-http://85.214.234.214:8005/;
 #EXTINF:0,Radio Cas Olomoucko
 http://api.play.cz/radio/casradioolomouc32.aac.m3u
 #EXTINF:0,CastleSound
@@ -958,7 +956,7 @@ https://stream.laut.fm/drautalradio?ref=radiode
 #EXTINF:0,Dream Dance Radio
 http://streamserver3.m-hosting.eu:11000/stream
 #EXTINF:0,Dreamdanceradio
-https://stream10.g-factory.de:35052/stream/1/
+http://s4.genx-stream.de:8900/listen
 #EXTINF:0,Radio Drehscheibe
 https://c01.lexycast.de:2860/;
 #EXTINF:0,driftFM
@@ -1328,7 +1326,7 @@ http://cast5.magicstreams.gr:8010/stream/1/
 #EXTINF:0,HEART FM
 http://capeant.antfarm.co.za:8000/HeartFM
 #EXTINF:0,Heart FM
-https://stream.netradyom.com/radio/8100/radio.mp3
+https://live.heartfm.com.tr/listen/heart_fm/128.aac
 #EXTINF:0,Heartlites The Hood
 https://sonic.radiostream.ca/9992/stream
 #EXTINF:0,Heart Xmas radio
@@ -1392,7 +1390,7 @@ https://ex52.voordeligstreamen.nl/8028/stream
 #EXTINF:0,Hits 70s 80s
 https://everestcast.shoutcastservices.com:1485/stream
 #EXTINF:0,Hits 70s 80s Radio
-https://everestcast.shoutcastservices.com:1485/stream
+https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3
 #EXTINF:0,Mother Road Radio : Hits On 66
 https://ice42.securenetsystems.net/HO66
 #EXTINF:0,50s 60s Hits - HitsRadio
@@ -1439,8 +1437,6 @@ https://ais-edge104-live365-dal02.cdnstream.com/a96189
 https://listen.openstream.co/6519/audio
 #EXTINF:0,Houston Radio Platinum.com
 https://ais-edge51-live365-dal02.cdnstream.com/a83297
-#EXTINF:0,HPR1-Radio - Einfach hörend... SEHEN
-https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
 #EXTINF:0,hr4 Mitte
@@ -1583,6 +1579,8 @@ http://ec4.yesstreaming.net:2650/stream
 http://streaming.rubinbroadcasting.com/kcea
 #EXTINF:0,KCFI - Cruisin 1250 AM
 https://ice7.securenetsystems.net/CRUISIN
+#EXTINF:0,KCHA Fabulous AM FM
+https://ice23.securenetsystems.net/KCHA
 #EXTINF:0,KCLR 96FM
 https://live-bauerie.sharp-stream.com/KCLRCAR
 #EXTINF:0,KCOW - Your Oldies Station 1400 AM
@@ -3548,7 +3546,7 @@ https://sonicpanel.globalstream.pro/7602/;
 #EXTINF:0,Radio Cover Uno - Musica Senza Etichette 
 http://onair7.xdevel.com:7052/stream/1/
 #EXTINF:0,Radio Cultural Rocola Escazu Fm
-https://radios.sonidoshd.com/8202/stream
+https://stream-153.zeno.fm/g1iir6nh5guuv
 #EXTINF:0,Radio Dance Anos 90
 http://stm7.painelvox.com:8190/;
 #EXTINF:0,Rádio das Antigas
@@ -3731,6 +3729,8 @@ https://servermax.azuracast.com.es/listen/radio_silencio_fm/MAXIMAFMINTERNACIONA
 http://192.99.83.154:8006/stream
 #EXTINF:0,MDM Radio
 https://stream.radio-mdm.fr:8443/stream.mp3
+#EXTINF:0,radiomediona
+https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,Radio Melody
 https://stream.streambase.ch/rm/mp3-192/radiode/
 #EXTINF:0,Radio M Evergreen
@@ -4412,7 +4412,7 @@ https://stream-38.zeno.fm/xpt0v0g4dy8uv?zs=_6P1KHFeQcK6INyFPiBJYg&1664888625425
 #EXTINF:0,Station Simone
 https://www.radioking.com/play/station-simone
 #EXTINF:0,Station X - XRN Australia
-http://us01.xrn.com.au/StxSd
+https://sec01.xrn.com.au/listen/station_x_-_xrn_australia/StxSd
 #EXTINF:0,Steel FM Sunthorpe
 https://carina.streamerr.co:9200/stream
 #EXTINF:0,ORF Radio Steiermark
@@ -4653,6 +4653,8 @@ http://64.20.39.8:8141/stream/1/
 https://stream.zeno.fm/h2n3qh8q8k8uv
 #EXTINF:0,Tripl3 Troubl3 Radio
 https://ais-edge51-live365-dal02.cdnstream.com/a17454
+#EXTINF:0,True 2
+https://streaming.live365.com/a96482
 #EXTINF:0,TrueColorsRadio
 https://listen7.myradio24.com/45329
 #EXTINF:0,Tsukure Radio
@@ -4707,8 +4709,6 @@ http://vendsysselfm.dk:8000/stream/1/
 http://stream-40.zeno.fm/7pwfg6vghzzuv?zs=Rj61Wn8mSxiHd56p8dvyAA
 #EXTINF:0,Radio Ninof
 https://stream.laut.fm/radioninof?ref=radiode
-#EXTINF:0,Radio VHR - Nostalgie meets Pop
-https://radio-vhr.de/rock_pop.m3u
 #EXTINF:0,Radio VHR – Pop, Rock + Oldies
 http://pop.webradioscout24.de:80/pop.mp3
 #EXTINF:0,VIBE 24/7
@@ -5057,8 +5057,6 @@ https://ice64.securenetsystems.net/WNTI
 http://wnwi.birach.com:9002/stream/1/
 #EXTINF:0,WOAP 1080
 http://sparktheo.com:8000/stream
-#EXTINF:0,WOBM - Beach Radio 1160 AM
-http://stream.abacast.net/direct/townsquare-wobmamaac-ibc3
 #EXTINF:0,WOBO 88.7 FM
 https://ice64.securenetsystems.net/WOBO
 #EXTINF:0,WOCN - Ocean 104.7
@@ -5139,6 +5137,8 @@ http://95.173.162.189:9940/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM.mp3
 #EXTINF:0,WRTZ 1410 AM
 https://www.streamvortex.com:8444/s/10090
+#EXTINF:0,WRUL 97.3 All Oldies 1460 WROY
+https://ice24.securenetsystems.net/WRUL
 #EXTINF:0,WSAT / WTIX Memories 1280
 https://ice9.securenetsystems.net/WSAT
 #EXTINF:0,WSBB AM 1230 and AM 1490

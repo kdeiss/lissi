@@ -133,6 +133,10 @@ http://s3.viastreaming.net:7030/stream/1/
 http://radiocast.rtp.pt/antena2opera80a.mp3
 #EXTINF:0,RTP Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
+#EXTINF:0,Antenne Kärnten Greatest Hits
+https://live.antenne.at/ghs-ak
+#EXTINF:0,Antenne Steiermark Greatest Hits
+https://live.antenne.at/ghs
 #EXTINF:0,apollo radio))) - Dresden
 https://streams.bcs-systems.de/apollo/live/dresden/mp3/radio.de
 #EXTINF:0,apollo radio))) - Chemnitz
@@ -763,8 +767,6 @@ https://dbc.ice.infomaniak.ch/dbc-96.mp3
 https://stream.laut.fm/deepsunbeachfunk?ref=radiode
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,Diego Primavera Radio
 https://stream.zeno.fm/c1fa6x66vhruv
 #EXTINF:0,Diferente104 FM
@@ -1779,8 +1781,6 @@ http://stream-40.zeno.fm/f7fz8x1ap98uv?zs=8Ga_CHPrQjq0jNORQR-U2Q
 https://studio24.radiolize.com/radio/8050/radio.mp3
 #EXTINF:0,Radio Populair
 http://kathy.torontocast.com:3720/stream
-#EXTINF:0,Radio Portales Clasica
-https://cdn.instream.audio:9536/stream
 #EXTINF:0,Radio Proglas
 https://icecast2.play.cz/proglas128
 #EXTINF:0,Radio PTY
@@ -2060,7 +2060,7 @@ http://uprxstreamer.usu.edu:8000/stream
 #EXTINF:0,Utah Public Radio - Too
 http://uprxstreamer.usu.edu:8002/stream
 #EXTINF:0,Variance FM
-http://162.19.67.217:8290/variance
+https://proxy-eu.webradio.tools/radio.variancefm.com:8000/variance
 #EXTINF:0,velez fm
 http://stream.zeno.fm/k31xhtf4ckhvv
 #EXTINF:0,Venice Classic Radio
@@ -2179,8 +2179,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WGTEFM_SC
 https://stream.cinradio.org/wguc
 #EXTINF:0,Jazz on WGUC 
 https://stream.cinradio.org/jazz
-#EXTINF:0,WHFC - Harford Community Radio 91.1 FM
-http://stream.whfc911.org:18688/stream/1/
+#EXTINF:0,WHFC 91.1 FM
+https://s36.myradiostream.com/:18688/;
 #EXTINF:0,WHQR - 91.3 FM
 https://whqr.streamguys1.com/whqr_hd1?
 #EXTINF:0,WHRF - whro Classical - 98.3 FM
