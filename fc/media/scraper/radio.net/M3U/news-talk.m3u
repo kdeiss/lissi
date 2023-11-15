@@ -75,8 +75,6 @@ http://streamingraddios.net:7997/stream/1/
 https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3
 #EXTINF:0,Emisora Colon FM
 http://200.58.112.14:11955/
-#EXTINF:0,Emisoras ABC
-http://174.127.75.88:8190/stream
 #EXTINF:0,Radio En Ba Mango
 http://s10.myradiostream.com:4212/stream/1/
 #EXTINF:0,Radio Enlace 107.5 FM
@@ -269,6 +267,8 @@ https://stream.gemininetwork.it/gemini
 https://stream.zeno.fm/fkhnrayaps8uv
 #EXTINF:0,GHANA ICE RADIO
 http://stream.zeno.fm/dq32gkvc038uv
+#EXTINF:0,Ghanawaves
+https://stream.zenolive.com/yp9sds3kkq5tv
 #EXTINF:0,GLL-Radio
 http://r-gll.de:8000/gll.mp3
 #EXTINF:0,Global News Radio 980 CKNW
@@ -349,6 +349,8 @@ https://stream.radiohertz.de/hertz-hq.mp3
 https://c11.radioboss.fm:18187/stream
 #EXTINF:0,historyradio.org
 https://stream.radiojar.com/6bmecgg3wd5tv
+#EXTINF:0,HLN
+https://tunein.streamguys1.com/cnnhln?
 #EXTINF:0,hochschulradio 97.1 FM Düsseldorf
 http://listen.hochschulradio.de:58000/hsr-192.m3u
 #EXTINF:0,Horizon Talk Radio Network
@@ -1677,6 +1679,8 @@ http://s4.viastreaming.net:8935/;
 https://streams.nwpr.org:8443/NWPRNEWS
 #EXTINF:0,Northern Sound
 https://edge.audioxi.com/NORTHERNSOUND
+#EXTINF:0,Noticias Generacion News
+http://server7.servistreaming.com:10007/stream?type=.mp3
 #EXTINF:0,Notipress Internacional
 https://stream.zeno.fm/s298wd9xvk8uv?rj-tok=AAABfJGNsxUAgBjg2KoAVqNVsA&rj-ttl=5
 #EXTINF:0,Radio NOUR FM - Sikasso
@@ -1991,6 +1995,8 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
+#EXTINF:0,Rádio Assembleia Minas Gerais
+http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -2199,8 +2205,6 @@ http://helderberg.highquality.radiostream.co.za/
 https://stream.radiohelsingor.dk/rh
 #EXTINF:0,Radio Hertz AM
 https://player.painelvox.com/player-ssl/8310/;
-#EXTINF:0,Radio HIT 94.9 FM
-http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:0,Rádio Horizonte
 https://horizonte-radiohorizonte.radioca.st/stream
 #EXTINF:0,Radio Huancavilca
