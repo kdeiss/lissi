@@ -75,6 +75,8 @@ http://streamingraddios.net:7997/stream/1/
 https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3
 #EXTINF:0,Emisora Colon FM
 http://200.58.112.14:11955/
+#EXTINF:0,Emisoras ABC
+http://174.127.75.88:8190/stream
 #EXTINF:0,Radio En Ba Mango
 http://s10.myradiostream.com:4212/stream/1/
 #EXTINF:0,Radio Enlace 107.5 FM
@@ -977,6 +979,8 @@ http://stream.abacast.net/direct/cherrycreek-konaamaac-ibc4
 https://crystalout.surfernetwork.com:8001/KONP_MP3
 #EXTINF:0,KONTRAFUNK – Die Stimme der Vernunft
 https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
+#EXTINF:0,Kroode Radio International
+http://hydra.shoutca.st:8238/
 #EXTINF:0,Kool 105.5 
 https://streamdb7web.securenetsystems.net/cirrusencore/index.cfm?stationCallSign=WGKL
 #EXTINF:0,KOOP 91.7 FM
@@ -2249,6 +2253,8 @@ https://sonic.radiostreaminglatino.com/8098/stream
 https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-garanhuns-audio-web.sdp/playlist.m3u8
 #EXTINF:0,Rádio Jornal - Pesqueira
 https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-pesqueira-audio-web.sdp/playlist.m3u8
+#EXTINF:0,Rádio Jornal - Petrolina
+https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-petrolina-audio-web.sdp/playlist.m3u8
 #EXTINF:0,Radio Kimuri 100.6 FM
 https://stream.zeno.fm/a6bxrnucz38uv
 #EXTINF:0,Radio KLA
@@ -2335,6 +2341,10 @@ http://stream.radiomundo.uy:8000/2.mp4
 http://generalrodriguez.gob.ar:8000/radio
 #EXTINF:0,Radio Mystery Theater USA
 https://ais-sa3.cdnstream1.com/2800_128.mp3
+#EXTINF:0,Radio Nacional de Honduras
+https://stream.zeno.fm/mb5f69fk0d0uv
+#EXTINF:0,Radio Nacional de Honduras Oficial
+http://stream-59.zeno.fm/wxsfkbgk0d0uv?zs=7tfrjMx3SUW59gSO5ntfrA
 #EXTINF:0,Radio Nacional
 http://eu2.serviaudio.com:23116/
 #EXTINF:0,Radio Naropa - satsangs 24/7
@@ -3293,8 +3303,6 @@ https://ic1.sslstream.com/wcsm-fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3
 #EXTINF:0,WCTC 1450
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCTCAM_SC
-#EXTINF:0,WCUP - Eagle Radio 105.7 FM
-http://stream.up.net:8000/WCUP
 #EXTINF:0,WCVE 88.9 FM / WMVE 90.1 FM / WCNV 89.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCVEFM_SC
 #EXTINF:0,RIPR : The Public's Radio 89.3FM
