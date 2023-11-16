@@ -593,6 +593,8 @@ https://live.leanstream.co/CKCBFM
 https://live.stream.charivari.de/955charivari-maedelsabend?aggregator=radiode
 #EXTINF:0,95.5 Charivari Pur
 https://live.stream.charivari.de/955charivari-pur?aggregator=radiode
+#EXTINF:0,95.5 LITHIUM
+http://streaming01.serverconnectinc.site:8000/stream
 #EXTINF:0,CFWD-FM 96.3 Cruz FM
 http://ais-sa1.streamon.fm/7254_64k.aac
 #EXTINF:0,96 Palmas FM
@@ -1241,8 +1243,6 @@ http://yayin.asymedya.com:8020/;
 https://stream.zeno.fm/yg1gkzwabzzuv
 #EXTINF:0,AS.Radio
 https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream
-#EXTINF:0,Assembleia de Deus Alem Paraiba
-https://s08.maxcast.com.br:8218/live?id=1576834561749
 #EXTINF:0,Assembleia de Deus Icoaraci
 https://sonicpanel.oficialserver.com:7059/stream
 #EXTINF:0,Radio Asturias
@@ -3321,6 +3321,8 @@ https://stream.dashitradio.de/dashitradio/mp3-128/?ref=radiode
 https://ice55.securenetsystems.net/DASH19
 #EXTINF:0,Davet FM
 https://stream.radiojar.com/ggu0fd6qu2wtv.mp3
+#EXTINF:0,WEB RADIO D'BOA
+https://ssl.xcast.com.br:9818/stream/1/
 #EXTINF:0,dBs 101.9 FM Banjarmasin
 http://i.klikhost.net:8612/stream/1/
 #EXTINF:0,Dee 106.3
@@ -3449,6 +3451,8 @@ http://65.108.124.70:9702/stream
 http://streaming08.maxcast.com.br:8014/live
 #EXTINF:0,Digitalmix Radio
 http://streaming2.locucionar.com:8302/stream
+#EXTINF:0,Digital Music Life
+https://live.digitalmediaverse.fun:8000/radio.mp3
 #EXTINF:0,DIG RADIO
 https://listen.radioking.com/radio/101614/stream/140401
 #EXTINF:0,Diktyo Radio
@@ -3617,6 +3621,8 @@ http://stream.nsp.se:8000/DFM_AAC_Hi
 https://usa10.fastcast4u.com:1410/stream
 #EXTINF:0,Durance FM
 https://durance-radio.ice.infomaniak.ch/durance-radio.mp3
+#EXTINF:0,Durisima Stereo
+https://play8.tikast.com/proxy/durisimastereo?fbclid=IwAR2TdhL2mgxEyl3NfY9bRKv2Et50S8XPTCPNymQT8jUzgIcrLHlRo0EXxzY&mp=%2Fstream
 #EXTINF:0,Dynamic-radio évent
 http://listen.radionomy.com/dynamic-la-radio
 #EXTINF:0,dynamicradio
@@ -3729,8 +3735,6 @@ https://stream9.mexiserver.com/8292/stream
 https://cdn.instream.audio/:9062/stream
 #EXTINF:0,El Sol - Bogotá
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9b89aa9ace684913b815/playlist.m3u8
-#EXTINF:0,El Super Duende Radio
-http://server.efrasystem.com:7062/stream/1/
 #EXTINF:0,El Tenderero Colombiano
 https://stream.zeno.fm/s12agaf29gruv
 #EXTINF:0,El Toque Stereo
@@ -4165,6 +4169,8 @@ https://ice.actve.net/web-e2-top40
 https://streamingenmexico.com:7097/stream
 #EXTINF:0,Exa FM Celaya
 http://144.217.67.108:9148/stream/1/
+#EXTINF:0,Exa FM Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOAAC.aac
 #EXTINF:0,Exclusively Carole King
 https://streaming.exclusive.radio/er/caroleking/icecast.audio
 #EXTINF:0,Exclusively The Police
@@ -4411,8 +4417,6 @@ https://streaming01.shockmedia.com.ar:10834/stream?icy=http
 http://stm2.sejaguia.com.br:25218/streamstream/1/stream/1/
 #EXTINF:0,FM Cable A Tierra 95.7
 https://server.laradio.online/proxy/miguel_gomez01?mp=/stream&1623047704967
-#EXTINF:0,FM Cariló
-http://fmcarilo.ddns.net:8000/;
 #EXTINF:0,FM Centro 89.7
 http://www.genexservicios.com:8204/
 #EXTINF:0,FM City 101.9
@@ -5793,8 +5797,6 @@ https://listen.radionomy.com/jeffradiohit
 https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
 #EXTINF:0,Jelli Joy Turk 
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO.mp3
-#EXTINF:0,Jequitibá FM
-http://server06.srvsh.com.br:7984/stream/1/
 #EXTINF:0,JGM Radio México
 https://stream.zeno.fm/s0k33kwctqzuv
 #EXTINF:0,Jhanjar Radio
@@ -5913,8 +5915,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC
 https://stream.zeno.fm/t3k6y546hg8uv
 #EXTINF:0,KAOI 1110 AM
 https://ice10.securenetsystems.net/KAOIAM
-#EXTINF:0,Kaolin FM 88.4 St Yrieix-La-Perche
-https://hosting.studioradiomedia.fr:1865/stream
 #EXTINF:0,Karadeniz FM 98.2
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 #EXTINF:0,Karadeniz Sesi FM
@@ -6497,8 +6497,6 @@ https://ice10.securenetsystems.net/KQSC
 https://ice8.securenetsystems.net/KQTC
 #EXTINF:0,KQUL Classic Hits - Cool 102.7 FM
 http://stream.radiojar.com/q68rwgwwpv8uv
-#EXTINF:0,K-Radio
-https://s4.radio.co/sb6aa6c355/listen
 #EXTINF:0,KralTürk
 https://live.radyositesihazir.com/8032/stream
 #EXTINF:0,KRBL 105.7 The Red-Dirt Rebel
@@ -9869,8 +9867,6 @@ https://stream.laut.fm/radioamati107?ref=radiode
 https://stream.laut.fm/radio-am-deich_de?ref=radiode
 #EXTINF:0,Radio Amoras
 https://stream.laut.fm/radio-amoras?ref=radiode
-#EXTINF:0,Radioamorecatanzaro
-https://stream.laut.fm/radioamorecatanzaro?ref=radiode
 #EXTINF:0,radio-andreas8
 https://stream.laut.fm/radio-andreas8?ref=radiode
 #EXTINF:0,Radioapex
@@ -12079,6 +12075,8 @@ https://stream.radyolarburada.com/radio/8000/playlist.m3u8
 https://stream.zeno.fm/mr2fp3nxveruv
 #EXTINF:0,Radio Meteor Belgium
 https://streams.movemedia.eu/meteor
+#EXTINF:0,Métis FM
+https://str0.creacast.com/metisfm
 #EXTINF:0,Metro 2 Radio
 https://stream.zeno.fm/s53v017yr5quv
 #EXTINF:0,Metro 95.1 FM
@@ -12139,6 +12137,8 @@ https://stream.zeno.fm/d62pbqzkug0uv
 http://64.20.39.8:8131/stream/1/
 #EXTINF:0,Midwest Radio FM
 https://edge-audio-03-gos2.sharp-stream.com/midwestfmie.mp3
+#EXTINF:0,Mi Gente Radio
+http://51.15.160.78:8154/
 #EXTINF:0,Miled Music Éxitos Inglés
 https://miledmusic47-cybertec.radioca.st/stream
 #EXTINF:0,Milenials Radio
@@ -14733,6 +14733,8 @@ http://live7.livemus.com.br:27492/stream/1/
 https://s06.hstbr.net:8042/live
 #EXTINF:0,Radio Cidade Pato Branco
 https://audio01.viaflux.com:1460/live.aac
+#EXTINF:0,Rádio Cidade Rosário do Ivai
+https://ssl.xcast.com.br:7150/;
 #EXTINF:0,Radio Cidade Sol FM
 https://player.ifantasy.com.br/proxy/9586/
 #EXTINF:0,Rádio Cidade Verde 105.3 FM
@@ -15451,6 +15453,8 @@ http://stream.lokalradio.nrw/444zwd6
 http://stream.lokalradio.nrw/444zqn6
 #EXTINF:0,radiohaiti soukem
 http://stream.zenolive.com/z6asxmw1ruquv
+#EXTINF:0,Radio Hallo
+https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3
 #EXTINF:0,Radio Hana
 https://icecast8.play.cz/hana128.mp3
 #EXTINF:0,Radio Happysound
@@ -15461,8 +15465,6 @@ http://stream.lokalradio.nrw/444zwkf
 https://stream.lokalradio.nrw/444zqtf
 #EXTINF:0,Radio Hispanohablante
 https://technoplayerserver.net/8016/stream
-#EXTINF:0,Radiohit 99.7 Honduras
-http://stream.zeno.fm/cf7azhtr3qruv
 #EXTINF:0,Radio hitexpress
 https://s3.genx-stream.de:8402/
 #EXTINF:0,Radio Hit FM 
@@ -16099,8 +16101,6 @@ http://wz3.dnip.com.br/mulher/mulher.stream/playlist.m3u8
 http://stm3.conectastreaming.com:8562/stream/1/
 #EXTINF:0,Radio Mundo Baleares
 http://streaming01.shockmedia.com.ar:8540/stream/1/
-#EXTINF:0,Radio Municipal 90.9
-http://server4.hostradios.com:8428/;
 #EXTINF:0,Radio Municipal de Teror
 https://radioteror.teror.es/stream/
 #EXTINF:0,Radio Municipal de Tui
@@ -18255,8 +18255,6 @@ https://rtvsellingen.stream.laut.fm/rtvsellingen
 http://167.114.118.120:7280/stream
 #EXTINF:0,Rude 88.2 FM
 http://78.129.228.187:8034/;
-#EXTINF:0,Rumba Sabrosa
-https://radioenhd.com:7036/;
 #EXTINF:0,Rumbera Stereo
 https://radio30.virtualtronics.com:20064/;
 #EXTINF:0,Rumo ao Sertão
@@ -19513,8 +19511,6 @@ https://radio-trttrabzon.live.trt.com.tr/master.m3u8
 https://nmicenotrt.mediatriple.net/trt_turku.aac
 #EXTINF:0,TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:0,True Radio
-https://streaming.live365.com/a49212
 #EXTINF:0,Rádio TSF Madeira
 https://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:0,TSF Madeira
@@ -20401,8 +20397,6 @@ https://ice23.securenetsystems.net/WJAS?ref=radiode
 https://ice23.securenetsystems.net/WJCP
 #EXTINF:0,WJDQ - Q101 101.3 FM
 https://live.amperwave.net/manifest/mississippibroadcasters-wjdqfmaac-hlsc1.m3u8
-#EXTINF:0,WJEW-LP Jireh Radio
-http://stream2.305stream.com:8232/live
 #EXTINF:0,WJEZ - Classic Hits 98.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJEZFM.mp3
 #EXTINF:0,WJJK - Classic Hits 104.5 FM
