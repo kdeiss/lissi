@@ -11,8 +11,6 @@ http://107.181.227.250:8118/stream
 https://streaming.radio.co/s188e71c13/listen
 #EXTINF:0,101TheVibeFM Radio
 https://streaming.radio.co/s188e71c13/listen
-#EXTINF:0,103.1 WEUP
-https://playerservices.streamtheworld.com/api/livestream-redirect/WEUPFM_SC
 #EXTINF:0,103.7 Da Beat
 http://s18.myradiostream.com:8742/listen.mp3
 #EXTINF:0,103.7 Da Beat FM
@@ -583,7 +581,7 @@ https://cast6.asurahosting.com/tunein/first_up_radio_106.pls
 https://stream.radio.co/s74e130a62/listen
 #EXTINF:0,Flava
 https://ais-nzme.streamguys1.com/nz_010_aac
-#EXTINF:0,Flava 107
+#EXTINF:0,Flava107.Com
 http://s2.voscast.com:9304/;stream.nsv
 #EXTINF:0,Flava1 Radio
 https://streaming.live365.com/a97040
@@ -704,7 +702,7 @@ http://c5.hostingcentar.com:9543/
 #EXTINF:0,HD 96.3 FM
 https://live.amperwave.net/manifest/eldorado-katjhd2aac-ibc2
 #EXTINF:0,Helia
-https://audio.lucaslempereur.fr/general
+https://audio.opensky.radio:7443/listen/test/public.mp3
 #EXTINF:0,Helia - Hits 2021
 https://audio.lucaslempereur.fr/hits2021
 #EXTINF:0,HHLS Radio
@@ -932,7 +930,7 @@ https://player.enderchest.club/server1/8174?1591252186194
 #EXTINF:0,KISS FM – OLDSCHOOL R’N’B
 https://stream.kissfm.de/kissfm-oldschool-rnb/mp3-128/?ref=radiode
 #EXTINF:0,KISS FM UK
-https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=7ac94c3a8d173bbfb26e530d70858134&aw_0_1st.bauer_listenerid=7ac94c3a8d173bbfb26e530d70858134&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1693563832&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPw58kAPw58kAAGABCENDRCsAP_AAEPAAAYgIzNFxG5USTFAMG59YJtwKIQXw1BgYKAhBgABA4AASJIAJJQCVEAaJACIAiACAAYAIEIBAAAAEAEAAAAAYIEBIACEAEEAJAAAIAAAEEAAAAAAAAAMAIAAUAIAAEBWEhEggAQAYBIASMAAAgAACQAQCAgEAACAAgAAAAAAQAAAAAAAAAAAgAAAAAAAgAQAABBBOAaAAgAC4AnACEAE_ALqAa8A7YB-wFcgMEAbQBBMBIJAsAAQAAuACgAKgAZAA4AB4AEAAMgAaABEACOAEwAJ4AVQAzABtADeAHMAPwAhABEgCOAFKAMoAdwA_QCAAEUAIwASYAlIBPwDFAIdAUeAtgBeYDDQGSAMnAauA28ByYEEwgAwAEgAigBzgEDAI4ATsA6oCkAFNgK5AXUAxYNADAIAAdUBDoYAEAbIA6giAGAQAA6oCHRAAEAEgoACAdUYABAOqOgYAALgAoACoAGQAOAAgABcADIAGgARAAjgBMACeAFUAMQAZgA2gBvADmAH4ARIAnABRgClAGUANEAfoBAwCKAEWAIwASYAlIBPwDFAHUAQ6AlSBR4FIAKsAWwAu0BeYDDQGSAMnAZYA28ByY4AkACQAKAAigBHADkAHOAO4AgABEQCOAE7AOqAmQBTYCuQFqALqAYsQgKAALAAoABkAFwATAAqgBiADeAI4AUoAygB3AEUAJSAYoA6gCVAFWAMnAcARAAgH7IABQByADnAI4AdUA7ZKAuAAgABYAFAAMgAcACIAEcAJgAVQAxACJAEcAKMAxQB1AEOgKPAWwAvMBkgDJwG3gOAJABwAyADuAIAARwA6oDFgGWFIE4AC4AKAAqABkADgAIAAaABEACOAEwAJ4AUgAqgBiADMAHMAPwAiQBRgClAGUANEAfoBFgCMAEpAOoAe0BDoCkAFWALYAXaAvMBhoDJAGTgMsAbeA5MqABAP2UAHAAkABkAGQANoAjgByADnAHcAQAAxQB1QDtgKbAYsAAA.YAAAAAAAAAAA&aw_0_1st.permutiveid=f6c91584-a11b-4d30-a874-5096b0828528&aw_0_1st.octave_covatic=9999
+https://stream-kiss.planetradio.co.uk/kissnational.aac
 #EXTINF:0,KISSTORY
 https://tx.planetradio.co.uk/icecast.php?i=kisstory.mp3
 #EXTINF:0,KJLH - Radio Free 102.3 FM
@@ -1297,6 +1295,10 @@ https://stream.radiofrance.fr/mouvrnb/mouvrnb.m3u8
 https://direct.mouv.fr/live/mouvxtra-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,MoveRadio 
 https://listen.openstream.co/3422/audio
+#EXTINF:0,Radio MRS 90.5 FM
+http://radiostreamone.mine.nu:19050/;
+#EXTINF:0,MRS
+http://radiostreamone.mine.nu:19050/listen.pls
 #EXTINF:0,Music2dance2radio
 http://stream.radiojar.com/c7v71f1dqueuv
 #EXTINF:0,Musical Heatwave
@@ -1577,7 +1579,7 @@ https://radiorecord.hostingradio.ru/yo96.aacp
 https://stream.regenbogen.de/hiphop/aac-128/radiode
 #EXTINF:0,Radio Remind FM
 https://s2.voscast.com:12435/live
-#EXTINF:0,Radio Rimini
+#EXTINF:0,Groove95
 https://mediaserv68.live-streams.nl:18053/stream
 #EXTINF:0,Radio S4
 https://5bc45691ca49f.streamlock.net/asmedia/gradski/playlist.m3u8
@@ -1848,7 +1850,7 @@ http://streaming.live365.com/a35282
 #EXTINF:0,Stratus Radio
 https://streaming.live365.com/a11829
 #EXTINF:0,StreamD
-https://streamd.streampanel.cloud/ext/listen.m3u
+https://live.streamd.de/streamd-live/mp3-192/?ref=radiode
 #EXTINF:0,StreamD Heimat
 https://heimat.streamd.de/streamd-heimat/mp3-192/?ref=radiode
 #EXTINF:0,street One radio 
@@ -1863,8 +1865,6 @@ https://playoutonestreaming.com/proxy/sugar1?mp=%2Fstream
 https://funalpesradio.ice.infomaniak.ch/funalpes.mp3
 #EXTINF:0,Sunshine fl Maat
 https://stream-150.zeno.fm/6fv9gscnsv8uv
-#EXTINF:0,Super Soul Gold Radio
-http://cassini.shoutca.st:8277/
 #EXTINF:0,Super Throwback Party Radio
 http://hestia.cdnstream.com:80/1543_128
 #EXTINF:0,Supreme Clientele Radio

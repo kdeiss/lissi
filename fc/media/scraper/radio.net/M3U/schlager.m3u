@@ -141,7 +141,7 @@ https://stream.antenne.de/das-schlager-karussell/stream/mp3?aw_0_1st.playerid=ra
 https://stream.antennethueringen.de/dorfkind/mp3-128/radiode/
 #EXTINF:0,Antenne Unna - Dein Schlager Radio
 https://stream.lokalradio.nrw/44524fx
-#EXTINF:0,Antenne verrückte Stunde
+#EXTINF:0,Antenne Steiermark verrückte Stunde
 https://live.antenne.at/cra
 #EXTINF:0,arabella GOLD
 https://frontend.streams.arabella.at/arabella-gold?aggregator=radio-at
@@ -195,6 +195,8 @@ https://apollo.rserve.de:7007/;
 https://stream.ffn.de/radiobollerwagen/mp3-192/
 #EXTINF:0,Bosveld Stereo 107.5 FM
 https://iceant.antfarm.co.za:8000/Bosveld
+#EXTINF:0,Bremer-Weser-Welle
+https://stream01.script24.net:9144/stream/1/
 #EXTINF:0,Belgischer Rundfunk 2 BRF2
 https://streaming.brf.be/brf2-high.mp3
 #EXTINF:0,Radio Brocken Fetenhits
@@ -235,8 +237,6 @@ http://stream.dance-music-radio.de:8000/stream/1/
 https://stream2-alfacast-hosting.com/8140/stream
 #EXTINF:0,Danzamagic
 http://217.160.188.250:8000/stream/1/
-#EXTINF:0,Das Durchgeknallte Radio
-https://das-durchgeknallte-radio.de:8102/;
 #EXTINF:0,Radio Dauerbrenner
 http://server34835.streamplus.de:12500
 #EXTINF:0,De Beste Piratenhits
@@ -428,7 +428,7 @@ http://server35683.streamplus.de:12074
 #EXTINF:0,Hitpool Radio
 http://apollo.rserve.de:9932/;
 #EXTINF:0,HitPower-Radio.com 
-https://azuracast.ns01-spx.onyxnetwork.de/listen/hitpower-radio/steam/320/mp3
+https://ls100.systemweb-server.eu/listen/hitpower_radio/hpr1.mp3
 #EXTINF:0,Hitradio 4 you 
 http://94.23.6.107:8505/;stream.nsv
 #EXTINF:0,Hitradio - Bodensee
@@ -449,10 +449,10 @@ https://s2.free-shoutcast.com/stream/18012
 http://s2.genx-stream.de:9050
 #EXTINF:0,hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
-#EXTINF:0,hr4 Mitte
-https://dispatcher.rndfnk.com/hr/hr4/mitte/mp3/high?aggregator=radio-de
-#EXTINF:0,hr4 Nord
-https://dispatcher.rndfnk.com/hr/hr4/nord/mp3/high?aggregator=radio-de
+#EXTINF:0,hr4 Mittelhessen
+http://dispatcher.rndfnk.com/hr/hr4/mitte/high?aggregator=radio-de
+#EXTINF:0,hr4 Nordhessen
+http://dispatcher.rndfnk.com/hr/hr4/nord/high?aggregator=radio-de
 #EXTINF:0,hr4 Osthessen
 http://dispatcher.rndfnk.com/hr/hr4/osthessen/high?aggregator=radio-de
 #EXTINF:0,Hit Radio FM 
