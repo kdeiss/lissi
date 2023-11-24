@@ -215,6 +215,8 @@ http://fopradio.out.airtime.pro:8000/fopradio_a
 https://stream.zeno.fm/b8bdfg68z4zuv
 #EXTINF:0,Formula 1120 AM
 http://45.169.236.3:8000/formula-mp3
+#EXTINF:0,Forte FM
+https://servidor20.brlogic.com:8250/live
 #EXTINF:0,FOX News
 https://live.amperwave.net/manifest/foxnewsradio-foxnewsradioaac-imc
 #EXTINF:0,Fox Sports Abilene
@@ -351,8 +353,6 @@ https://stream.radiojar.com/6bmecgg3wd5tv
 http://listen.hochschulradio.de:58000/hsr-192.m3u
 #EXTINF:0,Horizon Talk Radio Network
 http://s5.voscast.com:8528/;stream1645513980486/1
-#EXTINF:0,Rádio Hospício Tricolor
-http://servidor39.brlogic.com:8624/live?type=.m3u
 #EXTINF:0,Radio HRN la Voz de Honduras
 https://ice42.securenetsystems.net/HRN
 #EXTINF:0,Humor FM Humor Non-Stop
@@ -429,8 +429,6 @@ http://server8.20comunicacion.com:8200/;
 http://icecasthd.net:8425/live
 #EXTINF:0,Íris FM
 http://centova.radio.com.pt:8529/stream/1/
-#EXTINF:0,Isekai Anime Radio
-https://cast.isekaianimeradio.net/radio/8000/radio.mp3
 #EXTINF:0,Isle of Wight Radio
 http://s4.xrad.io:8018/stream/1/
 #EXTINF:0,Israeli voice radio
@@ -1239,8 +1237,6 @@ http://134.121.234.129:8000/NWPRNEWS
 https://ais-sa1.streamon.fm/7679_48k.aac?listenerId=esTrackblock081220&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1688544447&aw_0_req.gdpr=true
 #EXTINF:0,KWVH
 https://ice41.securenetsystems.net/KWVH
-#EXTINF:0,KWVR 1340 AM
-http://198.135.178.57:9002/stream
 #EXTINF:0,KWWN - ESPN Radio 1100 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAM.mp3
 #EXTINF:0,KWWS Northwest Public Radio
@@ -1795,8 +1791,6 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
-#EXTINF:0,SBC Paradise FM
-https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -2093,8 +2087,6 @@ http://streaming.enantena.com:8000/cubelles128.mp3
 https://usa5.fastcast4u.com/proxy/radiocultura?mp=/1
 #EXTINF:0,Radio Cumbre
 http://radio.transmite.pe:9330/stream
-#EXTINF:0,Radio Del Pueblo 830 AM
-http://streaming.radiolinksmedia.com:7830/;
 #EXTINF:0,Radio Delta Metković
 https://ec2s.crolive.com.hr/RadioDelta
 #EXTINF:0,Radio Dial 670 AM
@@ -2939,8 +2931,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHWNFM_SC.mp3
 https://colombiawebs.com.co/proxy/stream320?mp=/stream
 #EXTINF:0,Radio Tele Ole Haiti
 https://stream.zenolive.com/4ht0s8s8bveuv
-#EXTINF:0,Teletica Radio 91.5 FM
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8?ver=233845
 #EXTINF:0,Radio Television Caraibes
 https://stream.zenolive.com/k34s66uz20duv
 #EXTINF:0,Terminal de Noticias Radio
