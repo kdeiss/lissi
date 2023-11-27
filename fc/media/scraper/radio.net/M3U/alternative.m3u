@@ -265,6 +265,8 @@ https://stream.zeno.fm/h7gb0gra508uv
 https://bigrradio.cdnstream1.com/5132_128
 #EXTINF:0,BBC Radio 6 Music
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_6music.m3u8
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,RadioBDC
 https://playerservices.streamtheworld.com/api/livestream-redirect/INDIE617AAC.aac
 #EXTINF:0,Be 99.7 FM
@@ -455,6 +457,8 @@ https://conestoga.leanstream.co/CJIQFM
 http://162.244.80.106:8067/;
 #EXTINF:0,Classic 21 Underground
 https://radio.rtbf.be/c21-under/mp3-128/rf
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Coast Rock FM
 https://www.coastrockfm.com.au/live
 #EXTINF:0,coloRadio
@@ -593,6 +597,8 @@ https://s5.radio.co/s7b616a338/listen
 https://mx.hdaudiostreaming.com/8224/stream
 #EXTINF:0,El Túnel Rock
 http://163.172.198.16:8014/;stream.mp3
+#EXTINF:0,emmeradio music and social
+https://cast.server89.com:8100/radio.mp3
 #EXTINF:0,Engenharia Rádio
 http://engradio.fe.up.pt:8080/live
 #EXTINF:0,enginalkus
@@ -673,10 +679,10 @@ https://stream.zeno.fm/0snf1r835k0uv
 http://radio.dawgtalkers.net:8000/listenAAA
 #EXTINF:0,Radio free FM
 https://stream.freefm.de/Studio
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,FreeRockRadio
 https://streamingv2.shoutcast.com/freerockradio
-#EXTINF:0,Freies Radio Freudenstadt
-https://s3.fairprice-streams.de:9148/stream
 #EXTINF:0,Freies Radio Kassel
 https://www.freies-radio-kassel.de/stream/FRKStream2.m3u
 #EXTINF:0,FreshRadioUS
@@ -763,6 +769,8 @@ http://stream.zeno.fm/j3ifqszo6r4uv
 http://sc.dattalive.com:8160/stream
 #EXTINF:0,Houndstooth Radio
 https://stream.radiojar.com/2q2dbmeqazwtv
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,SonicaAlternative
 https://ssl1.viastreaming.net:8005/stream/1/
 #EXTINF:0,IdeasFV
@@ -821,8 +829,6 @@ http://streamplus18.leonex.de:11076/stream/1/
 https://login-eu.lightmanstreams.com/listen/joedillanfm-a-z/live
 #EXTINF:0,Joli Beatles
 https://stream.zeno.fm/eb191706e3quv
-#EXTINF:0,JT Radio
-https://streaming.live365.com/a47781
 #EXTINF:0,Jumbo Office Radio
 https://stream.zeno.fm/0aea3pg0smzuv
 #EXTINF:0,Just Another Radio
@@ -1443,8 +1449,6 @@ https://stream.laut.fm/unsinn?ref=radiode
 https://stream.laut.fm/untergrund-freestyle?ref=radiode
 #EXTINF:0,up_the_irons
 https://stream.laut.fm/up_the_irons?ref=radiode
-#EXTINF:0,Vdren
-https://stream.laut.fm/vdren?ref=radiode
 #EXTINF:0,verolog
 https://stream.laut.fm/verolog?ref=radiode
 #EXTINF:0,violence_vacance
@@ -1529,6 +1533,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC135_SC
 https://streaming.live365.com/a91014
 #EXTINF:0,Maurice Radio Libre
 https://radio13.pro-fhi.net/live/MauriceRadioLibre
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,max neo 106.5
 https://cast.maxneo.de/maxneo-hq.mp3
 #EXTINF:0,MDR SPUTNIK
@@ -1599,6 +1605,8 @@ https://www.radioking.com/play/my-indie-radio
 https://5a44e5b800a41.streamlock.net/shoutcast/mp4:naba.stream/playlist.m3u8
 #EXTINF:0,Naim Radio
 http://mscp3.live-streams.nl:8360/flac.flac
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Neckaralb Live – Alternative
 https://neckaralblive.ip-streaming.net/alternative
 #EXTINF:0,Neu Indie Radio
@@ -1625,6 +1633,8 @@ https://radio.streemlion.com:1915/stream
 https://centova.hostingtico.com:7006/stream
 #EXTINF:0,NPO 3FM KX Radio
 https://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRK P13
 https://lyd.nrk.no/nrk_radio_p13_mp3_m
 #EXTINF:0,Nu Rock Radio
@@ -1763,6 +1773,8 @@ https://purerock.radioca.st/stream/1/
 https://live.radiostudio.be/pxl.m3u
 #EXTINF:0,QCindie.com
 https://stream.qcindie.com/live
+#EXTINF:0,Q Relajo
+https://one.cloudstreaming.eu/proxy/delgadl1/stream
 #EXTINF:0,QSRock.Radio
 http://142.44.135.172:8361/stream
 #EXTINF:0,Racoon Radio
@@ -1899,8 +1911,6 @@ http://63.247.65.202:8183/stream
 http://5.135.183.124:8041/stream
 #EXTINF:0,RadioGram
 https://stream.zeno.fm/h024mdrn8mzuv
-#EXTINF:0,Radio Grande Brive
-http://80.15.101.128:8006/live
 #EXTINF:0,Radio Hausmannstätten
 http://s4.myradiostream.com:7932/listen.m4a
 #EXTINF:0,Radio HIT 94.9 FM
@@ -1967,6 +1977,8 @@ https://nova-ln.ice.infomaniak.ch/nova-ln-128
 https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
 #EXTINF:0,Radio Nowhere
 https://i.streams.ovh:9364/autodj
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,RADIO OASIS MOLLENDO
 https://stream.zeno.fm/7dssuxapb0juv
 #EXTINF:0,Radio One
@@ -1997,6 +2009,8 @@ https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3
 https://radio.streemlion.com:2795/stream
 #EXTINF:0,Radio Radieschen
 https://radioradieschen.stream.kapper.net/radioradieschen
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio Robotic
 http://stream.zeno.fm/zfrvvmtkmrhvv.m3u
 #EXTINF:0,Radio Rock Br Web
@@ -2025,6 +2039,8 @@ https://listen.radioking.com/radio/120313/stream/159811
 https://laut.fm/radio-dragon-beat
 #EXTINF:0,Radio Studio Cantabria
 https://hispa.duckdns.org:444/stream.mp3
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Sylvia
 https://securestreams.autopo.st:1056/;
 #EXTINF:0,Radio Télé Boussol.CA
@@ -2451,8 +2467,6 @@ https://unisabana.out.airtime.pro/unisabana_a
 http://streaming.radionomy.com/Up-DownYourockradio
 #EXTINF:0,urgent fm
 http://urgentstream.radiostudio.be:8000/aac
-#EXTINF:0,vdren archive
-https://stream.laut.fm/vdren?ref=radiode
 #EXTINF:0,VillageRadio.Net
 https://streaming.live365.com/a73319
 #EXTINF:0,Vinculo FM

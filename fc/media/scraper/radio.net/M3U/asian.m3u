@@ -25,8 +25,6 @@ http://stream.akaashfm.com:8000/live
 https://listen.radioking.com/radio/504205/stream/561655
 #EXTINF:0,AMR HINDI
 https://strw1.openstream.co/2009
-#EXTINF:0,A-Radio Medan
-https://a1.siar.us/radio/8270/radio.mp3
 #EXTINF:0,Aran FM
 https://centova32.instainternet.com/proxy/aranfm?mp=/stream
 #EXTINF:0,Ara Ara!
@@ -39,6 +37,8 @@ https://cast1.torontocast.com:2120/;
 https://studio26.radiolize.com/radio/8160/radio.mp3
 #EXTINF:0,BBC Asian Network
 https://stream.live.vc.bbcmedia.co.uk/bbc_asian_network
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Big B Radio #Cpop Station 
 https://antares.dribbcast.com/proxy/cpop?mp=/s
 #EXTINF:0,Big B Radio #Jpop Station
@@ -59,8 +59,6 @@ http://atlanticthai.primcast.com:5898/stream/1/
 http://79.111.119.111:8000/fareast
 #EXTINF:0,CCR Namaste
 https://stream.zeno.fm/fnmzc0ncec9uv
-#EXTINF:0,CDS 104.8 FM Dumai
-https://live.cdsfmdumai.com:8062/;stream.nsv
 #EXTINF:0,Cherry Radio News TIN TỨC
 https://stream.zeno.fm/9ca113gfgrruv
 #EXTINF:0,Cherry Radio Brief TRỮ TÌNH
@@ -71,6 +69,8 @@ http://svara-stream.radioddns.net:8000/citrafmkendal_mono
 https://strw1.openstream.co/867?aw_0_1st.collectionid%3D3661%26stationId%3D3661%26publisherId%3D891%26k%3D1661776390
 #EXTINF:0,Classy 103.4 FM
 http://classyfm.onlivestreaming.net:1034/stream/1/
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,COOL fahrenheit
 https://coolism-web3rd.cdn.byteark.com/stream/1/
 #EXTINF:0,Desi Radio
@@ -89,12 +89,16 @@ http://eastfm-atunwadigital.streamguys1.com/eastfm
 http://103.28.149.117:8032/stream
 #EXTINF:0,BPRS ERAFM UNJ
 http://scg.streamingmurah.com:8194/stream
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,GBS Vancouver
 https://cdsaws.s3-us-west-2.amazonaws.com/GBS_files/702/1607310250.mp3
 #EXTINF:0,GTR.FM - Gokulam Tamil Radio
 http://eu4.fastcast4u.com:5252/;stream.mp3&13202692901
 #EXTINF:0,Hamara Radio
 https://radio.adeeltek.com/listen/hamara/radio.mp3
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,icprm radio 
 https://stream.zeno.fm/y7bffdd1q0quv
 #EXTINF:0,Ilocos Music Online Radio
@@ -107,8 +111,6 @@ https://stream.radiojar.com/u6ppe6hswk8uv
 https://stream.radiojar.com/qfqd2aw80k8uv
 #EXTINF:0,iradio Jakarta 89.6 FM
 https://n04.radiojar.com/4ywdgup3bnzuv?
-#EXTINF:0,iradio Jogja 88.7 FM
-https://stream.radiojar.com/hnf2cbv80k8uv
 #EXTINF:0,iradio Medan 98.3 FM
 https://stream.radiojar.com/hkuevehswk8uv
 #EXTINF:0,Isan Radio
@@ -171,6 +173,8 @@ https://listen-lycaradio.sharp-stream.com/1458.mp3
 http://listen.radionomy.com/mairadio
 #EXTINF:0,Matrix 93.2 FM
 http://live.radiomatrixfm.com:8000/;
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,MBS 92.7 FM
 http://51.79.167.17:7000/airtime_128
 #EXTINF:0,MCOT Chumphon
@@ -207,10 +211,14 @@ https://astro1.rastream.com/melody
 http://c4.siar.us:8790/stream
 #EXTINF:0,MY
 https://astro1.rastream.com/myfm
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Nikoya 106 FM
 https://a2.siar.us/listen/nikoyafm/live
 #EXTINF:0,fcams radio your radio, your music
 http://stream.zeno.fm/umqefzzq6rhvv
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,OSAI FM
 https://astro4.rastream.com/osai
 #EXTINF:0,OZ Radio Bandung
@@ -235,8 +243,14 @@ http://us9.streamingpulse.com:7058/stream
 http://209.97.134.54:8000/radiofaza
 #EXTINF:0,Radio Muara 693 AM Jakarta
 http://45.64.97.82:8778/;stream.nsv
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Prabhat
 https://studio.radioprabhat.com:8020/radio.mp3
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio XL
 https://xlradio.co.uk:8000/stream/1/
 #EXTINF:0,rajiokakumeifmpro
@@ -255,8 +269,6 @@ https://svara-stream.radioddns.net:8443/padang_responfm_mp3
 https://stream.zeno.fm/g372rxef798uv
 #EXTINF:0,REYFM #KPOP
 https://listen.reyfm.de/kpop_320kbps.mp3
-#EXTINF:0,RJM 91.5 FM
-http://live.rjmfm.com:8078/stream/1/
 #EXTINF:0,Radio Pelita Kasih 96.3 FM
 https://streaming.classynetradio.com:8040/rpkfm
 #EXTINF:0,Radio Sagarmatha 102.4
@@ -297,6 +309,8 @@ http://live.canstream.co.uk:8000/unity24.mp3
 https://onlineradio.websoftitnepal.com/8030/stream/1/
 #EXTINF:0,Vanavil FM
 https://s7.yesstreaming.net:9000/stream
+#EXTINF:0,VDesi
+https://ice66.securenetsystems.net/WVDESI
 #EXTINF:0,WDCT - Washington Radio 1310 AM
 http://173.79.89.14/broadwave.mp3?
 #EXTINF:0,WreckinDaGameRadioakaTheDream

@@ -261,8 +261,6 @@ https://az1.sslstreaming.com/listen/asfaltradio/radio.mp3
 https://ssl.srvstm.com:8712/stream/1/
 #EXTINF:0,Attic Radio
 http://s3.radio.co/scac4b4c83/listen.m3u
-#EXTINF:0,AudioSet
-https://radios.yanapak.org/AudioSet
 #EXTINF:0,Radio Augusta International
 https://ecmanager4.pro-fhi.net:2660/stream/1/
 #EXTINF:0,Aurora Sertaneja
@@ -293,6 +291,8 @@ https://bigrradio.cdnstream1.com/5130_128
 http://203.45.50.147:88/broadwave.mp3
 #EXTINF:0,Bayislands radio
 http://usa2.fastcast4u.com/proxy/kevinsch?mp=/1
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Beach Party Radio
 https://stream.zeno.fm/g857h6zha3quv
 #EXTINF:0,Beat FM
@@ -490,7 +490,7 @@ https://classichitsradio.streamingmedia.it/play
 #EXTINF:0,CLASSIC HITS RADIO (USA)
 https://classichitsradio.streamingmedia.it/usa
 #EXTINF:0,Classic Hits WBLE
-https://hello.citrus3.com:8376/
+http://stream.radiojar.com/rwaectdpd5uvv
 #EXTINF:0,Classic Jams Radio
 https://listen.radionomy.com/classicjamsradio
 #EXTINF:0,Classic Long Island Radio
@@ -519,6 +519,8 @@ http://sonic.dattalive.com:8100/
 http://s7.voscast.com:8504/stream/1/
 #EXTINF:0,Club Trifal - Lounge
 http://stream.trifal.com:8000/lounge
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Coast FM Classic Gold
 http://213.175.217.198:8000/coast-gold
 #EXTINF:0,Color Classic FM 96.1
@@ -741,8 +743,10 @@ https://stream-50.zeno.fm/fncn4zpm54zuv?zs=Y9UTnUY8TJGj8R8r-XuqgA
 https://xxdelgado.radioca.st/;
 #EXTINF:0,Free Radio Luxembourg FRL
 https://www.radioking.com/play/rfm-luxembourg/137599
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Frequence funk
-https://srv.webradiomanager.fr:2145/stream?x=1687359551716
+https://srv.webradiomanager.fr:2145/stream
 #EXTINF:0,FRESH GOLD RADIO
 https://freshgol.radioca.st/stream
 #EXTINF:0,Fresh Wave
@@ -875,6 +879,8 @@ https://streaming.hotmixradio.fr/hotmix-gold-fr-mp3
 https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,Hit Radio FM 
 https://streaming.hitfm.rs/hit.mp3
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Huella Musical
 http://s3.myradiostream.com:4458/;
 #EXTINF:0,Hypa Vybz Radio
@@ -1377,6 +1383,8 @@ https://sail.yachtrockmiami.com/radio/8020/radio.mp3
 https://sonic.dattalive.com/8276/stream
 #EXTINF:0,Matiz al Suave Radio
 http://192.99.232.79:8106/stream/1/
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,Max Radio - Canada
 http://simplecast.maxradio.ca:8555/Max.aac.m3u
 #EXTINF:0,MBCradio
@@ -1453,6 +1461,8 @@ http://michael.msccdn.com:8080/;
 http://radiolatina.info:9752/
 #EXTINF:0,Music80s Stereo
 https://stream.zeno.fm/qa29r0es1f8uv
+#EXTINF:0,Radio Musicalisima 89.1
+http://109.169.76.104:37100/;
 #EXTINF:0,MusicRadio JLEO
 http://67.212.165.106:8159/listen.html
 #EXTINF:0,MusicRocks Radio
@@ -1483,6 +1493,8 @@ https://radio.myhitmusic.de/Toms-Club70s-aac.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/MY_PERTH_DAAC_SC
 #EXTINF:0,Namib Radio 
 https://s20.reliastream.com:8018/stream
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,NBC Milano
 https://nr7.newradio.it:19350/stream
 #EXTINF:0,NBC Milano We Play Again!
@@ -1506,7 +1518,7 @@ http://stream.n-music.tk:8000/stream/1/
 #EXTINF:0,Noksanlar Kenti
 https://ip169.ozelip.com:10952/stream
 #EXTINF:0,NonStopOldies 
-https://s18.myradiostream.com/:9676/listen.mp3
+https://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:0,North Coast's Greatest Hits
 http://radio.dawgtalkers.net:8000/listen
 #EXTINF:0,Radio Nostalgia Piemonte
@@ -1531,6 +1543,8 @@ https://stream.zeno.fm/yb37sxcmdv8uv
 http://stm6.xcast.com.br:11762/stream/1/
 #EXTINF:0,NPO Radio 2
 https://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,Nostalgie Music Station
 https://c32.radioboss.fm/stream/139
 #EXTINF:0,Nuevo Mundo
@@ -1999,14 +2013,18 @@ http://retrolive.radionoise.ro:9120/listen.pls
 https://stream.zeno.fm/8f5p6suzqa0uv
 #EXTINF:0,RADIONOVA
 https://s3.shoutitaly.com/proxy/radionova?mp=/stream
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Obozrevatel Best of Old
 https://radio-stream-0.obozrevatel.com/Old128.mp3
 #EXTINF:0,Radio Onda Libera GOld
-https://stream10.xdevel.com/audio2s977483-2055/stream/icecast.audio
+https://stream10.xdevel.com/audio0s977483-2053/stream/icecast.audio
 #EXTINF:0,Radio One
 http://hts04.kshost.com.br:8134/stream/1/
 #EXTINF:0,Radio Padova History
 https://sphera.fluidstream.eu/rpd_history.mp3?FLID=3&aw_0_req.gdpr=true&type=.mp3
+#EXTINF:0,Radio Paiper
+http://radiopaiper.ddns.net:8000/stream/1/
 #EXTINF:0,Radio Panamby Online
 https://serverssl.deradios.stream/8178/;
 #EXTINF:0,Radio Paradiso Berlin
@@ -2053,6 +2071,8 @@ https://stream.zeno.fm/xkg1uzfbfv8uv
 http://onair15.xdevel.com:9082/;
 #EXTINF:0,RADIO RELAX Italia
 https://radiorelax.streamingmedia.it/play
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio Release
 https://mscp3.live-streams.nl/8140/live
 #EXTINF:0,Radio Renacer en Cristo
@@ -2064,7 +2084,7 @@ https://ssl.painelcast.com:7586/stream
 #EXTINF:0,Radio Rock
 https://stream.zeno.fm/cbw0z9hzy68uv
 #EXTINF:0,RADIO ROCKLINE
-https://ice.creacast.com/rockline
+https://ice.creacast.com/rockline_classic
 #EXTINF:0,Radio Romance FM
 https://s5.stmxp.net:7024/stream/1/
 #EXTINF:0,Radio Románticas
@@ -2119,6 +2139,8 @@ http://stm1.jnbhost.com.br:7014/stream
 http://nr9.newradio.it:9630/stream
 #EXTINF:0,Radio Sucesso 24 horas
 https://stream.zeno.fm/9pdthqkhd2zuv
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Tágide
 https://radiotag.radioca.st/stream
 #EXTINF:0,Radio Tamar 
@@ -2311,8 +2333,6 @@ https://radio2.pro-fhi.net/radio/9039/stream
 https://stream.zeno.fm/ukp7fzugvg0uv/;
 #EXTINF:0,SABROZA 98.7
 https://laradiossl.online:10191/live
-#EXTINF:0,Salsa4te
-http://server1.visiotec.it:8100/stream/1/
 #EXTINF:0,Samui Island Radio
 https://us2new.listen2myradio.com:2199/listen.php?port=10040&type=s2&mount=/stream.mp3
 #EXTINF:0,RADIO SAUDADE

@@ -123,7 +123,7 @@ http://antenna5stream.neotel.mk:8000/live32
 https://stream.antenne1.de/soft/livestream1.aac?usid=M-A-04-0-0
 #EXTINF:0,Antenne AC - Dein Lounge Radio
 https://stream.antenneac.de/444zt56
-#EXTINF:0,ANTENNE BAYERN Lounge
+#EXTINF:0,ANTENNE BAYERN Lounge - Weihnachtslounge 
 https://stream.antenne.de/lounge/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,ANTENNE BAYERN - Relax
 https://stream.antenne.de/relax/stream/mp3?aw_0_1st.playerid=radio.de
@@ -131,7 +131,7 @@ https://stream.antenne.de/relax/stream/mp3?aw_0_1st.playerid=radio.de
 https://stream.antenne.de/chillout/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Antenne Düsseldorf - Dein Lounge Radio
 https://stream.antenneduesseldorf.de/444zskf
-#EXTINF:0,ANTENNE MÜNSTER - Dein Lounge Radio
+#EXTINF:0,Antenne Münster - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zttf
 #EXTINF:0,Relax - Antenne Niedersachsen
 https://stream.antenne.com/relax/mp3-128/radiode/
@@ -181,6 +181,8 @@ https://streams.barbaradio.de/live/mp3-192/homepage/?context=fHA6LTE%3D&aw_0_1st
 https://streams.barbaradio.de/fuessehoch/mp3-192/radiode/
 #EXTINF:0,& Strandbar. Von barba radio
 https://streams.barbaradio.de/strandbar/mp3-192/radiode/
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,BB RADIO - Deutsch Relax
 https://streambbr.ir-media-tec.com/deutsch-relax/mp3-128/radiode_web_mp3/
 #EXTINF:0,BB RADIO - Soft
@@ -279,8 +281,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30289/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 https://scdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-ZEN
 #EXTINF:0,chillectro
 https://listen.radionomy.com/chillectro
-#EXTINF:0,Chill House Musik
-https://stream.laut.fm/chillhosemusik?ref=radiode
 #EXTINF:0,CAFÉ | Soulside Radio
 https://radio2.vip-radios.fm:18068/stream-128kmp3-CafeSoulside
 #EXTINF:0,Chill In Zone 
@@ -337,6 +337,8 @@ http://sl-2396.cdnstream.com/1487_128
 http://sl-2396.cdnstream.com/1469_128
 #EXTINF:0,cliqhop idm
 https://ice2.somafm.com/cliqhop-128-mp3
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Concertzender November Music
 https://streams.greenhost.nl:8006/novembermusic
 #EXTINF:0,Contact Chill
@@ -589,6 +591,8 @@ https://fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162
 https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:0,Francophonie Express
 https://www.radioking.com/api/radio/francophonie-express.m3u
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Free Yuor Mind
 https://stream.zeno.fm/n71uxcyc5p8uv
 #EXTINF:0,Fréquence Terre
@@ -669,6 +673,8 @@ https://streaming.hotmixradio.fr/hotmix-lounge-en-mp3
 https://streaming.hotmixradio.fr/hotmix-sport-en-mp3
 #EXTINF:0,HouseStationRadio
 http://sr9.inmystream.info:8178/stream/1/
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Hunter.FM - Tropical
 https://hls.hunter.fm/tropical/192.m3u8
 #EXTINF:0,Hunter.FM - Lo-Fi
@@ -813,8 +819,6 @@ https://stream.laut.fm/chilled-beats?ref=radiode
 https://stream.laut.fm/chillfm?ref=radiode
 #EXTINF:0,chillharmonie
 https://stream.laut.fm/chillharmonie?ref=radiode
-#EXTINF:0,Chillhosemusik
-https://stream.laut.fm/chillhosemusik?ref=radiode
 #EXTINF:0,chillout
 https://stream.laut.fm/chillout?ref=radiode
 #EXTINF:0,chillout-archiv
@@ -1141,6 +1145,8 @@ https://s35.derstream.net/lounge.mp3
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Massive Chilled
 https://stream.jtsmedia.uk/radio/8060/massivechilled
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,M.Deep Radio
 https://deephousex.ru///live
 #EXTINF:0,RadioArt: Meditation
@@ -1185,6 +1191,8 @@ http://stream01.my105.ch/my105chill.mp3
 http://stream01.my105.ch/my105jackpotsradio.mp3
 #EXTINF:0,Myhitmusic - SENZA CHILL
 https://radio.myhitmusic.de/Senza-aac.mp3
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,RadioArt: Nature
 https://live.radioart.com/fNature.mp3
 #EXTINF:0,Naviar Radio
@@ -1198,7 +1206,7 @@ https://live.radioart.com/fNew_age.mp3
 #EXTINF:0,New Bytes
 https://sonic.dattalive.com/8450/stream
 #EXTINF:0,NE-WS 89.4 - Dein Lounge Radio
-http://stream.news894.de/444ztw6
+https://stream.news894.de/444ztw6
 #EXTINF:0,Nivel20
 https://listen.radioking.com/radio/100408/stream/139171
 #EXTINF:0,Nordic Chillout Radio
@@ -1207,6 +1215,8 @@ https://nordicbeatradio.radioca.st/stream/1/
 http://radio.streemlion.com:1160/stream/1/
 #EXTINF:0,North Shore Music FM
 https://server35795.streamplus.de/stream.mp3
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRJ CHILL
 https://scdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Chill
 #EXTINF:0,NRJ DEEP
@@ -1327,8 +1337,6 @@ https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/256/chunks.
 https://s3.voscast.com:10545/stream
 #EXTINF:0,Czwórka - Polskie Radio Program 4 
 https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
-#EXTINF:0,Progressive FM
-https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Positively Birdsong
 https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
 #EXTINF:0,Positively Cascade
@@ -1419,8 +1427,6 @@ https://frontend.streamonkey.net/fantasy-lounge/stream/mp3?aggregator=Radio_de
 http://78.129.229.120:8055/;
 #EXTINF:0,Radio \"4YOU\"
 https://myradio24.org/2455
-#EXTINF:0,Radio Grande Brive
-http://80.15.101.128:8006/live
 #EXTINF:0,Radio Hagen - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zszp
 #EXTINF:0,Radio Herne - Dein Lounge Radio
@@ -1448,7 +1454,7 @@ https://ais-sa2.cdnstream1.com/2209_128.mp3
 #EXTINF:0,Radio Master
 http://stream-54.zeno.fm/c3v0v4gqwtzuv?zs=D2hrpSGMS4SubIeHGDBnXg
 #EXTINF:0,Radio MK - Dein Lounge Radio
-https://stream.lokalradio.nrw/444ztkf
+https://stream.lokalradio.nrw/445cvn8
 #EXTINF:0,more.fm Lounge
 https://more.fm/
 #EXTINF:0,Radio Mülheim - Dein Lounge Radio
@@ -1458,11 +1464,13 @@ https://antares.dribbcast.com/proxy/radiomussol?mp=/stream
 #EXTINF:0,Radio Nature
 https://stream.zeno.fm/sfpqezsh6f0uv
 #EXTINF:0,Radio Neandertal - Dein Lounge Radio
-https://stream.radioneandertal.de/444ztn6
+https://stream.radioneandertal.de/445cy9t
 #EXTINF:0,Radio Nueva Jerusalen 103.3 FM
 https://stream.zeno.fm/0e48x1g7608uv
 #EXTINF:0,Radio Nula Beatz
 https://strm.radionula.com/lounge
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Oberhausen - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zvhp
 #EXTINF:0,Radio Obozrevatel Lounge
@@ -1484,9 +1492,9 @@ https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio RSG - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zv3f
 #EXTINF:0,Radio RST - Dein Lounge Radio
-https://stream.lokalradio.nrw/444zv8p
+https://stream.lokalradio.nrw/445dwxj
 #EXTINF:0,Radio Rur - Dein Lounge Radio
-https://stream.lokalradio.nrw/444zshp
+https://stream.lokalradio.nrw/445b8cj
 #EXTINF:0,100% Chillout - Radios 100FM
 https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8
 #EXTINF:0,100% Deep - Radios 100FM
@@ -1498,21 +1506,23 @@ https://stream.lokalradio.nrw/444zt8p
 #EXTINF:0,radio SAW Relax
 https://stream.saw-musikwelt.de/saw-relax/mp3-192?ref=radiode
 #EXTINF:0,Radio Siegen - Dein Lounge Radio
-https://stream.lokalradio.nrw/444zv56
+https://stream.lokalradio.nrw/445dqmd
 #EXTINF:0,RadioSOL International
 https://stream.radiosol.at/webstream
 #EXTINF:0,Radio SOL EASY
 http://sol.anw.at:8023/easy
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Vest - Dein Lounge Radio
-https://stream.lokalradio.nrw/444ztzp
+https://stream.lokalradio.nrw/445dj98
 #EXTINF:0,Radio Vibra Mix
 https://stream.zeno.fm/tvba9382b5zuv
 #EXTINF:0,Radio WMW - Dein Lounge Radio
-https://stream.lokalradio.nrw/444zsbf
+https://stream.lokalradio.nrw/4459yct
 #EXTINF:0,Radio Wrocław
 http://stream4.nadaje.com:9240/prw
 #EXTINF:0,Radio Wuppertal - Dein Lounge Radio
-http://stream.radiowuppertal.de/444zvfx
+https://stream.radiowuppertal.de/445f6x8
 #EXTINF:0,RadiOzora CHILL
 http://chill.out.airtime.pro:8000/chill_a
 #EXTINF:0,Rain Music Radio
@@ -1799,6 +1809,8 @@ http://5.39.68.114:8046/;
 http://unsung80s.out.airtime.pro:8000/unsung80s_a
 #EXTINF:0,Vanilla Radio - Smooth Flavors
 https://smooth.vanillaradio.com:8006/live
+#EXTINF:0,VDesi
+https://ice66.securenetsystems.net/WVDESI
 #EXTINF:0,Vibration Lounge
 https://vibrationlounge.ice.infomaniak.ch/vibrationlounge.mp3
 #EXTINF:0,VIKLAND
@@ -1838,7 +1850,7 @@ http://sc7.shoutcaststreaming.us:2199/tunein/c8502.pls
 #EXTINF:0,Welcome To Rapture
 http://carol.epichosts.co.uk:8520/rapture.aac
 #EXTINF:0,Welle Niederrhein - Dein Lounge Radio
-http://stream.welleniederrhein.de/444ztfx
+https://stream.welleniederrhein.de/445cpb4
 #EXTINF:0,LA West Coast Radio
 http://91.121.59.45:8412/stream
 #EXTINF:0,Global Chillout by World Fusion

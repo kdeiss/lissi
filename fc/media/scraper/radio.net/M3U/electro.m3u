@@ -233,10 +233,10 @@ http://nr5.newradio.it:8728/stream
 https://kathy.torontocast.com:2930/stream
 #EXTINF:0,ADR Radio
 http://s7.citrus3.com:8450/stream
-#EXTINF:0,Africa N°1
+#EXTINF:0,Africa Radio
 https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
-#EXTINF:0,Africa N°1 - Africa Club
-https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:0,Africa Radio Club
+https://webradio1.ice.infomaniak.ch/webradio5-128.mp3
 #EXTINF:0,AH.FM
 https://fr.ah.fm/live
 #EXTINF:0,AfterPM
@@ -488,7 +488,7 @@ https://s11.streamcaster.eu:8243/stream1/;listen.pls
 #EXTINF:0,Best Radio 1
 https://player.bestradio1.hits1radio.com
 #EXTINF:0,BESTRADIO BRASIL
-https://best.viaflux.com/radio/8000/radiode
+http://best.viaflux.com/radio/8000/radiode
 #EXTINF:0,BETTER RADIO
 https://panel.betteradio.live:1040/stream
 #EXTINF:0,BFBS Beats
@@ -1065,8 +1065,6 @@ http://naxos.cdnstream.com/1366_128
 http://209.133.210.170:8190/stream/1/
 #EXTINF:0,Dance Nation FM
 https://stream.zeno.fm/ph0e8ptph98uv
-#EXTINF:0,Dance Radio 1
-https://onair7.xdevel.com/proxy/xautocloud_1rm1_1616?mp=/;1/
 #EXTINF:0,Dance Radio Amsterdam
 http://stream.danceradio.nl:9920/
 #EXTINF:0,Dance Radio Rotterdam
@@ -1757,8 +1755,6 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
-#EXTINF:0,Fun Radio Dance
-https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -2085,8 +2081,6 @@ https://ssl1.viastreaming.net:8820/;listen.mp3
 https://ssl1.viastreaming.net:8915/;listen.mp3
 #EXTINF:0,IBIZA X RADIO
 https://stream.radiojar.com/p1f2vpv37reuv
-#EXTINF:0,Iced Radio
-https://stream.zeno.fm/xv1cvubu9c0uv
 #EXTINF:0,ICE RADIO WALDKRAIBURG 6 CLUB DANCE
 https://irw.tunefm.de:8510/stream
 #EXTINF:0,IceRadio
@@ -4283,6 +4277,8 @@ https://manager5.streamradio.fr:1105/stream
 http://194.87.101.204:8002/MixCult_Ambient_320kbps
 #EXTINF:0,MixFeever
 https://listen.mixfeever.com/feevermix
+#EXTINF:0,MixFm 101.5
+https://streaming.live365.com/a85758
 #EXTINF:0,Mix FM 102.3
 https://link.radiojar.com/c27wx6pdh8vtv
 #EXTINF:0,Mix FM Santarém
@@ -4525,8 +4521,6 @@ https://listen.nolife-radio.com/stream
 https://listen.nonstopstreaming.net/nsd
 #EXTINF:0,Non-Stop Hitradio
 https://jenny.torontocast.com:8002/nshitradio
-#EXTINF:0,NonStopPlay Pure Dance
-http://stream.nonstopplay.co.uk/nsppd-128k-mp3
 #EXTINF:0,Noods radio
 https://noodsradio.com/listen
 #EXTINF:0,Nordic Chillout Radio
@@ -4939,6 +4933,8 @@ https://sp.oyotunstream.com:10923/;stream.nsv
 http://toradio.cc/radio/8000/stream
 #EXTINF:0,Power 88
 https://us2.maindigitalstream.com/ssl/POWER88
+#EXTINF:0,Power963.net
+https://livessl.rcast.net/stream/67107/
 #EXTINF:0,Power 963.net
 http://live.rcast.net:8748/;
 #EXTINF:0,Power Club
@@ -5129,8 +5125,6 @@ https://www.radioking.com/play/radioagita
 http://nr11.newradio.it:9157/gold
 #EXTINF:0,Radio Alfaguara
 https://srv7021.dns-lcinternet.com/8062/stream
-#EXTINF:0,Rádio Alien
-http://stm9.painelcast.com:6680/stream/1/
 #EXTINF:0,Radio Ambiance Attitude
 http://stream.zeno.fm/qcyh6x5f8yzuv
 #EXTINF:0,Radio Amiga
@@ -5381,8 +5375,6 @@ https://malta1122.startdedicated.de:9000/intime_128
 http://185.105.4.100/proxy/radioinv?mp=%2Fstream
 #EXTINF:0,Radio Jeans - House Tecno Dance
 http://streaming.radiojeans.net/rj_dance.m3u
-#EXTINF:0,Radio Junior
-https://stream.votreradiosurlenet.eu/radiojunior.mp3
 #EXTINF:0,Radio Kampus 97,1 FM
 https://stream.open.fm/337
 #EXTINF:0,Radio Kec Internacional
@@ -5439,8 +5431,6 @@ http://team-data.ba:8040/stream/1/
 http://live.radiomiraj.ro:9952/stream/1/
 #EXTINF:0,Radio Mix Deejay
 https://ssl.srvstm.com:9454/stream/1/
-#EXTINF:0,Radio Mix Floor
-https://listen.radioking.com/radio/514/stream/63685
 #EXTINF:0,Radio Mix Riobamba
 https://stream.zeno.fm/sf5prozqc99uv
 #EXTINF:0,Radio Mix RMX
@@ -5725,8 +5715,6 @@ https://player.painel-stm.com/proxy/6760
 https://nr2.newradio.it/proxy/seiresrl?mp=/stream
 #EXTINF:0,Radio Única
 https://ns7.emisionlocal.com/proxy/radiounica0?mp=/stream
-#EXTINF:0,Radio Vacío 
-https://stream.zeno.fm/7qbu66b2kwzuv
 #EXTINF:0,Radio Vanessa FM 
 http://s1.slotex.pl:7358/stream/1/
 #EXTINF:0,Radio Vertigo One
@@ -6035,8 +6023,6 @@ http://srv1.iorehost.com.br:7356/stream/1/
 http://78.129.228.187:8034/;
 #EXTINF:0,rundspruch.net
 https://solid9.streamupsolutions.com/proxy/kmqvxqfq/live
-#EXTINF:0,rundspruch.net Dance
-https://fra-pioneer08.dedicateware.com:1315/stream
 #EXTINF:0,RussianFM
 http://radio.russianfm.de:8000/;
 #EXTINF:0,Radio Russkaya Reklama.
@@ -6348,7 +6334,7 @@ https://stream.sunshine-live.de/house/mp3-192/radiode/
 #EXTINF:0,sunshine live - Ibiza
 https://stream.sunshine-live.de/ibiza/mp3-128/radiode/
 #EXTINF:0,sunshine live
-https://stream.sunshine-live.de/live/aac-64/radiode/
+https://stream.sunshine-live.de/live/mp3-192/radiode/
 #EXTINF:0,sunshine live - Party
 https://stream.sunshine-live.de/party/mp3-128/radiode/
 #EXTINF:0,sunshine live - Lounge
@@ -6927,8 +6913,6 @@ https://broadcast.wssr.stream/radio/8000/radio.mp3
 http://mp3.wunschradio.de/wunschradio-dance.mp3
 #EXTINF:0,WWRX - Jammin 107.7 FM
 https://crystalout.surfernetwork.com:8001/WWRX_MP3
-#EXTINF:0,X1 POP Radio
-http://x1.xsminternet.com:58090/stream/1/
 #EXTINF:0,X-Clusief FM
 https://linux26.live-streams.nl:18000/
 #EXTINF:0,XDJM RADIO | ADDICTIVE MUSIC 24/7
