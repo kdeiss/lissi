@@ -57,8 +57,6 @@ http://sc-jamz.1.fm:8052/;
 https://wdr-1live-hiphoprnb.icecast.wdr.de/wdr/1live/hiphoprnb/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,1LIVE Mix der Woche
 https://wdr-1live-mixderwoche.icecast.wdr.de/wdr/1live/mixderwoche/mp3/128/stream.mp3?aggregator=radio-de
-#EXTINF:0,1XL Radio
-https://streaming.live365.com/a13844
 #EXTINF:0,2000 FM - RNB and Hip Hop
 http://bigrradio.cdnstream1.com/5105_48
 #EXTINF:0,2000 FM - RnB Hip-Hop
@@ -213,6 +211,8 @@ https://stream.zeno.fm/uf424zqfuuhvv
 https://stream.radioplay.fi/nrj/nrj_64.aac
 #EXTINF:0,Bates FM - 104.3 Jamz
 https://bigrradio.cdnstream1.com/5129_128
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,BB RADIO - Party & Dance
 https://streambbr.ir-media-tec.com/partydance/mp3-128/radiode_web/
 #EXTINF:0,BBR X-STREET
@@ -235,6 +235,8 @@ http://s5.radio.co/s6ced31cad/listen.m3u
 https://streaming.live365.com/a91412
 #EXTINF:0,bigFM
 https://stream.bigfm.de/deutschland/aac-128/radiode
+#EXTINF:0,bigFM Baden-Württemberg
+https://stream.bigfm.de/bw/mp3-128/radiode
 #EXTINF:0,bigFM Berlin
 https://stream.bigfm.de/berlin/aac-64/radiode
 #EXTINF:0,bigFM Bremen
@@ -429,6 +431,8 @@ https://ice64.securenetsystems.net/CKFG
 http://64.20.39.8:8010/stream/1/
 #EXTINF:0,Clube da Black Music
 https://servidor37-2.brlogic.com:8066/live
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,College Underground Radio
 https://streamer.radio.co/sbc698b4e9/listen
 #EXTINF:0,Commish Radio
@@ -639,6 +643,8 @@ http://streaming.live365.com/a83207
 https://stream.freefm.de/Studio
 #EXTINF:0,Free Radio Santa Cruz
 http://audio.str3am.com:5110/
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,FREESTYLE BEAT
 http://cc6.streammaximum.com:8024/stream
 #EXTINF:0,French touch FM
@@ -829,6 +835,8 @@ http://streaming.radionomy.com/HotNewHipHopRadio
 https://cast5.my-control-panel.com/proxy/morris/stream
 #EXTINF:0,Hot Vibez Radio
 http://64.20.36.251:7080/;
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Hunter.FM - Lo-Fi
 https://hls.hunter.fm/lofi/192.m3u8
 #EXTINF:0,IAMC TV Radio
@@ -1647,6 +1655,8 @@ https://livestream.mediaworks.nz/radio_origin/maifm_128kbps/master.m3u8
 https://stream.zeno.fm/p0wp29crmm0uv
 #EXTINF:0,Master FM
 http://hydra.shoutca.st:8178/live
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,MaximumFM.ca Hip Hop
 https://streamingv2.shoutcast.com/maximumfm-hip-hop
 #EXTINF:0,MDR JUMP In the Mix Channel
@@ -1737,6 +1747,8 @@ https://frontend.streamonkey.net/fhn-n904beat?aggregator=radiode
 https://node-04.zeno.fm/thbqnu2wvmzuv?rj-ttl=5&rj-tok=AAABfpx7vscAo0I3lDho_qG_DA
 #EXTINF:0,Nam-Radio
 https://music-station.live/radio/8000/stream/1/
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Nautic Radio Beats 'n Breaks
 http://stream.nauticradio.net:14280/;
 #EXTINF:0,New Dance Radio NL
@@ -1757,6 +1769,8 @@ http://stream.zeno.fm/umqefzzq6rhvv
 http://manager7.streamradio.fr:1360/stream
 #EXTINF:0,FunX
 https://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRG HipHop
 http://live.nrgplay.com/stream/hiphop
 #EXTINF:0,NRJ DnB
@@ -2079,6 +2093,8 @@ https://stream.radioneandertal.de/4458cf3
 https://stream.zeno.fm/m6h6rck061atv
 #EXTINF:0,Radio Noise HipHop
 http://hiphoplive.radionoise.ro:9110/listen.pls
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Okerwelle
 https://stream.okerwelle.de/okw.mp3
 #EXTINF:0,Rádio online Cover mix
@@ -2107,6 +2123,8 @@ https://www.radioking.com/play/radio-rbs-1
 https://radiorecord.hostingradio.ru/mf96.aacp
 #EXTINF:0,Radio Regenbogen - Hip-Hop and R’n‘B
 https://stream.regenbogen.de/hiphop/aac-128/radiode
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio ReyMod
 https://server.streamcasthd.com:7092/stream/1/
 #EXTINF:0,Radio Roberto Solo Emergenti
@@ -2131,6 +2149,8 @@ https://stream.lokalradio.nrw/4458czn
 https://sohostream.djonline.fi:8008/radio
 #EXTINF:0,Hitz FM - Rap
 https://stream.zeno.fm/t3hkprtlrh1uv
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,RADIO THE BEATY
 https://stream.zeno.fm/yiqrliqrbg9vv
 #EXTINF:0,Radio Thor Italia

@@ -25,6 +25,8 @@ http://audio3.cmaudioevideo.com:8508/stream
 https://ice.fabricahost.com.br/atlanticafmpr
 #EXTINF:0,Rádio Band FM 99.7
 https://stm2.xcast.com.br:11264/stream
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Bertina FM
 https://stream.zeno.fm/hsxnyxfqcwzuv
 #EXTINF:0,Brasil Music
@@ -37,6 +39,8 @@ https://stream.zeno.fm/6kumndewqbruv
 https://servidor34.brlogic.com:8112/live
 #EXTINF:0,Rádio Clube FM 100.5 (Ribeirão Preto/SP)
 https://sc4s.cdn.upx.com:8069/stream
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Radio Conexão Online
 https://server18.srvsh.com.br:7478/stream
 #EXTINF:0,Rádio Copas Verdes 101.3 FM
@@ -65,12 +69,16 @@ https://noasrv.caster.fm:10156/live
 https://servidor32.brlogic.com:8184/live
 #EXTINF:0,Forró Top FM
 http://stm16.xcast.com.br:10582/;
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Geração Sertaneja
 https://servidor.geracaoradios.com/radio/8120/stream
 #EXTINF:0,Rádio Geração Sertanejo Universitário
 https://servidor.geracaoradios.com/radio/8020/stream
 #EXTINF:0,Hits FM
 https://stream.zeno.fm/wned6pd8hv8uv
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Hunter.FM - Sertanejo
 https://live.hunter.fm/country
 #EXTINF:0,LANÇAMENTOS - SERTANEJO E SOFRÊNCIA
@@ -81,6 +89,8 @@ https://cc3.streammaximum.com:20053/stream/1/
 https://streaming.radiosenlinea.com.ar/8018/stream
 #EXTINF:0,Rádio Mania 95.5 FM
 https://webradio.amsolution.com.br/radio/8050/mania
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,Mega Mix Web
 http://hts05.kshost.com.br:10126/stream/1/
 #EXTINF:0,MGT Rádio Sertaneja
@@ -93,8 +103,12 @@ https://8086.brasilstream.com.br/stream
 https://stream.zeno.fm/zq2ybv8x238uv
 #EXTINF:0,Mundial Fm
 https://stream.ouveai.com.br/proxy/dimas?mp=/stream
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Rede Nativa 89,3 Campinas 
 https://stm11.xcast.com.br:11276/stream
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,OESTE CAPITAL
 https://streaming.grupoconda.com.br/radio/8000/radio.mp3
 #EXTINF:0,Rádio Olímpia FM
@@ -195,8 +209,10 @@ https://stream.zeno.fm/tdc626rhvbruv
 https://str1.streamhostpg.com.br:8046/stream
 #EXTINF:0,Rádio MS Studio
 http://stream.zeno.fm/2x1c7chv7hhvv
-#EXTINF:0,Rádio Pop Família
-http://sv12.hdradios.net:7928/stream/1/
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Rádio Sat Nova Surubim
 http://stm4.xcast.com.br:8542/listen
 #EXTINF:0,Rádio Sertaneja
@@ -213,6 +229,8 @@ https://stream-162.zeno.fm/lfdwdj7xfantv
 https://stream-154.zeno.fm/duqmhcd1qjyuv
 #EXTINF:0,Radio Sunshine Tocando o seu coração
 https://stream.zeno.fm/xsukm7ye3p8uv
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Rádio Top Sertanejo
 https://live3.livemus.com.br:27348/stream/1/
 #EXTINF:0,Rádio Versátil
@@ -241,8 +259,6 @@ https://srv2.andradedeveloper.net/listen/sertanejapop/radio.mp3
 https://stream.zeno.fm/qcwuy1y3tm0uv
 #EXTINF:0,Radio Sertanjeo Gospel
 https://stm25.xcast.com.br:12228/;
-#EXTINF:0,Sorte Music
-https://server12.srvsh.com.br:8508/stream
 #EXTINF:0,Radio Studio Souto - Rodeio 
 https://centova5.transmissaodigital.com:20034/stream
 #EXTINF:0,Radio Studio Souto - Sertaneja

@@ -5,6 +5,8 @@ https://c18.radioboss.fm:18146/stream
 https://absolut-80er.live-sm.absolutradio.de/absolut-80er?aggregator=radiode
 #EXTINF:0,ampedOut
 https://s12.ssl-stream.com/8006/stream
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Big Dog College FM Radio
 https://streaming.live365.com/a06606
 #EXTINF:0,Radio Caprice - Darkwave/Ethereal
@@ -19,6 +21,8 @@ http://club-red-hell.radio-club-titania.net:8200/;
 https://cast2.my-control-panel.com/proxy/mark1235/stream
 #EXTINF:0,Club Zero Radio
 https://music.clubzeroradio.com:8443/live
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Dark Asylum
 http://94.23.218.80:8020/stream
 #EXTINF:0,Doomed
@@ -31,12 +35,14 @@ https://saurus.streampanel.net/rjmvggsr?mp=/stream
 https://samcloud.spacial.com/api/listen?sid=113442
 #EXTINF:0,EBM Radio
 http://www.ebm-radio.org:7000/hq
-#EXTINF:0,Electro Colombia Radio 2
-https://securestreams.servers58.com:9342/stream
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Gothic Girl Magazine Radio
 https://stream.zeno.fm/3uhy5my7echvv?
 #EXTINF:0,GothVille
 http://gothville.radio:8000/stream
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Industry Radio
 https://industryradio.radioca.st//stream
 #EXTINF:0,BlackSpot
@@ -99,12 +105,24 @@ https://stream.laut.fm/soundwelten?ref=radiode
 https://stream.laut.fm/terahertzwellen?ref=radiode
 #EXTINF:0,LOCA FM Industrial
 http://s02.fjperezdj.com:8076/live
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,ON Gothic
 https://0n-gothic.radionetz.de/0n-gothic.mp3
 #EXTINF:0,Radio Darkitalia
 https://darkitalia.radioca.st/autodj
 #EXTINF:0,Radio Metal
 https://stream.laut.fm/radiometal?ref=radiode
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Sanctuary Radio Main - Dark Electro
 http://192.111.140.6:9772/stream/1/
 #EXTINF:0,Sanctuary Radio Retro 80s

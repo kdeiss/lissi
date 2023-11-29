@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,2BAD Radio
 http://65.108.130.62:6390/stream
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Bob's SKA Radio 
 https://eu8.fastcast4u.com:2199/tunein/chrtre00.pls
 #EXTINF:0,Button Down Radio
@@ -11,10 +13,16 @@ http://79.111.119.111:8000/ska
 http://79.111.119.111:8000/skapunk
 #EXTINF:0,Chaos Radio!
 http://chaosradio.ddns.net/
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Diamond Life
 https://ec1.yesstreaming.net:2305/stream
 #EXTINF:0,FIP autour du reggae
 https://direct.fipradio.fr/live/fip-webradio6.mp3?ID=pd569ib97j
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Indie Imagination Radio
 http://listen.radionomy.com/indieimaginationradio
 #EXTINF:0,Joint Radio Reggae
@@ -49,6 +57,12 @@ https://stream.laut.fm/skaworld?ref=radiode
 https://stream.laut.fm/skullyz-rfr?ref=radiode
 #EXTINF:0,Tuba Skinny New Orleans
 https://stream.laut.fm/1-tubaskinny?ref=radiode
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,Onda Radikal 
 https://stream.zeno.fm/0nbnpzv153duv
 #EXTINF:0,Otros Nosotros
@@ -67,6 +81,12 @@ https://punkirratia.net:8443/punk
 https://streams.radiobob.de/ska/mp3-192/radiode/
 #EXTINF:0,Radio Emergency
 https://www.radioemergency.de/radioemergency.mp3
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Rasta Jah Online
 https://radioenhd.com/8076/stream
 #EXTINF:0,Real Punk Radio

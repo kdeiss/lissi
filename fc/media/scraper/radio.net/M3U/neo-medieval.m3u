@@ -1,12 +1,20 @@
 #EXTM3U
 #EXTINF:0,Ancient FM
 https://mediaserv73.live-streams.nl:18058/stream
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,CEU Medieval Radio
 http://stream3.virtualisan.net:7020/listen.pls
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Radio DarkFire
 http://37.59.82.8:8344/stream/1/
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Heavy Radio - MITTELALTER ROCK
 https://streams.rautemusik.fm/mittelalter/mp3-192/?ref=radiode
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Koboldschänke
 https://stream.laut.fm/koboldschaenke?ref=radiode
 #EXTINF:0,Dark Sound Radio
@@ -49,10 +57,16 @@ https://stream.laut.fm/radio-aena?ref=radiode
 https://stream.laut.fm/rockvibes?ref=radiode
 #EXTINF:0,Spielmann
 https://stream.laut.fm/spielmann?ref=radiode
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,M'era Luna FM
 https://meralunafm.radionetz.de:8001/meralunafm.mp3
 #EXTINF:0,Metal Only
 https://metal-only.streampanel.cloud/stream
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,ON Gothic
 https://0n-gothic.radionetz.de/0n-gothic.mp3
 #EXTINF:0,Radio Aena
@@ -63,6 +77,12 @@ http://ecmanager3.pro-fhi.net:1320/;
 https://regiocast.streamabc.net/regc-radiobobmittelalter7445036-mp3-192-8025500
 #EXTINF:0,Radio Legende
 https://einfach-webradio.de:10443/radio/8050/radio.mp3
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Redstone
 http://server4.streamserver24.com:21448/stream
 #EXTINF:0,Radio Schwarze Welle

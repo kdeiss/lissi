@@ -1337,6 +1337,8 @@ https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/256/chunks.
 https://s3.voscast.com:10545/stream
 #EXTINF:0,Czwórka - Polskie Radio Program 4 
 https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+#EXTINF:0,Progressive FM
+https://stream.zeno.fm/xxmfpdaa7ehvv
 #EXTINF:0,Positively Birdsong
 https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
 #EXTINF:0,Positively Cascade
@@ -1367,8 +1369,6 @@ http://51.255.235.165:5092/;
 http://stream.zeno.fm/sgpeqtzkmzauv.m3u
 #EXTINF:0,R2 Audiovisual Radio
 https://stream.zeno.fm/bufaptza04zuv
-#EXTINF:0,radio24online
-http://icecast2.radio24online.com:9000/radio24online.mp3
 #EXTINF:0,Radio42
 http://www.radio42.eu/playHiFi.pls
 #EXTINF:0,Radio 90,1 - Dein Lounge Radio

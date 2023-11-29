@@ -41,6 +41,8 @@ https://dispatcher.rndfnk.com/br/br2/sued/aac/low?aggregator=radio-de
 https://server3.streamserver-unlimited.de:8769/stream/1/
 #EXTINF:0,Bayerwaldradio
 https://bayerwald.ip-streaming.net/bayerwaldradio-aac
+#EXTINF:0,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Radio Bläss
 https://schwany.streampanel.cloud/10-blaess
 #EXTINF:0,Blasmusik Pur
@@ -61,6 +63,8 @@ http://catsfm2022.cspixel.com:7019/stream/
 http://s4.myradiostream.com:4524/stream/3/
 #EXTINF:0,Civijas Radio
 https://media.srb-streaming.com:9078/stream
+#EXTINF:0,CNN
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Radio Dechovka
 http://icecast5.play.cz:8000/dechovka128.mp3
 #EXTINF:0,DHW1
@@ -75,6 +79,8 @@ https://server33884.streamplus.de/stream/1/
 https://stream.laut.fm/radioenzian
 #EXTINF:0,100% Oktoberfest von Feierfreund
 https://streams.feierfreund.de/oktoberfest/mp3-128/radiode/
+#EXTINF:0,Вільне радіо
+https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Germânia FM oktoberfest
 https://cast4.zadax.com.br:6295/live
 #EXTINF:0,Radio Grüne Welle
@@ -83,6 +89,8 @@ https://nr11.newradio.it:19196/rgwhigh
 https://rhm1.de/listen.mp3
 #EXTINF:0,Radio Herzklang
 http://bone.streampanel.cloud/8-herzklang
+#EXTINF:0,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Janko Hraško
 http://78.24.9.110:31088/;
 #EXTINF:0,0-24_Schlager_Volksmusik
@@ -203,8 +211,14 @@ https://stream.laut.fm/zipfelalm?ref=radiode
 https://stream.laut.fm/zusamstream?ref=radiode
 #EXTINF:0,Radio Lenka
 http://s1.slotex.pl:7028/stream/1/
+#EXTINF:0,MAXIMUM
+https://icecast.luxnet.ua/radio24
 #EXTINF:0,Musikkaennchen 
 https://stream.laut.fm/musikkaennchen?ref=radiode
+#EXTINF:0,Nashe Radio Наше Радио Киев
+https://online.nasheradio.ua/NasheRadio
+#EXTINF:0,NRCU-1 УР1
+http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,Oberkrainer Pur
 https://server3.streamserver-unlimited.de:8309/stream
 #EXTINF:0,Oldieclubradio
@@ -249,16 +263,22 @@ http://server4.streamserver24.com:26311/stream/1/
 http://live.radiomaria.at:8000/rma2
 #EXTINF:0,Radio Melodie
 https://radiomelodie.schlagerparadies.de/radiomelodie
+#EXTINF:0,Radio NV - Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Osttirol
 http://server10956.streamplus.de:28768/stream/1/
 #EXTINF:0,Radiopobla
 https://relay.stream.enacast-cloud.com:40243/pobladevallbonaHD.mp3
+#EXTINF:0,Radio Relax 
+https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,ORF Radio Salzburg
 https://orf-live.ors-shoutcast.at/sbg-q2a
 #EXTINF:0,Radio Silesia
 http://s1.slotex.pl:7350/stream/1/
 #EXTINF:0,Radio Sraka 94,6
 http://193.105.67.24:8006
+#EXTINF:0,Radio Svoboda 
+https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Tell
 https://radiotell.dmd2streaming.com/radiotell.mp3
 #EXTINF:0,Radio Tell - Blasmusik
