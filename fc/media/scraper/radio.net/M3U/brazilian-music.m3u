@@ -229,8 +229,6 @@ http://srv4.ipstm.net:10558/stream/1/
 https://cast.mgtradio.net/radio/8000/radio.aac
 #EXTINF:0,Minas FM
 https://stm01.virtualcast.com.br:8350/stream
-#EXTINF:0,MIX879 FM
-http://str81.aovivonanet.com:9952/;stream.mp3
 #EXTINF:0,Mix Arapiraca
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC_SC
 #EXTINF:0,MS Web Rádio
@@ -623,6 +621,8 @@ http://centova.svdns.com.br:25270/stream/1/
 https://stm20.xcast.com.br:8334/;stream.nsv
 #EXTINF:0,Rádio Panorâmica FM 97.3
 http://live.panoramica.fm.br:10002/live
+#EXTINF:0,Rádio Paraná Clube
+https://livecasthd.com.br/play.php?porta=27892
 #EXTINF:0,Radio Pentecostes
 https://stream.zeno.fm/8ex6zgdm598uv
 #EXTINF:0,Radio Play Som - EuroTI Host
@@ -695,14 +695,8 @@ http://stm12.voxtreaming.com.br:6890/stream/1/
 https://stream.zeno.fm/a9lb3jrylnjtv
 #EXTINF:0,Hitz FM - Eletrônica
 https://stream.zeno.fm/wablfblem4ntv
-#EXTINF:0,Hitz FM - Latrina
-https://stream.zeno.fm/wedbxumjpizvv
-#EXTINF:0,Hitz FM - Mpb
-https://stream.zeno.fm/me7yzxbonizvv
 #EXTINF:0,Hitz FM - Pagode
 https://stream-158.zeno.fm/ylp4tqd5epfvv
-#EXTINF:0,Hitz FM - Rap
-https://stream.zeno.fm/t3hkprtlrh1uv
 #EXTINF:0,Hitz FM - Rock
 https://stream.zeno.fm/6r8xiccmsbktv
 #EXTINF:0,Hitz FM - Sertanejo

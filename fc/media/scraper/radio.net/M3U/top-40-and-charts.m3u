@@ -587,6 +587,8 @@ https://icy-e-03-boh.sharp-stream.com:80/ssvcbfbs17.mp3
 https://streaming.live365.com/a91412
 #EXTINF:0,bigFM
 https://stream.bigfm.de/deutschland/aac-128/radiode
+#EXTINF:0,bigFM Baden-Württemberg
+https://stream.bigfm.de/bw/mp3-128/radiode
 #EXTINF:0,bigFM Berlin
 https://stream.bigfm.de/berlin/aac-64/radiode
 #EXTINF:0,bigFM Bremen
@@ -1567,6 +1569,8 @@ https://stream.laut.fm/club?ref=radiode
 https://streams.feierfreund.de/chartparty/mp3-192/radiode/
 #EXTINF:0,Radyo Fenomen Karışık
 https://live.radyofenomen.com/fenomenkarisik/abr/playlist.m3u8
+#EXTINF:0,Fe Radio
+https://play14.tikast.com:22076/stream
 #EXTINF:0,HIT RADIO FFH
 https://streams.ffh.de/radioffh/mp3/hqlivestream.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,FFH Leider Geil
@@ -1679,6 +1683,8 @@ https://server18857.streamplus.de/stream.mp3
 https://s9.citrus3.com:2020/public/funcidy
 #EXTINF:0,Fun Radio 104.3
 http://solid9.streamupsolutions.com:8077/stream
+#EXTINF:0,Fun Radio - Live
+https://stream.funradio.sk:18443/fun192.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -1693,6 +1699,8 @@ https://stream.zeno.fm/ywr9n56pnc9uv
 https://frontend.streamonkey.net/fhn-radiogalaxy?aggregator=radiode
 #EXTINF:0,Galway Bay 95.8 FM
 https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:0,Gaming Community
+https://gc-radio.de/listen/gaming_community/radio.mp3
 #EXTINF:0,Radio Gamma Puglia
 http://onair18.xdevel.com:8098/;
 #EXTINF:0,Gay-Live-Radio
@@ -2179,8 +2187,6 @@ https://shout25.crossradio.com.br:18022/1
 https://shout35.crossradio.com.br:18040/1
 #EXTINF:0,Jovem Pan FM Natal
 https://pannatal.jmvstream.com/stream
-#EXTINF:0,Jovem Pan FM Osório
-http://centova14.ciclanohost.com.br:8405/stream/1/
 #EXTINF:0,Jovem Pan FM Patos de Minas
 https://shout25.crossradio.com.br:24030/1
 #EXTINF:0,Jovem Pan FM Poços de Caldas
@@ -2399,8 +2405,6 @@ https://emg.streamguys1.com/fuzion-website
 https://ice24.securenetsystems.net/KLLP
 #EXTINF:0,KLOZ - Mix 92.7 FM
 http://icecast.yhti.net:8000/MIX927_high.m3u
-#EXTINF:0,KLSM KHits 104.5 FM
-https://ice42.securenetsystems.net/KLSM
 #EXTINF:0,KLTA - Big 98.7 FM
 https://ice3.securenetsystems.net/KLTA
 #EXTINF:0,KLTA Big 98.7
@@ -3991,6 +3995,8 @@ https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
 https://stream-40.zeno.fm/qhk6q6tudg0uv?
 #EXTINF:0,Rádio Mais
 https://radios.justweb.pt/8048/stream
+#EXTINF:0,Rádio Mais Oeste
+https://centova.radio.com.pt/proxy/515?mp=/stream
 #EXTINF:0,Malankie Music Radio Station
 https://stream-47.zeno.fm/xm5v24frd0hvv?zs=zWRh_5JpQL2iGq7OMmQTTw
 #EXTINF:0,Mallorca Sunshine Radio 106.1 FM
@@ -4529,6 +4535,8 @@ http://stream.zeno.fm/wxp3r0utp7zuv
 http://server-24.stream-server.nl/stream/JurainiRadio
 #EXTINF:0,ON 2010s
 https://0n-2010s.radionetz.de/0n-2010s.mp3
+#EXTINF:0,on-4your-life
+https://stream.on-4your-life.de:8000/radio.mp3
 #EXTINF:0,Ona Mar FM
 http://streaming.enantena.com:8000/onamar128.mp3
 #EXTINF:0,ON Charts
@@ -5427,8 +5435,6 @@ https://online-radio.nv.ua/radionv.mp3
 https://s10.streamingcloud.online/stream/radio-nww
 #EXTINF:0,Radio Oberhausen - Dein Top40 Radio
 https://stream.lokalradio.nrw/44526zp
-#EXTINF:0,Radio Omega
-http://86.122.144.238:8100/;&type=mp3
 #EXTINF:0,Radio ONE
 https://radioone.ice.infomaniak.ch/radioone-96.mp3
 #EXTINF:0,Radio Osnabrück Vechta
@@ -5729,8 +5735,6 @@ https://icecast.netmedya.net/radyos
 http://185.80.220.12:8166/stream/1/
 #EXTINF:0,RAI Radio 1 Sport 
 https://radiounosportest-live.akamaized.net/hls/live/2032591/radiounosportest/radiounosportest/radio1sportest_256/chunklist.m3u8
-#EXTINF:0,RAJE - L'Esprit Libre
-https://rajeavignon.ice.infomaniak.ch/rajeavignon-128.mp3
 #EXTINF:0,COFFEE-MUSIC by rautemusik
 https://streams.rautemusik.fm/coffee-music/mp3-192/?ref=radiode
 #EXTINF:0,Top40 by rautemusik
@@ -5751,8 +5755,6 @@ https://onair22.xdevel.com/proxy/rdf1027?mp=/;stream/;
 https://stream2-alfacast-hosting.com/8122/stream
 #EXTINF:0,Radio Dimensione Musica
 http://shoutcast.streamingmedia.it:7167/
-#EXTINF:0,RDMIX HOT 100
-https://giorgia.radiobellissima.it:8320/radio.mp3
 #EXTINF:0,RDS - Radio Dimensione Suono
 https://icstream.rds.radio/rds
 #EXTINF:0,RDS Next
@@ -6097,6 +6099,8 @@ https://kathy.torontocast.com:2985/stream
 https://centova5.transmissaodigital.com:20041/stream
 #EXTINF:0,Styl FM
 http://s2.nexuscast.com:8024/stream/1/
+#EXTINF:0,Radio SUD FM Craiova 97.4
+http://media.gds.ro:8500/128.mp3
 #EXTINF:0,suenaQsuena
 https://stream.zeno.fm/macpbfzk1wzuv
 #EXTINF:0,Sugar Radio Spain
@@ -6241,6 +6245,8 @@ https://server8.blitz-stream.de:91100/stream/1/
 https://server8.blitz-stream.de:91500/stream/1/
 #EXTINF:0,radio TOP 40 - Charts
 https://stream.radiotop40.de/charts/mp3-192/radiode/
+#EXTINF:0,TOP50 RADIO
+https://s35.derstream.net/top50radio.mp3
 #EXTINF:0,Top Charts Hit FM Radio Accion
 http://stream-41.zeno.fm/fanwtagvszzuv?zs=jyvstXovRfWJOsYBxFBQNQ
 #EXTINF:0,Top Europa
