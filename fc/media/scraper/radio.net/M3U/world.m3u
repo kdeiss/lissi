@@ -1565,8 +1565,6 @@ https://stream.laut.fm/harz-fm?ref=radiode
 https://stream.zeno.fm/dvc437dmgg0uv
 #EXTINF:0,Hawaiian Pacific Radio
 http://192.111.140.11:8018/stream
-#EXTINF:0,HCH Radio
-https://hchradio.innovandote.com:8000/mountpoint
 #EXTINF:0,Hear Mobile
 http://192.99.8.192:3238/;
 #EXTINF:0,Heaven Radio
@@ -1791,6 +1789,8 @@ http://stream-51.zeno.fm/bqt6y86n64zuv?zs=0T_gK8wmRMSOq9odpsltpQ
 https://stream.jewishmusicstream.com:8000/;
 #EXTINF:0,Jewish Rock Radio
 https://sc11.spacialnet.com/stream/2554/
+#EXTINF:0,JG Radio Online
+https://server.streamingradios.net:7015/;
 #EXTINF:0,JHV Radio Cochabamba
 http://radios.istbolivia.com:9898/stream.mp3
 #EXTINF:0,Jinndo Radio
@@ -2267,8 +2267,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEAWAM.mp3
 https://stereolulu.weebly.com/
 #EXTINF:0,La Cotorra FM 94.3
 http://204.197.245.100:8238/stream/1/
-#EXTINF:0,La CrssOver FM
-https://secure1.mkservers.space/lacrossoverfm/
 #EXTINF:0,La Dinastia FM
 http://stream-28.zeno.fm/204egk2n5ehvv?zs=DNTho-mtTxid4HLmr4cwaQ
 #EXTINF:0,La Discusión
@@ -3033,10 +3031,8 @@ https://stream.open.fm/89
 https://music-station.live/radio/8000/stream/1/
 #EXTINF:0,NARANJATY
 https://cast4.asurahosting.com/proxy/kamulite/stream
-#EXTINF:0,Nareupa 99.3 FM
-http://35.211.228.170/radio/8000/player.mp3
 #EXTINF:0,bravo!
-https://usa8.fastcast4u.com/proxy/danielradio15?mp=/1
+http://35.211.228.170/radio/8000/player.mp3
 #EXTINF:0,Nashe Radio Наше Радио Киев
 http://c5.hostingcentar.com:8059/stream?7915
 #EXTINF:0,Nasze Radio
@@ -3125,8 +3121,10 @@ http://s8.iqstreaming.com:8022/;
 https://icecast.omroep.nl/3fm-bb-mp3
 #EXTINF:0,NRCU-1 УР1
 http://stream.zeno.fm/tv8th0ja9ifuv
-#EXTINF:0,NRK Sápmi
+#EXTINF:0,NRG 98.5 FM
 http://91.218.213.49:8000/ur1-mp3
+#EXTINF:0,NRK Sápmi
+http://eco.onestreaming.com:8452/stream/1/
 #EXTINF:0,Nuclear Rock Radio
 https://nrk-sapmi.akamaized.net/43/0/hls/nrk-sami-radio/playlist.m3u8
 #EXTINF:0,RADIO MAGIA INIMII TALE
@@ -3529,8 +3527,10 @@ http://66.113.177.108:7060/;
 https://streamingecuador.net:9101/stream
 #EXTINF:0,Rádio Amizade Viva
 https://ssl.a.stmxp.net:8020/;
-#EXTINF:0,Rádio Amparo
+#EXTINF:0,Radio Amore Catanzaro
 http://176.9.43.216:8184/stream/1/
+#EXTINF:0,Rádio Amparo
+https://stream.laut.fm/radioamorecatanzaro?ref=radiode
 #EXTINF:0,Radio Amphilochia 104.5 Αμφιλοχια
 https://sp0.redeaudio.com/8094/stream
 #EXTINF:0,Radio Anamnisi
@@ -3599,8 +3599,10 @@ http://stream.zenolive.com/3caaytd26rquv.pls
 https://live.aurafm.org/RadioBLV
 #EXTINF:0,RADIO BOBADELA 2020
 https://ssl.evsportugal.net:7064/stream
-#EXTINF:0,Radiobonsai
+#EXTINF:0,Radio Boden
 https://cast1.redeaudio.com/proxy/rb2020/stream
+#EXTINF:0,Radiobonsai
+https://radio.bodensradio.se:8443/stream.mp3
 #EXTINF:0,RADIO BORDO CHATO
 https://usa2.fastcast4u.com/proxy/radiobonsai?mp=%2F1
 #EXTINF:0,Radio Bosanska Posavina
@@ -4141,10 +4143,8 @@ http://s7.voscast.com:7618/;
 https://icecast6.play.cz/jih128.mp3
 #EXTINF:0,Radio Jinotega
 https://rss3.domint.net:8144/stream
-#EXTINF:0,Rádio Jornal da Madeira
-https://stream.pinedahost.com/radio/8060/radio
 #EXTINF:0,RJL Radio Judaica 
-https://radio.jm-madeira.pt/
+https://stream.pinedahost.com/radio/8060/radio
 #EXTINF:0,Radio Judaïca 
 https://judaica.ice.infomaniak.ch/judaica-high.mp3
 #EXTINF:0,RADIO JUMANDY
@@ -4173,10 +4173,8 @@ http://live.cast-control.eu:9118/stream
 https://stream.zeno.fm/eb51d4pcya0uv
 #EXTINF:0,RADIO KLANGWELT
 https://kk.fluidstream.eu/kk_history.mp3?FLID=7
-#EXTINF:0,Radio Kokue Poty FM
-https://klangwelt.stream.laut.fm/klangwelt
 #EXTINF:0,Radio Kolor
-https://radio.host.com.py:7089/stream/1/
+https://klangwelt.stream.laut.fm/klangwelt
 #EXTINF:0,Radio Konpa Direk
 https://stream.radiojar.com/xt0cf1v8938uv
 #EXTINF:0,Radio Koprivnica
@@ -4611,10 +4609,8 @@ http://51.255.8.139:8822/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUELAAC.aac
 #EXTINF:0,Radio Pueblo Digital
 http://streaming.chiloestreaming.com:9696/;
-#EXTINF:0,Radio Pulchérie
-http://stream-57.zeno.fm/nd4ua27z9vzuv?zs=a37ROXksTwC5sm-EhwVLgQ
 #EXTINF:0,Radio Punjabi Virsa
-https://stream.radiojar.com/47y0b2nw4mzuv
+http://stream-57.zeno.fm/nd4ua27z9vzuv?zs=a37ROXksTwC5sm-EhwVLgQ
 #EXTINF:0,Radio Punjab Today
 http://www.radiopunjabivirsa.com/new/
 #EXTINF:0,Radio Punto 9
@@ -4885,10 +4881,8 @@ https://stream.zeno.fm/1p8zunrsbc9uv
 http://176.9.220.198:8038/stream/1/
 #EXTINF:0,Rádio Super Santiago
 https://stream.zeno.fm/6bc33zev9rquv
-#EXTINF:0,Radio Super Stereo 93.3 FM
-http://s5.stmxp.net:8004/stream
 #EXTINF:0,Radio Surcos
-http://ecuamedios.net:8177/stream
+http://s5.stmxp.net:8004/stream
 #EXTINF:0,Radio Svoboda 
 https://archi-us.digitalproserver.com/surcos-fm.aac
 #EXTINF:0,Radio Tabaré 740 AM
@@ -5137,10 +5131,8 @@ https://live.radyo.in/8050/stream
 http://voyagesc.radyotvonline.com/listen.pls
 #EXTINF:0,Ráfaga Radio
 https://radio15.servidorderadio.net/8030/stream
-#EXTINF:0,RADIO 1 SZOMBATHELY
-https://radio15.servidorderadio.net/8030/stream
 #EXTINF:0,Rainwave Covers
-http://77.221.39.23:8000/;
+https://radio15.servidorderadio.net/8030/stream
 #EXTINF:0,Rally Sweden
 https://relay.rainwave.cc/covers.mp3
 #EXTINF:0,Radio Rápita 107.9 FM
@@ -5155,10 +5147,8 @@ https://hts06.kshost.com.br:9600/live
 https://streams.rautemusik.fm/k-pop/mp3-192/?ref=radiode
 #EXTINF:0,RB2020
 http://usa15.fastcast4u.com:8433/;
-#EXTINF:0,RBV - Radio Belle Vallée
-https://ssl.evsportugal.net:7064/stream
 #EXTINF:0,RCA - Rádio Clube de Armamar
-http://radio.rbv.lu/listen.pls
+https://ssl.evsportugal.net:7064/stream
 #EXTINF:0,RCFM Radio Crónica Folk Musical
 http://213.136.92.8:8002/stream/1/
 #EXTINF:0,RCI KASSAV
@@ -5511,8 +5501,10 @@ https://stream.laut.fm/soundradiolounge?ref=radiode
 https://live.amperwave.net/manifest/ihorizonsradio-sakfmaac-ibc1
 #EXTINF:0,Spectro Radio
 http://stream.specktator.net:8000/listen_192
-#EXTINF:0,Spitalradio Luz
+#EXTINF:0,Spice Radio
 https://edge2-a.exa.live365.net/a96356?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1582707559&listenerId=8b96cb60304dcdc621d8e451b9b6c023
+#EXTINF:0,Spitalradio Luz
+https://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8
 #EXTINF:0,Brila Fm
 http://195.48.36.97:8080/radioluz.mp3
 #EXTINF:0,Sports Radio Brila FM

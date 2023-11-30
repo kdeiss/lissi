@@ -651,6 +651,8 @@ https://streams.fluxfm.de/radioalt/mp3-128/radiode/
 https://streams.fluxfm.de/event02/mp3-128/radiode/
 #EXTINF:0,FluxFM Indie Disco
 https://streams.fluxfm.de/indiedisco/aac-64/streams.fluxfm.de/
+#EXTINF:0,Santa Flux
+https://streams.fluxfm.de/event04/mp3-320/rdaio.de/
 #EXTINF:0,FluxKompensator
 https://fluxfm.streamabc.net/flx-fluxkompensator-aacplus-64-6283953
 #EXTINF:0,Radio Flyweb
@@ -961,8 +963,6 @@ http://www.ednixon.com:8120/stream
 https://ais-sa1.streamon.fm/7344_48k.aac/playlist.m3u8
 #EXTINF:0,KXTE - X107.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFM.mp3
-#EXTINF:0,KXUL 91x New Rock 91.1 FM
-http://stream.kxul.com/listen
 #EXTINF:0,KZFX Z-93.7 FM The Super Rock
 https://ais-sa2.cdnstream1.com/1572_128
 #EXTINF:0,KZJH KZ 95
@@ -2449,6 +2449,8 @@ https://www.radioking.com/play/trentmix-radio
 http://trentradio.ca:8800/hi-fi
 #EXTINF:0,Triple J Canberra
 https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8
+#EXTINF:0,Triple M Central West 105.1
+http://ic2ti.scahw.com.au/2oag_32
 #EXTINF:0,radio twiNight greyskycasting
 http://cp11.serverse.com:7242/stream/1/
 #EXTINF:0,UbuntuFM World Radio
@@ -2719,6 +2721,8 @@ http://streaming.radionomy.com/XXRadio-WXXPPittsburgh-
 https://stream.yammat.fm/radio/8000/yammat.mp3
 #EXTINF:0,Yo SoY Love!
 http://nvradios.com:9328/;
+#EXTINF:0,101.7 Your Love FM
+https://radio.1017yourlovefm.com:8054/stream
 #EXTINF:0,Studenckie Radio ŻAK
 http://212.191.2.16:8000/radiozak6.mp3
 #EXTINF:0,ZEBRadio

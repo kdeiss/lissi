@@ -947,6 +947,8 @@ https://vistaradio.streamb.live/SB00094
 https://newcap.leanstream.co/CKDQAM?
 #EXTINF:0,CKFM 99.9 Virgin Radio Toronto
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC_SC
+#EXTINF:0,CKIA FM 88,3
+http://ecoutez.ckiafm.org:8000/live.mp3
 #EXTINF:0,CKIX Hot 99.1 FM
 https://newcap.leanstream.co/CKIXFM
 #EXTINF:0,CKKS Kiss Radio 107.5 FM
@@ -1339,6 +1341,8 @@ https://www.radioking.com/play/equinox-radio-barcelone
 http://s7.alhastream.com/radio/8150/radio
 #EXTINF:0,ERA
 https://astro2.rastream.com/era
+#EXTINF:0,ERFM
+https://bohort.erfm.fr/radio?_=1691136206981
 #EXTINF:0,Radio Erretizeta
 http://be.server89.com:8042/stream/1/
 #EXTINF:0,Esencia FM Marina Alta Sur
@@ -1683,8 +1687,6 @@ https://server18857.streamplus.de/stream.mp3
 https://s9.citrus3.com:2020/public/funcidy
 #EXTINF:0,Fun Radio 104.3
 http://solid9.streamupsolutions.com:8077/stream
-#EXTINF:0,Fun Radio - Live
-https://stream.funradio.sk:18443/fun192.mp3
 #EXTINF:0,Fusión Radio
 https://eu1.lhdserver.es:2975/stream
 #EXTINF:0,Fusion FM
@@ -2187,6 +2189,8 @@ https://shout25.crossradio.com.br:18022/1
 https://shout35.crossradio.com.br:18040/1
 #EXTINF:0,Jovem Pan FM Natal
 https://pannatal.jmvstream.com/stream
+#EXTINF:0,Jovem Pan FM Osório
+http://centova14.ciclanohost.com.br:8405/stream/1/
 #EXTINF:0,Jovem Pan FM Patos de Minas
 https://shout25.crossradio.com.br:24030/1
 #EXTINF:0,Jovem Pan FM Poços de Caldas
@@ -4353,6 +4357,8 @@ https://zeno.fm/radio/splendid-radio-Alabama/
 http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRG
 http://eco.onestreaming.com:8452/
+#EXTINF:0,NRG 98.5 FM
+http://eco.onestreaming.com:8452/stream/1/
 #EXTINF:0,NRJ 10 000 HITS
 https://scdn.nrjaudio.fm/adwz1/fr/58541/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-10000-Hits
 #EXTINF:0,Énergie 104.1 FM Gatineau
@@ -5735,6 +5741,8 @@ https://icecast.netmedya.net/radyos
 http://185.80.220.12:8166/stream/1/
 #EXTINF:0,RAI Radio 1 Sport 
 https://radiounosportest-live.akamaized.net/hls/live/2032591/radiounosportest/radiounosportest/radio1sportest_256/chunklist.m3u8
+#EXTINF:0,RAJE - L'Esprit Libre
+https://rajeavignon.ice.infomaniak.ch/rajeavignon-128.mp3
 #EXTINF:0,COFFEE-MUSIC by rautemusik
 https://streams.rautemusik.fm/coffee-music/mp3-192/?ref=radiode
 #EXTINF:0,Top40 by rautemusik
@@ -6493,8 +6501,6 @@ https://1.ice1.firststreaming.com/wbwb_fm.aac.m3u
 https://live.amperwave.net/manifest/townsquare-wbznfmaac-hlsc3.m3u8
 #EXTINF:0,WBZZ - Star Pittsburgh 100.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBZZFM.mp3
-#EXTINF:0,WCFL Chicago
-http://listen.djcmedia.com/wcflchicagohigh
 #EXTINF:0,WCFX 95.3 CFX
 https://live.amperwave.net/manifest/northernstarbroadcasting-wcfxfmaac-ibc2
 #EXTINF:0,WCGQ - Q107.3 FM Today's Best Music
@@ -6591,8 +6597,6 @@ https://ice5.securenetsystems.net/WIVQ?type=.mp3
 https://nebcoradio.com:8443/WIXM
 #EXTINF:0,WIXX 101 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC
-#EXTINF:0,W!ZARD Radio Station
-http://159.223.10.111:8000/wizardstream
 #EXTINF:0,WIZM Z93
 http://crystalout.surfernetwork.com:8001/WIZM_MP3
 #EXTINF:0,WJAS - the Talk of Pittsburgh
