@@ -1121,6 +1121,8 @@ https://ice5.securenetsystems.net/KSYL
 https://5f9f690034fb0.streamlock.net:444/ktao/ktao.stream_aac/playlist.m3u8
 #EXTINF:0,KTAR - News-Talk 92.3
 https://bonneville.cdnstream1.com/2698_48.aac?
+#EXTINF:0,KTAR-FM 92.3 The Voice of Arizona
+https://bonneville.cdnstream1.com/2698_48.aac
 #EXTINF:0,KTAV Inspirational Radio
 https://usa12.fastcast4u.com/proxy/kingdomt?mp=%2F1
 #EXTINF:0,KTBB 97.5 FM
@@ -2049,6 +2051,8 @@ https://stream.zeno.fm/u2fv6c85rs8uv
 http://suaradio1.dyndns.ws:13124/stream
 #EXTINF:0,Radio Campesina
 http://167.114.118.120:7482/stream/1/
+#EXTINF:0,Radio Capelle
+http://live.radiocapelle.nl:8000/;
 #EXTINF:0,Radio Caraibes
 https://node-02.zeno.fm/54k0v7x14neuv?rj-ttl=5&rj-tok=AAABgAflVW0AqreLjFiRmdy0JA
 #EXTINF:0,Radio Caravana
@@ -2397,8 +2401,6 @@ https://stream-52.zeno.fm/yt766x85ed0uv?zs=n73zrUnWRiau0KCKOMLc0A
 https://teuto.streamabc.net/teuto-radioosnabrck-mp3-192-8541649
 #EXTINF:0,Radio Pachamama
 https://emiteradio.com/proxy/pachamama
-#EXTINF:0,Radio Pacific 101.5
-http://108.59.11.81:8339/stream/1/
 #EXTINF:0,Rádio Paiquerê FM
 https://ice.fabricahost.com.br/paiquereldna917
 #EXTINF:0,Radio Pakistan FM93 Faisalabad
@@ -2771,8 +2773,6 @@ http://stream.internetgirona.com:8004/;
 http://std1.ladio.net:8030/scfm
 #EXTINF:0,Sarandí 690
 https://d10kxd8jv78zl6.cloudfront.net/sarandi.m3u8
-#EXTINF:0,Sat.1 Live AD
-https://live.datamatix.at:9032/;
 #EXTINF:0,Radio Sausalito
 http://quarrel.str3am.com:7090/live
 #EXTINF:0,Sayaji FM
@@ -3317,6 +3317,8 @@ https://usa8.fastcast4u.com/proxy/live?mp=/1
 https://cromwell-ice.streamguys1.com/WCRAAM
 #EXTINF:0,WCRS 1450 AM
 https://ice3.securenetsystems.net/WCRS
+#EXTINF:0,WCRW - AM 1260 The Answer
+http://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAM.mp3
 #EXTINF:0,WCSM AM 1350
 https://ic1.sslstream.com/wcsm-fm
 #EXTINF:0,WCSP C-Span Radio

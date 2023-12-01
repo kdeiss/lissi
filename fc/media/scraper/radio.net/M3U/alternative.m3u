@@ -685,6 +685,8 @@ https://stream.freefm.de/Studio
 https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,FreeRockRadio
 https://streamingv2.shoutcast.com/freerockradio
+#EXTINF:0,Freies Radio Freudenstadt
+https://s3.fairprice-streams.de:9148/stream
 #EXTINF:0,Freies Radio Kassel
 https://www.freies-radio-kassel.de/stream/FRKStream2.m3u
 #EXTINF:0,FreshRadioUS
@@ -963,6 +965,8 @@ http://www.ednixon.com:8120/stream
 https://ais-sa1.streamon.fm/7344_48k.aac/playlist.m3u8
 #EXTINF:0,KXTE - X107.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFM.mp3
+#EXTINF:0,KXUL 91x New Rock 91.1 FM
+http://stream.kxul.com/listen
 #EXTINF:0,KZFX Z-93.7 FM The Super Rock
 https://ais-sa2.cdnstream1.com/1572_128
 #EXTINF:0,KZJH KZ 95
@@ -1629,8 +1633,6 @@ https://noesfm.radioca.st/stream/1/
 https://sstoyano.radioca.st/stream
 #EXTINF:0,noisebox radio
 http://stream.radiojar.com/n1bs4ekbvuhvv
-#EXTINF:0,Nomad Radio 
-https://radio.streemlion.com:1915/stream
 #EXTINF:0,Nova Hits Radio
 https://centova.hostingtico.com:7006/stream
 #EXTINF:0,NPO 3FM KX Radio
@@ -1651,8 +1653,6 @@ https://carina.streamerr.co:8054/stream
 http://stream.zeno.fm/wpbe6f8q8bhvv
 #EXTINF:0,O.F.I Monday Radio
 https://pegasus.nucast.co.uk:8032/stream
-#EXTINF:0,on-4your-life
-https://stream.on-4your-life.de:8000/radio.mp3
 #EXTINF:0,Ona359FM
 http://endirecte.ona359fm.cat:8880/iscle359.mp3
 #EXTINF:0,Onda Terral
@@ -1777,8 +1777,6 @@ https://purerock.radioca.st/stream/1/
 https://live.radiostudio.be/pxl.m3u
 #EXTINF:0,QCindie.com
 https://stream.qcindie.com/live
-#EXTINF:0,Q Relajo
-https://one.cloudstreaming.eu/proxy/delgadl1/stream
 #EXTINF:0,QSRock.Radio
 http://142.44.135.172:8361/stream
 #EXTINF:0,Racoon Radio
@@ -2535,6 +2533,8 @@ http://hydra.cdnstream.com/1552_128
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGGYHD2_SC.mp3
 #EXTINF:0,WDRE - The Drive 100.5
 https://ice24.securenetsystems.net/WDRE
+#EXTINF:0,mexfm.com
+http://centova3.transmissaodigital.com:8103/;
 #EXTINF:0,webradio-muenster.de
 https://server24503.streamplus.de/;stream.mp3
 #EXTINF:0,WECS - Campus Radio 90.1 FM

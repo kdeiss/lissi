@@ -567,8 +567,6 @@ https://radio.freeradio.com.ua/stream_96.mp3
 https://streamingv2.shoutcast.com/freerockradio
 #EXTINF:0,FreshRadioUS
 https://s3.radio.co/s3f45e9838/listen
-#EXTINF:0,Radio Fugue
-http://statslive.infomaniak.com/playlist/radiofugue/radiofugue-128.aac/playlist.m3u
 #EXTINF:0,Full Music In LIVE
 https://stream.zeno.fm/wx6ocb9xkf2vv
 #EXTINF:0,FunHouse Radio USA
@@ -739,6 +737,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGFKAM.mp3
 https://ice8.securenetsystems.net/KGFL
 #EXTINF:0,KGMO 100.7 FM (US Only)
 https://ice.wbcengineering.com:8106/stream
+#EXTINF:0,KGON Classic Rock 92.3 FM
+https://live.amperwave.net/manifest/audacy-kgonfmaac-hlsc.m3u8/
 #EXTINF:0,KHAQ / KQHK The Hawk 98.5 / 103.9 FM
 https://ice9.securenetsystems.net/KHAQ
 #EXTINF:0,KHKK - The Hawk 104.1
@@ -769,6 +769,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KKFMFMAAC_SC
 https://bonneville.cdnstream1.com/2612_48.aac
 #EXTINF:0,KKGL - The Eagle 96.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKGLFMAAC.aac
+#EXTINF:0,KKLH - The Cave 104.7 FM
+https://live.amperwave.net/manifest/midwestfamily-kklhfmaac-ibc3
 #EXTINF:0,KKNN - 95 Rock FM Radio
 http://stream.abacast.net/direct/townsquare-kknnfmaac-ibc3
 #EXTINF:0,KKPT - The Point 94.1 FM
@@ -1065,6 +1067,8 @@ https://rock-lynxradio.radioca.st/stream;
 https://stream.zeno.fm/qqt10eukh5zuv
 #EXTINF:0,MABU Beatz Radio Whoomp
 https://audio.mabu-beatz-radio.com:8003/indie
+#EXTINF:0,Radio Mágica
+https://server4.hostradios.com/8108/stream
 #EXTINF:0,Manitu Rock Radio
 https://radio.streemlion.com:4515/stream
 #EXTINF:0,Marina Rock Radio
@@ -1965,6 +1969,8 @@ https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_20917_stream_48221
 https://servidor27.brlogic.com:8938/live
 #EXTINF:0,Rádio Capital Sul FM
 http://11.fusioncast.com.br:8362
+#EXTINF:0,mexfm.com
+http://centova3.transmissaodigital.com:8103/;
 #EXTINF:0,Web Rádio Nic Hits
 https://stm.roxcast.com.br:6714/stream
 #EXTINF:0,WebRádio Retrô
@@ -1989,8 +1995,6 @@ https://live.amperwave.net/manifest/wboc-wgbgfmaac-ibc2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFM.mp3
 #EXTINF:0,WGRF 97 Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGRFFMAAC.aac
-#EXTINF:0,White Beach Radio Lanzarote
-https://fra-ranger01.dedicateware.com:8004/stream
 #EXTINF:0,WHLN
 http://107.182.234.197:7121/stream/1/
 #EXTINF:0,WHOG-FM - The HOG 95.7 FM
