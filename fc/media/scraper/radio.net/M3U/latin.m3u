@@ -141,8 +141,6 @@ http://cdn.instream.audio:9137/stream
 https://emisorasvirtuales.com.co:9207/live
 #EXTINF:0,AUDIORAMA FM STEREO
 https://node-22.zeno.fm/s2ppvwpys5quv.aac
-#EXTINF:0,Aurora Argentina FM 91.3
-http://servidor2.serviciostreaming.com:9512/stream/1/
 #EXTINF:0,Aventura FM
 http://streaming.hdserver.biz:9424/stream/1/
 #EXTINF:0,Awaaz FM 
@@ -355,14 +353,14 @@ http://stream.zenolive.com/4qpqkvkqxfeuv.m3u
 https://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a
 #EXTINF:0,Circuito Full Mix
 https://cloudstream2030.conectarhosting.com/8104/stream
-#EXTINF:0,Circuito Líder Valencia
-https://circuitolider.lorini.net/proxy/15028?mp=/stream
 #EXTINF:0,Circuito X
 http://cp2.lorini.net:39500/stream/1/
 #EXTINF:0,Clásica FM
 https://stream.zeno.fm/auik61bzpa6vv
 #EXTINF:0,Clásicos del Reggaeton by PMP Radio
 https://stream.zeno.fm/1qfzvnttnwzuv
+#EXTINF:0,Click Latino 99.5 FM
+https://sonic.dattassd.com/8006/stream
 #EXTINF:0,Club Sonidero
 https://stream.zeno.fm/xae106hauv8uv
 #EXTINF:0,ClubTejano.com
@@ -425,6 +423,8 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
+#EXTINF:0,costaradio
+http://109.169.76.104:23614/stream
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,C-Oye 89.1 FM Insuperable
@@ -1188,7 +1188,7 @@ http://stream-47.zeno.fm/z2q0em15gv8uv?zs=nc8Y7lTfThOIWcUWar8jdQ
 #EXTINF:0,La Corporacion Radio
 https://audio4.tustreaming.cl/7620/stream
 #EXTINF:0,La CrossOver FM
-https://secure1.mkservers.space/lacrossoverfm/
+https://lacrossoverfm.com/envivo/
 #EXTINF:0,La Escandaloza FM
 https://stream.zeno.fm/tykka7bwumzuv
 #EXTINF:0,La Escandaloza FM
@@ -1382,7 +1382,7 @@ https://sonicpanel.globalstream.pro/8050/stream
 #EXTINF:0,La Que Buena FM
 http://ribotech.net:8000/stream/
 #EXTINF:0,LA QUESUENA Y PEGA
-https://stream.zeno.fm/8hvxehjb0ibvv
+https://stream2.emisorasvirtuales.com/proxy/laquesuena/stream
 #EXTINF:0,Radio A - La Radio del Amor 94.9
 https://stream-161.zeno.fm/qxsaiqu7pn4tv?zs=Nr_03yxjQTetM_RB6kxk6Q
 #EXTINF:0,La Radio de Moda
@@ -1395,6 +1395,8 @@ https://soniceuropa.globalstream.pro/7326/;
 https://stream.zeno.fm/0d8wnc2mws8uv
 #EXTINF:0,La Red Radio
 https://emisoras.colombiacrossover.com/proxy/zlaredradio?mp=%2Fstream
+#EXTINF:0,Larimar Radio
+https://sp.sintonizapp.com:7024/stream
 #EXTINF:0,La Romántica Stereo.Net
 http://stream.zeno.fm/yew48cshmkhvv
 #EXTINF:0,LA ROMANTICA
@@ -1697,8 +1699,6 @@ https://panel.streaminglevel.com/proxy/radiodmr/stream
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Masharos Radio
 https://streamingV2.shoutcast.com/MasharosRadio
-#EXTINF:0,Mas Ke Radio
-http://5.135.183.124:8357/stream
 #EXTINF:0,Más Latina 96.5
 https://cast3.my-control-panel.com/proxy/maslatina/stream
 #EXTINF:0,Massive 103.5 FM Aruba
@@ -2027,8 +2027,6 @@ https://stream.radiojar.com/32m0y5ubt18uv
 http://player.xcast.com.br/proxy/6990
 #EXTINF:0,Perú Cumbia Radio
 https://stream.zeno.fm/1276g6drneruv
-#EXTINF:0,Piatá FM
-http://192.163.193.115:9992/;
 #EXTINF:0,Piruwton Radio
 http://stream-51.zeno.fm/9ppgme10dtzuv?zs=dvERsXgKT7Wrjr3-5ZagXg
 #EXTINF:0,Planele
@@ -2455,7 +2453,7 @@ https://s11.maxcast.com.br:8164/live
 https://ssl.painelcast.com:6916/;
 #EXTINF:0,Radio Mix
 https://stream.zeno.fm/d8225wv7hg8uv
-#EXTINF:0,72.9 Radio Mix El Salvador
+#EXTINF:0,Radio Mix
 https://tuneinradiofm.com/radio/8000/radio.mp3
 #EXTINF:0,RadioMix FM 96.7
 https://live.leanstream.co/CHYRFM
@@ -2531,8 +2529,6 @@ https://stream.regenbogen.de/latin/aac-128/radiode
 https://stream.zeno.fm/mmqs8q47gg8uv
 #EXTINF:0,Radio Relax 
 https://online.radiorelax.ua/RadioRelax
-#EXTINF:0,Radio Reloj 94.3
-https://icecast.teveo.cu/b3jbfThq
 #EXTINF:0,Radio Revelacion y Verdad
 https://cloudstream2032.conectarhosting.com/8260/stream
 #EXTINF:0,RADIO REVIVE
@@ -2959,6 +2955,8 @@ https://live.radioart.com/fTango.mp3
 https://streamingV2.shoutcast.com/Radio-Tango-Velours
 #EXTINF:0,Tanguera Radio
 http://cdn.instream.audio:9093/stream
+#EXTINF:0,Radio Tarántula Digital
+https://sonic.dattassd.com/4062/stream
 #EXTINF:0,Technolovers LATIN HOUSE
 https://stream.technolovers.fm/latinhouse?ref=radiode
 #EXTINF:0,Tejano Gold Radio
@@ -3166,7 +3164,7 @@ http://radio.solumedia.com.ar:8366/stream/1/
 #EXTINF:0,Urbana Radio #laradiodetodos
 https://servidor18.brlogic.com:7370/live
 #EXTINF:0,Urban La Villa Radio
-https://radio.cimaspeed.com/8030/stream
+https://sonic.lcrgroup.es/8002/stream
 #EXTINF:0,Urbemixradio
 https://app.sonicpanelradio.com/8152/stream
 #EXTINF:0,VacilonFM.net
