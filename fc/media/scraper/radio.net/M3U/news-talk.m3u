@@ -7,8 +7,8 @@ https://audio.bild-und-ton.stream:16162/alternativaradio-en
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
-#EXTINF:0,Bpm
-http://hfprodz.ddns.net:8222/stream
+#EXTINF:0,BPM
+http://bpm.myddns.me:8222/stream
 #EXTINF:0,Cadena SER Aranda
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3
 #EXTINF:0,Cadena SER Arosa
@@ -225,8 +225,6 @@ http://45.169.236.3:8000/formula-mp3
 https://servidor20.brlogic.com:8250/live
 #EXTINF:0,FOX News
 https://live.amperwave.net/manifest/foxnewsradio-foxnewsradioaac-imc
-#EXTINF:0,Fox Sports Abilene
-https://ice42.securenetsystems.net/KASN
 #EXTINF:0,FOX Sports Radio
 https://stream.revma.ihrhls.com/zc4732/hls.m3u8
 #EXTINF:0,France Culture
@@ -249,6 +247,8 @@ https://frequencek.ice.infomaniak.ch/frequencek-128.mp3
 https://streamingv2.shoutcast.com/FrequenceMeteoLive
 #EXTINF:0,FREQUENCY5FM - Talk - English
 https://stream.zeno.fm/y8edx1955p8uv
+#EXTINF:0,Friendship Radio
+http://198.7.59.28:8028/stream
 #EXTINF:0,FRINGE FM
 https://streaming.live365.com/a05030
 #EXTINF:0,FSN World News
@@ -271,8 +271,6 @@ http://stream-165.zeno.fm/oz1adfiivietv
 https://stream.gemininetwork.it/gemini
 #EXTINF:0,Get Lit Radio
 https://stream.zeno.fm/fkhnrayaps8uv
-#EXTINF:0,GHANA ICE RADIO
-http://stream.zeno.fm/dq32gkvc038uv
 #EXTINF:0,Ghanawaves
 https://stream.zenolive.com/yp9sds3kkq5tv
 #EXTINF:0,GLL-Radio
@@ -517,8 +515,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KARNFMAAC_SC
 https://ice23.securenetsystems.net/KARP
 #EXTINF:0,KAWC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCFM.mp3
-#EXTINF:0,KAZM 780 AM
-https://ice9.securenetsystems.net/KAZM
 #EXTINF:0,KAZU 90.3 FM
 https://icecastle.csumb.edu/live128
 #EXTINF:0,KBBI - 890 AM
@@ -591,6 +587,8 @@ https://stream.xmission.com/kcpw2
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:0,KCUB - Sports Radio 1290 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCUBAM.mp3
+#EXTINF:0,KCUK 88.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCUKFMAAC.aac
 #EXTINF:0,KCUP News/Talk 1230 AM
 http://streaming.rubinbroadcasting.com/kcup
 #EXTINF:0,KCUR - 89.3 FM
@@ -1337,8 +1335,6 @@ https://s2.mexside.net/8056/stream
 https://live.paineldj.com.br/proxy/radiolagoasd?mp=%2Flive
 #EXTINF:0,Lagos Talks 91.3
 https://lagostalks-atunwadigital.streamguys1.com/lagostalks
-#EXTINF:0,La GS 104.7 FM
-http://grupochavezradio.ddns.net:8001/gs
 #EXTINF:0,la kaliente 100.1 fm
 https://sonic.cloudstreaming.eu/8038/stream
 #EXTINF:0,La Mexicana 93.3 FM
@@ -1596,7 +1592,7 @@ http://origin.atunwadigital.streamguys1.com/naijafmph
 #EXTINF:0,Radio Namakwaland
 https://zas3.ndx.co.za:8034/stream
 #EXTINF:0,IRIB Radio Namayesh
-http://cdn1.live.irib.ir:1935/channel-live/smil:r-namayesh/playlist.m3u8
+http://s2.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/chunklist_w1627319049.m3u8
 #EXTINF:0,Nashe Radio Наше Радио Киев
 https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Nasional 92.3 FM
@@ -1925,6 +1921,8 @@ https://stream-163.zeno.fm/e25tqnhy8xduv
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
 #EXTINF:0,Racing Radio
 https://stream.zeno.fm/f5g0dzespg8uv.mp3?rj-tok=AAABf1rZuc4Au1LThfbJWbWKFQ&rj-ttl=5
+#EXTINF:0,Radiante FM 91.1
+https://streamingcwsradio30.com:7035/stream/1/
 #EXTINF:0,Radiante FM 89.1
 https://streamingcwsradio30.com:7036/stream/1/
 #EXTINF:0,Radiante FM 98.3
@@ -2008,7 +2006,7 @@ http://live.francra.org:8000/Radio-Alto
 #EXTINF:0,Radio América
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICA.mp3
 #EXTINF:0,Radio Apeldoorn
-http://stream.rtv-apeldoorn.nl/live
+https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3
 #EXTINF:0,Radioapna
 http://ca.rcast.net:8048/;stream.mp3
 #EXTINF:0,Radio Arapey
@@ -2085,8 +2083,6 @@ https://servidor37.brlogic.com:7016/live?type=.m3u
 http://r18.ciclano.io:9693/stream
 #EXTINF:0,Radio Cielo
 http://167.114.118.120:7342/stream/1/
-#EXTINF:0,Radio Círculo
-https://live-edge-ams-1.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/cba/index.m3u8
 #EXTINF:0,Radio City FM
 http://190.52.32.13:1935/radiocity/live_1/playlist.m3u8
 #EXTINF:0,Rádio Clube 1
@@ -2401,6 +2397,8 @@ https://stream-52.zeno.fm/yt766x85ed0uv?zs=n73zrUnWRiau0KCKOMLc0A
 https://teuto.streamabc.net/teuto-radioosnabrck-mp3-192-8541649
 #EXTINF:0,Radio Pachamama
 https://emiteradio.com/proxy/pachamama
+#EXTINF:0,Radio Pacific 101.5
+http://108.59.11.81:8339/stream/1/
 #EXTINF:0,Rádio Paiquerê FM
 https://ice.fabricahost.com.br/paiquereldna917
 #EXTINF:0,Radio Pakistan FM93 Faisalabad
@@ -2463,8 +2461,6 @@ http://live.slovakradio.sk:8000/Regina_KE_32.mp3.m3u
 https://play.radioregional.pt/stream/4/
 #EXTINF:0,Radio Relax 
 https://online.radiorelax.ua/RadioRelax
-#EXTINF:0,Radio Reloj 760 AM
-https://icecast.teveo.cu/b3jbfThq
 #EXTINF:0,Rádio Renascença - Noticiário
 https://amsrr.streaming.mediaservices.windows.net/9671bb22-3678-4b73-b944-5f5ee2344eb2/noticiario_2803202217148443.mp3
 #EXTINF:0,Rádio Renascença - Noticiários
@@ -2555,8 +2551,6 @@ http://aovivo.radiotimbira.ma.gov.br:8000/timbira
 https://solid55.streamupsolutions.com/proxy/ddujbxhv?mp=%2Fstream2
 #EXTINF:0,Radio Tradición 1580 AM
 https://server.laradio.online/proxy/francisco_ballesta?mp=%2Fstream
-#EXTINF:0,Rádio Tropical 830 AM
-https://ssl.xcast.com.br:9810/stream/1/stream/1/
 #EXTINF:0,Radio Tropical Inter
 https://stream-59.zeno.fm/n4eah9sf5heuv?zs=IPHoCxUnSaGeAUJ28GxnDA
 #EXTINF:0,Radio Tua
@@ -3795,6 +3789,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIAMAAC_SC
 https://ice9.securenetsystems.net/WLXG?playSessionID=C5221DC6-648D-458D-9B0C16D4A844D711
 #EXTINF:0,WMAL-FM 105.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFM.mp3
+#EXTINF:0,WMBD 1470 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC
 #EXTINF:0,WMCA 570 AM The Mission
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac
 #EXTINF:0,WMCQ - American Family Radio 91.7 FM
@@ -4377,5 +4373,3 @@ https://stream.zeno.fm/sa7v036wpqzuv
 http://streaming.promomedios.com:8006/;
 #EXTINF:0,The Zone Sports Radio
 https://streamdb7web.securenetsystems.net/v5/ZONE1150
-#EXTINF:0,ZSPORTS3.COM
-https://ic1.sslstream.com/zsportslive?

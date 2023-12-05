@@ -156,7 +156,7 @@ https://auszeitradio1.de:444/stream/1/
 #EXTINF:0,Radio Balla Balla FM
 https://ice15.fluidstream.net/ballaballa.aac?FLID=7
 #EXTINF:0,Ballermann Radio
-https://radio-ballermann.stream24.net/ballermann-radio.mp3?ref=Radiode
+https://stream.bmr-radio.de/
 #EXTINF:0,Bandieten uit Twente - Piratenmuziek
 https://securestream4.digipal.nl:1307/stream.mp3
 #EXTINF:0,& Lovesongs. Von barba radio
@@ -175,8 +175,6 @@ https://streamserver3.m-hosting.eu:9027/listen1
 http://193.26.157.100:8174/stream/1/
 #EXTINF:0,Beatz and More
 https://stream.laut.fm/beatz-and-more?ref=radiode
-#EXTINF:0,Radio beiFreunden 
-http://s1.radiobeifreunden.de:8050/stream/1/
 #EXTINF:0,Radio Belle Vallée
 http://radio.rbv.lu:8002
 #EXTINF:0,Berliner Rundfunk - Weihnachten mit Simone Panteleit 
@@ -187,8 +185,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_
 http://stream2-alfacast-hosting.com/8020/stream
 #EXTINF:0,Radio Bläss
 https://schwany.streampanel.cloud/10-blaess
-#EXTINF:0,Blauerstern-Webradio
-https://c02.lexycast.de:2180/stream/1/
 #EXTINF:0,Red Devils Radio
 http://148.251.82.234:9046/stream/1/
 #EXTINF:0,BlueNight-Radio 
@@ -281,8 +277,6 @@ https://cast4.asurahosting.com/proxy/diisradi/stream
 http://94.130.222.237:22126/stream
 #EXTINF:0,Discofoxfieber
 http://systemweb-server3.de:11700/;
-#EXTINF:0,Discofox-Radio
-http://c01.lexycast.de:4080/istream/1/stream/1/
 #EXTINF:0,DiscoFoxSound
 http://stream2-alfacast-hosting.com:8088/stream/1/
 #EXTINF:0,DMAX RADIO
@@ -361,8 +355,6 @@ http://176.9.148.80:8740/Foxtanz
 https://server36261.streamplus.de/stream.mp3
 #EXTINF:0,Вільне радіо
 https://radio.freeradio.com.ua/stream_96.mp3
-#EXTINF:0,fresh80s Angelsfox Weihnachtssender
-http://85.25.217.22:9050/stream/1/
 #EXTINF:0,Das Freundschaft Radio
 https://server34815.streamplus.de/stream/1/
 #EXTINF:0,Radio Fryssons
@@ -385,6 +377,8 @@ http://streamplus53.leonex.de:20916/;
 https://srv.webradiomanager.fr:1330/stream
 #EXTINF:0,Germanradio.info
 http://stream.germanradio.info:10300/;
+#EXTINF:0,Germanradio.info/Schlager
+http://germanradio.info:13500
 #EXTINF:0,Germany-Radio
 http://176.9.148.80:8400/stream1
 #EXTINF:0,Germany-Stream
@@ -2161,8 +2155,6 @@ https://stream.radioachterhoek.nl/
 https://saurus.streampanel.net/hgcntkxz?mp=/stream
 #EXTINF:0,Radio Alsterwelle
 https://stream.laut.fm/alsterwelle?ref=radiode
-#EXTINF:0,Radio Annett
-https://server31398.streamplus.de/stream/1/
 #EXTINF:0,Radio Arabella Kult
 https://live.stream.radioarabella.de/radioarabella-arabellakult?aggregator=radiode
 #EXTINF:0,Radio Austria - Best of Schlager
@@ -2189,8 +2181,6 @@ https://s2.radio.co/sae093fce6/listen
 https://streamingv2.shoutcast.com/Caramba
 #EXTINF:0,Radio-Chaosteam
 http://c01.lexycast.de:3990/listen1
-#EXTINF:0,Radio City Eighty Five
-http://176.9.148.80:8590/stream/1/
 #EXTINF:0,Kölsche Tön aus Köln
 http://stream04.stream-webradiotechnik.de:8400/listen1
 #EXTINF:0,Radio-Crazy
@@ -2439,6 +2429,8 @@ https://stream.laut.fm/radiosl
 http://stream2-alfacast-hosting.com:8034/;
 #EXTINF:0,radiosr24 
 https://s1.slotex.pl/shoutcast/7560/stream
+#EXTINF:0,Radio Sunshine
+http://radio-sunshine.dh-media.net:7010/;
 #EXTINF:0,Radio-Sunshine-Hamm
 https://stream.laut.fm/webradio1?ref=radiode
 #EXTINF:0,Radio Surfstation
@@ -2717,135 +2709,131 @@ http://ngofm.ddnss.de:8000/default
 https://orf-live.ors-shoutcast.at/stm-q1a
 #EXTINF:0,Sternenfeuer-Radio
 http://server36228.streamplus.de/;
-#EXTINF:0,Streamplus
-http://www.power-radio-muelheim.de/listen.pls
-#EXTINF:0,Studio-Aktiv
-https://stream.studio-aktiv.com:10500/Studio-Aktiv-MP3-48
 #EXTINF:0,Broadcast Studio Murgtal
-https://stream.laut.fm/broadcaststudio-murgtal?ref=radiode
+https://stream.studio-aktiv.com:10500/Studio-Aktiv-MP3-48
 #EXTINF:0,Studio Schonach
-https://stream.laut.fm/studio-schonach?ref=radiode
+https://stream.laut.fm/broadcaststudio-murgtal?ref=radiode
 #EXTINF:0,Radio-Sturmwelle
-https://s3.genx-stream.de:8352/stream/1/
+https://stream.laut.fm/studio-schonach?ref=radiode
 #EXTINF:0,SU FM
-https://cast1.torontocast.com:2835/stream
+https://s3.genx-stream.de:8352/stream/1/
 #EXTINF:0,Sunflower Promotion
-https://stream.laut.fm/rockundmetal?ref=radiode
+https://cast1.torontocast.com:2835/stream
 #EXTINF:0,Sunrise-Radio
-https://bayern.streampanel.net/whamkkhs?mp=/stream
+https://stream.laut.fm/rockundmetal?ref=radiode
 #EXTINF:0,SunshinePartyLive
-https://stream.laut.fm/sunshinepartylive?ref=radiode
+https://bayern.streampanel.net/whamkkhs?mp=/stream
 #EXTINF:0,Sunshine-radio.eu
-http://sunshine.spcast.eu/stream
+https://stream.laut.fm/sunshinepartylive?ref=radiode
 #EXTINF:0,SuperGutesRadio
-http://37.59.82.10:12005/stream/1/
+http://sunshine.spcast.eu/stream
 #EXTINF:0,SWR4 Baden-Württemberg - SWR4 Stuttgart
-https://liveradio.swr.de/rddez3a/swr4bw/
+http://37.59.82.10:12005/stream/1/
 #EXTINF:0,SWR4 Freiburg
-https://liveradio.swr.de/rddez3a/swr4fr/
+https://liveradio.swr.de/rddez3a/swr4bw/
 #EXTINF:0,SWR4 Friedrichshafen
-https://liveradio.swr.de/rddez3a/swr4fn/
+https://liveradio.swr.de/rddez3a/swr4fr/
 #EXTINF:0,SWR4 Heilbronn
-https://liveradio.swr.de/rddez3a/swr4hn/
+https://liveradio.swr.de/rddez3a/swr4fn/
 #EXTINF:0,SWR4 Kaiserslautern
-https://liveradio.swr.de/rddez3a/swr4kl/
+https://liveradio.swr.de/rddez3a/swr4hn/
 #EXTINF:0,SWR4 Karlsruhe
-https://liveradio.swr.de/rddez3a/swr4ka/
+https://liveradio.swr.de/rddez3a/swr4kl/
 #EXTINF:0,SWR4 Koblenz
-https://liveradio.swr.de/rddez3a/swr4ko/
+https://liveradio.swr.de/rddez3a/swr4ka/
 #EXTINF:0,SWR4 Ludwigshafen
-https://liveradio.swr.de/rddez3a/swr4lu/
+https://liveradio.swr.de/rddez3a/swr4ko/
 #EXTINF:0,SWR4 Mannheim
-https://liveradio.swr.de/rddez3a/swr4ma/
+https://liveradio.swr.de/rddez3a/swr4lu/
 #EXTINF:0,SWR4 Rheinland-Pfalz - SWR4 Mainz
-https://liveradio.swr.de/rddez3a/swr4rp/
+https://liveradio.swr.de/rddez3a/swr4ma/
 #EXTINF:0,SWR4 Trier
-https://liveradio.swr.de/rddez3a/swr4tr/
+https://liveradio.swr.de/rddez3a/swr4rp/
 #EXTINF:0,SWR4 Tübingen
-https://liveradio.swr.de/rddez3a/swr4tu/
+https://liveradio.swr.de/rddez3a/swr4tr/
 #EXTINF:0,SWR4 Ulm
-https://liveradio.swr.de/rddez3a/swr4ul/
+https://liveradio.swr.de/rddez3a/swr4tu/
 #EXTINF:0,Test28
-http://tuner.m1.fm/kuschelschlager.mp3
+https://liveradio.swr.de/rddez3a/swr4ul/
 #EXTINF:0,Test31
-http://tuner.m1.fm/schlagerparty.mp3
+http://tuner.m1.fm/kuschelschlager.mp3
 #EXTINF:0,The bestest and greatest Hits
-https://stream.silvacast.com/RPLive/mp3-128/radio_de/
+http://tuner.m1.fm/schlagerparty.mp3
 #EXTINF:0,The House of Music
-https://c02.lexycast.de:4530/;
+https://stream.silvacast.com/RPLive/mp3-128/radio_de/
 #EXTINF:0,The Nightphoenix Radio
-http://c02.lexycast.de:2190/;
+https://c02.lexycast.de:4530/;
 #EXTINF:0,tierischLive
-http://server35557.streamplus.de/stream.mp3
+http://c02.lexycast.de:2190/;
 #EXTINF:0,Radio Tirol Italia
-https://str0.creacast.com/radiotirol_a
+http://server35557.streamplus.de/stream.mp3
 #EXTINF:0,Tirolia-Express
-https://server-28.stream-server.nl:8846/stream
+https://str0.creacast.com/radiotirol_a
 #EXTINF:0,TMR-Radio.de 
-http://listen.cdn.streammonks.net:8080/l4m5w
-#EXTINF:0,Radio Trallacity
-http://stream04.stream-webradiotechnik.de:9150/stream/1/
+https://server-28.stream-server.nl:8846/stream
 #EXTINF:0,Turbo-Hitradio - Schlager
-https://stream.laut.fm/hitradio-schlager?ref=radiode
+http://listen.cdn.streammonks.net:8080/l4m5w
 #EXTINF:0,Twentseboys
-http://twentseboys.gkstreamen.nl:8058/listen.pls
+https://stream.laut.fm/hitradio-schlager?ref=radiode
 #EXTINF:0,Uldash FM Радио Юлдаш
-https://radio.mediacdn.ru/uldash.mp3
+http://twentseboys.gkstreamen.nl:8058/listen.pls
 #EXTINF:0,Unzmarkt-Frauenburg LIVE
-http://host6.cartwall.at:7320/;
+https://radio.mediacdn.ru/uldash.mp3
 #EXTINF:0,VinylTeam.NL
-http://luister.vinylteam.nl:8010/stream
+http://host6.cartwall.at:7320/;
 #EXTINF:0,Volksmusikpur
-https://server3.streamserver-unlimited.de:8529/stream
+http://luister.vinylteam.nl:8010/stream
 #EXTINF:0,ANTENNE VORARLBERG Schlagerkult
-https://web.radio.antennevorarlberg.at/av-schlagerkult?aggregator=radio.at
+https://server3.streamserver-unlimited.de:8529/stream
 #EXTINF:0,Radiostation-Voyager
-http://stream1.iradio-project.eu:8006/stream/1/
+https://web.radio.antennevorarlberg.at/av-schlagerkult?aggregator=radio.at
 #EXTINF:0,Wattkieker.Club
-http://dirks-ideen.de:12090/stream/1/
+http://stream1.iradio-project.eu:8006/stream/1/
 #EXTINF:0,Web Rádio B2 Schlager Party
-https://stream.zeno.fm/9yejmortuiztv
+http://dirks-ideen.de:12090/stream/1/
 #EXTINF:0,Webradio-Ried
-https://stream.tramp-cast.ch/8022/stream
+https://stream.zeno.fm/9yejmortuiztv
 #EXTINF:0,webradio-starline
-https://streamserver3.m-hosting.eu:10302/stream
+https://stream.tramp-cast.ch/8022/stream
 #EXTINF:0,WebRadioWattenscheid
-http://stream11.shoutcastsolutions.com:8988/stream
+https://streamserver3.m-hosting.eu:10302/stream
 #EXTINF:0,webradio
-https://stream.zeno.fm/3991cm5t6k8uv
+http://stream11.shoutcastsolutions.com:8988/stream
 #EXTINF:0,Welle Niederrhein - Dein Schlager Radio
-https://stream.welleniederrhein.de/44523kf
+https://stream.zeno.fm/3991cm5t6k8uv
 #EXTINF:0,Welle Ost 2
-https://server36127.streamplus.de/stream.mp3
+https://stream.welleniederrhein.de/44523kf
 #EXTINF:0,Weltbild Radio Meine Hitparade
-https://weltbild.streamabc.net/weltb-wbrhitparade-mp3-128-4964443
+https://server36127.streamplus.de/stream.mp3
 #EXTINF:0,Weltbild Radio
-https://weltbild.streamabc.net/weltb-wbrwebplayer-mp3-128-8626883
+https://weltbild.streamabc.net/weltb-wbrhitparade-mp3-128-4964443
 #EXTINF:0,Weltbild Radio Schlagerland
-https://weltbild.streamabc.net/weltb-wbrschlager-mp3-128-8028760
+https://weltbild.streamabc.net/weltb-wbrwebplayer-mp3-128-8626883
 #EXTINF:0,Radio Wesole Slonzoki
-http://51.255.8.139:8380/stream/1/
+https://weltbild.streamabc.net/weltb-wbrschlager-mp3-128-8028760
 #EXTINF:0,Whitebeat Radio
-https://radio.whitebeat-radio.de:8443/frei
+http://51.255.8.139:8380/stream/1/
 #EXTINF:0,white-black-puma-radio.de
-https://stream.white-black-puma-radio.de:8002/listen
+https://radio.whitebeat-radio.de:8443/frei
 #EXTINF:0,wildcatsfantasyradio
-http://server3.streamserver-unlimited.de:8250/stream/1/
+https://stream.white-black-puma-radio.de:8002/listen
 #EXTINF:0,radio-wolkenkratzer
-https://radio-wolkenkratzer.de:8005/rwk
+http://server3.streamserver-unlimited.de:8250/stream/1/
 #EXTINF:0,Wonders Radio
-https://s5.stream-webradiotechnik.de:11102/mp3
+https://radio-wolkenkratzer.de:8005/rwk
 #EXTINF:0,Radio World of Sounds
-http://138.201.234.215:10880/stream/1/
+https://s5.stream-webradiotechnik.de:11102/mp3
 #EXTINF:0,Worldradioteam
-http://stream04.stream-webradiotechnik.de:8002/;stream.nsv
+http://138.201.234.215:10880/stream/1/
 #EXTINF:0,wunschradio.fm Schlager
-http://mp3.wunschradio.de/wunschradio-schlager.mp3
+http://stream04.stream-webradiotechnik.de:8002/;stream.nsv
 #EXTINF:0,Wuppertaler-Radio
-http://178.254.2.121:8010/stream/1/
+http://mp3.wunschradio.de/wunschradio-schlager.mp3
 #EXTINF:0,ybbstaler-schlager-radio
-http://streamserver3.m-hosting.eu:10900/;
+http://178.254.2.121:8010/stream/1/
 #EXTINF:0,Zappelkiste
-http://s5.stream-webradiotechnik.de:10250
+http://streamserver3.m-hosting.eu:10900/;
 #EXTINF:0,Zocker-freaks-radio
+http://s5.stream-webradiotechnik.de:10250
+#EXTINF:0,zocker-freaks-radio
 http://stream.laut.fm/zocker-freaks-radio
