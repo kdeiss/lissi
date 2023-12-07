@@ -85,8 +85,6 @@ https://rbr-host.de:8010/radio.mp3
 https://lyt.bassfm.dk/bassfm320
 #EXTINF:0,BassLover 
 https://relay-basslover.de:8000/basslover.mp3
-#EXTINF:0,bassnurbass
-http://stream.hoerfunkbundstream.de:7050/stream
 #EXTINF:0,Bavaria Beats
 https://stream.bavariabeats.de
 #EXTINF:0,BBC World Service
@@ -165,8 +163,6 @@ https://streaming.live365.com/a82630
 https://node-31.zeno.fm/pbmbu6mzmwzuv
 #EXTINF:0,Clásicos del Techno
 https://stream.zeno.fm/maly3dozoulvv
-#EXTINF:0,Classic Videogames RADIO
-https://srv-1.lead-it.de:1551/stream/2/
 #EXTINF:0,Club 66.6 FM House Techno EDM Electronic Dance Music DJ Mixes 247
 http://stream.zeno.fm/xcmv558wquhvv.m3u
 #EXTINF:0,Clubbers Paradise
@@ -1128,7 +1124,7 @@ http://stream.enet24.de:9600/stream/1/
 #EXTINF:0,Loca FM 90'S
 http://s02.fjperezdj.com:8000/live
 #EXTINF:0,Loca FM Dub Techno
-http://s02.fjperezdj.com:8066/live
+http://s02.fjperezdj.com:8066/live?2
 #EXTINF:0,Loca FM Sessions
 http://s02.fjperezdj.com:8095/live
 #EXTINF:0,Loca FM Hard
@@ -1395,8 +1391,6 @@ http://komplex2.psyradio.org:8040/listen.pls
 https://digitalstreams4.mediaworks.nz/more974-DUN-high/playlist.m3u8
 #EXTINF:0,Punta Radio
 https://dattavolt.com/8328/stream
-#EXTINF:0,PureDJ
-https://casthttps.suaradionanet.net/10502/stream
 #EXTINF:0,pure fm – berlins dance radio
 https://s4.radionetz.de/purefm-bln.mp3
 #EXTINF:0,pure fm - frankfurts electronic radio
@@ -1447,8 +1441,8 @@ https://samcloud.spacial.com/api/listen?sid=87875&rid=160344&f=aac,any&br=28000,
 https://dattavolt.com/8008/stream
 #EXTINF:0,Radio Falš
 https://www.radioking.com/play/radiofals
-#EXTINF:0,Radio Hercomarca Vilcashuaman
-https://sonic.panelchs.com/8004/stream
+#EXTINF:0,Soderana Vilcashuaman
+https://cp.panelchs.com:2020/stream/8124
 #EXTINF:0,Radio Hotspot
 http://7f9f366.online-server.cloud:8000/stream/1/
 #EXTINF:0,Radio Jeans - House Tecno Dance
@@ -1638,7 +1632,7 @@ http://stream.zeno.fm/dv28burdde6uv
 #EXTINF:0,TeaTime.FM
 https://mp3.stream.tb-group.fm/tt.mp3
 #EXTINF:0,TECHNO4EVER.FM
-https://club-high.rautemusik.fm/?ref=radiode
+https://rautemusik-de-hz-fal-stream17.radiohost.de/rautemusik-techno_mp3-192
 #EXTINF:0,TechnoBase.FM
 https://aach.stream.tb-group.fm/tb-high.aac
 #EXTINF:0,Techno.FM
