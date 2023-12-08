@@ -463,8 +463,6 @@ https://www.coastrockfm.com.au/live
 http://streaming.fueralle.org:8000/coloradio_160.mp3
 #EXTINF:0,Conexion Acustica
 https://stream.zeno.fm/81m8p8m47bruv
-#EXTINF:0,Radio Corax 
-http://stream.coraxonline.com/rdcx128.mp3
 #EXTINF:0,Corte Duende
 https://yesca.st/corteduende/
 #EXTINF:0,Cottage Radio
@@ -825,6 +823,8 @@ https://stream.radioani.me/radio/8000/radio.mp3
 https://streaming.live365.com/a43673
 #EXTINF:0,Jiggy Jaguar
 http://s3.myradiostream.com:4514/;
+#EXTINF:0,J-Man Radio
+http://85.14.245.108:8108/stream?type=http&nocache=503
 #EXTINF:0,JM Rock Radio
 http://streamplus18.leonex.de:11076/stream/1/
 #EXTINF:0,JoeDillan FM A-Z
@@ -993,10 +993,6 @@ https://sonic01.instainternet.com:7068/stream/1/
 http://server.laradio.online:8556/
 #EXTINF:0,La Mistica Radio
 https://stream.zeno.fm/av8m1adpxs8uv
-#EXTINF:0,La Rocka 70
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
-#EXTINF:0,La Rocka 90
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,lastFMpirate
 https://stream.lastfmpirate.com:8000/radio.mp3
 #EXTINF:0,Latin_Mania
@@ -1557,8 +1553,6 @@ https://s2.radio.co/s351675523/listen
 https://eu1.reliastream.com/proxy/msrr?mp=/MSRR
 #EXTINF:0,MGRadio Bari
 https://stream.zeno.fm/50dh83maztzuv
-#EXTINF:0,Milano XR
-https://milanoxr.gatesweb.info:8443/live
 #EXTINF:0,Minoreba FM
 https://stream.zeno.fm/q34bq5qm9eeuv
 #EXTINF:0,Mírame
@@ -1773,8 +1767,6 @@ https://purerock.radioca.st/stream/1/
 https://live.radiostudio.be/pxl.m3u
 #EXTINF:0,QCindie.com
 https://stream.qcindie.com/live
-#EXTINF:0,QSRock.Radio
-http://142.44.135.172:8361/stream
 #EXTINF:0,Racoon Radio
 https://cast5.my-control-panel.com/proxy/moises12/stream
 #EXTINF:0,Rádio Radar
@@ -1901,8 +1893,6 @@ https://sr11.inmystream.it/proxy/foxyone?mp=/stream
 https://streaming.live365.com/a49915
 #EXTINF:0,Radio FRO 105,0 - Freier Rundfunk Oberösterreich
 https://stream.fro.at/fro-db9009
-#EXTINF:0,Radio Fun 100.1 FM
-http://63.247.65.202:8183/stream
 #EXTINF:0,Radio Futura
 http://5.135.183.124:8041/stream
 #EXTINF:0,RadioGram
@@ -2007,6 +1997,8 @@ https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3
 https://radio.streemlion.com:2795/stream
 #EXTINF:0,Radio Radieschen
 https://radioradieschen.stream.kapper.net/radioradieschen
+#EXTINF:0,Radio Regenbogen - Musik von hier
+https://stream.regenbogen.de/musikvonhier/aac-128/radiode
 #EXTINF:0,Radio Relax 
 https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio Robotic
@@ -2059,10 +2051,14 @@ https://streamingv2.shoutcast.com/RadioUPNCampusZacatecas
 https://radio.radiobot.org/listen/rvk/rvk.mp3
 #EXTINF:0,Radio Veronica
 https://shoutcast.k-planet.eu/8004/stream
+#EXTINF:0,Radio Vertigo One
+http://nr4.newradio.it:9440
 #EXTINF:0,Radio Vesánico
 https://radiosonline.one/radio/8390/radio.mp3
 #EXTINF:0,Rádio Web Nova Alternativa
 https://stream.zeno.fm/277nkh4x438uv
+#EXTINF:0,Radio Whatever
+https://usa10.fastcast4u.com:8770/;
 #EXTINF:0,Radio Woking
 https://radiowoking.radioca.st/wokinglow
 #EXTINF:0,Radio Wolf
@@ -2361,8 +2357,6 @@ https://radiostatic.stream/listen/static_-_tyler,_tx/static-tyler.aac
 https://stream.zeno.fm/np8qblly48xtv
 #EXTINF:0,Strange Fruit Radio
 http://195.166.151.210:8002/stream
-#EXTINF:0,Streamplus
-http://server35870.streamplus.de:11166/stream/1/
 #EXTINF:0,Stuart Bedasso Radio
 http://streaming.live365.com/a90366
 #EXTINF:0,Studio 21
@@ -2491,6 +2485,8 @@ https://fwd.autopo.st/w3zhotline
 https://ice8.securenetsystems.net/WACCLP
 #EXTINF:0,WAPS - The Summit 91.3 FM
 http://streamer2.legatocommunications.com/wapshq
+#EXTINF:0,WASU-FM 90.5
+https://live.amperwave.net/manifest/wasu-wasuaac-hlsc1.m3u8
 #EXTINF:0,WaveRadio Boston
 https://streaming.live365.com/a06194
 #EXTINF:0,WAVE RADIO
@@ -2677,8 +2673,6 @@ https://streamdb8web.securenetsystems.net/cirruscontent/WSGE
 http://pacificaservice.org:8000/wslr_64
 #EXTINF:0,Wicked Spins Radio
 http://server14.slip7.net:2199/start/kirsty/
-#EXTINF:0,WSUP Rocks 
-https://cheetah.streemlion.com:2445/stream
 #EXTINF:0,WTHS Eighty Nine Nine (THS-FM)
 https://s3.radio.co/scf79220ed/listen
 #EXTINF:0,WTMD 89.7 FM
@@ -2691,6 +2685,8 @@ https://streaming.radio.co/sf74aab051/listen
 http://streamer.cci.utk.edu:8000/wutk
 #EXTINF:0,WVFS 89.7 FM
 http://voice.wvfs.fsu.edu:8000/stream
+#EXTINF:0,WVOF - 88.5 FM
+http://fmstudio.fairfield.edu:8000/listen
 #EXTINF:0,WVUD
 http://128.175.76.123:8000/stream/2/
 #EXTINF:0,WXPN

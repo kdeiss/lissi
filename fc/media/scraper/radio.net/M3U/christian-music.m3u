@@ -97,8 +97,6 @@ https://streams.abidingradio.com:7820/1
 https://streams.abidingradio.com:7830/1
 #EXTINF:0,Rádio TV ABM
 https://hts02.kshost.com.br:10280/live
-#EXTINF:0,Acontecer
-http://207.244.77.236:22853/;
 #EXTINF:0,Activa74
 https://stream-42.zeno.fm/k1untzw2km5tv?zs=7RUisatYQi6JjAOve4Ueug
 #EXTINF:0,Adonia-KidsRadio
@@ -315,8 +313,6 @@ https://streams.cbnradio.com/christmas-128K
 https://mp3.cbn.com/stream/country128?app=radionet
 #EXTINF:0,CBN Cross Country Christmas
 https://mp3.cbn.com/stream/countrychristmas128?app=radionet
-#EXTINF:0,CBN Neuquén
-http://stm11.patagoniaplay.app:9140/;
 #EXTINF:0,CBN Praise
 https://mp3.cbn.com/stream/praise128?app=radionet
 #EXTINF:0,CBN Radio Classic Christian
@@ -529,10 +525,6 @@ https://server10.reliastream.com/proxy/docradio?mp=/stream
 http://doublasfm.hopto.org:8000/live
 #EXTINF:0,Dove Radio Uganda
 https://stream-150.zeno.fm/ldawmwxck5hvv
-#EXTINF:0,Driving 4 Christ
-https://stream.radiojar.com/e2rpga715hhvv
-#EXTINF:0,Driving4Christ Radio
-http://n0d.radiojar.com/e2rpga715hhvv?rj-ttl=4&rj-tok=AAABgT2EsnYAaNk9Ekh0Ju-gHw
 #EXTINF:0,DS Fly Waves Radio
 https://streaming.live365.com/a22189
 #EXTINF:0,DWG Lyra
@@ -677,6 +669,8 @@ https://streamingV2.shoutcast.com/RadioWebDellaChiesaCristianaEvangelicaAdiGuido
 https://ewtn-ice.streamguys1.com/english-aac
 #EXTINF:0,EWTN Radio Católica Mundial
 https://ewtn-ice.streamguys1.com/english-aac
+#EXTINF:0,ExalfacionFM
+https://chokostream.com:8070/live
 #EXTINF:0,ExaltacionFM
 https://stream.zeno.fm/4ruhdz7d5f8uv
 #EXTINF:0,FAC - Filhos Amados do Céu
@@ -735,8 +729,6 @@ https://radio.canstream.co.uk:8120/live.aac
 https://radio.canstream.co.uk:8120/live.mp3
 #EXTINF:0,Fleet Gospel Radio
 http://64.20.39.8:8051/stream/1/
-#EXTINF:0,FLN - Family Life Christmas
-https://147.135.85.81/fln-christmas-mp3
 #EXTINF:0,FLN - Peaceful Christmas
 https://fln01.sslstream.com/fln-peacefulchristmas-aac
 #EXTINF:0,FLN - Gentle Praise
@@ -2325,8 +2317,6 @@ https://streaming.rcm1450.com/radio/8000/radio.mp3
 https://sp3.servidorrprivado.com:10971/sid=1
 #EXTINF:0,Rádio Católica Sião Osasco
 http://stm11.conectastm.com:7174/playlist.asx;
-#EXTINF:0,Radio CEG
-https://play8.tikast.com/proxy/pocazo?mp=/;
 #EXTINF:0,Radio Celebration
 https://nr14.newradio.it:8936/stream?ext=.mp3
 #EXTINF:0,Radio Celestial
@@ -2855,8 +2845,12 @@ https://s1.cloudrad.io/bplxc8xhls/listen
 https://live.radiopresence.com/radio-presence
 #EXTINF:0,Radio Présence - Cahors
 https://live.radiopresence.com/radio-presence-lot
+#EXTINF:0,Radio Présence - Figeac
+http://149.202.184.102/radio-presence-figeac.m3u
 #EXTINF:0,Radio Présence - Lourdes
 https://live.radiopresence.com/radio-presence
+#EXTINF:0,Radio Présence - St Gaudens
+https://live.radiopresence.com/radio-presence-pyrenees
 #EXTINF:0,Radio Promesa de Dios
 https://jm8n.com/8040/stream
 #EXTINF:0,Radio Promesa de vida
@@ -3989,6 +3983,8 @@ https://ic1.sslstream.com/bottradio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFFHFM.mp3
 #EXTINF:0,WFFI - The Fish 93.7 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFFHFM.mp3
+#EXTINF:0,WFGB - 89.7 FM The Sound of Life
+https://ice64.securenetsystems.net/WFGB
 #EXTINF:0,WFGL - RenewFM
 https://ice24.securenetsystems.net/RENEWFM
 #EXTINF:0,WFHM-FM - The Fish 95.5 FM
@@ -4225,6 +4221,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLCUFMAAC_SC
 https://server7.servistreaming.com/proxy/radioisla?mp=%2Fstream%3Ftype%3D.mp3&_=1
 #EXTINF:0,WLFA - His Radio 91.3 FM
 https://rtn.cdnstream1.com/2566_96.aac
+#EXTINF:0,WLFE - Life FM 90.9 FM
+https://stream.radiojar.com/q1t4avqnct5tv
 #EXTINF:0,WLFS - His Radio 91.9 FM
 https://rtn.cdnstream1.com/2566_96.aac
 #EXTINF:0,WLGP - WLGP 100.3 FM
