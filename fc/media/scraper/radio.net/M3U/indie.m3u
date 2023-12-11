@@ -203,8 +203,6 @@ https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/pro
 https://hoth.alonhosting.com:1865/stream
 #EXTINF:0,Cool Cat Radio
 https://stream.radiojar.com/tfmszuxk28nb
-#EXTINF:0,Radio Corax 
-http://stream.coraxonline.com/rdcx128.mp3
 #EXTINF:0,Corte Duende
 https://yesca.st/corteduende/
 #EXTINF:0,Cosmic Fringe Radio
@@ -401,6 +399,8 @@ https://streamer.radio.co/s89c643931/listen
 http://135.125.200.49:8000/indestar.mp3
 #EXTINF:0,Indie 88 Toronto
 https://cob-ais.leanstream.co/CINDFM
+#EXTINF:0,Indie 98
+http://indie.dyndns.tv:34100/indie98
 #EXTINF:0,Indie Grind Podcast Radio
 https://stream.zeno.fm/cb7qhnw57f8uv
 #EXTINF:0,Indie Imagination Radio
@@ -445,6 +445,8 @@ https://stations.radio-host.com/proxy/jamfest/stream
 https://ais-edge51-live365-dal02.cdnstream.com/a86289
 #EXTINF:0,Jams and Kooks
 http://stream.zenolive.com/0vqtrtyzg4duv.m3u
+#EXTINF:0,J-Man Radio
+http://85.14.245.108:8108/stream?type=http&nocache=503
 #EXTINF:0,JM Rock Radio
 http://streamplus18.leonex.de:11076/stream/1/
 #EXTINF:0,Just Another Radio
@@ -477,6 +479,10 @@ http://s9.viastreaming.net:9600/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOSUHD2AAC_SC
 #EXTINF:0,99.7 KQUA-LP - The River
 https://streaming.live365.com/a44781
+#EXTINF:0,KRNU 90.3 FM
+https://s8.yesstreaming.net:17004/krnu
+#EXTINF:0,KRNU 2 90.3 FM
+https://s8.yesstreaming.net:17004/krnu
 #EXTINF:0,Kuikaradiomx
 https://stream.zeno.fm/uay1esm5f3quv
 #EXTINF:0,FunAsia AM
@@ -1073,6 +1079,8 @@ https://radiosonline.one/radio/8390/radio.mp3
 https://radiovostok.ice.infomaniak.ch/radiovostok.aac
 #EXTINF:0,Radio Welle West Wetterau
 https://stream.blpn.de:8443/r3we_128
+#EXTINF:0,Radio Whatever
+https://usa10.fastcast4u.com:8770/;
 #EXTINF:0,Radio Widyaswara
 https://a1.siar.us/radio/8320/radio.mp3
 #EXTINF:0,Radio Woking

@@ -629,6 +629,8 @@ http://albireo.shoutca.st:8031/live
 https://ascl.denial.cl:2020/stream/8008
 #EXTINF:0,Fantasy-Radio-22
 http://5.9.16.111:8460
+#EXTINF:0,FavoriteFM
+https://media.xseu.net:5443/FavoriteFM
 #EXTINF:0,FFH Rock
 https://streams.ffh.de/ffhplus/mp3/hqrock.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Fishnet Radio
@@ -821,8 +823,6 @@ http://94.249.254.89:8000/stream/1/
 https://stream.radioani.me/radio/8000/radio.mp3
 #EXTINF:0,JES Radio
 https://streaming.live365.com/a43673
-#EXTINF:0,Jiggy Jaguar
-http://s3.myradiostream.com:4514/;
 #EXTINF:0,J-Man Radio
 http://85.14.245.108:8108/stream?type=http&nocache=503
 #EXTINF:0,JM Rock Radio
@@ -931,6 +931,8 @@ https://s8.yesstreaming.net:17004/krnu
 http://lostcoast.streamguys.us/kslg-hi
 #EXTINF:0,KSXY The 101
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSXYFMAAC_SC
+#EXTINF:0,KTBH-FM - 102.7 The Beach
+https://ais-sa1.streamon.fm/7360_48k.aac
 #EXTINF:0,KTEC 89.5 FM
 http://kteclive.oit.edu:8000/live.mp3
 #EXTINF:0,KUCI 88.9 FM
@@ -940,7 +942,7 @@ http://138.23.75.92:8001
 #EXTINF:0,KUMM U-90
 http://146.57.36.230:8256/listen
 #EXTINF:0,KUOM RADIO K
-http://radiokstreams.cce.umn.edu:8128/;
+https://radiok.broadcasttool.stream/play_256
 #EXTINF:0,KURQ New Rock 107.3 FM
 https://ice2.securenetsystems.net/KMLA
 #EXTINF:0,KUTX 98.9 FM HD2
@@ -993,6 +995,10 @@ https://sonic01.instainternet.com:7068/stream/1/
 http://server.laradio.online:8556/
 #EXTINF:0,La Mistica Radio
 https://stream.zeno.fm/av8m1adpxs8uv
+#EXTINF:0,La Rocka 70
+https://streaming01.shockmedia.com.ar:10624/stream?icy=http
+#EXTINF:0,La Rocka 90
+https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,lastFMpirate
 https://stream.lastfmpirate.com:8000/radio.mp3
 #EXTINF:0,Latin_Mania
@@ -1295,6 +1301,8 @@ https://stream.laut.fm/playermusicradio?ref=radiode
 https://stream.laut.fm/playground?ref=radiode
 #EXTINF:0,polarlicht
 https://stream.laut.fm/polarlicht?ref=radiode
+#EXTINF:0,popklub
+https://stream.laut.fm/popklub?ref=radiode
 #EXTINF:0,Popradio NRW
 https://stream.laut.fm/popradionrw?ref=radiode
 #EXTINF:0,Prog Alley
@@ -1915,8 +1923,6 @@ https://stream.open.fm/337
 https://stream-58.zeno.fm/fr78xb3etkeuv?zs=Ozagr0CCSxKPyDqiOzedTQ
 #EXTINF:0,KISS-FM
 https://securestreams3.autopo.st:1417/89FM
-#EXTINF:0,KUOM
-http://radiokstreams.cce.umn.edu:8128/listen.pls
 #EXTINF:0,RadioLAB Costa Rica
 https://stream.zeno.fm/xdaew3cw0qruv.mp3
 #EXTINF:0,Radio la Difference
@@ -2052,7 +2058,7 @@ https://radio.radiobot.org/listen/rvk/rvk.mp3
 #EXTINF:0,Radio Veronica
 https://shoutcast.k-planet.eu/8004/stream
 #EXTINF:0,Radio Vertigo One
-http://nr4.newradio.it:9440
+https://nr4.newradio.it/proxy/scamus02?mp=/stream
 #EXTINF:0,Radio Vesánico
 https://radiosonline.one/radio/8390/radio.mp3
 #EXTINF:0,Rádio Web Nova Alternativa
@@ -2115,8 +2121,6 @@ https://s2.mexside.net/8002/stream
 https://stream.revma.ihrhls.com/zc609
 #EXTINF:0,Rehegoo Radio UK - HD
 http://ice.creacast.com/rehegoo-uk-str3
-#EXTINF:0,Republic 100,3 FM
-http://173.249.6.18:1030/stream/1/
 #EXTINF:0,Resonance FM
 https://stream.resonance.fm/resonance
 #EXTINF:0,RetroRock Internet Radio

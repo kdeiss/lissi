@@ -235,6 +235,8 @@ https://21363.live.streamtheworld.com/3NRAAC.aac
 https://whav.streamguys1.com/live
 #EXTINF:0,Sonshine
 https://stream2.cnmns.net/sfm
+#EXTINF:0,99FM 
+https://streaming.fabrik.fm/99fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Aambiance 90
 https://listen.radionomy.com/aambiance-90.m3u
 #EXTINF:0,ABC Memories
@@ -959,8 +961,6 @@ https://s1.genx-stream.de:8552/;
 https://stream.zeno.fm/egynebf171zuv
 #EXTINF:0,drautalRADIO
 https://stream.laut.fm/drautalradio?ref=radiode
-#EXTINF:0,Dream Dance Radio
-http://streamserver3.m-hosting.eu:11000/stream
 #EXTINF:0,Dreamdanceradio
 http://s4.genx-stream.de:8900/stream
 #EXTINF:0,Radio Drehscheibe
@@ -1373,8 +1373,6 @@ https://listen.radionomy.com/hr80
 http://c02.lexycast.de:3850/;
 #EXTINF:0,Hitradio Ohr
 https://frontend.streamonkey.net/fho-hitradioohrlive?aggregator=radio.de
-#EXTINF:0,HITRADIO RTL - Chemnitz
-https://web.radio.hitradio-rtl.de/hrrtl-chemnitz?aggregator=radiode
 #EXTINF:0,HITRADIO RTL - Lausitz
 https://web.radio.hitradio-rtl.de/hrrtl-lausitz?aggregator=radiode
 #EXTINF:0,HITRADIO RTL - Leipzig
@@ -1385,8 +1383,6 @@ https://web.radio.hitradio-rtl.de/hrrtl-oldies?aggregator=radiode
 https://web.radio.hitradio-rtl.de/hrrtl-dresden?aggregator=radiode
 #EXTINF:0,HITRADIO RTL - Vogtland
 https://web.radio.hitradio-rtl.de/hrrtl-vogtland?aggregator=radiode
-#EXTINF:0,HITRADIO RTL - Weihnachtsradio
-https://web.radio.hitradio-rtl.de/hrrtl-xmas?aggregator=radiode
 #EXTINF:0,Hitradio Songs
 https://stream.laut.fm/hitradiosongs?ref=radiode
 #EXTINF:0,Hit Radio The WURX
@@ -3541,8 +3537,6 @@ https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC
 #EXTINF:0,Radio Chablais - Oldies
 http://stream.radiochablais.ch/chablais-oldies.mp3
-#EXTINF:0,Radio Chemnitz
-https://streams.bcs-systems.de/slp/live/chemnitz/mp3/radio.de
 #EXTINF:0,Rádio Cidade SBU
 https://stream.zeno.fm/629ztr1gs18uv
 #EXTINF:0,Cerise FM 88.2
@@ -3591,8 +3585,6 @@ http://hts08.kshost.com.br:9394/stream/1/
 https://uksoutha.streaming.broadcast.radio:15380/radiodowntownca
 #EXTINF:0,Radio Dreams 90' Hits
 http://radiodreams.g1.ro:3399/listen
-#EXTINF:0,Radio Dresden
-https://streams.bcs-systems.de/slp/live/dresden/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radio Drunk
 https://stream-58.zeno.fm/kg271rdzgm0uv?zs=9GiR329qSZiSQY0vMNo4Cg
 #EXTINF:0,Radio Dur
@@ -3611,8 +3603,6 @@ https://nr8.newradio.it:19602/stream
 https://stream.lokalradio.nrw/445bjvr
 #EXTINF:0,Radio Erft - Dein Oldie Radio
 https://stream.lokalradio.nrw/445bnjb
-#EXTINF:0,Radio Erzgebirge
-https://streams.bcs-systems.de/slp/live/erzgebirge/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radio Euskirchen - Dein Oldie Radio
 https://stream.lokalradio.nrw/445btvg
 #EXTINF:0,RADIO EXPRESSO
@@ -3717,10 +3707,6 @@ https://stream.zeno.fm/ine3m5qm4bcvv
 https://audio5.tustreaming.cl/8025/stream
 #EXTINF:0,Radio Lammertal
 http://server4.streamserver24.com:26311/stream/1/
-#EXTINF:0,Radio Lausitz
-https://streams.bcs-systems.de/slp/live/lausitz/mp3/radio.de/playlist.m3u
-#EXTINF:0,Radio Leipzig
-https://streams.bcs-systems.de/slp/live/leipzig/mp3/radio.de
 #EXTINF:0,Radio Leverkusen - Dein Oldie Radio
 https://stream.lokalradio.nrw/445csh6
 #EXTINF:0,RÁDIO LEVE - SP/BRAZIL
@@ -4073,8 +4059,6 @@ https://shoutcast.glwiz.com/RadioYAR.mp3
 https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?
 #EXTINF:0,Radio Zig Zag Franche-Comté
 https://radio13.pro-fhi.net/flux-ymuendud/stream
-#EXTINF:0,Radio Zwickau
-https://streams.bcs-systems.de/slp/live/zwickau/mp3/radio.de/playlist.m3u
 #EXTINF:0,Radyo Ayvalık
 https://radyo1.radyo-dinle.tc/8006/stream
 #EXTINF:0,Radyo Caluya

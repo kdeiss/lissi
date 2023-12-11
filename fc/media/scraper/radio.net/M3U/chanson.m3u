@@ -229,8 +229,6 @@ https://manager7.streamradio.fr:2625/stream
 https://sr3.publicssl.net/srv/8358/stream
 #EXTINF:0,MAXIMUM
 https://icecast.luxnet.ua/radio24
-#EXTINF:0,Medi 1
-https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8
 #EXTINF:0,Meuse FM - Bar-Le-Duc
 https://www.radioking.com/play/meuse-fm-bar-le-duc-commercy
 #EXTINF:0,Mistral FM
@@ -271,6 +269,8 @@ https://manager7.streamradio.fr:2135/stream
 https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Radio Néo
 http://stream.radioneo.org:8000/;
+#EXTINF:0,Neptune FM 91.9
+https://diffusion.lafrap.fr/neptune.mp3
 #EXTINF:0,Radio Nord Bretagne
 https://radionordbretagne.ice.infomaniak.ch/radionordbretagne.mp3
 #EXTINF:0,NOSTALGIE 100% FRANCAIS 80
@@ -359,8 +359,6 @@ http://listen.pro-fhi.net/radiolovestars.m3u
 https://radiostream.comequip.eu/radio-code.php?server=51.159.20.201&port=8006&mount=margeride
 #EXTINF:0,Radio Moliets
 http://51.38.186.141:8000/1
-#EXTINF:0,Radio Nîmes, Avé l'accent
-https://hosting.studioradiomedia.fr:1645/stream
 #EXTINF:0,Radio NV - Радіо НВ
 https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Obozrevatel Chanson
@@ -419,8 +417,6 @@ https://myradio24.org/8317
 http://dixit.cloudradio.fr:8014/stream
 #EXTINF:0,RDL
 https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3
-#EXTINF:0,RER - Radio Est Réunion
-https://rerreunion.ice.infomaniak.ch/rerreunion-64.aac
 #EXTINF:0,RFM 100% Français
 https://wr.lmn.fm/rfm-wr11.aac?aw_0_1st.playerid=lgrdnwsRadiofr
 #EXTINF:0,RIRE & CHANSONS
@@ -461,8 +457,6 @@ https://scoopfrance.ice.infomaniak.ch/radioscoop-france-64.aac
 https://stream3.vestaradio.com/SONETMUSIC
 #EXTINF:0,starvision inter
 http://91.121.164.210:8136/stream/1/
-#EXTINF:0,TFM
-https://radiotfm.ice.infomaniak.ch/radiotfm-128.mp3
 #EXTINF:0,Tinder Radio - Musique Francaise
 https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
 #EXTINF:0,Top Tonic France
