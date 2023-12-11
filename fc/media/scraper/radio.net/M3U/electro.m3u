@@ -380,7 +380,7 @@ https://listen.radioking.com/radio/572276/stream/635654
 #EXTINF:0,Audioasyl
 http://stream.audioasyl.net:8000/audioasyl
 #EXTINF:0,audiogrooves.net Club
-https://soul.audiogrooves.net/club.aac
+http://soul.audiogrooves.net/club.aac
 #EXTINF:0,Axone Radio
 https://listen.radioking.com/radio/137041/stream/177043
 #EXTINF:0,Cannes Radio - Clubbing
@@ -451,6 +451,8 @@ https://stream.zeno.fm/brfh81hz3tzuv
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC_SC
 #EXTINF:0,Beat 100.9 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM.mp3
+#EXTINF:0,Beat 98 Radio
+https://stream.zeno.fm/c8gzhyziv8xvv
 #EXTINF:0,Beat-Club-Revolution-Radio
 http://stream04.stream-webradiotechnik.de:9600/stream/1/
 #EXTINF:0,Radio Beat Extra
@@ -1755,8 +1757,6 @@ https://icecast.funradio.fr/fun-1-44-128
 http://stream.funradio.se/live128
 #EXTINF:0,Fun Radio Belgique
 https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac
-#EXTINF:0,Fun Radio Dance
-https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:0,HIT RADIO GUYANE
 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
 #EXTINF:0,Fun Radio Réunion
@@ -2247,6 +2247,8 @@ https://play.wrhradios.com/8014/stream
 https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
 #EXTINF:0,KCRZ
 https://crystalout.surfernetwork.com:8001/KPFZ-FM_MP3
+#EXTINF:0,KCSB - FM 91.9
+http://live.kcsb.org/KCSB_64.mp3
 #EXTINF:0,KEDUBONSON
 https://listen.radioking.com/radio/22673/stream/55397
 #EXTINF:0,Keimada Radio Sound
@@ -2649,8 +2651,6 @@ https://stream.laut.fm/dance?ref=radiode
 https://stream.laut.fm/dance-1radio?ref=radiode
 #EXTINF:0,Dance Alarm
 https://stream.laut.fm/dancealarm?ref=radiode
-#EXTINF:0,Dance Classics De
-https://stream.laut.fm/dance-classics-de?ref=radiode
 #EXTINF:0,Dancefloor Hamburg
 https://stream.laut.fm/dancefloor-hh?ref=radiode
 #EXTINF:0,dancemusic
@@ -3583,6 +3583,8 @@ https://stream.laut.fm/radiolovers?ref=radiode
 https://stream.laut.fm/radiomania?ref=radiode
 #EXTINF:0,radiomegaline
 https://stream.laut.fm/radiomegaline?ref=radiode
+#EXTINF:0,Radiomix Saterland
+http://stream.laut.fm/radio-mix-saterland
 #EXTINF:0,Radiomusicadiscondance
 https://stream.laut.fm/radiomusicadiscondance?ref=radiode
 #EXTINF:0,radiomusicnetwork
@@ -4028,13 +4030,13 @@ http://s02.fjperezdj.com:8005/live
 #EXTINF:0,Loca FM Dance
 http://s02.fjperezdj.com:8025/live
 #EXTINF:0,Loca FM Melodic Techno
-http://s02.fjperezdj.com:8056/live
+http://s02.fjperezdj.com:8056/live?2
 #EXTINF:0,Loca FM Live
 http://s3.we4stream.com:8045/liv
 #EXTINF:0,Loca FM
-http://s3.we4stream.com:8045/liv
+http://s3.we4stream.com:8045/liv?2
 #EXTINF:0,Loca FM Melodic Deep
-http://s3.we4stream.com:8045/liv
+http://s3.we4stream.com:8045/liv?3
 #EXTINF:0,Loca FM Pamplona
 https://s47.myradiostream.com:13914/stream/1/
 #EXTINF:0,Loca FM Pride
@@ -4043,8 +4045,6 @@ http://s02.fjperezdj.com:8070/live
 https://node-10.zeno.fm/80fmc1cfdwzuv
 #EXTINF:0,Lofi Radio Station
 http://stream.zeno.fm/f3wvbbqmdg8uv
-#EXTINF:0,LOGOS FM
-http://193.70.85.229:8000/xstream2
 #EXTINF:0,Lolliradio Dance
 https://stream.lolliradio.net/lolli_dance.mp3?FLID=7
 #EXTINF:0,London Music Radio
@@ -4697,8 +4697,6 @@ https://api.onlyhit.us/play
 http://stream.only-radio.net:8000/192
 #EXTINF:0,ON Techno
 http://0n-techno.radionetz.de/0n-techno.mp3
-#EXTINF:0,Open Broadcast Radio
-http://stream.openbroadcast.org/openbroadcast.mp3
 #EXTINF:0,OpenFM - 4FUN Radio
 https://stream.open.fm/173
 #EXTINF:0,OpenFM - 500 Party Hits
@@ -4795,8 +4793,6 @@ https://radio7.pro-fhi.net:19085/stream
 http://91.121.155.140:14160/stream/1/
 #EXTINF:0,Paradise Beats FM
 https://ins1.radiolize.com/radio/8100/radio.mp3
-#EXTINF:0,PARADOX FM
-https://paradoxfm.out.airtime.pro/paradoxfm_a
 #EXTINF:0,Radio PARALAX
 https://www.radio-paralax.de/listen.pls
 #EXTINF:0,Partybeatz.net
@@ -5051,6 +5047,8 @@ https://stream.punkrockers-radio.de:8443/prr.mp3
 http://www.punksender.de/punksender.m3u
 #EXTINF:0,Pure Dance Radio UK ?
 https://stream.zeno.fm/p1nkxqj8hsptv
+#EXTINF:0,PureDJ
+https://casthttps.suaradionanet.net/10502/stream
 #EXTINF:0,pure fm - bayerns dance radio
 https://s4.radionetz.de/purefm-by.mp3
 #EXTINF:0,pure fm – berlins dance radio
@@ -5371,14 +5369,10 @@ https://radioairplay.fr:1260/stream
 http://65.21.202.84:8356/stream
 #EXTINF:0,Radio Interativa
 https://stream.jmhost.com.br/radio/8200/radio?1583329941/;
-#EXTINF:0,Radio InTime.one - your electronic music radio
-https://malta1122.startdedicated.de:9000/intime_128
 #EXTINF:0,Radio Invasion Chile
 http://185.105.4.100/proxy/radioinv?mp=%2Fstream
 #EXTINF:0,Radio Jeans - House Tecno Dance
 http://streaming.radiojeans.net/rj_dance.m3u
-#EXTINF:0,Radio Junior
-https://stream.votreradiosurlenet.eu/radiojunior.mp3
 #EXTINF:0,Radio Kampus 97,1 FM
 https://stream.open.fm/337
 #EXTINF:0,Radio Kec Internacional
@@ -5679,6 +5673,8 @@ https://streaming.radio.co/s3a9cb38f3/listen
 http://stm12.voxtreaming.com.br:6890/stream/1/
 #EXTINF:0,Radio Sónico Chile
 https://streaming.comunicacioneschile.net/8054/stream
+#EXTINF:0,Radio Sonidos toxicos
+https://sp001.servidoresph.com/8042/;
 #EXTINF:0,RADIO SPACCA NAPOLI
 http://167.86.86.4:8028/stream
 #EXTINF:0,Radio Spire

@@ -293,6 +293,8 @@ https://stream.laut.fm/dragonbeatz-fm?ref=radiode
 http://87.118.78.50:11100/;
 #EXTINF:0,Dragonland-Radio
 https://s1.genx-stream.de:8552/;
+#EXTINF:0,Dream Dance Radio
+http://streamserver3.m-hosting.eu:11000/stream
 #EXTINF:0,Drentse Piraten
 https://server1.streamgigant.nl:9214/drentsepiraten192
 #EXTINF:0,DRP Deutsches Radio Polen
@@ -431,11 +433,9 @@ https://ls100.systemweb-server.eu/listen/hitpower_radio/hpr1.mp3
 http://94.23.6.107:8505/;stream.nsv
 #EXTINF:0,Hitradio - Bodensee
 https://dealer1952.radioca.st/stream/2/
-#EXTINF:0,Hitradio Fun
-http://5.9.16.111:8620/stream/1/
 #EXTINF:0,Hitradio-Münsterland
 http://c02.lexycast.de:3850/;
-#EXTINF:0,HITRADIO RTL - Schlager
+#EXTINF:0,HITRADIO RTL Schlager
 https://web.radio.hitradio-rtl.de/hrrtl-schlager?aggregator=radiode
 #EXTINF:0,Hitradio-Suhl
 https://stream.laut.fm/hitradiosuhl?ref=radiode
@@ -1359,6 +1359,8 @@ https://stream.laut.fm/radiomelodyfire?ref=radiode
 https://stream.laut.fm/radio-mercur?ref=radiode
 #EXTINF:0,Radio Mitteldeutschland
 https://stream.laut.fm/radiomitteldeutschland?ref=radiode
+#EXTINF:0,Radiomix Saterland
+http://stream.laut.fm/radio-mix-saterland
 #EXTINF:0,radiomixx
 http://91.232.4.33:10600/stream?1547315321259.aac
 #EXTINF:0,Radio Möwe
@@ -1765,8 +1767,6 @@ https://stream.laut.fm/soundofbeatzradio?ref=radiode
 https://stream.laut.fm/sound-of-black-radio?ref=radiode
 #EXTINF:0,Sound of Music Radio
 https://stream.laut.fm/soundofmusicradio?ref=radiode
-#EXTINF:0,Sound Of Paradies
-http://stream04.stream-webradiotechnik.de:8150/listen1
 #EXTINF:0,SoundPad-Radio
 https://stream.laut.fm/soundpad?ref=radiode
 #EXTINF:0,Sounds Of Sauer
@@ -2007,6 +2007,8 @@ https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3?aggregator=radio-
 https://stream2-alfacast-hosting.com/8142/stream
 #EXTINF:0,NE-WS 89.4 - Dein Schlager Radio
 https://stream.news894.de/44523zp
+#EXTINF:0,Niedersachsen-Sound-Radio
+https://s4.genx-stream.de:8602/stream
 #EXTINF:0,Noël Web Radio
 https://stream.laut.fm/christmastimeagain?ref=radiode
 #EXTINF:0,Nord-See-Radio
@@ -2178,7 +2180,7 @@ https://s2.radio.co/sae093fce6/listen
 #EXTINF:0,Radio Caramba
 https://streamingv2.shoutcast.com/Caramba
 #EXTINF:0,Radio-Chaosteam
-http://c01.lexycast.de:3990/listen1
+https://azura.nexusradio-hosting.de/listen/radio-chaosteam/stream
 #EXTINF:0,Kölsche Tön aus Köln
 http://stream04.stream-webradiotechnik.de:8400/listen1
 #EXTINF:0,Radio-Crazy
@@ -2197,8 +2199,6 @@ http://server34815.streamplus.de/stream.mp3
 http://stream01.script24.net:9016/stream/1/
 #EXTINF:0,Radio Duisburg - Dein Schlager Radio
 https://stream.lokalradio.nrw/4453r8p
-#EXTINF:0,Radio Džungla
-http://5.9.25.50:9302/;
 #EXTINF:0,Radio Edelweiss
 https://stream.radioedelweiss.it:8443/stream
 #EXTINF:0,Radio - Elbdröhnung
