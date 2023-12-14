@@ -343,8 +343,6 @@ http://stream.zeno.fm/5l9wltxrimyuv
 https://stream.allgaeuhit.de/allgaeuhit/mp3-192/?ref=radiode
 #EXTINF:0,All Hit Remixes @ MEGASHUFFLE.com
 https://maggie.torontocast.com:9030/stream
-#EXTINF:0,All Hits 680am SCRN
-http://freeuk23.listen2myradio.com:24024/;
 #EXTINF:0,All Radio Jul
 https://s5.radio.co/s0072b90d9/low
 #EXTINF:0,ALL STAR\`S DANCE / NEW OLD
@@ -661,6 +659,8 @@ https://streaming.inten.pl:8020/bonton.mp3
 http://192.99.8.192:3630/stream/
 #EXTINF:0,Boss FM 95.5
 https://edge.mixlr.com/channel/oeltj
+#EXTINF:0,Bournemouth One
+http://playoutonestreaming.com:8094/bournemouthone.m3u
 #EXTINF:0,Box UK
 https://boxstream.danceradiouk.com/stream/1/
 #EXTINF:0,Brace Radio
@@ -775,7 +775,7 @@ https://stream.zeno.fm/nuhtaerxea0uv
 http://185.80.220.12:8088/stream/1/
 #EXTINF:0,Radio Carrizal
 https://relay.stream.enacast-cloud.com:40054/radiocarrizal128.mp3
-#EXTINF:0,CASA ITALIA RADIO
+#EXTINF:0,CASA RADIO
 https://nr14.newradio.it:8571/stream
 #EXTINF:0,COPE CASTELLÓN -VINARÒS
 https://vinaroz-copesedes-flucast.flumotion.com/copesedes/vinaroz.mp3.m3u
@@ -1867,7 +1867,7 @@ https://buzz.ice.infomaniak.ch/buzz-128.mp3
 https://frontend.streamonkey.net/fho-hitradioohrspezial?aggregator=radio.de
 #EXTINF:0,Hitrádio Orion
 https://ice.abradio.cz/orion128.mp3
-#EXTINF:0,HITRADIO RTL - PartyMix
+#EXTINF:0,HITRADIO RTL PartyMix
 https://web.radio.hitradio-rtl.de/hrrtl-maxis?aggregator=radiode
 #EXTINF:0,HITRADIO RTL Top 40
 https://web.radio.hitradio-rtl.de/hrrtl-top40?aggregator=radiode
@@ -2177,6 +2177,8 @@ https://r10.ciclano.io:15033/stream
 https://shout35.crossradio.com.br:18038/1
 #EXTINF:0,Jovem Pan FM Ipatinga
 http://radio3.logicahost.com.br:9130/stream/1/
+#EXTINF:0,Jovem Pan FM Maceió
+http://radios.cabreuvoip.com.br:7054/stream
 #EXTINF:0,Jovem Pan FM Manaus
 https://shout25.crossradio.com.br:18022/1
 #EXTINF:0,Jovem Pan FM Maringá
@@ -2601,8 +2603,6 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855
 https://stream.mediasector.es/radio/8020/lamega.mp3
 #EXTINF:0,La Pelota es Mía Radio
 https://stream-51.zeno.fm/fbrn4m76a5zuv?zs=XUz7E28HQpCoSozeNDM2Ng
-#EXTINF:0,La Preferida Stereo
-https://stream.zeno.fm/9qpxrtdjwzuvv
 #EXTINF:0,La Radio Del Compadre
 http://192.99.44.11:4672/sid=1
 #EXTINF:0,Laser 101 St. Maarten
@@ -4257,8 +4257,6 @@ http://jotnarayan.synology.me:9995/My_Sound_Radio
 https://edge09.streamonkey.net/fhn-hitradion1
 #EXTINF:0,Splendid Radio Ohio
 https://stream.zeno.fm/n7guku2ozqgtv
-#EXTINF:0,Nacional Stereo
-https://s30.myradiostream.com/31370/listen.mp3
 #EXTINF:0,Nara24 FM
 https://cast4.asurahosting.com/proxy/kamulite/stream
 #EXTINF:0,Nashe Radio Наше Радио Киев
@@ -4307,6 +4305,8 @@ http://stream-47.zeno.fm/zm0k7bgkw98uv?zs=P9zTgNXbRAifJvBxspfzgA
 http://noisefm.ru:8000/play?type=.mp3/;stream.mp3
 #EXTINF:0,Noite FM
 https://proxy-audio.ptisp.com:8080/stream
+#EXTINF:0,Bekende Hits
+https://servidor19.brlogic.com:7066/live?identifier=radio.net&amp;source=9379
 #EXTINF:0,Non Stop Pop
 https://streamingv2.shoutcast.com/nonstoppop
 #EXTINF:0,Radio Norba
@@ -5517,8 +5517,6 @@ https://stream.saw-musikwelt.de/saw-urban/mp3-128/radiode/stream.mp3
 https://stream.zeno.fm/yvkfn7y994zuv
 #EXTINF:0,Radio Schötmar
 https://saurus.streampanel.cloud:5720/stream
-#EXTINF:0,RadioScia
-https://rswr.radioca.st/;stream.nsv
 #EXTINF:0,Radio SCOOP - Lyon
 https://radioscoopbourg-en-bresse.ice.infomaniak.ch/radioscoop-bourg-64.aac
 #EXTINF:0,Radio Seven One
@@ -5527,6 +5525,8 @@ https://sr7.inmystream.it/proxy/radiosev?mp=/stream
 https://stream.zeno.fm/s35qd0vptg0uv
 #EXTINF:0,Radio Siegen - Dein Top40 Radio
 https://stream.lokalradio.nrw/44526n6
+#EXTINF:0,Radio Sirena
+http://rsirena.dnsalias.com:8000/rsirenacope
 #EXTINF:0,Radio SiTy
 https://radiosity.online:8000/aac
 #EXTINF:0,Radio Skenderaj
@@ -5631,6 +5631,8 @@ https://stream2.radiotransilvania.ro/Zalau
 http://radioup.radioup.com:7000/;
 #EXTINF:0,Rádio Up - Hits
 https://painel.srvgarcia.info/listen/uphits/stream
+#EXTINF:0,Radio Vala Rinore
+http://ca3.rcast.net:8024/stream/1/
 #EXTINF:0,Radio Vela
 http://onair11.xdevel.com:8170/stream/1/
 #EXTINF:0,Radio Velenje
@@ -5714,7 +5716,7 @@ https://sp0.redeaudio.com/8116/stream
 #EXTINF:0,RC Radio - La más viral
 https://us3freenew.listen2myradio.com/live.mp3?typeportmount=s1_20786_stream_60406522
 #EXTINF:0,RCV+ - Rádio de Cabo Verde Jovem
-https://radios.vpn.sapo.pt/CV/radio6.mp3
+https://rcvonline.ddns.net/proxy/rtc_rcv_mais/stream
 #EXTINF:0,R-d-d
 https://stream-webcast-lt-24.de:10979
 #EXTINF:0,RDF 102e7
@@ -5929,6 +5931,8 @@ http://silverrain.hostingradio.ru/silver64.aac
 https://play.radio.br:8089/Simpatia/SimpatiaAM/playlist.m3u8
 #EXTINF:0,Simply Radio Italia
 https://stream4.xdevel.com/audio1s975968-807/stream/icecast.audio
+#EXTINF:0,Radio Sintonía 88 FM
+https://eu1.lhdserver.es:8055/stream
 #EXTINF:0,SiRadio
 http://82.223.29.65:8080/vcbm_siradio
 #EXTINF:0,SKI FM Network
@@ -6057,6 +6061,8 @@ https://picy.studiorhedenlive.nl/str
 https://kathy.torontocast.com:2985/stream
 #EXTINF:0,Radio Studio Souto - Top 40
 https://centova5.transmissaodigital.com:20041/stream
+#EXTINF:0,Styl FM
+http://s2.nexuscast.com:8024/stream/1/
 #EXTINF:0,Radio SUD FM Craiova 97.4
 http://media.gds.ro:8500/128.mp3
 #EXTINF:0,suenaQsuena
@@ -6446,7 +6452,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBHTFM.mp3
 #EXTINF:0,WBHV All Hit B 94.5 FM
 https://ice10.securenetsystems.net/WBHV
 #EXTINF:0,WBHX - 107.1 FM
-http://3.94.166.127/press-wwzyfmaac-ibc1
+https://live.amperwave.net/manifest/press-wwzyfmaac-hlsc1.m3u8
 #EXTINF:0,WBQB - B 101.5 FM
 https://live.amperwave.net/manifest/centennialb-wbqbfmaac-hlsc3.m3u8
 #EXTINF:0,WBQT - HOT 96.9

@@ -130,9 +130,9 @@ https://web.radio.antennesachsen.de/antsa-chemnitz?aggregator=radiode
 #EXTINF:0,ANTENNE SACHSEN - Region Lausitz
 https://web.radio.antennesachsen.de/antsa-lausitz?aggregator=radiode
 #EXTINF:0,ANTENNE SACHSEN - Region Leipzig
-https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3?aggregator=radiode
+https://web.radio.antennesachsen.de/antsa-leipzig?aggregator=radiode
 #EXTINF:0,ANTENNE SACHSEN - Livestream
-https://web.radio.antennesachsen.de/antsa-sachsen?aggregator=radiode
+https://web.radio.antennesachsen.de/antsa-dresden?aggregator=radiode
 #EXTINF:0,ANTENNE SACHSEN - Region Vogtland
 https://web.radio.antennesachsen.de/antsa-vogtland?aggregator=radiode
 #EXTINF:0,ANTENNE BAYERN - Schlagersahne
@@ -243,6 +243,8 @@ http://217.160.188.250:8000/stream/1/
 https://das-durchgeknallte-radio.de:8102/;
 #EXTINF:0,Radio Dauerbrenner
 http://server34835.streamplus.de:12500
+#EXTINF:0,Dead-Fire-Power-Radio
+https://stream2-alfacast-hosting.com/8030/;
 #EXTINF:0,De Beste Piratenhits
 http://radio.streampanel.nl:1440/stream
 #EXTINF:0,Deineschlagerwelt
@@ -349,6 +351,8 @@ https://streams.ffh.de/ffhchannels/mp3/hqschlagerherz.mp3?amsparams=playerid:RTF
 https://sp.fire-force-radio.de/listen/fire-force-radio/radio.mp3
 #EXTINF:0,Flamingstars MusicWord
 http://94.130.222.237:22048/stream
+#EXTINF:0,Flr1plus
+https://stream.hoerfunkbundstream.de:35102/stream
 #EXTINF:0,Foerde Radio - Schlager
 https://live.foerde-radio.de/Stream4
 #EXTINF:0,Foxtanz
@@ -1917,6 +1921,10 @@ https://stream.laut.fm/zweilive?ref=radiode
 http://s1.slotex.pl:7028/stream/1/
 #EXTINF:0,leuk.fm
 http://stream.leuk.fm/stream
+#EXTINF:0,Life Radio Aprés Ski Hits
+https://stream.liferadio.at/apresski/mp3-192/radioat/
+#EXTINF:0,Life Radio Tirol Schlagerpuls
+http://stream.liferadio.tirol/schlager/mp3-192/radiode
 #EXTINF:0,Radio Lippewelle Hamm - Dein Schlager Radio
 https://stream.lokalradio.nrw/445236x
 #EXTINF:0,LOA2010
@@ -2155,6 +2163,8 @@ https://stream.radioachterhoek.nl/
 https://saurus.streampanel.net/hgcntkxz?mp=/stream
 #EXTINF:0,Radio Alsterwelle
 https://stream.laut.fm/alsterwelle?ref=radiode
+#EXTINF:0,Radio Annett
+https://server31398.streamplus.de/;stream.mp3
 #EXTINF:0,Radio Arabella Kult
 https://live.stream.radioarabella.de/radioarabella-arabellakult?aggregator=radiode
 #EXTINF:0,Radio Austria - Best of Schlager
@@ -2199,6 +2209,8 @@ http://server34815.streamplus.de/stream.mp3
 http://stream01.script24.net:9016/stream/1/
 #EXTINF:0,Radio Duisburg - Dein Schlager Radio
 https://stream.lokalradio.nrw/4453r8p
+#EXTINF:0,Radio Džungla
+http://5.9.25.50:9302/;
 #EXTINF:0,Radio Edelweiss
 https://stream.radioedelweiss.it:8443/stream
 #EXTINF:0,Radio - Elbdröhnung
@@ -2804,7 +2816,7 @@ https://stream.zeno.fm/3991cm5t6k8uv
 #EXTINF:0,Welle Niederrhein - Dein Schlager Radio
 https://stream.welleniederrhein.de/44523kf
 #EXTINF:0,Welle Ost 2
-https://server36127.streamplus.de/stream.mp3
+http://server36127.streamplus.de/stream.mp3
 #EXTINF:0,Weltbild Radio Meine Hitparade
 https://weltbild.streamabc.net/weltb-wbrhitparade-mp3-128-4964443
 #EXTINF:0,Weltbild Radio
