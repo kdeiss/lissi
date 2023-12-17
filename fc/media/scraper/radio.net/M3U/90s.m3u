@@ -785,6 +785,8 @@ http://s35.myradiostream.com:14472/listen.mp3
 https://01.solumedia.com.ar:8176/stream
 #EXTINF:0,Densomaniak Radio
 https://stream.iradio.pro/proxy/densomaniak?mp=/stream
+#EXTINF:0,Deportes & Mas con Marino
+http://server2.ejeserver.com:8900/stream
 #EXTINF:0,Der Dudelfunk
 http://streaming.radionomy.com/RadioL-Air
 #EXTINF:0,Des Hits
@@ -921,8 +923,6 @@ https://sonic.mediatelekom.net/9014/stream
 https://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
 #EXTINF:0,Espace Girly
 http://broadcast.infomaniak.ch/espace-vintage-high.mp3
-#EXTINF:0,Espacio Network 106.1 FM
-https://acp2.lorini.net:28050/stream
 #EXTINF:0,Estacion 90's radio
 https://radio.livestreamingmundial.com:7004/live
 #EXTINF:0,Estereo 88.7 Fm
@@ -975,6 +975,8 @@ http://digitalfm.dynu.com:8000/digitalfm64
 http://streaming.radionomy.com/Fantasia-Dance-Radio
 #EXTINF:0,Fantasy Radio
 https://fantasyradionew.radioca.st/stream/1/
+#EXTINF:0,FedeR music
+https://node-14.zeno.fm/2vegk4n4708uv?rj-ttl=5&rj-tok=AAABfErKqCkAQ_Zk_hJtDXhRag
 #EXTINF:0,Feel Good Radio
 https://ssl.feelgoodradio.eu/proxy/feelgoodradio/stream
 #EXTINF:0,Feeling FM 91.7
@@ -1199,30 +1201,20 @@ https://s01.transmissaodigital.com:6676/aac
 https://happyrave-rex.radioca.st/stream
 #EXTINF:0,harmony 80er-90er Kultnight
 https://streams.harmonyfm.de/hrmchannels/mp3/hq80er90erkultnight.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony Depeche Mode Radio
+#EXTINF:0,harmony 80er Wave Pop
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars03.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony Elton John Radio
-https://streams.harmonyfm.de/hrmchannels/mp3/hqstars04.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony.fm
 https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
-#EXTINF:0,harmony Kim Wilde Radio
-https://streams.harmonyfm.de/hrmchannels/mp3/hqstars08.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony Michael Jackson Radio
-https://streams.harmonyfm.de/hrmchannels/mp3/hqstars06.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony Pet Shop Boys Radio
+#EXTINF:0,harmony 80er Synthie Pop
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars05.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony Phil Collins Radio
+#EXTINF:0,harmony 80er Superstars
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars02.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony +90er
-https://mp3.harmonyfm.de/hrmplus/hq90er.aac
-#EXTINF:0,harmony Roxette Radio
-https://streams.harmonyfm.de/hrmchannels/mp3/hqstars09.mp3?amsparams=playerid:RTFFHRadioDE
+https://streams.harmonyfm.de/hrmplus/mp3/hq90er.mp3
 #EXTINF:0,HARMONYS JUKEBOX
 http://stream.laut.fm/harmonys-jukebox?ref=radiode
-#EXTINF:0,harmony Tina Turner Radio
+#EXTINF:0,harmony 80er Divas
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars01.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony Whitney Houston Radio
-https://streams.harmonyfm.de/hrmchannels/mp3/hqstars07.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,HAVC Radio Online
 https://stream-43.zeno.fm/hatrpcrdh5zuv?zs=xZWEfHRTSP-qBvQ-gNPOcQ&acu-uid=626574777305&aw-uid=a1374c036a02fc26935bbc99fa1ff6e0&aw_0_req_lsid=19a752a14c28ed3258a07a00f9910b68&mm-uid=fb1e61a5-fa1e-4600-a3f7-e6ec44d674ca&rj-ttl=5&triton-uid=cookie%3Ad2956306-dae9-4fda-99ac-2d2
 #EXTINF:0,Heart 90s
@@ -1565,8 +1557,6 @@ https://streamingsonicpro.com/8138/stream
 https://cloudstream2032.conectarhosting.com/8160/stream
 #EXTINF:0,LA PODEROSA
 https://stream.zeno.fm/u2r9974z67zuv
-#EXTINF:0,La Rocka 90
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,Laser Hot Hits International
 http://213.175.217.198:8000/laserhq
 #EXTINF:0,LATI2
@@ -2223,12 +2213,8 @@ https://radiocast.eu:8000/radio.mp3
 https://de2.streamingpulse.com/ssl/Mixtimeradio
 #EXTINF:0,mmRadio
 https://shoutcast.mattmski.net:8000/stream
-#EXTINF:0,Montecristo 92.5 La Rioja
-https://alpha.radioplayer.com.ar:9180/montecristo-larioja
-#EXTINF:0,Montecristo 96.9 Chilecito
-https://alpha.radioplayer.com.ar:9180/montecristo-chilecito
 #EXTINF:0,Moorish Radio
-https://cdnvod.panda-os.com/livehls/64c10bc206304475f6428f63/master.m3u8
+http://s3.radio.co/sd8b7325ab/listen.m3u
 #EXTINF:0,More FM
 https://digitalstreams3.mediaworks.nz/more-AKL-high/playlist.m3u8
 #EXTINF:0,More Radio Retro
@@ -2277,8 +2263,6 @@ https://radio.myhitmusic.de/Toms-Club90s-aac.mp3
 https://stream.zeno.fm/vtzf1dppgxiuv
 #EXTINF:0,MZ RADIO
 https://manager7.streamradio.fr:2135/stream
-#EXTINF:0,Namib Radio 
-https://s20.reliastream.com:8018/stream
 #EXTINF:0,Nashe Radio Наше Радио Киев
 https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Nation Radio 90s
@@ -2644,7 +2628,7 @@ https://icy.unitedradio.it/105Dance90.mp3
 #EXTINF:0,Radio 10 90's Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3?dist=radionet
 #EXTINF:0,Radio10
-https://server7.streamserver24.com/proxy/postelda?mp=/;stream.mp3
+http://server7.streamserver24.com:12498/;
 #EXTINF:0,Radio 13
 http://stream2.mfmstreaming.nl:8040/live
 #EXTINF:0,Radio 1 HITS
@@ -2751,8 +2735,6 @@ https://stream.streambase.ch/ffm/mp3-192/bern190s-radiode/
 https://us1new.listen2myradio.com:2199/tunein/radiobet.pls
 #EXTINF:0,Radio Bioestacion
 http://puma.streemlion.com:2130/stream
-#EXTINF:0,Radio Blondie Webradio
-http://freeuk28.listen2myradio.com:3533/listen
 #EXTINF:0,RADIO BOB! BOBs 90er Rock
 https://streams.radiobob.de/bob-90srock/mp3-128/radiode/
 #EXTINF:0,Radio Bochum - Dein 90er Radio
@@ -2941,8 +2923,6 @@ http://15424.cloudrad.io:9182/live
 https://stream.radiojar.com/ympb8vef3p8uv
 #EXTINF:0,Radio-Freunde
 https://server3.streamserver-unlimited.de:8839
-#EXTINF:0,Radio-FunBox 
-http://stream.radio-funbox.de:8000/stream/1/
 #EXTINF:0,Radio G-FM
 http://radiogfm.dyndns.org:8200/high.mp3
 #EXTINF:0,Radio Gibraltar
@@ -2975,8 +2955,6 @@ http://caster04.streampakket.com:8874/stream/1/
 https://sonic.radiostreaminglatino.com:2083
 #EXTINF:0,Radio House
 https://streamingv2.shoutcast.com/RADIOHOUSE1
-#EXTINF:0,Radio House HouseRadio
-https://radio.plandos.com/8004/stream
 #EXTINF:0,Radio Huemul
 http://01.solumedia.com.ar:8488/stream?icy=http
 #EXTINF:0,radio-idan
@@ -2985,6 +2963,8 @@ https://live.ecast.co.il:8000/stream?type=http&nocache=578
 http://104.237.1.12:8010/live.mp3
 #EXTINF:0,Radio Infinity
 https://sonic.dattalive.com:10903/stream
+#EXTINF:0,Radio InTime.one - your electronic music radio
+https://malta1122.startdedicated.de:9000/intime_128
 #EXTINF:0,Radio in Agrigento
 http://94.23.66.155:9242/stream;?1664887999520
 #EXTINF:0,Radio James
@@ -3265,6 +3245,8 @@ https://stream.zeno.fm/xt7hzq0nshruv
 https://stream.saw-musikwelt.de/saw-90er/mp3-128/radiode/stream.mp3
 #EXTINF:0,RADIO SCHWABEN
 https://s35.derstream.net/radioschwaben-aac.mp3
+#EXTINF:0,RadioScia
+https://rswr.radioca.st/;stream.nsv
 #EXTINF:0,Das neue Radio Seefunk - 90er pur
 http://webradio.radio-seefunk.de/90er
 #EXTINF:0,Radio Sevagram
@@ -3618,7 +3600,7 @@ https://www.radioking.com/play/rvsfm
 #EXTINF:0,RWCOM
 http://cast3.hoost.com.br:8693/stream
 #EXTINF:0,S4-Radio SEVEN
-http://s4-stream.com:10030/stream
+http://www.s4-stream.com:2199/tunein/s4radio7-stream2.pls
 #EXTINF:0,Sachsen Dance Radio
 http://84.200.41.25:11000/listen1
 #EXTINF:0,Sadhik FM hot
@@ -3823,8 +3805,6 @@ https://aska.ru-hoster.com:8000/stream
 http://stream.playerlive.info:8095/live.aac
 #EXTINF:0,Supreme Clientele Radio
 http://stream.radiojar.com/thcyv16sezzuv
-#EXTINF:0,SUR 20 Radio
-http://173.82.238.169:8076/mp3;
 #EXTINF:0,Radio Sur 92.1 FM
 http://ww3.radiosur.cl:5074/rsur
 #EXTINF:0,Sweet 419
@@ -3989,8 +3969,6 @@ https://transmitter.turbo80s.com:8443/live.mp3
 https://transmitter.turbo80s.com:8443/live.mp3
 #EXTINF:0,TuVidaFM
 https://tuvidafm.radioca.st/stream
-#EXTINF:0,Twickelstad FM
-http://server-24.stream-server.nl:8806/stream/1/
 #EXTINF:0,U 105.8 FM
 https://gbradio.cdn.tibus.net/U105
 #EXTINF:0,ukdjs radio

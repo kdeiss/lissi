@@ -19,8 +19,6 @@ https://sr1.publicssl.net/srv/8004/live
 https://sr1.publicssl.net/srv/8004/live
 #EXTINF:0,105.4 Cascais
 https://play.radioregional.pt:8220/1/
-#EXTINF:0,Radio 105 Rock
-https://radio105rock.radioca.st/;
 #EXTINF:0,106.9 SFM
 https://streaming05.liveboxstream.uk/proxy/sittingb?mp=/stream
 #EXTINF:0,106THREE Radio Lafayette
@@ -245,8 +243,6 @@ https://streaming.live365.com/a94780
 https://sr14.inmystream.it/stream/auroraradio
 #EXTINF:0,Austrian Rock Radio
 https://stream5.liferadio.at
-#EXTINF:0,autentik fm
-http://server6.globalhostla.com:9134/stream
 #EXTINF:0,BAGeL Radio 
 https://ais-sa3.cdnstream1.com/2606_128.aac
 #EXTINF:0,Bahia Radio Hits
@@ -433,8 +429,6 @@ https://stream.laut.fm/chiliguerilla?ref=radiode
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC.aac
 #EXTINF:0,ChroniX GRIT 
 https://usa5.fastcast4u.com/proxy/chronixg?mp=/1
-#EXTINF:0,94.9 CHRW
-http://129.100.145.33:8000/stream
 #EXTINF:0,CHRY VIBE 105.5
 https://ice7.securenetsystems.net/CHRY
 #EXTINF:0,CILU 102.7 FM - LU Radio
@@ -595,6 +589,8 @@ https://s5.radio.co/s7b616a338/listen
 https://mx.hdaudiostreaming.com/8224/stream
 #EXTINF:0,El Túnel Rock
 http://163.172.198.16:8014/;stream.mp3
+#EXTINF:0,emmeradio music and social
+https://cast.server89.com:8100/radio.mp3
 #EXTINF:0,Engenharia Rádio
 http://engradio.fe.up.pt:8080/live
 #EXTINF:0,enginalkus
@@ -995,10 +991,6 @@ https://sonic01.instainternet.com:7068/stream/1/
 http://server.laradio.online:8556/
 #EXTINF:0,La Mistica Radio
 https://stream.zeno.fm/av8m1adpxs8uv
-#EXTINF:0,La Rocka 70
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
-#EXTINF:0,La Rocka 90
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,lastFMpirate
 https://stream.lastfmpirate.com:8000/radio.mp3
 #EXTINF:0,Latin_Mania
@@ -1501,6 +1493,8 @@ https://stream.zeno.fm/4yv8mmea51zuv
 https://stream.liferadio.at/alternative/mp3-192/radioat/
 #EXTINF:0,Life Radio TDF
 https://delta.radioplayer.com.ar:9220/radiolife
+#EXTINF:0,Live Nation Radio
+https://livenationradio.ice.infomaniak.ch/livenationradio-midfi.mp3
 #EXTINF:0,Radio Live Stage One
 https://servidor22.brlogic.com:7450/live
 #EXTINF:0,Llanerita Estéreo
@@ -2111,8 +2105,6 @@ https://listen1.myradio24.com/8317
 https://rock-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,Study by rautemusik
 https://study-high.rautemusik.fm/?ref=radiode
-#EXTINF:0,Raw Radio
-https://playoutonestreaming.com/proxy/raw/?mp=/mp3;
 #EXTINF:0,RBB Radio Bip Brasil
 https://srv2.braudio.com.br/7220
 #EXTINF:0,RCI KASSAV
@@ -2127,6 +2119,8 @@ https://s2.mexside.net/8002/stream
 https://stream.revma.ihrhls.com/zc609
 #EXTINF:0,Rehegoo Radio UK - HD
 http://ice.creacast.com/rehegoo-uk-str3
+#EXTINF:0,RenAgade Radio
+https://us3.internet-radio.com/proxy/renagaderadio?mp=/live
 #EXTINF:0,Republic 100,3 FM
 http://173.249.6.18:1030/stream/1/
 #EXTINF:0,Resonance FM
@@ -2281,6 +2275,8 @@ https://sonicstream.out.airtime.pro/sonicstream_b
 https://rs8.stream24.net/radio-soundportal.mp3
 #EXTINF:0,South by Soma
 https://ice5.somafm.com/specials-128-mp3
+#EXTINF:0,SOXO Radio
+https://www.radioking.com/play/soxo-radio/619784
 #EXTINF:0,Sportify - Alternative Workout
 https://drive.uber.radio/uber/sportifyalternative/icecast.audio
 #EXTINF:0,SSCR Tampa
@@ -2325,8 +2321,46 @@ https://streamingv2.shoutcast.com/static-the-best-of-1997
 https://streamingv2.shoutcast.com/static-the-best-of-1998
 #EXTINF:0,STATIC: THE BEST OF 1999
 https://streamingv2.shoutcast.com/static-the-best-of-1999
+#EXTINF:0,Static: Bristol
+https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
+#EXTINF:0,Static: Decatur
+https://radiostatic.stream/listen/static_-_decatur,_il/HD.aac
+#EXTINF:0,Static: Durango
+https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
+#EXTINF:0,Static: Eureka Springs
+https://radiostatic.stream/listen/static_-_eureka_springs,_ar/static-eureka-springs.aac
+#EXTINF:0,Static: Fremont
+https://radiostatic.stream/listen/static_-_freemont,_ne/static-fremont
 #EXTINF:0,STATIC: GRRRLS, GRRRLS, GRRRLS
 https://streamingV2.shoutcast.com/GrrrlsGrrrlsGrrrls
+#EXTINF:0,Static: Huron
+https://radiostatic.stream/listen/static_-_huron,_sd/static-huron
+#EXTINF:0,Static: Muscle Shoals
+https://radiostatic.stream/listen/static_-_muscle_shoals,_al/static-muscle-shoals
+#EXTINF:0,Static: Myrtle Beach
+https://radiostatic.stream/listen/static_-_myrtle_beach,_sc/static-myrtle-beach
+#EXTINF:0,Static: New Castle
+https://radiostatic.stream/listen/static_-_new_castle,_de/static-new-castle.aac
+#EXTINF:0,Static: Ocean Springs
+https://radiostatic.stream/listen/static_-_ocean_springs,_ms/static-ocean-springs.aac
+#EXTINF:0,Static: Osage Beach
+https://radiostatic.stream/listen/static_-_osage_beach,_mo/static-osage-beach.aac
+#EXTINF:0,Static: Park City
+https://radiostatic.stream/listen/static_-_park_city,_ut/static-park-city.aac
+#EXTINF:0,Static: Savannah
+https://radiostatic.stream/listen/static_-_savannah,_ga/static-savannah.aac
+#EXTINF:0,Static: Sewanee
+https://radiostatic.stream/listen/static_-_sewanee,_tn/sewanee.aac
+#EXTINF:0,Static: Silver City
+https://radiostatic.stream/listen/static_-_silver_city,_nm/static-silver-city.aac
+#EXTINF:0,Static: Charlotte Amalie-St. Thomas
+https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
+#EXTINF:0,Static: The Dells
+https://radiostatic.stream/listen/static_-_the_dells,_wi/static-the-dells.aac
+#EXTINF:0,Static: Tupelo
+https://radiostatic.stream/listen/static_-_tupelo,_ms/static-tupelo.aac
+#EXTINF:0,Static: Tyler
+https://radiostatic.stream/listen/static_-_tyler,_tx/static-tyler.aac
 #EXTINF:0,stereo salvacion
 https://stream.zeno.fm/np8qblly48xtv
 #EXTINF:0,Strange Fruit Radio
@@ -2527,6 +2561,8 @@ http://radio.wesleyan.edu:8000/stream
 https://wfmu.org/wfmu.pls
 #EXTINF:0,WFPN Radio Norwich CT
 http://s25.myradiostream.com:9672/;
+#EXTINF:0,WFSE - Fighting Scots Radio 88.9
+https://ice5.securenetsystems.net/WFSE
 #EXTINF:0,WFTK 96 Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFMAAC_SC
 #EXTINF:0,WFUV Public Radio
@@ -2647,6 +2683,8 @@ https://streamdb8web.securenetsystems.net/cirruscontent/WSGE
 http://pacificaservice.org:8000/wslr_64
 #EXTINF:0,Wicked Spins Radio
 http://server14.slip7.net:2199/start/kirsty/
+#EXTINF:0,WSUP Rocks 
+https://cheetah.streemlion.com:2445/stream
 #EXTINF:0,WTHS Eighty Nine Nine (THS-FM)
 https://s3.radio.co/scf79220ed/listen
 #EXTINF:0,WTMD 89.7 FM

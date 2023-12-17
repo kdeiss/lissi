@@ -521,6 +521,8 @@ https://listen6.myradio24.com/angels
 http://listen.radionomy.com/AngeRadio
 #EXTINF:0,Anim'Station
 https://streamingv2.shoutcast.com/animstation
+#EXTINF:0,Radio-AniNeko
+https://fujisugi-radio.knetz.pro:8270/radio.mp3
 #EXTINF:0,Radio Ankerherz
 https://fra-pioneer08.dedicateware.com:3035/stream
 #EXTINF:0,Radio AnonOps Main
@@ -1643,8 +1645,6 @@ http://quincy.torontocast.com:2100/stream
 http://node-09.zeno.fm/xfq84pqxgkhvv?zs=e9IcNfJGRBa8GWXfRUDq1Q&rj-tok=AAABgT19_u0A0ty2BSbtgtLdoQ&rj-ttl=5
 #EXTINF:0,Classic Pop
 http://128.76.173.127:8000/stream
-#EXTINF:0,Classic Rock California
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC001_SC
 #EXTINF:0,Classic Rock Fire
 https://stream.zeno.fm/7w3yq9w0k8quv
 #EXTINF:0,Classic Rock Florida HD
@@ -2165,8 +2165,6 @@ http://servers58.com:9840/stream/1/
 https://scdn.nrjaudio.fm/adwz1/at/36029/aac_64.mp3
 #EXTINF:0,Energy Rock
 https://energyrock.ice.infomaniak.ch/energyrock-high.mp3
-#EXTINF:0,Energy X-Mas
-https://energyxmas.ice.infomaniak.ch/energyxmas-high.mp3?ua=energy+website+desktop
 #EXTINF:0,ENERGY Festival Sommer
 https://scdn.nrjaudio.fm/adwz1/de/56852/aac_64.mp3?origine=radio.net
 #EXTINF:0,Energy Web Radio
@@ -3427,6 +3425,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KILOFMAAC_SC
 https://listen-kingdomfm.sharp-stream.com/kingdomfm.mp3
 #EXTINF:0,King Radio
 https://www.tunefm.de:2000/stream/kingradio
+#EXTINF:0,KINV-DB Innervision FM
+https://streaming.live365.com/a83407
 #EXTINF:0,KIOT Coyote 102.5 FM
 https://live.amperwave.net/manifest/agmedia28-kiotfmaac-ibc3
 #EXTINF:0,Kiss 91.1 FM
@@ -11029,6 +11029,8 @@ https://ice24.securenetsystems.net/WSUE
 http://ic2.mainstreamnetwork.com/wtbq-fm
 #EXTINF:0,WTGZ The Tiger 93.9 FM
 https://streaming.live365.com/a22917
+#EXTINF:0,WTHC
+https://ais-edge103-live365-dal02.cdnstream.com/a34306
 #EXTINF:0,WTKV - TK99 105.5 FM
 https://live.amperwave.net/manifest/galaxy-wtkwfmaac-hlsc1.m3u8
 #EXTINF:0,WTMX - The Mix 101.9 FM

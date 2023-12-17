@@ -417,6 +417,8 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
+#EXTINF:0,costaradio
+http://109.169.76.104:23614/stream
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,C-Oye 89.1 FM Insuperable
@@ -745,8 +747,6 @@ http://167.114.118.120:7162/stream/1/
 https://noasrv.caster.fm:10156/live
 #EXTINF:0,Fanática CL
 https://ascl.denial.cl:2020/stream/8006
-#EXTINF:0,Fantastica 101.7 Chilecito
-https://alpha.radioplayer.com.ar:9180/fantastica-chilecito
 #EXTINF:0,Fantástica - Bogotá 104.4 FM
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632c9c1cbc02c60329991efa/playlist.m3u8
 #EXTINF:0,Fantástica - Cali
@@ -1765,8 +1765,6 @@ https://modernafm.ddns.net:8300/stream
 https://streaming01.shockmedia.com.ar/8044/stream
 #EXTINF:0,MOKAWA FM
 https://securestream.radioshd.info:7087/stream/1/
-#EXTINF:0,Montaña 93.7 FM
-http://rs3.domint.net:8162/stream.mp3
 #EXTINF:0,More987FM
 http://streamplus26.leonex.de:22976
 #EXTINF:0,Motiva FM
@@ -1895,6 +1893,8 @@ https://ec1.everestcast.host:2375/stream
 https://stream.zeno.fm/armwyyz0k18uv
 #EXTINF:0,Noticias Generacion News
 http://server7.servistreaming.com:10007/stream?type=.mp3
+#EXTINF:0,Radio Nova Chimbote 104.3
+https://panel.innovatestream.pe:10990/undefined
 #EXTINF:0,Radio Nova Piura 94.5
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7174/listen.pls
 #EXTINF:0,Novedades Radio
@@ -2913,8 +2913,6 @@ https://radio25.virtualtronics.com/proxy/superlatin?mp=/stream
 https://securestream.radioshd.info:7111/stream/1/
 #EXTINF:0,Rádio Supersônica
 https://servidor17.brlogic.com:7428/live
-#EXTINF:0,Superstereo Perú
-http://198.148.103.200:8052/stream/1/
 #EXTINF:0,Super Tokio Radio
 https://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:0,Radio Sur Adeje 107.9 FM
@@ -2939,6 +2937,8 @@ https://streamingV2.shoutcast.com/Radio-Tango-Velours
 http://cdn.instream.audio:9093/stream
 #EXTINF:0,Technolovers LATIN HOUSE
 https://stream.technolovers.fm/latinhouse?ref=radiode
+#EXTINF:0,Tejano Gold Radio
+https://usa9.fastcast4u.com/proxy/tejanoro?mp=/1
 #EXTINF:0,Tejanolive.com
 https://s10.citrus3.com:8476/stream
 #EXTINF:0,Tejano Tiempos Pasados

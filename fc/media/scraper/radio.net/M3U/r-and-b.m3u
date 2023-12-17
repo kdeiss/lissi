@@ -11,6 +11,8 @@ http://107.181.227.250:8118/stream
 https://streaming.radio.co/s188e71c13/listen
 #EXTINF:0,101TheVibeFM Radio
 https://streaming.radio.co/s188e71c13/listen
+#EXTINF:0,103.1 WEUP
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEUPFM_SC
 #EXTINF:0,103.7 Da Beat
 http://s18.myradiostream.com:8742/listen.mp3
 #EXTINF:0,103.7 Da Beat FM
@@ -1431,8 +1433,6 @@ https://streaming.live365.com/a45698
 https://streams.planetradio.de/plrchannels/mp3/hqstars17.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,planet radio oldschool
 https://streams.planetradio.de/plrchannels/mp3/hqoldschool.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,planet Rihanna Radio
-https://streams.planetradio.de/plrchannels/mp3/hqstars05.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,planet radio the club
 https://streams.planetradio.de/plrchannels/mp3/hqtheclub.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Pop and Rock Music Radio Soul
@@ -1801,8 +1801,46 @@ https://streamingV2.shoutcast.com/Static-TheBestOf1980
 https://streamingv2.shoutcast.com/static-the-best-of-1990
 #EXTINF:0,STATIC: BLUES
 https://streamingV2.shoutcast.com/Static-BluesExplosion
+#EXTINF:0,Static: Bristol
+https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
+#EXTINF:0,Static: Decatur
+https://radiostatic.stream/listen/static_-_decatur,_il/HD.aac
+#EXTINF:0,Static: Durango
+https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
+#EXTINF:0,Static: Eureka Springs
+https://radiostatic.stream/listen/static_-_eureka_springs,_ar/static-eureka-springs.aac
+#EXTINF:0,Static: Fremont
+https://radiostatic.stream/listen/static_-_freemont,_ne/static-fremont
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
+#EXTINF:0,Static: Huron
+https://radiostatic.stream/listen/static_-_huron,_sd/static-huron
+#EXTINF:0,Static: Muscle Shoals
+https://radiostatic.stream/listen/static_-_muscle_shoals,_al/static-muscle-shoals
+#EXTINF:0,Static: Myrtle Beach
+https://radiostatic.stream/listen/static_-_myrtle_beach,_sc/static-myrtle-beach
+#EXTINF:0,Static: New Castle
+https://radiostatic.stream/listen/static_-_new_castle,_de/static-new-castle.aac
+#EXTINF:0,Static: Ocean Springs
+https://radiostatic.stream/listen/static_-_ocean_springs,_ms/static-ocean-springs.aac
+#EXTINF:0,Static: Osage Beach
+https://radiostatic.stream/listen/static_-_osage_beach,_mo/static-osage-beach.aac
+#EXTINF:0,Static: Park City
+https://radiostatic.stream/listen/static_-_park_city,_ut/static-park-city.aac
+#EXTINF:0,Static: Savannah
+https://radiostatic.stream/listen/static_-_savannah,_ga/static-savannah.aac
+#EXTINF:0,Static: Sewanee
+https://radiostatic.stream/listen/static_-_sewanee,_tn/sewanee.aac
+#EXTINF:0,Static: Silver City
+https://radiostatic.stream/listen/static_-_silver_city,_nm/static-silver-city.aac
+#EXTINF:0,Static: Charlotte Amalie-St. Thomas
+https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
+#EXTINF:0,Static: The Dells
+https://radiostatic.stream/listen/static_-_the_dells,_wi/static-the-dells.aac
+#EXTINF:0,Static: Tupelo
+https://radiostatic.stream/listen/static_-_tupelo,_ms/static-tupelo.aac
+#EXTINF:0,Static: Tyler
+https://radiostatic.stream/listen/static_-_tyler,_tx/static-tyler.aac
 #EXTINF:0,Steve Fox Old School
 https://s15.total-streaming.com:9008/oldschool
 #EXTINF:0,STL Smooth Jazz
@@ -1835,8 +1873,6 @@ http://hestia.cdnstream.com:80/1543_128
 http://stream.radiojar.com/thcyv16sezzuv
 #EXTINF:0,Supreme FM
 https://supremefmwebsite-friskydj.radioca.st/stream
-#EXTINF:0,SURE FM
-https://azuracast.surefm.live/listen/sure_fm/radio.mp3
 #EXTINF:0,P3 Din Gata
 https://sverigesradio.se/topsy/direkt/2576-hi-aac.pls
 #EXTINF:0,Sweet Radio SVG

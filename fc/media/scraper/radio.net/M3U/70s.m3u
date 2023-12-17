@@ -94,8 +94,6 @@ http://shoutcast3.streamingmedia.it:3038/stream/1/
 #EXTINF:0,7080rocks
 http://cast1.torontocast.com:1460/stream
 #EXTINF:0,70s 80s All Time Greatest
-https://stream.zeno.fm/e1n8bq4wawzuv
-#EXTINF:0,70s 80s All Time Greatest
 https://s01.azuracast.cl/listen/80s90s/stream
 #EXTINF:0,70s 80s Mix Radio
 https://win.streams.ovh:9006/stream
@@ -493,8 +491,6 @@ https://streaming.live365.com/a02256
 http://nr11.newradio.it:9204/stream/1/
 #EXTINF:0,Classic Radio Accion
 http://stream-40.zeno.fm/7pwfg6vghzzuv?zs=Rj61Wn8mSxiHd56p8dvyAA
-#EXTINF:0,Classic Rock California
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC001_SC
 #EXTINF:0,Classic Rock Fire
 https://stream.zeno.fm/7w3yq9w0k8quv
 #EXTINF:0,Classic Rock Radio
@@ -569,6 +565,8 @@ https://01.solumedia.com.ar:8176/stream
 https://delta.ice.infomaniak.ch/delta-128.aac
 #EXTINF:0,Delta Radio Nijmegen
 http://streamdelta.lokaalradio.nl:9005/stream/1/
+#EXTINF:0,Deportes & Mas con Marino
+http://server2.ejeserver.com:8900/stream
 #EXTINF:0,DFK 24/7
 https://cast3.asurahosting.com/proxy/jason124/live
 #EXTINF:0,DGLR
@@ -818,7 +816,7 @@ https://streams.harmonyfm.de/hrmchannels/mp3/hq70er80erkultnight.mp3?amsparams=p
 #EXTINF:0,harmony.fm
 https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
 #EXTINF:0,harmony +70er
-https://mp3.harmonyfm.de/hrmplus/hq70er.aac
+https://streams.harmonyfm.de/hrmplus/mp3/hq70er.mp3
 #EXTINF:0,Hasselt 1
 https://live.radiostudio.be/hasselt1
 #EXTINF:0,Heart 70s
@@ -1045,8 +1043,6 @@ https://stream9.mexiserver.com/8206/stream:8206/stream?icy=http
 https://cloudstream2032.conectarhosting.com/8160/stream
 #EXTINF:0,La recuerdo radio
 https://emisorasvirtuales.com.co:9321/live
-#EXTINF:0,La Rocka 70
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,La Rockola
 https://stream3.polarhost.cl/Rockola_mp3
 #EXTINF:0,Laser Hot Hits International
@@ -1485,8 +1481,6 @@ http://streaming.radionomy.com/MY-GENERATION-FM
 https://radio.myhitmusic.de/Toms-Club70s-aac.mp3
 #EXTINF:0,My Perth Digital
 https://playerservices.streamtheworld.com/api/livestream-redirect/MY_PERTH_DAAC_SC
-#EXTINF:0,Namib Radio 
-https://s20.reliastream.com:8018/stream
 #EXTINF:0,Nashe Radio Наше Радио Киев
 https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,NBC Milano
@@ -1777,8 +1771,6 @@ https://www.radioking.com/play/bayermovie-radio
 http://radiob.dyndns.org:8000/high
 #EXTINF:0,Radio BLEU FM Réunion
 http://37.187.77.45:9078/stream
-#EXTINF:0,Radio Blondie Webradio
-http://freeuk28.listen2myradio.com:3533/listen
 #EXTINF:0,Radio Blue Monster
 http://server35146.streamplus.de:10252/;
 #EXTINF:0,RADIO BOB! 70er Rock
@@ -1797,6 +1789,8 @@ https://server.streamingradios.net:7021/stream/1/
 https://stream-47.zeno.fm/42s9009rzxquv?zs=0MKVfIuBQm6AXJ7JMPn9Sg
 #EXTINF:0,Radio Carpati
 https://stream.redcircle.com/episodes/bcb437ca-cefd-48f6-8592-4b4a3b6c3d43/stream.mp3
+#EXTINF:0,Radio CBSN
+https://s2.forstream.it:8030/stream
 #EXTINF:0,Radio CCM
 http://primary.moodyradiostream.org/radioccm
 #EXTINF:0,RADIOCEAN
@@ -1907,8 +1901,8 @@ https://stream1.datenkollektiv.net/ginseng.mp3
 http://stream.zeno.fm/66fqrbkmzk8uv
 #EXTINF:0,radio GOLD
 https://addrad.io/4454ssp
-#EXTINF:0,Radio GOL FM 106.7
-https://server.radiostreaming.com.ar/8162/stream
+#EXTINF:0,radioGOL fm 106.7
+http://51.161.93.181:9737/*82800.stream
 #EXTINF:0,Radio GTO La Poderosa
 http://streamdb3web.securenetsystems.net/v5/KUNA
 #EXTINF:0,RÁDIO GUARA90FM
@@ -2041,8 +2035,6 @@ https://stream.zeno.fm/9pdthqkhd2zuv
 https://dinle.perfectradyo.com:8016/;
 #EXTINF:0,Radio Perla del Maule
 https://grupcomunicados.us:8084
-#EXTINF:0,radio PILE
-https://strw1.openstream.co/1186
 #EXTINF:0,Radio Planeta Stereo 
 https://stream.zeno.fm/6bpd2069t7zuv
 #EXTINF:0,RADIO PLUS ALICANTE
