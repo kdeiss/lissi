@@ -259,8 +259,6 @@ https://listen.shoutcast.com/bpnradiolive.m3u
 https://stream.bright.fm/proxy/bright1?mp=/bfm-mp3
 #EXTINF:0,Bright.FM Kids
 http://str1.hollanddata.eu:8030/stream/1/
-#EXTINF:0,Bright.FM Plus
-http://str1.hollanddata.eu:8006/stream/1/
 #EXTINF:0,Agape FM
 https://s4.radio.co/sce8413896/listen
 #EXTINF:0,Browd Networks
@@ -441,8 +439,6 @@ https://s2.stationplaylist.com:7082/listen.aac
 http://edge.mixlr.com/channel/ladlj
 #EXTINF:0,CornerStone Christian Radio
 https://stream.ibadalive.com/8002/stream
-#EXTINF:0,La Internacional Costanica Radio
-http://freeuk25.listen2myradio.com:8746/;
 #EXTINF:0,CRCB Internet Radio
 https://or.mysonicserver.com/8042/stream
 #EXTINF:0,Creciendo en Cristo
@@ -899,8 +895,6 @@ http://server33109.streamplus.de:10870/stream/1/
 https://stream.zeno.fm/we9m6010vwzuv
 #EXTINF:0,IC Radio
 https://s3.radio.co/s41bdfc6fe/listen
-#EXTINF:0,Radio Cristiana IGLEMRECI
-https://sp.sintonizapp.com:7005/stream
 #EXTINF:0,Iglesia Bautista de Santa Ana
 https://stream.zeno.fm/zpzwqd0w4yzuv
 #EXTINF:0,iGozo Radio
@@ -2911,6 +2905,8 @@ https://stream9.mexiserver.com/8326/stream
 http://s20.myradiostream.com:15414/;
 #EXTINF:0,Radio Santa Teresa
 https://radio.saopaulo01.com.br/9704/stream
+#EXTINF:0,Radio Semillas
+https://stream.zeno.fm/c6ceuguyty8uv
 #EXTINF:0,Radio Sensacion Nyc
 https://radioenhd.com:7010/stream/1/
 #EXTINF:0,Rádio Sentinela 90.9 FM
@@ -2933,6 +2929,8 @@ http://108.59.11.81:10101/
 http://stm20.voxtreaming.com.br:6928/stream/1/
 #EXTINF:0,Radio Restauracion De Vida
 http://stream.zeno.fm/wxnk4ca3zehvv
+#EXTINF:0,Plus Radio Belize
+http://stream.zeno.fm/ffw2uyxp3nhtv
 #EXTINF:0,Radio Stereo Fe Nicaragua
 https://stream-52.zeno.fm/ddmd6srced0uv?zs=eeUTDZukQG6A2chRXBntvQ
 #EXTINF:0,Radio Stereo Hermon
@@ -3333,6 +3331,8 @@ https://caikron.com.br:8060/stream
 http://www.redeimaculada945fm.ddns.com.br:8010/;stream.mp3
 #EXTINF:0,REDE VERTICAL
 https://centova2.euroti.com.br:20028/live
+#EXTINF:0,RefNet
+http://icecast.refnet.fm:8000/utc/-0400
 #EXTINF:0,Reformatorische Omroep - Radio 2
 https://radio2.reformatorischeomroep.nl/live.m3u
 #EXTINF:0,Reformatorische Omroep - Radio 3
@@ -3427,8 +3427,6 @@ https://cast.hoost.com.br:20150/stream
 http://we.savesouls.today:8088/stream
 #EXTINF:0,Sawt El Majd
 https://stream.zeno.fm/u5gbt0e73d0uv
-#EXTINF:0,SB - Rádio Sulbrasileira AM 1320
-https://play.radio.br:8089/SulBrasileira/SB1320/icecast.audio
 #EXTINF:0,SBW Radio
 https://streamer.radio.co/s6152f7771/listen
 #EXTINF:0,SCs MIX
@@ -3573,8 +3571,6 @@ https://ic.liberty.edu:8443/WQLU
 https://ice8.securenetsystems.net/WFCJ
 #EXTINF:0,The Messianic Radio
 https://stream.zeno.fm/eiqnsiqqx4vtv
-#EXTINF:0,The NU Vibe Radio
-https://listen.openstream.co/7203/audio
 #EXTINF:0,Theophony English Christian Radio
 https://cp9.serverse.com/proxy/tfmp_mp3?mp=/stream
 #EXTINF:0,Theophony Tamil Christian Radio
@@ -4197,8 +4193,6 @@ https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
 #EXTINF:0,WKZM - Moody Radio 104.3 FM
 https://primary.moodyradiostream.org/wkes-high.aac
-#EXTINF:0,WLAB - Star 88.3 FM
-https://securestreams2.autopo.st:1069/STAR883.mp3
 #EXTINF:0,WLCM - Lansing's Christian Messenger 1390 AM
 https://ice23.securenetsystems.net/WLCM?playSessionID=B969AF71-ADC6-455F-B8871C0FB51C223B
 #EXTINF:0,WLCQ - The Q 99.7

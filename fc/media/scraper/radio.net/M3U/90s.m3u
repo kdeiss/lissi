@@ -885,8 +885,6 @@ https://radio.grupoelixir.es:9012/stream
 http://centova.hostingelectrica.net:8196/;
 #EXTINF:0,El Portal del Amor
 http://s1.redradioypc.com:8024/stream
-#EXTINF:0,El Semáforo Radio
-http://audiohd.sonidosenlared.com:8044/stream
 #EXTINF:0,Emerge
 http://stream2.hippynet.co.uk:8206/stream
 #EXTINF:0,Radio Emozioni Live
@@ -923,6 +921,8 @@ https://sonic.mediatelekom.net/9014/stream
 https://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
 #EXTINF:0,Espace Girly
 http://broadcast.infomaniak.ch/espace-vintage-high.mp3
+#EXTINF:0,Espacio Network 106.1 FM
+https://acp2.lorini.net:28050/stream
 #EXTINF:0,Estacion 90's radio
 https://radio.livestreamingmundial.com:7004/live
 #EXTINF:0,Estereo 88.7 Fm
@@ -1203,8 +1203,8 @@ https://happyrave-rex.radioca.st/stream
 https://streams.harmonyfm.de/hrmchannels/mp3/hq80er90erkultnight.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony 80er Wave Pop
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars03.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony.fm
-https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
+#EXTINF:0,80er-Radio harmony
+https://streams.harmonyfm.de/harmonyfm/mp3/hqlivestream.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony 80er Synthie Pop
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars05.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony 80er Superstars
@@ -1487,6 +1487,8 @@ http://streamserver.koooldigital.net:8000/koool.aac
 https://pacnw.streamguys1.com/live
 #EXTINF:0,Radio KPTV
 https://nl1.streamingpulse.com/ssl/KPTV
+#EXTINF:0,Kreactivo
+https://sp.streams.ovh:7018/live
 #EXTINF:0,kreisel juguetes
 https://stream.zeno.fm/zo5pzaif1fuvv
 #EXTINF:0,kronehit eurodance
@@ -2012,7 +2014,7 @@ https://stream.libre-antenne.fr/radio/8000/radio.mp3
 #EXTINF:0,Life Radio 90er
 https://stream.liferadio.at/90er/mp3-192/radioat/
 #EXTINF:0,Life Radio Greatest Hits
-https://stream.liferadio.at/greatest-hits/aac-128/radioat/
+https://stream.liferadio.at/greatest-hits/mp3-192/radioat/
 #EXTINF:0,Life Radio Tirol 90er
 http://stream.liferadio.tirol/90s/mp3-192/radiode
 #EXTINF:0,LightRadio
@@ -2955,6 +2957,8 @@ http://caster04.streampakket.com:8874/stream/1/
 https://sonic.radiostreaminglatino.com:2083
 #EXTINF:0,Radio House
 https://streamingv2.shoutcast.com/RADIOHOUSE1
+#EXTINF:0,Radio House HouseRadio
+https://radio.plandos.com/8004/stream
 #EXTINF:0,Radio Huemul
 http://01.solumedia.com.ar:8488/stream?icy=http
 #EXTINF:0,radio-idan
@@ -3913,8 +3917,6 @@ https://streaming.radio.co/s9b15ffd8e/listen
 https://listen.radionomy.com/top-radio
 #EXTINF:0,Top Trash Station
 https://rautemusik-de-hz-fal-stream18.radiohost.de/top100station_mp3-192
-#EXTINF:0,Tor94FM
-http://87.98.219.178:8260/stream?nocache=665&type=http
 #EXTINF:0,RTI Radio Total International 
 http://81.169.141.17:9090/stream/1/
 #EXTINF:0,Totally Radio 90s
