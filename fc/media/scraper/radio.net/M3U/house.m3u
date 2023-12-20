@@ -159,8 +159,6 @@ https://streaming.radio.co/s0c41ec4af/listen
 http://s3.radio.co/scac4b4c83/listen.m3u
 #EXTINF:0,audiogrooves.net Club
 http://soul.audiogrooves.net/club.aac
-#EXTINF:0,audiogrooves.net Soul
-https://soul.audiogrooves.net/soul.aac
 #EXTINF:0,audiogrooves.net Trax
 http://soul.audiogrooves.net/trax.aac
 #EXTINF:0,Aura Radio
@@ -351,6 +349,8 @@ http://stream.zeno.fm/xcmv558wquhvv.m3u
 https://www.radioking.com/play/deejay-2
 #EXTINF:0,Clubbers Paradise
 http://138.201.234.215:10898/stream/1/
+#EXTINF:0,Clubbers Radio
+http://s3.slotex.pl:7300/;stream.nsv
 #EXTINF:0,Radio Clubbing Music
 https://listen.radionomy.com/radioclubbingmusic3.m3u
 #EXTINF:0,CLUB | Soulside Radio
@@ -1949,6 +1949,8 @@ https://shoutcast.overclockedmusic.com:8000/stream/1/
 https://radio7.pro-fhi.net:19085/stream
 #EXTINF:0,Paradise Radio
 https://s53.radiolize.com/radio/8220/radio.mp3
+#EXTINF:0,PARADOX FM
+https://paradoxfm.out.airtime.pro/paradoxfm_a
 #EXTINF:0,Radio Party Groove
 https://stream15.top-ix.org/partygroove
 #EXTINF:0,PARTY VIBE RADIO Techno
@@ -2001,7 +2003,7 @@ http://37.59.104.28:8030/planetefm.mp3
 http://176.9.104.253:8184/stream/3/
 #EXTINF:0,planet radio nightwax
 https://streams.planetradio.de/plrchannels/mp3/hqnightwax.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,planet David Guetta Radio
+#EXTINF:0,planet david guetta & friends
 https://streams.planetradio.de/plrchannels/mp3/hqstars07.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,planet radio the club
 https://streams.planetradio.de/plrchannels/mp3/hqtheclub.mp3?amsparams=playerid:RTFFHRadioDE

@@ -557,8 +557,6 @@ http://195.252.68.166:8036/;
 https://listen.radionomy.com/brbkradio
 #EXTINF:0,Breezy FM 96.1
 http://ns500892.ip-192-99-32.net:8000/breezy
-#EXTINF:0,Bright Family Radio
-http://str1.hollanddata.eu:8006/stream/1/
 #EXTINF:0,BRN Radio - French Channel
 https://shout2.brnstream.com/proxy/brnradio1?mp=/stream
 #EXTINF:0,BrooklynFM (Russian)
@@ -4049,12 +4047,16 @@ http://radioh.no:8000/stream/7/
 https://stream.zeno.fm/eesyxk27u7zuv
 #EXTINF:0,Radio Hope
 https://s3.genx-stream.de:8402/
-#EXTINF:0,Radio Horacio Guarany
+#EXTINF:0,Radio Hora 11
 https://s2.radio.co/sfbf5f5b85/listen
+#EXTINF:0,Radio Horacio Guarany
+http://genexservicios.com:8380/stream/1/
 #EXTINF:0,Radio Hot Tub
 https://ssl.xcast.com.br:8046/;
-#EXTINF:0,Radio Huichiviri
+#EXTINF:0,Radio House HouseRadio
 http://stream.radiojar.com/yhatzfnprtwtv.mp3
+#EXTINF:0,Radio Huichiviri
+https://radio.plandos.com/8004/stream
 #EXTINF:0,Radio Huracan 99.9 FM
 https://radiosonline.one/radio/8150/radio.mp3
 #EXTINF:0,Radio Ikaria
@@ -4086,7 +4088,7 @@ https://s5.radio.co/s20251311a/listen
 #EXTINF:0,Radio Jamesen Show
 http://server2.mundonline.cl:9316/radioisluga
 #EXTINF:0,Radio Jami-et-Cara
-http://stream.zeno.fm/aparrwtkwyzuv
+https://stream-152.zeno.fm/aparrwtkwyzuv
 #EXTINF:0,Radio Jaruco
 http://www.net-webradio.fr:19760/;
 #EXTINF:0,RADIO JESUS INTERNACIONAL
@@ -4237,10 +4239,8 @@ http://82.220.3.107:8000/stream/2/
 http://audio2.tustreaming.cl:8074/stream
 #EXTINF:0,Radio Loreto
 http://streamingcontrol.com:9030/stream/1/
-#EXTINF:0,Radio LoveFM 88.5
-http://oyotunstream.com:8006/stream
 #EXTINF:0,Rádio Lumena
-http://s8.voscast.com:8064/;
+http://oyotunstream.com:8006/stream
 #EXTINF:0,Radio Lumiere Inter
 http://rs2.ptservidor.com:8047/stream
 #EXTINF:0,RÁDIO LUNA RIO
@@ -4265,10 +4265,8 @@ https://nl.digitalrm.pt:8182/stream
 https://servidor18.brlogic.com:7174/live
 #EXTINF:0,Radio Mais Online
 https://hts08.kshost.com.br:12162/live
-#EXTINF:0,Radio Majagual
-https://s11.maxcast.com.br:8108/live?id=848021440006
 #EXTINF:0,Radio Manchete
-https://radiolatina.info/9832/stream
+https://s11.maxcast.com.br:8108/live?id=848021440006
 #EXTINF:0,Radio Manos 103.4
 https://radios.justweb.pt/8008/stream
 #EXTINF:0,Radio MAQAM - Arabic Radio
@@ -5351,10 +5349,8 @@ http://schalltwerk.uni-bayreuth.de:8000/schalltwerk
 https://station.kryptonradio.com:8080/stream
 #EXTINF:0,Scool Radio
 https://streamer.radio.co/s2268d7c06/listen
-#EXTINF:0,Scoop FM Haiti
-http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Secousse Radio
-https://stream.zeno.fm/72fpkg0sn8quv
+http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Secret Fm
 http://icecast.secousse.org/secousse-mix
 #EXTINF:0,SeeJay
@@ -5453,8 +5449,10 @@ https://stream.laut.fm/soundradiolounge?ref=radiode
 https://live.amperwave.net/manifest/ihorizonsradio-sakfmaac-ibc1
 #EXTINF:0,Spectro Radio
 http://stream.specktator.net:8000/listen_192
-#EXTINF:0,Spitalradio Luz
+#EXTINF:0,Spice Radio
 https://edge2-a.exa.live365.net/a96356?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1582707559&listenerId=8b96cb60304dcdc621d8e451b9b6c023
+#EXTINF:0,Spitalradio Luz
+https://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8
 #EXTINF:0,Brila Fm
 http://195.48.36.97:8080/radioluz.mp3
 #EXTINF:0,Sports Radio Brila FM

@@ -175,8 +175,6 @@ https://bayshore-ais.leanstream.co/CFOSAM
 https://ragss.ca/listen/56780_radio/a128
 #EXTINF:0,57 Chevy Radio
 https://outpostradio.com/57chevyradio/play.m3u
-#EXTINF:0,57 Chevy Christmas Oldies
-https://listen.57fm.com/rcxmas/;?d=
 #EXTINF:0,5AU Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AUAAC_SC
 #EXTINF:0,5g radio Alicante 
@@ -785,6 +783,8 @@ http://server28364.streamplus.de:10020/;
 http://87.98.245.250:8378/stream/1/
 #EXTINF:0,Club Retro
 http://s7.voscast.com:8504/stream/1/
+#EXTINF:0,Clubstory
+https://manager.conceptradio.fr:1085/stream
 #EXTINF:0,Club Trifal - Lounge
 http://stream.trifal.com:8000/lounge
 #EXTINF:0,Club Trifal - Oldies
@@ -1305,8 +1305,6 @@ http://46.105.125.110:9714/;
 http://s1.myradiostream.com:4962/;
 #EXTINF:0,HappyBeats-Radio
 http://89.163.221.78:25800/stream/1/
-#EXTINF:0,Happy Christmas Radio
-https://listen.happychristmasradio.net
 #EXTINF:0,HappySoundRadio
 https://s2.streamcaster.eu:8107/stream1
 #EXTINF:0,HarbourTown Radio
@@ -1357,6 +1355,8 @@ https://edge.mixlr.com/channel/qnfrb
 https://stream.hitkanal.fm:9100/nrwfmschlager
 #EXTINF:0,HitMix
 https://ec3.yesstreaming.net:3360/dcs/9/winamp.m3u
+#EXTINF:0,HitOldies
+http://gemini.shoutca.st:8027/stream/1/
 #EXTINF:0,Hitpool Radio
 http://apollo.rserve.de:9932/;
 #EXTINF:0,HitPower-Radio.com 
@@ -1623,6 +1623,8 @@ https://ice8.securenetsystems.net/KGFL
 https://radiogoldfield.radioca.st/stream
 #EXTINF:0,KGNT - Kool 103.9 FM
 http://streamdb7web.securenetsystems.net/v5/KGNT
+#EXTINF:0,KGUM-FM - The Kat 105.1 FM
+https://ice2.securenetsystems.net/KGUMFM
 #EXTINF:0,KHNY - Honey 103 
 http://honey.macchiatomedia.org:8080/stream/1/
 #EXTINF:0,KHRO 92.3 The Fox
@@ -2867,6 +2869,8 @@ https://miledmusic15-cybertec.radioca.st/stream
 https://online.vibacomunicacion.com:8020/stream
 #EXTINF:0,Radio Mirage STARS
 https://ssl-1.radiohost.pl:9569/stream
+#EXTINF:0,Misty Radio
+https://streaming.live365.com/a67710
 #EXTINF:0,MITA 
 https://streaming.live365.com/a26037
 #EXTINF:0,MiXed Beatz Radio
@@ -3193,8 +3197,6 @@ https://0n-disco.radionetz.de/0n-disco.mp3
 https://s2.radio.co/s03d947c9d/listen
 #EXTINF:0,One Gold Radio
 https://ec5.yesstreaming.net:2155/stream
-#EXTINF:0,One Move FM
-https://stream.loopert.com/stream/33
 #EXTINF:0,ON Evergreens
 https://0n-evergreens.radionetz.de/0n-evergreens.mp3
 #EXTINF:0,ON Gold
@@ -3563,8 +3565,6 @@ https://frontend.streamonkey.net/radioc-live?aggregator=radio.de
 http://stream04.stream-webradiotechnik.de:8400/listen1
 #EXTINF:0,Radio Colosal
 http://streamingecuador.net:9062/radiocolosal
-#EXTINF:0,Rádio Comunicativa 87.9 FM
-https://streamssl.hospedandosites.com.br/r31oqiye.php/;
 #EXTINF:0,Radio COSMIC
 https://radio10.pro-fhi.net/live/RadioCOSMIC
 #EXTINF:0,Radio Costa 93.1 FM
@@ -3748,7 +3748,7 @@ https://stream.zeno.fm/gyvdat8p6tzuv
 #EXTINF:0,Radio Master Montargis
 https://live.radiomaster.fr/montargis
 #EXTINF:0,Radio Master Puglia
-https://radiomaster.radioca.st/1
+https://nr12.newradio.it:8702/stream
 #EXTINF:0,RadioMatchbox
 https://stream.radio-matchbox.de/listen/matchbox/radio.mp3
 #EXTINF:0,RADIO MAXIMA FM
@@ -3835,8 +3835,6 @@ http://185.23.192.118:8004/stream/1/
 https://sphera.fluidstream.eu/rpd_history.mp3?FLID=3&aw_0_req.gdpr=true&type=.mp3
 #EXTINF:0,Rádio Paráda
 https://stream.rcast.net/67472
-#EXTINF:0,Radio-Party-Sound
-https://s2.streamcaster.eu:8345/stream1?1677256026319
 #EXTINF:0,Radio Patagonia Argentina 630 AM
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
 #EXTINF:0,Radio Perla del Maule
@@ -4685,6 +4683,8 @@ https://stream.zeno.fm/h2n3qh8q8k8uv
 https://ais-edge51-live365-dal02.cdnstream.com/a17454
 #EXTINF:0,TrueColorsRadio
 https://listen7.myradio24.com/45329
+#EXTINF:0,Tsukure Radio
+https://media.streambrothers.com:8244/stream
 #EXTINF:0,TV80s.com
 http://streaming.radionomy.com/TV80scom
 #EXTINF:0,TX1 Radio
@@ -4839,6 +4839,8 @@ http://s5.citrus3.com:8244/stream
 https://streaming.live365.com/a88743
 #EXTINF:0,WBLA 1440 AM
 https://ice66.securenetsystems.net/WBLA
+#EXTINF:0,WBLT Boomtown Radio
+http://144.217.158.59:5156/stream
 #EXTINF:0,WBNJ - 91.9 FM
 https://wbnj.radioca.st/stream?type=http&nocache=1681829044205
 #EXTINF:0,WBNR-DB - myBNR

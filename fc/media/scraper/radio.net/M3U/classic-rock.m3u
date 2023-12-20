@@ -501,6 +501,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1_SC
 http://ekrrockradio3.scs.ms:8300/;
 #EXTINF:0,EKR - Retro Rock
 http://ekrrockradio4.scs.ms:8400/;
+#EXTINF:0,EKR - European Klassik Rock
+http://ekrrockradio1.scs.ms:8100/;
 #EXTINF:0,EKR - Easy Rock Paradise
 http://ekrrockradio2.scs.ms:8200/
 #EXTINF:0,El TunelRock Online
@@ -551,8 +553,6 @@ https://streaming.live365.com/a24489
 https://cupcake.citrus3.com:2020/AudioPlayer/fmsite?
 #EXTINF:0,Bruce by FM Goud
 https://stream.bruce-radio.be/bruce-classic-rock
-#EXTINF:0,FM Lider 93.5
-https://stream.zeno.fm/a6ru31rb41zuv
 #EXTINF:0,Freebird Radio
 http://freebird.ddns.net:8050/;
 #EXTINF:0,Radio Free CLE 
@@ -743,6 +743,8 @@ https://ice8.securenetsystems.net/KGFL
 https://ice.wbcengineering.com:8106/stream
 #EXTINF:0,KGON Classic Rock 92.3 FM
 https://live.amperwave.net/manifest/audacy-kgonfmaac-hlsc.m3u8/
+#EXTINF:0,KGUM The Kat 105.1 FM
+https://ice2.securenetsystems.net/KGUMFM
 #EXTINF:0,KHAQ / KQHK The Hawk 98.5 / 103.9 FM
 https://ice9.securenetsystems.net/KHAQ
 #EXTINF:0,KHDR - The Drive 96.9 FM
@@ -1341,8 +1343,6 @@ https://stream2.svrdedicado.org/8206/stream
 https://streaming.radiosenlinea.com.ar:10913/stream/1/
 #EXTINF:0,Radio Gold 
 http://radiogold.live24.gr/radiogold
-#EXTINF:0,RadioGram
-https://stream.zeno.fm/h024mdrn8mzuv
 #EXTINF:0,RÁDIO GUARA90FM
 https://servidor15.brlogic.com:7054/live
 #EXTINF:0,Radio Hauraki

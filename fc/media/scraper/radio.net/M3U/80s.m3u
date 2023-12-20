@@ -1083,6 +1083,8 @@ http://04.painelstreaming.com.br:27146/stream/1/
 http://65.109.81.84:8334/stream
 #EXTINF:0,Club Retro
 http://s7.voscast.com:8504/stream/1/
+#EXTINF:0,Clubstory
+https://manager.conceptradio.fr:1085/stream
 #EXTINF:0,CNN
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Coast FM Classic Gold
@@ -1353,8 +1355,6 @@ http://shoutcast.rtl.lu/eldo80s
 http://82.201.132.237:8000/;
 #EXTINF:0,El Portal del Amor
 http://s1.redradioypc.com:8024/stream
-#EXTINF:0,El Semáforo Radio
-http://audiohd.sonidosenlared.com:8044/stream
 #EXTINF:0,Emeraude 2
 http://91.121.59.45:8256/stream
 #EXTINF:0,Emerge
@@ -1393,6 +1393,8 @@ https://stream.zeno.fm/wdr15uyuezzuv
 http://streaming2.elitecomunicacion.es:8038/live
 #EXTINF:0,esMúsica Radio
 https://sonic.mediatelekom.net/9014/stream
+#EXTINF:0,Espacio Network 106.1 FM
+https://acp2.lorini.net:28050/stream
 #EXTINF:0,Espiritu Rock
 https://mpc1.mediacp.eu:8392/espiriturock.aac
 #EXTINF:0,Estacion Romantica Radio
@@ -1459,8 +1461,6 @@ https://fantasyradionew.radioca.st/stream/1/
 http://tachyon.shoutca.st:8197/stream
 #EXTINF:0,Fay Só Forró das Antigas
 https://ssl.xcast.com.br:7132/;stream.nsv
-#EXTINF:0,FedeR music
-https://node-14.zeno.fm/2vegk4n4708uv?rj-ttl=5&rj-tok=AAABfErKqCkAQ_Zk_hJtDXhRag
 #EXTINF:0,Feel Good Radio
 https://ssl.feelgoodradio.eu/proxy/feelgoodradio/stream
 #EXTINF:0,Feeling FM 91.7
@@ -1779,8 +1779,8 @@ https://streams.harmonyfm.de/hrmchannels/mp3/hq80erkultnight.mp3?amsparams=playe
 https://streams.harmonyfm.de/hrmchannels/mp3/hqstars03.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony Feelings
 https://streams.harmonyfm.de/hrmchannels/mp3/hqfeelings.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,harmony.fm
-https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
+#EXTINF:0,80er-Radio harmony
+https://streams.harmonyfm.de/harmonyfm/mp3/hqlivestream.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,harmony Neue Deutsche Welle
 https://streams.harmonyfm.de/hrmchannels/mp3/hqndw.mp3
 #EXTINF:0,harmony 80er Synthie Pop
@@ -2145,6 +2145,8 @@ http://streamserver.koooldigital.net:8000/koool.aac
 https://pacnw.streamguys1.com/live
 #EXTINF:0,Radio KPTV
 https://nl1.streamingpulse.com/ssl/KPTV
+#EXTINF:0,Kreactivo
+https://sp.streams.ovh:7018/live
 #EXTINF:0,kreisel juguetes
 https://stream.zeno.fm/zo5pzaif1fuvv
 #EXTINF:0,KRIC the Classic
@@ -3114,7 +3116,7 @@ https://stream.libre-antenne.fr/radio/8000/radio.mp3
 #EXTINF:0,Life Radio 80er
 https://liferadio.streamabc.net/lfr-80er-mp3-320-5746262
 #EXTINF:0,Life Radio Greatest Hits
-https://stream.liferadio.at/greatest-hits/aac-128/radioat/
+https://stream.liferadio.at/greatest-hits/mp3-192/radioat/
 #EXTINF:0,Life Radio Tirol 80er
 http://stream.liferadio.tirol/80s/mp3-192/radiode
 #EXTINF:0,Life Right Radio
@@ -4257,6 +4259,8 @@ https://stream.zeno.fm/9hh8rddusg0uv
 http://sv11.hdradios.net:7234/stream
 #EXTINF:0,Radio Climat
 https://www.radioking.com/play/radio-climat
+#EXTINF:0,radioclub 80
+http://play.enhd.co:7024/;
 #EXTINF:0,Radio Club 80 Señal Retro
 https://radio.streaminghires.cl:8002/stream
 #EXTINF:0,Radio Club La Preferida
@@ -4485,6 +4489,8 @@ http://caster04.streampakket.com:8874/stream/1/
 https://sonic.radiostreaminglatino.com:2083
 #EXTINF:0,Radio House
 https://streamingv2.shoutcast.com/RADIOHOUSE1
+#EXTINF:0,Radio House HouseRadio
+https://radio.plandos.com/8004/stream
 #EXTINF:0,Radio Huemul
 http://01.solumedia.com.ar:8488/stream?icy=http
 #EXTINF:0,Radio Humor Fm
@@ -4869,8 +4875,6 @@ https://stream.lokalradio.nrw/444z7w6
 https://stream.lokalradio.nrw/444zfzp
 #EXTINF:0,100% 80s - Radios 100FM
 https://gb25.streamgates.net/radios-audio/10080s/playlist.m3u8
-#EXTINF:0,Radio Saint-Dié
-https://manager.conceptradio.fr:1225/stream
 #EXTINF:0,Radio Saudade Pop
 http://01.painelstreaming.com.br:27002/stream/1/
 #EXTINF:0,Radio Saudade
@@ -5686,7 +5690,7 @@ https://radio.sunray-fm.de/live.mp3
 #EXTINF:0,sunshine live - Die 80er
 https://stream.sunshine-live.de/80er/mp3-128/radiode/
 #EXTINF:0,Sunshine-radio.eu
-http://sunshine.spcast.eu/stream
+https://c02.lexycast.de:4910/;
 #EXTINF:0,Super Clásica
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Super Clásica 
