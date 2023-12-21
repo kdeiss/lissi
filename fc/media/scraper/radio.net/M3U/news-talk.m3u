@@ -1702,7 +1702,7 @@ https://icecast.omroep.nl/radio1-sb-mp3
 #EXTINF:0,NPR 24
 https://npr-ice.streamguys1.com/live.mp3
 #EXTINF:0,NPR : National Public Radio
-https://npr-ice.streamguys1.com/live.mp3
+https://npr-ice.streamguys1.com/live.mp3--doppelt
 #EXTINF:0,NQ Radio 640
 http://191.96.190.103:9248/;
 #EXTINF:0,Nqubeko FM
@@ -1809,6 +1809,8 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
+#EXTINF:0,SBC Paradise FM
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -2061,8 +2063,6 @@ https://radio.yoemito.net:8034/stream
 https://radio.yoemito.net:8004/stream
 #EXTINF:0,Radio Centro y El Fonógrafo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC
-#EXTINF:0,Radio Ceres 1440 AM
-http://centova11.ciclanohost.com.br:7002/;
 #EXTINF:0,Radio Chaco Boreal
 https://rds3.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8
 #EXTINF:0,Rádio Charrua AM
@@ -3474,7 +3474,7 @@ https://ice23.securenetsystems.net/WGGH
 #EXTINF:0,WGGL Minnesota Public Radio
 https://nis.stream.publicradio.org/nis.mp3
 #EXTINF:0,WGGR-LP - Lifetalk Radio 95.3 FM
-https://ltr.streamon.fm/hls/LTR-64k/1371791772.aac
+https://ais-sa1.streamon.fm/7013_64k.aac
 #EXTINF:0,WGHB - Pirate Radio 1250 AM
 http://ic2.mainstreamnetwork.com/wghb-am
 #EXTINF:0,WGIG - Brunswick Talk Radio 1440 AM
@@ -4343,8 +4343,6 @@ https://cromwell-ice.streamguys1.com/WZUSFM
 http://stream.wzxiradio.com:8000/wzxi-ch1.mp3
 #EXTINF:0,WZZQ Gaffney's Hot FM
 http://stream1.mtcstream.com:8500/wzzq.aac
-#EXTINF:0,XEEST Ondas de Paz 1440 AM
-https://radio.spiritmedia.mx/cambio1440
 #EXTINF:0,XEHK La Voz de Guadalajara
 http://192.99.16.17:9890/;
 #EXTINF:0,XEPRS The Mightier 1090 AM (KWFN 1090 AM)
