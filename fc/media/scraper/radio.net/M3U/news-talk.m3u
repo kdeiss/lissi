@@ -981,6 +981,8 @@ https://live.amperwave.net/manifest/townsquare-konaamaac-hlsc3.m3u8
 https://crystalout.surfernetwork.com:8001/KONP_MP3
 #EXTINF:0,KONTRAFUNK – Die Stimme der Vernunft
 https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
+#EXTINF:0,Kroode Radio International
+http://hydra.shoutca.st:8238/
 #EXTINF:0,Kool 105.5 
 https://streamdb7web.securenetsystems.net/cirrusencore/index.cfm?stationCallSign=WGKL
 #EXTINF:0,KOOP 91.7 FM
@@ -1255,6 +1257,8 @@ http://134.121.234.129:8000/NWPRNEWS
 https://ais-sa1.streamon.fm/7679_48k.aac?listenerId=esTrackblock081220&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1688544447&aw_0_req.gdpr=true
 #EXTINF:0,KWVH
 https://ice41.securenetsystems.net/KWVH
+#EXTINF:0,KWVR 1340 AM
+http://198.135.178.57:9002/stream
 #EXTINF:0,KWWN - ESPN Radio 1100 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAM.mp3
 #EXTINF:0,KWWS Northwest Public Radio
@@ -1353,8 +1357,6 @@ https://stream.zenolive.com/axr92qawesmtv
 http://procyon.shoutca.st:8559/stream
 #EXTINF:0,La Onda 1190AM
 https://eu2.fastcast4u.com/proxy/julpar00?mp=/1
-#EXTINF:0,La Querendona 1270 AM
-https://emisorasvirtuales.com.co:9381/live
 #EXTINF:0,La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
 #EXTINF:0,La Red FM
@@ -1545,8 +1547,6 @@ http://s3.nexuscast.com/proxy/mbradiotalk/stream
 https://online.vibacomunicacion.com:10010/stream
 #EXTINF:0,Minuto95® ♪
 https://stream.zeno.fm/sen7wrqmb8zuv
-#EXTINF:0,MIP Radio
-https://stream.zeno.fm/1rk0tav4czzuv
 #EXTINF:0,MI VOZ FM
 https://stream.zeno.fm/e183ym5dyzzuv
 #EXTINF:0,M Le Média
@@ -1809,8 +1809,6 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
-#EXTINF:0,SBC Paradise FM
-https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -2641,6 +2639,8 @@ http://ca8.rcast.net:8022/;
 https://streamer.radio.co/se3e1e3815/low
 #EXTINF:0,Replay News
 https://replaynews.ice.infomaniak.ch/replaynews-192.mp3
+#EXTINF:0,Republic Broadcasting Network
+https://cast2.my-control-panel.com/proxy/rbn/stream
 #EXTINF:0,Restauración 100.5 FM
 http://cdn-radio.elim.org.sv:8007/stream/2/
 #EXTINF:0,The Revolution Show
@@ -4127,6 +4127,8 @@ https://ice7.securenetsystems.net/WSPC
 https://ice6.securenetsystems.net/WSRQ
 #EXTINF:0,WSUI Iowa Public Radio News 910
 https://news-stream.iowapublicradio.org/News.mp3
+#EXTINF:0,WSVA - News Radio 550 AM
+https://live.amperwave.net/manifest/saga-wsvaamaac-hlsc2.m3u8
 #EXTINF:0,WSVG 790 AM
 https://ic2.mainstreamnetwork.com/wsvg-am
 #EXTINF:0,WSWS - The Life 89.9 FM

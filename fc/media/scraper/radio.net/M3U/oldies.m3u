@@ -121,6 +121,8 @@ http://centauri.shoutca.st:9060/stream/1/
 https://stream.tunerplay.com/listen/mix80radio/radio.mp3
 #EXTINF:0,21 Radio Dijon
 http://82.64.123.204:8001/21radio
+#EXTINF:0,24-7 Romance
+https://antares.dribbcast.com/proxy/s8140/stream
 #EXTINF:0,247 Stereo
 https://c19.radioboss.fm:18080/stream
 #EXTINF:0,247 The Sound 
@@ -231,8 +233,6 @@ https://21363.live.streamtheworld.com/3NRAAC.aac
 https://whav.streamguys1.com/live
 #EXTINF:0,Sonshine
 https://stream2.cnmns.net/sfm
-#EXTINF:0,99FM 
-https://streaming.fabrik.fm/99fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Aambiance 90
 https://listen.radionomy.com/aambiance-90.m3u
 #EXTINF:0,ABC Memories
@@ -1393,6 +1393,8 @@ https://hello.citrus3.com:8004/stream
 https://ice42.securenetsystems.net/HO66
 #EXTINF:0,50s 60s Hits - HitsRadio
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_OLDIES.mp3
+#EXTINF:0,HitTrAp Radio Old School
+https://radio.hittrap.com:1025/;
 #EXTINF:0,Hit West 80s
 https://hitwestrennes.ice.infomaniak.ch/hitwest-rennes-128.aac
 #EXTINF:0,Hvidovre Naer Radio 95,2 
@@ -2137,6 +2139,8 @@ https://stream.laut.fm/lauschair60?ref=radiode
 https://stream.laut.fm/lechtal?ref=radiode
 #EXTINF:0,Leqitfox
 https://stream.laut.fm/leqitfox?ref=radiode
+#EXTINF:0,Listen4you
+http://stream.laut.fm/listen4you
 #EXTINF:0,Literatur Radio One World
 http://nela1.stream.laut.fm:8080/nela1
 #EXTINF:0,LittleStar-Radio
@@ -2673,6 +2677,8 @@ http://radio.promosat.com:8100/;stream/1
 https://playerservices.streamtheworld.com/api/livestream-redirect/LIBRADIOGOLD_S01AAC.aac
 #EXTINF:0,LIDER FM
 http://server10.srvsh.com.br:6822/stream/1/
+#EXTINF:0,Lider FM Pitangui
+https://servidor20.brlogic.com:7028/live
 #EXTINF:0,Life Radio Greatest Hits
 https://stream.liferadio.at/greatest-hits/mp3-192/radioat/
 #EXTINF:0,Life Radio MDQ
@@ -3505,6 +3511,8 @@ https://live.stream.radioarabella.de/radioarabella-muenchen?aggregator=radiode
 https://frontend.streams.arabella.at/arabella-wien?aggregator=radio-at
 #EXTINF:0,Radio Arabella Golden Oldies
 https://live.stream.radioarabella.de/radioarabella-goldenoldies?aggregator=radiode
+#EXTINF:0,Radio Atlantis Int.
+http://cloud-faro.beheerstream.com:8539/tunein/listen.pls
 #EXTINF:0,Radio Aurora
 https://sr2.inmystream.it/proxy/aurora1?mp=/stream
 #EXTINF:0,Radio Austria - Best of 60s
@@ -3567,8 +3575,8 @@ https://frontend.streamonkey.net/radioc-live?aggregator=radio.de
 http://stream04.stream-webradiotechnik.de:8400/listen1
 #EXTINF:0,Radio Colosal
 http://streamingecuador.net:9062/radiocolosal
-#EXTINF:0,Radio COSMIC
-https://radio10.pro-fhi.net/live/RadioCOSMIC
+#EXTINF:0,Rádio Comunicativa 87.9 FM
+https://streamssl.hospedandosites.com.br/r31oqiye.php/;
 #EXTINF:0,Radio Costa 93.1 FM
 https://sonicpanel.globalstream.pro/7602/;
 #EXTINF:0,Radio Cover Uno - Musica Senza Etichette 
@@ -3851,6 +3859,8 @@ http://94.23.27.6:8242/stream
 https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:0,Ràdio Pont de Molins
 https://stream.zeno.fm/qh2zmtaxn7zuv
+#EXTINF:0,Radio Potz
+https://radio.potz.be/omnia
 #EXTINF:0,Radio Power of Music
 https://server33911.streamplus.de/stream/1/
 #EXTINF:0,Radio Prado Sur
@@ -4141,6 +4151,8 @@ https://k100straumar.mbl.is/retromobile
 https://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTINF:0,Retro FM Skåne
 https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
+#EXTINF:0,Retro Hits 70s 80s 90s
+https://s1.nexuscast.com:8038
 #EXTINF:0,Retro Hits Classic Radio
 https://app.sonicpanelradio.com/8316/stream
 #EXTINF:0,Retropop 
@@ -4751,8 +4763,6 @@ http://vibration.stream2net.eu:8060/vibrationvintage-192k.mp3
 https://cast2.asurahosting.com/proxy/vietnam1/stream
 #EXTINF:0,Vijay FM
 https://vijayfm-prabak78.radioca.st/stream
-#EXTINF:0,Vinculo FM
-https://sonic.xtremacomunicaciones.com.mx:7000/1
 #EXTINF:0,Vintage 94.1 FM HD2
 https://audiostreaming.luz.network/stream/8/;?nocache=18682&type=http
 #EXTINF:0,Vintage Broadcast
@@ -5097,6 +5107,8 @@ https://streamingv2.shoutcast.com/RadioAntillas1130AM
 http://puma.streemlion.com:3820/stream
 #EXTINF:0,WOLD-LP OLDIES 107.9 FM
 http://192.99.41.102:5032/stream
+#EXTINF:0,Wonderful Radio London 
+http://109.169.54.86:8003/stream/1/
 #EXTINF:0,Wonderlandradio
 http://server-27.stream-server.nl:8388/stream/1/
 #EXTINF:0,Woope-Radio
