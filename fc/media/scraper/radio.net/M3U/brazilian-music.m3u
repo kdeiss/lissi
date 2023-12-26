@@ -237,6 +237,8 @@ https://cast.mgtradio.net/radio/8000/radio.aac
 https://stm01.virtualcast.com.br:8350/stream
 #EXTINF:0,Mirante FM 100.3
 https://player-ssl.painelstream.net:8094/live
+#EXTINF:0,MIX879 FM
+http://str81.aovivonanet.com:9952/;stream.mp3
 #EXTINF:0,Mix Arapiraca
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC_SC
 #EXTINF:0,MS Web Rádio
@@ -347,8 +349,6 @@ https://servidor37.brlogic.com:8382/live
 http://stm46.voxstream.com.br:28396/stream/1/
 #EXTINF:0,RADIO BRAZIL
 https://servidor37-5.brlogic.com:8830/live
-#EXTINF:0,Rádio Cachoeira FM 105.9
-http://aovivo.cachoeirafm.com.br:8135/;stream.mp3
 #EXTINF:0,Rádio Câmara Sorocaba
 http://suaradio1.dyndns.ws:13124/stream
 #EXTINF:0,Rádio Candidés
@@ -447,8 +447,6 @@ https://r13.ciclano.io:15137/stream
 http://wz3.dnip.com.br/cultura670hd/cultura670hd.stream/playlist.m3u8
 #EXTINF:0,Radio Cultura Além Paraíba
 http://stm48.srvstm.com:17534/stream/1/
-#EXTINF:0,RÁDIO CULTURA FM PADRE PARAISO BRASIL
-http://stm9.voxtreaming.com.br:6938/stream/1/
 #EXTINF:0,Rádio Cultural FM 105.9
 http://wz3.dnip.com.br/legalfm1hd/legalfm1hd.stream/playlist.m3u8
 #EXTINF:0,Radio Deus Esta No Ar
@@ -505,6 +503,8 @@ https://shout25.crossradio.com.br:18006/1
 https://player.srvstm.com/proxy/10732
 #EXTINF:0,Radio Grandes Lagos FM
 https://stm21.srvaudio.com.br:10632/stream
+#EXTINF:0,Rádio Hertz
+http://stm1.rbcast.com:6704/stream/1/
 #EXTINF:0,Rádio Iara
 https://servidor35-2.brlogic.com:8186/live
 #EXTINF:0,Rádio Içara
@@ -709,8 +709,6 @@ https://stream-161.zeno.fm/xth3odwiwmxvv
 https://stream.zeno.fm/6r8xiccmsbktv
 #EXTINF:0,Hitz Fm - Sertanejo
 https://listen.openstream.co/7366/audio
-#EXTINF:0,Radio Stillus Web
-http://server02.stmsg.com.br:18238/streamstream/1/stream/1/
 #EXTINF:0,Radio Super Funk Melody
 https://ssl.xcast.com.br:8156/stream
 #EXTINF:0,Radio Super Nova
@@ -857,8 +855,6 @@ http://euroticast5.euroti.com.br:8484/stream/1/
 http://cast3.hoost.com.br:9509/stream
 #EXTINF:0,Tropical FM 96.1
 https://8442.brasilstream.com.br/stream
-#EXTINF:0,UCSfm Bento Gonçalves
-https://play.radio.br:8089/ucsfmbento/ucsfmbento/icecast.audio
 #EXTINF:0,UCSfm Vacaria
 https://stream1.play.radio.br:8089/UCS/FMVacaria/icecast.audio
 #EXTINF:0,Vale Verde FM

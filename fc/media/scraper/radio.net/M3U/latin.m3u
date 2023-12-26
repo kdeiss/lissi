@@ -92,7 +92,7 @@ https://stream.rcs.revma.com/amrbkhqtkm0uv
 #EXTINF:0,Rádio Aliança
 https://stream.zeno.fm/q0kbc5y5pf9uv
 #EXTINF:0,All Saints Radio
-https://s20.reliastream.com/stream/8000
+https://s20.reliastream.com:8030/stream
 #EXTINF:0,Allzic Brazil 
 https://allzic19.ice.infomaniak.ch/allzic19.mp3
 #EXTINF:0,Allzic Latino
@@ -487,8 +487,6 @@ http://5.135.183.124:8103/stream
 http://live.myradioserver.net:7510/stream/1/
 #EXTINF:0,Diamante FM
 http://radiolatina.live:8058/stream
-#EXTINF:0,Diáspora Radio
-https://server6.globalhostla.com:9156/stream
 #EXTINF:0,Diego Primavera Radio
 https://stream.zeno.fm/c1fa6x66vhruv
 #EXTINF:0,Digital 93.9 FM
@@ -496,7 +494,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMOFM.mp3
 #EXTINF:0,Digital Latino Radio
 http://usa9.fastcast4u.com:5798/;
 #EXTINF:0,Digital Play FM
-https://usa2.fastcast4u.com/proxy/digitalplayfm/stream
+https://dpfmadmin.radioca.st/stream
 #EXTINF:0,DinámicaFM
 http://192.99.232.79:8040/
 #EXTINF:0,Discosuave
@@ -525,6 +523,8 @@ http://ic.streann.com:8443/disneypanama
 https://rds1.radiomagic.com.py:9433/stream
 #EXTINF:0,Radio Disney Perú
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.aac
+#EXTINF:0,Radio Disney Uruguay
+https://24153.live.streamtheworld.com/DISNEY_URY_MVAAC/HLS/playlist.m3u8
 #EXTINF:0,Rádio Divertilandia
 http://stream.divertilandia.pt:9996/stream/1/
 #EXTINF:0,DJ DURO
@@ -623,6 +623,8 @@ http://servers58.com:9840/stream/1/
 https://stream.zeno.fm/mufgwz7v8qzuv
 #EXTINF:0,Energia Radio
 https://play8.tikast.com/proxy/universa?mp=/stream
+#EXTINF:0,Energy Latin
+https://energylatin.ice.infomaniak.ch/energylatin-high.mp3
 #EXTINF:0,ENERGY Latino
 https://scdn.nrjaudio.fm/adwz1/de/33069/mp3_128.mp3?origine=radio.net
 #EXTINF:0,envivoTVenvivoRADIO
@@ -871,8 +873,6 @@ http://78.129.229.113:31097/corriente
 https://usa16.fastcast4u.com/proxy/girasolradiopatzun?mp=%2F1
 #EXTINF:0,Glaciar 105.7
 https://stream.zeno.fm/uc6dpxzw6sjtv
-#EXTINF:0,glamour fm Málaga
-http://142.132.128.75:8006/stream/1/
 #EXTINF:0,Gooaky
 https://streaming.live365.com/a07804
 #EXTINF:0,Goodstation Radio
@@ -909,6 +909,10 @@ https://servidor21-4.brlogic.com:8082/live
 http://cast4.magicstreams.gr:10071/;
 #EXTINF:0,Hen Latino
 https://stream.zeno.fm/pg9xrakc85quv
+#EXTINF:0,Herencia Rumbera
+https://radio.streamseguro.com/proxy/herenciarumbera/stream/1/
+#EXTINF:0,Herencia Rumbera Radio
+https://radio.streamseguro.com/proxy/herenciarumbera/stream
 #EXTINF:0,Herencia Salsera Stereo
 http://stream.zeno.fm/8n9bpmhy4mzuv
 #EXTINF:0,HIT FM Latinoamerica
@@ -936,7 +940,7 @@ https://listen.radioking.com/radio/1743/stream/125
 #EXTINF:0,Hot Love Radio
 https://stream.zeno.fm/s5z32pxnehruv
 #EXTINF:0,Hotmixradio Latino
-https://streamingp.shoutcast.com/hotmixradio-latino-128.mp3
+https://streaming.hotmixradio.fr/hotmix-latino-en-mp3
 #EXTINF:0,Hotmix Salsa
 https://streaming.hotmixradio.fr/hotmix-salsa-en-mp3
 #EXTINF:0,Громадське радіо
@@ -1023,8 +1027,6 @@ https://stream.zeno.fm/vbps31umzk0uv
 https://stream.zeno.fm/9afg4cnz5k0uv
 #EXTINF:0,Jordan Radio Paxtoca
 https://server.radiogs.net/8182/stream
-#EXTINF:0,KNVO FM - José FM 101.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
 #EXTINF:0,Joya FM
 https://stream.zeno.fm/n9kladzriqzuv
 #EXTINF:0,JR.FM Latin Beats
@@ -1053,8 +1055,6 @@ http://130.166.82.14:8008/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHHMFMAAC_SC
 #EXTINF:0,KDCE - Que dice 950 AM
 https://streamer.radio.co/s69ad365c4/listen
-#EXTINF:0,KDLE - José 103.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
 #EXTINF:0,KDNA - 91.9 FM
 http://peridot.streamguys.com:5620/kdna-mp3
 #EXTINF:0,Ke Buena Spain
@@ -1209,8 +1209,6 @@ https://node-02.zeno.fm/8764an14h18uv?
 https://emisorasvirtuales.com.co:9183/live
 #EXTINF:0,KDTD - La Grande 1340
 https://us2.maindigitalstream.com/ssl/KDTD
-#EXTINF:0,LA GRANDEMTY RADIO
-https://stream.zeno.fm/cd1fu35abkhvv
 #EXTINF:0,La Grupera MX
 https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 #EXTINF:0,La Inolvidable 93.7 FM
@@ -1623,10 +1621,10 @@ https://sonic01.instainternet.com:7093/stream/1/
 https://stream.zeno.fm/qbmvgpm314zuv?rj-tok=AAABd_RZ0x4AIEl2rvecluvCDw&rj-ttl=5
 #EXTINF:0,Loja Stereo
 https://securestream.radioshd.info:7072/stream/1/
+#EXTINF:0,Lo Mejor Estereo
+https://streaming.radiosenlinea.com.ar:10872/;
 #EXTINF:0,Los 40 Principales Costa Rica
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CR_SC.mp3
-#EXTINF:0,Los 40 Principales 91.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
 #EXTINF:0,Los 40 Principales Chile
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE.mp3
 #EXTINF:0,LOS40 Urban
@@ -1903,8 +1901,6 @@ https://panel.innovatestream.pe:10990/undefined
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7174/listen.pls
 #EXTINF:0,Novedades Radio
 https://stream.zeno.fm/w3zdg28b6zhvv
-#EXTINF:0,npmradio
-https://stream.zeno.fm/f7hbnx9f5a0uv
 #EXTINF:0,NRCU-1 УР1
 http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRJ FIESTA
@@ -2019,8 +2015,6 @@ https://stream.zeno.fm/1276g6drneruv
 https://streaming.livespanel.com:9430/stream
 #EXTINF:0,Piruwton Radio
 http://stream-51.zeno.fm/9ppgme10dtzuv?zs=dvERsXgKT7Wrjr3-5ZagXg
-#EXTINF:0,Planele
-https://01.solumedia.com.ar:7008/stream
 #EXTINF:0,Planeta Cumbia Latina
 https://stream.zeno.fm/60pqgs97f2zuv
 #EXTINF:0,Planeta Rojo FM
@@ -2513,8 +2507,6 @@ https://stream.regenbogen.de/latin/aac-128/radiode
 https://stream.zeno.fm/mmqs8q47gg8uv
 #EXTINF:0,Radio Relax 
 https://online.radiorelax.ua/RadioRelax
-#EXTINF:0,Radio Respuesta Tvnet
-https://stream-20.zeno.fm/675vr2gfv6duv?zs=YT2_wApVS0ygX7YrA6X7Dw
 #EXTINF:0,Radio Revelacion y Verdad
 https://cloudstream2032.conectarhosting.com/8260/stream
 #EXTINF:0,RADIO REVIVE
@@ -2839,6 +2831,8 @@ http://51.161.93.181:8183/live
 https://usa6.fastcast4u.com/proxy/laztatzi/stream
 #EXTINF:0,Sonido Generacional HD
 http://212.24.109.1:8098/;
+#EXTINF:0,Sonido Urbano Radio
+http://procyon.shoutca.st:8174/stream
 #EXTINF:0,Sonora Grupera
 http://144.217.15.135:8000/stream/2/
 #EXTINF:0,Sonora Grupera
@@ -2847,8 +2841,6 @@ http://144.217.15.135:8000/stream/2/
 https://usa18.fastcast4u.com/proxy/soysonid2?mp=/1
 #EXTINF:0,SoulRoots Radio
 https://streams.radio.co/sbdfc075c0/listen
-#EXTINF:0,Radio Studio Souto - Boleros em Seresta
-https://centova5.transmissaodigital.com:20009/stream
 #EXTINF:0,Soybachatero
 https://stmundial.net/8042/stream
 #EXTINF:0,Soy FM 93.9

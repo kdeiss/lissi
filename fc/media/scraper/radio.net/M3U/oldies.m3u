@@ -25,8 +25,6 @@ https://pub0102.101.ru:8443/stream/trust/mp3/128/55
 https://streaming.radio.co/s188e71c13/listen
 #EXTINF:0,1025 SPIRIT FM
 https://s3.voscast.com:11261/live
-#EXTINF:0,105.3 Zack FM
-https://radioengland.co.uk:8702/zack.aac
 #EXTINF:0,Spreeradio Weihnachtsradio
 https://stream.spreeradio.de/spree-event/mp3-128/radioDE/
 #EXTINF:0,Radio 105 Retro
@@ -848,7 +846,7 @@ https://streaming.live365.com/a39531
 #EXTINF:0,Cruisin KCFI 1250
 https://ice7.securenetsystems.net/CRUISIN
 #EXTINF:0,Cuba80s
-https://stream2.305stream.com/proxy/cubashec?mp=/stream
+https://stream3.305stream.com/proxy/cubashec/stream
 #EXTINF:0,Cure Radio
 https://cloud.playradio.one:8555/pro0005.mp3
 #EXTINF:0,Cyber Power Radio
@@ -1387,8 +1385,6 @@ https://streaming.live365.com/a51828
 https://ex52.voordeligstreamen.nl/8028/stream
 #EXTINF:0,Hits 70s 80s
 https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3
-#EXTINF:0,Hits FM
-https://hello.citrus3.com:8004/stream
 #EXTINF:0,Mother Road Radio : Hits On 66
 https://ice42.securenetsystems.net/HO66
 #EXTINF:0,50s 60s Hits - HitsRadio
@@ -1530,7 +1526,7 @@ https://stream.joe.nl/joe/aachigh
 #EXTINF:0,The Jonathan Channel
 https://tjc.wnyc.org/js-stream
 #EXTINF:0,JOYradio
-http://87.98.242.139:8110/stream/1/
+https://joyradio.stream.laut.fm/joyradio?
 #EXTINF:0,J-Pop Sakura Natsukashii
 https://cast1.torontocast.com:2170/;
 #EXTINF:0,JT Radio
@@ -1575,6 +1571,8 @@ http://205.134.192.90:680/;
 https://wbrh.streamguys1.com/kbrh-aac
 #EXTINF:0,KBVA - 106.5 FM
 https://ice42.securenetsystems.net/KBVA
+#EXTINF:0,KBYS 88.3 FM
+https://stream.kbys.fm/radio/8020/radio.mp3
 #EXTINF:0,KBZU - The Mountain 96.3 FM
 https://14933.live.streamtheworld.com/KRSTFMAAC.aac
 #EXTINF:0,KBZY 1490 AM
@@ -2707,8 +2705,6 @@ https://www.radioking.com/play/otradio/584704
 https://s1.voscast.com:10237/stream
 #EXTINF:0,LMD Radio
 https://lmdradio.on-the-web.tv/radio/8010/radio.mp3
-#EXTINF:0,LM Radio 87.8 FM
-https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:0,Loca Fm House Deluxe 
 https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:0,Lola Fm
@@ -2825,6 +2821,8 @@ https://online.melodiafm.ua/MelodiaFM
 https://stream-melody.de:8192/;
 #EXTINF:0,Melody Flash Radio
 https://servidor34-3.brlogic.com:8286/live
+#EXTINF:0,Melody FM
+https://sc4s.cdn.upx.com:8080/stream
 #EXTINF:0,MELODY
 https://ice.creacast.com/melody-aac-64
 #EXTINF:0,melo radio Bielsko Biała
@@ -2937,6 +2935,8 @@ http://s10.streamingcloud.online:13470/stream
 https://stream.laut.fm/musikhimmel?ref=radiode
 #EXTINF:0,MusikInselRadio
 https://stream.musikinselradio.net:8002/stream/1/
+#EXTINF:0,WEBRADIO MUSIKPARADIES
+https://stream.tramp-cast.ch/8028/stream
 #EXTINF:0,Radio Musiktruhe - Best of Musik
 https://c02.lexycast.de:4350/;
 #EXTINF:0,Musikwelle 
@@ -2947,10 +2947,6 @@ http://usa14.fastcast4u.com/proxy/mysradio?mp=/1
 https://audio-edge-3mayu.fra.h.radiomast.io/8a7977d1-a8df-4ae4-a987-984eada92c1b?t=default
 #EXTINF:0,My Generation FM
 http://streaming.radionomy.com/MY-GENERATION-FM
-#EXTINF:0,Myhitmusic - JUKEBOX GOLD
-https://radio.myhitmusic.de/Jukebox-Gold-aac.mp3
-#EXTINF:0,Myhitmusic - TOMs CLUB 70s
-https://radio.myhitmusic.de/Toms-Club70s-aac.mp3
 #EXTINF:0,Na Gwiazdkę Jazz & Classic
 https://stream.open.fm/88
 #EXTINF:0,Nashe Radio Наше Радио Киев
@@ -3229,8 +3225,6 @@ https://stream.open.fm/50
 http://streams.movemedia.eu:8800/;
 #EXTINF:0,ORF Radio Niederösterreich
 https://orf-live.ors-shoutcast.at/noe-q1a
-#EXTINF:0,Oro 94.9 Solo Hits
-https://grupooro1.centrocibernetico.com/;
 #EXTINF:0,Radio Ostseemelodie
 https://server35903.streamplus.de/stream.mp3
 #EXTINF:0,Ostseewelle - Oldie Hits
@@ -3262,7 +3256,7 @@ https://cloud.cdnseguro.com:2363/stream/1/
 #EXTINF:0,Pal Nostalji
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 #EXTINF:0,PandoraX-FM
-https://streaming.shoutcast.com/pandorax-fm
+https://a4.asurahosting.com:7610/radio.mp3
 #EXTINF:0,Pannonradio
 http://stream2.nmih.hu:4120/
 #EXTINF:0,Tamil Panpalai India
@@ -3705,8 +3699,6 @@ http://aler.org:8000/juvi
 https://radio.en.rs:8040/radio.mp3
 #EXTINF:0,Radio-Kartoffelsalat
 https://server4.streamserver24.com:8080/proxy/radiokar?mp=/stream
-#EXTINF:0,RADIO KFAT
-https://streamer.radio.co/s2eabcd2b9/listen
 #EXTINF:0,Radio Kiepenkerl - Dein Oldie Radio
 https://stream.lokalradio.nrw/445b3jw
 #EXTINF:0,Radio kissFM
@@ -4151,8 +4143,8 @@ https://k100straumar.mbl.is/retromobile
 https://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTINF:0,Retro FM Skåne
 https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
-#EXTINF:0,Retro Hits 70s 80s 90s
-https://s1.nexuscast.com:8038
+#EXTINF:0,Retro Hits Canada
+https://s1.nexuscast.com:8038/stream
 #EXTINF:0,Retro Hits Classic Radio
 https://app.sonicpanelradio.com/8316/stream
 #EXTINF:0,Retropop 
@@ -4457,8 +4449,6 @@ https://sec01.xrn.com.au/listen/station_x_-_xrn_australia/StxSd
 https://carina.streamerr.co:9200/stream
 #EXTINF:0,ORF Radio Steiermark
 https://orf-live.ors-shoutcast.at/stm-q1a
-#EXTINF:0,StereoRey
-http://163.172.77.142:8690/;
 #EXTINF:0,Stereo Uno 100.3 FM
 https://audiostreaming.luz.network/stream/13/;?nocache=18685&type=http
 #EXTINF:0,Stereo Uno 94.1 FM
@@ -4506,7 +4496,7 @@ http://87.237.169.24:8000/live
 #EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
 #EXTINF:0,Sunshine-radio.eu
-https://c02.lexycast.de:4910/;
+https://sunshine.sp.radio.fm/stream
 #EXTINF:0,Super FM Brasov
 https://live.superfm.ro/stream.mp3?source=radionet
 #EXTINF:0,Rádio Super Funk Melody
@@ -4633,6 +4623,8 @@ http://646.cloudrad.io:8234/stream/1/
 https://cast4.my-control-panel.com/proxy/radiosy3/live
 #EXTINF:0,The Valley
 http://192.96.205.49:8080/;
+#EXTINF:0,The WOOF
+https://streaming.live365.com/a74661
 #EXTINF:0,Throw Back Hits Radio
 https://s5.citrus3.com:8290/stream
 #EXTINF:0,ANTENNE THÜRINGEN - Yesterhits
@@ -4763,6 +4755,8 @@ http://vibration.stream2net.eu:8060/vibrationvintage-192k.mp3
 https://cast2.asurahosting.com/proxy/vietnam1/stream
 #EXTINF:0,Vijay FM
 https://vijayfm-prabak78.radioca.st/stream
+#EXTINF:0,Vinculo FM
+https://sonic.xtremacomunicaciones.com.mx:7000/1
 #EXTINF:0,Vintage 94.1 FM HD2
 https://audiostreaming.luz.network/stream/8/;?nocache=18682&type=http
 #EXTINF:0,Vintage Broadcast
@@ -4917,16 +4911,12 @@ https://rs2.ptservidor.com/proxy/orlando/stream
 https://api.radioking.io/radio/542309/listen.m3u
 #EXTINF:0,Rádio Capital Sul FM
 http://11.fusioncast.com.br:8362
-#EXTINF:0,WebRadioLevi
-http://46.28.2.24:9308/stream
 #EXTINF:0,Web Rádios Los Angeles
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10895&type=s1
 #EXTINF:0,webradio-muenster.de
 https://server24503.streamplus.de/;stream.mp3
 #EXTINF:0,WebZone Radio
 http://streaming19.hstbr.net:8228/live
-#EXTINF:0,Weirdsville - the silly side of Halloween
-http://sc7.shoutcaststreaming.us:2199/tunein/c8502.pls
 #EXTINF:0,Welle Niederrhein - Dein Oldie Radio
 https://stream.welleniederrhein.de/445cptm
 #EXTINF:0,Welle Ost 2
@@ -5044,7 +5034,7 @@ https://streaming.live365.com/a04907
 #EXTINF:0,WLNC 1300 AM
 http://listen.mediatechusa.com:8000/wlnc
 #EXTINF:0,WLNG 92.1 FM
-http://sc7.shoutcaststreaming.us:8100/listen.pls
+https://cast6.my-control-panel.com/stream/barkoutl/stream.pls
 #EXTINF:0,WLPK K Mix 106.9
 http://13.bteradio.com:9090/KMIX.mp3
 #EXTINF:0,94.7 WLS Chicago's Classic Hits

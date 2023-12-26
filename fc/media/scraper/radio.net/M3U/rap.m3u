@@ -13,6 +13,8 @@ http://sc-jamz.1.fm:8052/;
 https://wdr-1live-mixderwoche.icecast.wdr.de/wdr/1live/mixderwoche/mp3/128/stream.mp3?aggregator=radio-de
 #EXTINF:0,247 Urban Hit Radio
 http://247urbanhits.com:8000/stream
+#EXTINF:0,62FM
+https://srv.webradiomanager.fr:1335/stream
 #EXTINF:0,808.FM
 https://stream.zeno.fm/ggbfsp5ptqauv
 #EXTINF:0,89.0 RTL Deutsch Rap
@@ -151,8 +153,6 @@ https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/pro
 https://stream.rcs.revma.com/uge5n8zat18uv
 #EXTINF:0,C-Rap
 https://fmcpmediatest.ice.infomaniak.ch/c-rap.aac
-#EXTINF:0,CS Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4005686.aac
 #EXTINF:0,CyberFM Streetz
 https://stream.zeno.fm/6azzz1qgvceuv
 #EXTINF:0,DASH Independent Grind
@@ -320,7 +320,7 @@ https://streams.ilovemusic.de/iloveradio13.mp3
 #EXTINF:0,Image Jamz
 http://198.58.98.83/proxy/imagejamz/stream
 #EXTINF:0,In Da Mix Radio
-https://live365.com/station/In-Da-Mix-Radio-a77403
+https://ais-edge103-live365-dal02.cdnstream.com/a77403
 #EXTINF:0,Independent Hip-Hop Radio
 https://ais-edge105-live365-dal02.cdnstream.com/a50066
 #EXTINF:0,Infinite Plane Radio
@@ -751,6 +751,8 @@ https://stream.laut.fm/limit-fm?ref=radiode
 https://stream.laut.fm/limp-bizkit-station?ref=radiode
 #EXTINF:0,lincox
 https://stream.laut.fm/lincox?ref=radiode
+#EXTINF:0,LINE
+http://stream.laut.fm/line.m3u
 #EXTINF:0,LineFM Rap
 https://stream.laut.fm/linefmrap?ref=radiode
 #EXTINF:0,listenfm
@@ -1319,6 +1321,8 @@ https://listen.openstream.co/3422/audio
 https://my105-stream17.radiohost.de/my105-oldschool_mp3-192?
 #EXTINF:0,my105 OLDSCHOOL IT
 https://my105-stream17.radiohost.de/my105-oldschool_mp3-192
+#EXTINF:0,my105 The Battle
+https://www.my105.ch/my105thebattle.m3u
 #EXTINF:0,my105 THE BATTLE IT
 https://panel.srino.xyz/my105thebattle.mp3
 #EXTINF:0,MyCiti Radio
@@ -1635,6 +1639,8 @@ https://hillchill.net/
 http://node-18.zeno.fm/q5f3zvmm3p8uv?zs=vaoPnvapR2G7XRu6tKcqQQ&rj-tok=AAABgT1-7ycAC5rDSIg_oUG6rA&rj-ttl=5
 #EXTINF:0,Top Hip-Hop Songs Radio
 http://listen.one.hiphop/top-hip-hop-songs
+#EXTINF:0,Torqued Cash Music
+https://az10.yesstreaming.net:8200/radio.mp3
 #EXTINF:0,TRACE FM Martinique
 https://stream.rcs.revma.com/1u2tgf744k0uv
 #EXTINF:0,TRACE FM France

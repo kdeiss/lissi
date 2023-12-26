@@ -181,6 +181,8 @@ http://stream.bnr.bg:8012/hristo-botev.aac
 https://stream.zeno.fm/utnnx7paza0uv
 #EXTINF:0,Borusan Klasik
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
+#EXTINF:0,BP Radio Classic
+https://rs.bpgn.xyz/listen/hits/low
 #EXTINF:0,Brass Band Radio
 https://uk6.internet-radio.com/proxy/brassbandradio?mp=/stream/
 #EXTINF:0,Bremen Zwei
@@ -485,8 +487,6 @@ https://jazzfm91.streamb.live/SB00009
 https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
 #EXTINF:0,Radio Clasic Romania
 http://www.clasicradio.ro:8000/stream/1/
-#EXTINF:0,Clásica FM Radio
-https://edge.mixlr.com/channel/asnfw
 #EXTINF:0,Classic 1027
 https://edge.iono.fm/xice/49_medium.aac
 #EXTINF:0,RadioClassica
@@ -761,8 +761,6 @@ https://dbc.ice.infomaniak.ch/dbc-96.mp3
 https://stream.laut.fm/deepsunbeachfunk?ref=radiode
 #EXTINF:0,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
-#EXTINF:0,DFT NEWS RADIO
-https://stream.zeno.fm/rd72diivv7huv
 #EXTINF:0,Diego Primavera Radio
 https://stream.zeno.fm/c1fa6x66vhruv
 #EXTINF:0,Diferente104 FM
@@ -1172,13 +1170,13 @@ https://stream.klassikradio.de/furioso/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Piano New Classics
 https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/
 #EXTINF:0,Klassik Radio - Klangzauber für Kinder in Not
-https://stream.klassikradio.de/Klangzauber-fuer-Kinder-in-Not/mp3-128/radiode/
+https://stream.klassikradio.de/Klangzauber-fuer-Kinder-in-Not/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Klassik am Morgen
 https://stream.klassikradio.de/klassikammorgen/mp3-128/radiode/
 #EXTINF:0,Klassik für Kids
 https://klassikr.streamabc.net/klr-klassikfrkinder-mp3-192-8843124
 #EXTINF:0,Klassik Radio Legenden der Klassik
-https://stream.klassikradio.de/legenden/mp3-128/radiode/
+https://stream.klassikradio.de/legenden/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Mit Klassik Kindern helfen
 https://stream.klassikradio.de/mit-klassik-kindern-helfen/mp3-192/radiode
 #EXTINF:0,Klassik Radio Movie Live
@@ -1479,8 +1477,8 @@ https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/aac/high/stream.aac?aggregator=
 https://avw.mdr.de/streams/284310-0_mp3_high.m3u
 #EXTINF:0,Mechanical Music Radio
 http://198.27.66.225:8978/stream
-#EXTINF:0,Med1 Radio - Classique
-https://listen.radioking.com/radio/228241/stream/271810
+#EXTINF:0,Medi1 - Classique
+https://live.medi1.com/Classique
 #EXTINF:0,MediaAttic Radio
 https://ais-edge51-live365-dal02.cdnstream.com/a08347?listenerId=Live365-AdBlock&aw_0_1st.playerId=Live365&aw_0_1st.skey=1655196986990
 #EXTINF:0,Mega Rádio Instrumental
@@ -1840,7 +1838,7 @@ https://streaming.radiostreamlive.com/radiosymphony_devices
 #EXTINF:0,CIVR-FM Radio Taïga
 https://stream2.statsradio.com:8046/stream
 #EXTINF:0,Radio Technis
-https://neos.win:48500
+https://lofos.win:48500/stream
 #EXTINF:0,Radio Tele Pam
 https://s1.epistreaming.net/proxy/lukes/stream
 #EXTINF:0,RADIO TIGRE
@@ -1947,6 +1945,8 @@ https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8
 https://icecast.stv.livebox.sk/devin_128.mp3
 #EXTINF:0,RTVS Rádio Pyramída
 https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:0,SabaraGamuwa RADIO
+https://centova32.instainternet.com/proxy/ddtradio?mp=/stream
 #EXTINF:0,Sanfurgo
 http://176.31.241.17:7112/stream/1/
 #EXTINF:0,Sangeet Samvaad
