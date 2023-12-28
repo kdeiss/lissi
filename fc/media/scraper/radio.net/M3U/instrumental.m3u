@@ -43,8 +43,6 @@ http://usa3.fastcast4u.com:5726/stream/1/
 http://stream.zeno.fm/9htu0k0vsuquv
 #EXTINF:0,BARROSO RADIO
 https://stream.zeno.fm/zrh0rnwuarzuv
-#EXTINF:0,BBC World Service
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,Beautiful Instrumentals
 http://s3.voscast.com:10038/stream/1/
 #EXTINF:0,Beautiful Instrumentals Channel
@@ -63,6 +61,8 @@ https://streams.calmradio.com:10528/stream/1/
 https://streams.calmradio.com:6928/stream/1/
 #EXTINF:0,CALM RADIO - Brahms
 https://streams.calmradio.com:7128/stream/1/
+#EXTINF:0,CALM RADIO - Chopin
+https://streams.calmradio.com:7628/stream/1/
 #EXTINF:0,CALM RADIO - Classical Piano
 https://streams.calmradio.com:30928/stream/1/
 #EXTINF:0,CALM RADIO - Dmitri Shostakovich
@@ -73,6 +73,8 @@ https://streams.calmradio.com:12328/stream/1/
 https://streams.calmradio.com:12228/stream/1/
 #EXTINF:0,CALM RADIO - Franz Liszt
 https://streams.calmradio.com:9128/stream/1/
+#EXTINF:0,CALM RADIO - Igor Stravinsky
+https://streams.calmradio.com:8628/stream/1/
 #EXTINF:0,CALM RADIO - Jazz Piano
 https://streams.calmradio.com:30728/stream/1/
 #EXTINF:0,CALM RADIO - Oboe
@@ -107,8 +109,6 @@ https://streamingv2.shoutcast.com/classic-collection
 http://sl-2396.cdnstream.com/1469_128
 #EXTINF:0,Clubsteppin.com
 https://eu7.fastcast4u.com/proxy/lamwat00?mp=/;
-#EXTINF:0,CNN
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Contemporary Classical Music Radio
 https://centova.streams.gr:8099/stream
 #EXTINF:0,Costa Del Mar - Zen 
@@ -175,8 +175,6 @@ https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8
 https://streams.ffh.de/ffhchannels/mp3/hqacoustichits.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,RadioArt: Film Scores
 https://live.radioart.com/fFilm_scores.mp3
-#EXTINF:0,Вільне радіо
-https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,GotRadio - Piano Perfect
 https://pureplay.cdnstream1.com/6017_128.mp3
 #EXTINF:0,1st Greek New Age Radio
@@ -193,8 +191,6 @@ https://stream.zeno.fm/grpa985az98uv.aac
 http://bone.streampanel.cloud/8-herzklang
 #EXTINF:0,Hitkanal.FM Instrumental
 https://stream.hitkanal.fm:9100/nrwfmworkout
-#EXTINF:0,Громадське радіо
-https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Humboldt 101
 http://ais-sa2.cdnstream1.com/2188_128.mp3
 #EXTINF:0,Instrumental Hits Radio
@@ -221,6 +217,8 @@ http://sluchaj.radiojutrzenka.waw.pl:12854/test
 https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2
 #EXTINF:0,Klassik Radio Piano
 https://stream.klassikradio.de/piano/mp3-128/radiode/
+#EXTINF:0,amicaradio
+https://stream.laut.fm/amicaradio?ref=radiode
 #EXTINF:0,A Motion Radio
 https://stream.laut.fm/a-motionradio?ref=radiode
 #EXTINF:0,BongoRadio
@@ -271,8 +269,6 @@ https://stream.zeno.fm/8wt0zfhzdtzuv
 https://beta.surilive.com/8380/stream
 #EXTINF:0,Matt Johnson Radio
 http://us2.internet-radio.com:8046/stream/1/
-#EXTINF:0,MAXIMUM
-https://icecast.luxnet.ua/radio24
 #EXTINF:0,MediaAttic Radio
 https://ais-edge51-live365-dal02.cdnstream.com/a08347?listenerId=Live365-AdBlock&aw_0_1st.playerId=Live365&aw_0_1st.skey=1655196986990
 #EXTINF:0,melo radio Acoustic
@@ -281,10 +277,6 @@ https://ml.cdn.eurozet.pl/MELACO.mp3
 https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental.aac-lo
 #EXTINF:0,MUSICALISSIMA
 https://paineldj6.com.br:20131/stream
-#EXTINF:0,Nashe Radio Наше Радио Киев
-https://online.nasheradio.ua/NasheRadio
-#EXTINF:0,NRCU-1 УР1
-http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRJ ACOUSTIC HITS
 https://scdn.nrjaudio.fm/adwz1/fr/30157/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Acoustic-Hits
 #EXTINF:0,Obong Radio
@@ -333,8 +325,6 @@ https://streamingv2.shoutcast.com/RadioLaIsabela
 https://streaming.radiominerva.be/minerva
 #EXTINF:0,RADIO MUSICASIL
 http://stream.zeno.fm/t3rxo9ca6m2uv
-#EXTINF:0,Radio NV - Радіо НВ
-https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Obozrevatel Ballads
 https://radio-stream-0.obozrevatel.com/Ballads128.mp3
 #EXTINF:0,Radio Rabwah fm
@@ -343,16 +333,12 @@ http://185.41.154.86:8062/
 http://sc.ipip.cz:8060/listen.pls
 #EXTINF:0,Radio Relax Instrumental - Музика без слів
 https://online.radiorelax.ua/RadioRelax_Instrumental
-#EXTINF:0,Radio Relax 
-https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Rj Radio
 https://servidor36.brlogic.com:7486/live
 #EXTINF:0,Rádio Scalla
 https://hts02.kshost.com.br:9710/stream/1/
 #EXTINF:0,Radio southern Skies
 https://stream.zeno.fm/rhlrlqsqfkwvv
-#EXTINF:0,Radio Svoboda 
-https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Technis
 https://lofos.win:48500/stream
 #EXTINF:0,Radio Yakimel fm 92.3

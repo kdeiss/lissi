@@ -345,6 +345,8 @@ https://streaming.live365.com/a19446
 https://streaming.live365.com/a23725
 #EXTINF:0,America's OTR - Western Radio
 https://streaming.live365.com/a23179
+#EXTINF:0,Radio Amerika Rotterdam
+https://stream13.shoutcastsolutions.com/proxy/radioamerika?mp=/stream
 #EXTINF:0,Amphora
 http://68.235.48.99:10035/stream
 #EXTINF:0,Amphora Radio
@@ -487,8 +489,6 @@ https://dispatcher.rndfnk.com/br/br1/obb/aac/low?aggregator=radio-de
 http://server3.streamserver-unlimited.de:2199/tunein/go455.pls
 #EXTINF:0,Bay FM Port Stephens
 http://203.45.50.147:88/broadwave.mp3
-#EXTINF:0,BBC World Service
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,BB RADIO - Oldies
 https://streambbr.ir-media-tec.com/oldies/mp3-128/radiode_web_mp3/
 #EXTINF:0,BBR CLUB 80 99.3
@@ -791,8 +791,6 @@ http://stream.trifal.com:8000/lounge
 http://stream.trifal.com:8000/oldies
 #EXTINF:0,Clyde 2
 https://tx.planetradio.co.uk/icecast.php?i=clyde2.mp
-#EXTINF:0,CNN
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Coast FM Classic Gold
 http://213.175.217.198:8000/coast-gold
 #EXTINF:0,Columbia AM
@@ -935,8 +933,6 @@ http://91.121.121.25:8093/stream/1/
 https://gr.fluidstream.eu/gr7.mp3?FLID=8&type=.mp3
 #EXTINF:0,DONAU 3 FM KULT
 https://frontend.streamonkey.net/donau3fm-kult?aggregator=radiode
-#EXTINF:0,DONAU 3 FM Jukebox
-https://donau3fm.stream.vip/6/mp3-192/radiode/
 #EXTINF:0,Donderschoer Radio
 https://server-28.stream-server.nl:8806/stream
 #EXTINF:0,Doowop Radio
@@ -1157,8 +1153,6 @@ http://cast4.my-control-panel.com:7311/live
 https://stream.zeno.fm/h60er015v68uv
 #EXTINF:0,Free Radio Belgium
 http://freeradiobe.ddns.net:8000/stream
-#EXTINF:0,Вільне радіо
-https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Free Red Radio
 http://213.202.241.176:8850/stream
 #EXTINF:0,FreeRadio Rotterdam
@@ -1447,8 +1441,6 @@ http://dispatcher.rndfnk.com/hr/hr4/rheinmain/high?aggregator=radio-de
 http://dispatcher.rndfnk.com/hr/hr4/suedhessen/high?aggregator=radio-de
 #EXTINF:0,Halloweenradio Oldies
 https://listen.halloweenradio.net/oldies
-#EXTINF:0,Громадське радіо
-https://hromadske.radio/radio_https_upstream
 #EXTINF:0,HUDA RADIO
 https://icecasthd.net/proxy/huda/huda
 #EXTINF:0,Radio Humleborg Jazzkanalen
@@ -2757,8 +2749,6 @@ http://138.201.198.218:8010/stream/1/
 http://77.248.42.43:8000/stream/1/
 #EXTINF:0,Maxi45
 https://maxi45.schlagerparadies.de/maxi45
-#EXTINF:0,MAXIMUM
-https://icecast.luxnet.ua/radio24
 #EXTINF:0,MaXX
 https://my.radiolize.com/radio/8020/radio.mp3
 #EXTINF:0,Max Radio VF
@@ -2947,10 +2937,10 @@ http://usa14.fastcast4u.com/proxy/mysradio?mp=/1
 https://audio-edge-3mayu.fra.h.radiomast.io/8a7977d1-a8df-4ae4-a987-984eada92c1b?t=default
 #EXTINF:0,My Generation FM
 http://streaming.radionomy.com/MY-GENERATION-FM
+#EXTINF:0,My Kiss FM - Gold Coast Queensland Australia
+http://65.108.198.245:7134/stream
 #EXTINF:0,Na Gwiazdkę Jazz & Classic
 https://stream.open.fm/88
-#EXTINF:0,Nashe Radio Наше Радио Киев
-https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,Nasze Radio 92,1 FM
 https://online.nasze.fm:9443/stream
 #EXTINF:0,National Day Radio
@@ -2989,8 +2979,6 @@ http://streaming.live365.com/a87029
 https://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:0,Noordzee Gold
 http://stream.noordzee105.be:8000/gold
-#EXTINF:0,NORA Oldie Party
-https://regiocast.streamabc.net/regc-norawebstream-mp3-192-7620356
 #EXTINF:0,NORA Oldies 60er & 70er
 https://streams.norawebstreams.de/nora-oldies/mp3-128/radiode/
 #EXTINF:0,NORA Weihnachten
@@ -3071,8 +3059,6 @@ https://servidor32.brlogic.com:8106/live
 https://icecast.omroep.nl/radio2-bb-mp3
 #EXTINF:0,Splendid Radio Alabama
 https://zeno.fm/radio/splendid-radio-Alabama/
-#EXTINF:0,NRCU-1 УР1
-http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,NRJ+
 https://stream.rcs.revma.com/1a6hdnzbebuvv
 #EXTINF:0,NRK P1 Pluss
@@ -3225,6 +3211,8 @@ https://stream.open.fm/50
 http://streams.movemedia.eu:8800/;
 #EXTINF:0,ORF Radio Niederösterreich
 https://orf-live.ors-shoutcast.at/noe-q1a
+#EXTINF:0,Oro 94.9 Solo Hits
+https://grupooro1.centrocibernetico.com/;
 #EXTINF:0,Radio Ostseemelodie
 https://server35903.streamplus.de/stream.mp3
 #EXTINF:0,Ostseewelle - Oldie Hits
@@ -3381,6 +3369,8 @@ https://stream.radio-pv.com/
 https://stream.rcast.net/200737
 #EXTINF:0,Progresif Radio
 http://184.154.43.106:8396/stream/1/
+#EXTINF:0,Proxi Radio
+http://178.33.111.38
 #EXTINF:0,PT Cruiser Radio
 http://streaming.radionomy.com/PTCruiserRadioUK
 #EXTINF:0,Radio Public Santé - Génération Séniors
@@ -3817,8 +3807,6 @@ http://radios.dotsi.pt:8023/stream/1/
 http://radio.radionow.es:8600/;
 #EXTINF:0,RadioNR1
 https://radionr1.de:10000/live
-#EXTINF:0,Radio NV - Радіо НВ
-https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio NWW
 https://s10.streamingcloud.online/stream/radio-nww
 #EXTINF:0,Radio Oberland
@@ -3852,7 +3840,7 @@ https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:0,Ràdio Pont de Molins
 https://stream.zeno.fm/qh2zmtaxn7zuv
 #EXTINF:0,Radio Potz
-https://radio.potz.be/omnia
+https://playerservices.streamtheworld.com/api/livestream-redirect/POTZ.mp3
 #EXTINF:0,Radio Power of Music
 https://server33911.streamplus.de/stream/1/
 #EXTINF:0,Radio Prado Sur
@@ -3869,14 +3857,10 @@ https://ramasuri-live.cast.addradio.de/ramasuri/live/mp3/high?ar-distrbutor=f0a0
 https://stream.zeno.fm/m8da9u22kwzuv
 #EXTINF:0,Radio Recuerdo 860
 https://playerservices.streamtheworld.com/api/livestream-redirect/XENLAM_SC
-#EXTINF:0,RADIO REDE DAKOTA
-http://109.169.76.155:13324/
 #EXTINF:0,Radio Regenbogen - Oldies
 https://stream.regenbogen.de/oldies/aac-128/radiode
 #EXTINF:0,Radio Reggio
 http://onair15.xdevel.com:9082/;
-#EXTINF:0,Radio Relax 
-https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio Republica Internacional
 http://stream.zeno.fm/3tte5u5a9s8uv
 #EXTINF:0,Radio Retro Rock & Pop
@@ -3991,8 +3975,6 @@ https://i.klikhost.com/8050/stream
 https://server7.streamserver24.com:8080/proxy/radiosue?mp=/stream
 #EXTINF:0,Radiohits Sverige
 http://john631.serverroom.net:6484/;stream.mp3
-#EXTINF:0,Radio Svoboda 
-https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Tágide
 https://radiotag.radioca.st/stream
 #EXTINF:0,Radio Tamar 
