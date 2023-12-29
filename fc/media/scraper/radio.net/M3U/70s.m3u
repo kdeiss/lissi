@@ -287,8 +287,6 @@ http://stream04.stream-webradiotechnik.de:8750/stream/1/
 https://bigrradio.cdnstream1.com/5130_128
 #EXTINF:0,Bay FM Port Stephens
 http://203.45.50.147:88/broadwave.mp3
-#EXTINF:0,BBC World Service
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:0,BC RADIO
 http://s22.myradiostream.com:16680/listen.mp3
 #EXTINF:0,Beach Party Radio
@@ -511,8 +509,6 @@ http://sonic.dattalive.com:8100/
 http://s7.voscast.com:8504/stream/1/
 #EXTINF:0,Club Trifal - Lounge
 http://stream.trifal.com:8000/lounge
-#EXTINF:0,CNN
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
 #EXTINF:0,Coast FM Classic Gold
 http://213.175.217.198:8000/coast-gold
 #EXTINF:0,Color Classic FM 96.1
@@ -729,8 +725,6 @@ https://stream-50.zeno.fm/fncn4zpm54zuv?zs=Y9UTnUY8TJGj8R8r-XuqgA
 https://xxdelgado.radioca.st/;
 #EXTINF:0,Free Radio Luxembourg FRL
 https://www.radioking.com/play/rfm-luxembourg/137599
-#EXTINF:0,Вільне радіо
-https://radio.freeradio.com.ua/stream_96.mp3
 #EXTINF:0,Frequence funk
 https://srv.webradiomanager.fr:2145/stream
 #EXTINF:0,FRESH GOLD RADIO
@@ -863,8 +857,6 @@ https://streaming.hotmixradio.fr/hotmix-gold-fr-mp3
 https://server3.streamserver-unlimited.de:8339/;
 #EXTINF:0,Hit Radio FM 
 https://streaming.hitfm.rs/hit.mp3
-#EXTINF:0,Громадське радіо
-https://hromadske.radio/radio_https_upstream
 #EXTINF:0,Huella Musical
 http://s3.myradiostream.com:4458/;
 #EXTINF:0,Hypa Vybz Radio
@@ -895,8 +887,6 @@ https://stream-51.zeno.fm/ycan4ku5t7zuv?zs=GMlmpsRFRvOP_Q8RMfiMwg
 http://192.254.68.106:10212/stream/1/
 #EXTINF:0,In The Mix UK
 https://inthemix1.stream.laut.fm/in_the_mix1
-#EXTINF:0,Island FM 88 
-https://usa2.fastcast4u.com/proxy/kevinsch?mp=/1
 #EXTINF:0,Israeli voice radio
 http://sweb.co.il:8042//stream?type=http&nocache=4379
 #EXTINF:0,Romantica Radio
@@ -1037,6 +1027,8 @@ https://stream9.mexiserver.com/8206/stream:8206/stream?icy=http
 https://cloudstream2032.conectarhosting.com/8160/stream
 #EXTINF:0,La recuerdo radio
 https://emisorasvirtuales.com.co:9321/live
+#EXTINF:0,La Rocka 70
+https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,La Rockola
 https://stream3.polarhost.cl/Rockola_mp3
 #EXTINF:0,Laser Hot Hits International
@@ -1365,8 +1357,6 @@ https://sail.yachtrockmiami.com/radio/8020/radio.mp3
 https://sonic.dattalive.com/8276/stream
 #EXTINF:0,Matiz al Suave Radio
 http://192.99.232.79:8106/stream/1/
-#EXTINF:0,MAXIMUM
-https://icecast.luxnet.ua/radio24
 #EXTINF:0,Max Radio - Canada
 http://simplecast.maxradio.ca:8555/Max.aac.m3u
 #EXTINF:0,MBCradio
@@ -1473,10 +1463,10 @@ http://usa14.fastcast4u.com:5132/1/stream/1/
 https://audio-edge-3mayu.fra.h.radiomast.io/8a7977d1-a8df-4ae4-a987-984eada92c1b?t=default
 #EXTINF:0,My Generation FM
 http://streaming.radionomy.com/MY-GENERATION-FM
+#EXTINF:0,Myhitmusic - TOMs CLUB 70s
+https://radio.myhitmusic.de/Toms-Club70s-aac.mp3
 #EXTINF:0,My Perth Digital
 https://playerservices.streamtheworld.com/api/livestream-redirect/MY_PERTH_DAAC_SC
-#EXTINF:0,Nashe Radio Наше Радио Киев
-https://online.nasheradio.ua/NasheRadio
 #EXTINF:0,NBC Milano
 https://nr7.newradio.it:19350/stream
 #EXTINF:0,NBC Milano We Play Again!
@@ -1527,8 +1517,6 @@ https://stream.zeno.fm/yb37sxcmdv8uv
 http://stm6.xcast.com.br:11762/stream/1/
 #EXTINF:0,NPO Radio 2
 https://icecast.omroep.nl/radio2-bb-mp3
-#EXTINF:0,NRCU-1 УР1
-http://91.218.213.49:8000/ur1-mp3
 #EXTINF:0,Nostalgie Music Station
 https://c32.radioboss.fm/stream/139
 #EXTINF:0,Nuevo Mundo
@@ -1651,8 +1639,6 @@ https://piraten.fm/top/1
 http://mscp3.live-streams.nl:8330/radio
 #EXTINF:0,PiratenKanon.fm
 https://radio.piratenkanon.fm:10200/stream
-#EXTINF:0,Piscis80s Radio
-http://01.solumedia.com.ar:7798/stream
 #EXTINF:0,Play Tape
 https://stream.zeno.fm/bzguh6raexquv
 #EXTINF:0,Plexus Radio
@@ -1923,6 +1909,8 @@ https://ssradioonline.com/proxy/josue1?mp=%2Fstream
 https://stream-50.zeno.fm/pk8ssdvefq8uv?zs=11qYfXngSGe0E6Nk924nrQ
 #EXTINF:0,Radio Isa Gold
 https://radioisa-dab-gold.ice.infomaniak.ch/radioisa-dab-gold-48.aac
+#EXTINF:0,Radio Italy 60
+https://streaming.radiostreamlive.com/radioitaly60_devices
 #EXTINF:0,Radio Jeansgeneration
 https://listen.radioking.com/radio/301645/stream/348328
 #EXTINF:0,Rádio Kakarecos
@@ -1997,8 +1985,6 @@ http://retrolive.radionoise.ro:9120/listen.pls
 https://stream.zeno.fm/8f5p6suzqa0uv
 #EXTINF:0,RADIONOVA
 https://s3.shoutitaly.com/proxy/radionova?mp=/stream
-#EXTINF:0,Radio NV - Радіо НВ
-https://online-radio.nv.ua/radionv.mp3
 #EXTINF:0,Radio Obozrevatel Best of Old
 https://radio-stream-0.obozrevatel.com/Old128.mp3
 #EXTINF:0,Radio Onda Libera GOld
@@ -2051,8 +2037,6 @@ https://stream.zeno.fm/xkg1uzfbfv8uv
 http://onair15.xdevel.com:9082/;
 #EXTINF:0,RADIO RELAX Italia
 https://radiorelax.streamingmedia.it/play
-#EXTINF:0,Radio Relax 
-https://online.radiorelax.ua/RadioRelax
 #EXTINF:0,Radio Release
 https://mscp3.live-streams.nl/8140/live
 #EXTINF:0,Radio Renacer en Cristo
@@ -2121,8 +2105,6 @@ http://stm1.jnbhost.com.br:7014/stream
 http://nr9.newradio.it:9630/stream
 #EXTINF:0,Radio Sucesso 24 horas
 https://stream.zeno.fm/9pdthqkhd2zuv
-#EXTINF:0,Radio Svoboda 
-https://n0c.radiojar.com/hcrb063nn3quv
 #EXTINF:0,Radio Tágide
 https://radiotag.radioca.st/stream
 #EXTINF:0,Radio Tamar 
@@ -2457,8 +2439,6 @@ https://www.radioking.com/play/svoboda-fm
 https://stream.zeno.fm/kup819qm1k0uv
 #EXTINF:0,SWINGING RADIO ENGLAND.UK 
 http://jenny.torontocast.com:19004/stream
-#EXTINF:0,SYSTEM FM/ WSTFM 92.1
-https://stream.rcast.net/65056
 #EXTINF:0,Radio System Network
 https://nr3.newradio.it/proxy/newshout?mp=/stream
 #EXTINF:0,Erreti Radio Tadino
@@ -2735,8 +2715,6 @@ https://sail.yachtrockmiami.com:8000/radio.mp3
 https://digitalaudiobroadcasting.net/8010/stream
 #EXTINF:0,Yara Radio Retro
 http://stream-51.zeno.fm/511346h4c48uv?zs=X43wx4z6Q0CGu6V1rlGPOA
-#EXTINF:0,Yat Radio - New Orleans Oldies
-https://streaming.live365.com/a81189
 #EXTINF:0,Yesterday Once Again
 https://streaming.live365.com/a29131
 #EXTINF:0,Yimago Lite Rock

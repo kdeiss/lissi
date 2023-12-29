@@ -19,8 +19,6 @@ https://sr1.publicssl.net/srv/8004/live
 https://sr1.publicssl.net/srv/8004/live
 #EXTINF:0,105.4 Cascais
 https://play.radioregional.pt:8220/1/
-#EXTINF:0,Radio 105 Rock
-https://radio105rock.radioca.st/;
 #EXTINF:0,106.9 SFM
 https://streaming05.liveboxstream.uk/proxy/sittingb?mp=/stream
 #EXTINF:0,106THREE Radio Lafayette
@@ -491,6 +489,8 @@ https://ice55.securenetsystems.net/DASH51
 https://ice55.securenetsystems.net/DASH31
 #EXTINF:0,Deep Flow Radio
 http://puma.streemlion.com:5150/stream
+#EXTINF:0,delta radio
+https://streams.deltaradio.de/delta-live/mp3-192
 #EXTINF:0,delta radio ALTERNATIVE
 https://streams.deltaradio.de/delta-alternative/mp3-128/radiode/
 #EXTINF:0,delta radio BBB
@@ -977,6 +977,10 @@ https://sonic01.instainternet.com:7068/stream/1/
 http://server.laradio.online:8556/
 #EXTINF:0,La Mistica Radio
 https://stream.zeno.fm/av8m1adpxs8uv
+#EXTINF:0,La Rocka 70
+https://streaming01.shockmedia.com.ar:10624/stream?icy=http
+#EXTINF:0,La Rocka 90
+https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,lastFMpirate
 https://stream.lastfmpirate.com:8000/radio.mp3
 #EXTINF:0,Latin_Mania
@@ -1583,6 +1587,8 @@ https://eu9.fastcast4u.com/proxy/musicart?mp=/1
 https://c02.lexycast.de:4350/;
 #EXTINF:0,mvyradio
 http://peridot.streamguys.com:5850/mvy-mp3
+#EXTINF:0,Myhitmusic - JEFF ROCKs
+https://radio.myhitmusic.de/Jeff-Rocks-aac.mp3
 #EXTINF:0,My Indie Radio
 https://www.radioking.com/play/my-indie-radio
 #EXTINF:0,Radio Naba
@@ -1751,8 +1757,6 @@ https://purerock.radioca.st/stream/1/
 https://live.radiostudio.be/pxl.m3u
 #EXTINF:0,QCindie.com
 https://stream.qcindie.com/live
-#EXTINF:0,Q Relajo
-https://one.cloudstreaming.eu/proxy/delgadl1/stream
 #EXTINF:0,Racoon Radio
 https://cast5.my-control-panel.com/proxy/moises12/stream
 #EXTINF:0,Rádio Radar
@@ -1811,6 +1815,8 @@ https://stream.radiobeton.com:8001/stream.mp3
 http://puma.streemlion.com:2130/stream
 #EXTINF:0,Radio BlueLight 
 https://dreisig.stream.laut.fm/dreisig?
+#EXTINF:0,Radio.BOA
+https://stream.radios.bzh/listen/boa/radio.mp3
 #EXTINF:0,RADIO BOB!
 https://regiocast.streamabc.net/regc-radiobobnational5043365-mp3-192-2943705
 #EXTINF:0,RADIO BOB! BOBs Alternative Rock
@@ -1921,6 +1927,8 @@ https://www.radiolotte.de/stream/radiolotte.pls
 https://streamconex.com:8112/stream/1/
 #EXTINF:0,Radio Marabu
 http://87.118.116.61:8019/;
+#EXTINF:0,RADIO MAXIMA FM 92.7
+https://servermax.azuracast.com.es/listen/radio_silencio_fm/radio.mp3/RADIOMAXIMAAREQUIPA
 #EXTINF:0,Radio Mira 101.1 FM
 https://dattavolt.com/8050/stream
 #EXTINF:0,Rádio Mistureba online
@@ -2065,6 +2073,8 @@ http://relay.radio.ethz.ch/sender.mp3
 https://develop.servus.at:8443/radius
 #EXTINF:0,RADYO NATIN CALBAYOG
 https://net.radyonatinfm.com/listen/dysi/calbayog
+#EXTINF:0,radYU
+https://icast.yasar.edu.tr:8443/radyu
 #EXTINF:0,Rai Radio 2 Indie
 https://icestreaming.rai.it/15.mp3
 #EXTINF:0,ram05
@@ -2093,8 +2103,6 @@ https://stream.revma.ihrhls.com/zc609
 https://visual.shoutca.st:8116/stream
 #EXTINF:0,Rehegoo Radio UK - HD
 http://ice.creacast.com/rehegoo-uk-str3
-#EXTINF:0,RenAgade Radio
-https://us3.internet-radio.com/proxy/renagaderadio?mp=/live
 #EXTINF:0,Republic 100,3 FM
 http://173.249.6.18:1030/stream/1/
 #EXTINF:0,Resonance FM
@@ -2417,8 +2425,6 @@ http://uk1.internet-radio.com:8355/stream/1/
 https://streaming.exclusive.radio/er/beachparty/icecast.audio
 #EXTINF:0,TMM 1
 https://msmn3.co/proxy/x1mp33/stream
-#EXTINF:0,RADIO MAXIMA FM 92.7
-https://servermax.azuracast.com.es/listen/radio_silencio_fm/radio.mp3/RADIOMAXIMAAREQUIPA
 #EXTINF:0,TrenTMix Radio
 https://www.radioking.com/play/trentmix-radio
 #EXTINF:0,CFFF FM Trent Radio
