@@ -439,6 +439,8 @@ http://209.126.119.28:8031/live
 http://144.76.182.36:8406/stream
 #EXTINF:0,C-Rap
 https://fmcpmediatest.ice.infomaniak.ch/c-rap.aac
+#EXTINF:0,Crazy-Galaxy-Radio
+https://streamserver3.m-hosting.eu:10702/stream
 #EXTINF:0,Croydon FM
 https://cast6.asurahosting.com/proxy/croydonf/stream
 #EXTINF:0,ctuHot
@@ -479,8 +481,6 @@ https://ice55.securenetsystems.net/DASH14
 http://s47.myradiostream.com:14170/listen.mp3
 #EXTINF:0,DCFM HAITI
 https://stream.zenolive.com/s7uz0cx543duv
-#EXTINF:0,DeadMoonRadio
-https://stream.deadmoonradio.com/stream
 #EXTINF:0,Def Beat Radio
 http://defbeatradio.de:65/;
 #EXTINF:0,DEFJAY
@@ -781,8 +781,6 @@ https://radio.hittrap.com:1025/;
 https://radio.hittrap.com:1025/;
 #EXTINF:0,Hitz 91.9 Radio
 https://ec6.yesstreaming.net:2275/stream
-#EXTINF:0,HitzConnect Radio
-https://stream.hitzconnect.com/hitzc
 #EXTINF:0,Holland FM Gran Canaria
 https://panel.amediastream.eu:8500/live
 #EXTINF:0,Homeboyz FM
@@ -1039,6 +1037,8 @@ https://listen.openstream.co/6529/audio
 http://streamingned.com:7292/stream
 #EXTINF:0,Lampsi FM 92.3 
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:0,La Nueva Mega
+https://lamega.out.airtime.pro/lamega_a
 #EXTINF:0,La Peor Radio
 https://streamingv2.shoutcast.com/LapeorRadio
 #EXTINF:0,La Prise
@@ -1718,7 +1718,7 @@ https://my105-stream17.radiohost.de/my105-oldschool_mp3-192?
 #EXTINF:0,my105 OLDSCHOOL IT
 https://my105-stream17.radiohost.de/my105-oldschool_mp3-192
 #EXTINF:0,my105 The Battle
-https://www.my105.ch/my105thebattle.m3u
+https://my105-stream14.radiohost.de/my105-djradio_mp3-192
 #EXTINF:0,my105 THE BATTLE IT
 https://panel.srino.xyz/my105thebattle.mp3
 #EXTINF:0,Myhitmusic - 52nd STREET BEATS
@@ -2455,6 +2455,8 @@ https://groove-factory.ice.infomaniak.ch/groove-factory.aac
 https://cast4.asurahosting.com/proxy/thekultu/stream
 #EXTINF:0,The Move 93-5
 https://newcap.leanstream.co/CFXJFM
+#EXTINF:0,The NU Vibe Radio
+https://listen.openstream.co/7203/audio
 #EXTINF:0,thesoullounge
 https://streaming.live365.com/a38845
 #EXTINF:0,105.1 the spot
@@ -2644,7 +2646,7 @@ https://stream.zeno.fm/ez9w4mwz2tzuv
 #EXTINF:0,WFDR Streetz 94.5 FM
 http://104.6.216.93:8000/Streetz
 #EXTINF:0,WFDU HD3
-http://peridot.streamguys.com:5350/iheartclassical
+https://peridot.streamguys1.com:5350/iheart?nocache=0.7972105957410676?no-cache=0.8732694372881753
 #EXTINF:0,WFMZ 104.9 The Block
 https://ice66.securenetsystems.net/WFMZ
 #EXTINF:0,WFXE - Foxie 105 - 104.9 FM
@@ -2751,6 +2753,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYNNFMAAC_SC
 #EXTINF:0,WYTT Jamz 99.5 FM
 https://ice41.securenetsystems.net/WYTT
+#EXTINF:0,WYWM Radio
+https://stream.radio.co/sf4275b0a6/listen
 #EXTINF:0,WZBZ - The Buzz 99.3 FM
 https://fmairchecks.com/tanim/WGBZ-WZBZ/WGBZ-WZBZ-Sep-28-1999-b.mp3
 #EXTINF:0,WZEB Power 101.7

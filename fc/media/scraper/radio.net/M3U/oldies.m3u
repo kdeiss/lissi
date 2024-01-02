@@ -231,8 +231,6 @@ https://21363.live.streamtheworld.com/3NRAAC.aac
 https://whav.streamguys1.com/live
 #EXTINF:0,Sonshine
 https://stream2.cnmns.net/sfm
-#EXTINF:0,99FM 
-https://streaming.fabrik.fm/99fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Aambiance 90
 https://listen.radionomy.com/aambiance-90.m3u
 #EXTINF:0,ABC Memories
@@ -305,6 +303,8 @@ https://allzic29.ice.infomaniak.ch/allzic29.mp3
 https://allzic30.ice.infomaniak.ch/allzic30.mp3
 #EXTINF:0,Allzic Noël
 https://allzic42.ice.infomaniak.ch/allzic42.mp3
+#EXTINF:0,Almeria Gold
+https://stream.almeriaradio.live/almeriagold
 #EXTINF:0,Alpenfunk Radio
 http://www.radio-alpenfunk.de/minicaster/live.pls
 #EXTINF:0,Alpha Plus Radio
@@ -741,7 +741,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106.mp3
 https://radio.rtbf.be/c21-60s/mp3-128/rf
 #EXTINF:0,Classic 87.6 Carnarvon
 http://99.198.118.250:8329/stream/1/
-#EXTINF:0,Classic Country Legends Radio
+#EXTINF:0,Classic Kickin' Country Radio
 http://puma.streemlion.com:3540/stream
 #EXTINF:0,Classic Hits Radio Biebergemünd
 https://stream.laut.fm/classic-hits-radio?ref=radiode
@@ -807,8 +807,6 @@ https://stream.radiocontinu.nl/radiocontinu
 https://s2.yesstreaming.net:17161/stream
 #EXTINF:0,Cool Oldies
 http://c8.radioboss.fm:8114/stream
-#EXTINF:0,Cool Oldies 96
-http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream
 #EXTINF:0,Cool Oldies MKE
@@ -901,6 +899,8 @@ https://digitalhits.co.uk/radio/8020/DH2
 https://server3.radio-streams.net:18049/stream
 #EXTINF:0,Radio Diamond Star
 https://www.tunefm.de:2000/stream/diamond-star
+#EXTINF:0,Diaspora Life Radio
+https://puma.streemlion.com:1280/stream
 #EXTINF:0,DIE NEUE 107.7 – OLDIES
 https://addrad.io/4454x2r
 #EXTINF:0,Dieters Schlager Radio – Die Nummer 1
@@ -2867,12 +2867,8 @@ https://miledmusic15-cybertec.radioca.st/stream
 https://online.vibacomunicacion.com:8020/stream
 #EXTINF:0,Radio Mirage STARS
 https://ssl-1.radiohost.pl:9569/stream
-#EXTINF:0,Misty Radio
-https://streaming.live365.com/a67710
 #EXTINF:0,MITA 
 https://streaming.live365.com/a26037
-#EXTINF:0,Mix 101 Retro Hits
-https://streaming.live365.com/a64609
 #EXTINF:0,MiXed Beatz Radio
 http://s5.radio.co/s52de48a74/listen.m3u
 #EXTINF:0,MIX FM LIGHT
@@ -2988,7 +2984,7 @@ https://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:0,Noordzee Gold
 http://stream.noordzee105.be:8000/gold
 #EXTINF:0,NORA Oldie Party
-https://regiocast.streamabc.net/regc-norawebstream-mp3-192-7620356
+https://nora.streamabc.net/regc-noraoldieparty-mp3-192-7502063
 #EXTINF:0,NORA Oldies 60er & 70er
 https://streams.norawebstreams.de/nora-oldies/mp3-128/radiode/
 #EXTINF:0,NORA Weihnachten
@@ -3043,8 +3039,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/58054/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 http://c32.radioboss.fm:8139/stream
 #EXTINF:0,Nostalgie NL - What a feeling !
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radionet
-#EXTINF:0,NOSTALGIE NOËL
-https://scdn.nrjaudio.fm/adwz1/fr/55310/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Noel
 #EXTINF:0,NOSTALGIE POP 80
 https://scdn.nrjaudio.fm/adwz1/fr/58056/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Pop-80
 #EXTINF:0,NOSTALGIE ROCK 80
@@ -3221,8 +3215,6 @@ https://stream.open.fm/50
 http://streams.movemedia.eu:8800/;
 #EXTINF:0,ORF Radio Niederösterreich
 https://orf-live.ors-shoutcast.at/noe-q1a
-#EXTINF:0,Oro 94.9 Solo Hits
-https://grupooro1.centrocibernetico.com/;
 #EXTINF:0,Radio Ostseemelodie
 https://server35903.streamplus.de/stream.mp3
 #EXTINF:0,Ostseewelle - Oldie Hits
@@ -3506,7 +3498,7 @@ https://frontend.streams.arabella.at/arabella-wien?aggregator=radio-at
 #EXTINF:0,Radio Arabella Golden Oldies
 https://live.stream.radioarabella.de/radioarabella-goldenoldies?aggregator=radiode
 #EXTINF:0,Radio Atlantis Int.
-http://cloud-faro.beheerstream.com:8539/tunein/listen.pls
+https://cloud-faro.beheerstream.com/proxy/zyrmuuzd?mp=/stream
 #EXTINF:0,Radio Aurora
 https://sr2.inmystream.it/proxy/aurora1?mp=/stream
 #EXTINF:0,Radio Austria - Best of 60s
@@ -3537,8 +3529,6 @@ https://freeuk21.listen2myradio.com/live.mp3
 https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
 #EXTINF:0,Radio Bonn / Rhein-Sieg - Dein Oldie Radio
 https://stream.lokalradio.nrw/4459twp
-#EXTINF:0,Radio Brasov
-https://live.radiobrasov.ro/stream.mp3?source=radionet
 #EXTINF:0,Rádio Cabo Branco FM
 http://audio.cabobranco.tv.br:8000/cbfm
 #EXTINF:0,Rádio Canhoso
@@ -3571,6 +3561,8 @@ http://stream04.stream-webradiotechnik.de:8400/listen1
 http://streamingecuador.net:9062/radiocolosal
 #EXTINF:0,Rádio Comunicativa 87.9 FM
 https://streamssl.hospedandosites.com.br/r31oqiye.php/;
+#EXTINF:0,Radio COSMIC
+https://radio10.pro-fhi.net/live/RadioCOSMIC
 #EXTINF:0,Radio Costa 93.1 FM
 https://sonicpanel.globalstream.pro/7602/;
 #EXTINF:0,Radio Cover Uno - Musica Senza Etichette 
@@ -3617,6 +3609,8 @@ https://nr8.newradio.it:19602/stream
 https://stream.lokalradio.nrw/445bjvr
 #EXTINF:0,Radio Erft - Dein Oldie Radio
 https://stream.lokalradio.nrw/445bnjb
+#EXTINF:0,Radio Erre18
+https://player.erre18.com:8010/radioerre18.mp3
 #EXTINF:0,Radio Euskirchen - Dein Oldie Radio
 https://stream.lokalradio.nrw/445btvg
 #EXTINF:0,RADIO EXPRESSO
@@ -4317,8 +4311,6 @@ https://c02.lexycast.de/SenderZitrone
 http://54.36.89.71:8037/live
 #EXTINF:0,Radio-Shakerdance
 https://stream.radio-shakerdance.de:8002/listen1
-#EXTINF:0,Shawn Nagy's Super Oldies
-https://mercury.reliastream.com/proxy/superold
 #EXTINF:0,Shiawassee Radio
 https://streaming.live365.com/a12599
 #EXTINF:0,Shire Radio
@@ -4485,8 +4477,6 @@ http://87.237.169.24:8000/live
 https://stream.laut.fm/sunshinepartylive?ref=radiode
 #EXTINF:0,Sunshine-radio.eu
 https://sunshine.sp.radio.fm/stream
-#EXTINF:0,Super FM Brasov
-https://live.superfm.ro/stream.mp3?source=radionet
 #EXTINF:0,Rádio Super Funk Melody
 https://ssl.xcast.com.br:8156/;
 #EXTINF:0,SuperHits WIRL

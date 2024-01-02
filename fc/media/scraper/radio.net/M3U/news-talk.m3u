@@ -209,8 +209,6 @@ https://stream9.mexiserver.com/8214/stream
 https://folketsradio.out.airtime.pro:8000/folketsradio_a
 #EXTINF:0,FOLLY FM
 https://stream-52.zeno.fm/4wa23dcd2d0uv?zs=VeI3J0pBSCWNBVszqKnt0w
-#EXTINF:0,FOP Radio 
-http://fopradio.out.airtime.pro:8000/fopradio_a
 #EXTINF:0,Fórmula 1120 AM
 https://stream.zeno.fm/b8bdfg68z4zuv
 #EXTINF:0,Formula 1120 AM
@@ -309,8 +307,6 @@ https://streaming.radio.co/s5b773f8d3/low
 https://c5.radioboss.fm:18217/stream
 #EXTINF:0,H24 Senegal
 https://listen.senemultimedia.net:8072/stream
-#EXTINF:0,HABARI NJEMA RADIO
-https://rwandanationalcongress.co.uk:8020/radio.mp3
 #EXTINF:0,Radio Hair Trendy
 http://91.232.4.33:8049/stream
 #EXTINF:0,Radio Hamrah 100.3 FM HD3
@@ -345,8 +341,6 @@ https://c11.radioboss.fm:18187/stream
 https://stream.radiojar.com/6bmecgg3wd5tv
 #EXTINF:0,hochschulradio 97.1 FM Düsseldorf
 http://listen.hochschulradio.de:58000/hsr-192.m3u
-#EXTINF:0,Horizon Talk Radio Network
-http://s5.voscast.com:8528/;stream1645513980486/1
 #EXTINF:0,Rádio Hospício Tricolor
 http://servidor39.brlogic.com:8624/live?type=.m3u
 #EXTINF:0,Radio HRN la Voz de Honduras
@@ -803,6 +797,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAMAAC_SC
 #EXTINF:0,KKFT - Fox News Radio 99.1 FM
 https://ice7.securenetsystems.net/KKFT
+#EXTINF:0,KKMS - AM980
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKMSAM.mp3
 #EXTINF:0,KKNT - 960 The Patriot
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKNTAM.mp3
 #EXTINF:0,KKNW 1150
@@ -1515,6 +1511,8 @@ http://s3.nexuscast.com/proxy/mbradiotalk/stream
 https://online.vibacomunicacion.com:10010/stream
 #EXTINF:0,Minuto95® ♪
 https://stream.zeno.fm/sen7wrqmb8zuv
+#EXTINF:0,MIP Radio
+https://stream.zeno.fm/1rk0tav4czzuv
 #EXTINF:0,MI VOZ FM
 https://stream.zeno.fm/e183ym5dyzzuv
 #EXTINF:0,M Le Média
@@ -1557,8 +1555,6 @@ http://naijafmlagos.atunwadigital.streamguys1.com/naijafmlagos
 http://origin.atunwadigital.streamguys1.com/naijafmph
 #EXTINF:0,Radio Namakwaland
 https://zas3.ndx.co.za:8034/stream
-#EXTINF:0,IRIB Radio Namayesh
-http://s2.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/chunklist_w1627319049.m3u8
 #EXTINF:0,Nasional 92.3 FM
 https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
 #EXTINF:0,NCPR - North Country Public Radio
@@ -1767,8 +1763,6 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
-#EXTINF:0,SBC Paradise FM
-https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -1967,8 +1961,6 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
-#EXTINF:0,Rádio Assembleia Minas Gerais
-http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -3041,14 +3033,14 @@ https://stream.zeno.fm/3mvm0pxmr68uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3
 #EXTINF:0,Valparaiso 1210 AM
 http://200.24.229.253:8250/stream/1/
-#EXTINF:0,Radio Varzesh
-http://s3.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/chunklist_w806677309.m3u8
 #EXTINF:0,Vaucluse FM
 http://84.46.247.34/listen/vauclusefm/radio.mp3
 #EXTINF:0,Verdinha 810 AM
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 #EXTINF:0,Vermont State House
 http://vprstate.streamguys.net:80/vprhouse24.mp3
+#EXTINF:0,Vermont State Senate
+https://vpr.streamguys1.com/vpr-web
 #EXTINF:0,Via Litoral News
 http://stm23.srvaudio.com.br:10252/;
 #EXTINF:0,Villegas 91.1 FM
@@ -3366,7 +3358,7 @@ https://wfdd.streamguys1.com/wfdd1
 #EXTINF:0,WFDM-FM - Freedom 95 95.5 FM
 https://ice24.securenetsystems.net/WFDM
 #EXTINF:0,WFDU HD3
-http://peridot.streamguys.com:5350/iheartclassical
+https://peridot.streamguys1.com:5350/iheart?nocache=0.7972105957410676?no-cache=0.8732694372881753
 #EXTINF:0,WFED Federal News Radio 1500 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM_SC
 #EXTINF:0,WFFC - Radio IQ 
@@ -3501,6 +3493,8 @@ http://ic2.nwrnetwork.com/wdeo-fm?
 https://oom-cmg.streamguys1.com/day957/day957-sgplayer-mp3
 #EXTINF:0,WHK - The Answer 1420 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHKAM.mp3
+#EXTINF:0,WHKP - 1450 AM
+https://us2.maindigitalstream.com/ssl/WHKP
 #EXTINF:0,WHKY - 1290 AM
 https://ice8.securenetsystems.net/WHKY
 #EXTINF:0,WHMP AM 1400
