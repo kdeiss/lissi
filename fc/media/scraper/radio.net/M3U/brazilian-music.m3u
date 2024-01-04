@@ -65,6 +65,8 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://hts07.kshost.com.br:11308/stream/1/
 #EXTINF:0,Central FM Quixada 104.9
 http://stm14.xcast.com.br:8192/stream
+#EXTINF:0,Cidade FM NET
+https://08.stmip.net:8718/live
 #EXTINF:0,Classic Hits Brasil
 https://stream.zeno.fm/ak2b4bhaps8uv
 #EXTINF:0,Clube FM - Colorado do Oeste RO
@@ -227,8 +229,6 @@ https://cast.mgtradio.net/radio/8000/radio.aac
 https://stm01.virtualcast.com.br:8350/stream
 #EXTINF:0,Mirante FM 100.3
 https://player-ssl.painelstream.net:8094/live
-#EXTINF:0,MIX879 FM
-http://str81.aovivonanet.com:9952/;stream.mp3
 #EXTINF:0,Mix Arapiraca
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC_SC
 #EXTINF:0,MS Web Rádio
@@ -317,6 +317,8 @@ http://stm1.streaminghd.net.br:14122/stream/1/
 http://158.69.7.169:8034/stream/1/
 #EXTINF:0,Rádio Ativa FM 104.9
 http://cast3.hoost.com.br:8657/stream
+#EXTINF:0,Rádio Atlanta
+http://143.208.11.104:8064/stream
 #EXTINF:0,Radio Atos 29
 https://servidor32-4.brlogic.com:8694/live
 #EXTINF:0,Radio Bacuri FM
@@ -337,6 +339,8 @@ https://servidor37.brlogic.com:8382/live
 http://stm46.voxstream.com.br:28396/stream/1/
 #EXTINF:0,RADIO BRAZIL
 https://servidor37-5.brlogic.com:8830/live
+#EXTINF:0,Rádio Cachoeira FM 105.9
+http://aovivo.cachoeirafm.com.br:8135/;stream.mp3
 #EXTINF:0,Rádio Câmara Sorocaba
 http://suaradio1.dyndns.ws:13124/stream
 #EXTINF:0,Rádio Candidés
@@ -481,6 +485,8 @@ https://jvcs2dtro0.zoeweb.tv/fm93/stream/playlist.m3u8
 http://midia.princesafm.infonet.com.br:1941/live/princesafm/playlist.m3u8
 #EXTINF:0,Radio Formosa FM
 https://servidor37-5.brlogic.com:8056/live
+#EXTINF:0,Radio Fortmax
+http://srv1.stmip.com:7048/;
 #EXTINF:0,Rádio Gazeta 93.3 FM
 http://centova5.acresites.com.br:8101/stream?type=mp3
 #EXTINF:0,Radio Gazeta Online
@@ -531,8 +537,6 @@ http://r13.ciclano.io:8888/live
 http://hts03.kshost.com.br:8728/live
 #EXTINF:0,Radio Mais FM Guaratuba
 https://s37.maxcast.com.br:8210/live
-#EXTINF:0,Radio Majestad 105.7 FM
-http://stm28.srvstm.com:24214/stream/1/
 #EXTINF:0,Rádio Mania
 https://playerservices.streamtheworld.com/api/livestream-redirect/MANIAFM_REDEAAC.aac
 #EXTINF:0,Radio Marabá FM
@@ -683,12 +687,10 @@ https://srv1.braudio.com.br/7008
 http://stm12.voxtreaming.com.br:6890/stream/1/
 #EXTINF:0,Hitz FM - Pagode
 https://listen.openstream.co/7092/audio
-#EXTINF:0,Hitz Fm - Rap
-https://stream-161.zeno.fm/xth3odwiwmxvv
-#EXTINF:0,Hitz FM - Rock
-https://stream.zeno.fm/6r8xiccmsbktv
 #EXTINF:0,Hitz Fm - Sertanejo
 https://listen.openstream.co/7366/audio
+#EXTINF:0,Radio Stillus Web
+http://server02.stmsg.com.br:18238/streamstream/1/stream/1/
 #EXTINF:0,Radio Super Funk Melody
 https://ssl.xcast.com.br:8156/stream
 #EXTINF:0,Radio Super Nova

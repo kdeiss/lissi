@@ -683,8 +683,6 @@ http://s4.onweb.gr:8434/stream/1/
 https://stream.zenolive.com/yk787xymf24tv
 #EXTINF:0,Charles Stanley Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/ITRN_SC
-#EXTINF:0,Chaves FM
-http://213.136.92.8:8004/stream/1/
 #EXTINF:0,Chevere Radio TV
 https://media.streambrothers.com:8180/stream
 #EXTINF:0,La Cheverísima Pereira
@@ -785,6 +783,8 @@ https://s10.citrus3.com:8204/stream
 https://radio-stream.cmc.com.hr:9014/autodj
 #EXTINF:0,CMC Tambure
 https://radio-stream.cmc.com.hr:9015/autodj
+#EXTINF:0,CMJB Radio Titán
+https://icecast.teveo.cu/nXwsVz4N
 #EXTINF:0,CMKC Radio Revolución
 https://icecast.teveo.cu/C9vVPN7h
 #EXTINF:0,CMKX Radio Bayamo
@@ -905,8 +905,6 @@ http://stream.radiojar.com/44e70fxde2zuv
 https://server-usa2.radioseninternet.net/9312/stream
 #EXTINF:0,CXC206F - Palmira FM 89.1
 http://198.245.50.150:10422/listen.pls
-#EXTINF:0,Cyber-FM Country
-https://stream.zenolive.com/222fcpqgvceuv.aac
 #EXTINF:0,Cyber-FM Cross
 https://stream.zenolive.com/82aam8cgvceuv.aac
 #EXTINF:0,Cyber-FM Streetz
@@ -1311,8 +1309,6 @@ https://direct.fipradio.fr/live/fipnantes-midfi.mp3?ID=pd569ib97j
 http://s9.voscast.com:7360/;
 #EXTINF:0,Firma Startfighter
 https://securestream3.digipal.nl:2141/stream/1/
-#EXTINF:0,Flacso Radio
-http://144.217.67.108:9160/stream/1/
 #EXTINF:0,Flight Mode FM
 https://stream.zeno.fm/s83rgryqad0uv
 #EXTINF:0,Flow92.7
@@ -1531,8 +1527,6 @@ https://cast.thiff.com/proxy/hallelujah953?mp=%2Fstream
 http://s16.myradiostream.com:6630/stream/1/
 #EXTINF:0,Halo.Radio
 https://s3.radio.co/s6b9e36d1c/listen
-#EXTINF:0,Hamburger Lokalradio
-http://solid9.streamupsolutions.com:8070/stream
 #EXTINF:0,hamdosana radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC214_SC
 #EXTINF:0,Hamsi FM
@@ -1869,6 +1863,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC
 #EXTINF:0,KDLF 1260
 https://edge1-a.exa.live365.net/a34702
+#EXTINF:0,KDLG Public Radio 670 AM & 89.9 FM
+http://peace.str3am.com:6090/kdlg
 #EXTINF:0,KDRI The Drive
 https://ice5.securenetsystems.net/KDRI?playSessionID=EEA8D7CB-9395-2604-BC3271C9D5BAB102
 #EXTINF:0,KEBF-LP The Rock
@@ -3321,10 +3317,8 @@ https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8
 https://live.powerhitz.com/bumpin?aw_0_req.gdpr=true
 #EXTINF:0,Praise 95
 http://stream.powerup.ch/powerupradio-192.mp3
-#EXTINF:0,Praylive radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3935365_SC
 #EXTINF:0,Pressure Radio
-https://cld2098flsd.audiovideoweb.com/lv/_definst_/6c3flslive2212/chunklist_w1705466203.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3935365_SC
 #EXTINF:0,Primetime Power Show
 http://ic2256.c786.fast-serv.com/autodj
 #EXTINF:0,Radio ProDiaspora
@@ -3519,10 +3513,8 @@ https://stream.zeno.fm/a2z34g37wp8uv
 https://stream.zeno.fm/mppgars39nhvv
 #EXTINF:0,Radio Azul Celeste
 http://5.9.65.9:8025/azukarfm
-#EXTINF:0,RADIO BAHÍA 5 FM
-https://stream-57.zeno.fm/z8svsazwnwzuv?zs=ZquyNJjCQOWFunE0e-Amyg
 #EXTINF:0,RadioBaladaMusical
-https://conectperu.com:7086/stream?icy=http
+https://stream-57.zeno.fm/z8svsazwnwzuv?zs=ZquyNJjCQOWFunE0e-Amyg
 #EXTINF:0,Radio Balkan Music
 https://ssl.stmxp.net:7224/index.html?sid=1
 #EXTINF:0,Radio Balneario 97.5 Los Vilos
@@ -3845,10 +3837,8 @@ http://audio2.tustreaming.cl:8058/stream
 https://stream-50.zeno.fm/pmf3n16x1f8uv?zs=R0HzKGwvQaaxj28kOEKe_A
 #EXTINF:0,Radio Estrella De Oro
 http://centova.mistreaming.com.ve:8476/stream.mp3
-#EXTINF:0,Radio Etchegoyen
-https://stream.playerlive.info:8001/live.aac
 #EXTINF:0,RadioEthic
-http://sonando-us.digitalproserver.com/etchegoyen.aac
+https://stream.playerlive.info:8001/live.aac
 #EXTINF:0,Radio Evangelica Betel
 http://163.172.37.18:8000/radioethic.mp3
 #EXTINF:0,ΡΑΔΙΟ ΕΥΒΟΙΑ (Radio Evia)
@@ -3926,7 +3916,7 @@ http://listen.ehhh.us:8000/rfd2
 #EXTINF:0,Radio Freee
 https://freedomice.streamakaci.com/freedom2.mp3
 #EXTINF:0,Radio Free Otaku
-https://radiofreee.pl/streaming/radiofreee.m3u
+https://streaming.radio.lublin.pl:8843/radiofreee
 #EXTINF:0,Radio Free Pensacola
 https://streaming.radio.co/s8267e5edc/listen
 #EXTINF:0,Radio Freistatt
@@ -4021,8 +4011,10 @@ http://genexservicios.com:8380/stream/1/
 https://ssl.xcast.com.br:8046/;
 #EXTINF:0,Radio House HouseRadio
 http://stream.radiojar.com/yhatzfnprtwtv.mp3
-#EXTINF:0,Radio Huichiviri
+#EXTINF:0,RadioHoy
 https://radio.plandos.com/8004/stream
+#EXTINF:0,Radio Huichiviri
+http://radio.radiohoy.cl:7002/?nocache=3802&type=http
 #EXTINF:0,Radio Huracan 99.9 FM
 https://radiosonline.one/radio/8150/radio.mp3
 #EXTINF:0,Radio Ikaria
@@ -4721,10 +4713,8 @@ http://broadcast.infomaniak.ch/radiosofaia-high.mp3
 https://sonic-cl.streaming-chile.com/9982/stream
 #EXTINF:0,Radio Solar FM
 https://stream.radiosol.at/webstream
-#EXTINF:0,Radio Sol Austral 97.7 FM
-https://broadcast.miami/proxy/solar?mp=/stream/;
 #EXTINF:0,Radio Sol de Los Andes
-https://audio4.tustreaming.cl/7040/stream
+https://broadcast.miami/proxy/solar?mp=/stream/;
 #EXTINF:0,RADIO SOLE DIGITAL
 https://cloudstream2036.conectarhosting.com/8036/stream
 #EXTINF:0,Radio Solo Por Gracia
@@ -5421,8 +5411,10 @@ https://ice31.securenetsystems.net/BRILAMP3?playSessionID=805EEAEA-3EE0-47E6-BC7
 https://ice31.securenetsystems.net/BRILAMP3?playSessionID=F226725E-AAF5-43B1-9F995B2C474A8728
 #EXTINF:0,Squad Radio Florești
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC200.aac
-#EXTINF:0,SR Stereo 105.0 FM
+#EXTINF:0,S Radio non stop
 http://109.169.23.124:9447/;
+#EXTINF:0,SR Stereo 105.0 FM
+http://dione.shoutca.st:8014/stream
 #EXTINF:0,Stacion San Alejandro 91.3 FM
 https://stream.zeno.fm/a5eep3ukbm0uv
 #EXTINF:0,Stanvaste Radio
