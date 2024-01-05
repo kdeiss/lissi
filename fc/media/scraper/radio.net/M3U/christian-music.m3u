@@ -213,6 +213,8 @@ https://streams.radiomast.io/79ce8dd0-c0e9-4443-b887-0fdc1617f8bc
 http://stream2.bbnradio.org:8000/japanese
 #EXTINF:0,BBN Portuguese
 http://stream2.bbnradio.org:8000/portuguese
+#EXTINF:0,BBN Russian
+http://stream2.bbnradio.org:8000/russian
 #EXTINF:0,BBN Spanish
 https://audio-edge-w4d68.yul.o.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:0,BBN
@@ -427,6 +429,8 @@ https://s2.stationplaylist.com:7082/listen.aac
 http://edge.mixlr.com/channel/ladlj
 #EXTINF:0,CornerStone Christian Radio
 https://stream.ibadalive.com/8002/stream
+#EXTINF:0,La Internacional Costanica Radio
+http://freeuk25.listen2myradio.com:8746/;
 #EXTINF:0,CRCB Internet Radio
 https://or.mysonicserver.com/8042/stream
 #EXTINF:0,Creciendo en Cristo
@@ -3553,6 +3557,8 @@ https://ic2.mainstreamnetwork.com/ktxw-am
 https://stream.zeno.fm/bm3a0qu98e9uv
 #EXTINF:0,The Christian Mix
 https://ssl-proxy.icastcenter.com/get.php?type=Icecast&server=199.180.72.2&port=10572&mount=stream&data=mp3
+#EXTINF:0,THEGI FM
+https://stream.zeno.fm/spdxo2owklquv
 #EXTINF:0,The Gospel Station
 https://thegospelstation.streamguys1.com/live
 #EXTINF:0,WRVL The Journey
@@ -3563,8 +3569,6 @@ https://ic.liberty.edu:8443/WQLU
 https://ice8.securenetsystems.net/WFCJ
 #EXTINF:0,The Messianic Radio
 https://stream.zeno.fm/eiqnsiqqx4vtv
-#EXTINF:0,The NU Vibe Radio
-https://listen.openstream.co/7203/audio
 #EXTINF:0,Theophony English Christian Radio
 https://cp9.serverse.com/proxy/tfmp_mp3?mp=/stream
 #EXTINF:0,Theophony Tamil Christian Radio
@@ -3869,10 +3873,6 @@ https://ice23.securenetsystems.net/WCVX
 https://wdac.com
 #EXTINF:0,WDCR Decatur Catholic Radio
 https://ice24.securenetsystems.net/WDCR
-#EXTINF:0,WDCX Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/WDCXFMAAC.aac
-#EXTINF:0,WDCX HD2
-https://playerservices.streamtheworld.com/api/livestream-redirect/WDCXHD2.mp3
 #EXTINF:0,WDEO - 990 AM
 http://ic2.nwrnetwork.com/wdeo-fm?
 #EXTINF:0,WDER - 1320 AM
@@ -3885,8 +3885,6 @@ https://ic2.christiannetcast.com/wdfb-fm
 https://ice41.securenetsystems.net/WDFCLP
 #EXTINF:0,WDFX - American Family Radio 98. 3 FM
 http://mediaserver3.afa.net:8000/inspo.mp3
-#EXTINF:0,WDJC 93.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WDJCFMAAC.aac
 #EXTINF:0,WDLM - Moody Broadcasting Network 960 AM
 https://primary.moodyradiostream.org/wdlm-high.aac
 #EXTINF:0,WDLM-FM - Moody Radio Quad Cities 89.3 FM
