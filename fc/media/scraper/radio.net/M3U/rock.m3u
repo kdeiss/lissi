@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,011.FM - The Office Mix
 https://listen.011fm.com/stream01
+#EXTINF:0,011.FM - The Bone
+https://listen.011fm.com/stream12
 #EXTINF:0,013FM
 https://r16.ciclano.io:15043/stream
 #EXTINF:0,0nlineradio 80s ROCK
@@ -79,8 +81,6 @@ https://stream.spreeradio.de/spree-event/mp3-128/radioDE/
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHREFMAAC.aac
 #EXTINF:0,Radio 105 Rock
 https://radio105rock.radioca.st/;
-#EXTINF:0,106.1 The Goat
-https://ais-sa2.cdnstream1.com/2544_128.mp3
 #EXTINF:0,106.5 ELMNT FM - The Spirit of Toronto
 https://ice10.securenetsystems.net/CFPT
 #EXTINF:0,106.7 The Drive
@@ -329,8 +329,6 @@ https://21413.live.streamtheworld.com/997BRIDGEFMAAC.aac?
 https://ice8.securenetsystems.net/WOOF
 #EXTINF:0,99.9 Punk World Radio FM
 http://stream.radiojar.com/3uvfw6vwe8tvv
-#EXTINF:0,99FM 
-https://streaming.fabrik.fm/99fm/echocast/audio/low/index.m3u8
 #EXTINF:0,99 Plus KFMH
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFMH_99_PLUSAAC_SC
 #EXTINF:0,99 The Breeze 
@@ -441,7 +439,7 @@ https://s20.reliastream.com/stream/8026
 https://streaming.live365.com/a45584
 #EXTINF:0,Rock Pop Schlager Dancefloor
 https://stream.laut.fm/allstars-friends?ref=radiode
-#EXTINF:0,Allstars Radio Station AA-2000s.lastseen AA-20s-30s-40s-50s-60s.lastseen AA-20s.lastseen AA-30s.lastseen AA-40s.lastseen AA-50s.lastseen AA-60s.lastseen AA-70s.lastseen AA-80s.lastseen AA-90s.lastseen AAAAA-rock.txt AAAA-rock.txt AA-african.lastseen AA-afrobeat.lastseen AA-alternative.lastseen AA-ambient.lastseen AA-arabesque.lastseen AAA-rock.txt AA-asian.lastseen AA-austro.lastseen AA-ballads.lastseen AA-baroque.lastseen AA-bebop.lastseen AA-big-band.lastseen AA-black-metal.lastseen AA-bluegrass.lastseen AA-blues.lastseen AA-bollywood.lastseen AA-bossa-nova.lastseen AA-brass.lastseen AA-brazilian-music.lastseen AA-britpop.lastseen AA-candombe.lastseen AA-celtic.lastseen AA-chanson.lastseen AA-charts.lastseen AA-chillout.lastseen AA-christian-contemporary.lastseen AA-christian-music.lastseen AA-classical.lastseen AA-classic-rock.lastseen AA-club.lastseen AA-country.lastseen AA-c-pop.lastseen AA-dance.lastseen AA-death-metal.lastseen AA-deutschrock.lastseen AA-discofox.lastseen AA-disco.lastseen AA-disco-polo.lastseen AA-downtempo.lastseen AA-drum-and-bass.lastseen AA-dub.lastseen AA-dubstep.lastseen AA-easy-listening.lastseen AA-eclectic.lastseen AA-electro.lastseen AA-electronica.lastseen AA-electroswing.lastseen AA-eurodance.lastseen AA-experimental.lastseen AA-filmandmusicalcomedy.lastseen AA-film-and-musical.lastseen AA-flamenco.lastseen AA-folk.lastseen AA-folklore.lastseen AA-forro.lastseen AA-funk.lastseen AA-garage-rock.lastseen AA-german-folklore.lastseen AA-german.lastseen AA-goa.lastseen AA-gospel.lastseen AA-gothic.lastseen AA-grime.lastseen AA-grunge.lastseen AA-handsup.lastseen AA-hardcore-techno.lastseen AA-hard-rock.lastseen AA-hardstyle.lastseen AA-hiphop.lastseen AA-hits.lastseen AA-house.lastseen AA-indian-music.lastseen AA-indie.lastseen AA-indo-pop.lastseen AA-industrial.lastseen AA-instrumental.lastseen AA-islamic-music.lastseen AA-jazz.lastseen AA-jewish-music.lastseen AA-j-pop.lastseen AA-j-rock.lastseen AA-jungle.lastseen AA-kizomba.lastseen AA-k-pop.lastseen AA-latin.lastseen AA-lounge.lastseen AA-makossa.lastseen AA-manele.lastseen AA-merengue.lastseen AA-metalcore.lastseen AA-metal.lastseen AA-mexican-music.lastseen AA-motown.lastseen AA-musical.lastseen AA-neue-deutsche-welle.lastseen AA-new-age.lastseen AA-news-talk.lastseen AA-new-wave.lastseen AA-oldies.lastseen AA-opera.lastseen AA-oriental.lastseen AA-pagode.lastseen AA-piano-music.lastseen AA-pop.lastseen AA-postrock.lastseen AA-progressive-house.lastseen AA-psy.lastseen AA-ragga.lastseen AA-rai.lastseen AA-ranchera.lastseen AA-r-and-b.lastseen AA-rap.lastseen AA-reggae.lastseen AA-reggaeton.lastseen AA-rockabilly.lastseen AA-rock-and-roll.lastseen AA-rock.lastseen AA-rock.txt AA-rumba.lastseen AA-russian-music.lastseen AA-salsa.lastseen AA-samba.lastseen AA-schlager.lastseen AA-sea-shanty.lastseen AA-sertanejo.lastseen AA-ska.lastseen AA-soft-pop.lastseen AA-soft-rock.lastseen AA-soul.lastseen AA-soundtrack.lastseen AA-spanish-music.lastseen AA-swing.lastseen AA-synthpop.lastseen AA-tamil.lastseen AA-tango.lastseen AA-techno.lastseen AA-top-40-and-charts.lastseen AA-top-40.lastseen AA-traditional.lastseen AA-trance.lastseen AA-trap.lastseen AA-trip-hop.lastseen AA-tropical.lastseen AA-turkish-pop.lastseen AA-urban.lastseen AA-vallenato.lastseen AA-world.lastseen AA-zouk-and-tropical.lastseen A-rock.txt check_syntax.sh DEB_radio-net-scraper.log DEB_radio-net-scraper.log.1 DEB_radio-net-scraper.log.2 DEB_radio-net-scraper.log.3 genres-full-r.txt genres-full.txt genres.txt genres.txt.1 gitti-all.sh html m3u null olddata one-category.sh one-category.sh.cfg one-category.sh.pos one-category.tmpl one-cat-test.sh RadioLib radio-net-scraper.log radio-net-scraper.log.1 radio-net-scraper.log.2 radio-net-scraper.log.3 radio-net-scraper.log.4 radio-net-scraper.log.5 radio-net-scraper.log.6 radio-net-scraper.log.7 rm-old.sh statistica.sh upload-html.sh upload-m3u.sh Best Sounds Around
+#EXTINF:0,Allstars Radio Station AA-2000s.lastseen AA-20s-30s-40s-50s-60s.lastseen AA-20s.lastseen AA-30s.lastseen AA-40s.lastseen AA-50s.lastseen AA-70s.lastseen AA-80s.lastseen AA-90s.lastseen AAAAA-rock.txt AAAA-rock.txt AA-african.lastseen AA-afrobeat.lastseen AA-alternative.lastseen AA-ambient.lastseen AA-arabesque.lastseen AA-arabic.lastseen AAA-rock.txt AA-asian.lastseen AA-bachata.lastseen AA-balkan-music.lastseen AA-ballads.lastseen AA-baroque.lastseen AA-bebop.lastseen AA-big-band.lastseen AA-black-metal.lastseen AA-bluegrass.lastseen AA-blues.lastseen AA-bollywood.lastseen AA-bossa-nova.lastseen AA-brass.lastseen AA-brazilian-music.lastseen AA-breakbeat.lastseen AA-candombe.lastseen AA-celtic.lastseen AA-chanson.lastseen AA-charts.lastseen AA-children.lastseen AA-chillout.lastseen AA-christian-contemporary.lastseen AA-christian-music.lastseen AA-christmas.lastseen AA-classical.lastseen AA-classic-rock.lastseen AA-country.lastseen AA-c-pop.lastseen AA-cumbia.lastseen AA-dancehall.lastseen AA-dance.lastseen AA-darkcore.lastseen AA-deep-house.lastseen AA-deutschrock.lastseen AA-discofox.lastseen AA-disco.lastseen AA-disco-polo.lastseen AA-downtempo.lastseen AA-drum-and-bass.lastseen AA-dub.lastseen AA-dubstep.lastseen AA-easy-listening.lastseen AA-eclectic.lastseen AA-electro.lastseen AA-electronica.lastseen AA-eurodance.lastseen AA-experimental.lastseen AA-fado.lastseen AA-flamenco.lastseen AA-folk.lastseen AA-folklore.lastseen AA-forro.lastseen AA-funk.lastseen AA-garage-house.lastseen AA-garage-rock.lastseen AA-german-folklore.lastseen AA-german.lastseen AA-goa.lastseen AA-gospel.lastseen AA-gothic.lastseen AA-grunge.lastseen AA-handsup.lastseen AA-happy-hardcore.lastseen AA-hardcore.lastseen AA-hardcore-techno.lastseen AA-hard-rock.lastseen AA-hiphop.lastseen AA-hits.lastseen AA-house.lastseen AA-indian-music.lastseen AA-indie.lastseen AA-indo-pop.lastseen AA-industrial.lastseen AA-instrumental.lastseen AA-italian-music.lastseen AA-italo-pop.lastseen AA-jazz.lastseen AA-jewish-music.lastseen AA-j-pop.lastseen AA-j-rock.lastseen AA-jungle.lastseen AA-kizomba.lastseen AA-k-pop.lastseen AA-latin.lastseen AA-live-music.lastseen AA-love-songs.lastseen AA-makossa.lastseen AA-manele.lastseen AA-mashup.lastseen AA-merengue.lastseen AA-metalcore.lastseen AA-metal.lastseen AA-mexican-music.lastseen AA-minimal.lastseen AA-motown.lastseen AA-musical.lastseen AA-neo-medieval.lastseen AA-neue-deutsche-welle.lastseen AA-new-age.lastseen AA-news-talk.lastseen AA-new-wave.lastseen AA-occitan-music.lastseen AA-oldies.lastseen AA-oriental.lastseen AA-pagode.lastseen AA-piano-music.lastseen AA-podcast.lastseen AA-pop.lastseen AA-postrock.lastseen AA-progressive-house.lastseen AA-punk.lastseen AA-ragga.lastseen AA-rai.lastseen AA-ranchera.lastseen AA-r-and-b.lastseen AA-rap.lastseen AA-reggae.lastseen AA-reggaeton.lastseen AA-rockabilly.lastseen AA-rock-and-roll.lastseen AA-rock.lastseen AA-rock.txt AA-rumba.lastseen AA-russian-music.lastseen AA-salsa.lastseen AA-samba.lastseen AA-schlager.lastseen AA-sea-shanty.lastseen AA-sertanejo.lastseen AA-ska.lastseen AA-soft-pop.lastseen AA-soft-rock.lastseen AA-soul.lastseen AA-soundtrack.lastseen AA-swing.lastseen AA-synthpop.lastseen AA-tamil.lastseen AA-tango.lastseen AA-techno.lastseen AA-top-40-and-charts.lastseen AA-top-40.lastseen AA-traditional.lastseen AA-trance.lastseen AA-trap.lastseen AA-trip-hop.lastseen AA-tropical.lastseen AA-urban.lastseen AA-vallenato.lastseen AA-world.lastseen AA-zouk-and-tropical.lastseen A-rock.txt check_syntax.sh DEB_radio-net-scraper.log DEB_radio-net-scraper.log.1 DEB_radio-net-scraper.log.2 DEB_radio-net-scraper.log.3 genres-full-r.txt genres-full.txt genres.txt genres.txt.1 gitti-all.sh html m3u null olddata one-category.sh one-category.sh.cfg one-category.sh.pos one-category.tmpl one-cat-test.sh RadioLib radio-net-scraper.log radio-net-scraper.log.1 radio-net-scraper.log.2 radio-net-scraper.log.3 radio-net-scraper.log.4 radio-net-scraper.log.5 radio-net-scraper.log.6 radio-net-scraper.log.7 rm-old.sh statistica.sh upload-html.sh upload-m3u.sh Best Sounds Around
 https://stream.laut.fm/allstars-friends?ref=radiode
 #EXTINF:0,All Time 70s 80s Greatest
 https://listen.radionomy.com/alltime70s80sgreatest.m3u
@@ -701,6 +699,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC135_SC
 https://stream.radiojar.com/t8yd56xes8quv
 #EXTINF:0,Astrorock Radio
 https://radios.solumedia.com/6176/stream
+#EXTINF:0,ASWebradio
+https://ecmanager2.pro-fhi.net:1805/stream
 #EXTINF:0,Ataun Irratia
 https://s3radio.hostingwebcloud.com/proxy/atikomun/zuzenean
 #EXTINF:0,Athens Voice Radio 102.5 FM
@@ -827,6 +827,8 @@ https://bigrradio.cdnstream1.com/5135_128
 https://rdb.saooti.com/stream/rdbicecast.mp3
 #EXTINF:0,Bávaro Digital Radio 
 https://stream.zeno.fm/v249f9qzc5zuv
+#EXTINF:0,Bayislands radio
+http://usa2.fastcast4u.com/proxy/kevinsch?mp=/1
 #EXTINF:0,Bayrock FM
 https://radio.e-cast.co.nz/bayrock/stream.m3u8
 #EXTINF:0,BBC Radio 2
@@ -907,8 +909,6 @@ https://bestofrockfm.stream.vip/softrock/mp3-256/radiode/
 https://bestofrockfm.stream.vip/xmasrock/mp3-256/radiode/
 #EXTINF:0,Zurück in die 80er | Best of Rock.FM
 https://bestofrockfm.stream.vip/80rock/mp3-256/radiode/
-#EXTINF:0,BESTRADIO BRASIL
-https://best.viaflux.com/radio/8000/bestradiobrasil.com
 #EXTINF:0,BEVEIK RADIJAS
 https://azura.shoutca.st/radio/8420/radio.mp3
 #EXTINF:0,BFBS Dirt
@@ -1435,8 +1435,6 @@ https://stream.zeno.fm/g2w7ukzh64zuv
 http://64.251.25.76:8001/stream
 #EXTINF:0,Chono radio
 https://server2.sit-mexico.com/proxy/chonoradio?mp=/stream
-#EXTINF:0,Choq FM
-http://ice9.securenetsystems.net/CHOQ
 #EXTINF:0,CHQX 101.5 Beach Radio
 https://stream.jpbgdigital.com/CHQX/HEAAC/48k/playlist.m3u8
 #EXTINF:0,Christian HardRock
@@ -1622,7 +1620,7 @@ https://radio.rtbf.be/c21-route66/mp3-128/rf
 #EXTINF:0,Classic 21 Underground
 https://radio.rtbf.be/c21-under/mp3-128/rf
 #EXTINF:0,Classic Christian Rock Radio
-https://s20.reliastream.com/stream/8004
+https://mercury.reliastream.com/proxy/classic1?mp=/stream
 #EXTINF:0,Classic Gold Alexandra 107.3 FM
 http://203.118.144.79:8000/stream
 #EXTINF:0,Classic Hits 109 - Yacht Rock
@@ -1895,8 +1893,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC322_SC
 https://stream2-alfacast-hosting.com:10915/live.m3u
 #EXTINF:0,deutschFM
 https://server14768.streamplus.de/stream/1/
-#EXTINF:0,Devilzz Radio 
-http://whsh4u-panel.com:14107/stream/1/
 #EXTINF:0,D FM
 http://ample-zeno-11.radiojar.com/ek0dnnbsmz4tv
 #EXTINF:0,DHW1
@@ -2043,6 +2039,8 @@ https://stream.laut.fm/drr?ref=radiode
 https://stream.srg-ssr.ch/m/drsvirus/mp3_128
 #EXTINF:0,DSC Webradio - das Dresdner SC Fanradio
 https://server4.streamserver24.com:61422/;stream.mp3
+#EXTINF:0,D&S WEBRADIO
+http://37.187.77.45:9054/stream
 #EXTINF:0,Dub Operator
 https://www.radioking.com/play/dub-operator
 #EXTINF:0,Radio 2.0 - Bergamo in aria
@@ -2493,6 +2491,8 @@ https://stream.freeinternetradio.nl:8443/main.mp3
 https://stream.zeno.fm/49c2uvzd4reuv
 #EXTINF:0,Firza Radio PADANG
 https://stream.zeno.fm/5k7g2w3gtkeuv
+#EXTINF:0,Flash80' Radio
+https://manager7.streamradio.fr:1985/stream
 #EXTINF:0,FLASHBACK FM
 https://stream.streambase.ch/ffm/mp3-192/radiode/
 #EXTINF:0,Flash FM 99.3 Mhz
@@ -2511,8 +2511,6 @@ https://streaming.live365.com/a24537
 https://listen.radionomy.com/radio-floyd.m3u
 #EXTINF:0,MetalFM
 https://streams.fluxfm.de/metalfm/mp3-128/radiode/
-#EXTINF:0,FlyFM
-http://188.165.215.158:9075/stream/1/
 #EXTINF:0,Fly RadioTv
 http://play.flyradiotv.net:9051/stream/
 #EXTINF:0,FM101 Faisalabad
@@ -2657,6 +2655,8 @@ http://streamplus19.leonex.de:10398/;
 http://europa.shoutca.st:9216/stream/1/
 #EXTINF:0,Temptation by Fugadamore
 https://radio.streemlion.com:2425/stream
+#EXTINF:0,Fully Open Radio
+https://hello.citrus3.com:8262/stream
 #EXTINF:0,Radio Fundisko - die Radiofamilie
 https://stream.laut.fm/radiofundisko
 #EXTINF:0,Fun-Life-Music
@@ -2843,8 +2843,6 @@ https://online.radioplayer.ua/GuliayRadio
 https://s1.reliastream.com/proxy/guss2?mp=/stream
 #EXTINF:0,Radio Gwendalyn
 http://stream.radiogwen.ch:8000/radiogwen
-#EXTINF:0,h2radio
-http://stream.h2radio.de:8000/h2radio.mp3
 #EXTINF:0,Radio Hafenstrasse
 https://listen.radioking.com/radio/212434/stream/255523
 #EXTINF:0,Hagasbluesrockradio
@@ -3183,8 +3181,6 @@ https://streaming.live365.com/a01334
 http://94.249.254.89:8000/stream/1/
 #EXTINF:0,JaysWebRadio
 https://jayswebradio.stream.laut.fm/jayswebradio
-#EXTINF:0,JazzBitesRadio CH4 Blues & Rock
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3411177_SC
 #EXTINF:0,JBNews - Das Bluesradio
 https://stream.laut.fm/jbnewsradio?ref=radiode
 #EXTINF:0,JC channel - Christliches Webradio
@@ -3195,8 +3191,6 @@ https://c22.radioboss.fm:8605/stream
 http://jeanmajolo.com.br:8000/radio
 #EXTINF:0,Jersey Shores Good Time Oldies
 https://s9.citrus3.com:8156/stream
-#EXTINF:0,Jesus Nasareno Radio
-https://node-30.zeno.fm/rv36ft1unqzuv
 #EXTINF:0,Jewel 107.7 FM
 https://ice41.securenetsystems.net/CKHK
 #EXTINF:0,Jubilee Hospital Radio
@@ -3685,6 +3679,8 @@ https://streaming3.locucionar.com/proxy/radiolajeta?mp=%2Fstream
 http://node-02.zeno.fm/hcw5f95ugy8uv?zs=YJG4oWGoSduBay8I1nJnJA&rj-tok=AAABgT1-4AIAOz82B9H-xd43mg&rj-ttl=5
 #EXTINF:0,La Mega Hit
 http://91.230.214.92:8000/megahit
+#EXTINF:0,La Mega Star 95.1 FM
+https://ecuamedios.net/8786/stream
 #EXTINF:0,La Mistica Radio
 https://stream.zeno.fm/av8m1adpxs8uv
 #EXTINF:0,Lampsi FM 92.3 
@@ -3715,10 +3711,6 @@ http://streamdb3web.securenetsystems.net/v5/KUNA
 https://laradiodefifi.ice.infomaniak.ch/laradiodefifi-192.mp3
 #EXTINF:0,La radio des Familles 
 https://listen.radionomy.com/laradiodesfamilles
-#EXTINF:0,La Rocka 70
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
-#EXTINF:0,La Rocka 90
-https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,LarockaForte
 https://radiomusic.newradio.it/rockaforte
 #EXTINF:0,LA ROCK & POP
@@ -3899,8 +3891,6 @@ https://stream.laut.fm/bavaria-express?ref=radiode
 https://stream.laut.fm/bavarias-80th?ref=radiode
 #EXTINF:0,Bavarias-Rock-Ballads
 https://stream.laut.fm/bavarias-rock-ballads?ref=radiode
-#EXTINF:0,Bavayote
-https://stream.laut.fm/bavayote?ref=radiode
 #EXTINF:0,bay4you
 https://stream.laut.fm/bay4you?ref=radiode
 #EXTINF:0,Bbw Soest Radio
@@ -5025,8 +5015,6 @@ https://stream.laut.fm/radiof2?ref=radiode
 https://stream.laut.fm/radio-fettehenne?ref=radiode
 #EXTINF:0,Radio Fire Devil
 https://stream.laut.fm/radio-fire-devil?ref=radiode
-#EXTINF:0,Radiofloridiasound
-https://stream.laut.fm/radiofloridiasound?ref=radiode
 #EXTINF:0,Radio Florin
 https://stream.laut.fm/radio-florin?ref=radiode
 #EXTINF:0,radio-gamespoint
@@ -5845,8 +5833,6 @@ https://stream-23.zeno.fm/6b2xk8q1w7zuv?zs=f_mWK0H9QpqduEB3hTdXYQ
 https://listen.usuarios.space/zona-gris/
 #EXTINF:0,Lazy Gold Radio
 https://stream-lazyradio.creativedork.com/
-#EXTINF:0,Leda Caso
-http://liberaturadio.org:8000/luisbeltran
 #EXTINF:0,Legend FM
 https://onairmediagroup.live24.gr/legend1016xanthi
 #EXTINF:0,Léman Bouge 
@@ -6277,6 +6263,8 @@ https://streaming.live365.com/a73754
 https://stream.zeno.fm/u2h5xthhx98uv
 #EXTINF:0,Music from the 412 Radio
 https://streaming.live365.com/a61858
+#EXTINF:0,Music Fun Station
+https://c02.lexycast.de:4830/;
 #EXTINF:0,Music Minded
 https://mediacp.audiostreamen.nl/musicminded
 #EXTINF:0,Music-of-Fantasy
@@ -6620,7 +6608,7 @@ https://sonic.sistemahost.es/8080/;
 #EXTINF:0,Onda Musical de Yecla
 https://stream.zeno.fm/89t31p4mdwzuv?
 #EXTINF:0,Onda Pasión
-https://srv7041.dns-lcinternet.com/8038/stream
+https://streaming12.elitecomunicacion.es:8138/stream
 #EXTINF:0,Onda Rádio
 https://ssl.xcast.com.br:8084/;
 #EXTINF:0,ONDA WANTUKI
@@ -6783,8 +6771,6 @@ http://uk3.internet-radio.com:8032/stream/1/
 https://stream.zeno.fm/d7fr34zwezzuv
 #EXTINF:0,Oxigeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
-#EXTINF:0,Oxygène Radio
-https://icecast.oxygeneradio.fr:8443/OxygeneRadio.aac
 #EXTINF:0,OZ Radio Bandung
 http://45.64.97.211:1031/;
 #EXTINF:0,Özgürüz
@@ -6851,7 +6837,7 @@ http://listen.radionomy.com/peekaboo4
 https://rs20.stream24.net/peilsender.mp3
 #EXTINF:0,Peirasmos FM
 https://cast.radiohost.ovh/proxy/peirasmosfm?mp=/stream
-#EXTINF:0,Penedés FM-La teva ràdio del Penedès
+#EXTINF:0,Penedes FM Radio Subirats
 https://penedesfmradio.radio12345.com/
 #EXTINF:0,peperadio
 http://server7.emitironline.com:8000/;stream.nsv
@@ -6963,6 +6949,8 @@ https://stream.zeno.fm/6vu8pug96ehvv
 http://suenas.net:8091/pobrejohnny
 #EXTINF:0,Pogo 97.3
 https://01.solumedia.com.ar:8340/stream
+#EXTINF:0,Point Radio Norfolk
+http://carol.epichosts.co.uk:8290/live.mp3
 #EXTINF:0,Pollachi FM
 http://104.200.16.182:8000/stream/1/
 #EXTINF:0,Polo Radio Rwanda
@@ -7015,6 +7003,8 @@ http://eagle.streemlion.com:4016/autodj
 https://tupanel.info:2000/stream/2digitalradioHDsslLIVE101
 #EXTINF:0,Post Airwave Radio
 https://cast4.my-control-panel.com/proxy/postairw/stream
+#EXTINF:0,PostRadio
+http://s1.slotex.pl:7164/stream/1/
 #EXTINF:0,Power 100 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
 #EXTINF:0,Power 91
@@ -7445,8 +7435,6 @@ https://livex.radiopopolare.it/radiopop2
 https://streaming01.radiosenlinea.com.ar/8672/stream
 #EXTINF:0,RBI Radio
 https://server5194.streamplus.de/stream.mp3
-#EXTINF:0,Bayermovie-Radio
-https://www.radioking.com/play/bayermovie-radio
 #EXTINF:0,B C V
 https://rocket.streamradio.fr/stream/RadioBCV
 #EXTINF:0,Rádio Beach Park 102.7 FM
@@ -8051,6 +8039,8 @@ https://cc6.streammaximum.com/proxy/radiolumiar/stream
 http://5.39.71.39:8004/stream
 #EXTINF:0,Radio-Lux
 https://radio-lux.stream.laut.fm/radio-lux
+#EXTINF:0,Radio Ixchel-mx
+https://stream-149.zeno.fm/8amm3drz90cvv
 #EXTINF:0,Radio Machali
 https://sp001.servidoresph.com/8010/stream
 #EXTINF:0,Radio Mágica 87.7
@@ -8165,8 +8155,6 @@ https://server35525.streamplus.de/stream/1/
 http://radio.dline-media.com/myata
 #EXTINF:0,Radio-Mystic-Energy
 http://stream01.script24.net:9238/stream/1/
-#EXTINF:0,Radio.MyVyBZ Variety
-https://streaming.live365.com/a63390
 #EXTINF:0,Radio ¡NAVAFRÍA MÍA!
 https://listen.radionomy.com/radio-navafriamia-
 #EXTINF:0,Radio Navagio
@@ -8199,8 +8187,6 @@ http://s2.myradiostream.com:4520/listen.m4a
 https://stream.audioxi.com/NOVA?aw_0_1st.playerid=radio.net128
 #EXTINF:0,Radio Nowhere
 https://i.streams.ovh:9364/autodj
-#EXTINF:0,RadioNR1
-https://radionr1.de:10000/live
 #EXTINF:0,Radio Oberhausen - Dein Rock Radio
 https://stream.lokalradio.nrw/445228p
 #EXTINF:0,Radio Obozrevatel Alternative Rock
@@ -8631,8 +8617,6 @@ http://server1.dainusradio.com:9884/;
 https://server-usa2.radioseninternet.net/8000/stream
 #EXTINF:0,Radio UPN Zacatecas
 https://streamingv2.shoutcast.com/RadioUPNCampusZacatecas
-#EXTINF:0,Radio Vacío 
-https://stream.zeno.fm/7qbu66b2kwzuv
 #EXTINF:0,RADIO VALENTINA FM
 http://nr5.newradio.it:8587/stream/1/
 #EXTINF:0,RVK Radio Vallekas 107.5 FM
@@ -9031,8 +9015,6 @@ https://rs102-krk.rmfstream.pl/QUEEN
 https://rs8-krk2-cyfronet.rmfstream.pl/ROCK
 #EXTINF:0,RMF Rock Progresywny
 https://rs6-krk2-cyfronet.rmfstream.pl/ROCKPROGRESYWNY
-#EXTINF:0,Radio RMJ 90.1
-https://stream.votreradiosurlenet.eu/rmj.mp3
 #EXTINF:0,RMNradio
 https://rmnradio.schlagerparadies.de/rmnradio
 #EXTINF:0,RMP FM
@@ -9601,8 +9583,6 @@ https://centova2.cheapshoutcast.com/proxy/ron?mp=%2Fstream
 https://stream.radio-shakerdance.de:8002/listen1
 #EXTINF:0,shareradio 
 http://sr3.inmystream.info:8177/stream?hash=1477401562052.mp3
-#EXTINF:0,Shawn Nagy's Super Oldies
-https://mercury.reliastream.com/proxy/superold/;
 #EXTINF:0,Radio Shock Box 
 http://66.70.187.30:8992/stream
 #EXTINF:0,Shock Wave Radio
@@ -10187,6 +10167,8 @@ http://stream.tilos.hu:80/tilos
 http://ample-zeno-04.radiojar.com/fs8xzbs6aveuv
 #EXTINF:0,Radio timeDance.FM
 http://c12.radioboss.fm:8061/stream
+#EXTINF:0,ТИПИЧНОЕ FM - Tip FM
+http://play.tipfm.ru:9000/9696
 #EXTINF:0,Tiwale media Radio
 https://stream-44.zeno.fm/3g3e4rfktuhvv?zs=oKqahbrnQ6anCROv0qUB2g
 #EXTINF:0,TKO 91.9 FM
@@ -10395,6 +10377,8 @@ https://stream.radio.co/sedf8bacc9/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC17.mp3
 #EXTINF:0,U-Talent Radio
 https://mixlr.com/utalentradio/
+#EXTINF:0,Utas Fanradio
+https://uta.tunefm.de:8600/stream
 #EXTINF:0,Uturn Radio: Classic Rock Music
 https://listen.uturnradio.com/classic_rock
 #EXTINF:0,Radio UWM FM
@@ -10566,7 +10550,7 @@ https://live.amperwave.net/manifest/magnumbroadcasting-wbdlfmaac-hlsc1.m3u8
 #EXTINF:0,Belfast Community Radio (WBFY-LP)
 https://ice66.securenetsystems.net/WBFY
 #EXTINF:0,WBHB-FM - 101.5 Bob Rocks
-https://ais-sa2.cdnstream1.com/2543_128.mp3
+https://ais-sa8.cdnstream1.com/3526_128.mp3
 #EXTINF:0,WBLD 89.3 Lakes FM
 http://50.201.165.208:1935/radio/wbld/playlist.m3u8
 #EXTINF:0,WBMJ - The Rock Radio Network 1190 AM
@@ -10771,8 +10755,6 @@ http://stream.radiojar.com/7h6fwkn7g6hvv
 https://ice7.securenetsystems.net/WJRB
 #EXTINF:0,WJRL Rock 100.5 FM
 https://ice66.securenetsystems.net/WJRL
-#EXTINF:0,WJSC-FM - Radio Johnson 90.7 FM
-http://155.42.39.253:8000/stream
 #EXTINF:0,WJXQ - Q106 106.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJXQFM.mp3
 #EXTINF:0,WKEU 1450 AM
@@ -11124,7 +11106,7 @@ http://178.32.138.88:8050/;
 #EXTINF:0,Young FM
 https://apollo.rserve.de:7016/;stream.mp3
 #EXTINF:0,YourBase-Radio 
-http://server8.blitz-stream.de:13700/stream/1/
+http://yourbase.sp.radio.fm/stream
 #EXTINF:0,Youth Jam
 https://s3.radio.co/s04c274fc8/listen
 #EXTINF:0,YRLS
@@ -11149,16 +11131,12 @@ http://streaming.radionomy.com/radio-zeeuws-vlaanderennl
 https://streaming.live365.com/a06185
 #EXTINF:0,Zeromix Radio
 https://listen.radionomy.com/zeromix-radio.m3u
-#EXTINF:0,Zeze Radio
-http://u18.klikhost.com:7702/stream/1/
 #EXTINF:0,Zickenpower
 https://c02.lexycast.de:3000/stream/1/
 #EXTINF:0,Zicline la Radio Active
 https://ecmanager.pro-fhi.net/ziclineradio
 #EXTINF:0,zic one radio 
 http://manager7.streamradio.fr:2010/stream
-#EXTINF:0,Znad Wilii
-https://plays.zw.lt/zw128
 #EXTINF:0,Zombiestation
 http://81.169.218.25:8000/;
 #EXTINF:0,Zone FM

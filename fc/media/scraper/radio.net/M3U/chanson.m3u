@@ -11,8 +11,10 @@ http://serveur2.wanastream.com:63000/;
 http://s8.myradiostream.com:12658/stream/1/
 #EXTINF:0,Agora Côte d'Azur
 https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
+#EXTINF:0,Akuma’s Record
+https://radio-akuma.l-sad.xyz/listen/radio_akuma/radio.mp3
 #EXTINF:0,Aléo
-http://vt-net.org:8056/;
+http://vt-net.org:8056/listen.pls
 #EXTINF:0,Allzic Enfant 7/12 ans
 https://allzic16.ice.infomaniak.ch/allzic16.mp3
 #EXTINF:0,Allzic Années 50
@@ -217,6 +219,8 @@ https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 https://manager7.streamradio.fr:2625/stream
 #EXTINF:0,Maxi France
 https://sr3.publicssl.net/srv/8358/stream
+#EXTINF:0,Medi1 - Maghreb
+https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8
 #EXTINF:0,Medi 1 - Française
 https://live.medi1.com/Francaise
 #EXTINF:0,Meuse FM - Bar-Le-Duc
@@ -267,6 +271,8 @@ https://scdn.nrjaudio.fm/adwz1/fr/56164/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 https://stream.rcs.revma.com/23yuem43ehuvv
 #EXTINF:0,Le Meilleur de Nostalgie
 https://stream.rcs.revma.com/r9gvhg43ehuvv
+#EXTINF:0,NOSTALGIE LES PLUS GRANDS TUBES FRANCAIS
+https://scdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Tubes-Français
 #EXTINF:0,NOSTALGIE LES PLUS GRANDS TUBES
 https://scdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Tubes
 #EXTINF:0,NOSTALGIE TOUS LES TUBES, TOUS LES STYLES
@@ -354,7 +360,7 @@ http://serveur3.wanastream.com:18200/;
 #EXTINF:0,RPA - la Radio du Pays d'Arles
 https://rparadiodupaysdarles.ice.infomaniak.ch/rparadiodupaysdarles-128.mp3?ua=InfomaniakPlayer
 #EXTINF:0,Radio Plus
-http://151.2.162.202:8000/plus128k
+https://radio2.pro-fhi.net:19073/stream
 #EXTINF:0,Radio Quartz
 http://manager2.streaming-ingenierie.fr:8026/stream
 #EXTINF:0,Radio Quetsch 
@@ -409,8 +415,6 @@ https://www.radioking.com/play/top-tonic-france
 https://rs6-krk2-cyfronet.rmfstream.pl/FRANCAIS
 #EXTINF:0,RMF
 https://listen.radioking.com/radio/328537/stream/376726
-#EXTINF:0,Radio RMJ 90.1
-https://stream.votreradiosurlenet.eu/rmj.mp3
 #EXTINF:0,RMN la Bretagne en Musique
 https://bretagnetv.bzh/gourin
 #EXTINF:0,ROUGE MADE IN FRANCE

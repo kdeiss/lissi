@@ -95,8 +95,6 @@ http://hi5.adagio.fm/;
 https://live.radioart.com/fAfter_midnight.mp3
 #EXTINF:0,Radio Agroempresario
 https://cdn.agroempresario.com/uploads/3e6ec51b9ca9190651111f9bf5637c10b967a26831.mp3
-#EXTINF:0,Aires Radio
-https://radios.solumedia.com:10967/stream
 #EXTINF:0,Alerta Pereira
 https://conectadosmultimedia.com.co/proxy/alerta/stream
 #EXTINF:0,Alfredo Céntrico
@@ -927,6 +925,8 @@ https://sonicpanel.oficialserver.com:7004/stream/1/
 https://c1.audiostream.com.br:2007/site
 #EXTINF:0,RadioArt: Guitar
 https://live.radioart.com/fGuitar.mp3
+#EXTINF:0,HABARI NJEMA RADIO
+https://rwandanationalcongress.co.uk:8020/radio.mp3
 #EXTINF:0,Happyday New Age Radio COOOOL Channel
 http://iNewAge.com/listen.m3u
 #EXTINF:0,RadioArt: Harpsichord
@@ -1185,8 +1185,6 @@ https://stream.klassikradio.de/Vitality/mp3-192/radiode/
 https://stream.klassikradio.de/weinabend/mp3-128/radiode/
 #EXTINF:0,Klassik Radio Yoga
 https://stream.klassikradio.de/yoga/mp3-128/radiode/
-#EXTINF:0,Klassinen Joulu
-https://server1.toivon.net/proxy/toivon_6_1?mp=/stream
 #EXTINF:0,Klasszik Radio 92.1
 http://s04.diazol.hu:9600/live.mp3
 #EXTINF:0,KLMF - JPR Classic & News 88.5 FM
@@ -1285,6 +1283,8 @@ https://stream.laut.fm/beethoven-one?ref=radiode
 https://stream.laut.fm/berlinerflo?ref=radiode
 #EXTINF:0,best-of-klassik
 https://stream.laut.fm/best-of-klassik?ref=radiode
+#EXTINF:0,bibleradio
+https://stream.laut.fm/bibleradio?ref=radiode
 #EXTINF:0,brainradioklassik
 https://stream.laut.fm/brainradioklassik?ref=radiode
 #EXTINF:0,chillharmonie
@@ -1709,6 +1709,8 @@ https://cp.sonicpanel.stream/8204/stream
 http://live.radiomaria.at:8000/rma2
 #EXTINF:0,Radio MCA
 https://uk2.streamingpulse.com/ssl/mca
+#EXTINF:0,Rádio Mix Play
+https://s10.w3bserver.com/listen/radio_mix_play/radio.mp3
 #EXTINF:0,more.fm Classic
 https://cast.more.fm:8444/uclassic
 #EXTINF:0,Radio Moussa
@@ -1781,6 +1783,8 @@ https://streaming.radiostreamlive.com/radiosymphony_devices
 https://stream2.statsradio.com:8046/stream
 #EXTINF:0,Radio Technis
 https://lofos.win:48500/stream
+#EXTINF:0,Radio Tele Pam
+https://s1.epistreaming.net/proxy/lukes/stream
 #EXTINF:0,RADIO TIGRE
 https://strcdn.klm99.com:8060/stream
 #EXTINF:0,Radio Vibra Mix
@@ -1823,6 +1827,10 @@ https://radiobonespritinternational.ice.infomaniak.ch/rbeinter.mp3
 https://nr9.newradio.it/proxy/ccampa00?mp=/stream?ext=.mp3
 #EXTINF:0,Radio Classica Bresciana
 https://ice15.fluidstream.net/classicabresciana.aac?FLID=8&type=.aac
+#EXTINF:0,RCO Live Webradio
+https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192?token=ae59d23f5b689dd8b5d480e27c65ff98&time=56dd6d21
+#EXTINF:0,RCO Webradio - Royal Concertgebouw Orchestra
+https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192
 #EXTINF:0,Red River Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM.mp3
 #EXTINF:0,Reformatorische Omroep - Radio 3
