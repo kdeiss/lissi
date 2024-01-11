@@ -393,6 +393,8 @@ https://listen.radioking.com/radio/353983/stream/403198
 https://server4.streamserver24.com:8080/proxy/jens?mp=/stream/;
 #EXTINF:0,Grenzland Radio
 https://www.radioking.com/play/grenzland-radio
+#EXTINF:0,GrenzRadio
+http://server2.inetcast.nl:2110/stream
 #EXTINF:0,Radio Grüne Welle
 https://nr11.newradio.it:19196/rgwhigh
 #EXTINF:0,GuggliFoxRadio
@@ -424,7 +426,7 @@ http://apollo.rserve.de:9932/;
 #EXTINF:0,HitPower-Radio.com 
 https://ls100.systemweb-server.eu/listen/hitpower_radio/hpr1.mp3
 #EXTINF:0,Hitradio 4 Live
-https://stream01.script24.net:9112/stream/1/
+https://stream.tramp-cast.ch/8036/stream
 #EXTINF:0,Hitradio 4 you 
 http://94.23.6.107:8505/;stream.nsv
 #EXTINF:0,Hitradio - Bodensee
@@ -1773,8 +1775,6 @@ https://stream.laut.fm/sowiewir?ref=radiode
 https://stream.laut.fm/sport-fm?ref=radiode
 #EXTINF:0,Spreekanal FM
 https://stream.laut.fm/spreekanal-fm?ref=radiode
-#EXTINF:0,Stadlpowerradio
-https://musikgartenradio.spcast.eu/stream
 #EXTINF:0,Stadtradiofeldkirch
 https://stream.laut.fm/stadtradiofeldkirch?ref=radiode
 #EXTINF:0,Stadtradiokonstanz
@@ -2161,8 +2161,6 @@ http://server34312.streamplus.de:11066/;
 http://server23719.streamplus.de:21084/;
 #EXTINF:0,Radio-Bass-Of-Melodie
 http://stream.tramp-cast.ch:8012/stream/1/
-#EXTINF:0,Bayermovie-Radio
-https://www.radioking.com/play/bayermovie-radio
 #EXTINF:0,Radio Berg - Dein Schlager Radio
 https://stream.lokalradio.nrw/445243f
 #EXTINF:0,Radio Bochum - Dein Schlager Radio
@@ -2301,8 +2299,6 @@ http://185.23.192.118:8002/;stream.mp3
 https://stream.laut.fm/radiomannheim?ref=radiode
 #EXTINF:0,Radio Marl
 https://c32.radioboss.fm:18152/stream
-#EXTINF:0,Radio Master Hits
-https://live.radiomaster.fr/hits
 #EXTINF:0,Radio Max HR
 https://azuracast.novi-net.net/radio/8010/radiomax.aac
 #EXTINF:0,Radio Megahertz
@@ -2341,8 +2337,6 @@ http://212.91.253.34:8000/
 https://flux.radionoirmout.com:8443/wrn.mp3
 #EXTINF:0,Radio Nonstop Benelux!
 https://solid33.streamupsolutions.com:2199/tunein/radiononstop.pls
-#EXTINF:0,RadioNR1
-https://radionr1.de:10000/live
 #EXTINF:0,Radio Oberhausen - Dein Schlager Radio
 https://stream.lokalradio.nrw/44524n6
 #EXTINF:0,Radio Olymp FM
@@ -2373,8 +2367,8 @@ https://server33911.streamplus.de/stream/1/
 http://stream04.stream-webradiotechnik.de:8150/stream/1/
 #EXTINF:0,Radio P.R.O.S.
 https://mediacp.audiostreamen.nl:8238/stream
-#EXTINF:0,Radio Regenbogen - Schlager
-https://stream.regenbogen.de/schlager/aac-128/radiode
+#EXTINF:0,Radio Regenbogen - Oldies
+https://stream.regenbogen.de/oldies/aac-128/radiode
 #EXTINF:0,Radio-Rheinland
 https://stream.laut.fm/radiorheinland?ref=radiode
 #EXTINF:0,Radio Roland
@@ -2505,11 +2499,9 @@ http://vmd54090.contaboserver.net:8008/stream/1/
 http://c02.lexycast.de:1510/stream/1/
 #EXTINF:0,Rogos-Powerradio 
 http://89.163.144.59:5786/stream
-#EXTINF:0,RPR1. Kölner Karneval
-https://stream.rpr1.de/karneval/aac-128
-#EXTINF:0,RPR1.Pappnasen-Playlist
-https://stream.rpr1.de/pappnasen/mp3-128/radiode
-#EXTINF:0,RPR1.Schlager
+#EXTINF:0,RPR1. Radio Schinkenstrasse
+https://stream.rpr1.de/apresski/mp3-128/radiode
+#EXTINF:0,RPR1. Schlagerhits
 https://stream.rpr1.de/schlagerhits/mp3-128/radiode
 #EXTINF:0,RRTH
 https://radio.rrth.at/RRTH
@@ -2533,8 +2525,6 @@ http://84.200.41.25:11000/listen1
 http://apollo.rserve.de:9986/;stream.nsv
 #EXTINF:0,Schausteller Radio
 http://85.25.185.170:8000/stream/1/
-#EXTINF:0,Radio Schinkenstrasse
-https://stream.rpr1.de/apresski/aac-128/radiode
 #EXTINF:0,Schlager
 https://stream.laut.fm/schlager?ref=radiode
 #EXTINF:0,Schlager-Discofox-Heinsberg
@@ -2764,9 +2754,11 @@ https://server-28.stream-server.nl:8846/stream
 #EXTINF:0,TMR-Radio.de 
 http://listen.cdn.streammonks.net:8080/l4m5w
 #EXTINF:0,Radio Trallacity
-http://stream04.stream-webradiotechnik.de:9150/stream/1/
+https://trallacity.stream.laut.fm/trallacity
 #EXTINF:0,Turbo-Hitradio - Schlager
 https://stream.laut.fm/hitradio-schlager?ref=radiode
+#EXTINF:0,Twentseboys
+http://twentseboys.gkstreamen.nl:8058/listen.pls
 #EXTINF:0,Uldash FM Радио Юлдаш
 https://radio.mediacdn.ru/uldash.mp3
 #EXTINF:0,Unzmarkt-Frauenburg LIVE
