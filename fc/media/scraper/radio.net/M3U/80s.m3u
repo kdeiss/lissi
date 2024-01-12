@@ -61,8 +61,6 @@ http://113fm-atunwadigital.streamguys1.com/1061
 http://113fm-atunwadigital.streamguys1.com/1062
 #EXTINF:0,113.fm The Eagle
 http://113fm-atunwadigital.streamguys1.com/1063
-#EXTINF:0,123 Radio
-http://stream.laut.fm/123radio?ref=radiode
 #EXTINF:0,17600 Ràdio
 https://servidor35.brlogic.com:8772/live
 #EXTINF:0,181.fm - 80's Hairband
@@ -179,6 +177,8 @@ https://nr8.newradio.it:19574/stream
 http://shoutcast3.streamingmedia.it:3038/stream/1/
 #EXTINF:0,7080rocks
 http://cast1.torontocast.com:1460/stream
+#EXTINF:0,70s 80s Mix Radio
+https://win.streams.ovh:9006/stream
 #EXTINF:0,70s Great Hits
 http://s10.myradiostream.com:35508/;
 #EXTINF:0,8090rocks
@@ -688,7 +688,7 @@ https://stream.berliner-rundfunk.de/brf-rik/mp3-128/?ref=radiode
 #EXTINF:0,Berry FM
 https://berryfm.ice.infomaniak.ch/berryfm-192.aac
 #EXTINF:0,Best-4-Friends
-http://193.26.157.100:8174/stream/1/
+http://193.26.157.100:8174/stream/1/--doppelt
 #EXTINF:0,Best FM
 https://stream.zeno.fm/8bnkvg3za6quv
 #EXTINF:0,Best Hits Radio 80s
@@ -1439,6 +1439,8 @@ https://str01.fluidstream.net/rpd.mp3
 http://digitalfm.dynu.com:8000/digitalfm64
 #EXTINF:0,Fantasia-Dance-Radio
 http://streaming.radionomy.com/Fantasia-Dance-Radio
+#EXTINF:0,Fantasy Italo Radio
+https://italo.live-streams.nl/fantasy
 #EXTINF:0,Fantasy Radio Malta
 https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_38753_stream_646339426
 #EXTINF:0,Fantasy Radio
@@ -1475,8 +1477,6 @@ https://stream.zeno.fm/49c2uvzd4reuv
 http://stream.zenolive.com/p63ug1un92quv
 #EXTINF:0,Firza Radio TAPSEL
 https://stream.zeno.fm/v4e4p4uh55quv
-#EXTINF:0,Fisherton Classic
-https://media425.digitar.net:8081/fishertonclassic.mp3
 #EXTINF:0,FJ Online Radio
 https://stream.zeno.fm/2p2vkt9r9c0uv
 #EXTINF:0,Flash80' Radio
@@ -3303,6 +3303,8 @@ https://node-22.zeno.fm/h9pp9ynaybruv.aac
 https://stream1.468.gr/8108/stream
 #EXTINF:0,Metal Maximum Radio (MMR)
 https://s5.ssl-stream.com:8022/stream
+#EXTINF:0,Metro 411 Radio KMGK-DB
+https://streaming.live365.com/a10306
 #EXTINF:0,Metro 95.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC
 #EXTINF:0,Metro Love 80s
@@ -3435,8 +3437,6 @@ http://s1.stmxp.net:8042/stream/1/
 https://cast4.magicstreams.gr:10159/
 #EXTINF:0,Radio MusicMax 
 http://91.232.4.33:7040/stream/1/
-#EXTINF:0,Music-of-Fantasy
-http://193.26.157.100:8004/stream/1/
 #EXTINF:0,MusicRadio JLEO
 http://67.212.165.106:8159/listen.html
 #EXTINF:0,MusicRocks Radio
@@ -3573,6 +3573,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80
 http://opportunity.shoutca.st:8175/;
 #EXTINF:0,NOSTALGIE USA 80
 https://scdn.nrjaudio.fm/adwz1/fr/56621/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-USA-80
+#EXTINF:0,Nova 80's
+https://edge2.audioxi.com/NOVA80
 #EXTINF:0,Nova FM - 90,7
 https://paineldj6.com.br:20037/stream
 #EXTINF:0,NovaradioDigital
@@ -4789,8 +4791,8 @@ https://stream.regenbogen.de/80er/mp3-128/radiode
 https://stream.regenbogen.de/80erpoprock/mp3-128/radiode
 #EXTINF:0,Radio Regenbogen - Baden-Württemberg
 https://stream.regenbogen.de/karlsruhe/aac-128/radiode
-#EXTINF:0,Radio Regenbogen Südbaden
-https://stream.regenbogen.de/freiburg/mp3-128/radiode
+#EXTINF:0,Radio Regenbogen - Südbaden
+https://stream.regenbogen.de/freiburg/aac-128/radiode
 #EXTINF:0,RADIO RELAX Italia
 https://radiorelax.streamingmedia.it/play
 #EXTINF:0,Radio Release
@@ -4815,6 +4817,8 @@ https://ssl.painelcast.com:7586/stream
 https://rserver.radioroanne.fr/listen/radio_roanne_/radio.mp3
 #EXTINF:0,Radio Roc 105.5 Fm
 https://node-07.zeno.fm/tuc7k58u908uv?
+#EXTINF:0,RADIO ROCKLINE
+https://ice.creacast.com/rockline_classic
 #EXTINF:0,Radio Romance FM
 https://s5.stmxp.net:7024/stream/1/
 #EXTINF:0,Radio Romántica FM
@@ -4857,8 +4861,6 @@ http://webradio.radio-seefunk.de/80er
 http://paineldj.com.br:8067/stream
 #EXTINF:0,Radio Sevagram
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:0,Radio Seven One
-https://sr7.inmystream.it/proxy/radiosev?mp=/stream
 #EXTINF:0,Radios Golden Memories KOLD
 https://stream.zeno.fm/s35qd0vptg0uv
 #EXTINF:0,Radio Show
@@ -5099,6 +5101,8 @@ https://playoutonestreaming.com/proxy/raw/?mp=/mp3;
 https://stream.zeno.fm/w0ahwc360tzuv
 #EXTINF:0,rbb 88.8
 https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid?aggregator=radio-de
+#EXTINF:0,RCC RADIO
+https://stream.zeno.fm/bteoqobyu5htv
 #EXTINF:0,Rádio Clube de Matosinhos
 https://stream.zeno.fm/ndkqxvqek5zuv
 #EXTINF:0,RCPFM
@@ -5117,6 +5121,8 @@ https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 https://cast1.torontocast.com:2130/stream
 #EXTINF:0,Real FM 
 https://de1.streamingpulse.com/ssl/RealFMSpain
+#EXTINF:0,Recuerdos Gruperos Radio
+http://recuerdosgruperos.com:8000/;
 #EXTINF:0,Recuerdos Retro
 https://sonic.portalfoxmix.cl/8226/stream
 #EXTINF:0,Redemption Station
@@ -5133,8 +5139,6 @@ https://stream.regenbogen2.de/80errock/mp3-128/radiode
 https://stream.regenbogen2.de/80errock/aac-128/radiode
 #EXTINF:0,REGENBOGEN 2 Baden-Württemberg
 https://stream.regenbogen2.de/bawue/aac-128/radiode
-#EXTINF:0,REGENBOGEN 2 dab
-https://stream.regenbogen2.de/dab/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Guns N' Roses
 https://stream.regenbogen2.de/gunsnroses/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Rhein-Neckar
@@ -5655,8 +5659,6 @@ http://gemini.shoutca.st:8047/stream
 http://87.237.169.24:8000/live
 #EXTINF:0,Sunray-FM
 https://radio.sunray-fm.de/live.mp3
-#EXTINF:0,Radio-Sunshine4you
-https://stream.radio-sunshine4you.eu:8002/stream/1/
 #EXTINF:0,sunshine live - Die 80er
 https://stream.sunshine-live.de/80er/mp3-128/radiode/
 #EXTINF:0,Sunshine-radio.eu
@@ -5719,6 +5721,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC243_SC
 http://148.71.86.214:8000/telefoniadaamadora
 #EXTINF:0,TempoRadio 
 http://stream.dnsgb.net:8040/;audio.mp3
+#EXTINF:0,Tendance Radio Gold
+https://srv.tendanceradio.net:8010/1/stream
 #EXTINF:0,Test01
 https://tuner.m1.fm/hits.mp3
 #EXTINF:0,Test22
@@ -5913,6 +5917,8 @@ https://uncutmedia.radioca.st/stream.mp3
 https://ice2.somafm.com/u80s-128-mp3
 #EXTINF:0,Universiriencia Radio
 http://stream-57.zeno.fm/t328tux77f8uv?zs=7CKcRUceTCK7hrSL8ZGa1w
+#EXTINF:0,Unlimited80s Dot Com
+https://s01.azuracast.cl/radio/8020/stream/1/
 #EXTINF:0,Unser-Kellerradio-DD.de
 http://server4.streamserver24.com:21342/;
 #EXTINF:0,Urban Classics
@@ -6073,6 +6079,8 @@ http://sv10.hdradios.net:7206/stream/1/
 https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_20917_stream_482211098
 #EXTINF:0,Web Rádio Arroio Grande As Antigas Músicas do Passado
 https://stm1.srvif.com:7846/stream
+#EXTINF:0,Web Radio Chrisu
+http://stream.web-radio-chrisu.de:8100/;
 #EXTINF:0,Web Radio Conexao Flashback
 http://hts01.kshost.com.br:11882/stream/1/
 #EXTINF:0,Web Rádio Figueiró
