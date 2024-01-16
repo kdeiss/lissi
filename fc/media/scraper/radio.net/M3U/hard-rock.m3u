@@ -115,6 +115,8 @@ https://streams.deltaradio.de/delta-foehnfrisur/mp3-128/radiode/
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC322_SC
 #EXTINF:0,DistFM 
 https://ams1.reliastream.com/proxy/distfmsam192?mp=/stream
+#EXTINF:0,D-Rock Radio
+https://ais-edge106-live365-dal02.cdnstream.com/a07118
 #EXTINF:0,El TunelRock Online
 https://play10.tikast.com:20005/stream.mp3
 #EXTINF:0,Energy Rock Channel 
@@ -357,18 +359,16 @@ http://albireo.shoutca.st:8611/;stream.nsv
 https://s3.radio.co/sc8688da65/listen
 #EXTINF:0,Radio Regenbogen Classic Rock
 https://stream.regenbogen.de/classicrock/mp3-128/radiode
-#EXTINF:0,radio SAW - Rock Balladen
-https://stream.saw-musikwelt.de/saw-rock-balladen/mp3-192/stream.mp3
 #EXTINF:0,#Musik Metal
 https://metal-high.rautemusik.fm/;stream.nsv?ref=radiode
 #EXTINF:0,REGENBOGEN 2 Guns N' Roses
 https://stream.regenbogen2.de/gunsnroses/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Metal
-https://stream.regenbogen2.de/metal/aac-128/radiode
+https://stream.regenbogen2.de/metal/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Metallica
-https://stream.regenbogen2.de/metallica/aac-128/radiode
+https://stream.regenbogen2.de/metallica/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Classic Rock
-https://stream.regenbogen2.de/classicrock/aac-128/radiode
+https://stream.regenbogen2.de/classicrock/mp3-128/radiode
 #EXTINF:0,RGRadio
 https://www.radioking.com/play/rgradio1
 #EXTINF:0,Riff
@@ -399,6 +399,8 @@ https://rockhausradio.schlagerparadies.de/rockhausradio
 https://live-bauerse-fm.sharp-stream.com/rockklassiker_hardrock_aacp
 #EXTINF:0,Rock Lab Radio 
 http://node-16.zeno.fm:80/5fcz2fkbqtzuv
+#EXTINF:0,ROCKLAND.FM
+https://stream.radiosaw.de/rockland?ref=radiode
 #EXTINF:0,Rock Machine Radio
 https://media.profesionalhosting.com:8047/stream
 #EXTINF:0,Rock Melodic Radio
@@ -415,10 +417,10 @@ https://streaming.live365.com/a95163
 https://stream.oneplay.no/rox128
 #EXTINF:0,Roxx 2 Metal
 https://listen6.myradio24.com/6359
-#EXTINF:0,RPR1.Classic Rock
-https://stream.rpr1.de/rock/aac-128/radiode
-#EXTINF:0,RPR1.Heavy Metal
-https://stream.rpr1.de/metal/aac-128/radiode
+#EXTINF:0,RPR1. Classic Rock
+https://stream.rpr1.de/rock/mp3-128/radiode
+#EXTINF:0,RPR1. Heavy Metal
+https://stream.rpr1.de/metal/mp3-128/radiode
 #EXTINF:0,R.SA - Rockzirkus
 https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128/radiode/
 #EXTINF:0,SancaRock
@@ -437,8 +439,6 @@ http://listen.siradio.fm/1;listen.mp3
 https://drive.uber.radio/uber/sportifyhardrock/icecast.audio
 #EXTINF:0,Stahlradio
 https://saurus.streampanel.cloud:5280/stream
-#EXTINF:0,Stahlsender Webradio
-https://mpc2.mediacp.eu/stream/stahlsender
 #EXTINF:0,STAR FM From Hell
 https://stream.starfm.de/fromhell/mp3-192/radiode
 #EXTINF:0,STAR FM Hard Rock

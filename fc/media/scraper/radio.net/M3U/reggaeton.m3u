@@ -53,6 +53,8 @@ https://serverpro.zonaradio.net/8182/stream
 https://emisorasvirtuales.com.co:9024/live
 #EXTINF:0,Beats Online CR
 https://streamingv2.shoutcast.com/beats-online-cr
+#EXTINF:0,bigFM Dancehall/Reggae/Afrobeats
+https://stream.bigfm.de/dancehall/aac-128/stream.bigfm.de/
 #EXTINF:0,Bit Latin Radio
 https://guri.tepuyserver.net/8116/live
 #EXTINF:0,Blackbox Reggaeton
@@ -102,7 +104,7 @@ https://stream.zeno.fm/gccb52u87zhvv
 #EXTINF:0,Radio Company Reggaetown
 https://sphera.fluidstream.eu/companyreggaetown.mp3?FLID=7
 #EXTINF:0,88.2 FM CONTROL MUSIC
-https://stream.zenolive.com/47m7nuzbrfeuv
+https://stream.zenolive.com/47m7nuzbrfeuv.pls
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,Cyclone X Stereo
@@ -257,8 +259,6 @@ https://streaming.radiosenlinea.com.ar/8256/stream
 https://radio4.domint.net:8064/stream
 #EXTINF:0,La Bakana 103.1
 https://radio35.virtualtronics.com/proxy/labakana?mp=/stream
-#EXTINF:0,La Boom FM
-http://192.99.8.192:3630/stream/
 #EXTINF:0,La Capital del Sol
 https://listen.openstream.co/6529/audio
 #EXTINF:0,La 100 - Reggaetón
@@ -411,8 +411,6 @@ https://play.streamingcast.live/web/mixurbana
 https://stream.zeno.fm/2smqr2ttt5quv
 #EXTINF:0,Mobiloilstereo fm
 https://stream.zeno.fm/k3v16k5xk2zuv
-#EXTINF:0,Montaña 93.7 FM
-http://rs3.domint.net:8162/stream.mp3
 #EXTINF:0,Motiva FM
 https://stream.mediasector.es/radio/8120/motiva-HQ
 #EXTINF:0,MS RADIO CR
@@ -545,6 +543,8 @@ https://stream.zeno.fm/tzekzvgmvy8uv
 https://stream2.svrdedicado.org/8206/stream
 #EXTINF:0,Radiohit 99.7 Honduras
 http://stream.zeno.fm/cf7azhtr3qruv
+#EXTINF:0,Radio Honduras 504
+https://emisoras.hn:2000/stream/hn504
 #EXTINF:0,Radio Kiss 92.9 FM Matagalpa
 http://stream-41.zeno.fm/f7gh5r3m6s8uv?zs=L5h-pDN2Tyy_Jg0JACNiEw
 #EXTINF:0,Radio La Nueva 90.9 Fm
@@ -755,6 +755,8 @@ https://ice12.fluidstream.net/playstudio.aac
 https://streamer.radio.co/s7853f4581/listen
 #EXTINF:0,Voz Urbana Puerto Rico
 https://stream.zeno.fm/g4tem5kwrzzuv
+#EXTINF:0,W107
+https://emisoras.hn:2000/stream/w107
 #EXTINF:0,WAO FM
 https://sonic.paulatina.co:10888/stream/1/
 #EXTINF:0,WIND RADIO

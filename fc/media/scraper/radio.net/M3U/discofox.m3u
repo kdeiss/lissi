@@ -293,7 +293,7 @@ https://stream.laut.fm/soundwahn?ref=radiode
 https://stream.laut.fm/summerlove-radio?ref=radiode
 #EXTINF:0,SunRadioLive
 https://stream.laut.fm/sunradiolive?ref=radiode
-#EXTINF:0,Sunshinepartylive
+#EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
 #EXTINF:0,tanzbar
 https://stream.laut.fm/tanzbar?ref=radiode
@@ -313,6 +313,8 @@ http://stream.enet24.de:9600/stream/1/
 https://stream.laut.fm/magicexpressradio?ref=radiode
 #EXTINF:0,Mega Sound Arena
 https://stream.laut.fm/soundarena?ref=radiode
+#EXTINF:0,Miled Music Disco
+https://miledmusic26-cybertec.radioca.st/stream
 #EXTINF:0,Müritzradio
 http://88.198.175.30:5574/stream/1/
 #EXTINF:0,Musical Venture Radio
@@ -343,8 +345,6 @@ https://server7.streamserver24.com:61422/stream/1/
 https://s3.slotex.pl/shoutcast/7078/stream?sid=1
 #EXTINF:0,Radio Annett
 http://s10.streamingcloud.online:13550/stream/1/
-#EXTINF:0,Radio-Bass-Of-Melodie
-http://stream.tramp-cast.ch:8012/stream/1/
 #EXTINF:0,Radio Caramba
 https://streamingv2.shoutcast.com/Caramba
 #EXTINF:0,Radio-DD63
@@ -371,8 +371,10 @@ https://s5.stream-webradiotechnik.de:10652/stream/1/
 https://s1.genx-stream.de:7002
 #EXTINF:0,Radio Salü Urlaubsradio
 http://internetradio.salue.de:8000/schlagerparty
+#EXTINF:0,radio SAW Schlager
+https://stream.radiosaw.de/saw-schlager/mp3-192?ref=radiode
 #EXTINF:0,radio SAW Schlagerparty
-https://stream.saw-musikwelt.de/saw-schlagerparty/mp3-192?ref=radiode
+https://stream.radiosaw.de/saw-schlagerparty/mp3-192?ref=radiode
 #EXTINF:0,Radio Schlager-Pur
 https://server3.streamserver-unlimited.de:8359/stream
 #EXTINF:0,Radio SL
@@ -401,8 +403,6 @@ https://stream.laut.fm/schlagergarage?ref=radiode
 https://schlager-high.rautemusik.fm/?ref=radiode
 #EXTINF:0,schlager traum
 https://schlagertraumradio.de/icecast_stream.pls
-#EXTINF:0,Radio-Schlagerworld
-https://s14.streamcaster.eu:8075/stream
 #EXTINF:0,Radio-Shakerdance
 https://stream.radio-shakerdance.de:8002/listen1
 #EXTINF:0,Radio-Siebenbuergen Hauptstream

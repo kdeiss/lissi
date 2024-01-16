@@ -122,7 +122,7 @@ https://radio4.cdm-radio.com:18008/stream-mp3-Funk
 #EXTINF:0,Radio Côte Varoise
 https://radiocotevaroise.ice.infomaniak.ch/radiocotevaroise-128.mp3
 #EXTINF:0,Crescendo Music
-https://node-32.zeno.fm/hxm059zh0wzuv?rj-ttl=5&rj-tok=AAABc1eLcPUA4tsqmQlKAISe1Q
+http://stream.zeno.fm/sbkvch4tzwzuv
 #EXTINF:0,Cyber Soul Radio
 https://ec3.yesstreaming.net:2985/stream
 #EXTINF:0,Cyber Vybez Radio
@@ -194,7 +194,7 @@ https://noasrv.caster.fm:10156/live
 #EXTINF:0,FG. disco funk.
 https://stream.rcs.revma.com/cpkhx08pq18uv
 #EXTINF:0,FIP autour du groove
-https://direct.fipradio.fr/live/fip-webradio3.mp3?ID=pd569ib97j
+https://icecast.radiofrance.fr/fipgroove-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,Fishnet Radio
 https://stream.radio.co/s74e130a62/listen
 #EXTINF:0,Flava107.Com
@@ -647,6 +647,8 @@ http://streaming.livespanel.com:2162/stream
 https://listen.radioking.com/radio/7027/stream/16292
 #EXTINF:0,Radio M's
 https://www.radioking.com/play/radio-ms
+#EXTINF:0,RADIONOTE
+https://eu.publicssl.net/7008/.m3u
 #EXTINF:0,Radio Nova
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:0,Radio Nova Bordeaux
@@ -681,8 +683,6 @@ https://share.xdevel.com/player/1955
 https://ec6.yesstreaming.net:1345/stream
 #EXTINF:0,Radio Roža
 https://stream.radio-roza.org/live.mp3
-#EXTINF:0,radio SAW 70er
-https://stream.saw-musikwelt.de/saw-70er/mp3-128/radiode/stream.mp3
 #EXTINF:0,Radio Show
 https://www.radioking.com/play/radio-show
 #EXTINF:0,Hitz Fm
@@ -744,7 +744,7 @@ https://stream.laut.fm/seventiesberlin?ref=radiode
 #EXTINF:0,Shake!FM
 https://stream.shakefm.de/live/mp3-192/radiode
 #EXTINF:0,Siderall Web Radio
-http://stm50.srvstm.com:16360/stream/1/
+https://stm20.xcast.com.br:9662/stream
 #EXTINF:0,SK-RADIO
 https://listen.myrh.ru/sk-radio
 #EXTINF:0,Skylegend
@@ -867,6 +867,8 @@ https://streaming.coollective.nl:8443/UbuntuFMdance
 https://s11.ssl-stream.com/ssl/unchainedradio?mp=/stream
 #EXTINF:0,Unchained Radio
 https://s11.ssl-stream.com/ssl/unchainedradio?mp=/stream
+#EXTINF:0,Underground Web Radio
+https://stream.zeno.fm/cnuyr21s1f8uv
 #EXTINF:0,Universal Soul Radio
 https://fra-pioneer08.dedicateware.com:1865/stream
 #EXTINF:0,UP RADIO

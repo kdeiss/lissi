@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:0,1A Deutsche Hits
+https://stream.saw-musikwelt.de/saw-deutsch/mp3-192?ref=radiode
 #EXTINF:0,1A Pop
 https://1a-pop.radionetz.de/1a-pop.mp3
-#EXTINF:0,bigFM CHARTS
-https://stream.bigfm.de/charts/aac-128/radiode
-#EXTINF:0,bigFM Deutsche Hip-Hop Charts
-https://stream.bigfm.de/hiphopcharts/aac-128/radiode
+#EXTINF:0,bigFM Charts
+https://stream.bigfm.de/charts/mp3-128/radiode
+#EXTINF:0,bigFM Deutscher Hip-Hop Charts
+https://stream.bigfm.de/hiphopcharts/mp3-128/radiode
 #EXTINF:0,bigFM TikTok Charts
 https://stream.bigfm.de/tiktokcharts/mp3-128/radiode
 #EXTINF:0,bigGPT
@@ -27,11 +29,29 @@ https://0n-gay.radionetz.de/0n-gay.mp3
 https://0n-hot.radionetz.de/0n-hot.mp3
 #EXTINF:0,ON Radio
 https://0n-radio.radionetz.de/0n-radio.mp3
+#EXTINF:0,radio SAW
+https://stream.radiosaw.de/saw/mp3-192?ref=radiode
+#EXTINF:0,radio SAW (Anhalt/Wittenberg)
+https://stream.radiosaw.de/saw-anhalt-wittenberg/mp3-192?ref=radiode
+#EXTINF:0,radio SAW (Halle/Leipzig)
+https://stream.radiosaw.de/saw-halle-leipzig/mp3-192?ref=radiode
+#EXTINF:0,radio SAW (Harz/Niedersachsen)
+https://stream.radiosaw.de/saw-harz-niedersachsen/mp3-192?ref=radiode
+#EXTINF:0,radio SAW Hits für Kids
+https://stream.radiosaw.de/saw-kids/mp3-192?ref=radiode
+#EXTINF:0,radio SAW - In The Mix
+https://stream.saw-musikwelt.de/saw-in-the-mix/mp3-192?ref=radiode
+#EXTINF:0,radio SAW (Magdeburg/Altmarkt)
+https://stream.radiosaw.de/saw-magdeburg-altmark/mp3-192?ref=radiode
+#EXTINF:0,radio SAW Neuheiten
+https://stream.radiosaw.de/saw-neuheiten/mp3-192?ref=radiode
+#EXTINF:0,radio SAW Party
+https://stream.radiosaw.de/saw-party/mp3-192?ref=radiode
 #EXTINF:0,REGENBOGEN 2 Modern Rock
-https://stream.regenbogen2.de/modernrock/aac-128/radiode
+https://stream.regenbogen2.de/modernrock/mp3-128/radiode
 #EXTINF:0,RPR1. Modern Pop
 https://stream.rpr1.de/modernpop/mp3-128/radiode
-#EXTINF:0,RPR1.Top50
-https://stream.rpr1.de/top50/mp3-128/radiode
+#EXTINF:0,RPR1. Top50
+https://audiotainment-sw.streamabc.net/atsw-top50-aac-128-8845536?sABC=659srs4p%231%2301432o5roo68458oo11244s1462ro613%23ubzrcntr&mode=preroll&aw_0_1st.skey=1704980300&cb=368505041&aw_0_req.userConsentV2=undefined&aw_0_1st.playerid=rpr1_web&listenerid=01432b5ebb68458bb11244f1462eb613&metaid=01432b5ebb68458bb11244f1462eb613&amsparams=playerid:homepage;skey:1704980300
 #EXTINF:0,Schreiters-Musik-Studio
 http://server29165.streamplus.de:11346/;

@@ -141,8 +141,6 @@ https://stream.zeno.fm/d5apx0ntfzzuv
 https://shalomstar.com:2199/tunein/shaihitz.pls
 #EXTINF:0,AFTV Radio
 https://stream.zeno.fm/4p3md467ytzuv
-#EXTINF:0,Air06
-https://listen.radioking.com/radio/10938/stream/22037
 #EXTINF:0,Airstrike Radio
 http://net1.citrus3.com:8576/stream/1/
 #EXTINF:0,Alabama Hott Radio
@@ -159,6 +157,8 @@ https://allzic10.ice.infomaniak.ch/allzic10.mp3
 https://streaming.live365.com/a72559
 #EXTINF:0,Antenne Münster - Dein HipHop Radio
 https://stream.lokalradio.nrw/4458cn9
+#EXTINF:0,Antenna Network
+https://stream.laut.fm/antenna-network?ref=radiode
 #EXTINF:0,Antenne AC - Dein HipHop Radio
 https://stream.antenneac.de/4458bth
 #EXTINF:0,ANTENNE BAYERN - Black Music
@@ -224,39 +224,39 @@ http://s5.radio.co/s6ced31cad/listen.m3u
 #EXTINF:0,@BigBoxRadio | The BOX (WBBR-DB)
 https://streaming.live365.com/a91412
 #EXTINF:0,bigFM
-https://stream.bigfm.de/deutschland/aac-128/radiode
+https://stream.bigfm.de/deutschland/mp3-128/radiode
 #EXTINF:0,bigFM Apache 207
 https://stream.bigfm.de/apache207/mp3-128/radiode
 #EXTINF:0,bigFM Baden-Württemberg
 https://stream.bigfm.de/bw/mp3-128/radiode
 #EXTINF:0,bigFM Berlin
-https://stream.bigfm.de/berlin/aac-64/radiode
+https://stream.bigfm.de/berlin/mp3-128/radiode
 #EXTINF:0,bigFM Bremen
 https://stream.bigfm.de/bremen/mp3-128/radiode
-#EXTINF:0,bigFM Deutsche Hip-Hop Charts
-https://stream.bigfm.de/hiphopcharts/aac-128/radiode
+#EXTINF:0,bigFM Deutscher Hip-Hop Charts
+https://stream.bigfm.de/hiphopcharts/mp3-128/radiode
 #EXTINF:0,bigFM Deutschrap
-https://stream.bigfm.de/deutschrap/aac-128/radiode
-#EXTINF:0,bigFM GROOVENIGHT
-https://stream.bigfm.de/groovenight/aac-128/radiode
+https://stream.bigfm.de/deutschrap/mp3-128/radiode
+#EXTINF:0,bigFM Groovenight - HipHop DJ Mix
+https://stream.bigfm.de/groovenight/mp3-128/radiode
 #EXTINF:0,bigFM Hamburg
-https://stream.bigfm.de/hamburg/mp3-128/radiode/
-#EXTINF:0,bigFM HIP-HOP
-https://stream.bigfm.de/hiphop/aac-128/radiode
+https://stream.bigfm.de/hamburg/mp3-128/radiode
+#EXTINF:0,bigFM Hip-Hop
+https://stream.bigfm.de/hiphop/mp3-128/radiode
 #EXTINF:0,bigFM Niedersachsen
 https://stream.bigfm.de/niedersachsen/mp3-128/radiode
 #EXTINF:0,bigFM Nordrhein-Westfalen
 https://stream.bigfm.de/nrw/mp3-128/radiode
 #EXTINF:0,bigFM Oldschool Rap & Hip-Hop
-https://stream.bigfm.de/oldschoolrap/aac-128/radiode
+https://stream.bigfm.de/oldschoolrap/mp3-128/radiode/
 #EXTINF:0,bigFM Oldschool Deutschrap
-https://stream.bigfm.de/oldschooldeutschrap/aac-128/radiode
+https://stream.bigfm.de/oldschooldeutschrap/mp3-128/radiode
 #EXTINF:0,bigFM Rheinland-Pfalz
-https://streams.bigfm.de/deutschland/128-mp3/radiode
-#EXTINF:0,bigFM RNB
-https://stream.bigfm.de/rnb/aac-128/radiode
-#EXTINF:0,bigFM US RAP & HIP-HOP
-https://stream.bigfm.de/ushiphop/mp3-128/radiode
+https://stream.bigfm.de/rlp/mp3-128/radiode
+#EXTINF:0,bigFM RnB
+https://stream.bigfm.de/rnb/mp3-128/radiode
+#EXTINF:0,bigFM US Rap & Hip-Hop
+https://stream.bigfm.de/ushiphop/mp3-128/radiode/
 #EXTINF:0,Biggs Radio Indianapolis
 https://c13.radioboss.fm:18124/stream
 #EXTINF:0,BIG Hiphop & RnB
@@ -509,8 +509,6 @@ http://s4.voscast.com:8370/;
 https://stream.radio.co/s4ae4ea1dc/listen
 #EXTINF:0,DJ KIDNU RADIO
 https://stream.radio.co/s4ae4ea1dc/listen
-#EXTINF:0,DJ M Breeze Radio
-https://streaming.live365.com/a17098
 #EXTINF:0,Dj Nic Music
 https://wupn864.out.airtime.pro/wupn864_a?_ga=2.185339433.1609580828.1636862335-425292757.1612150893
 #EXTINF:0,DJ Radio Romania
@@ -592,7 +590,7 @@ https://s5.radio.co/s0d6262001/listen
 #EXTINF:0,Fashion District Radio
 https://sv2.famcast.co.za/proxy/frd?mp=/stream
 #EXTINF:0,FIP autour du groove
-https://direct.fipradio.fr/live/fip-webradio3.mp3?ID=pd569ib97j
+https://icecast.radiofrance.fr/fipgroove-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,WPOD 106.3 First Up Radio
 https://cast6.asurahosting.com/tunein/first_up_radio_106.pls
 #EXTINF:0,Flava
@@ -667,8 +665,6 @@ http://91.121.156.27:8009/stream
 https://stream.zeno.fm/k34m4hfa8f0uv
 #EXTINF:0,GD UP Radio
 http://162.244.80.106:11120/;
-#EXTINF:0,Gems Radio 
-https://stream.gemsradio.net:8000/stream.mp3
 #EXTINF:0,Générations 88.2
 https://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 #EXTINF:0,Générations - EMBN
@@ -734,7 +730,7 @@ https://streaming.radio.co/s25550b002/listen
 #EXTINF:0,Helia
 https://audio.opensky.radio:7443/listen/test/public.mp3
 #EXTINF:0,Helia - Hits 2021
-https://audio.lucaslempereur.fr/hits2021
+https://node-01.zeno.fm/gt2n16pmmm0uv
 #EXTINF:0,Hellweg Radio - Dein HipHop Radio
 https://stream.lokalradio.nrw/4458d3q
 #EXTINF:0,HILLCHILL
@@ -1779,8 +1775,6 @@ http://us1.streamingpulse.com:8122/stream
 https://stream.zeno.fm/2nmszjoo2zvuv
 #EXTINF:0,Omroep Juraini
 http://server-24.stream-server.nl/stream/JurainiRadio
-#EXTINF:0,OnAfro
-https://servidor29.brlogic.com:7058/live
 #EXTINF:0,ON Black
 https://0n-black.radionetz.de/0n-black.mp3
 #EXTINF:0,ON Deutsch Rap 
@@ -1836,7 +1830,7 @@ http://37.59.47.192:8688/;stream.mp3
 #EXTINF:0,Outlaw-Radio
 http://69.64.46.54:8000/stream.mp3
 #EXTINF:0,97.7 Outlaw Radio FM – CKOR-DB
-https://stream.zeno.fm/9tgz3p9cswzuv
+http://stream.zeno.fm/9tgz3p9cswzuv
 #EXTINF:0,Rádio Oxigénio
 https://proic1.evspt.com/oxigenio_aac
 #EXTINF:0,OZ Radio
@@ -1947,8 +1941,6 @@ https://jonasfalkestedt.radioca.st/stream
 https://stream.pvpjamz.com
 #EXTINF:0,Q96 THE BEAT
 https://streaming.live365.com/a31045
-#EXTINF:0,Q-Bradeira Black 
-https://s10.w3bserver.com/radio/8130/radio.mp3
 #EXTINF:0,QSKY Radio
 https://streaming.live365.com/a25372
 #EXTINF:0,R2V - La Radio 2 Valenciennes
@@ -1983,8 +1975,6 @@ https://stream.lokalradio.nrw/44589zq
 https://streaming.live365.com/a53075
 #EXTINF:0,radioaktiv
 http://stream.radioaktiv.org:8233/VeryHiFi
-#EXTINF:0,Radio AleKanal!
-http://radio.alekanal.com:8000/alekanal
 #EXTINF:0,Radio Andromeda
 https://c11.radioboss.fm:18071/stream
 #EXTINF:0,A&O Radio
@@ -2103,8 +2093,8 @@ https://www.radioking.com/play/radio-raptz/78175
 https://www.radioking.com/play/radio-rbs-1
 #EXTINF:0,Radio Record Маятник Фуко
 https://radiorecord.hostingradio.ru/mf96.aacp
-#EXTINF:0,Radio Regenbogen - Hip-Hop and R’n‘B
-https://stream.regenbogen.de/hiphop/aac-128/radiode
+#EXTINF:0,Radio Regenbogen Hip-Hop and R'n'B
+https://stream.regenbogen.de/hiphop/mp3-128/radiode
 #EXTINF:0,Radio ReyMod
 https://server.streamcasthd.com:7092/stream/1/
 #EXTINF:0,Radio Roberto Solo Emergenti
@@ -2119,10 +2109,8 @@ https://node-01.zeno.fm/cwenv3ce9yzuv.aac?
 https://stream.lokalradio.nrw/4458b3s
 #EXTINF:0,100% Hiphop - Radios 100FM
 https://gb25.streamgates.net/radios-audio/100Hiphop/playlist.m3u8
-#EXTINF:0,radio SAW 2000er
-https://stream.saw-musikwelt.de/saw-2000er/mp3-128/radiode/stream.mp3
 #EXTINF:0,radio SAW Urban Music
-https://stream.saw-musikwelt.de/saw-urban/mp3-128/radiode/stream.mp3
+https://stream.radiosaw.de/saw-urban/mp3-192?ref=radiode
 #EXTINF:0,Radio Siegen - Dein HipHop Radio
 https://stream.lokalradio.nrw/4458czn
 #EXTINF:0,Radio Soho Tampere
@@ -2458,11 +2446,15 @@ https://cast4.asurahosting.com/proxy/thekultu/stream
 #EXTINF:0,The Move 93-5
 https://newcap.leanstream.co/CFXJFM
 #EXTINF:0,The NU Vibe Radio
-https://listen.openstream.co/7203/audio
+https://snapdismedia.stream/listen/wnuv/radio.mp3
 #EXTINF:0,thesoullounge
 https://streaming.live365.com/a38845
+#EXTINF:0,The Soul Lounge Cafe
+https://ice26.securenetsystems.net/WSLC
 #EXTINF:0,105.1 the spot
 http://www.fleetradionetwork.com:8221/autodj
+#EXTINF:0,The UnderGround Music Report
+https://s5.radio.co/sf3dfafe49/listen
 #EXTINF:0,THE VIBELYFE RADIO
 https://streaming.live365.com/a40412
 #EXTINF:0,tilala.net
@@ -2617,8 +2609,6 @@ http://patmos.cdnstream.com:9617/1?aw_0_req.gdpr=true&cb=569251.mp3
 https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
 #EXTINF:0,WAZA The Touch 107.7 FM
 https://ice5.securenetsystems.net/WAZA
-#EXTINF:0,WBAP Bluntzville Radio
-https://streaming.live365.com/a59597
 #EXTINF:0,WBLX 93 BLX
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLXFMAAC_SC
 #EXTINF:0,WBOB Radio

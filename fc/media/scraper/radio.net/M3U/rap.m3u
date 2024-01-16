@@ -43,8 +43,6 @@ https://streamingV2.shoutcast.com/ABC-Rap
 https://streamingv2.shoutcast.com/aczino-radio
 #EXTINF:0,Afrique7 FM 90.7
 https://stream.zeno.fm/rnbifn09oqotv
-#EXTINF:0,Akuma’s Record
-https://radio-akuma.l-sad.xyz/listen/radio_akuma/radio.mp3
 #EXTINF:0,Alabama's Finest Radio
 http://alabamasfinest.net:8000/stream
 #EXTINF:0,ALI PARK RADIO
@@ -61,6 +59,8 @@ https://allzic01.ice.infomaniak.ch/allzic01.mp3
 http://onair20.xdevel.com:8346/;
 #EXTINF:0,Anim'a-Radio
 https://manager7.streamradio.fr:1095/stream
+#EXTINF:0,Apollo Radio
+https://ecmanager5.pro-fhi.net:1985/stream
 #EXTINF:0,ARENA
 https://radio.elmag.me/arena.mp3
 #EXTINF:0,ASO PICARDIE
@@ -81,24 +81,24 @@ https://radio.streemlion.com:2065/stream
 http://s5.radio.co/s6ced31cad/listen.m3u
 #EXTINF:0,bigFM Apache 207
 https://stream.bigfm.de/apache207/mp3-128/radiode
-#EXTINF:0,bigFM Deutsche Hip-Hop Charts
-https://stream.bigfm.de/hiphopcharts/aac-128/radiode
+#EXTINF:0,bigFM Deutscher Hip-Hop Charts
+https://stream.bigfm.de/hiphopcharts/mp3-128/radiode
 #EXTINF:0,bigFM Deutschrap
-https://stream.bigfm.de/deutschrap/aac-128/radiode
-#EXTINF:0,bigFM Deutschrap rasiert
-https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-6355201
-#EXTINF:0,bigFM GROOVENIGHT
-https://stream.bigfm.de/groovenight/aac-128/radiode
-#EXTINF:0,bigFM HIP-HOP
-https://stream.bigfm.de/hiphop/aac-128/radiode
+https://stream.bigfm.de/deutschrap/mp3-128/radiode
+#EXTINF:0,bigFM Deutschrap Rasiert
+https://stream.bigfm.de/rapfeature/mp3-128/radiode
+#EXTINF:0,bigFM Groovenight - HipHop DJ Mix
+https://stream.bigfm.de/groovenight/mp3-128/radiode
+#EXTINF:0,bigFM Hip-Hop
+https://stream.bigfm.de/hiphop/mp3-128/radiode
 #EXTINF:0,bigFM Oldschool Rap & Hip-Hop
-https://stream.bigfm.de/oldschoolrap/aac-128/radiode
+https://stream.bigfm.de/oldschoolrap/mp3-128/radiode/
 #EXTINF:0,bigFM Oldschool Deutschrap
-https://stream.bigfm.de/oldschooldeutschrap/aac-128/radiode
+https://stream.bigfm.de/oldschooldeutschrap/mp3-128/radiode
 #EXTINF:0,bigFM Snoop Dogg
 https://stream.bigfm.de/snoopdogg/mp3-128/radiode
-#EXTINF:0,bigFM US RAP & HIP-HOP
-https://stream.bigfm.de/ushiphop/mp3-128/radiode
+#EXTINF:0,bigFM US Rap & Hip-Hop
+https://stream.bigfm.de/ushiphop/mp3-128/radiode/
 #EXTINF:0,BigR - 108.1 JAMZ
 https://bigrradio.cdnstream1.com/5178_128
 #EXTINF:0,BigR - 101.1 The Beat
@@ -1380,7 +1380,7 @@ https://audio.opensky.radio:8082/stream
 #EXTINF:0,OTB Hip Hop 
 https://streaming.radionomy.com/OTBHipHopRadio
 #EXTINF:0,97.7 Outlaw Radio FM – CKOR-DB
-https://stream.zeno.fm/9tgz3p9cswzuv
+http://stream.zeno.fm/9tgz3p9cswzuv
 #EXTINF:0,OZ Radio
 http://192.111.140.11:8368/stream
 #EXTINF:0,PARTY VIBE RADIO Dubstep
@@ -1407,6 +1407,8 @@ https://stream.powerhitradio.lt/PHR_GOLD_AAC
 https://listen.openstream.co/3137/audio
 #EXTINF:0,Pricilla R
 https://prici.radioca.st/stream
+#EXTINF:0,PVPJamz
+https://stream.pvpjamz.com
 #EXTINF:0,R2V - La Radio 2 Valenciennes
 http://manager8.streamradio.fr:3090/stream
 #EXTINF:0,Rádio 105 FM
@@ -1465,16 +1467,12 @@ http://213.202.241.199:8856/stream/1/
 http://nr5.newradio.it:8595/stream/1/
 #EXTINF:0,Radio RapTz
 https://www.radioking.com/play/radio-raptz/78175
-#EXTINF:0,Radio Regenbogen - Hip-Hop and R’n‘B
-https://stream.regenbogen.de/hiphop/aac-128/radiode
+#EXTINF:0,Radio Regenbogen Hip-Hop and R'n'B
+https://stream.regenbogen.de/hiphop/mp3-128/radiode
 #EXTINF:0,Radio Saint Affrique
 http://stream.radios-arra.fr:8000/stafrique
 #EXTINF:0,Radio-Satisfaction
 http://dsl.rasat.tv:8910/stream
-#EXTINF:0,radio SAW 90er
-https://stream.saw-musikwelt.de/saw-90er/mp3-128/radiode/stream.mp3
-#EXTINF:0,radio SAW Urban Music
-https://stream.saw-musikwelt.de/saw-urban/mp3-128/radiode/stream.mp3
 #EXTINF:0,Radio SCOOP - Rap
 https://scooprap.ice.infomaniak.ch/radioscoop-rap-64.aac
 #EXTINF:0,Radio Star Rap Marseille

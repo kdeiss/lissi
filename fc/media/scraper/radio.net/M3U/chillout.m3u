@@ -403,8 +403,6 @@ http://comet.shoutca.st:8352/stream
 https://stream.rcs.revma.com/uyrbt6xuhnruv
 #EXTINF:0,Deeper Shades Radio Network
 https://radio.deepershades.net/listen.pls
-#EXTINF:0,Deep House Lounge
-http://198.15.94.34:8006/stream/1/
 #EXTINF:0,Deep Motion FM
 https://vm.motionfm.com/motionone_free
 #EXTINF:0,deepradio.live
@@ -617,6 +615,8 @@ https://stream.zeno.fm/a7w0v7bsm4duv
 https://pureplay.cdnstream1.com/6016_64.aac/playlist.m3u8
 #EXTINF:0,GotRadio - Smooth Jazz
 https://pureplay.cdnstream1.com/6049_64.aac/playlist.m3u8
+#EXTINF:0,1st Greek New Age Radio
+https://stream-152.zeno.fm/9yu82xwmdc9uv?duplicate
 #EXTINF:0,Groovecafe The Chillout Experience 
 https://streamingV2.shoutcast.com/GroovecafeAperitif
 #EXTINF:0,Groove Salad
@@ -1150,7 +1150,7 @@ http://178.251.230.144:8000/highend
 #EXTINF:0,Moka Tunes
 https://admin.mokatunes.com/radio/8000/radio.mp3
 #EXTINF:0,Monte Carlo Lounge 
-https://radio2.vip-radios.fm:18074/stream-mp3-CoolMusic
+https://c25.radioboss.fm:8232/stream
 #EXTINF:0,Moonradio
 http://162.244.80.106:11620/stream/1/
 #EXTINF:0,KRKQ - Mountain Chill 95.5 FM
@@ -1449,18 +1449,16 @@ https://stream.zeno.fm/0e48x1g7608uv
 https://strm.radionula.com/lounge
 #EXTINF:0,Radio Oberhausen - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zvhp
-#EXTINF:0,Radio Obozrevatel Lounge
-https://radio-stream-0.obozrevatel.com/LOUNGE128.mp3
 #EXTINF:0,Radio Record 2-step
 https://radiorecord.hostingradio.ru/2step96.aacp
 #EXTINF:0,Radio Record Innocence
 https://radiorecord.hostingradio.ru/ibiza96.aacp
 #EXTINF:0,RADIO Reeperbahn - Lounge
 http://188.138.9.183/reeperbahn.mp3
-#EXTINF:0,Radio Regenbogen Südbaden
-https://stream.regenbogen.de/freiburg/mp3-128/radiode
-#EXTINF:0,Radio Regenbogen - Unplugged
-https://stream.regenbogen.de/unplugged/aac-128/radiode
+#EXTINF:0,Radio Regenbogen Soft and Lazy
+https://stream.regenbogen.de/softlazy/mp3-128/radiode
+#EXTINF:0,Radio Regenbogen Unplugged
+https://stream.regenbogen.de/unplugged/mp3-128/radiode
 #EXTINF:0,Radio Relax Cafe
 https://online.radiorelax.ua/RadioRelax_Cafe
 #EXTINF:0,Radio Relax Instrumental - Музика без слів
@@ -1484,7 +1482,7 @@ https://gb25.streamgates.net/radios-audio/100Relax/playlist.m3u8
 #EXTINF:0,Radio Sauerland - Dein Lounge Radio
 https://stream.lokalradio.nrw/444zt8p
 #EXTINF:0,radio SAW Relax
-https://stream.saw-musikwelt.de/saw-relax/mp3-192?ref=radiode
+https://stream.radiosaw.de/saw-relax/mp3-192?ref=radiode
 #EXTINF:0,Radio Siegen - Dein Lounge Radio
 https://stream.lokalradio.nrw/445dqmd
 #EXTINF:0,RadioSOL International
@@ -1569,8 +1567,8 @@ https://s37.derstream.net/robinsonfm.mp3
 https://n.rootslegacy.fr/stream/1/
 #EXTINF:0,Roots-N-Culture #Worldwide Radio
 https://listen.radionomy.com/mundial-roots-n-cultureworldwide
-#EXTINF:0,RPR1.Acoustic
-https://stream.rpr1.de/acoustic/aac-128/radiode
+#EXTINF:0,RPR1. Acoustic
+https://stream.rpr1.de/acoustic/mp3-128/radiode
 #EXTINF:0,RPR1. Chillout
 https://stream.rpr1.de/chillout/mp3-128/radiode
 #EXTINF:0,RPR1. Yoga Sounds

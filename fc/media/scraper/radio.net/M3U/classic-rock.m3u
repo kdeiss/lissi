@@ -271,8 +271,6 @@ https://bigrradio.cdnstream1.com/5155_128
 https://bigrradio.cdnstream1.com/5166_128
 #EXTINF:0,Boomer Web Radio
 https://us2.maindigitalstream.com/ssl/KOBMA
-#EXTINF:0,BP Radio Classic
-https://rs.bpgn.xyz/listen/hits/low
 #EXTINF:0,Cabeceira Online Radio
 https://servidor34.brlogic.com:7148/live
 #EXTINF:0,Cadena Dial 91.7 FM
@@ -655,8 +653,6 @@ http://listen.radionomy.com/jpradio
 https://listen.radionomy.com/jpradioclassicrock
 #EXTINF:0,JT Radio
 https://streaming.live365.com/a47781
-#EXTINF:0,Estación K2
-https://01.solumedia.com.ar:8852/stream
 #EXTINF:0,K 96.3
 https://newcap.leanstream.co/CKKOFM
 #EXTINF:0,K-97 Classic Rock
@@ -831,6 +827,8 @@ https://streaming.live365.com/a39754
 http://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3
 #EXTINF:0,VOCM K-Rock 97.5 FM
 https://newcap.leanstream.co/VOCMFM
+#EXTINF:0,K-Rock Europe
+http://tv.radiohosting.online:8982/stream
 #EXTINF:0,KROR - Classic Rock 101.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRORFM.mp3
 #EXTINF:0,KRSE 105.7 The Hawk
@@ -873,6 +871,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX The Wolf 96.7 FM
 https://ice.wbcengineering.com:8121/stream
 #EXTINF:0,KWSA / KSLL 100.1 FM & 1080 AM
@@ -1056,7 +1056,7 @@ http://s3.we4stream.com:8045/liv?2
 #EXTINF:0,Locaza fm
 https://sonicpanel.tmcreativos.com/8056/stream
 #EXTINF:0,Lovica FM
-https://stream.zeno.fm/d5u3pu1sknruv
+http://stream.zeno.fm/d5u3pu1sknruv
 #EXTINF:0,LT3 Late
 https://playerservices.streamtheworld.com/api/livestream-redirect/LT3AAC.aac
 #EXTINF:0,CRIK FM - The Lynx Classic Rock
@@ -1092,7 +1092,7 @@ https://quincy.torontocast.com:1505/stream
 #EXTINF:0,Metro Country ROCK Radio
 https://eu1.reliastream.com/proxy/msrr?mp=/MSRR
 #EXTINF:0,Radio Mezcalito
-https://stream.zenolive.com/7g52z86342quv
+http://stream.zenolive.com/7g52z86342quv
 #EXTINF:0,Miami Paradise Radio
 https://halo.streamerr.co/radio/8140/radio.mp3
 #EXTINF:0,Milano XR
@@ -1437,10 +1437,10 @@ https://stream.lokalradio.nrw/44577rh
 https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8
 #EXTINF:0,Radio Safari Mix Acomayo
 https://stream-47.zeno.fm/1y4mfd97xf8uv?zs=oBbQ0c0aRc-ZLcVvBXshtA
-#EXTINF:0,radio SAW Rock Balladen
-https://stream.radiosaw.de/saw-rock-balladen/mp3-192?ref=radiode
+#EXTINF:0,radio SAW Rock Alternative
+https://stream.radiosaw.de/saw-rock-alternative/mp3-192?ref=radiode
 #EXTINF:0,radio SAW Rock Classic
-https://stream.saw-musikwelt.de/saw-rock-classic/mp3-192?ref=radiode
+https://stream.radiosaw.de/saw-rock-classic/mp3-192?ref=radiode
 #EXTINF:0,Radio SB FM Parepare
 https://stream.zeno.fm/yvkfn7y994zuv
 #EXTINF:0,Radio Shadow Deep Tracks
@@ -1496,7 +1496,7 @@ https://gains.reviveradio.net/proxy/rafaradio?mp=/stream
 #EXTINF:0,RDMIX CLASSIC ROCK
 https://cast1.torontocast.com:4610/stream
 #EXTINF:0,Real Rebel Radio
-https://cleo.shoutca.st/radio/8020/radio.mp3
+https://halo.streamerr.co/listen/real_rebel_radio/radio.mp3
 #EXTINF:0,Real Rock Radio WBER
 https://realrockradio.stream.laut.fm/realrockradio
 #EXTINF:0,RecRadioNation
@@ -1507,10 +1507,10 @@ https://live.zuperdns.net:7004/;stream.mp3
 https://stream.regenbogen2.de/70errock/aac-128/radiode
 #EXTINF:0,REGENBOGEN 2 - 80S ROCK
 https://stream.regenbogen2.de/80errock/aac-128/radiode
-#EXTINF:0,REGENBOGEN 2 90ER ROCK
+#EXTINF:0,REGENBOGEN 2 90er ROCK
 https://stream.regenbogen2.de/90errock/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Classic Rock
-https://stream.regenbogen2.de/classicrock/aac-128/radiode
+https://stream.regenbogen2.de/classicrock/mp3-128/radiode
 #EXTINF:0,Rela Radio
 https://s19.myradiostream.com/:15508/;
 #EXTINF:0,República Retro
@@ -1538,7 +1538,7 @@ http://87.98.245.250:8210/;
 #EXTINF:0,Radio Ritmo
 https://wma01.fluidstream.net:8080/ritmo.aac
 #EXTINF:0,Radio Ritoque 102.5 FM
-http://200.24.229.253:8090/stream/1/
+https://archi-us.digitalproserver.com/ritoquefm_aac
 #EXTINF:0,RMF Classic Rock
 https://rs202-krk.rmfstream.pl/CLASSICROCK?aw_0_req.gdpr=true&aw_0_req.userConsentV2=CPVRPM5PVRPM5FKACAPLCDCsAP_AAEPAAB5YIltf_X__bX9j-_5_f_t0eY1P9_r3v-QzjhfNt-8F3L_W_L0X42E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzHsak2cpyNKJ7LEmnMZO2dYGHtPn9lDuYKY7_7___fz3j-v_t_-39T378X_3_d5_2---vCfV599zLv9____39nP___9v-_9_____4IhgEmGpeQBdiWODJtGlUKIEYVhIVAKACigGFoisAHBwU7KwCfUELABCagIwIgQYgowYBAAIBAEhEQEgBYIBEARAIAAQAowEIACJgEFgBYGAQACgGhYgBQACBIQZHBUcpgQESLRQS2ViCUFexphAGWWAFAojIqABEoQQLAyEhYOY4AkBLhZIFmKF8gAAAAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
 #EXTINF:0,RMF Polski Rock
@@ -1561,8 +1561,8 @@ https://ais-sa1.streamon.fm/7159_48k.aac/playlist.m3u8
 http://maggie.torontocast.com:8142/stream/1/
 #EXTINF:0,Rock 92.5 The ZUU
 http://crystalout.surfernetwork.com:8001/WZUU_MP3
-#EXTINF:0,Rock am Ring
-https://stream.bigfm.de/rockamring/aac-128/radiode
+#EXTINF:0,bigFM Rock
+https://stream.bigfm.de/rockamring/mp3-128/radiode
 #EXTINF:0,Rock And Roll Through Time
 https://streaming.live365.com/a29700
 #EXTINF:0,ROCK ANTENNE
@@ -1605,6 +1605,8 @@ https://cast4.asurahosting.com/proxy/dan12/stream
 https://tx-bauerse.sharp-stream.com/http_live.php?i=rockklassiker_instream_se_mp3
 #EXTINF:0,Rockland Radio - Bad Kreuznach
 https://streams.rockland.de/badkreuz/mp3-128/radiode/
+#EXTINF:0,ROCKLAND.FM
+https://stream.radiosaw.de/rockland?ref=radiode
 #EXTINF:0,Rock Live 365
 https://streaming.live365.com/a73243
 #EXTINF:0,Rock Melodic Radio
@@ -1655,14 +1657,14 @@ https://streaming.live365.com/a95163
 https://stream.zeno.fm/qvvr14d4g3quv
 #EXTINF:0,Rondo Classic - Klasu Pro
 http://stream.iradio.fi:8000/klasupro-hi.mp3
-#EXTINF:0,RPR1.70er Rock
-https://stream.rpr1.de/70errock/aac-128/radiode
-#EXTINF:0,RPR1.90er Rock
-https://stream.rpr1.de/90errock/aac-128/radiode
-#EXTINF:0,RPR1.Classic Rock
-https://stream.rpr1.de/rock/aac-128/radiode
-#EXTINF:0,RPR1.Heavy Metal
-https://stream.rpr1.de/metal/aac-128/radiode
+#EXTINF:0,RPR1. 70er Rock
+https://stream.rpr1.de/70errock/mp3-128/radiode
+#EXTINF:0,RPR1. 90er Rock
+https://stream.rpr1.de/90errock/mp3-128/radiode
+#EXTINF:0,RPR1. Classic Rock
+https://stream.rpr1.de/rock/mp3-128/radiode
+#EXTINF:0,RPR1. Heavy Metal
+https://stream.rpr1.de/metal/mp3-128/radiode
 #EXTINF:0,R.SA Classic Rock
 https://streams.rsa-sachsen.de/classicrock/mp3-192/radiode/
 #EXTINF:0,R.SH Weihnachtsmix
@@ -2127,6 +2129,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WPBBFMAACHI_SC
 http://stream.abacast.net/direct/townsquare-wpdhfmaac-ibc3
 #EXTINF:0,WPDH - WPDH 101.5 FM
 http://stream.abacast.net/direct/townsquare-wpdhfmaac-ibc3
+#EXTINF:0,WPGS 840 AM
+http://64.24.74.20:8000/wpgs.m3u
 #EXTINF:0,WPKE / WEKB Classic Rock 103.1 FM & 1240 / 1460 AM
 https://ice24.securenetsystems.net/WPKE?playSessionID=812111D3-D603-5902-6F305CF931C572B0
 #EXTINF:0,WPMD
