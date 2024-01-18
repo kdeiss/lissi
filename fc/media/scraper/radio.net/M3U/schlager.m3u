@@ -49,8 +49,6 @@ https://pub0302.101.ru:8443/stream/pro/aac/64/57
 https://pub0301.101.ru:8443/stream/pro/aac/64/153
 #EXTINF:0,101.ru: Russian Songs Русские Песни
 https://pub0102.101.ru:8443/stream/pro/aac/64/41
-#EXTINF:0,1A Deutsche Hits
-https://stream.1a-webradio.de/saw-deutsch/mp3-128/radiode-1A/stream.mp3
 #EXTINF:0,1A Deutsch Pop
 https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3
 #EXTINF:0,1A Party
@@ -1797,7 +1795,7 @@ https://stream.laut.fm/studiolippstadtparty?ref=radiode
 https://stream.laut.fm/sun-and-rain?ref=radiode
 #EXTINF:0,SunRadioLive
 https://stream.laut.fm/sunradiolive?ref=radiode
-#EXTINF:0,Sunshinepartylive
+#EXTINF:0,SunshinePartyLive
 https://stream.laut.fm/sunshinepartylive?ref=radiode
 #EXTINF:0,Sunshine Radio
 https://stream.laut.fm/sunshine-radio?ref=radiode
@@ -1815,8 +1813,6 @@ https://stream.laut.fm/the-loft/?ref=radiode
 https://stream.laut.fm/thorsradio2?ref=radiode
 #EXTINF:0,TINO
 https://stream.laut.fm/tino?ref=radiode
-#EXTINF:0,-tool-test-
-https://stream.laut.fm/-tool_test-?ref=radiode
 #EXTINF:0,TOP 75
 https://stream.laut.fm/top75?ref=radiode
 #EXTINF:0,tophits1
@@ -1953,10 +1949,8 @@ https://mdr-990701-0.sslcast.mdr.de/mdr/990701/0/aac/high/stream.aac?aggregator=
 https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,MDR SCHLAGERWELT Thüringen
 https://mdr-990601-0.sslcast.mdr.de/mdr/990601/0/aac/high/stream.aac?aggregator=radio-de
-#EXTINF:0,Megapark-Radio
-http://stream.bmr-radio.de
 #EXTINF:0,Megapark Beach Radio
-https://megapark.stream24.net/radio-megapark.mp3
+https://stream.bmr-radio.de/ballermann-radio.mp3
 #EXTINF:0,Mein Kinderradio
 https://stream01.zogl.net:8907/stream
 #EXTINF:0,Melodie for Music
@@ -1986,7 +1980,7 @@ https://stream.laut.fm/musikbude-ostheim?ref=radiode
 #EXTINF:0,Musik für Jedermann
 http://s10.streamingcloud.online:13470/stream
 #EXTINF:0,MUsikgartenradio der Garten der Musik
-https://charlysmusik.stream.laut.fm/charlysmusik
+https://s1.stream-world24.de:8402/html
 #EXTINF:0,Musikkaennchen 
 https://stream.laut.fm/musikkaennchen?ref=radiode
 #EXTINF:0,WEBRADIO MUSIKPARADIES
@@ -1995,8 +1989,6 @@ https://stream.tramp-cast.ch/8028/stream
 https://c02.lexycast.de:4350/;
 #EXTINF:0,Myhitmusic - LEAs FOX
 https://radio.myhitmusic.de/Leas-Fox-aac.mp3
-#EXTINF:0,My-Radio-On-The-Beat
-https://bayern.streampanel.cloud:10910/stream/1/
 #EXTINF:0,NDR 1 Welle Nord - Region Kiel
 https://icecast.ndr.de/ndr/ndr1wellenord/kiel/aac/low?aggregator=radio-de
 #EXTINF:0,NDR Schlager
@@ -2163,8 +2155,6 @@ https://schlager.securestream.radioaustria.at/schlager
 http://server34312.streamplus.de:11066/;
 #EXTINF:0,Radiobase.de 
 http://server23719.streamplus.de:21084/;
-#EXTINF:0,Radio-Bass-Of-Melodie
-http://stream.tramp-cast.ch:8012/stream/1/
 #EXTINF:0,Radio Berg - Dein Schlager Radio
 https://stream.lokalradio.nrw/445243f
 #EXTINF:0,Radio Bochum - Dein Schlager Radio
@@ -2257,6 +2247,8 @@ https://mediaserv68.live-streams.nl:18062/live
 http://7f9f366.online-server.cloud:8000/stream/1/
 #EXTINF:0,Radio Illertal
 http://stream.radioillertal.de:8000/;
+#EXTINF:0,Radio ISW
+https://radioisw.icecaststream.de/stream/radioisw
 #EXTINF:0,ORF Radio Kärnten
 https://orf-live.ors-shoutcast.at/ktn-q1a
 #EXTINF:0,Radio-Kartoffelsalat
@@ -2369,8 +2361,8 @@ https://server33911.streamplus.de/stream/1/
 http://stream04.stream-webradiotechnik.de:8150/stream/1/
 #EXTINF:0,Radio P.R.O.S.
 https://mediacp.audiostreamen.nl:8238/stream
-#EXTINF:0,Radio Regenbogen Soft and Lazy
-https://stream.regenbogen.de/softlazy/mp3-128/radiode
+#EXTINF:0,Radio Regenbogen Schlager
+https://stream.regenbogen.de/schlager/mp3-128/radiode
 #EXTINF:0,Radio-Rheinland
 https://stream.laut.fm/radiorheinland?ref=radiode
 #EXTINF:0,Radio Roland
@@ -2397,12 +2389,10 @@ http://internetradio.salue.de:8000/schlagerparty
 https://orf-live.ors-shoutcast.at/sbg-q2a
 #EXTINF:0,Radio Sauerland - Dein Schlager Radio
 https://stream.lokalradio.nrw/44523d6
-#EXTINF:0,radio SAW Deutsch
-https://stream.saw-musikwelt.de/saw-deutsch/mp3-128/radiode/stream.mp3
 #EXTINF:0,radio SAW Schlager
 https://stream.radiosaw.de/saw-schlager/mp3-192?ref=radiode
 #EXTINF:0,radio SAW Schlagerparty
-https://stream.saw-musikwelt.de/saw-schlagerparty/mp3-192?ref=radiode
+https://stream.radiosaw.de/saw-schlagerparty/mp3-192?ref=radiode
 #EXTINF:0,Radio Schlager-Pur
 https://server3.streamserver-unlimited.de:8359/stream
 #EXTINF:0,Radio-SchlummBumm
@@ -2627,8 +2617,6 @@ https://stream.laut.fm/schlagerstarmagazin-radio?ref=radiode
 http://schlagers.org:8760/2TJW/mp3/stream
 #EXTINF:0,schlager traum
 https://schlagertraumradio.de/icecast_stream.pls
-#EXTINF:0,Radio-Schlagerworld
-https://s14.streamcaster.eu:8075/stream
 #EXTINF:0,Schlagerzender
 https://stream.laut.fm/schlagerzender?ref=radiode
 #EXTINF:0,Schnuffelradio
@@ -2751,8 +2739,6 @@ https://stream.silvacast.com/RPLive/mp3-128/radio_de/
 http://stream01.script24.net:9230/;
 #EXTINF:0,The Nightphoenix Radio
 http://c02.lexycast.de:2190/;
-#EXTINF:0,tierischLive
-http://server35557.streamplus.de/stream.mp3
 #EXTINF:0,Radio Tirol Italia
 https://str0.creacast.com/radiotirol_a
 #EXTINF:0,Tirolia-Express

@@ -5,6 +5,8 @@ https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
 https://audio.bild-und-ton.stream:16162/alternativaradio-en
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
+#EXTINF:0,BPM
+http://bpm.myddns.me:8222/stream
 #EXTINF:0,Cadena SER Aranda
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3
 #EXTINF:0,Cadena SER Arosa
@@ -103,6 +105,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFM.mp3
 #EXTINF:0,ESPN - The Ticket
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTLTFM.mp3
+#EXTINF:0,Radio Esport Valencia 91.4 FM
+https://streaming.radioesport914.com:58000/stream
 #EXTINF:0,esRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
 #EXTINF:0,esRadio Baleares
@@ -449,6 +453,8 @@ https://stream.zeno.fm/1ue9thpenkwvv
 https://rs33.stream24.net/joke-fm.mp3
 #EXTINF:0,Jornalistas de Brasília
 http://stm3.xcast.com.br:6810/stream/1/
+#EXTINF:0,Jovem pan News (Curitiba)
+https://r18.ciclano.io:15156/live
 #EXTINF:0,Jovem Pan FM Jaboticabal
 https://ice.fabricahost.com.br/jpjaboticabal
 #EXTINF:0,Jozi FM
@@ -1029,8 +1035,6 @@ https://ad-oom-cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac
 https://radio.securenetsystems.net/cirrusencore/index.cfm?CFID=70555961-26aa-4945-8e06-abb5fa80d01b&CFTOKEN=0&stationCallSign=KRMS
 #EXTINF:0,KRMS NewsTalk 1150 AM
 https://ice8.securenetsystems.net/KRMS?playSessionID=B8C24BCC-A9E5-4409-CD74F06475C618C1
-#EXTINF:0,KROH - Radio of Hope 91.1 FM
-https://ice10.securenetsystems.net/KROH
 #EXTINF:0,KROX Radio 1260 AM
 https://ice6.securenetsystems.net/KROX
 #EXTINF:0,KRPI 1550 AM
@@ -1741,6 +1745,8 @@ https://radiolatina.info:10902/;
 https://stream.radio.co/s6310967ed/listen
 #EXTINF:0,Paola Rojas - Resumen informativo
 https://www.ivoox.com/aqui-noticias-23-noviembre-de_mf_78677409_feed_1.mp3
+#EXTINF:0,SBC Paradise FM
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
 #EXTINF:0,Patriot Radio Classics
 http://stream.radiojar.com/sqxkmtks1d5tv
 #EXTINF:0,Patriots.com Radio
@@ -1941,6 +1947,8 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
+#EXTINF:0,Rádio Assembleia Minas Gerais
+http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -2373,6 +2381,8 @@ http://live.slovakradio.sk:8000/Regina_BA_32.mp3.m3u
 http://live.slovakradio.sk:8000/Regina_KE_32.mp3.m3u
 #EXTINF:0,RÁDIO REGIONAL - CHAVES
 https://play.radioregional.pt/stream/4/
+#EXTINF:0,Radio Reloj 760 AM
+https://icecast.teveo.cu/b3jbfThq
 #EXTINF:0,Rádio Renascença - Noticiário
 https://amsrr.streaming.mediaservices.windows.net/9671bb22-3678-4b73-b944-5f5ee2344eb2/noticiario_2803202217148443.mp3
 #EXTINF:0,Rádio Renascença - Noticiários
@@ -2433,8 +2443,6 @@ https://stream-42.zeno.fm/0dqs1rnv6k8uv?zs=Aw-3ljsySY6gCR6JpDWJ7w
 http://kruljo.radiostudent.si:8000/ehiq.m3u
 #EXTINF:0,Radio Sucesos 104.7 FM
 http://server1.dainusradio.com:2341/;
-#EXTINF:0,RSI Radio Sud Internationale
-https://www.radioking.com/play/rsi-radio-sud-internationale/124798
 #EXTINF:0,Radio Superandina
 http://186.67.72.69:8009/listen.pls
 #EXTINF:0,Radio Suquia 96.5 FM
@@ -2487,6 +2495,8 @@ http://suaradio2.dyndns.ws:8098/stream
 http://s1.radiosnethosting.com:9888/;stream.mp3
 #EXTINF:0,Radio Vale 97.5 FM
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:0,Rádio Vale 98FM
+http://cast4.hoost.com.br:8597/stream
 #EXTINF:0,Radio Veneto24
 https://stream.rcs.revma.com/thfvxzyqdzuvv
 #EXTINF:0,Radio Victoria (LT39)
@@ -3597,8 +3607,6 @@ http://wkdmspanish.serverroom.us:6922/;
 https://ais-sa3.cdnstream1.com/2641_64.aac
 #EXTINF:0,WKDN - Family Radio 88.3 FM
 https://ais-sa3.cdnstream1.com/2641_64.aac
-#EXTINF:0,WKEI - Regional Daily News 1450 AM
-http://ice7.securenetsystems.net/WKEI?type=.mp3
 #EXTINF:0,WKEX - ESPN Blacksburg 1430 AM
 https://ice24.securenetsystems.net/WPIN
 #EXTINF:0,WKJB 710 AM

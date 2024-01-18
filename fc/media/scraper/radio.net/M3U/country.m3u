@@ -271,6 +271,8 @@ https://ice2.somafm.com/bootliquor-128-mp3
 http://ais-sa2.cdnstream1.com/2365_64.aac
 #EXTINF:0,Bowe Community Radio
 https://streaming.galaxywebsolutions.com:9072/stream
+#EXTINF:0,BPM
+http://bpm.myddns.me:8222/stream
 #EXTINF:0,Bygderadioen
 https://stream.bygderadioen.no/brhq
 #EXTINF:0,Brushwood Media Network
@@ -1139,6 +1141,8 @@ https://edge.audioxi.com/HIGHLAND
 https://makri.cdnstream.com/1924_64
 #EXTINF:0,Radio Hit Box
 http://server35683.streamplus.de:12074
+#EXTINF:0,Hit Country 105.5 Saguenay
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKGS_FM.mp3
 #EXTINF:0,Hit Country 95.7 Centre-du-Québec
 https://14223.live.streamtheworld.com/CKYQ_FMAAC.aac
 #EXTINF:0,HitCountryUSA
@@ -1183,8 +1187,6 @@ https://listen.openstream.co/3932/audio
 https://cast.az-streamingserver.com/proxy/oeqhbfsj/stream
 #EXTINF:0,IRD RADIO 
 https://ird.spcast.eu/stream
-#EXTINF:0,Irish Country Radio
-http://stream13.shoutcastsolutions.com:8020/stream/1/
 #EXTINF:0,Irish Country Music Radio - ICMR
 http://46.28.49.164:7502/live
 #EXTINF:0,itisnow Radio Station
@@ -1423,8 +1425,6 @@ https://ice8.securenetsystems.net/KDYN
 http://ic2.christiannetcast.com/kdzy-fm?
 #EXTINF:0,KEAE - KEAN Radio 107.9 FM
 http://stream.abacast.net/direct/townsquare-keanfmaac-ibc3
-#EXTINF:0,KEED FM 104.3
-http://207.244.126.86:7154/;
 #EXTINF:0,4Keeps Internet Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4289386.mp3
 #EXTINF:0,KEGA - The Eagle 101.5 FM
@@ -1945,8 +1945,6 @@ https://corn.kvsc.org/broadband
 https://svinews.com:8443/wave
 #EXTINF:0,KWAY The Winner AM 1470
 https://ice10.securenetsystems.net/KWAYAM
-#EXTINF:0,KWBY Cowboy Radio 98.5 FM
-http://mm.txol.net:8004/radio4
 #EXTINF:0,KWDD Wild 94.3 FM
 https://ice8.securenetsystems.net/KWDD
 #EXTINF:0,KWED 1580 AM
@@ -1963,8 +1961,6 @@ https://ice7.securenetsystems.net/KWHQ?playSessionID=9353A20B-155D-C0F4-0788AEFC
 https://live.amperwave.net/manifest/alphacorporate-kwiqfmaac-ibc4
 #EXTINF:0,KWJB The Bee 95.1 FM
 http://war.str3am.com:8610/kwjb-mp3
-#EXTINF:0,KWKJ 98.5 The Bar
-http://us2.maindigitalstream.com:7371/stream
 #EXTINF:0,KWLV / KTEZ - 107.1 / 99.9 FM
 http://104.243.161.5:88/broadwave.mp3
 #EXTINF:0,KWMW W 105.1 FM
@@ -2397,6 +2393,8 @@ https://stream.zeno.fm/8ntdqy9ng0quv
 http://broadcasting.kennyinteractivehosting.com:8006/;
 #EXTINF:0,WQCH-AM/FM
 http://173.166.241.62:8000/listen
+#EXTINF:0,Radiamo 
+http://sr2.inmystream.info:8621/stream
 #EXTINF:0,Radio 207
 https://s5.radio.co/s58e362d6a/listen
 #EXTINF:0,Radio 7 - Grill & Chill
@@ -2517,6 +2515,8 @@ http://stream-41.zeno.fm/qasbu97v338uv?zs=fcN_gHQpRvqQwFkYBvK-Nw
 https://s3.radio.co/s0fb7f8ffb/listen
 #EXTINF:0,Radio Odstock
 https://radio.canstream.co.uk:9126/live.mp3
+#EXTINF:0,Osotua Catholic Radio
+http://stream.zeno.fm/cdewrtdrkrhvv
 #EXTINF:0,Radio Padova Country
 https://sphera.fluidstream.eu/rpd_country.mp3
 #EXTINF:0,Radio PCM
@@ -2905,8 +2905,6 @@ https://streaming.live365.com/a03225
 https://streams.rtvvechtdal.nl/VechtdalNL.mp3
 #EXTINF:0,Vendsyssel FM
 http://vendsysselfm.dk:8000/stream/1/
-#EXTINF:0,Verified Radio
-https://s5.radio.co/sc345e641a/listen
 #EXTINF:0,Vibe Country
 http://74.208.24.77:9005/listen.pls
 #EXTINF:0,Vibes-Live Country and Western

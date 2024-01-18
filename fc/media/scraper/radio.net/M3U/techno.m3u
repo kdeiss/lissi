@@ -110,9 +110,9 @@ https://usa1-vn.mixstream.net/8104/listen.mp3
 #EXTINF:0,Big Beats Radio
 https://usa1-vn.mixstream.net/8104/listen.mp3
 #EXTINF:0,bigFM Dance Radio
-https://stream.bigfm.de/dance/aac-128/radiode
+https://stream.bigfm.de/dance/mp3-128/radiode
 #EXTINF:0,bigFM Deep & Tech House
-https://stream.bigfm.de/deeptechhouse/aac-128/radiode
+https://stream.bigfm.de/deeptechhouse/mp3-128/radiode
 #EXTINF:0,bigFM EDM & Progressive
 https://stream.bigfm.de/edm/mp3-128/radiode/
 #EXTINF:0,BillFM
@@ -131,8 +131,6 @@ http://media.bln.fm:9000/stream-low
 https://radio.canstream.co.uk:8058/live.mp3
 #EXTINF:0,Blu Sessions Made In Naples
 https://stream.zeno.fm/tc9ijuoui4xvv
-#EXTINF:0,BP Radio Dance
-https://rs.bpgn.xyz/listen/dance/low
 #EXTINF:0,BRBK Radio
 https://listen.radionomy.com/brbkradio
 #EXTINF:0,Radio Buena Vida
@@ -175,8 +173,6 @@ http://138.201.234.215:10898/stream/1/
 https://stream.laut.fm/clubnubid?ref=radiode
 #EXTINF:0,Club of Silence
 http://87.98.245.250:8378/stream/1/
-#EXTINF:0,ClubRadio06
-https://onair7.xdevel.com/proxy/xautocloud_ms0q_1396?mp=/;1/
 #EXTINF:0,Club Radio One
 http://stream11.shoutcastsolutions.com:8391/stream/1/
 #EXTINF:0,Club Soundz
@@ -314,11 +310,13 @@ https://stream.zeno.fm/rt4yt74n7k8uv
 #EXTINF:0,Electro Zone Radio 
 https://stream.electroradio.fm/192k?icy=https
 #EXTINF:0,Elixir Club
-http://radioserver11.profesionalhosting.com/proxy/elixir
+https://radio.grupoelixir.es:9015/stream
 #EXTINF:0,Energy FM
 https://radio.streemlion.com:1875/stream
 #EXTINF:0,ENERGYFM.RO
 https://puma.streemlion.com:1605/stream
+#EXTINF:0,RadioGora.Ru Et Cetera
+https://listen.radiogora.ru:8443/etc320
 #EXTINF:0,Evosonic Radio
 https://s4.radio.co/s136f5e1c3/listen
 #EXTINF:0,Exclusively Kraftwerk
@@ -333,6 +331,8 @@ https://s3.radio.co/s1492c0564/listen
 http://onair7.xdevel.com:7024/stream/1/
 #EXTINF:0,Fantasy FM
 https://eu4.fastcast4u.com/proxy/fantasyfm?mp=/1
+#EXTINF:0,FastDance.FM
+https://str3.openstream.co/1799
 #EXTINF:0,Fela Radio - Music With Soul
 https://my.radiolize.com/radio/8180/192kbps.mp3
 #EXTINF:0,FG. at work.
@@ -1299,8 +1299,6 @@ http://79.98.108.175:8000/;
 https://oscillate.radioca.st/stream
 #EXTINF:0,Outer Rim
 https://andylibretime.radioca.st/stream
-#EXTINF:0,Overclocked Music
-https://shoutcast.overclockedmusic.com:8000/stream/1/
 #EXTINF:0,OZ Substereo
 http://45.64.97.211:9872/;
 #EXTINF:0,PARADOX FM
@@ -1614,7 +1612,7 @@ https://stream.techno.fm/radio1.mp3
 #EXTINF:0,TechnoFMSound
 https://stream.laut.fm/technofm?ref=radiode
 #EXTINF:0,Techno Importation
-http://node-12.zeno.fm:80/3s5sq39pknruv
+http://stream.zeno.fm/3s5sq39pknruv.m3u
 #EXTINF:0,TECHNO IN MIND
 https://audio.mabu-beatz-radio.com:8003/technoinmind
 #EXTINF:0,Technologic
