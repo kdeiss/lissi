@@ -409,8 +409,6 @@ https://s04.maxcast.com.br:8148/live
 https://app.sonicpanelradio.com/8380/stream
 #EXTINF:0,BAR | Soulside Radio
 https://radio2.vip-radios.fm:18065/stream-128kmp3-BarSoulside
-#EXTINF:0,Cuebase-FM Black Label
-http://streamplus17.leonex.de:10928/stream/1/
 #EXTINF:0,421-1150 Quayside Drive
 https://streaming.radio.co/s911257049/listenorhttps://streaming.radio.co/s911257049/listen.m3u
 #EXTINF:0,CultureAddict
@@ -625,6 +623,8 @@ https://my.radioprocessor.com:8100/edm-320.mp3
 https://app.sonicpanelradio.com/8048/stream
 #EXTINF:0,EDM Sessions 
 https://s2.radio.co/s30844a0f4/listen
+#EXTINF:0,EDM-Sounds
+https://stream.laut.fm/edm-sounds?ref=radiode
 #EXTINF:0,EDR - Electronic Dance Radio
 https://nrf1.newradio.it:10464/stream
 #EXTINF:0,ElectroDanceWorld Radio
@@ -677,12 +677,6 @@ https://scdn.nrjaudio.fm/adwz1/de/33027/mp3_128.mp3?origine=radio.net
 https://stream.epic-lounge.com/sax-house-lounge?ref=radiode
 #EXTINF:0,Esencia Radio 
 https://stream.zeno.fm/qaxnuxap0rquv
-#EXTINF:0,Esoterica Radio S1
-https://omar.servemp3.com:8000/radio.mp3
-#EXTINF:0,Esoterica Radio S2
-https://omar.servemp3.com:8010/radio.mp3
-#EXTINF:0,Esoterica Radio S3
-https://omar.servemp3.com:8020/radio.mp3
 #EXTINF:0,Radio Espace Club
 https://espace100.ice.infomaniak.ch/espace100-high.mp3
 #EXTINF:0,Estacion Ibiza Radio
@@ -753,8 +747,6 @@ https://shoutcast.flowerthrower.com/stream
 https://streams.fluxfm.de/bbeachhouse/mp3-128/radiode/
 #EXTINF:0,Clubsandwich
 https://streams.fluxfm.de/clubsandwich/mp3-128/radiode/
-#EXTINF:0,Klubradio
-https://streams.fluxfm.de/klubradio/mp3-320/radiode/
 #EXTINF:0,Sound Of Berlin
 https://streams.fluxfm.de/soundofberlin/aac-64/radiode/play.pls
 #EXTINF:0,FM101 - The Planet
@@ -1035,8 +1027,6 @@ https://stream.isgoodforyou.net/web
 https://eu9.fastcast4u.com/proxy/dareczek77?mp=/1
 #EXTINF:0,Isla 106
 https://stream.isla106.com/isla106
-#EXTINF:0,Its All Mixed Up!
-https://ec1.yesstreaming.net:1970/stream
 #EXTINF:0,It's Your Station
 https://stream.zeno.fm/by8ym2vcvp8uv
 #EXTINF:0,Iwayhigh Radio
@@ -1303,6 +1293,8 @@ https://stream.laut.fm/hausradio?ref=radiode
 https://stream.laut.fm/hechtsuppe?ref=radiode
 #EXTINF:0,Helle-Welle
 https://stream.laut.fm/hellewelle?ref=radiode
+#EXTINF:0,Hillviews Finest
+https://stream.laut.fm/hillviews_finest?ref=radiode
 #EXTINF:0,Hitradio EN
 https://stream.laut.fm/hitradioen?ref=radiode
 #EXTINF:0,Hitradio EN
@@ -1489,8 +1481,6 @@ https://stream.laut.fm/rave_satellite?ref=radiode
 https://stream.laut.fm/revolution-of-sounds?ref=radiode
 #EXTINF:0,Rex FM
 https://stream.laut.fm/rexfm?ref=radiode
-#EXTINF:0,Rhythm And Tone
-http://stream.laut.fm/rhythm_and_tone?ref=radiode
 #EXTINF:0,risefm
 http://188.165.11.30:8080/risefm_hq
 #EXTINF:0,rossi
@@ -2661,8 +2651,6 @@ https://ec1.yesstreaming.net:2695/stream
 http://listen.cdn.streammonks.net:8080/l4m5w
 #EXTINF:0,TNT Radio Dance
 https://usa10.fastcast4u.com:6240/?type=
-#EXTINF:0,Top 100 Mix Station
-https://rautemusik-de-hz-fal-stream18.radiohost.de/top100station_mp3-192
 #EXTINF:0,Top 100 Station
 https://streams.rautemusik.fm/top100station/mp3-192/old/
 #EXTINF:0,radio TOP 40 - Clubsound

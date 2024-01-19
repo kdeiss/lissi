@@ -177,8 +177,6 @@ https://audio.streaminghd.cl:2000/stream/beatfm-quillota
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac
 #EXTINF:0,Best Radio 1
 https://player.bestradio1.hits1radio.com
-#EXTINF:0,bigFM Latin Beats
-https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643
 #EXTINF:0,Urban FM
 https://stream.zeno.fm/7e7rf9fr5tzuv
 #EXTINF:0,Radio Bio-Bio Santiago
@@ -411,12 +409,16 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
+#EXTINF:0,costaradio
+http://109.169.76.104:23614/stream
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,C-Oye 89.1 FM Insuperable
 http://streamingned.com:7146/;
 #EXTINF:0,Crioula FM
 https://nl.digitalrm.pt:8098/stream
+#EXTINF:0,Crooner Radio Summer
+https://direct.croonerradio.fr/croonerradio-summer-midfi.mp3
 #EXTINF:0,Crossover Estereo
 https://stream.zeno.fm/76skg1fndkeuv
 #EXTINF:0,CubanFlow
@@ -1189,8 +1191,6 @@ https://stream.zeno.fm/cd1fu35abkhvv
 https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 #EXTINF:0,La Guapachosa
 https://stream.zeno.fm/fhd0561keg8uv
-#EXTINF:0,La Guapachosa Radio
-https://radiohd.streaminghd.co:7010/stream
 #EXTINF:0,La Inolvidable 93.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LIAAC.aac
 #EXTINF:0,La Invasora 98.9 FM
@@ -1412,7 +1412,7 @@ http://198.27.68.65:8296/stream
 #EXTINF:0,Latina Stereo FM
 https://radiohd.streaminghd.co:7646/stream
 #EXTINF:0,Latina Stereo Online
-http://109.169.23.95:31633/
+https://stream.zeno.fm/dl1zpswma7hvv
 #EXTINF:0,LATINA @WORK
 https://latinawork.ice.infomaniak.ch/latinawork.mp3
 #EXTINF:0,LatinBeat
@@ -1471,6 +1471,8 @@ https://stream.laut.fm/1-radio-latino?ref=radiode
 https://stream.laut.fm/arpexfm?ref=radiode
 #EXTINF:0,Balticdance
 https://stream.laut.fm/balticdance?ref=radiode
+#EXTINF:0,Baroque Sonatas Radio
+https://stream.laut.fm/baroque-sonatas-radio?ref=radiode
 #EXTINF:0,Bolero
 https://stream.laut.fm/bolero?ref=radiode
 #EXTINF:0,caribbean_xpress
@@ -1577,6 +1579,8 @@ https://stream.laut.fm/weltweit?ref=radiode
 https://stream.laut.fm/worldhitslatin?ref=radiode
 #EXTINF:0,zeyano
 https://stream.laut.fm/zeyano?ref=radiode
+#EXTINF:0,zona-latina-germany
+https://stream.laut.fm/zona-latina-germany?ref=radiode
 #EXTINF:0,Zumblechen
 https://stream.laut.fm/zumblechen?ref=radiode
 #EXTINF:0,La Vallenata
@@ -2241,6 +2245,8 @@ https://stream-48.zeno.fm/vvp0cudqqqzuv?zs=M6-QE6xUQlWy1Nwfxw1cVw
 http://stream-43.zeno.fm/sbg6mtsceq8uv?zs=njng66t9QI2I3xLHGtxD2g
 #EXTINF:0,Radio Exito 24
 https://emisorasvirtuales.com.co:9543/live
+#EXTINF:0,Radio Exito
+http://stream.servionbolivia.red:9458/stream/1/
 #EXTINF:0,Radio Explosivo HD
 https://radios.sonicp.com:7006/stream/1/
 #EXTINF:0,Radio Expresso Minga Guazu
@@ -2279,8 +2285,6 @@ https://technoplayerserver.net/8016/stream
 https://server20.servistreaming.com:9018/stream
 #EXTINF:0,Radio Hits
 https://dattavolt.com/8084/stream
-#EXTINF:0,Radio Honduras 504
-https://emisoras.hn:2000/stream/hn504
 #EXTINF:0,Radio Horacio Guarany
 https://ssl.xcast.com.br:8046/;
 #EXTINF:0,Radio Horizonte Atlântica
@@ -2383,6 +2387,8 @@ http://stream-40.zeno.fm/huucmsteny8uv?zs=Z9q2wBotTLqyOetbB7UJYA
 https://stream.zeno.fm/6rr4bya7hv8uv
 #EXTINF:0,Radio Luz
 https://cast4.asurahosting.com/proxy/minister/stream
+#EXTINF:0,Radio LVA 103.3 
+https://alpha.radioplayer.com.ar:9302/radiofmlva1033
 #EXTINF:0,Radio Malaka
 https://streaming12.elitecomunicacion.es:8256/stream
 #EXTINF:0,Radio Malena 89.1 FM
@@ -2475,8 +2481,6 @@ https://live.radioprima.be:8000/web.mp3
 http://server7.servistreaming.com:10026/stream?type=.mp3
 #EXTINF:0,Radio Quevedo City Mix
 https://stream.zeno.fm/36ur0xpkshruv
-#EXTINF:0,America Stereo Quito 104.5 FM
-https://streamingecuador.com:9100/stream
 #EXTINF:0,Radiorama Stereo
 http://cp2.lorini.net:44002/stream
 #EXTINF:0,Radio Rasec Latinoamérica
@@ -2597,6 +2601,10 @@ https://cdn.instream.audio/:9349/stream
 https://guri.tepuyserver.net/8068/stream
 #EXTINF:0,Rádio Zoom
 https://streaming.brazink.com/?p=7045
+#EXTINF:0,Radio ZWING
+https://stream.radiolive.com.co/listen/radio_zwing/radio.mp3
+#EXTINF:0,Radio Amigos do Porto
+http://s1.xps-ip.eu:8058/
 #EXTINF:0,Rasec Salsa con Merengue
 https://stream.zeno.fm/1art6szey4zuv
 #EXTINF:0,Salsa by rautemusik
@@ -2669,6 +2677,8 @@ https://icy.unitedradio.it/Daniele.mp3?
 https://rs6-krk2.rmfstream.pl/CUBA
 #EXTINF:0,RMF Latino
 https://rs103-krk.rmfstream.pl/LATINO
+#EXTINF:0,RM Radio - Quintanar Del Rey 107.3 
+https://cast.rmradio.es:8020/stream
 #EXTINF:0,RM Radio - Requena-Utiel 107.2
 https://cast.rmradio.es/radio/8010/stream
 #EXTINF:0,RNE Radio Clásica

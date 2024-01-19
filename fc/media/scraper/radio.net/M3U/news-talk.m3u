@@ -7,6 +7,8 @@ https://audio.bild-und-ton.stream:16162/alternativaradio-en
 http://5230.cloudrad.io:8354/live
 #EXTINF:0,BPM
 http://bpm.myddns.me:8222/stream
+#EXTINF:0,CADENA 5
+https://stream.radiolive.com.co:8020/radio.mp3
 #EXTINF:0,Cadena SER Aranda
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3
 #EXTINF:0,Cadena SER Arosa
@@ -1035,6 +1037,8 @@ https://ad-oom-cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac
 https://radio.securenetsystems.net/cirrusencore/index.cfm?CFID=70555961-26aa-4945-8e06-abb5fa80d01b&CFTOKEN=0&stationCallSign=KRMS
 #EXTINF:0,KRMS NewsTalk 1150 AM
 https://ice8.securenetsystems.net/KRMS?playSessionID=B8C24BCC-A9E5-4409-CD74F06475C618C1
+#EXTINF:0,KROH - Radio of Hope 91.1 FM
+https://ice10.securenetsystems.net/KROH
 #EXTINF:0,KROX Radio 1260 AM
 https://ice6.securenetsystems.net/KROX
 #EXTINF:0,KRPI 1550 AM
@@ -2443,6 +2447,8 @@ https://stream-42.zeno.fm/0dqs1rnv6k8uv?zs=Aw-3ljsySY6gCR6JpDWJ7w
 http://kruljo.radiostudent.si:8000/ehiq.m3u
 #EXTINF:0,Radio Sucesos 104.7 FM
 http://server1.dainusradio.com:2341/;
+#EXTINF:0,RSI Radio Sud Internationale
+https://www.radioking.com/play/rsi-radio-sud-internationale/124798
 #EXTINF:0,Radio Superandina
 http://186.67.72.69:8009/listen.pls
 #EXTINF:0,Radio Suquia 96.5 FM
@@ -3379,6 +3385,8 @@ http://71.185.249.90/broadwave.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGACAM.mp3
 #EXTINF:0,WGAN 560 AM
 https://live.amperwave.net/manifest/saga-wganamaac-hlsc1.m3u8
+#EXTINF:0,WGBK - 88.5 FM
+http://ic.streann.com:8000/glenbrook225
 #EXTINF:0,WGCL - News Talk 1370 AM
 https://ice64.securenetsystems.net/WGCL
 #EXTINF:0,WGCR - 720 AM
@@ -4153,6 +4161,8 @@ https://ice64.securenetsystems.net/WVOA
 https://rocket.surfernetwork.com:10001/live/wvox_aac/playlist.m3u8
 #EXTINF:0,WVPA Vermont Public Radio 88.5 FM
 http://vpr.streamguys.net/vpr64.aac
+#EXTINF:0,WVPH - The Core 90.3 FM
+http://165.230.36.189/;stream.mp3
 #EXTINF:0,WVPR Vermont Public Radio 89.5 FM
 http://vprstate.streamguys.net/vprhouse24.mp3
 #EXTINF:0,WVPS Vermont Public Radio 107.9 FM
@@ -4281,8 +4291,6 @@ https://stream.zeno.fm/40089b2m1c9uv
 https://servidor31.brlogic.com:7054/live
 #EXTINF:0,Yeshua Messianic Radio
 http://dc3.serverse.com:1120/;
-#EXTINF:0,YLE Puhe
-https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/abr.smil/chunklist_b256000_ao.m3u8
 #EXTINF:0,Zodiak Radio
 https://ice31.securenetsystems.net/0079
 #EXTINF:0,Zona Radio Fusa

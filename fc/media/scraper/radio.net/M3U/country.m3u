@@ -149,6 +149,8 @@ http://stream.laut.fm/almusic-radio
 https://server7517.streamplus.de/;stream.mp3
 #EXTINF:0,Alphabet Soup
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2716664_SC
+#EXTINF:0,Alpin Tunes Austria
+http://stream.laut.fm/alpintunesaustria?ref=radiode
 #EXTINF:0,Radio Alternatywa
 http://s1.slotex.pl:7458/stream/1/
 #EXTINF:0,AM 1190 Radio
@@ -891,6 +893,8 @@ https://streamdb9web.securenetsystems.net/v5/CVR
 https://stream.zeno.fm/1p6v0pa51tzuv
 #EXTINF:0,Coyote Country 102.3 KUTQ FM
 https://ice10.securenetsystems.net:80/KUTQ
+#EXTINF:0,Coyote New Country 103.3 HD2
+https://coyote-new-country.streamb.live/SB00141
 #EXTINF:0,CRC Radio - XRN Australia
 https://us01.xrn.com.au/listen/crc/CrcSd
 #EXTINF:0,Crossroads Country with Brian Rickman
@@ -1487,8 +1491,6 @@ https://listen.radioking.com/radio/453317/stream/508172
 https://ice8.securenetsystems.net/KGRA
 #EXTINF:0,KGU Real Country 760 AM & 95.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAMAAC_SC
-#EXTINF:0,KGY-FM 96.9 FM
-https://stream1.noctel.com:7010/953kgy
 #EXTINF:0,Khaelitsha FM
 https://stream.zeno.fm/xx27nfpk9k8uv
 #EXTINF:0,KHAK - K-Hawk Country 98.1 FM
@@ -2015,8 +2017,6 @@ https://ice23.securenetsystems.net/KYNU
 https://ice24.securenetsystems.net/KYUNHD2
 #EXTINF:0,KYXK KIX 106.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKKXFMAAC_SC
-#EXTINF:0,KYYO 96.9 KAYO Country
-http://stream1.noctel.com:7003/969kayo
 #EXTINF:0,KZFX-HD-2 Cactus Country Classics
 https://ais-sa2.cdnstream1.com/1573_128
 #EXTINF:0,KZHE KZ 100.5 FM
@@ -2049,6 +2049,8 @@ https://stream.laut.fm/1000countryhits?ref=radiode
 https://stream.laut.fm/889fmworld?ref=radiode
 #EXTINF:0,Backbeatradio 
 https://stream.laut.fm/backbeatradio?ref=radiode
+#EXTINF:0,Bavayote
+https://stream.laut.fm/bavayote?ref=radiode
 #EXTINF:0,bestof1969
 https://stream.laut.fm/bestof1969?ref=radiode
 #EXTINF:0,bft-radio-style
@@ -2131,6 +2133,8 @@ https://stream.laut.fm/music-for-life?ref=radiode
 https://stream.laut.fm/nashville?ref=radiode
 #EXTINF:0,ni_haody
 https://stream.laut.fm/ni_haody?ref=radiode
+#EXTINF:0,notenkiste
+https://stream.laut.fm/notenkiste?ref=radiode
 #EXTINF:0,ostseelieder
 https://stream.laut.fm/ostseelieder?ref=radiode
 #EXTINF:0,pauline
@@ -2141,6 +2145,8 @@ https://stream.laut.fm/positivebreeze?ref=radiode
 https://stream.laut.fm/radio-amazing?ref=radiode
 #EXTINF:0,Radio Badenia
 https://stream.laut.fm/radio_badenia?ref=radiode
+#EXTINF:0,Radiocity 85
+https://stream.laut.fm/radiocity85?ref=radiode
 #EXTINF:0,Radio-Cristall 
 https://stream.laut.fm/radio-cristall?ref=radiode
 #EXTINF:0,radio-cristall_country-welt
@@ -2713,44 +2719,8 @@ https://sslstreamen.nl/stream/starlight/
 https://stream-38.zeno.fm/xpt0v0g4dy8uv?zs=_6P1KHFeQcK6INyFPiBJYg&1664888625425
 #EXTINF:0,Stateside FM
 http://uk7.internet-radio.com:8352/stream/1/
-#EXTINF:0,Static: Bristol
-https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
 #EXTINF:0,STATIC: Classic Country
 https://streamingv2.shoutcast.com/static-classic-country
-#EXTINF:0,Static: Durango
-https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
-#EXTINF:0,Static: Eureka Springs
-https://radiostatic.stream/listen/static_-_eureka_springs,_ar/static-eureka-springs.aac
-#EXTINF:0,Static: Fremont
-https://radiostatic.stream/listen/static_-_freemont,_ne/static-fremont
-#EXTINF:0,Static: Huron
-https://radiostatic.stream/listen/static_-_huron,_sd/static-huron
-#EXTINF:0,Static: Muscle Shoals
-https://radiostatic.stream/listen/static_-_muscle_shoals,_al/static-muscle-shoals
-#EXTINF:0,Static: Myrtle Beach
-https://radiostatic.stream/listen/static_-_myrtle_beach,_sc/static-myrtle-beach
-#EXTINF:0,Static: New Castle
-https://radiostatic.stream/listen/static_-_new_castle,_de/static-new-castle.aac
-#EXTINF:0,Static: Ocean Springs
-https://radiostatic.stream/listen/static_-_ocean_springs,_ms/static-ocean-springs.aac
-#EXTINF:0,Static: Osage Beach
-https://radiostatic.stream/listen/static_-_osage_beach,_mo/static-osage-beach.aac
-#EXTINF:0,Static: Park City
-https://radiostatic.stream/listen/static_-_park_city,_ut/static-park-city.aac
-#EXTINF:0,Static: Savannah
-https://radiostatic.stream/listen/static_-_savannah,_ga/static-savannah.aac
-#EXTINF:0,Static: Sewanee
-https://radiostatic.stream/listen/static_-_sewanee,_tn/sewanee.aac
-#EXTINF:0,Static: Silver City
-https://radiostatic.stream/listen/static_-_silver_city,_nm/static-silver-city.aac
-#EXTINF:0,Static: Charlotte Amalie-St. Thomas
-https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
-#EXTINF:0,Static: The Dells
-https://radiostatic.stream/listen/static_-_the_dells,_wi/static-the-dells.aac
-#EXTINF:0,Static: Tupelo
-https://radiostatic.stream/listen/static_-_tupelo,_ms/static-tupelo.aac
-#EXTINF:0,Static: Tyler
-https://radiostatic.stream/listen/static_-_tyler,_tx/static-tyler.aac
 #EXTINF:0,Station Country
 https://stream2.hosting-quebec.ca/radio/8030/radio.mp3
 #EXTINF:0,St. Augustine Country 106.3 FM

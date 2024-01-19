@@ -363,8 +363,6 @@ https://allzic55.ice.infomaniak.ch/allzic55.mp3
 http://stream.laut.fm/almusic-radio
 #EXTINF:0,Aloe FM 
 https://stream.zenolive.com/yzwv42ywx2quv
-#EXTINF:0,ALPHA-Radio
-http://195.201.6.108/alpha
 #EXTINF:0,Al Tope Radio
 http://server.laradio.online:8457/live
 #EXTINF:0,Alt Radio
@@ -603,6 +601,8 @@ https://stream.bigfm.de/nrw/mp3-128/radiode
 https://stream.bigfm.de/rlp/mp3-128/radiode
 #EXTINF:0,Big FM
 http://82.208.143.10:8000/stream/1/
+#EXTINF:0,bigFM Saarland
+https://stream.bigfm.de/sb/mp3-128/radiode
 #EXTINF:0,Biggest LIttle Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC
 #EXTINF:0,Big Hits Palmira
@@ -1005,6 +1005,8 @@ https://listen.radioking.com/radio/245467/stream/289642
 https://stm35.srvstm.com:6810/stream/1/
 #EXTINF:0,Radio Color
 http://5.135.39.189:8018/;
+#EXTINF:0,Community 103.3 FM
+https://communit-gecko.radioca.st/stream
 #EXTINF:0,Comoradio International
 https://sr10.inmystream.it/proxy/comoradi?mp=/stream
 #EXTINF:0,Condo Jamz Radio
@@ -1327,6 +1329,8 @@ https://stream.laut.fm/radioenzian
 https://www.radioking.com/play/equinox-radio-barcelone
 #EXTINF:0,E-Radio Streaming
 http://s7.alhastream.com/radio/8150/radio
+#EXTINF:0,ERA
+https://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
 #EXTINF:0,ERFM
 https://karadoc.erfm.fr/radio
 #EXTINF:0,Radio Erretizeta
@@ -1833,8 +1837,6 @@ https://stream.hitkanal.fm:9200/nrwfmmain
 http://legacy.scahw.com.au/2rox_128
 #EXTINF:0,HitMix
 https://ec3.yesstreaming.net:3360/dcs/9/winamp.m3u
-#EXTINF:0,Hit Mixx Radio
-https://streaming.live365.com/a84356
 #EXTINF:0,Hitpool Radio
 http://apollo.rserve.de:9932/;
 #EXTINF:0,Hitpowerbox
@@ -4317,6 +4319,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48
 https://live-bauerdk.sharp-stream.com/nova_dk_mp3
 #EXTINF:0,Nova FM
 https://cast3.hoost.com.br:20053/live
+#EXTINF:0,NOV FM 
+https://radio6.pro-fhi.net:19049/novfm.mp3
 #EXTINF:0,NOVUMfm
 http://fm-broadcast.com:8000/novumfm.mp3
 #EXTINF:0,NOW! Radio
@@ -4969,6 +4973,8 @@ https://live.radio.si/Radio1VE
 https://live.radio.si/Radio1CE
 #EXTINF:0,Radio 24
 https://chmedia.streamabc.net/79-r24-mp3-192-6659699
+#EXTINF:0,Radio24
+https://us.everestcast.com:1155/stream
 #EXTINF:0,Radio 3 Bodø
 https://stream.radio3.no/Radio3Bodo
 #EXTINF:0,Radio 3i
@@ -5095,8 +5101,6 @@ http://sl.dnip.com.br:10376/stream/1/
 http://icy-e-bl-09-boh.sharp-stream.com/city.mp3
 #EXTINF:0,Radio City 100.6 FM
 http://82.149.22.34:8000/CityMp364mono.mp3
-#EXTINF:0,Radio City
-http://streaming.radiosenlinea.com.ar:8816/stream/1/
 #EXTINF:0,Radio Click Romania
 http://live.radioclick.ro:8008/
 #EXTINF:0,Radio Clodia 
@@ -5293,8 +5297,6 @@ http://11.stmip.net:8404/stream
 https://sp0.redeaudio.com/9924/stream
 #EXTINF:0,Radio Magenta
 http://sr9.inmystream.info:8038/stream
-#EXTINF:0,RadioMagicUnicorn
-https://radio.chat4beat.nl:7443/listen/radiomagicunicorn/radio.mp3
 #EXTINF:0,Radio Mainumby FM
 https://sonicpanel.gabehost.com/8034/stream
 #EXTINF:0,Radio Manbassa
@@ -5391,6 +5393,8 @@ http://sh.onweb.gr:9940/stream/1/
 https://pegasus.nucast.co.uk:8054/stream
 #EXTINF:0,Ràdio Pont de Molins
 https://stream.zeno.fm/qh2zmtaxn7zuv
+#EXTINF:0,Radio Pop HD
+https://sn21.streamnord.com:8016/stream
 #EXTINF:0,Radio Portugal Mais
 https://sv15.hdradios.net:7432/stream
 #EXTINF:0,Rádio Portugal Star
@@ -6033,8 +6037,6 @@ https://manager5.streamradio.fr:1635/stream
 https://stream.zeno.fm/4uvhk732g9duv
 #EXTINF:0,Splendid Radio Maryland
 https://stream.zeno.fm/svqyljbejfhvv
-#EXTINF:0,Sweet 419
-https://streaming.live365.com/a20514
 #EXTINF:0,Switch Brisbane
 https://playerservices.streamtheworld.com/pls/4YBAAC.pls
 #EXTINF:0,SWR3
@@ -6101,10 +6103,14 @@ https://ais-sa1.streamon.fm/7258_48k.aac
 https://streamdb9web.securenetsystems.net/cirrusencore/index.cfm?stationCallSign=WJVR&fbclid=IwAR0UPxN2n_eMEtwVu21ZIjz1tYRTRJRTKF7YHMHnTTYH_HCV6ofRHctEB-4
 #EXTINF:0,The Tune Sanctuary
 https://stream.zeno.fm/qbax0zhct0hvv.mp3
+#EXTINF:0,Thrive Radio UK
+https://stream-thriveradio.creativedork.com/
 #EXTINF:0,ANTENNE THÜRINGEN –Charts
 https://stream.antennethueringen.de/charts/mp3-192/radiode/
 #EXTINF:0,Antena Joven
 https://stream.rcast.net/66151
+#EXTINF:0,Tie rADIO
+https://cast1.shoutcasting.uk/listen/tideuk/radio.mp3
 #EXTINF:0,Tinder Radio - Hot Hits
 https://streaming.exclusive.radio/er/chart/icecast.audio
 #EXTINF:0,RTBF - Tipik
@@ -6155,8 +6161,6 @@ http://sc2.streamwithq.com:8086/stream/1/
 http://live.topfm.hu:8000/base.mp3
 #EXTINF:0,Top FM
 https://players.creacast.com/creacast/top_fm/playlist.pls
-#EXTINF:0,TOP FM Île de la Réunion
-https://radio6.pro-fhi.net/radio/9070/stream
 #EXTINF:0,Top FM
 http://109.206.96.12:8000/;
 #EXTINF:0,Love Radio 90.7 Digital
@@ -6497,8 +6501,6 @@ https://listen.wismar.fm/wismar.fm_mp3
 https://ice5.securenetsystems.net/WIVQ?type=.mp3
 #EXTINF:0,WIXX 101 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC
-#EXTINF:0,W!ZARD Radio Station
-http://159.223.10.111:8000/wizardstream
 #EXTINF:0,WIZM Z93
 http://crystalout.surfernetwork.com:8001/WIZM_MP3
 #EXTINF:0,WJAS - the Talk of Pittsburgh
