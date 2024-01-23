@@ -235,8 +235,6 @@ https://stream.zeno.fm/2qkmivock4zvv
 https://s4.radio.co/sd90daceea/listen
 #EXTINF:0,Radio Boas Novas 91.9 FM
 https://boasnovasaac.jmvstream.com/stream
-#EXTINF:0,Radio Bonne Nouvelle
-http://dn10215.hostncast.net:8000/listen.mp3
 #EXTINF:0,BPN Radio Live
 https://listen.shoutcast.com/bpnradiolive.m3u
 #EXTINF:0,Bright FM
@@ -441,6 +439,8 @@ https://stream-50.zeno.fm/sh90rt9g9ueuv?zs=l6TTJWJvTx22_EfDKxV7xg
 https://sonidosenlared.fullstreaming.ar/8146/stream
 #EXTINF:0,Cristomicina Radio
 https://stream-51.zeno.fm/29qx2rfzmwzuv?zs=7LjYzXxOS1CUazKbPziZag&rj-tok=AAABccWCrt0AKHGU3wki-IkjqA&rj-ttl=5
+#EXTINF:0,Crooner Radio Christmas
+https://direct.croonerradio.fr/croonerradio-christmas-midfi.mp3
 #EXTINF:0,Cross Rhythms City Radio
 https://stream.crossrhythms.co.uk/city/hq.mp3
 #EXTINF:0,Crossway Radio
@@ -607,8 +607,6 @@ https://essentielradioing.streamakaci.com/essentielfr.mp3
 http://104.167.4.67:8091/mp3
 #EXTINF:0,Ràdio Estel 106.6 FM
 https://srv6021.dns-lcinternet.com:10244/stream
-#EXTINF:0,Estéreo Fortaleza
-https://edmenstudio.net:10988/stream/1/
 #EXTINF:0,Estereo La Voz Del Cordero
 https://stream.zeno.fm/qytuh41hw5quv
 #EXTINF:0,Estereo La Voz del Principe de Paz
@@ -725,8 +723,6 @@ https://stream.zeno.fm/gcm2s6m8twzuv
 https://radioxmas.radioca.st/stream
 #EXTINF:0,Radio Fortaleza
 http://cp12.shoutcheap.com:8064/stream
-#EXTINF:0,Freedom LoveZone Radio
-https://server.freedomflixtv.com:1125/stream
 #EXTINF:0,FreedomTruth Radio
 https://s5.radio.co/s60c60474d/listen
 #EXTINF:0,Fréquence Oasis
@@ -847,8 +843,6 @@ https://stream.radio.co/s09849366f/listen
 http://s3.voscast.com:10100/;
 #EXTINF:0,Hope Alive Radio
 http://radio.wanderingsheep.tv:8012/hopealive
-#EXTINF:0,Hope FM Zambia
-https://carina.streamerr.co:8078/stream
 #EXTINF:0,Hope!
 https://stream.zeno.fm/f1t2z6m69ehvv
 #EXTINF:0,Hosanna Radio
@@ -1033,6 +1027,10 @@ https://emf-hls-b.streamguys1.com/seg001267-h128/playlist.m3u8
 https://ais-sa3.cdnstream1.com/2641_64.aac
 #EXTINF:0,KASD 90.3 FM - American Family Radio
 http://mediaserver3.afa.net:8000/talkhigh.mp3
+#EXTINF:0,KATB - Life Changing Radio 89.3 FM
+https://ic2.sslstream.com/katb-fm
+#EXTINF:0,KATB / KJLP - 89.3 / 88.9 FM
+https://ic2.sslstream.com/katb-fm?rnd=3740
 #EXTINF:0,KATH North Texas
 https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3
 #EXTINF:0,KATH Guadalupe Radio 910 AM
@@ -2125,6 +2123,8 @@ http://s2.citrus3.com:8046/stream
 http://5186.cloudrad.io:8048/stream/1/
 #EXTINF:0,Pulse 94.1 FM
 https://stream2.cnmns.net/941-mp3
+#EXTINF:0,Pura Gracia 
+https://26453.live.streamtheworld.com/SAM05AAC459_SC
 #EXTINF:0, Pura Vida FM - Santiago 96.7FM
 https://sonic.radiostreaminglatino.com:10852/stream/1/
 #EXTINF:0,Pura Vida FM
@@ -2800,7 +2800,7 @@ http://stream.zeno.fm/hy5767q7zoptv
 #EXTINF:0,RADIO POR GRACIA DE DIOS 92.9 FM
 https://sonicpanel.us:7051/stream
 #EXTINF:0,Radio Potencia Mundial Cristiana
-http://147.135.184.151:9446/;
+https://server.radiogs.net/8050/stream
 #EXTINF:0,Radio Potentielle
 https://www.radioking.com/play/radiopotentielle
 #EXTINF:0,Radio Power
@@ -3407,8 +3407,6 @@ https://cast.hoost.com.br:20150/stream
 http://we.savesouls.today:8088/stream
 #EXTINF:0,Sawt El Majd
 https://stream.zeno.fm/u5gbt0e73d0uv
-#EXTINF:0,SB - Rádio Sulbrasileira AM 1320
-https://play.radio.br:8089/SulBrasileira/SB1320/icecast.audio
 #EXTINF:0,SBW Radio
 https://streamer.radio.co/s6152f7771/listen
 #EXTINF:0,SCs MIX
@@ -4175,6 +4173,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLCUFMAAC_SC
 https://server7.servistreaming.com/proxy/radioisla?mp=%2Fstream%3Ftype%3D.mp3&_=1
 #EXTINF:0,WLFA - His Radio 91.3 FM
 https://rtn.cdnstream1.com/2566_96.aac
+#EXTINF:0,WLFE - Life FM 90.9 FM
+https://stream.radiojar.com/q1t4avqnct5tv
 #EXTINF:0,WLFS - His Radio 91.9 FM
 https://rtn.cdnstream1.com/2566_96.aac
 #EXTINF:0,WLGP - WLGP 100.3 FM

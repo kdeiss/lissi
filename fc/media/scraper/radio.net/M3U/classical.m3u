@@ -181,8 +181,6 @@ https://stream.zeno.fm/utnnx7paza0uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
 #EXTINF:0,Bremen Zwei
 https://icecast.radiobremen.de/rb/bremenzwei/live/icecast.radiobremen.de?aggregator=radio-de
-#EXTINF:0,Brissa Avhalon
-https://play8.tikast.com/proxy/attika?mp=%2Fstream
 #EXTINF:0,BR-KLASSIK
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high?aggregator=radio-de
 #EXTINF:0,Bru Zane Classical Radio
@@ -675,6 +673,8 @@ https://media-the.musicradio.com/ClassicFM-M-Relax
 http://node-09.zeno.fm/xfq84pqxgkhvv?zs=e9IcNfJGRBa8GWXfRUDq1Q&rj-tok=AAABgT19_u0A0ty2BSbtgtLdoQ&rj-ttl=5
 #EXTINF:0,classicnl
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICFMAAC_SC
+#EXTINF:0,classicnl Opera
+https://stream.classic.nl/classicnl-opera.mp3
 #EXTINF:0,Classic Praha
 https://icecast8.play.cz/classic128.mp3
 #EXTINF:0,Classik Radio
@@ -827,6 +827,8 @@ https://stream.epic-piano.com/great-piano-concerts?ref=radiode
 https://stream.epic-piano.com/grieg?ref=radiode
 #EXTINF:0,LISZT by Epic Piano
 https://stream.epic-piano.com/liszt?ref=radiode
+#EXTINF:0,MODERN PIANO by Epic Piano
+https://stream.epic-piano.com/modern-piano?ref=radiode
 #EXTINF:0,PIANO COVERHITS by Epic Piano
 https://stream.epic-piano.com/piano-coverhits?ref=radiode
 #EXTINF:0,ROMANTIC PIANO by Epic Piano
@@ -1258,7 +1260,7 @@ https://ais-sa3.cdnstream1.com/2694_64.aac
 #EXTINF:0,La Grande Évasion
 https://radio.lagrandeevasion.fr/evasion
 #EXTINF:0,LaGrandeMusique
-https://www.radioking.com/play/la-grande-musique/668731
+https://stream.rcs.revma.com/186wgykpq42vv
 #EXTINF:0,La Mega 97.3 FM
 http://node-02.zeno.fm/hcw5f95ugy8uv?zs=YJG4oWGoSduBay8I1nJnJA&rj-tok=AAABgT1-4AIAOz82B9H-xd43mg&rj-ttl=5
 #EXTINF:0,Latinoamerica Digital 100.1 FM
@@ -2025,6 +2027,8 @@ https://a2.asurahosting.com:6520/radio.mp3
 http://radiohd.streaminghd.co:7637/stream
 #EXTINF:0,Radio Universelles Leben
 https://onairport.live/radioul-de
+#EXTINF:0,Rádio da Universidade 1080 AM
+http://radioaovivo.ufrgs.br:8000/stream.mp3.m3u
 #EXTINF:0,Utah Public Radio - Live
 http://uprxstreamer.usu.edu:8000/stream
 #EXTINF:0,Utah Public Radio - Too

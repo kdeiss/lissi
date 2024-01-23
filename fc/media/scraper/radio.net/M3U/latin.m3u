@@ -409,14 +409,14 @@ https://babel.ddns.net/tropicalfm
 http://server1.veemesoft.com.ar:9346/stream/1/
 #EXTINF:0,Rádio Correio da Serra
 https://shout25.crossradio.com.br:18086/live
-#EXTINF:0,costaradio
-http://109.169.76.104:23614/stream
 #EXTINF:0,Ttifany Queen Radio
 https://estructuraweb.com.co:9111/live
 #EXTINF:0,C-Oye 89.1 FM Insuperable
 http://streamingned.com:7146/;
 #EXTINF:0,Crioula FM
 https://nl.digitalrm.pt:8098/stream
+#EXTINF:0,Crooner Radio Julio Iglesias
+https://direct.croonerradio.fr/croonerradio-julioiglesias-midfi.mp3
 #EXTINF:0,Crooner Radio Summer
 https://direct.croonerradio.fr/croonerradio-summer-midfi.mp3
 #EXTINF:0,Crossover Estereo
@@ -688,7 +688,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA.mp3
 #EXTINF:0,Exa FM Guadalajara
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMA.mp3
 #EXTINF:0,Exa FM Ibarra
-https://streamingecuador.net:7030/stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,Exa FM Irapuato
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNY.mp3
 #EXTINF:0,Exa FM Las Vegas
@@ -830,7 +830,7 @@ https://s3.fairprice-streams.de:9148/stream
 #EXTINF:0,FREQUENCY5FM - LATINAFM - ESPAÑA
 https://turadio.accesopanel.com/8306/stream
 #EXTINF:0,Frequency5FM - Urbana
-https://stream.zeno.fm/h2gzxrxpmsbtv
+https://stream.zeno.fm/h2gzxrxpmsbtv?1
 #EXTINF:0,Fundingue
 https://s1.vpsradio.com:8068/;
 #EXTINF:0,FunX Latin
@@ -863,8 +863,6 @@ https://listen.radionomy.com/goodstationradio
 http://91.121.164.210:8336/stream
 #EXTINF:0,Rádio Grapiúna Pop
 https://s17.maxcast.com.br:8683/live
-#EXTINF:0,Grenada Entertainment Online Radio
-https://streaming.radio.co/s547960b78/listen
 #EXTINF:0,Gringo Chulo Radio 105.3 FM
 http://104.167.4.67:8156/listen.pls
 #EXTINF:0,Groovecafe The Chillout Experience 
@@ -1168,7 +1166,7 @@ https://ais-edge50-live365-dal02.cdnstream.com/a74692
 #EXTINF:0,La Fiera Libre
 https://centova.hostingelectrica.net/proxy/fiera12?mp=%2Fstream
 #EXTINF:0,La Fiesta Latina FM
-https://live.hbstreaming.com/lafiestalatinafm/stream
+https://radio.promavmedia.com/lafiestalatinafm/stream
 #EXTINF:0,LaFiestaMix
 https://26383.live.streamtheworld.com/SAM05AAC396.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4f697de0-cd88-4345-b40f-49c1ecae238f
 #EXTINF:0,La FM Mundial
@@ -2118,7 +2116,7 @@ http://stream-40.zeno.fm/ag76g6r7rs8uv?zs=mtLHgTmvTse7NloCXqKCbw&rj-tok=AAABeccn
 #EXTINF:0,Radio America Latina
 https://streaming.radiostreamlive.com/radioamericalatina_devices
 #EXTINF:0,Radio Amor e Loucura
-http://stream.zeno.fm/ornbvesigjlvv
+http://stream.zeno.fm/ornbvesigjlvv/;
 #EXTINF:0,Rádio Amor Portugal
 http://stream.radioamorportugal.com:8000/rap.mp3
 #EXTINF:0,Radio Angel Jacob Yacuiba
@@ -2299,8 +2297,6 @@ https://usa19.fastcast4u.com/radioihs
 https://cp11.serverse.com/proxy/jgzoanqj/stream
 #EXTINF:0,Radio Imperativa 502 HD
 https://securestream.radioshd.info:7020/stream/1/
-#EXTINF:0,Radio Imperial
-https://cdn.instream.audio/:9160/stream
 #EXTINF:0,Radio Independiente FM
 https://sonicpanel.globalstream.pro/8178/stream
 #EXTINF:0,Ràdio Indiana

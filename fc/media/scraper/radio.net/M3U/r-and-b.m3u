@@ -5,8 +5,6 @@ https://ice64.securenetsystems.net/LFTM
 http://107.181.227.250:8118/stream
 #EXTINF:0,101TheVibeFM
 https://streaming.radio.co/s188e71c13/listen
-#EXTINF:0,101TheVibeFM Radio
-https://streaming.radio.co/s188e71c13/listen
 #EXTINF:0,103.1 WEUP
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEUPFM_SC
 #EXTINF:0,103.7 Da Beat
@@ -465,6 +463,10 @@ http://s4.voscast.com:8370/;
 https://stream.radio.co/s4ae4ea1dc/listen
 #EXTINF:0,DJ KIDNU RADIO
 https://stream.radio.co/s4ae4ea1dc/listen
+#EXTINF:0,DJ M Breeze Radio
+https://streaming.live365.com/a17098
+#EXTINF:0,DJ PeeFunk Radio
+https://global2.citrus3.com:2020/stream/djpeefunk
 #EXTINF:0,DJ Radio Romania
 https://www.djradio.ro/stream
 #EXTINF:0,DJ Zyon.Seven.Radio
@@ -623,6 +625,8 @@ https://icecast.omroep.nl/funx-utrecht-bb-mp3
 https://futuradiourban.ice.infomaniak.ch/frurban-128.mp3?utm_source=radiofr&utm_medium=directory&utm_host=futuradiourban.ice.infomaniak.ch
 #EXTINF:0,Gaslight Square R&B
 https://stream.zeno.fm/8vqs7whh7f0uv
+#EXTINF:0,Gems Radio 
+https://stream.gemsradio.net:8000/stream.mp3
 #EXTINF:0,Géneration-Hit
 http://94.23.221.158:9117/GenerationHits
 #EXTINF:0,Générations 88.2
@@ -1023,6 +1027,8 @@ https://stream.laut.fm/blackbox?ref=radiode
 https://stream.laut.fm/blackbulls?ref=radiode
 #EXTINF:0,blackplanetradio
 https://stream.laut.fm/blackplanetradio?ref=radiode
+#EXTINF:0,CITYMUSIC FM
+http://stream.laut.fm/citymusicfm
 #EXTINF:0,dacorner
 https://stream.laut.fm/dacorner?ref=radiode
 #EXTINF:0,dead_or_allive
@@ -1089,12 +1095,16 @@ http://stream.playmusicfm.info:9000/
 https://stream.laut.fm/radio-ffw-black?ref=radiode
 #EXTINF:0,radio-ffw-girls
 https://stream.laut.fm/radio-ffw-girls?ref=radiode
+#EXTINF:0,Radiofourtyfour
+https://stream.laut.fm/radiofourtyfour?ref=radiode
 #EXTINF:0,Radiorelaxandchillradiograz FM
 https://stream.laut.fm/radiorelaxandchillradiograzfm?ref=radiode
 #EXTINF:0,radioSTOLBERG
 https://stream.laut.fm/radiostolberg?ref=radiode
 #EXTINF:0,Radio Surprise
 https://stream.laut.fm/radio-surprise?ref=radiode
+#EXTINF:0,RADIOWST
+https://stream.laut.fm/radiowst?ref=radiode
 #EXTINF:0,rap2soul
 https://stream.laut.fm/rap2soul?ref=radiode
 #EXTINF:0,Red Hot And Blue Radio
@@ -1751,44 +1761,8 @@ https://streamingV2.shoutcast.com/Static-TheBestOf1980
 https://streamingv2.shoutcast.com/static-the-best-of-1990
 #EXTINF:0,STATIC: BLUES
 https://streamingV2.shoutcast.com/Static-BluesExplosion
-#EXTINF:0,Static: Bristol
-https://radiostatic.stream/listen/static_-_bristol,_ri/static-bristol.aac
-#EXTINF:0,Static: Durango
-https://radiostatic.stream/listen/static_-_durango,_co/static-durango.aac
-#EXTINF:0,Static: Eureka Springs
-https://radiostatic.stream/listen/static_-_eureka_springs,_ar/static-eureka-springs.aac
-#EXTINF:0,Static: Fremont
-https://radiostatic.stream/listen/static_-_freemont,_ne/static-fremont
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
-#EXTINF:0,Static: Huron
-https://radiostatic.stream/listen/static_-_huron,_sd/static-huron
-#EXTINF:0,Static: Muscle Shoals
-https://radiostatic.stream/listen/static_-_muscle_shoals,_al/static-muscle-shoals
-#EXTINF:0,Static: Myrtle Beach
-https://radiostatic.stream/listen/static_-_myrtle_beach,_sc/static-myrtle-beach
-#EXTINF:0,Static: New Castle
-https://radiostatic.stream/listen/static_-_new_castle,_de/static-new-castle.aac
-#EXTINF:0,Static: Ocean Springs
-https://radiostatic.stream/listen/static_-_ocean_springs,_ms/static-ocean-springs.aac
-#EXTINF:0,Static: Osage Beach
-https://radiostatic.stream/listen/static_-_osage_beach,_mo/static-osage-beach.aac
-#EXTINF:0,Static: Park City
-https://radiostatic.stream/listen/static_-_park_city,_ut/static-park-city.aac
-#EXTINF:0,Static: Savannah
-https://radiostatic.stream/listen/static_-_savannah,_ga/static-savannah.aac
-#EXTINF:0,Static: Sewanee
-https://radiostatic.stream/listen/static_-_sewanee,_tn/sewanee.aac
-#EXTINF:0,Static: Silver City
-https://radiostatic.stream/listen/static_-_silver_city,_nm/static-silver-city.aac
-#EXTINF:0,Static: Charlotte Amalie-St. Thomas
-https://radiostatic.stream/listen/static_-_charlotte_amalie,_st._thomas,_vi/static-st-thomas.aac
-#EXTINF:0,Static: The Dells
-https://radiostatic.stream/listen/static_-_the_dells,_wi/static-the-dells.aac
-#EXTINF:0,Static: Tupelo
-https://radiostatic.stream/listen/static_-_tupelo,_ms/static-tupelo.aac
-#EXTINF:0,Static: Tyler
-https://radiostatic.stream/listen/static_-_tyler,_tx/static-tyler.aac
 #EXTINF:0,Steve Fox Old School
 https://s15.total-streaming.com:9008/oldschool
 #EXTINF:0,STL Smooth Jazz
@@ -2065,8 +2039,6 @@ https://live.amperwave.net/manifest/alphacorporate-whxtfmaac-ibc4
 https://ice9.securenetsystems.net/WIBT
 #EXTINF:0,Wike World Radio
 https://us2.internet-radio.com/proxy/wikeworldradio?mp=%2Fstream
-#EXTINF:0,Witney Radio
-http://stream.witneyfm.co.uk:8000/witney2
 #EXTINF:0,WJBE Jammin' 99.7 FM & 1040 AM
 https://ice8.securenetsystems.net/WJBE
 #EXTINF:0,WJRRadio100
@@ -2101,8 +2073,6 @@ https://s6.voscast.com:7787/stream
 https://stream.zenolive.com/356073y1xreuv
 #EXTINF:0,World Vibe Radio One
 https://www.radioking.com/play/wvro/436102
-#EXTINF:0,WORN-DB – Digital 105.7 RnB Now
-https://ice66.securenetsystems.net/WORNDB
 #EXTINF:0,WPRR 102.5 FM The Ride
 https://listen.radioking.com/radio/336604/stream/385105
 #EXTINF:0,WPWZ Power 95.5 FM

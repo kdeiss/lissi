@@ -15,8 +15,6 @@ http://206.217.213.236:8170/;
 http://107.181.227.250:8118/stream
 #EXTINF:0,101TheVibeFM
 https://streaming.radio.co/s188e71c13/listen
-#EXTINF:0,101TheVibeFM Radio
-https://streaming.radio.co/s188e71c13/listen
 #EXTINF:0,103.1 WEUP
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEUPFM_SC
 #EXTINF:0,103.7 Da Beat
@@ -141,6 +139,8 @@ https://stream.zeno.fm/d5apx0ntfzzuv
 https://shalomstar.com:2199/tunein/shaihitz.pls
 #EXTINF:0,AFTV Radio
 https://stream.zeno.fm/4p3md467ytzuv
+#EXTINF:0,Air06
+https://listen.radioking.com/radio/10938/stream/22037
 #EXTINF:0,Airstrike Radio
 http://net1.citrus3.com:8576/stream/1/
 #EXTINF:0,Alabama Hott Radio
@@ -347,6 +347,8 @@ https://streaming04.liveboxstream.uk/proxy/burnside?mp=/burnsideradiouk.aac
 https://streaming.live365.com/a64515
 #EXTINF:0,Bvzz Radio
 http://stream.zeno.fm/mrrec7txpnhvv
+#EXTINF:0,Cabriz Radio
+http://stm1.xcast.com.br:10996/stream/1/
 #EXTINF:0,Cadena SER Castro Urdiales
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3
 #EXTINF:0,Calvada Sound Radio
@@ -511,6 +513,8 @@ http://s4.voscast.com:8370/;
 https://stream.radio.co/s4ae4ea1dc/listen
 #EXTINF:0,DJ KIDNU RADIO
 https://stream.radio.co/s4ae4ea1dc/listen
+#EXTINF:0,DJ M Breeze Radio
+https://streaming.live365.com/a17098
 #EXTINF:0,Dj Nic Music
 https://wupn864.out.airtime.pro/wupn864_a?_ga=2.185339433.1609580828.1636862335-425292757.1612150893
 #EXTINF:0,DJ PeeFunk Radio
@@ -561,8 +565,6 @@ http://sv2.famcast.co.za/proxy/energyfm?mp=%2Fstream
 https://energyurban.ice.infomaniak.ch/energyurban-high.mp3
 #EXTINF:0,ENERGY Rap US
 https://scdn.nrjaudio.fm/adwz1/de/33041/mp3_128.mp3?origine=radio.net
-#EXTINF:0,ENERGY Urban
-https://scdn.nrjaudio.fm/adwz1/de/33025/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Epic-Lounge - Shisha Lounge
 https://stream.epic-lounge.com/shisha-lounge?ref=radiode
 #EXTINF:0,ESKA Rap 20
@@ -857,8 +859,6 @@ https://streams.ilovemusic.de/iloveradio13.mp3
 https://streaming.radio.co/s50ccbed54/listen
 #EXTINF:0,In Da Mix Radio
 https://ais-edge103-live365-dal02.cdnstream.com/a77403
-#EXTINF:0,Independent Hip-Hop Radio
-https://ais-edge105-live365-dal02.cdnstream.com/a50066
 #EXTINF:0,Infinity FM
 https://ice42.securenetsystems.net/KHDD
 #EXTINF:0,Inside The Club
@@ -2113,7 +2113,7 @@ https://radiorecord.hostingradio.ru/mf96.aacp
 https://stream.regenbogen.de/hiphop/mp3-128/radiode
 #EXTINF:0,Radio ReyMod
 https://server.streamcasthd.com:7092/stream/1/
-#EXTINF:0,Radio Roberto Solo Emergenti
+#EXTINF:0,Italia Web Radio
 https://kathy.torontocast.com:4715/stream
 #EXTINF:0,Radio RSG - Dein HipHop Radio
 https://stream.lokalradio.nrw/4458cxk
@@ -2165,8 +2165,6 @@ https://stream.zeno.fm/cgfzwaagzojtv
 https://streamingV2.shoutcast.com/BatallasEpicasDeRap
 #EXTINF:0,rap life radio
 https://servidor17-2.brlogic.com:7982/live
-#EXTINF:0,Le Rapologue À L'Ancienne 
-https://alancienne.radioca.st/stream
 #EXTINF:0,RAP ON AIR 24H 
 https://streamingV2.shoutcast.com/RAP-ON-AIR-RADIO
 #EXTINF:0,RapRoxRadio
@@ -2423,8 +2421,6 @@ https://radio.rtbf.be/tarmac/mp3-160/rf
 https://radios.rtbf.be/tarmac-64.aac
 #EXTINF:0,Technolovers MASHUP
 https://stream.technolovers.fm/house
-#EXTINF:0,TENDANCE OUEST URBAN
-https://tendanceouest-urban.ice.infomaniak.ch/urban.mp3
 #EXTINF:0,Radio Tequila Hip Hop
 http://necenzurat.radiotequila.ro:7000/stream/1/
 #EXTINF:0,Texas101Jams
@@ -2603,8 +2599,6 @@ https://sonicpanel.vmakerhost.com/8056/stream
 http://s02.whooshserver.net:9091/live.mp3
 #EXTINF:0,Viceradio FM
 https://srv.webradiomanager.fr:1335/stream
-#EXTINF:0,Viral FM
-https://radio.ttech.fun/listen/viralfm/viralfm.mp3
 #EXTINF:0,Virco Music Radio
 https://stream.zeno.fm/qenguw9ubv8uv
 #EXTINF:0,Vision FM
