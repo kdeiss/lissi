@@ -114,7 +114,7 @@ https://s2.free-shoutcast.com/stream/18258
 #EXTINF:0,Exa FM Ecuador
 https://26563.live.streamtheworld.com/ECUADOR_SC
 #EXTINF:0,Exa FM Ibarra
-https://streamingecuador.net:7030/stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,Exa FM Irapuato
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNY.mp3
 #EXTINF:0,Exa FM Las Vegas
@@ -153,6 +153,8 @@ http://radio.pro-fhi.net:9064/stream/1/
 https://stream.zeno.fm/yz3k4k3am48uv
 #EXTINF:0,High Class Radio
 https://s1.epistreaming.net/proxy/junior/stream
+#EXTINF:0,Hills FM 100.4
+http://5.135.154.72:21392/stream/1/
 #EXTINF:0,Hotmix SUNNY
 https://streaming.hotmixradio.fr/hotmix-sunny-en-mp3
 #EXTINF:0,Hunter.FM - Tropical
@@ -365,8 +367,6 @@ https://usa11.fastcast4u.com/proxy/radioa1a?mp=/stream
 https://akatoto.ice.infomaniak.ch/akatoto-128.mp3
 #EXTINF:0,Radio Andina FM
 https://stream.zeno.fm/su57vauk7e9uv
-#EXTINF:0,Radio Aquinoise International
-https://www.radioking.com/play/radio-aquinoise
 #EXTINF:0,Radio Archipel FM
 https://stream.zeno.fm/yu5bgu3huhruv
 #EXTINF:0,Radiobachata
@@ -409,8 +409,6 @@ https://stream.zeno.fm/716f4m6u2qruv
 https://sonic.dattassd.com/4062/stream
 #EXTINF:0,Radio Omega
 http://rtvhd.net:9932/;
-#EXTINF:0,Radio Pacific 101.5
-http://108.59.11.81:8339/stream/1/
 #EXTINF:0,Siroter un Ti' Punch au soleil avec Radio Pikan
 https://stream4.vestaradio.com/RADIOPIKAN
 #EXTINF:0,Radio Record Tropical

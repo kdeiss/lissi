@@ -64,7 +64,7 @@ https://1a-hits.radionetz.de/1a-hits.mp3
 #EXTINF:0,1A Neuheiten
 https://stream.1a-webradio.de/saw-neuheiten/mp3-128/radiode-1A/stream.mp3
 #EXTINF:0,1 BELGIAN ON DEMAND RADIO
-http://bodr.ddns.net:9052/;
+https://securestreams7.autopo.st/?uri=http://bodr.ddns.net:9052/;
 #EXTINF:0,1CBR Mix 106.3
 https://ais-arn.streamguys1.com/au_006_icy
 #EXTINF:0,1Faith FM - Christmas Top 40
@@ -213,6 +213,8 @@ http://185.11.164.106:35022/stream
 http://sss.cnwks.ws:8322/;
 #EXTINF:0,95.5 WIFC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIFCFMAAC_SC
+#EXTINF:0,95 Real Young Country
+https://streaming.live365.com/a96705
 #EXTINF:0,Rádio 96 FM Bauru
 https://streaming.ei3.com.br/radio/8000/mp3
 #EXTINF:0,96 FM-RN
@@ -517,10 +519,10 @@ https://streambbr.ir-media-tec.com/sommer/mp3-128/radiode_web_mp3/
 https://streambbr.ir-media-tec.com/top50/mp3-128/dmhubweb/play.mp3
 #EXTINF:0,BDJoy
 http://stream-bdjoy.bdjradio.com
+#EXTINF:0,BDR POLSKA
+https://bdr-polska.stream.laut.fm/bdr-polska
 #EXTINF:0,Beacon Online Radio
 https://stream.zeno.fm/n5c8anyn7k8uv
-#EXTINF:0,Bean Internet Radio
-https://streaming.live365.com/a71483
 #EXTINF:0,Beat 102-103
 https://stream.audioxi.com/BEATAAC
 #EXTINF:0,BeatBassRadio
@@ -545,8 +547,6 @@ http://radio.streemlion.com:1690/stream
 https://rs102-krk-cyfronet.rmfstream.pl/BESTOFRMFON
 #EXTINF:0,Best Radio 1
 https://player.bestradio1.hits1radio.com
-#EXTINF:0,Better Music Mix Radio
-https://s8.citrus3.com:8192/stream
 #EXTINF:0,BF 99.5FM Ang Kaibigan mo FM 
 http://ample-zeno-03.radiojar.com/yf7x47v1tfeuv
 #EXTINF:0,BFBS Radio 1 Afghanistan
@@ -602,7 +602,7 @@ https://stream.bigfm.de/rlp/mp3-128/radiode
 #EXTINF:0,Big FM
 http://82.208.143.10:8000/stream/1/
 #EXTINF:0,bigFM Saarland
-https://stream.bigfm.de/sb/mp3-128/radiode
+https://stream.bigfm.de/saarland/aac-128/stream.bigfm.de/radiode
 #EXTINF:0,Biggest LIttle Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC
 #EXTINF:0,Big Hits Palmira
@@ -1329,8 +1329,6 @@ https://stream.laut.fm/radioenzian
 https://www.radioking.com/play/equinox-radio-barcelone
 #EXTINF:0,E-Radio Streaming
 http://s7.alhastream.com/radio/8150/radio
-#EXTINF:0,ERA
-https://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
 #EXTINF:0,ERFM
 https://karadoc.erfm.fr/radio
 #EXTINF:0,Radio Erretizeta
@@ -1454,7 +1452,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMA.mp3
 #EXTINF:0,Exa FM Guasave
 http://192.99.16.17:7841/stream/1/
 #EXTINF:0,Exa FM Ibarra
-https://streamingecuador.net:7030/stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
 #EXTINF:0,Exa FM Irapuato
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNY.mp3
 #EXTINF:0,Exa FM Las Vegas
@@ -2389,6 +2387,8 @@ https://emg.streamguys1.com/fuzion-website
 https://ice24.securenetsystems.net/KLLP
 #EXTINF:0,KLOZ - Mix 92.7 FM
 http://icecast.yhti.net:8000/MIX927_high.m3u
+#EXTINF:0,KLSM KHits 104.5 FM
+https://ice42.securenetsystems.net/KLSM
 #EXTINF:0,KLTA - Big 98.7 FM
 https://ice3.securenetsystems.net/KLTA
 #EXTINF:0,KLTA Big 98.7
@@ -2556,7 +2556,7 @@ https://stream.mediasector.es/radio/8070/laflamenca-benidorm.mp3
 #EXTINF:0,La Flamenca Jávea, Calp y Marina Alta Sur e Interior
 https://stream.mediasector.es/radio/8070/laflamenca-marina-alta-sur.mp3
 #EXTINF:0,La Flamenca Torrevieja y Vega Baja
-https://stream.mediasector.es/radio/8070/laflamenca-torrevieja.mp3
+https://stream.emisorasmusicales.net/listen/la_flamenca/laflamenca.mp3
 #EXTINF:0,La Flamenca València
 https://stream.mediasector.es/radio/8070/laflamenca-valencia.mp3
 #EXTINF:0,La Formula
@@ -2665,10 +2665,14 @@ https://stream.laut.fm/angels-soundpalast?ref=radiode
 https://stream.laut.fm/antenne_blasewitz?ref=radiode
 #EXTINF:0,Antennefranken
 https://stream.laut.fm/antennefranken?ref=radiode
+#EXTINF:0,Antenne Live
+https://antenne21.stream.laut.fm/antenne21
 #EXTINF:0,Antenne Meitingen
 https://stream.laut.fm/antennne?ref=radiode
 #EXTINF:0,antenne-mix24
 https://stream.laut.fm/antenne-mix24?ref=radiode
+#EXTINF:0,Antennemv
+https://stream.laut.fm/antennemv?ref=radiode
 #EXTINF:0,Antenne Passau 
 https://stream.laut.fm/antenne-passau?ref=radiode
 #EXTINF:0,Antenne Rhein Ruhr
@@ -2895,8 +2899,6 @@ https://stream.laut.fm/ehrenbergonair?ref=radiode
 https://stream.laut.fm/eifelfm?ref=radiode
 #EXTINF:0,einfachcharts
 https://stream.laut.fm/einfachcharts?ref=radiode
-#EXTINF:0,enery_fm
-https://stream.laut.fm/enery_fm?ref=radiode
 #EXTINF:0,enjoy
 https://stream.laut.fm/enjoy?ref=radiode
 #EXTINF:0,epicfm
@@ -2981,6 +2983,8 @@ https://stream.laut.fm/germanreallife?ref=radiode
 https://stream.laut.fm/gfm?ref=radiode
 #EXTINF:0,Glamurnaya volna
 https://stream.laut.fm/glamwave?ref=radiode
+#EXTINF:0,glueckauf
+https://stream.laut.fm/glueckauf?ref=radiode
 #EXTINF:0,Gm Charts
 https://stream.laut.fm/gm-charts?ref=radiode
 #EXTINF:0,Gmstream
@@ -2999,6 +3003,8 @@ https://stream.laut.fm/greathitfm?ref=radiode
 https://stream.laut.fm/grieferradio?ref=radiode
 #EXTINF:0,griefhub24
 https://stream.laut.fm/griefhub24?ref=radiode
+#EXTINF:0,Gta Radio
+https://stream.laut.fm/gta-radio?ref=radiode
 #EXTINF:0,gucci-fm
 https://stream.laut.fm/gucci-fm?ref=radiode
 #EXTINF:0,Habbobass
@@ -3289,6 +3295,8 @@ https://stream.laut.fm/newgenradio?ref=radiode
 https://stream.laut.fm/newhitsradio_italy?ref=radiode
 #EXTINF:0,Nife FM
 https://stream.laut.fm/nifefm?ref=radiode
+#EXTINF:0,Nitro FM
+https://stream.laut.fm/nitrofm?ref=radiode
 #EXTINF:0,Noise On FM
 https://stream.laut.fm/noiseonfm?ref=radiode
 #EXTINF:0,nolightfm
@@ -3411,6 +3419,8 @@ https://stream.laut.fm/radio-chartsfm?ref=radiode
 https://stream.laut.fm/radioclp?ref=radiode
 #EXTINF:0,Radio Clubbing
 https://stream.laut.fm/radioclubbing?ref=radiode
+#EXTINF:0,Radio Delphin Welle
+https://stream.laut.fm/radio-delphin-welle
 #EXTINF:0,radiodrop
 https://stream.laut.fm/radiodrop?ref=radiode
 #EXTINF:0,Radio Euphoria
@@ -4349,8 +4359,6 @@ https://play.global.audio/nrj128
 http://cdn.nrjaudio.fm/adwz1/lb/55219/mp3_128.mp3
 #EXTINF:0,NRJ België
 https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3
-#EXTINF:0,NRJ Best of Belgium
-https://stream.rcs.revma.com/3pp1bdmvgxhvv
 #EXTINF:0,NRJ Belgique
 https://stream.rcs.revma.com/xh00fwuptg0uv
 #EXTINF:0,NRJ Nouveautés
@@ -4715,8 +4723,6 @@ https://sphera.fluidstream.eu/rpd.aac
 http://ample-zeno-04.radiojar.com/a3ggpf8rt6duv
 #EXTINF:0,Paivense 99.5 FM 
 http://paivense.no-ip.info:8080/;
-#EXTINF:0,Paks FM 96.3
-http://stream.42netmedia.com:8000/paks_fm
 #EXTINF:0,Ràdio Palafolls 107.7 FM
 http://streaming.enantena.com:8000/radiopalafolls128.mp3
 #EXTINF:0,Palmos Plus 95.0 FM
@@ -4740,7 +4746,7 @@ https://stream.laut.fm/partyfunclub2012?refradiode
 #EXTINF:0,PartyMastersMusic
 https://stream.laut.fm/partymastersmusic?ref=radiode
 #EXTINF:0,Party-Musikexpress
-http://stream.psy-hosting.de:8100/listen1
+https://stream2-alfacast-hosting.com/8068/stream
 #EXTINF:0,PashPash Radio
 https://hits.pashpashradio.com:7000/stream
 #EXTINF:0,Patagonia Radio 94.1 FM
@@ -4771,6 +4777,8 @@ https://stream.laut.fm/piratensender-powerplay?ref=radiode
 https://stream.laut.fm/pi-universe-radio?ref=radiode
 #EXTINF:0,planet radio
 https://streams.planetradio.de/planetradio/mp3/hqlivestream.mp3?amsparams=playerid:RTFFHRadioDE
+#EXTINF:0,Planeta X Music Station
+http://shoutcast.tmcreativos.com:8184/stream/1/
 #EXTINF:0,planet radio plus fun
 https://streams.planetradio.de/plrplus/mp3/hqfun.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,planet radio plus heartbreak
@@ -4781,8 +4789,6 @@ https://streams.planetradio.de/plrplus/mp3/hqliebe.mp3?amsparams=playerid:RTFFHR
 https://streams.planetradio.de/plrchannels/mp3/hqitunes.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Platinum Gold Radio
 http://s2.voscast.com:10128/stream/1/
-#EXTINF:0,PlayCM
-http://cast5.my-control-panel.com:8310/stream
 #EXTINF:0,PlayFM
 https://streaming.live365.com/a60541
 #EXTINF:0,PlayHits
@@ -4858,7 +4864,7 @@ https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
 #EXTINF:0,Power Türk FM
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:0,POWER WEB RADIO
-https://live10.livemus.com.br:27044/stream
+https://live9.livemus.com.br:27460/stream
 #EXTINF:0,Power Web Radio Classics
 https://live10.livemus.com.br:27044/stream
 #EXTINF:0,Pozuelo Radio 91.9 FM
@@ -4889,8 +4895,6 @@ https://streaming.radio.co/s40a80d02d/listen
 https://streams.radiopsr.de/psr-chartbreaker/mp3-128/radiode/
 #EXTINF:0,RADIO PSR Sachsensongs
 https://streams.radiopsr.de/sachsensongs/mp3-128/radiode/
-#EXTINF:0,PTVN Radio
-https://s27.myradiostream.com/18318/listen.mp3
 #EXTINF:0,puissance dance 
 http://91.121.59.45:10091/stream
 #EXTINF:0,Pulse EDM Dance Music
@@ -5013,6 +5017,8 @@ https://stream.lokalradio.nrw/44524xx
 http://5.135.39.189:8024/;
 #EXTINF:0,Radio ABC
 https://radioserver.dk/abc
+#EXTINF:0,Radio Abruzzo Marche
+https://s1.forstream.it:8040/stream
 #EXTINF:0,Radio Active 103.9
 https://live-bauerse-fm.sharp-stream.com/radioactive_aac
 #EXTINF:0,Radio AFFENGEIL
@@ -5170,7 +5176,7 @@ http://142.4.215.64:2199/tunein/radiofaversham.pls
 #EXTINF:0,Radio Fivoarana
 http://serveur.wanastream.com:9000/stream.oggg
 #EXTINF:0,Radio Flora TM
-https://usa10.fastcast4u.com:9520/;
+https://usa10.fastcast4u.com:9520/;?type=http&nocache=1705815130
 #EXTINF:0,QuerBeet ganz nach dem Motto Bunt wie das Leben!
 https://stream.laut.fm/radio-for-friends?ref=radiode
 #EXTINF:0,Radio for Vapers
@@ -5234,7 +5240,7 @@ http://185.105.4.100/proxy/radioinv?mp=%2Fstream
 #EXTINF:0,Radio in Agrigento
 http://94.23.66.155:9242/stream;?1664887999520
 #EXTINF:0,Radio Jammor
-https://streaming.live365.com/a00750
+https://stream.radiojar.com/hd9bvmwr042vv
 #EXTINF:0,Rádio Jovem Pan Serra Gaúcha
 http://centova6.ciclanohost.com.br:9142/stream/1/
 #EXTINF:0,Radio Juventud GC
@@ -5389,8 +5395,6 @@ http://streaming.radionomy.com/JamendoLounge
 http://65.21.202.84:8510/stream
 #EXTINF:0,Radio Polis 99.4 FM
 http://sh.onweb.gr:9940/stream/1/
-#EXTINF:0,Radio Polonia FM
-https://pegasus.nucast.co.uk:8054/stream
 #EXTINF:0,Ràdio Pont de Molins
 https://stream.zeno.fm/qh2zmtaxn7zuv
 #EXTINF:0,Radio Pop HD
@@ -6067,8 +6071,6 @@ https://srv.tendanceradio.net:8000/1/stream
 http://91.121.165.41:9045/stream
 #EXTINF:0,Test24
 https://tuner.m1.fm/charts.mp3
-#EXTINF:0,Radio Time For Friends TFF
-http://84.200.7.220:8000
 #EXTINF:0,91.5 The Beat
 https://live.leanstream.co/CKBTFM
 #EXTINF:0,The Beat Borås
@@ -6161,6 +6163,8 @@ http://sc2.streamwithq.com:8086/stream/1/
 http://live.topfm.hu:8000/base.mp3
 #EXTINF:0,Top FM
 https://players.creacast.com/creacast/top_fm/playlist.pls
+#EXTINF:0,TOP FM Île de la Réunion
+https://radio6.pro-fhi.net/radio/9070/stream
 #EXTINF:0,Top FM
 http://109.206.96.12:8000/;
 #EXTINF:0,Love Radio 90.7 Digital
@@ -6313,8 +6317,6 @@ https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance
 http://178.32.111.41:8030/stream-128kmp3-Dancefloor
 #EXTINF:0,Party Dance Radio
 https://radio4.vip-radios.fm:18042/stream-128kmp3-PartyDance
-#EXTINF:0,Viral FM
-https://radio.ttech.fun/listen/viralfm/viralfm.mp3
 #EXTINF:0,Virgin Radio Lebanon
 https://stream.zeno.fm/dwxw3p9vea0uv
 #EXTINF:0,Virgin Radio Oman 
@@ -6501,6 +6503,8 @@ https://listen.wismar.fm/wismar.fm_mp3
 https://ice5.securenetsystems.net/WIVQ?type=.mp3
 #EXTINF:0,WIXX 101 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC
+#EXTINF:0,W!ZARD Radio Station
+http://159.223.10.111:8000/wizardstream
 #EXTINF:0,WIZM Z93
 http://crystalout.surfernetwork.com:8001/WIZM_MP3
 #EXTINF:0,WJAS - the Talk of Pittsburgh

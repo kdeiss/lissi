@@ -385,8 +385,6 @@ https://streams.antennemv.de/oldies/mp3-128/radiode/
 https://stream.antenne.com/antenne-nds-80er/mp3-128/radiode/
 #EXTINF:0,Oldies - Antenne Niedersachsen
 https://stream.antenne.com/oldies/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Schlager
-https://stream.antenne-schlager.de/schlager-live/mp3-192/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Oldie Radio
 https://stream.antenneniederrhein.de/44548hp
 #EXTINF:0,OLDIE ANTENNE – Oldies but Goldies
@@ -405,6 +403,8 @@ https://web.radio.antennesachsen.de/antsa-leipzig?aggregator=radiode
 https://web.radio.antennesachsen.de/antsa-dresden?aggregator=radiode
 #EXTINF:0,ANTENNE SACHSEN - Region Vogtland
 https://web.radio.antennesachsen.de/antsa-vogtland?aggregator=radiode
+#EXTINF:0,Antenne Schlager
+https://stream.antenne-schlager.de/schlager-live/mp3-192/radiode/
 #EXTINF:0,Antenne Sylt
 https://streams.antenne-sylt.de/sylt/mp3-128/radiode/
 #EXTINF:0,Antenne Sylt – Schleswig-Holstein
@@ -3297,6 +3297,8 @@ https://radio.vousstream.com/8042/stream
 https://stream.laut.fm/partyfunclub2012?refradiode
 #EXTINF:0,Partyhuettenradio 
 http://stream.partyhuettenradio.de:8020/stream/1/
+#EXTINF:0,Party-Musikexpress
+https://stream2-alfacast-hosting.com/8068/stream
 #EXTINF:0,Passion FM
 http://streaming.cloudmjs.com:8002/cfin.mp3
 #EXTINF:0,Perfect Elvis
@@ -3661,6 +3663,8 @@ http://61.69.112.50:88/broadwave.mp3?rate=1&src=1
 http://stream.zeno.fm/flnk47wp7bnvv
 #EXTINF:0,Radio Flora
 https://radioflora.de/stream/live48.mp3
+#EXTINF:0,Radio Flora TM
+https://usa10.fastcast4u.com:9520/;?type=http&nocache=1705815130
 #EXTINF:0,RadioForum2
 https://s7.streamcaster.eu:8112/stream1
 #EXTINF:0,Radiofoxgarden
@@ -3851,6 +3855,8 @@ http://listen.radiogora.ru:8000/oldies128
 https://stream.radio-oldtimer.de/call/oldtimerradio.mp3
 #EXTINF:0,Radio Onda Digital
 http://149.56.241.147:8180/stream/1/
+#EXTINF:0,Radio On Play
+https://eagle.streemlion.com:4161/stream
 #EXTINF:0,Radio Oro Marbella
 http://185.23.192.118:8004/stream/1/
 #EXTINF:0,Radio Padova History
@@ -3890,7 +3896,7 @@ https://ramasuri-live.cast.addradio.de/ramasuri/live/mp3/high?ar-distrbutor=f0a0
 #EXTINF:0,Radio Rasec Internacional
 https://stream.zeno.fm/m8da9u22kwzuv
 #EXTINF:0,Radio-RDB
-http://server36252.streamplus.de/stream.mp3
+https://c02.lexycast.de:1290/;?type=http&nocache=1705398479
 #EXTINF:0,Radio Recuerdo 860
 https://playerservices.streamtheworld.com/api/livestream-redirect/XENLAM_SC
 #EXTINF:0,Radio Regenbogen Oldies
@@ -4589,8 +4595,6 @@ https://srv.tendanceradio.net:8010/1/stream
 https://stream.zeno.fm/upaurctdbm8uv
 #EXTINF:0,Test29
 http://tuner.m1.fm/oldies.mp3
-#EXTINF:0,Radio Time For Friends TFF
-http://84.200.7.220:8000
 #EXTINF:0,That 70's Channel
 https://streaming.live365.com/b68000_128mp3
 #EXTINF:0,THE BASS STATION 561 (Heat 4 Da Streets)

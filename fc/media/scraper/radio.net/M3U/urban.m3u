@@ -173,6 +173,8 @@ https://stream.bigfm.de/niedersachsen/mp3-128/radiode
 https://stream.bigfm.de/nrw/mp3-128/radiode
 #EXTINF:0,bigFM Rheinland-Pfalz
 https://stream.bigfm.de/rlp/mp3-128/radiode
+#EXTINF:0,bigFM Saarland
+https://stream.bigfm.de/saarland/aac-128/stream.bigfm.de/radiode
 #EXTINF:0,bigFM Sports & Workout
 https://stream.bigfm.de/sports/mp3-128/radiode
 #EXTINF:0,bigFM Turn UP
@@ -264,7 +266,7 @@ https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
 #EXTINF:0,dicjazz
 https://stream.zeno.fm/mtes551d308uv
 #EXTINF:0,Dix FM
-https://radio25.virtualtronics.com/proxy/dixfm?mp=%2Fstream
+https://radio25.virtualtronics.com/proxy/dixfm?mp=/stream&1
 #EXTINF:0,DJ Chase Radio
 https://streaming.live365.com/a56086
 #EXTINF:0,DJ PeeFunk Radio
@@ -301,8 +303,6 @@ https://frontend.streamonkey.net/energy-nrw?aggregator=radiode
 https://scdn.nrjaudio.fm/adwz1/de/33017/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Energy Surge Radio
 https://sonicpanel.vmakerhost.com/8084/stream
-#EXTINF:0,ENERGY Urban
-https://scdn.nrjaudio.fm/adwz1/de/33025/mp3_128.mp3?origine=radio.net
 #EXTINF:0,Exclusively Kendrick Lamar
 https://streaming.exclusive.radio/er/kendricklamar/icecast.audio
 #EXTINF:0,Fashion District Radio
@@ -318,7 +318,7 @@ https://wg.cdn.tibus.net/TA
 #EXTINF:0,Fr3cuencia OK
 http://streaming.radionomy.com/Fr3cuenciaOK
 #EXTINF:0,Frequency5FM - Urbana
-https://stream.zeno.fm/h2gzxrxpmsbtv
+https://stream.zeno.fm/h2gzxrxpmsbtv?1
 #EXTINF:0,Funky SX
 http://stream1.funkyessex.co.uk:8000/mp3128
 #EXTINF:0,FunX Amsterdam
@@ -715,6 +715,8 @@ https://casper.radioca.st/;
 http://162.244.80.106:10853/stream
 #EXTINF:0,Radio Contact Urban
 https://contacturban.ice.infomaniak.ch/contacturban-192.mp3
+#EXTINF:0,Radio Cultural De Puriscal
+https://stream.rcast.net/70861
 #EXTINF:0,Rádio DD
 https://sp0.redeaudio.com/8238/stream
 #EXTINF:0,Radio Duisburg - Dein Urban Radio
@@ -773,7 +775,7 @@ http://62.210.24.124:8714
 https://radioquar.com/radio/8000/radio320.mp3
 #EXTINF:0,Radio Record Black
 https://radiorecord.hostingradio.ru/yo96.aacp
-#EXTINF:0,Radio Roberto Solo Emergenti
+#EXTINF:0,Italia Web Radio
 https://kathy.torontocast.com:4715/stream
 #EXTINF:0,Radio RSG - Dein Urban Radio
 https://stream.lokalradio.nrw/44528xx
@@ -1033,6 +1035,8 @@ https://s20.reliastream.com/stream/8016
 https://ice-1.streamhoster.com/lv_wkkcfm1--broadcast1
 #EXTINF:0,WKTT - LIVE 97.5 FM
 https://ice66.securenetsystems.net/WKTT
+#EXTINF:0,WLEO 26.7 Online Radio
+https://servidor26.brlogic.com:7116/live
 #EXTINF:0,WLXC - Kiss 98.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLXCFM.mp3
 #EXTINF:0,WNJR-Radio.com

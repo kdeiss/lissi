@@ -113,8 +113,6 @@ https://streams.antennemv.de/bauerkorl/mp3-192/radiode/
 https://streams.antennemv.de/partymix/mp3-192/radiode/
 #EXTINF:0,AMV Schlager
 https://streams.antennemv.de/amv-schlager/mp3-128/radiode/
-#EXTINF:0,Antenne Niedersachsen Schlager
-https://stream.antenne-schlager.de/schlager-live/mp3-192/radiode/
 #EXTINF:0,Schützenfest Hits - Antenne Niedersachsen
 https://stream.antenne.com/schuetzenfest/mp3-128/radiode/
 #EXTINF:0,Antenne Niederrhein - Dein Schlager Radio
@@ -135,6 +133,8 @@ https://web.radio.antennesachsen.de/antsa-leipzig?aggregator=radiode
 https://web.radio.antennesachsen.de/antsa-dresden?aggregator=radiode
 #EXTINF:0,ANTENNE SACHSEN - Region Vogtland
 https://web.radio.antennesachsen.de/antsa-vogtland?aggregator=radiode
+#EXTINF:0,Antenne Schlager
+https://stream.antenne-schlager.de/schlager-live/mp3-192/radiode/
 #EXTINF:0,ANTENNE BAYERN - Schlagersahne
 https://stream.antenne.de/das-schlager-karussell/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,DORFKIND RADIO
@@ -2759,6 +2759,8 @@ http://tuner.m1.fm/schlagerparty.mp3
 https://stream.silvacast.com/RPLive/mp3-128/radio_de/
 #EXTINF:0,The House of Music
 http://stream01.script24.net:9230/;
+#EXTINF:0,The Nightphoenix Radio
+http://c02.lexycast.de:2190/;
 #EXTINF:0,Radio Tirol Italia
 https://str0.creacast.com/radiotirol_a
 #EXTINF:0,Tirolia-Express
