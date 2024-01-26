@@ -5,8 +5,6 @@ https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
 https://audio.bild-und-ton.stream:16162/alternativaradio-en
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
-#EXTINF:0,BPM
-http://bpm.myddns.me:8222/stream
 #EXTINF:0,CADENA 5
 https://stream.radiolive.com.co:8020/radio.mp3
 #EXTINF:0,Cadena SER Aranda
@@ -403,8 +401,6 @@ https://node-01.zeno.fm/rz933gkgva0uv
 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid?aggregator=radio-de
 #EXTINF:0,Inforadio Budapest
 http://info01.nlg.hu:8400/stream/1/
-#EXTINF:0,Inforadio UCM
-https://stream.zeno.fm/syfk1h3e0fnuv
 #EXTINF:0,INFORMA RADIO
 https://streams.radio.co/se18e1e587/low
 #EXTINF:0,Inform Me
@@ -585,8 +581,6 @@ https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCUBAM.mp3
 #EXTINF:0,KCUK 88.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCUKFMAAC.aac
-#EXTINF:0,KCUP News/Talk 1230 AM
-http://streaming.rubinbroadcasting.com/kcup
 #EXTINF:0,KCUR - 89.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP.aac?
 #EXTINF:0,KCXL 1140 AM
@@ -713,8 +707,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC_SC
 #EXTINF:0,KGPS FM
 http://live.str3am.com:2330/live
-#EXTINF:0,KGTK - MegaTalk 920 AM
-https://crystalout.surfernetwork.com:8001/KITZ_MP3
 #EXTINF:0,KGU-AM - AM 760 The Reason
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAM.mp3
 #EXTINF:0,KGWA 960 AM
@@ -853,8 +845,6 @@ https://ice23.securenetsystems.net/KGIR
 https://ice23.securenetsystems.net/KLTF
 #EXTINF:0,KLWB-FM - The Game 103.7 FM
 https://ice6.securenetsystems.net/KLWB?type=.mp3
-#EXTINF:0,KLWS Northwest Public Radio
-http://134.121.234.129:8000/NWPRNEWS
 #EXTINF:0,KLXX - Super Talk 1270 AM
 http://stream.abacast.net/direct/townsquare-klxxamaac-ibc3
 #EXTINF:0,KMA - KMAland 960 AM
@@ -1119,8 +1109,6 @@ http://s3.voscast.com:7204/;stream0.775785576086491.mp3
 https://crystalout.surfernetwork.com:8001/KTLR_MP3
 #EXTINF:0,KTOO News 104.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTOOFMAAC_SC?pname=TDSdk
-#EXTINF:0,KTOX K-Talks 1340 AM
-http://streaming.rubinbroadcasting.com/ktox
 #EXTINF:0,KTPR 89.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFMAAC.aac
 #EXTINF:0,KTRF 1230 AM
@@ -1247,6 +1235,8 @@ http://streaming.live365.com/a84091
 https://usa17.fastcast4u.com/proxy/fahenr00?mp=/stream
 #EXTINF:0,KYOS 1480 AM
 https://ice42.securenetsystems.net/KYOS
+#EXTINF:0,KYST La Nueve Veinte 920 AM
+http://67.212.165.106:8204/stream
 #EXTINF:0,KZNS - KSL Sports Zone 97.5 FM & 1280 AM
 https://bonneville.cdnstream1.com/2707_48.aac
 #EXTINF:0,KZNU Fox News 1450
@@ -1423,8 +1413,6 @@ https://streaming1.locucionar.com/proxy/radiochubut?mp=%2Fstream
 https://servidor1.hostradios.com:8110/stream
 #EXTINF:0,LV 10
 https://audio.bustream.com:8062/stream
-#EXTINF:0,M24 97.9 FM
-https://streaming2.hostingmontevideo.com:7003/stream/1/
 #EXTINF:0,Magica Emozione
 https://ssl1.mediastreaming.it:7058/stream/1/
 #EXTINF:0,Magic FM Rwanda 90.7
@@ -1513,8 +1501,6 @@ http://sr2.inmystream.info:8052/stream
 https://monfm.radioca.st/MonFM
 #EXTINF:0,Rádio Montecarlo FM
 https://rrdns-rcr.webnow.com.br/mtecarloc.aac
-#EXTINF:0,MoodFoodRadio.com
-https://s3.radio.co/s68b35c1e5/listen
 #EXTINF:0,Motherland FM NG
 https://s5.citrus3.com:8160/stream
 #EXTINF:0,Mousiko Kanali
@@ -2941,6 +2927,8 @@ https://radiostream.pl/tuba10-1.mp3
 https://s48.radiolize.com/radio/8100/radio.mp3
 #EXTINF:0,Radio Tordera 107.1 FM
 https://enacast.com/radiotordera/streams/HD
+#EXTINF:0,TransAfricaRadio
+http://iceant.antfarm.co.za:8000/TransAfricaRadio
 #EXTINF:0,Radio 7
 http://api.play.cz/radio/radio7-128.mp3.m3u
 #EXTINF:0,Trión 90.1 FM
@@ -3033,8 +3021,6 @@ https://vpr.streamguys1.com/vpr-web
 http://stm23.srvaudio.com.br:10252/;
 #EXTINF:0,Villegas 91.1 FM
 https://server4.hostradios.com/8118/stream
-#EXTINF:0,Vintage Broadcast
-http://s9.myradiostream.com:8724/stream/1/
 #EXTINF:0,Visión Deportiva Radio
 https://stream-50.zeno.fm/3w7xdy7c9f0uv?zs=cpaITka0RBOgWhVjfOLQMQ
 #EXTINF:0,Rádio Viva 94.5 FM
@@ -3289,6 +3275,8 @@ https://ice42.securenetsystems.net/WDUN
 https://ice42.securenetsystems.net/WDUN
 #EXTINF:0,WDVE 102.5 DVE
 https://stream.revma.ihrhls.com/zc2017
+#EXTINF:0,WDWS News Talk 1400 DWS
+https://ice25.securenetsystems.net/WDWS
 #EXTINF:0,WDXR Dolphin Radio 99.1 FM
 http://listen.djcmedia.com/dolphinradiohigh
 #EXTINF:0,WDXY 1240 AM

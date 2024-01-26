@@ -1355,8 +1355,6 @@ https://s9.myradiostream.com/:14296/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2259235.mp3
 #EXTINF:0,ONE Station
 https://stream.onestation.net/onestation-128.mp3
-#EXTINF:0,On Radio Black Music
-http://radio2.suaradionanet.net:8060/stream
 #EXTINF:0,ON STREET RADIO
 https://streamingv2.shoutcast.com/ONSTREET
 #EXTINF:0,On Top FM
@@ -1449,6 +1447,8 @@ https://listen.openstream.co/3137/audio
 https://streaming.live365.com/a50887
 #EXTINF:0,Power Türk R'n'B Hip Hop
 http://powerrbhiphop.listenpowerapp.com/powerrbhiphop/mpeg/icecast.audio
+#EXTINF:0,Precious Radio Cool Jams
+https://preciousradio.net/proxy/cooljams/stream
 #EXTINF:0,Precious Radio Hip-Hop
 https://preciousradio.net/proxy/hiphop/stream
 #EXTINF:0,Pretty Dope Xperience
@@ -1495,6 +1495,8 @@ https://stm9.xcast.com.br:7988/stream/1/
 https://stream.zeno.fm/9puq6tnts0quv
 #EXTINF:0,RadioCity
 http://162.244.80.106:10853/stream
+#EXTINF:0,Radio Club Music
+https://sonic1-rbx.cloud-center.ro/8024/stream
 #EXTINF:0,Radio Contact R'n'B
 https://stream.zeno.fm/nu9eva2rgzzuv
 #EXTINF:0,Радио СИ - Radio C
@@ -1765,8 +1767,12 @@ https://streamingV2.shoutcast.com/Static-TheBestOf1980
 https://streamingv2.shoutcast.com/static-the-best-of-1990
 #EXTINF:0,STATIC: BLUES
 https://streamingV2.shoutcast.com/Static-BluesExplosion
+#EXTINF:0,Static: Fremont
+https://radiostatic.stream:8070/radio.mp3
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
+#EXTINF:0,Static: Osage Beach
+https://radiostatic.stream:8150/radio.mp3
 #EXTINF:0,Steve Fox Old School
 https://s15.total-streaming.com:9008/oldschool
 #EXTINF:0,STL Smooth Jazz
