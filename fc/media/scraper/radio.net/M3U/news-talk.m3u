@@ -5,6 +5,8 @@ https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
 https://audio.bild-und-ton.stream:16162/alternativaradio-en
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
+#EXTINF:0,BPM
+http://bpm.myddns.me:8222/stream
 #EXTINF:0,CADENA 5
 https://stream.radiolive.com.co:8020/radio.mp3
 #EXTINF:0,Cadena SER Aranda
@@ -219,6 +221,8 @@ http://45.169.236.3:8000/formula-mp3
 https://servidor20.brlogic.com:8250/live
 #EXTINF:0,FOX News
 https://live.amperwave.net/manifest/foxnewsradio-foxnewsradioaac-imc
+#EXTINF:0,Fox Sports Abilene
+https://ice42.securenetsystems.net/KASN
 #EXTINF:0,FOX Sports Radio
 https://stream.revma.ihrhls.com/zc4732/hls.m3u8
 #EXTINF:0,France Culture
@@ -265,6 +269,8 @@ https://stream.gemininetwork.it/gemini
 https://stream.zeno.fm/fkhnrayaps8uv
 #EXTINF:0,GHANA ICE RADIO
 http://stream.zeno.fm/dq32gkvc038uv
+#EXTINF:0,Ghanawaves
+https://stream.zenolive.com/yp9sds3kkq5tv
 #EXTINF:0,GLL-Radio
 http://r-gll.de:8000/gll.mp3
 #EXTINF:0,Global News Radio 980 CKNW
@@ -401,6 +407,8 @@ https://node-01.zeno.fm/rz933gkgva0uv
 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid?aggregator=radio-de
 #EXTINF:0,Inforadio Budapest
 http://info01.nlg.hu:8400/stream/1/
+#EXTINF:0,Inforadio UCM
+https://stream.zeno.fm/syfk1h3e0fnuv
 #EXTINF:0,INFORMA RADIO
 https://streams.radio.co/se18e1e587/low
 #EXTINF:0,Inform Me
@@ -476,7 +484,7 @@ https://crystalout.surfernetwork.com:8001/KAHI-AM_MP3
 #EXTINF:0,KAKS - The Hog 99.5 FM
 https://ice5.securenetsystems.net/KAKSFM?
 #EXTINF:0,KALW - 91.7 FM
-https://live.streamguys1.com:2435/kalw
+https://kalw-live.streamguys1.com/kalw
 #EXTINF:0,KAMU Texas HD-1
 https://kamu.streamguys1.com/hd1-192
 #EXTINF:0,KAMU Texas HD-2
@@ -707,6 +715,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC_SC
 #EXTINF:0,KGPS FM
 http://live.str3am.com:2330/live
+#EXTINF:0,KGTK - MegaTalk 920 AM
+https://crystalout.surfernetwork.com:8001/KITZ_MP3
 #EXTINF:0,KGU-AM - AM 760 The Reason
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAM.mp3
 #EXTINF:0,KGWA 960 AM
@@ -1109,6 +1119,8 @@ http://s3.voscast.com:7204/;stream0.775785576086491.mp3
 https://crystalout.surfernetwork.com:8001/KTLR_MP3
 #EXTINF:0,KTOO News 104.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTOOFMAAC_SC?pname=TDSdk
+#EXTINF:0,KTOX K-Talks 1340 AM
+http://streaming.rubinbroadcasting.com/ktox
 #EXTINF:0,KTPR 89.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFMAAC.aac
 #EXTINF:0,KTRF 1230 AM
@@ -1262,7 +1274,7 @@ https://rts-aod-dd.akamaized.net/ww/12962480/ce5f099a-7cf4-3f97-b572-a5aa7f36c5a
 #EXTINF:0,La Brújula
 https://icecast.hostingbahia.com.ar:8020/live
 #EXTINF:0,La Caliente Linares
-https://playerservices.streamtheworld.com/api/livestream-redirect/XERAM_SC.mp3
+http://playerservices.streamtheworld.com/api/livestream-redirect/XHLRSFM.mp3
 #EXTINF:0,La Caliente Nuevo Laredo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNLOFM.mp3
 #EXTINF:0,La Caliente Reynosa 93.1 FM
@@ -1467,8 +1479,6 @@ https://stream.zeno.fm/56zh7wgfay8uv
 https://listen.openstream.co/3972/audio
 #EXTINF:0,FM Metropolitana Tucumán
 https://radio13.servidorderadio.net/8190/stream
-#EXTINF:0,MFM RADIO
-https://streamer.eagrpservices.com/audio/mfmradio.ogg
 #EXTINF:0,Michigan Roar Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM_SC
 #EXTINF:0,MICROSSILON RADIO TV NJ
@@ -1493,8 +1503,6 @@ https://stream.zeno.fm/e183ym5dyzzuv
 https://mlaradio.ice.infomaniak.ch/mlaradio.mp3
 #EXTINF:0,Radio Mogán 107.8 FM
 https://streaming2.elitecomunicacion.es:8100/stream
-#EXTINF:0,Mojo 5-0 Radio
-http://ice42.securenetsystems.net/MOJOMP3
 #EXTINF:0,Mondoradioweb
 http://sr2.inmystream.info:8052/stream
 #EXTINF:0,Mon 102.5 FM
@@ -1602,7 +1610,7 @@ https://amccast.com/8052/stream
 #EXTINF:0,Nigeria Info 92.3 FM Port-Harcourt
 https://livestream.coolwazobiainfo.com/niginf_ph
 #EXTINF:0,NIUS
-https://addrad.io/445g2st
+https://radio.zendesk.com/attachments/token/Ct3AV8gALho4Dmqggy5kvCmGi/?name=NIUS_RADIO_Logo_RGB_eckig_thumb.png
 #EXTINF:0,Non Stop Radio 103FM
 https://cdn.cybercdn.live/103FM/Live/icecast.audio
 #EXTINF:0,Noordkop Centraal
@@ -1935,8 +1943,6 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
-#EXTINF:0,Rádio Assembleia Minas Gerais
-http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -1967,8 +1973,6 @@ http://suaradio2.dyndns.ws:13216/stream
 https://radio.thevikingarmy.com/radio/8000/radio.mp3
 #EXTINF:0,Radio Box Fm
 https://stream.zeno.fm/u2fv6c85rs8uv
-#EXTINF:0,Rádio Câmara Sorocaba
-http://suaradio1.dyndns.ws:13124/stream
 #EXTINF:0,Radio Campesina
 http://167.114.118.120:7482/stream/1/
 #EXTINF:0,Radio Capelle
@@ -2041,8 +2045,6 @@ https://stream-32.zeno.fm/8wgv914262quv?zs=F1s_KlRmSfuqiL9xsKZDJA
 http://hts02.kshost.com.br:8856/live
 #EXTINF:0,Rádio Difusora AM Alagoas
 http://paineldj.com.br:8149/stream
-#EXTINF:0,Rádio do Comércio
-https://servidor26.brlogic.com:8066/live
 #EXTINF:0,Radio Drenthe
 https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
 #EXTINF:0,RADIO 4 DR SHASHANK JOSHI
@@ -2087,8 +2089,6 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
-#EXTINF:0,Radio FM Oasis 95.7
-http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -3003,7 +3003,7 @@ https://01.solumedia.com.ar:8200/stream
 http://streaming.fmutn.com.ar:8000/FMUTN
 #EXTINF:0,UU Church Nashua
 http://stream.uunashua.org/uunashua
-#EXTINF:0,Valle Alto 90.9 FM
+#EXTINF:0,Valle Alto 105.3 FM
 https://stream.zeno.fm/3mvm0pxmr68uv
 #EXTINF:0,KVPR Valley Public Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3
@@ -3893,6 +3893,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WQAMAM.mp3
 https://live.amperwave.net/manifest/univision-ktnqamaac-imc2
 #EXTINF:0,WQCS 88.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_SC
+#EXTINF:0,WQIZ - Catholic Radio in South Carolina 810 AM
+https://stream.zeno.fm/ugqv8t9gs18uv
 #EXTINF:0,WQNT - Sportsradio 1450
 https://ice5.securenetsystems.net/WQNT
 #EXTINF:0,WQVE 101.7 FM

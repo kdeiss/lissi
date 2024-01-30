@@ -35,6 +35,8 @@ https://listen.181fm.com/181-90salt_128k.mp3?
 https://listen.181fm.com/181-classicbuzz_128k.mp3
 #EXTINF:0,181.fm - The Buzz
 https://listen.181fm.com/181-buzz_128k.mp3
+#EXTINF:0,1821 RADIO
+https://servidor24.brlogic.com:7190/live
 #EXTINF:0,1A Modern Rock
 https://stream.1a-webradio.de/saw-mrock/mp3-128/radiode-1A/stream.mp3
 #EXTINF:0,1A Rock
@@ -444,7 +446,7 @@ https://radio.rtbf.be/c21-under/mp3-128/rf
 #EXTINF:0,Coast Rock FM
 https://www.coastrockfm.com.au/live
 #EXTINF:0,coloRadio
-http://streaming.fueralle.org:8000/coloradio_160.mp3
+http://streaming.fueralle.org:8000/coloradio_56.mp3
 #EXTINF:0,Conexion Acustica
 https://stream.zeno.fm/81m8p8m47bruv
 #EXTINF:0,Radio Corax 
@@ -455,6 +457,8 @@ https://yesca.st/corteduende/
 https://jenny.torontocast.com:2000/stream/CottageRadio
 #EXTINF:0,RTS - Couleur 3
 https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/playlist.m3u8
+#EXTINF:0,Country Radio
+https://a5.asurahosting.com:6670/radio.mp3
 #EXTINF:0,CPR - indie 102.3
 https://stream1.cprnetwork.org/cpr3_lo
 #EXTINF:0,Crazy-BeatPower
@@ -539,8 +543,6 @@ https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-320000.m3u8
 https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-320000.m3u8
 #EXTINF:0,Radio SRF Virus
 https://stream.srg-ssr.ch/m/drsvirus/mp3_128
-#EXTINF:0,Dust Devil Radio
-https://s7.reliastream.com/proxy/dustdevi?mp=/high.aac
 #EXTINF:0,eclec streaming
 https://a2.asurahosting.com:6500/radio.mp3
 #EXTINF:0,Studentski eFM Radio
@@ -856,7 +858,7 @@ https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 #EXTINF:0,KGRG-FM 89.9 FM
 http://www.ophanim.net:7090/stream/1/
 #EXTINF:0,KHNS 102.3 FM
-http://peridot.streamguys.com:5130/live
+https://khns.streamguys1.com/live
 #EXTINF:0,KHTB ALT 101.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHTBFMAAC_SC
 #EXTINF:0,KHTB-FM - Alt 94.9 FM
@@ -1207,8 +1209,6 @@ https://stream.laut.fm/kukuruz?ref=radiode
 https://stream.laut.fm/lafamilia_main?ref=radiode
 #EXTINF:0,lankaradio
 https://stream.laut.fm/lankaradio?ref=radiode
-#EXTINF:0,LA River FM
-http://stream.laut.fm/la-river-fm?ref=radiode
 #EXTINF:0,likeadaydream
 https://stream.laut.fm/likeadaydream?ref=radiode
 #EXTINF:0,Lyruks Gaming
@@ -1425,8 +1425,6 @@ https://stream.laut.fm/unsinn?ref=radiode
 https://stream.laut.fm/untergrund-freestyle?ref=radiode
 #EXTINF:0,up_the_irons
 https://stream.laut.fm/up_the_irons?ref=radiode
-#EXTINF:0,Vdren
-https://stream.laut.fm/vdren?ref=radiode
 #EXTINF:0,verolog
 https://stream.laut.fm/verolog?ref=radiode
 #EXTINF:0,violence_vacance
@@ -1491,8 +1489,6 @@ http://listen.radionomy.com/lostsouls.m3u
 http://stream2.loveradio.ru/10_alternative_24?
 #EXTINF:0,LRMA Rock Radio
 https://c22.radioboss.fm:18318/stream
-#EXTINF:0,Lietuvos Radijas Opus
-https://radijas.lrt.lt/opus/320k/lrt_opus.m3u8
 #EXTINF:0,L'UniCo
 https://radio.l-uni.co/lunico_high_mp3
 #EXTINF:0,LUX Radio
@@ -1505,6 +1501,8 @@ https://audio.mabu-beatz-radio.com:8003/indie
 https://s3.streamcaster.eu:8079/stream1.mp3
 #EXTINF:0,Manglillera 92.5 FM
 https://stream.zeno.fm/cretd91z1a0uv
+#EXTINF:0,MAPIM WebRádio
+https://stream.zeno.fm/7wbprc3ce4qvv
 #EXTINF:0,Maple Creek's Rock Station, The Buzz
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC135_SC
 #EXTINF:0,Maple Music Cafe
@@ -1959,8 +1957,6 @@ https://s1.slotex.pl/shoutcast/7390/stream?sid=1
 http://stream.radioparadise.com/aac-128
 #EXTINF:0,RADIO PENTECOSTAL LA ARMADURADE DEUS
 http://radiopentecostallaarmaduradedios.vhsite.com/
-#EXTINF:0,RADIO PEPITO
-https://usa2.fastcast4u.com/proxy/radiopepito?mp=/1
 #EXTINF:0,RÁDIO POP GOIABA UFF
 https://s37.maxcast.com.br:8450/live
 #EXTINF:0,Radio Popular FM Bolivia
@@ -2019,6 +2015,8 @@ https://s1.voscast.com:10043/stream
 https://stream.zeno.fm/kywmrdkcewzuv
 #EXTINF:0,Radio Transforma
 http://176.9.43.216:8560/stream/1/
+#EXTINF:0,RADIO TRINIDAD 1070 AM
+https://stream.zeno.fm/1gw2nwvkauatv
 #EXTINF:0,Radio Triquency
 http://livestream.triquency.de:9000/live192.mp3
 #EXTINF:0,Rádio UNORTE
@@ -2054,7 +2052,7 @@ http://snd.radio-z.net:8000/Radio-Z
 #EXTINF:0,Radio Zeitz
 http://player.radio-zeitz.de/RadioZeitz.m3u
 #EXTINF:0,Radio Žett
-https://stream.radio-zett.org/listen/radio_zett/radio192.mp3
+https://stream.radio-zett.org/listen/radio_zett/zufuehrung.mp3
 #EXTINF:0,RadioZ Laja
 http://198.204.228.202:8560/mp3
 #EXTINF:0,Radio Zona 503 El Salvador
@@ -2293,8 +2291,40 @@ https://streamingv2.shoutcast.com/static-the-best-of-1997
 https://streamingv2.shoutcast.com/static-the-best-of-1998
 #EXTINF:0,STATIC: THE BEST OF 1999
 https://streamingv2.shoutcast.com/static-the-best-of-1999
+#EXTINF:0,Static: Decatur
+https://radiostatic.stream:8040/radio.mp3
+#EXTINF:0,Static: Durango
+https://radiostatic.stream:8050/radio.mp3
+#EXTINF:0,Static: Eureka Springs
+https://radiostatic.stream:8060/radio.mp3
+#EXTINF:0,Static: Fremont
+https://radiostatic.stream:8070/radio.mp3
 #EXTINF:0,STATIC: GRRRLS, GRRRLS, GRRRLS
 https://streamingV2.shoutcast.com/GrrrlsGrrrlsGrrrls
+#EXTINF:0,Static: Huron
+https://radiostatic.stream:8100/radio.mp3
+#EXTINF:0,Static: Muscle Shoals
+https://radiostatic.stream:8110/radio.mp3
+#EXTINF:0,Static: Myrtle Beach
+https://radiostatic.stream:8120/radio.mp3
+#EXTINF:0,Static: Ocean Springs
+https://radiostatic.stream:8140/radio.mp3
+#EXTINF:0,Static: Osage Beach
+https://radiostatic.stream:8150/radio.mp3
+#EXTINF:0,Static: Park City
+https://radiostatic.stream:8160/radio.mp3
+#EXTINF:0,Static: Savannah
+https://radiostatic.stream:8170/radio.mp3
+#EXTINF:0,Static: Sewanee
+https://radiostatic.stream:8180/radio.mp3
+#EXTINF:0,Static: Silver City
+https://radiostatic.stream:8190/radio.mp3
+#EXTINF:0,Static: The Dells
+https://radiostatic.stream:8200/radio.mp3
+#EXTINF:0,Static: Tupelo
+https://radiostatic.stream:8210/radio.mp3
+#EXTINF:0,Static: Tyler
+https://radiostatic.stream:8220/radio.mp3
 #EXTINF:0,stereo salvacion
 https://stream.zeno.fm/np8qblly48xtv
 #EXTINF:0,Strange Fruit Radio
@@ -2411,8 +2441,6 @@ https://unisabana.out.airtime.pro/unisabana_a
 http://streaming.radionomy.com/Up-DownYourockradio
 #EXTINF:0,urgent fm
 http://urgentstream.radiostudio.be:8000/aac
-#EXTINF:0,vdren archive
-https://stream.laut.fm/vdren?ref=radiode
 #EXTINF:0,VillageRadio.Net
 https://streaming.live365.com/a73319
 #EXTINF:0,Vinculo FM
@@ -2671,8 +2699,6 @@ http://streaming.radionomy.com/XXRadio-WXXPPittsburgh-
 https://stream.yammat.fm/radio/8000/yammat.mp3
 #EXTINF:0,yesweplayit.com
 https://streaming.live365.com/a21500
-#EXTINF:0,YoRadio.com
-http://ais-edge102-live365-dal02.cdnstream.com/a10396
 #EXTINF:0,Yo SoY Love!
 http://nvradios.com:9328/;
 #EXTINF:0,101.7 Your Love FM

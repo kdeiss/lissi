@@ -223,7 +223,7 @@ https://stream.antenne.com/70er/mp3-128/radiode/
 https://stream.antenne.de/antenne-nrw-70er-hits/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,ANTENNE NRW 70er Rock
 https://stream.antenne.de/antenne-nrw-70er-rock/stream/mp3?aw_0_1st.playerid=radio.de
-#EXTINF:0,OLDIE ANTENNE – Oldies but Goldies
+#EXTINF:0,OLDIE ANTENNE
 https://stream.oldie-antenne.de/oldie-antenne/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,ANTENNE VORARLBERG 70er Hits
 https://web.radio.antennevorarlberg.at/av-70er?aggregator=radio.at
@@ -1108,11 +1108,9 @@ https://stream.laut.fm/forever70?ref=radiode
 #EXTINF:0,Galattica FM
 https://stream.laut.fm/galatticafm?ref=radiode
 #EXTINF:0,Gay Live 90s
-https://stream.laut.fm/gay-live-90s?ref=radiode
+http://stream.laut.fm/gay-live-schlager
 #EXTINF:0,generationen
 https://stream.laut.fm/generationen?ref=radiode
-#EXTINF:0,glueck-auf-radio-kamp-lintfort
-https://stream.laut.fm/glueck-auf-radio-kamp-lintfort?ref=radiode
 #EXTINF:0,Gute Launeexpress
 https://stream.laut.fm/gutelaune-express?ref=radiode
 #EXTINF:0,Helmstedt Radio
@@ -1205,8 +1203,6 @@ https://stream.laut.fm/radiohamlar?ref=radiode
 https://stream.laut.fm/radio-hassmersheim?ref=radiode
 #EXTINF:0,Radio Hassmersheim
 https://stream.laut.fm/radio-hassmersheim?ref=radiode
-#EXTINF:0,radio-kamp-lintfort
-https://stream.laut.fm/radio-kamp-lintfort?ref=radiode
 #EXTINF:0,Radio Kraftfahrerkreise
 https://stream.laut.fm/radio-kraftfahrerkreise?ref=radiode
 #EXTINF:0,Radio Magic Bluefire
@@ -1360,7 +1356,7 @@ https://stream.zeno.fm/nbcpokz3q3wvv
 #EXTINF:0,Melodias Del Recuerdo
 http://equinox.shoutca.st:8068/stream/1/
 #EXTINF:0,Melodie for Music
-https://service-stream27.live/8008/stream/;
+https://stream.tramp-cast.ch:8028/stream
 #EXTINF:0,Melody-4-scorpion
 https://stream-melody.de:8192/;
 #EXTINF:0,Memorial FM
@@ -1377,8 +1373,6 @@ http://streams.metropolfm.de/Retro/stream.aac
 https://stream5.305stream.com:6172/stream
 #EXTINF:0,MIAMIGO
 http://129.122.92.10:88/broadwavehigh.mp3
-#EXTINF:0,Radio Mi Amigo International - offshore oldies
-https://rmaiusa.radioca.st/;
 #EXTINF:0,Mi Amigo Radio - de èchte
 https://stan319.radioca.st/;
 #EXTINF:0,Mi Amigo Radio de Èchte
@@ -1759,6 +1753,8 @@ http://onair22.streaming.xdevel.com:10084/
 https://server.streamingradios.net:7021/stream/1/
 #EXTINF:0,Radio Canal 96
 https://stream-47.zeno.fm/42s9009rzxquv?zs=0MKVfIuBQm6AXJ7JMPn9Sg
+#EXTINF:0,Radio Cánticos Espirituales
+https://stream.zeno.fm/76rtyaezvvduv
 #EXTINF:0,Radio Carpati
 https://stream.redcircle.com/episodes/bcb437ca-cefd-48f6-8592-4b4a3b6c3d43/stream.mp3
 #EXTINF:0,Radio CBSN
@@ -2025,6 +2021,8 @@ https://stream.zeno.fm/pv998tzhtk7uv
 http://stm2.srvif.com:8336/stream
 #EXTINF:0,Radio President
 http://51.81.171.213:8160/stream
+#EXTINF:0,Radio-Promotionhits
+https://c02.lexycast.de:4980/;
 #EXTINF:0,Rádio Real AMW
 https://live9.livemus.com.br:27542/stream/1/
 #EXTINF:0,Radio Recuerdos
@@ -2132,7 +2130,7 @@ https://sc.dattalive.com/8776/stream
 #EXTINF:0,Radio Vaporaki
 http://bluford.torontocast.com:8096/stream
 #EXTINF:0,Radiovicefm oldies
-http://mediaserv30.live-streams.nl:8011/stream/1/
+https://streaming.shoutcast.com/vice-fm
 #EXTINF:0,Radio Vida Familiar
 https://stream.zeno.fm/fx08czued18uv
 #EXTINF:0,Ràdio Vila-Sacra
@@ -2566,7 +2564,7 @@ http://s3.xrad.io:8044/
 #EXTINF:0,Vinyl Days Radio
 https://stream.shoutcastservices.com/proxy/vinyldays/stream
 #EXTINF:0,VINYLERADIO
-https://live.vinyleradio.com/listen/vinyle_radio/radio.mp3
+https://diffusion.clim.digital:1235/stream
 #EXTINF:0,vinylonlineradio
 https://s9.citrus3.com:2020/public/vinylonlineradio
 #EXTINF:0,Funky Town
@@ -2625,8 +2623,6 @@ https://stm1.srvif.com:7846/stream
 http://stream.web-radio-chrisu.de:8100/;
 #EXTINF:0,Web Radio Classics - WRC
 https://streaming.live365.com/a89361
-#EXTINF:0,Web Rádios Los Angeles
-https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10895&type=s1
 #EXTINF:0,Web Rádio Ouro Fino
 https://stream.zeno.fm/vr23nup5ud0uv
 #EXTINF:0,web radio toca tudo
