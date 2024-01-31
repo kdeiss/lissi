@@ -452,7 +452,7 @@ https://servidor36.brlogic.com:7022/live
 #EXTINF:0,Dilemaradio - Hip Hop Music
 https://dilemaradiolive.radioca.st/stream
 #EXTINF:0,Direct FM
-https://directfm.ice.infomaniak.ch/directfm-128.mp3
+http://directfm.ice.infomaniak.ch/directfm-128.mp3
 #EXTINF:0,Discology Radio
 https://visual.shoutca.st/stream/discology
 #EXTINF:0,Disco Rhythm
@@ -611,6 +611,8 @@ https://funkstar.radioca.st/stream?ver=153586
 https://ais-sa2.cdnstream1.com/2447_192.mp3
 #EXTINF:0,FUNKY RADIO (UK)
 https://funkyradio.streamingmedia.it/uk
+#EXTINF:0,FUNKY RADIO (USA)
+https://funkyradio.streamingmedia.it/usa
 #EXTINF:0,Fun Radio FR
 https://icecast.funradio.fr/fun-1-44-128
 #EXTINF:0,FunX Amsterdam
@@ -813,6 +815,8 @@ http://stream.jammfmradio.com:8075/stream/1/
 https://jam-on.ice.infomaniak.ch/jam-on-128.mp3
 #EXTINF:0,Jamz Den Haag
 http://262.cloudrad.io:8440/stream/1/
+#EXTINF:0,JAMZ RADIO Philippines
+http://stream.zenolive.com/yu7rwcq3wy5tv
 #EXTINF:0,Jazz Cafe FM - Radio Argentina de Jazz
 https://radio.netyco.com:18056/;
 #EXTINF:0,Jazz Variations
@@ -866,7 +870,7 @@ https://keithngesiradio.radioca.st/stream/1/
 #EXTINF:0,Ken Versa's Power Hit Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC227.aac
 #EXTINF:0,Key Vibez Radio
-https://fast.citrus3.com:8076/stream
+https://ice26.securenetsystems.net/KVR
 #EXTINF:0,KHNY - Honey 103 
 http://honey.macchiatomedia.org:8080/stream/1/
 #EXTINF:0,KHUR - The Vault
@@ -879,6 +883,8 @@ http://sv2.famcast.co.za:8007/stream
 https://live.amperwave.net/manifest/audacy-kxsnfmaac-hlsc.m3u8
 #EXTINF:0,KIIS FM BRASIL
 https://stream.zeno.fm/ubg5y7rweuquv
+#EXTINF:0,Kings FM Radio
+https://stream.zeno.fm/5wd95cvvsf9uv
 #EXTINF:0,KIPR / KFOG Power 92 Jamz 92.3 FM & 1250 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KIPRFMAAC_SC
 #EXTINF:0,Kiss 101.7 Online
@@ -1031,8 +1037,6 @@ https://stream.laut.fm/blackbox?ref=radiode
 https://stream.laut.fm/blackbulls?ref=radiode
 #EXTINF:0,blackplanetradio
 https://stream.laut.fm/blackplanetradio?ref=radiode
-#EXTINF:0,CITYMUSIC FM
-http://stream.laut.fm/citymusicfm
 #EXTINF:0,dacorner
 https://stream.laut.fm/dacorner?ref=radiode
 #EXTINF:0,dead_or_allive
@@ -1099,16 +1103,12 @@ http://stream.playmusicfm.info:9000/
 https://stream.laut.fm/radio-ffw-black?ref=radiode
 #EXTINF:0,radio-ffw-girls
 https://stream.laut.fm/radio-ffw-girls?ref=radiode
-#EXTINF:0,Radiofourtyfour
-https://stream.laut.fm/radiofourtyfour?ref=radiode
 #EXTINF:0,Radiorelaxandchillradiograz FM
 https://stream.laut.fm/radiorelaxandchillradiograzfm?ref=radiode
 #EXTINF:0,radioSTOLBERG
 https://stream.laut.fm/radiostolberg?ref=radiode
 #EXTINF:0,Radio Surprise
 https://stream.laut.fm/radio-surprise?ref=radiode
-#EXTINF:0,RADIOWST
-https://stream.laut.fm/radiowst?ref=radiode
 #EXTINF:0,rap2soul
 https://stream.laut.fm/rap2soul?ref=radiode
 #EXTINF:0,Red Hot And Blue Radio
@@ -1769,16 +1769,42 @@ https://streamingV2.shoutcast.com/Static-TheBestOf1980
 https://streamingv2.shoutcast.com/static-the-best-of-1990
 #EXTINF:0,STATIC: BLUES
 https://streamingV2.shoutcast.com/Static-BluesExplosion
+#EXTINF:0,Static: Decatur
+https://radiostatic.stream:8040/radio.mp3
+#EXTINF:0,Static: Durango
+https://radiostatic.stream:8050/radio.mp3
+#EXTINF:0,Static: Eureka Springs
+https://radiostatic.stream:8060/radio.mp3
 #EXTINF:0,Static: Fremont
 https://radiostatic.stream:8070/radio.mp3
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
+#EXTINF:0,Static: Huron
+https://radiostatic.stream:8100/radio.mp3
+#EXTINF:0,Static: Muscle Shoals
+https://radiostatic.stream:8110/radio.mp3
+#EXTINF:0,Static: Myrtle Beach
+https://radiostatic.stream:8120/radio.mp3
+#EXTINF:0,Static: Ocean Springs
+https://radiostatic.stream:8140/radio.mp3
 #EXTINF:0,Static: Osage Beach
 https://radiostatic.stream:8150/radio.mp3
+#EXTINF:0,Static: Park City
+https://radiostatic.stream:8160/radio.mp3
+#EXTINF:0,Static: Savannah
+https://radiostatic.stream:8170/radio.mp3
+#EXTINF:0,Static: Sewanee
+https://radiostatic.stream:8180/radio.mp3
+#EXTINF:0,Static: Silver City
+https://radiostatic.stream:8190/radio.mp3
+#EXTINF:0,Static: The Dells
+https://radiostatic.stream:8200/radio.mp3
+#EXTINF:0,Static: Tupelo
+https://radiostatic.stream:8210/radio.mp3
+#EXTINF:0,Static: Tyler
+https://radiostatic.stream:8220/radio.mp3
 #EXTINF:0,Steve Fox Old School
 https://s15.total-streaming.com:9008/oldschool
-#EXTINF:0,STL Smooth Jazz
-https://s19.myradiostream.com/:7378/listen.mp3?nocache=1610039930
 #EXTINF:0,Storm North East
 http://80.249.249.243:8050/stream/1/
 #EXTINF:0,Strange Soundz Radio
@@ -2007,6 +2033,8 @@ https://ice24.securenetsystems.net/WARRAM
 https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
 #EXTINF:0,WAZA The Touch 107.7 FM
 https://ice5.securenetsystems.net/WAZA
+#EXTINF:0,WBAP Bluntzville Radio
+https://streaming.live365.com/a59597
 #EXTINF:0,WBAV-FM - V101.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBAVFM.mp3
 #EXTINF:0,WBHK - 98.7 Kiss FM

@@ -111,6 +111,8 @@ http://stream11.shoutcastsolutions.com:8391/stream/1/
 https://ams-pioneer02.dedicateware.com:1145/stream
 #EXTINF:0,CYBERStacja
 http://sc.cyberstacja.pl:8000/radio.mp3
+#EXTINF:0,Dance247
+https://transmitter.ttech.fun:8260/live?icy=https
 #EXTINF:0,Dance Classics
 https://stream3.jdsnet.co.uk/danceclassics
 #EXTINF:0,DANCEFMLIVE TRANCE
@@ -331,8 +333,6 @@ https://stream.laut.fm/hotradio?ref=radiode
 https://stream.laut.fm/htd-radio?ref=radiode
 #EXTINF:0,Intotrance
 https://stream.laut.fm/intotrance?ref=radiode
-#EXTINF:0,kabelnr
-https://stream.laut.fm/kabelnr?ref=radiode
 #EXTINF:0,KAIROS
 https://stream.laut.fm/kairos?ref=radiode
 #EXTINF:0,la_casa_de_wegeh
@@ -499,6 +499,8 @@ http://listen.radionomy.com/remember90s
 http://109.169.23.17:8428/nstmusicfm
 #EXTINF:0,NU EUPHORIA Trance Radio
 http://194.87.111.252:8000/live
+#EXTINF:0,Radio Olliverse
+http://stream.olliverse.de/stream.mp3
 #EXTINF:0,ON Electro
 https://0n-electro.radionetz.de/0n-electro.mp3
 #EXTINF:0,Only Old Skool Radio
@@ -753,8 +755,6 @@ http://virtualdjradio.com:8000/channel3.mp3
 http://virtualdjradio.com:8000/channel4.mp3
 #EXTINF:0,Vuelve el Remember
 https://streamtotal.net:4155/stream
-#EXTINF:0,WCOEM
-http://62.75.215.29:8000/stream/1/
 #EXTINF:0,We Get Lifted Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3667151_SC
 #EXTINF:0,Welcome To Rapture

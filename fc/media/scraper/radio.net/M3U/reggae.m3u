@@ -83,6 +83,8 @@ http://srv13.karadio.biz:27555/;
 https://epsilon.shoutca.st:2199/tunein/bigchoonzfmradio.pls
 #EXTINF:0,bigFM Dancehall/Reggae/Afrobeats
 https://stream.bigfm.de/dancehall/aac-128/stream.bigfm.de/radiode
+#EXTINF:0,Big Reggae Mix (The Global Healing Has Begun)!™
+https://streaming.live365.com/a88933
 #EXTINF:0,Blackbox Dancehall
 https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 #EXTINF:0,Blackpool Radio
@@ -229,8 +231,6 @@ https://scdn.nrjaudio.fm/adwz1/de/56251/mp3_128.mp3?origine=radio.net
 https://a2.asurahosting.com:7310/radio.mp3
 #EXTINF:0,E-Radio Streaming
 http://s7.alhastream.com/radio/8150/radio
-#EXTINF:0,Eskifaia Radio
-https://srv.webradiomanager.fr:1625/stream
 #EXTINF:0,Estação Zero
 https://servidor20.brlogic.com:9268/live
 #EXTINF:0,Euphoric Radio
@@ -267,8 +267,6 @@ https://icecast.omroep.nl/funx-reggae-bb-mp3
 https://server18.srvsh.com.br:7002/stream/1/
 #EXTINF:0,Gaslight Square Reggae
 https://stream.zeno.fm/e7pubnw89f0uv
-#EXTINF:0,GBSRADIO
-https://listen.radioking.com/radio/132484/stream/172396
 #EXTINF:0,Générations - Reggae
 https://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
 #EXTINF:0,Radio Génération Tuga
@@ -350,9 +348,9 @@ https://usa13.fastcast4u.com/proxy/jahmusicmansion?mp=%2F1
 #EXTINF:0,Jammi-Italian Radio
 https://cast4.my-control-panel.com/proxy/kevinkad/stream
 #EXTINF:0,Reggae Classic Hits Radio
-https://azuracast.jammimvibez.com/hls/reggae/live.m3u8
+https://azuracast.jammimvibez.com:8030/stream
 #EXTINF:0,Caribbean Variety Radio
-https://azuracast.jammimvibez.com/hls/caribbean/live.m3u8
+https://azuracast.jammimvibez.com:8050/stream
 #EXTINF:0,Jam On Radio
 https://jam-on.ice.infomaniak.ch/jam-on-128.mp3
 #EXTINF:0,Jano Entertainment
@@ -473,8 +471,6 @@ https://stream.laut.fm/radio-legendary?ref=radiode
 https://stream.laut.fm/radiosummernight?ref=radiode
 #EXTINF:0,Reggae
 https://stream.laut.fm/reggae?ref=radiode
-#EXTINF:0,reggaegod
-https://stream.laut.fm/reggaegod?ref=radiode
 #EXTINF:0,Reggaeone
 https://stream.laut.fm/reggaeone?ref=radiode
 #EXTINF:0,reggae-paradise
@@ -783,8 +779,6 @@ http://91.121.134.23:8328/stream
 http://158.69.114.190:8028/stream/1/
 #EXTINF:0,RealVibes
 https://s2.radio.co/s81f7154b1/listen
-#EXTINF:0,REE RADIO
-https://stream-153.zeno.fm/zumffmycliavv
 #EXTINF:0,Reggae Ambassadors Radio
 https://stream.zeno.fm/mvtbzpenhzzuv
 #EXTINF:0,Reggae Arte
@@ -1012,7 +1006,7 @@ http://s2.radio.co/sa2c119305/listen
 #EXTINF:0,Radio UWM FM
 http://213.184.18.156:8000/;
 #EXTINF:0,Valleradio
-http://stream.laut.fm/valleradio
+https://valleradio.stream.laut.fm/eins
 #EXTINF:0,Vanny Radio 106.3 fm
 http://icecast.maxxwave.co.uk/vannyradio
 #EXTINF:0,Radio Vassiviere 88.6
