@@ -437,8 +437,6 @@ https://live.leanstream.co/CHKSFM
 https://blackburn.leanstream.co/CIBUFM
 #EXTINF:0,Cool Radio Canada
 https://live.leanstream.co/CKUEF2
-#EXTINF:0,COSTÃO FM | RADIO ROCK
-https://streaming.livebroadcast.biz/radio/8010/classica
 #EXTINF:0,Cove 88.7 FM
 http://us3.streamingpulse.com:8044/stream
 #EXTINF:0,CRC Radio - XRN Australia
@@ -485,6 +483,8 @@ http://192.111.140.11:8596/stream/1/
 https://streaming.live365.com/a04106
 #EXTINF:0,Dynamic Resonance Radio
 http://de1.internet-radio.com:8097/stream
+#EXTINF:0,DZRadio Tunes
+https://edge.mixlr.com/channel/lgnod
 #EXTINF:0,Easy Rock Paradise
 http://www.easyrockparadise.com:8300/stream
 #EXTINF:0,Eco FM
@@ -793,6 +793,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLPXFM.mp3
 https://ice9.securenetsystems.net/KLZX
 #EXTINF:0,KMDB Keller
 http://curiosity.shoutca.st:6692/;
+#EXTINF:0,KMGM 105.5 FM
+https://ice9.securenetsystems.net/KMGM
 #EXTINF:0,KMGN - 93.9 The Mountain
 https://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFM.mp3
 #EXTINF:0,The X 100.7
@@ -877,6 +879,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX The Wolf 96.7 FM
 https://ice.wbcengineering.com:8121/stream
 #EXTINF:0,KWSA / KSLL 100.1 FM & 1080 AM
@@ -1215,8 +1219,6 @@ https://listen.radionomy.com/radiopiacenzasound
 https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3
 #EXTINF:0,Plaisir 101.9 Victoriaville
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFDA_FMAAC.aac
-#EXTINF:0,Planet Pootwaddle
-https://ppw.streamguys1.com/sgplayer-aac
 #EXTINF:0,Planet Rock
 https://tx.planetradio.co.uk/icecast.php?i=planetrock.mp3
 #EXTINF:0,PLAY MUSIC BRAZIL
@@ -1299,8 +1301,6 @@ https://stream.zeno.fm/wttb4ahbk5zuv
 http://stream.radiocarcoma.com:8080/;
 #EXTINF:0,Radio Caroline
 https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
-#EXTINF:0,Radio Clássica Brasil
-https://streaming.livebroadcast.biz/radio/8010/classica
 #EXTINF:0,Radio Cordial
 https://listen.openstream.co/6149/audio
 #EXTINF:0,Радио СИ - Radio C
@@ -2081,10 +2081,10 @@ https://wluw.streamguys1.com/stream.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLVQFM.mp3
 #EXTINF:0,WMGK - Philadelphia's Classic Rock 102.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAAC.aac
-#EXTINF:0,WMLT 96.9 The Buzz
-https://ice64.securenetsystems.net/WMLT
 #EXTINF:0,WMOS 102.3 FM The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMOSFMAAC_SC
+#EXTINF:0,WMPH - Super 91.7 FM
+https://s2.stationplaylist.com:9100/listen
 #EXTINF:0,WMTT - 95 The MET 94.7 FM
 https://ice66.securenetsystems.net/WMTT
 #EXTINF:0,WMXQ MAX 93.5 FM

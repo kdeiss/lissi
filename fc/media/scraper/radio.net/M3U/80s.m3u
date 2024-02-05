@@ -181,8 +181,6 @@ http://cast1.torontocast.com:1460/stream
 https://win.streams.ovh:9006/stream
 #EXTINF:0,70s Great Hits
 http://s10.myradiostream.com:35508/;
-#EXTINF:0,8090 Music
-https://168.138.10.157/listen/paul_bartolo/radio.mp3
 #EXTINF:0,8090rocks
 https://cast1.torontocast.com:2685/stream
 #EXTINF:0,80er
@@ -401,6 +399,8 @@ https://allmusic.radioca.st/2/stream
 https://cast4.asurahosting.com/proxy/allonefm/stream
 #EXTINF:0,All Scottish Radio
 https://streaming.live365.com/a45584
+#EXTINF:0,AllsortsHits 
+https://a5.asurahosting.com:7300/radio.mp3
 #EXTINF:0,All Time 70s 80s Greatest
 https://listen.radionomy.com/alltime70s80sgreatest.m3u
 #EXTINF:0,Allzic Années 80
@@ -437,8 +437,6 @@ http://stream-149.zeno.fm/ytptk755xuhvv
 http://rosetta.shoutca.st:8558/listen.mp3
 #EXTINF:0,AndysRockscheune
 http://stream.beta-hosting.net:8008/stream/1/
-#EXTINF:0,Angel of Melody
-https://stream-melody.de:8182/stream
 #EXTINF:0,Anim'a-Radio
 https://manager7.streamradio.fr:1095/stream
 #EXTINF:0,Anker Radio
@@ -1061,7 +1059,7 @@ https://eagle.streemlion.com/proxy/gary?mp=/stream
 https://internetradio.salue.de:8443/classicrock.mp3
 #EXTINF:0,Classic Rock Voyage 
 http://stream.zenolive.com/k1ehu79efseuv
-#EXTINF:0,Classic Soul Radio
+#EXTINF:0,Rockline Soul
 https://ice.creacast.com/classic_soul
 #EXTINF:0,Clip 80's
 https://radioclipfm.com:8000/radio.mp3
@@ -1816,7 +1814,7 @@ https://server36290.streamplus.de/stream.mp3
 #EXTINF:0,Higherpowerradio
 http://server-07.stream-server.nl:8388/stream/1/
 #EXTINF:0,Highway 61 Internet Radio
-https://streams.radio.co/sa5320e839/listen
+https://usa19.fastcast4u.com:3505/stream
 #EXTINF:0,Hippie Soul Cafe
 https://ec2.yesstreaming.net:2355/stream
 #EXTINF:0,hit Easy 80s
@@ -1874,7 +1872,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3
 #EXTINF:0,HITz Digital
 http://loveradio.stream:8000/mytunerradio
 #EXTINF:0,Hitz Fm - Flashback
-https://stream-157.zeno.fm/a9lb3jrylnjtv
+https://stream-150.zeno.fm/yjblrvjcmu4uv
 #EXTINF:0,Hitzone 80s
 https://phoebe.streamerr.co:2280/stream
 #EXTINF:0,Hitz Radio Dublin
@@ -2033,8 +2031,6 @@ http://stream.laut.fm/jvmlaestacion
 https://xtreme-tunez.co.uk:8050/stream
 #EXTINF:0,K 97.5
 https://newcap.leanstream.co/CKRVFM
-#EXTINF:0,Kaapstad Radio
-https://edge.iono.fm/xice/152_medium.mp3
 #EXTINF:0,KABE-Radio
 http://81.30.158.179:8042/stream/1/
 #EXTINF:0,KAN 88
@@ -3157,10 +3153,8 @@ http://host6.cartwall.at:7210/;
 https://madein80.leswebradios.fr/stream/1/
 #EXTINF:0,Made in Kent Radio
 https://streaming.broadcastradio.com:11515/creation
-#EXTINF:0,Moov'n hits ma french radio Hits &amp; Gold
+#EXTINF:0,Moov'n hits ma french radio hits and golds
 http://ecmanager4.pro-fhi.net:1490/stream
-#EXTINF:0,MAGIA 80
-https://www.magia80.webradios.net/
 #EXTINF:0,Magic 105
 https://streaming.live365.com/a69030
 #EXTINF:0,Magic 80s Florida
@@ -3288,7 +3282,7 @@ https://stream.tramp-cast.ch:8028/stream
 #EXTINF:0,Radio Melodie Story
 https://radio.melodiestory.fr:8000/live.mp3
 #EXTINF:0,Melody-4-scorpion
-https://stream-melody.de:8192/;
+https://stream.tramp-cast.ch:8038/stream
 #EXTINF:0,Melody radio
 http://s6.onweb.gr:8512/stream
 #EXTINF:0,Melphis FM
@@ -3317,8 +3311,6 @@ https://cast.mgtradio.net/radio/8000/radio.aac
 https://stream5.305stream.com:6172/stream
 #EXTINF:0,MIAMIGO
 http://129.122.92.10:88/broadwavehigh.mp3
-#EXTINF:0,Radio Mi Amigo International - offshore oldies
-https://rmaiusa.radioca.st/;
 #EXTINF:0,Mi Amigo Radio
 https://nr12.newradio.it:8662/Live
 #EXTINF:0,Miami One Radio
@@ -3421,8 +3413,6 @@ https://stream.zeno.fm/qa29r0es1f8uv
 https://streamingV2.shoutcast.com/Musica-degli-anni--80
 #EXTINF:0,Musica en el Aire
 https://server-usa2.radioseninternet.net:7047/stream/1/
-#EXTINF:0,Radio Musicalisima 89.1
-http://109.169.76.104:37100/;
 #EXTINF:0,Musical stereo
 https://sonic.paulatina.co/8156/stream
 #EXTINF:0,Radio Musica Seu Gosto
@@ -3597,8 +3587,6 @@ https://numbarton.org:8000/radio.mp3
 https://cast4.asurahosting.com/tunein/miles.pls
 #EXTINF:0,Radio Oasis 101.9
 https://alpha.radioplayer.com.ar/stream/oasisradio
-#EXTINF:0,Radio Oasis 100.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac
 #EXTINF:0,Ocean Breeze Radio
 https://streaming.live365.com/a15158
 #EXTINF:0,Rock 80s Radio
@@ -4229,8 +4217,6 @@ https://stream.radiocollege.fr/128.mp3
 https://stream-41.zeno.fm/7yctchbrhs8uv?zs=7_zwhGfgSoear2xTd1PX-A
 #EXTINF:0,Radio Conecta2 Online
 https://stream-57.zeno.fm/gkqrsnczwwzuv?zs=zG_PhbeRRrihZs1AR_XivQ
-#EXTINF:0,RADIO CONTACT VOSGES (RCV)
-https://manager6.streamradio.fr:2055/stream
 #EXTINF:0,Radio Corinto Miami
 https://centova.hostingelectrica.net/proxy/radiocor?mp=%2Fstream
 #EXTINF:0,Radio Corsaire
@@ -4554,7 +4540,7 @@ https://stream.zeno.fm/3q8g15yqxmruv
 #EXTINF:0,Radio Loveland
 https://streaming.live365.com/a42370
 #EXTINF:0,Radiolovestars
-http://listen.pro-fhi.net/radiolovestars.m3u
+https://radio2.pro-fhi.net/live/Radiolovestars
 #EXTINF:0,Radio Luc
 https://edge.audioxi.com/RED?1602930454696
 #EXTINF:0,Radio Lusitana
@@ -5345,12 +5331,12 @@ https://stream.rpr1.de/mainz/mp3-128/radiode
 https://stream.rpr1.de/trier/mp3-128/radiode
 #EXTINF:0,RPYU / En Vivo
 https://s18.myradiostream.com/7210/listen.mp3
-#EXTINF:0,94,3 rs2 BERLIN, MEIN LIEBLINGS MIX
+#EXTINF:0,94,3 RS2. Berlins Beste Musik!
 https://stream.rs2.de/rs2/mp3-128/radiode;stream.nsv
 #EXTINF:0,rs2 80er Party
 https://stream.rs2.de/rs2-80er-party/mp3-128/?ref=radiode
 #EXTINF:0,rs2 80er Hits
-https://stream.rs2.de/rs2/mp3-192/homepage/
+https://topradio-de-hz-fal-stream07-cluster01.radiohost.de/rs2-80er_mp3-192
 #EXTINF:0,RSA RADIO
 https://rsaradio-live.cast.addradio.de/rsaradio/live/mp3/high?ar-distributor=f0a0
 #EXTINF:0,R.SA 1.000 Achtziger
@@ -5755,8 +5741,6 @@ https://audio.allabout.radio/radio/8010/stream.mp3
 https://c22.radioboss.fm:8205/stream
 #EXTINF:0,The Cat 107.9fm
 http://5.63.151.52:8066/stream
-#EXTINF:0,The Cheese
-https://streaming.live365.com/a20306
 #EXTINF:0,The Cheese 87.9 FM
 http://thecheese.ddns.net:8000/;stream.mp3
 #EXTINF:0,TheCommonSense
@@ -5985,8 +5969,8 @@ https://audiostreaming.luz.network/stream/2/;?nocache=18677&type=http
 https://radio.vintageobscura.net/stream
 #EXTINF:0,Vintage Radio!
 http://s3.xrad.io:8044/
-#EXTINF:0,VINYLERADIO
-https://diffusion.clim.digital:1235/stream
+#EXTINF:0,vinyleradio
+https://azuracast.infocomwebservices.com/listen/direct_1/radio.mp3
 #EXTINF:0,vinylonlineradio
 https://s9.citrus3.com:2020/public/vinylonlineradio
 #EXTINF:0,Disco Power
