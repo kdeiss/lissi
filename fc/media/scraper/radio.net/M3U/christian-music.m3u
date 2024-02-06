@@ -837,6 +837,8 @@ https://stream.radio.co/s09849366f/listen
 http://s3.voscast.com:10100/;
 #EXTINF:0,Hope Alive Radio
 http://radio.wanderingsheep.tv:8012/hopealive
+#EXTINF:0,Hope FM Zambia
+https://carina.streamerr.co:8078/stream
 #EXTINF:0,Hope!
 https://stream.zeno.fm/f1t2z6m69ehvv
 #EXTINF:0,Hosanna Radio
@@ -1303,6 +1305,8 @@ https://ice10.securenetsystems.net/PLR
 https://emf-hls-a.streamguys1.com/seg001023-h128/playlist.m3u8?
 #EXTINF:0,KHAP - Family Radio
 https://ais-sa3.cdnstream1.com/2641_64.aac
+#EXTINF:0,KHCA Angel 95
+https://s.radiowave.io/khca.aac
 #EXTINF:0,KHCB
 https://khcb.streamguys1.com/live-128k-mp3
 #EXTINF:0,KHCL - 92.5 FM
@@ -1895,8 +1899,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2796427.mp
 https://stream2.technologicznie.net/radio_nadzieja.mp3
 #EXTINF:0,NEE SWARAM
 http://neeswaram.riggrodigital.com:8035/stream/1/
-#EXTINF:0,Radio Neige-Folle
-https://strw1.openstream.co/873
 #EXTINF:0,Radio Neue Hoffnung
 https://stream.mnr.ch/rnh-mp3
 #EXTINF:0,Radio Newcovenant - Ghana Gospel
@@ -2297,6 +2299,8 @@ https://ice.creacast.com/radio-courtoisie
 http://stm1.audiplushd.com.br:7470/stream
 #EXTINF:0,Rádio Cristã Online
 https://servidor40.brlogic.com:8004/live
+#EXTINF:0,radiocristianaenlinea
+https://server3.sit-mexico.com:2199/proxy/radiocristiana?mp=/stream
 #EXTINF:0,Radio Cristiana 104.9 FM
 https://stream.zeno.fm/1ygpsdgv1ehvv
 #EXTINF:0,Radio Cristiana Argentina
@@ -3401,6 +3405,8 @@ https://cast.hoost.com.br:20150/stream
 http://we.savesouls.today:8088/stream
 #EXTINF:0,Sawt El Majd
 https://stream.zeno.fm/u5gbt0e73d0uv
+#EXTINF:0,SB - Rádio Sulbrasileira AM 1320
+https://play.radio.br:8089/SulBrasileira/SB1320/icecast.audio
 #EXTINF:0,SBW Radio
 https://streamer.radio.co/s6152f7771/listen
 #EXTINF:0,SCs MIX
@@ -3573,8 +3579,6 @@ https://stream.zeno.fm/nw0rvks1w7zuv
 https://ice23.securenetsystems.net/TOUCHFM
 #EXTINF:0,Traditional Catholic Radio
 http://traditionalcatholicradio.org:8000/main
-#EXTINF:0,Radio Tranquilidade
-http://www.iasdcoimbra.tv:8000/stream/1/;
 #EXTINF:0,Radio 7
 http://api.play.cz/radio/radio7-128.mp3.m3u
 #EXTINF:0,Tropical 100 Cristiana
@@ -4285,8 +4289,14 @@ https://ic2.sslstream.com/woel-fm
 https://streaming.radio.co/s9557f4a17/listen
 #EXTINF:0,WOFN - The Oasis Network 88.7 FM
 https://oasis.streamguys1.com/live-aac
+#EXTINF:0,WOFR Healing Station
+http://listen.wofr.org:8080/live
+#EXTINF:0,WOFR KJV Station
+http://listen.wofr.org:8888/kjv
 #EXTINF:0,WOFR Main Station
 https://radio.wofr.org/
+#EXTINF:0,WOFR Music Station
+http://listen.wofr.org:8020/live
 #EXTINF:0,WOGS 103.9 FM
 https://stream.zeno.fm/98ze55cdqnruv
 #EXTINF:0,WOLG - Covenant Network 95.9 FM

@@ -167,8 +167,6 @@ https://streams.barbaradio.de/schmusekatze/mp3-192/radiode/
 https://dispatcher.rndfnk.com/br/br1/obb/aac/low?aggregator=radio-de
 #EXTINF:0,BB RADIO - Schlager
 https://streambbr.ir-media-tec.com/schlager/mp3-128/radiode_web_mp3/
-#EXTINF:0,BeatBassRadio
-http://c02.lexycast.de:3600/
 #EXTINF:0,Beatfox Radio
 https://stream.laut.fm/discofox-fm?ref=radiode
 #EXTINF:0,Beat Of Sound Radio
@@ -275,6 +273,8 @@ https://stream.laut.fm/dietersradio?ref=radiode
 https://cast4.asurahosting.com/proxy/diisradi/stream
 #EXTINF:0,Dinkelwelle
 http://94.130.222.237:22126/stream
+#EXTINF:0,Dirk´s Musik Diner
+http://c02.lexycast.de:2270/play.mp3
 #EXTINF:0,Discofoxfieber
 http://systemweb-server3.de:11700/;
 #EXTINF:0,DiscoFoxSound
@@ -415,8 +415,6 @@ http://bone.streampanel.cloud/8-herzklang
 http://server-51.stream-server.nl:8340/stream/1/
 #EXTINF:0,Hit auf Hit Sound Radio
 https://c01.lexycast.de:7635/stream
-#EXTINF:0,Radio Hit Box
-http://server35683.streamplus.de:12074
 #EXTINF:0,Hitpool Radio
 http://apollo.rserve.de:9932/;
 #EXTINF:0,HitPower-Radio.com 
@@ -1963,6 +1961,8 @@ Https://s2.genx-stream.de:11452
 http://88.198.175.30:5574/stream/1/
 #EXTINF:0,Museumsradio 1476
 https://museum.streamserver24.com:8080/stream/1/
+#EXTINF:0,Music For Friends
+http://c01.lexycast.de:2840/stream
 #EXTINF:0,Music-Tempel
 https://stream.music-tempel.de:8080/;
 #EXTINF:0,Musicworld Giessen
@@ -2359,6 +2359,8 @@ http://stream04.stream-webradiotechnik.de:8150/stream/1/
 https://mediacp.audiostreamen.nl:8238/stream
 #EXTINF:0,Radio-RDB
 https://c02.lexycast.de:1290/;?type=http&nocache=1705398479
+#EXTINF:0,Radio Regenbogen Konfetti-Party
+https://stream.regenbogen.de/konfettiparty/mp3-128/radiode
 #EXTINF:0,Radio Regenbogen Schlager
 https://stream.regenbogen.de/schlager/mp3-128/radiode
 #EXTINF:0,Radio-Rheinland
@@ -2437,8 +2439,6 @@ https://s4.genx-stream.de:8502/stream
 https://radiovm1.fluidstream.eu/radiovm1.mp3
 #EXTINF:0,ORF Radio Vorarlberg
 https://orf-live.ors-shoutcast.at/vbg-q1a
-#EXTINF:0,Radio Vreden
-http://pop.webradioscout24.de:80/pop.mp3
 #EXTINF:0,Radio-Vulkan
 http://server13.blitz-stream.de:7520/;
 #EXTINF:0,Radio Weleer
@@ -2491,8 +2491,6 @@ https://radioerft--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radioerft/live/mp3
 http://c01.lexycast.de:4150/;
 #EXTINF:0,RMF PRL
 https://rs8-krk2.rmfstream.pl/PRL
-#EXTINF:0,RockPlanet-Radio.net
-http://c02.lexycast.de:1510/stream/1/
 #EXTINF:0,Rogos-Powerradio 
 http://89.163.144.59:5786/stream
 #EXTINF:0,RPR1. Radio Schinkenstrasse
@@ -2769,8 +2767,6 @@ https://server3.streamserver-unlimited.de:8529/stream
 https://web.radio.antennevorarlberg.at/av-schlagerkult?aggregator=radio.at
 #EXTINF:0,Radiostation-Voyager
 http://stream1.iradio-project.eu:8006/stream/1/
-#EXTINF:0,Wattkieker.Club
-http://dirks-ideen.de:12090/stream/1/
 #EXTINF:0,Web Rádio B2 Schlager Party
 https://stream.zeno.fm/9yejmortuiztv
 #EXTINF:0,Webradio-Ried
@@ -2797,8 +2793,6 @@ http://51.255.8.139:8380/stream/1/
 https://radio.whitebeat-radio.de:8443/frei
 #EXTINF:0,white-black-puma-radio.de
 https://stream.white-black-puma-radio.de:8002/listen
-#EXTINF:0,wikingerpowerherz.de
-https://sonicpanel.f-irrgang.de:7000/;
 #EXTINF:0,wildcatsfantasyradio
 http://server3.streamserver-unlimited.de:8250/stream/1/
 #EXTINF:0,radio-wolkenkratzer

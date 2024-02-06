@@ -429,8 +429,6 @@ https://frontend.streams.arabella.at/arabella-niederoesterreich?aggregator=radio
 https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=radio-at
 #EXTINF:0,Arctic Outpost AM1270
 https://radio.streemlion.com:3475/stream
-#EXTINF:0,Arctic Outpost AM 1270
-https://radio.streemlion.com:3715/stream
 #EXTINF:0,Argentine Tango Radio
 https://ais-sa2.cdnstream1.com/2202_128.mp3
 #EXTINF:0,Aspen 102.3
@@ -761,8 +759,6 @@ https://stream.zeno.fm/b6v6nu8uhnruv
 http://128.76.173.127:8000/stream
 #EXTINF:0,Classic Rock Records
 https://listen.radionomy.com/classic-rock-records.m3u
-#EXTINF:0,Classic Soul Radio
-https://ice.creacast.com/classic_soul
 #EXTINF:0,Clàssics Ràdio
 https://stream-51.zeno.fm/jfwht1gukulvv?zs=jSJ1mxYnTNmPtuwaZOUQRg
 #EXTINF:0,Cleansing 50's
@@ -1319,8 +1315,6 @@ http://173.208.177.90:13410/stream/1/
 http://stream.laut.fm/harmonys-jukebox?ref=radiode
 #EXTINF:0,Heartbeat FM
 http://cast5.magicstreams.gr:8010/stream/1/
-#EXTINF:0,HEART FM
-http://capeant.antfarm.co.za:8000/HeartFM
 #EXTINF:0,Heart FM
 https://live.heartfm.com.tr/listen/heart_fm/128.aac
 #EXTINF:0,Heartlites The Hood
@@ -1351,6 +1345,8 @@ https://stream.radiojar.com/6bmecgg3wd5tv
 https://edge.mixlr.com/channel/qnfrb
 #EXTINF:0,HitMix
 https://ec3.yesstreaming.net:3360/dcs/9/winamp.m3u
+#EXTINF:0,HitOldies
+http://gemini.shoutca.st:8027/stream/1/
 #EXTINF:0,Hitpool Radio
 http://apollo.rserve.de:9932/;
 #EXTINF:0,Hitpowerbox
@@ -1681,6 +1677,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KMGVFMAAC_SC
 https://ice23.securenetsystems.net/CHUCKFM
 #EXTINF:0,KMXE The Mountain 99.3 FM
 https://ice7.securenetsystems.net/KMXE
+#EXTINF:0,Knall-Köpfe
+https://s7.streamcaster.eu:8312/stream1.mp3
 #EXTINF:0,Radio-Knattermühle
 https://radio-knattermuehle.stream.laut.fm/radio-knattermuehle?t302=2023-10-16_10-18-09&uuid=26734b89-5445-409b-8ea7-2cd8e92972dd
 #EXTINF:0,knixx.fm - Dein Webradio
@@ -1703,6 +1701,8 @@ http://jenny.torontocast.com:9002/stream/1/
 https://streaming.live365.com/a99520
 #EXTINF:0,Kool Oldies
 https://live.amperwave.net/manifest/adamsradio-wqtlfmaac-ibc1
+#EXTINF:0,KQBK Kool Gold 104.7 FM
+https://ice42.securenetsystems.net/KQBK
 #EXTINF:0,KQIE Old School 104.7 FM
 https://ice9.securenetsystems.net/KQIE
 #EXTINF:0,KQRZ-LP
@@ -2707,6 +2707,8 @@ https://www.radioking.com/play/otradio/584704
 https://s1.voscast.com:10237/stream
 #EXTINF:0,LMD Radio
 https://lmdradio.on-the-web.tv/radio/8010/radio.mp3
+#EXTINF:0,LM Radio 87.8 FM
+https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:0,Loca Fm House Deluxe 
 https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:0,Lola Fm
@@ -2739,8 +2741,6 @@ https://tuner.m1.fm/oldies.mp3
 https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 #EXTINF:0,macjingle Classic Hits
 http://host6.cartwall.at:7210/;
-#EXTINF:0,MAGIA 80
-https://www.magia80.webradios.net/
 #EXTINF:0,Magic 87.6
 https://syd02.sdn.dhcmedia.com.au/radio/8010/magic876
 #EXTINF:0,Mellow Magic
@@ -2820,7 +2820,7 @@ https://sc.creacast.com/melodie
 #EXTINF:0,Radio Melodiya FM Мелодія FM
 https://online.melodiafm.ua/MelodiaFM
 #EXTINF:0,Melody-4-scorpion
-https://stream-melody.de:8192/;
+https://stream.tramp-cast.ch:8038/stream
 #EXTINF:0,Melody FM
 https://sc4s.cdn.upx.com:8080/stream
 #EXTINF:0,Melody in Paris
@@ -2917,12 +2917,8 @@ https://cast3.my-control-panel.com/proxy/jonatha1/live
 https://stream.zeno.fm/qa29r0es1f8uv
 #EXTINF:0,musicaferadio
 https://stream.zeno.fm/cngtgn2wea0uv
-#EXTINF:0,Radio Musicalisima 89.1
-http://109.169.76.104:37100/;
 #EXTINF:0,Musical Venture Radio
 https://us3.internet-radio.com/proxy/dagilli2?mp=/MVR128
-#EXTINF:0,Music City DigiCast
-http://103.28.149.117:8003/stream
 #EXTINF:0,Radio-MusicForFun
 http://s10.streamingcloud.online:13200/stream/1/
 #EXTINF:0,Music Fun Station
@@ -3239,8 +3235,6 @@ https://stream.open.fm/50
 http://streams.movemedia.eu:8800/;
 #EXTINF:0,ORF Radio Niederösterreich
 https://orf-live.ors-shoutcast.at/noe-q1a
-#EXTINF:0,Oro 94.9 Solo Hits
-https://grupooro1.centrocibernetico.com/;
 #EXTINF:0,Radio Ostseemelodie
 https://server35903.streamplus.de/stream.mp3
 #EXTINF:0,Ostseewelle - Oldie Hits
@@ -3339,8 +3333,6 @@ http://live1.livemus.com.br:6702/stream/1/
 https://strcdn.klm99.com:10991/planetmdp
 #EXTINF:0,Planet Oldies Radio
 https://planetoldies-libstrm.radioca.st/stream
-#EXTINF:0,Planet Pootwaddle
-https://ppw.streamguys1.com/sgplayer-aac
 #EXTINF:0,PlanetRadio.ie Classic Hits
 https://media.planetradio.ie/radio/8000/OnAir
 #EXTINF:0,Radio Plattenküche 
@@ -3615,6 +3607,8 @@ https://streaming.live365.com/a61726
 https://sonic-us.streaming-chile.com/8228/stream
 #EXTINF:0,Radio Demerstad
 https://media1.hostin.cc/radiodemerstad.mp3
+#EXTINF:0,Radio DGH Eastbourne
+https://media.radiodgh.com:8443/stream
 #EXTINF:0,Radio DHT
 https://radiodht.com/stream_main/
 #EXTINF:0,Radio Disco
@@ -3835,6 +3829,8 @@ http://109.169.54.86:8008/stream?1669197407212
 http://109.169.54.86:8008/stream
 #EXTINF:0,Rádio Nostalgia Elvas
 http://stm6.srvstm.com:6162/stream/1/
+#EXTINF:0,Радио Ностальгия
+http://c12.radioboss.fm:8016/stream
 #EXTINF:0,Radio Nostalgie Nederland
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Radio Nova
@@ -3894,7 +3890,7 @@ http://server4.mundonline.cl:8714/stream
 #EXTINF:0,Radio-Radeberg
 http://streamplus52.leonex.de:10188/;
 #EXTINF:0,Radio Ramasuri
-https://ramasuri-live.cast.addradio.de/ramasuri/live/mp3/high?ar-distrbutor=f0a0
+https://ramasuri-live.cast.addradio.de/ramasuri/live/mp3/high
 #EXTINF:0,Radio Rasec Internacional
 https://stream.zeno.fm/m8da9u22kwzuv
 #EXTINF:0,Radio-RDB
@@ -4071,8 +4067,6 @@ http://stream04.stream-webradiotechnik.de:9050/listen1
 https://emisorasvirtuales.com.co:9378/live
 #EXTINF:0,radio Vratislavice
 https://ice4.abradio.cz/vratislavice128.mp3
-#EXTINF:0,Radio Vreden
-http://pop.webradioscout24.de:80/pop.mp3
 #EXTINF:0,Radio Weaver
 https://s9.citrus3.com:8412/stream
 #EXTINF:0,RadioWebFM
@@ -4139,6 +4133,8 @@ https://streaming.live365.com/a67594
 https://hosting.studioradiomedia.fr:2005/stream
 #EXTINF:0,Recital 80's
 http://176.9.76.61:8031/stream/1/
+#EXTINF:0,Recuerdo 102.1
+https://live.zuperdns.net:7004/;stream.mp3
 #EXTINF:0,Recuerdos FM
 https://sonando-us.digitalproserver.com/radiorecuerdos.mp3
 #EXTINF:0,Rede Rwr
@@ -4237,8 +4233,6 @@ https://streaming.live365.com/a63650
 https://stream.tunerplay.com/radio/8050/rocksateliteradio.mp3
 #EXTINF:0,ROCK STATION
 http://ecmanager2.pro-fhi.net:1420/;
-#EXTINF:0,Rocky Fmx
-https://stream.zeno.fm/gcthiif18hhtv
 #EXTINF:0,1940s Radio
 https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=/;type=mp3
 #EXTINF:0,Old Time Gold
@@ -4259,7 +4253,7 @@ https://server5.radio-streams.net:2199/tunein/rowynamu.pls
 http://197.210.166.122:8000/stream
 #EXTINF:0,RPM Oldies & Retro Hits
 https://radios.solumedia.com/6118/stream
-#EXTINF:0,Radio Peduli Parepare [RSBM] 96.9 FM
+#EXTINF:0,Radio Peduli Parepare 96.9 FM
 https://stream.zeno.fm/zkzf6x69gfhvv.pls
 #EXTINF:0,RPR1. Oldies
 https://stream.rpr1.de/oldies/mp3-128/radiode
@@ -4621,8 +4615,6 @@ http://s45.myradiostream.com:4000/listen.mp3
 https://streaming.live365.com/a96539
 #EXTINF:0,The Grid FM
 http://janus.cdnstream.com:5579/dj
-#EXTINF:0,The Legend Factory
-https://streaming.live365.com/a42192
 #EXTINF:0,TheLex
 https://streaming.live365.com/a51813
 #EXTINF:0,The Mix Radio 80's
@@ -4659,8 +4651,6 @@ https://stream1.themediasite.co.uk:7024/stream
 https://stream1.themediasite.co.uk:7024/stream
 #EXTINF:0,Tin Pan Alley Radio
 https://radio.streemlion.com:5325/stream
-#EXTINF:0,Tipperary Mid-West Radio
-http://184.154.145.114:8007/stream
 #EXTINF:0,Radio Tirol Italia
 https://str0.creacast.com/radiotirol_a
 #EXTINF:0,TMK Sound
@@ -4755,8 +4745,6 @@ https://server4.streamserver24.com:61444/stream/1/
 http://vendsysselfm.dk:8000/stream/1/
 #EXTINF:0,Radio Ninof
 https://stream.laut.fm/radioninof?ref=radiode
-#EXTINF:0,Radio VHR - Nostalgie meets Pop
-https://radio-vhr.de/rock_pop.m3u
 #EXTINF:0,Radio VHR – Pop, Rock + Oldies
 https://s35.derstream.net/radiovhr.mp3
 #EXTINF:0,VIBE 24/7
@@ -4866,7 +4854,7 @@ http://144.217.158.59:5156/stream
 #EXTINF:0,WBNJ - 91.9 FM
 https://wbnj.radioca.st/stream?type=http&nocache=1681829044205
 #EXTINF:0,WBNR-DB - myBNR
-http://209.95.50.189:8017/stream/1/
+https://s6.reliastream.com/proxy/mybnr?mp=/stream
 #EXTINF:0,WBOM Streaming Radio 
 https://quincy.torontocast.com:1225/stream
 #EXTINF:0,WBSC-LP Radio 102.3 FM
@@ -5119,6 +5107,8 @@ https://streamingv2.shoutcast.com/RadioAntillas1130AM
 http://puma.streemlion.com:3820/stream
 #EXTINF:0,WOLD-LP OLDIES 107.9 FM
 http://192.99.41.102:5032/stream
+#EXTINF:0,Wonderful Radio London 
+http://109.169.54.86:8003/stream/1/
 #EXTINF:0,Wonderlandradio
 http://server-27.stream-server.nl:8388/stream/1/
 #EXTINF:0,Woope-Radio
@@ -5271,8 +5261,6 @@ https://hls1.eu.peppermindmedia.com/xtrafm/moodradio/90s/playlist.m3u8
 https://stream.jfkradio.es/xtrafm
 #EXTINF:0,XtraFM Costa Brava Radio
 https://stream.jfkradio.es/xtrafm-noord
-#EXTINF:0,Yat Radio - New Orleans Oldies
-https://streaming.live365.com/a81189
 #EXTINF:0,Yesterday Once Again
 https://streaming.live365.com/a29131
 #EXTINF:0,Yesterday Once Again
