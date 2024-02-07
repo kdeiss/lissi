@@ -429,6 +429,8 @@ https://frontend.streams.arabella.at/arabella-niederoesterreich?aggregator=radio
 https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=radio-at
 #EXTINF:0,Arctic Outpost AM1270
 https://radio.streemlion.com:3475/stream
+#EXTINF:0,Arctic Outpost AM 1270
+https://radio.streemlion.com:3715/stream
 #EXTINF:0,Argentine Tango Radio
 https://ais-sa2.cdnstream1.com/2202_128.mp3
 #EXTINF:0,Aspen 102.3
@@ -799,6 +801,8 @@ https://stream.radiocontinu.nl/radiocontinu
 https://s2.yesstreaming.net:17161/stream
 #EXTINF:0,Cool Oldies
 http://c8.radioboss.fm:8114/stream
+#EXTINF:0,Cool Oldies 96
+http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream
 #EXTINF:0,Cool Oldies MKE
@@ -1101,8 +1105,6 @@ https://stream.zeno.fm/a7e9a6vgwbruv
 http://stream.flex-radio.eu:8384/FlexRadioMP3
 #EXTINF:0,Flr1plus
 https://stream.hoerfunkbundstream.de:35102/stream
-#EXTINF:0,FluxFM 60s
-https://channels.fluxfm.de/60s/radiode/stream.mp3
 #EXTINF:0,FM101 Faisalabad
 https://whmsonic.radio.gov.pk:8024/relay?type=http&nocache=9
 #EXTINF:0,FM1 Gold 
@@ -1307,8 +1309,6 @@ https://s2.streamcaster.eu:8107/stream1
 http://88.198.175.30:5099/stream/1/
 #EXTINF:0,Harmoni FM
 https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
-#EXTINF:0,80er-Radio harmony
-https://streams.harmonyfm.de/harmonyfm/mp3/hqlivestream.mp3?amsparams=playerid:RTFFHRadioDE
 #EXTINF:0,Harmony
 http://173.208.177.90:13410/stream/1/
 #EXTINF:0,HARMONYS JUKEBOX
@@ -2803,8 +2803,6 @@ https://mdr-284300-2.sslcast.mdr.de/mdr/284300/2/aac/high/stream.aac?aggregator=
 https://mdr-284300-3.sslcast.mdr.de/mdr/284300/3/aac/high/stream.aac?aggregator=radio-de
 #EXTINF:0,Meerradio
 https://nlpo.streamabc.net/redbm-meerradio-mp3-192-1136555
-#EXTINF:0,Mega Fm Web
-http://server10.srvsh.com.br:8008/live
 #EXTINF:0,Mega Hit FM - Mega Classics
 http://megaclassics.primcast.com:9120/stream/1/
 #EXTINF:0,Mega Sound Arena
@@ -2821,6 +2819,8 @@ https://sc.creacast.com/melodie
 https://online.melodiafm.ua/MelodiaFM
 #EXTINF:0,Melody-4-scorpion
 https://stream.tramp-cast.ch:8038/stream
+#EXTINF:0,Melody Douce
+https://stream.rcs.revma.com/cvt1twwbyf9uv
 #EXTINF:0,Melody FM
 https://sc4s.cdn.upx.com:8080/stream
 #EXTINF:0,Melody in Paris
@@ -3781,8 +3781,6 @@ https://stream.radio-matchbox.de/listen/matchbox/radio.mp3
 http://192.99.83.154:8006/stream
 #EXTINF:0,MDM Radio
 https://stream.radio-mdm.fr:8443/stream.mp3
-#EXTINF:0,radiomediona
-https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,Radio Melody
 https://stream.streambase.ch/rm/mp3-192/radiode/
 #EXTINF:0,Radio M Evergreen
@@ -3921,6 +3919,8 @@ https://ssl.painelcast.com:7586/stream
 https://icecast.bizwebradio.com/listen/rodin/radio.aac
 #EXTINF:0,Radio R.O.M.
 http://rs1.radiostreamer.com:8270
+#EXTINF:0,Radio Romantic
+https://radio-romantic.ro/stream
 #EXTINF:0,Rosita Musicshop
 http://mediacp.audiostreamen.nl:8000/stream
 #EXTINF:0,Radio RSG - Dein Oldie Radio
@@ -4307,6 +4307,8 @@ https://radio2.pro-fhi.net/radio/9039/stream
 http://s4-stream.com:10030/stream
 #EXTINF:0,Saalewelle Schlager
 https://www.radioking.com/play/saalewelle-schlager
+#EXTINF:0,Saarfunk 3
+https://icecast-bp-cdp.triple-it.nl/bp_saarfunk_3_128_mp3
 #EXTINF:0,Sachsen Dance Radio
 http://84.200.41.25:11000/listen1
 #EXTINF:0,Salsa 92.7 FM
@@ -5179,6 +5181,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM.mp3
 http://ice66.securenetsystems.net/WRSK
 #EXTINF:0,WRTZ 1410 AM
 https://www.streamvortex.com:8444/s/10090
+#EXTINF:0,WRUL 97.3 All Oldies 1460 WROY
+https://ice24.securenetsystems.net/WRUL
 #EXTINF:0,WSAT / WTIX Memories 1280
 https://ice9.securenetsystems.net/WSAT
 #EXTINF:0,WSBB AM 1230 and AM 1490

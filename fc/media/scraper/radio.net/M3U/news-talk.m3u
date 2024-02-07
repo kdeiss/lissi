@@ -5,8 +5,6 @@ https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
 https://audio.bild-und-ton.stream:16162/alternativaradio-en
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
-#EXTINF:0,BPM
-http://bpm.myddns.me:8222/stream
 #EXTINF:0,CADENA 5
 https://stream.radiolive.com.co:8020/radio.mp3
 #EXTINF:0,Cadena SER Aranda
@@ -657,8 +655,6 @@ https://ice2.securenetsystems.net:80/KFBC
 https://ic1.sslstream.com/bottradio
 #EXTINF:0,KFEQ 680AM 95.3FM
 https://live.amperwave.net/manifest/eagleradio-kfeqamaac-hlsc4.m3u8
-#EXTINF:0,KFFN - ESPN Tucson
-https://playerservices.streamtheworld.com/api/livestream-redirect/KFFNAMAAC.aac
 #EXTINF:0,KFGO - The Mighty 790 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAM.mp3
 #EXTINF:0,KFIR - Voice of the Valley 720 AM
@@ -833,8 +829,6 @@ https://ice5.securenetsystems.net/KLADAM
 https://stream.zeno.fm/4uw093pbyvduv
 #EXTINF:0,KLCD - Classical MPR 89.5 FM
 https://cms.stream.publicradio.org/cms.mp3
-#EXTINF:0,KLCK 1400 AM
-https://s1proxy.logical.systems:8004/stream/1/
 #EXTINF:0,KLHT - K-Light 1040 AM
 https://klht.agapestreams.net:8443/klhtam
 #EXTINF:0,KLIF 570 AM
@@ -1109,6 +1103,8 @@ http://stream.abacast.net/direct/townsquare-ktemamaac-ibc3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTEPFM.mp3
 #EXTINF:0,KTGO - The Flag 1090 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTGOAMAAC.aac
+#EXTINF:0,KTIE AM 590 The Answer (US Only)
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC.aac
 #EXTINF:0,KTIP Radio
 http://vsstreaming.com:8018/stream
 #EXTINF:0,KTJS 1420
@@ -1415,6 +1411,8 @@ https://443-1.autopo.st/19/;stream.mp3?sid=1
 https://stream.zeno.fm/9rypbk4cf18uv
 #EXTINF:0,London Turkish Radio
 https://s2.radio.co/s899a861e2/listen
+#EXTINF:0,Lt 10
+http://184.107.240.26:8555/vivo
 #EXTINF:0,LTO Radio
 https://stream.zeno.fm/53v3zysszk0uv?rj-tok=AAABetWDrbUAtinKUWMcJ3I2Cw&rj-ttl=5
 #EXTINF:0,LU20 Radio Chubut
@@ -2113,8 +2111,6 @@ https://st3.inkaniserver.net:8096/stream
 http://argentina.republicahosting.com:8328/stream
 #EXTINF:0,Rádio Gaúcha AM 600 FM 93.7
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
-#EXTINF:0,Rádio Gazeta
-http://sc1.crossdigital.com.br:8236/;
 #EXTINF:0,Radio GB fm 95.5
 https://stream.zeno.fm/smlwjvv4mvfuv
 #EXTINF:0,Radio Girona 92.7 FM
@@ -2971,8 +2967,6 @@ https://edge.iono.fm/xice/uctradio_live_medium.aac
 https://streamuchile.teslati.com/liveruch
 #EXTINF:0,UK Health Radio
 https://streaming.radio.co/s8e535ff20/listen
-#EXTINF:0,UK Talk Radio & Music Radio
-https://ny.mysonicserver.com/8050/stream
 #EXTINF:0,Uncion 97 Radio
 https://rss3.domint.net:8006/stream
 #EXTINF:0,Union Radio - Noticias
