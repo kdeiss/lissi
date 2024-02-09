@@ -535,8 +535,6 @@ https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_5717_stream_155405
 https://listen.57fm.com/fgrock
 #EXTINF:0,FFH Rock
 https://streams.ffh.de/ffhplus/mp3/hqrock.mp3?amsparams=playerid:RTFFHRadioDE
-#EXTINF:0,Flightline Radio
-https://streaming.live365.com/a24537
 #EXTINF:0,Radio Floyd
 https://listen.radionomy.com/radio-floyd.m3u
 #EXTINF:0,FM1 Rock 
@@ -617,6 +615,8 @@ http://pollux.shoutca.st:8124/;
 https://server24094.streamplus.de/stream/1/
 #EXTINF:0,Radio Horizon FM Tenerife
 http://uk2-pn.mixstream.net:8192/;
+#EXTINF:0,Hortibiz Newsradio
+https://proxy.live-streams.nl/Hortibiznewsradio
 #EXTINF:0,Hospitalet - 80s Éxitos
 https://listen.radionomy.com/80-exits.m3u
 #EXTINF:0,Hotmix ROCK
@@ -669,6 +669,8 @@ https://ice9.securenetsystems.net/KAOIFM
 https://mcp-2.mm-stream.nl:8010/stream
 #EXTINF:0,KARS-FM - Rock 102.9 FM
 http://stream.abacast.net/direct/townsquare-karsfmaac-ibc3
+#EXTINF:0,KATX 97.7 FM
+http://mm.txol.net:8004/radio1
 #EXTINF:0,KBAJ - 95 KQDS A Red Rock Radio Station 105.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
 #EXTINF:0,KBBN-FM 95.3 FM
@@ -759,8 +761,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KISMFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KITSFM.mp3
 #EXTINF:0,KJOT - Variety Rock 105.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KJOTFM.mp3
-#EXTINF:0,KKDJ Classic Rock
-http://streaming1.kkdjfresno.com:8030/;
 #EXTINF:0,KKFM - Classic Rock 98.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKFMFM.mp3
 #EXTINF:0,KKFM 98.1 FM
@@ -1295,6 +1295,8 @@ https://stream.zeno.fm/wttb4ahbk5zuv
 http://stream.radiocarcoma.com:8080/;
 #EXTINF:0,Radio Caroline
 https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
+#EXTINF:0,Radio Centro Idea
+https://ssl.audio1.meway.tv/proxy/radiocentroidea?mp=/stream
 #EXTINF:0,Radio Cordial
 https://listen.openstream.co/6149/audio
 #EXTINF:0,Радио СИ - Radio C
@@ -1669,6 +1671,8 @@ https://streams.rsh.de/rsh-event02/mp3-128/radiode/
 http://rt1.radio/gsg4w
 #EXTINF:0,Rocking The Blues
 https://rock-the-blues.stream.laut.fm/rock-the-blues
+#EXTINF:0,RThunder Radio
+https://usa19.fastcast4u.com:3460/;
 #EXTINF:0,RTL 917 SANTOS
 https://live.virtualcast.com.br/rtl
 #EXTINF:0,RTL +Rock

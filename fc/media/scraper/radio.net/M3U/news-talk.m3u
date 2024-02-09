@@ -655,6 +655,8 @@ https://ice2.securenetsystems.net:80/KFBC
 https://ic1.sslstream.com/bottradio
 #EXTINF:0,KFEQ 680AM 95.3FM
 https://live.amperwave.net/manifest/eagleradio-kfeqamaac-hlsc4.m3u8
+#EXTINF:0,KFFN - ESPN Tucson
+https://playerservices.streamtheworld.com/api/livestream-redirect/KFFNAMAAC.aac
 #EXTINF:0,KFGO - The Mighty 790 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAM.mp3
 #EXTINF:0,KFIR - Voice of the Valley 720 AM
@@ -1707,8 +1709,6 @@ https://securestream.radioshd.info:7010/stream/1/
 http://omegaradio.primcast.com:4416/stream/1/
 #EXTINF:0,Omroep Castricum
 http://omroepcastricum.ddns.net:8000/96AAC
-#EXTINF:0,Onda Madrid
-https://tvradio-1-23.secure2.footprint.net/bitrate_1.m3u8
 #EXTINF:0,Onda Paz 93.3 FM
 https://srv7021.dns-lcinternet.com/8064/stream
 #EXTINF:0,Onda Punta Radio
@@ -2111,6 +2111,8 @@ https://st3.inkaniserver.net:8096/stream
 http://argentina.republicahosting.com:8328/stream
 #EXTINF:0,Rádio Gaúcha AM 600 FM 93.7
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0,Rádio Gazeta
+http://sc1.crossdigital.com.br:8236/;
 #EXTINF:0,Radio GB fm 95.5
 https://stream.zeno.fm/smlwjvv4mvfuv
 #EXTINF:0,Radio Girona 92.7 FM
@@ -2377,6 +2379,8 @@ https://rf101.radioca.st/stream
 https://stream.zenolive.com/3xk17bzdd3quv
 #EXTINF:0,Radiorizzonti inBlu
 http://stream.wide-net.org:80/orizzonti
+#EXTINF:0,Radio Robines
+http://37.59.121.120:9510/stream
 #EXTINF:0,SRR Radio Romania Cultural
 https://www.radioromaniacultural.ro/asculta.m3u
 #EXTINF:0,Radio Rooz
@@ -3607,6 +3611,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOHD2_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOFM_SC
 #EXTINF:0,WKNY - Radio Kingston 1490 AM
 http://stream.radiokingston.org:8000/rk.mp3
+#EXTINF:0,WKOK - NewsRadio 1070 AM
+https://live.amperwave.net/manifest/sunbury-wkokamaac-hlsc2.m3u8
 #EXTINF:0,WKQK / WMEL 1300 AM
 http://vip.livecastnet.com:8000/radio1300.mp3
 #EXTINF:0,WKQY - CSN Christian Radio 100.1 FM

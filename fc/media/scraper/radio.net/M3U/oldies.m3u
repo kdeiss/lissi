@@ -1356,7 +1356,7 @@ https://ls100.systemweb-server.eu/listen/hitpower_radio/hpr1.mp3
 #EXTINF:0,Hit Radio 80
 https://listen.radionomy.com/hr80
 #EXTINF:0,Hitradio H1
-http://193.201.188.37:8000/hitradioh1/stream
+http://stream.hitradioh1.hu:8000/hitradioh1/stream
 #EXTINF:0,Hitradio-Münsterland
 http://c02.lexycast.de:3850/;
 #EXTINF:0,Hitradio Ohr
@@ -1453,6 +1453,8 @@ http://streamplus3.leonex.de:10468/;
 https://cast3.asurahosting.com/proxy/johnhers/stream
 #EXTINF:0,ICE RADIO WALDKRAIBURG 1 Mix
 https://irw.tunefm.de:8070/stream
+#EXTINF:0,iHeart Christmas Classics
+https://stream.revma.ihrhls.com/zc6137/38_fenz3mydvg4o02/playlist.m3u8
 #EXTINF:0,Radip Ildiscobolo
 http://178.32.137.180:8555/stream
 #EXTINF:0,IllusionFm
@@ -1767,8 +1769,6 @@ https://streams.radio.co/s5af909f53/listen
 https://s3.free-shoutcast.com/stream/18098
 #EXTINF:0,KYLS 1450 AM & 95.9 FM
 https://ice41.securenetsystems.net/KYLS
-#EXTINF:0,KYMM RADIO
-http://www.ophanim.net:9200/stream/1/
 #EXTINF:0,KYNZ GTO 107.1 FM
 https://ice64.securenetsystems.net/KYNZ?playSessionID=3F85131C-D415-5A48-61E9A5D3B44B61FB
 #EXTINF:0,KZBL 100.7 FM
@@ -2707,8 +2707,6 @@ https://www.radioking.com/play/otradio/584704
 https://s1.voscast.com:10237/stream
 #EXTINF:0,LMD Radio
 https://lmdradio.on-the-web.tv/radio/8010/radio.mp3
-#EXTINF:0,LM Radio 87.8 FM
-https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:0,Loca Fm House Deluxe 
 https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:0,Lola Fm
@@ -3827,8 +3825,6 @@ http://109.169.54.86:8008/stream?1669197407212
 http://109.169.54.86:8008/stream
 #EXTINF:0,Rádio Nostalgia Elvas
 http://stm6.srvstm.com:6162/stream/1/
-#EXTINF:0,Радио Ностальгия
-http://c12.radioboss.fm:8016/stream
 #EXTINF:0,Radio Nostalgie Nederland
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Radio Nova

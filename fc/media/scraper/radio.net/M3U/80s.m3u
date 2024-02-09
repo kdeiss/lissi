@@ -1121,6 +1121,8 @@ https://eu9.fastcast4u.com/proxy/coventry?fbclid=IwAR0muK0HBmdQufrVbYCQFMi_qf88G
 https://listen.radionomy.com/crazy80-sradio.m3u
 #EXTINF:0,Crazy-Barmy-Radio
 http://stream04.stream-webradiotechnik.de:8550/stream/1/
+#EXTINF:0,Crazyburgenlandradio
+http://streamserver3.m-hosting.eu:12800/stream
 #EXTINF:0,Crazy-Club-Beats
 https://s5.stream-webradiotechnik.de:10252/stream/1/
 #EXTINF:0,CrazyGagaRadio
@@ -1417,6 +1419,8 @@ https://streaming.exclusive.radio/er/beegees/icecast.audio
 https://listen.radionomy.com/exitosdelos60s70s80s90s.m3u
 #EXTINF:0,Exitos del Pasado
 https://listen.radionomy.com/exitosdelpasadoplus.m3u
+#EXTINF:0,Radio EXLEX online
+http://s41.myradiostream.com:27838/;listen.mp3
 #EXTINF:0,Exprerso Radio
 https://stream-42.zeno.fm/w86n2pfwuv5tv?zs=1mYVKM_hQSy_dEbcK1slXA
 #EXTINF:0,extra-radio
@@ -1586,7 +1590,7 @@ https://manager8.streamradio.fr:1495/stream
 #EXTINF:0,FREQUENCE FUN STATION
 https://securestreams6.autopo.st:2524/frequence65
 #EXTINF:0,Frequence funk
-https://srv.webradiomanager.fr:2145/stream
+https://www.radioking.com/play/frequence-funk
 #EXTINF:0,RADIO fresh80s
 https://s37.derstream.net/live.mp3
 #EXTINF:0,Fresh FM 104.3 Aruba
@@ -2105,8 +2109,6 @@ https://kissfm80s.ice.infomaniak.ch/kissfm80s-128.mp3
 https://cast1.torontocast.com:3995/stream
 #EXTINF:0,K-LOVE 80s
 https://emf-hls-b.streamguys1.com/seg001273-h128/playlist.m3u8?platform=web&aw_0_1st.segment=001273&awCollectionId=001273&aw_0_1st.platform=web&city=moses+lake&country=germany&latitude=47.13&longitude=-119.3&region=wa&segment=001273&session_id=1693913238567&visitor_id=0186c1954cc900547e5725ff93bc05075001606d00fb8&key=ca44fa902079e1348ff0e8c5f182aec9aef33c5782d941959a81bbc5fee4fe5bb544beaa6b3f7699443d59301cf69f001281970899a8920462e729b4ecaffaf3
-#EXTINF:0,KLR24
-https://c32.radioboss.fm:18602/stream
 #EXTINF:0,KL Radio
 https://sonic.onlineaudience.co.uk/8036/stream
 #EXTINF:0,KL RADIO
@@ -2223,8 +2225,6 @@ https://stream.landeswelle.de/lwde/mp3-128/rde
 https://stream.landeswelle.de/lwgr/mp3-192/rde
 #EXTINF:0,LandesWelle RockWelle
 https://stream.landeswelle.de/lwro/mp3-128/rde/
-#EXTINF:0,La Nueva Mega
-https://lamega.out.airtime.pro/lamega_a
 #EXTINF:0,La Patrona Radio
 https://streamingsonicpro.com/8138/stream
 #EXTINF:0,LaPerronaMX
@@ -3265,6 +3265,8 @@ https://server5451.streamplus.de/;stream.mp3
 https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream
 #EXTINF:0,Melancolia FM
 https://live.proradiosonline.com/listen/melancolia/aac
+#EXTINF:0,Radio Melodia de Amor
+https://sbox2.sonybox.es:9024/;
 #EXTINF:0,Melodías del corazón
 https://stream.zeno.fm/nbcpokz3q3wvv
 #EXTINF:0,Melodias Del Recuerdo
@@ -3531,6 +3533,8 @@ http://streaming.radionomy.com/NOSTALGICARADIO
 https://scdn.nrjaudio.fm/adwz1/fr/56164/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-100-Francais-80
 #EXTINF:0,NOSTALGIE 80 LES N 1
 https://scdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3?origine=radio.net
+#EXTINF:0,NOSTALGIE AEROBIC
+https://scdn.nrjaudio.fm/adwz1/fr/56768/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-AEROBIC
 #EXTINF:0,Nostalgie Belgique 80
 https://stream.rcs.revma.com/e4xgg233ehuvv
 #EXTINF:0,Nostalgie 80
@@ -3547,6 +3551,10 @@ https://scdn.nrjaudio.fm/adwz1/de/57486/mp3_128.mp3
 http://2stream.dyndns.org:8000/nostalgiegp
 #EXTINF:0,NOSTALGIE FANS DES ANNEES 80
 https://scdn.nrjaudio.fm/adwz1/fr/56373/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-Fans-Des-Annees-80
+#EXTINF:0,NOSTALGIE FRENCH PARTY 80
+https://scdn.nrjaudio.fm/adwz1/fr/57237/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-French-Party-80
+#EXTINF:0,NOSTALGIE LES TUBES 80 N1
+https://scdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-80-Les-Tubes-N-1
 #EXTINF:0,NOSTALGIE NEW WAVE
 https://scdn.nrjaudio.fm/adwz1/fr/30703/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Nostalgie-New-Wave
 #EXTINF:0,Nostalgie NL - 80
@@ -3835,6 +3843,8 @@ http://5.135.183.124:8046/stream
 http://psn3.prostreaming.net:8318/;
 #EXTINF:0,Plexus Radio
 https://node-15.zeno.fm/c68hx27g22quv
+#EXTINF:0,Plexus Radio - Awesome 80s
+https://stream.zeno.fm/ekmnvb8e22quv
 #EXTINF:0,Plexus Radio - Free Radio 80s
 https://stream.zeno.fm/ah6v0aye22quv
 #EXTINF:0,Plumtree Radio
@@ -3853,6 +3863,8 @@ https://stream.zeno.fm/a82u10r453duv
 https://guri.tepuyserver.net/8575/stream
 #EXTINF:0,Point Radio Norfolk
 http://carol.epichosts.co.uk:8290/live.mp3
+#EXTINF:0,Polder Radio
+https://server-67.stream-server.nl:18734/stream
 #EXTINF:0,Pool FM 
 https://radios.poolwebwork.com.br/8010/stream
 #EXTINF:0,POP31
@@ -4573,6 +4585,8 @@ http://158.69.114.190:8018/stream
 https://play10.tikast.com:20106/stream
 #EXTINF:0,Rádio MB
 https://ice3.abradio.cz/radiomb128.mp3
+#EXTINF:0,radiomediona
+https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,RADIOMED 91.3 FM
 http://46.105.111.94:8308/stream/1/
 #EXTINF:0,Radio Megamix 80
@@ -4806,9 +4820,7 @@ https://rserver.radioroanne.fr/listen/radio_roanne_/radio.mp3
 #EXTINF:0,Radio Roc 105.5 Fm
 https://node-07.zeno.fm/tuc7k58u908uv?
 #EXTINF:0,RADIO ROCKLINE
-https://ice.creacast.com/rockline_classic
-#EXTINF:0,Radio Romantic
-https://radio-romantic.ro/stream
+https://ice.creacast.com/rockline
 #EXTINF:0,Radio Romántica FM
 https://stream.zeno.fm/20285xw3eeruv
 #EXTINF:0,Radio Románticas
@@ -5911,8 +5923,6 @@ http://stream-57.zeno.fm/t328tux77f8uv?zs=7CKcRUceTCK7hrSL8ZGa1w
 https://s01.azuracast.cl/radio/8020/stream/1/
 #EXTINF:0,Unser-Kellerradio-DD.de
 http://server4.streamserver24.com:21342/;
-#EXTINF:0,Urban Classics
-http://sonic.sistemahost.es:8180/stream
 #EXTINF:0,Old School RnB - Urbanradio.com
 http://hydra.cdnstream.com/1540_128
 #EXTINF:0,Slow Jams - Urbanradio.com
@@ -6005,8 +6015,6 @@ https://streaming.radio.co/s05ab91da3/listen
 https://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3
 #EXTINF:0,ANTENNE VORARLBERG 80er Hits
 https://web.radio.antennevorarlberg.at/av-80er?aggregator=radio.at
-#EXTINF:0,Antenne Vorarlberg PLUS 80er 90er
-https://web.radio.antennevorarlberg.at/av-plus80er90er?aggregator=radioa.at
 #EXTINF:0,Vorterix Merlo
 http://streamall.alsolnet.com/vorterixaudio
 #EXTINF:0,Vox FM 103.3
