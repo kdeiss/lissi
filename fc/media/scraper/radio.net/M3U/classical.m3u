@@ -179,8 +179,6 @@ https://stream.zeno.fm/utnnx7paza0uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
 #EXTINF:0,Bremen Zwei
 https://icecast.radiobremen.de/rb/bremenzwei/live/icecast.radiobremen.de?aggregator=radio-de
-#EXTINF:0,Brissa Avhalon
-https://play8.tikast.com/proxy/attika?mp=%2Fstream
 #EXTINF:0,BR-KLASSIK
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high?aggregator=radio-de
 #EXTINF:0,Bru Zane Classical Radio
@@ -878,9 +876,11 @@ https://direct.fipradio.fr/live/fipnantes-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,FIP Strasbourg
 https://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,neoFM
-https://streams.fluxfm.de/neofm/mp3-320/radiode/
+https://channels.fluxfm.de/neofm/radiode/stream.aac
 #EXTINF:0,きみのFM88ラジオ局
 http://std1.ladio.net:8010/kimino88
+#EXTINF:0,FM Classic 91.3
+https://radiohd.net/7028/stream
 #EXTINF:0,Fortress Radio
 https://streamer.radio.co/s23005efcb/listen
 #EXTINF:0,France Musique
@@ -971,8 +971,6 @@ https://sv10.hdradios.net:7922/stream\&gt;&lt;/audio&gt;
 https://stream.zeno.fm/crrvmrsmug0uv
 #EXTINF:0,Indie Rock Radio
 https://streaming.radio.co/sdf2a51a1c/listen
-#EXTINF:0,Indómita Classics
-https://sonic.sistemahost.es:7046/;
 #EXTINF:0,Instrumentales de Oro Radio
 https://media.streamingradiomx.com/listen/instrumentales_de_oro_radio/radio.mp3
 #EXTINF:0,Instrumentals Forever
@@ -1139,8 +1137,6 @@ https://stream.klassikradio.de/furioso/mp3-192/radiode/
 https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/
 #EXTINF:0,Klassik Radio Klassik am Morgen
 https://stream.klassikradio.de/klassikammorgen/mp3-128/radiode/
-#EXTINF:0,Klassik für Kids
-https://klassikr.streamabc.net/klr-klassikfrkinder-mp3-192-8843124
 #EXTINF:0,Klassik Radio Legenden der Klassik
 https://stream.klassikradio.de/legendenderklassik/mp3-192
 #EXTINF:0,Klassik Radio Mit Klassik Kindern helfen
@@ -1981,8 +1977,6 @@ http://ample-zeno-18.radiojar.com/5wtaumx2dpeuv
 http://nap.casthost.net:8287/stream
 #EXTINF:0,The Classical Station
 http://s3.voscast.com:10018/;
-#EXTINF:0,THE FLEX RADIO
-https://streams.radio.co/scf0104908/listen
 #EXTINF:0,The Free Radio
 https://listen.thefreeradio.net/listen/the_free_radio/radio.mp3
 #EXTINF:0,The Sound of Ireland
@@ -2013,6 +2007,8 @@ http://stream.zeno.fm/r4tk2hfksfhvv
 https://radio.guventechnology.com/9302/stream
 #EXTINF:0,UMLANDO Radio
 https://a2.asurahosting.com:6520/radio.mp3
+#EXTINF:0,Unika Radio
+http://radiohd.streaminghd.co:7637/stream
 #EXTINF:0,Radio Universelles Leben
 https://onairport.live/radioul-de
 #EXTINF:0,Rádio da Universidade 1080 AM
@@ -2021,6 +2017,8 @@ http://radioaovivo.ufrgs.br:8000/stream.mp3.m3u
 http://uprxstreamer.usu.edu:8000/stream
 #EXTINF:0,Utah Public Radio - Too
 http://uprxstreamer.usu.edu:8002/stream
+#EXTINF:0,Urban Classics
+https://streaming2.elitecomunicacion.es:8272/stream.m3u
 #EXTINF:0,Variance FM
 https://proxy-eu.webradio.tools/radio.variancefm.com:8000/variance
 #EXTINF:0,velez fm
@@ -2171,6 +2169,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WIAAFM_SC
 http://icecast.will.illinois.edu:8000/WILLFM-48
 #EXTINF:0,RadioArt: Wind Works
 https://live.radioart.com/fWind_works.mp3
+#EXTINF:0,WiTalk Radio
+http://stream.radiojar.com/cc9qadbub5uvv
 #EXTINF:0,WJCT-FM - 89.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3
 #EXTINF:0,WJFF - Radio Catskill 90.5 FM

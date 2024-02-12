@@ -275,6 +275,8 @@ https://ice2.somafm.com/bootliquor-128-mp3
 http://ais-sa2.cdnstream1.com/2365_64.aac
 #EXTINF:0,Bowe Community Radio
 https://streaming.galaxywebsolutions.com:9072/stream
+#EXTINF:0,BPM
+http://bpm.myddns.me:8222/stream
 #EXTINF:0,Bygderadioen
 https://stream.bygderadioen.no/brhq
 #EXTINF:0,Brushwood Media Network
@@ -499,10 +501,6 @@ https://mbsradio.leanstream.co/CKDHFM-MP3
 https://live.leanstream.co/CKDKFM
 #EXTINF:0,CKDK Country 104
 https://blackburn.leanstream.co/CKDKFM
-#EXTINF:0,CKDQ Q91 Country 910 AM
-https://newcap.leanstream.co/CKDQAM?
-#EXTINF:0,CKDQ Real Country 910 AM
-https://newcap.leanstream.co/CKDQAM
 #EXTINF:0,CKEN AVR 97.7 FM
 https://mbsradio.leanstream.co/CKENFM-MP3
 #EXTINF:0,CKFU 100.1 Moose FM
@@ -1791,8 +1789,6 @@ https://ice10.securenetsystems.net/KQSC
 https://ice10.securenetsystems.net/KQSC
 #EXTINF:0,KQSW Hot Country 96.5 FM
 https://ice9.securenetsystems.net/KQSW
-#EXTINF:0,KQYB KQ98
-https://crystalout.surfernetwork.com:8001/KQYB_MP3
 #EXTINF:0,KRAN The Range 103.3
 https://nebcoradio.com:1010/KBEN
 #EXTINF:0,KRCQ Real Country 102.3
@@ -1827,6 +1823,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KRNYFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC
 #EXTINF:0,KRRV 100.3 FM
 https://ice5.securenetsystems.net/KRRV
+#EXTINF:0,KRSB Best Country 103
+https://live.amperwave.net/direct/brooke-krsbfmaac-ibc4
 #EXTINF:0,KRSJ Your Brand of Country 100.5 FM
 https://fcb.streamguys1.com/KRSJ
 #EXTINF:0,KRST NASH FM 92.3
@@ -1905,8 +1903,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUBLFM.mp3
 http://www.streamcontrol.net:11060/;
 #EXTINF:0,KULM 98.3 FM
 http://184.154.43.106:8404/stream
-#EXTINF:0,KULP The Texas Legend 1390 AM
-http://104.250.149.122:9030/stream
 #EXTINF:0,KULY Hometown Radio
 https://ice23.securenetsystems.net/KULY
 #EXTINF:0,KUSB - US Country 103.3 FM
@@ -1943,6 +1939,8 @@ https://corn.kvsc.org/broadband
 https://svinews.com:8443/wave
 #EXTINF:0,KWAY The Winner AM 1470
 https://ice10.securenetsystems.net/KWAYAM
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWDD Wild 94.3 FM
 https://ice8.securenetsystems.net/KWDD
 #EXTINF:0,KWED 1580 AM
@@ -2431,8 +2429,6 @@ https://stream.zeno.fm/s4qk5h5emuquv
 http://sr11.inmystream.it:8097/stream
 #EXTINF:0,Radio Country Acadienne
 http://shout.radiocountryacadienne.com:8004/
-#EXTINF:0,BeauceCountry.Ca
-https://play.radiocountry.ca
 #EXTINF:0,Radio Country Family
 http://91.121.59.45:8361/stream
 #EXTINF:0,Radio Country Live
@@ -2513,8 +2509,6 @@ http://stream-41.zeno.fm/qasbu97v338uv?zs=fcN_gHQpRvqQwFkYBvK-Nw
 https://s3.radio.co/s0fb7f8ffb/listen
 #EXTINF:0,Radio Odstock
 https://radio.canstream.co.uk:9126/live.mp3
-#EXTINF:0,Osotua Catholic Radio
-http://stream.zeno.fm/cdewrtdrkrhvv
 #EXTINF:0,Radio Padova Country
 https://sphera.fluidstream.eu/rpd_country.mp3
 #EXTINF:0,Radio PCM
@@ -2959,8 +2953,6 @@ http://ruby.streamguys.com:5500/WBEY
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBFMFMAAC_SC
 #EXTINF:0,Bug Country 99.7 & 101.1
 https://ice6.securenetsystems.net/WBGK
-#EXTINF:0,WBGV Country 92.5
-https://ice24.securenetsystems.net/WBGV
 #EXTINF:0,WBIO - Country Classics 94.7 FM
 https://cromwell-ice.streamguys1.com/WBIOFM
 #EXTINF:0,WBJI Babe Country 98.3
@@ -2989,8 +2981,6 @@ https://ice23.securenetsystems.net/WBUT
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBWNFM.mp3
 #EXTINF:0,WBZI - Classic Country Radio 1500 AM
 https://ice7.securenetsystems.net/WBZI
-#EXTINF:0,WBYG Big Country 99.5
-https://ice9.securenetsystems.net/WBYG
 #EXTINF:0,WBYT - B100 - 100.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBYTFMAAC.aac
 #EXTINF:0,WCAT-FM - Red 102.3
@@ -3279,8 +3269,6 @@ https://ice6.securenetsystems.net/WJDT
 https://live.amperwave.net/manifest/wvradio-wjlsfmaac-hlsc2.m3u8
 #EXTINF:0,WJMS 590 AM
 https://www.pasty.net/wjms.m3u
-#EXTINF:0,WJRE - HOGG Country 102.5 FM
-https://ice7.securenetsystems.net/WKEI?type=.mp3
 #EXTINF:0,WJRS - Laker Country 104.9 FM
 https://1.ice1.sslstream.com/wjrs_fm.aac
 #EXTINF:0,WJSH 104.7 FM
@@ -3435,8 +3423,6 @@ https://ice5.securenetsystems.net/WLWF
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC_SC
 #EXTINF:0,WLXX K 92.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLXXFMAAC_SC
-#EXTINF:0,WLYP - 100.9 FM
-https://toombsnow.biz/downloads/meredithoctober182011.mp3
 #EXTINF:0,WMCT 1390 AM
 https://crystalout.surfernetwork.com:8001/WMCT-AM_MP3
 #EXTINF:0,WMDH-FM Nash FM 102.5
@@ -3755,6 +3741,8 @@ http://stream.appalachian.net:8004/;
 https://ice24.securenetsystems.net/WXMR
 #EXTINF:0,WXNU X Country
 https://ice41.securenetsystems.net/WXNU
+#EXTINF:0,WXRS 100.5 FM
+https://ice41.securenetsystems.net/WXRS
 #EXTINF:0,WXTA Nash FM 97.9 (US Only)
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXTAFMAAC_SC
 #EXTINF:0,WXUS My Country 102.3

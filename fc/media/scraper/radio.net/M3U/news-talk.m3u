@@ -5,6 +5,8 @@ https://eu8.fastcast4u.com/proxy/adiofm?mp=/1
 https://audio.bild-und-ton.stream:16162/alternativaradio-en
 #EXTINF:0,BEAT FM
 http://5230.cloudrad.io:8354/live
+#EXTINF:0,BPM
+http://bpm.myddns.me:8222/stream
 #EXTINF:0,CADENA 5
 https://stream.radiolive.com.co:8020/radio.mp3
 #EXTINF:0,Cadena SER Aranda
@@ -387,8 +389,6 @@ http://mexicali.radio.wnsol.com:8340/;
 http://puebla.radio.wnsol.com:8280/;
 #EXTINF:0,Imagen Querétaro 94.7 FM
 http://radio.wnsol.com:8070/;stream.mp3
-#EXTINF:0,Independent Calvary Chapel
-https://az10.yesstreaming.net:8260/radio.mp3
 #EXTINF:0,Independente
 http://r18.ciclano.io:9630/stream
 #EXTINF:0,Indiana Talks
@@ -1105,8 +1105,6 @@ http://stream.abacast.net/direct/townsquare-ktemamaac-ibc3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTEPFM.mp3
 #EXTINF:0,KTGO - The Flag 1090 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTGOAMAAC.aac
-#EXTINF:0,KTIE AM 590 The Answer (US Only)
-https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC.aac
 #EXTINF:0,KTIP Radio
 http://vsstreaming.com:8018/stream
 #EXTINF:0,KTJS 1420
@@ -1975,6 +1973,8 @@ https://stream.zeno.fm/u2fv6c85rs8uv
 http://suaradio1.dyndns.ws:13124/stream
 #EXTINF:0,Radio Campesina
 http://167.114.118.120:7482/stream/1/
+#EXTINF:0,Radio Campus France
+https://www.radiocampus.fr/audio/live/radio-campus-france
 #EXTINF:0,Radio Capelle
 http://live.radiocapelle.nl:8000/;
 #EXTINF:0,Radio Caraibes
@@ -2971,6 +2971,8 @@ https://edge.iono.fm/xice/uctradio_live_medium.aac
 https://streamuchile.teslati.com/liveruch
 #EXTINF:0,UK Health Radio
 https://streaming.radio.co/s8e535ff20/listen
+#EXTINF:0,Ulusal Radyo
+https://radio.guventechnology.com/9302/stream
 #EXTINF:0,Uncion 97 Radio
 https://rss3.domint.net:8006/stream
 #EXTINF:0,Union Radio - Noticias

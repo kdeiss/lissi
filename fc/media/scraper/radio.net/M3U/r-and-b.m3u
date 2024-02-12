@@ -67,8 +67,6 @@ https://bigrradio.cdnstream1.com/5199_128
 http://sc-jamz.1.fm:8052/;
 #EXTINF:0,1.FM - Slow Jamz
 https://strm112.1.fm/slowjamz_mobile_mp3
-#EXTINF:0,1XL Radio
-https://streaming.live365.com/a13844
 #EXTINF:0,2000 FM - RNB and Hip Hop
 http://bigrradio.cdnstream1.com/5105_48
 #EXTINF:0,2000 FM - RnB Hip-Hop
@@ -149,6 +147,8 @@ http://stream-43.zeno.fm/aphtz7s00uquv?zs=PRYjrY06Sg-ILWLlBk2UDQ
 https://streaming.live365.com/a72559
 #EXTINF:0,ANTENNE BAYERN - Black Music
 https://stream.antenne.de/black-beatz/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:0,Antenne Vorarlberg RapNb
+https://web.radio.antennevorarlberg.at/av-rapnb?aggregator=radio.at
 #EXTINF:0,Weihnachten mit ANTENNE BAYERN – Weihnachtshits
 https://stream.antenne.de/weihnachts-hits/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Apollo Radio
@@ -244,7 +244,7 @@ https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 #EXTINF:0,Blackbox R'n'B US
 https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 #EXTINF:0,Black Corvette
-https://radio2.vip-radios.fm:18084/stream-mp3-BlackCorvette
+https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette
 #EXTINF:0,Black FM 
 https://blackblack.stream.laut.fm/blackblack
 #EXTINF:0,Black Hot Fire Network
@@ -303,8 +303,6 @@ https://listen.radioking.com/radio/573125/stream/633149
 http://bulletinflightradio.out.airtime.pro:8000/bulletinflightradio_a?_ga=2.61340012.1590847432.1687564283-637690527.1672790142
 #EXTINF:0,Bushrod Music
 https://streaming.live365.com/a64515
-#EXTINF:0,ByKiwiRadio
-https://radio.bykiwicorp.com/stream/bykiwiradio
 #EXTINF:0,Calvada Sound Radio
 https://streaming.live365.com/a82334?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1677255425
 #EXTINF:0,Cambrian Radio
@@ -475,8 +473,6 @@ https://global2.citrus3.com:2020/stream/djpeefunk
 https://www.djradio.ro/stream
 #EXTINF:0,DJ Zyon.Seven.Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC639_SC
-#EXTINF:0,DNAradio.net
-https://streamer.radio.co/s3d461a4e3/listen
 #EXTINF:0,Doctor Pundit Ol' Skool Hits
 https://samcloud.spacial.com/api/listen?sid=116943&rid=215093&f=mp3,any&br=128000,any&m=sc&t=ssl
 #EXTINF:0,Doctor Pundit Yacht Rock Jams
@@ -891,7 +887,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KIPRFMAAC_SC
 https://stream.radiojar.com/u0swk1dw2vduv
 #EXTINF:0,Kiss Canaries 99.4 & 102.5 FM
 https://andromeda.shoutca.st/tunein/garymelling.pls
-#EXTINF:0,KISS FM BERLIN
+#EXTINF:0,98.8 KISS FM BERLIN
 https://topradio-de-hz-fal-stream08-cluster01.radiohost.de/kissfm_mp3-192
 #EXTINF:0,KISS FM CHILL OUT BEATS
 https://stream.kissfm.de/kissfm-chillout/mp3-192/?ref=radiode
@@ -1761,6 +1757,8 @@ http://equinox.shoutca.st:8288/stream/1/
 http://2.139.144.101:8020/2/stream/1/
 #EXTINF:0,Starpoint Radio
 http://starpoint-tx.hippynet.co.uk:8084/stream.mp3
+#EXTINF:0,STAR107.8 
+https://stream.zeno.fm/p2y0243ey38uv
 #EXTINF:0,STATIC: THE BEST OF 1980
 https://streamingV2.shoutcast.com/Static-TheBestOf1980
 #EXTINF:0,STATIC: THE BEST OF 1990
@@ -1950,7 +1948,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TRUFMAAC_SC
 #EXTINF:0,TUKS FM
 https://edge.iono.fm/xice/tuksfm_live_medium.aac?p=embed
 #EXTINF:0,Turn It Up Radio
-http://s3.fleetradionetwork.com:4090/
+https://s1.radio-streamlive.com:4025/;
 #EXTINF:0,UbuntuFM Hip-Hop Radio
 https://streaming.coollective.nl:8443/UbuntuFMhiphop
 #EXTINF:0,UbuntuFM Radio International

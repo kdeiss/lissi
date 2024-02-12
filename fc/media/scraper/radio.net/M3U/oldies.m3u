@@ -515,7 +515,7 @@ https://puma.streemlion.com:1965/stream
 http://ais-edge33-bigr-dal03.cdnstream.com/5220_128
 #EXTINF:0,Radio Belle Vallée
 http://radio.rbv.lu:8002
-#EXTINF:0,Berliner Rundfunk 91.4 – Die besten Hits aller Zeiten
+#EXTINF:0,Berliner Rundfunk 91.4
 https://topradio-de-hz-fal-stream04-cluster01.radiohost.de/brf_mp3-128?mode=preroll&listenerid=bbd5e90e40ca421ca0c7235186bc4a1a&ref=homepage&amsparams=homepage
 #EXTINF:0,Berliner Rundfunk – 60er & 70er
 https://stream.berliner-rundfunk.de/brf-60er-70er/mp3-128/?ref=radiode
@@ -801,8 +801,6 @@ https://stream.radiocontinu.nl/radiocontinu
 https://s2.yesstreaming.net:17161/stream
 #EXTINF:0,Cool Oldies
 http://c8.radioboss.fm:8114/stream
-#EXTINF:0,Cool Oldies 96
-http://usa7.fastcast4u.com:5058/;stream.nsv
 #EXTINF:0,Cool Radio Gold
 https://coolradi.casthost.net/stream
 #EXTINF:0,Cool Oldies MKE
@@ -1315,6 +1313,8 @@ http://173.208.177.90:13410/stream/1/
 http://stream.laut.fm/harmonys-jukebox?ref=radiode
 #EXTINF:0,Heartbeat FM
 http://cast5.magicstreams.gr:8010/stream/1/
+#EXTINF:0,HEART FM
+http://capeant.antfarm.co.za:8000/HeartFM
 #EXTINF:0,Heart FM
 https://live.heartfm.com.tr/listen/heart_fm/128.aac
 #EXTINF:0,Heartlites The Hood
@@ -1469,8 +1469,6 @@ https://impactfm-annees2000.ice.infomaniak.ch/impactfm-annees2000-64.aac
 https://chansonfrancaise.ice.infomaniak.ch/chansonfrancaise-64.aac
 #EXTINF:0,Impala Radio
 https://maggie.torontocast.com:8014/stream
-#EXTINF:0,Independent Calvary Chapel
-https://az10.yesstreaming.net:8260/radio.mp3
 #EXTINF:0,Inspiration 80's 
 http://streaming.radionomy.com/Inspiration80-s
 #EXTINF:0,Instel Radio
@@ -1769,6 +1767,8 @@ https://streams.radio.co/s5af909f53/listen
 https://s3.free-shoutcast.com/stream/18098
 #EXTINF:0,KYLS 1450 AM & 95.9 FM
 https://ice41.securenetsystems.net/KYLS
+#EXTINF:0,KYMM RADIO
+http://www.ophanim.net:9200/stream/1/
 #EXTINF:0,KYNZ GTO 107.1 FM
 https://ice64.securenetsystems.net/KYNZ?playSessionID=3F85131C-D415-5A48-61E9A5D3B44B61FB
 #EXTINF:0,KZBL 100.7 FM
@@ -2707,6 +2707,8 @@ https://www.radioking.com/play/otradio/584704
 https://s1.voscast.com:10237/stream
 #EXTINF:0,LMD Radio
 https://lmdradio.on-the-web.tv/radio/8010/radio.mp3
+#EXTINF:0,LM Radio 87.8 FM
+https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:0,Loca Fm House Deluxe 
 https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:0,Lola Fm
@@ -3247,8 +3249,6 @@ http://stream.collectorradio.fr/collector-128.mp3
 http://82.223.29.65:8080/vcbm_siradio
 #EXTINF:0,Out of Time
 https://stream.zeno.fm/pr8f088x1f8uv
-#EXTINF:0,Oxide - Oxford University Student Radio
-http://uk3.internet-radio.com:8032/stream/1/
 #EXTINF:0,OyeLaRadio
 https://radio5.domint.net:8166/stream
 #EXTINF:0,Oz Arab Radio
@@ -3779,6 +3779,8 @@ https://stream.radio-matchbox.de/listen/matchbox/radio.mp3
 http://192.99.83.154:8006/stream
 #EXTINF:0,MDM Radio
 https://stream.radio-mdm.fr:8443/stream.mp3
+#EXTINF:0,radiomediona
+https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,Radio Melody
 https://stream.streambase.ch/rm/mp3-192/radiode/
 #EXTINF:0,Radio M Evergreen
@@ -3915,8 +3917,6 @@ https://ssl.painelcast.com:7586/stream
 https://icecast.bizwebradio.com/listen/rodin/radio.aac
 #EXTINF:0,Radio R.O.M.
 http://rs1.radiostreamer.com:8270
-#EXTINF:0,Radio Romantic
-https://radio-romantic.ro/stream
 #EXTINF:0,Rosita Musicshop
 http://mediacp.audiostreamen.nl:8000/stream
 #EXTINF:0,Radio RSG - Dein Oldie Radio
@@ -4249,8 +4249,6 @@ https://server5.radio-streams.net:2199/tunein/rowynamu.pls
 http://197.210.166.122:8000/stream
 #EXTINF:0,RPM Oldies & Retro Hits
 https://radios.solumedia.com/6118/stream
-#EXTINF:0,Radio Peduli Parepare 96.9 FM
-https://stream.zeno.fm/zkzf6x69gfhvv.pls
 #EXTINF:0,RPR1. Oldies
 https://stream.rpr1.de/oldies/mp3-128/radiode
 #EXTINF:0,rro Müsig pur
@@ -4308,7 +4306,7 @@ https://icecast-bp-cdp.triple-it.nl/bp_saarfunk_3_128_mp3
 #EXTINF:0,Sachsen Dance Radio
 http://84.200.41.25:11000/listen1
 #EXTINF:0,Salsa 92.7 FM
-http://stream.zeno.fm/zpebbpohx1huv
+https://stream.zeno.fm/h7lnwv51bh5uv
 #EXTINF:0,Sanctity of Sound
 https://sound.queersocial.org/listen/sanctity_of_sound/radio.mp3
 #EXTINF:0,Rádio Saudade FM

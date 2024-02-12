@@ -101,8 +101,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLUPFM_SC
 https://newcap.leanstream.co/CKXDFM
 #EXTINF:0,CJMK 98 Cool 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJMKFM.mp3
-#EXTINF:0,99.5 Drum FM
-https://newcap.leanstream.co/CHOOFM
 #EXTINF:0,Aardvark Rock FM
 http://hemnos.cdnstream.com/1491_64
 #EXTINF:0,Absolute Radio 80s
@@ -627,8 +625,6 @@ https://stream.radiojar.com/2q2dbmeqazwtv
 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high?aggregator=radio-de
 #EXTINF:0,Hunter.FM - Rock
 https://hls.hunter.fm/rock/192.m3u8
-#EXTINF:0,I95.1 FM WWRI-LP
-https://ice64.securenetsystems.net/WWRI
 #EXTINF:0,ICE RADIO
 https://streamer.radio.co/s8d485e12a/listen
 #EXTINF:0,inetmusic.ca | The Big 70's
@@ -727,8 +723,6 @@ https://ice6.securenetsystems.net/KFSE?type=.mp3
 https://ais-sa1.streamon.fm/7720_128k.aac
 #EXTINF:0,KFZX Classic Rock 102 FM
 https://ice5.securenetsystems.net/KFZX
-#EXTINF:0,KGBB - Bob 103.9 FM
-http://198.27.68.65:8088/stream/1/
 #EXTINF:0,KGFK - Rock95
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGFKAM.mp3
 #EXTINF:0,KGFL The Trip 94.7 FM & 1110 AM
@@ -877,6 +871,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC.aac
 https://s2.stationplaylist.com:7070/listen.mp3
 #EXTINF:0,KUQQ Q102
 https://ice23.securenetsystems.net/KUQQ?playSessionID=3AB10BF3-F9B5-9AA9-1E1A669BD4B917C2
+#EXTINF:0,KWBY Cowboy Radio 98.5 FM
+http://mm.txol.net:8004/radio4
 #EXTINF:0,KWMX The Wolf 96.7 FM
 https://ice.wbcengineering.com:8121/stream
 #EXTINF:0,KWSA / KSLL 100.1 FM & 1080 AM
@@ -1420,7 +1416,7 @@ https://bayshore-ais.leanstream.co/CIXKFM
 #EXTINF:0,Radio Rock
 https://tx.planetradio.co.uk/http_live_bauerno.php?i=radiorock_no_aac&aw_0_1st.playerid=radio_net
 #EXTINF:0,RADIO ROCKLINE
-https://ice.creacast.com/rockline_classic
+https://ice.creacast.com/rockline
 #EXTINF:0,Radio Rock Master
 https://live.paineldj.com.br/proxy/rockmaster?mp=%2Fstream
 #EXTINF:0,RADIO ROCK
@@ -1575,6 +1571,8 @@ https://stream.rockantenne.de/classic-perlen/stream/mp3?aw_0_1st.playerid=radio.
 https://stream.streambase.ch/crock/mp3-192/radiode/
 #EXTINF:0,Rockaway Radio 24/7
 https://usa11.fastcast4u.com/proxy/efxvntor?mp=%2F1
+#EXTINF:0,Rock93X
+https://stream.rcast.net/70157
 #EXTINF:0,Rock And More
 https://cloud.radiosonicpanel.ro/8022/stream
 #EXTINF:0,Rocker Inside Radio
@@ -1703,7 +1701,7 @@ https://streaming.live365.com/a68405
 https://edge1-b.exa.live365.net/a68405
 #EXTINF:0,School Of Rock
 http://ais-sa2.cdnstream1.com/1981_128.mp3
-#EXTINF:0,Schwarzwaldradio: Oldies. Neu. Entdecken.
+#EXTINF:0,Schwarzwaldradio
 https://frontend.streamonkey.net/fho-schwarzwaldradiolive?aggregator=radio.de
 #EXTINF:0,Scott's Renegade Rock Radio
 https://ais-edge101-live365-dal02.cdnstream.com/a48595
@@ -1711,6 +1709,8 @@ https://ais-edge101-live365-dal02.cdnstream.com/a48595
 http://stream.zeno.fm/tbdrk77b2mruv
 #EXTINF:0,Sense FM
 https://stream2.svrdedicado.org/8146/stream
+#EXTINF:0,Radio Seva
+https://seva.ru/radio/stream
 #EXTINF:0,Radio Si
 http://server.laradio.online:8202/stream/1/
 #EXTINF:0,Sixtym-Radio
@@ -1789,8 +1789,6 @@ https://streamer.radio.co/s6fdd79081/listen
 https://streamer.radio.co/s6fdd79081/listen
 #EXTINF:0,Tez FM - AM Gold
 https://stream.zeno.fm/7385yfnsfg0uv
-#EXTINF:0,The Animal Classic Rock...Untamed!
-https://c11.radioboss.fm:18201/stream
 #EXTINF:0,theBIG1510.com
 https://streaming.live365.com/a23482
 #EXTINF:0,THE BOOT
@@ -1840,7 +1838,7 @@ http://162.244.80.31:4442/;stream.mp3
 #EXTINF:0,The Zew
 http://uk1-vn.webcast-server.net:8152/;
 #EXTINF:0,ANTENNE THÜRINGEN - Classic Rock
-https://stream.antennethueringen.de/rock/mp3-128/radiode/
+https://frontend.streamonkey.net/antthue-classicsrock?aggregator=radiode
 #EXTINF:0,Radio Thunder UK
 http://streaming.radionomy.com/Radio-Thunder-UK
 #EXTINF:0,Tico Sound
@@ -2057,6 +2055,8 @@ https://ice8.securenetsystems.net/WKYM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLAVFMAAC_SC
 #EXTINF:0,WLBM-LP - The Maxx 105.7 FM
 https://ice64.securenetsystems.net/WLBM
+#EXTINF:0,WLER - 977 ROCKS - The Rock Station 97.7 FM
+https://ice23.securenetsystems.net/WLER?playSessionID=562A197E-0CDC-56CE-5C5EA582465869E7
 #EXTINF:0,WLHA
 https://streaming.live365.com/a04907
 #EXTINF:0,WLKZ - 104.9 The Hawk
@@ -2075,6 +2075,8 @@ https://wluw.streamguys1.com/stream.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLVQFM.mp3
 #EXTINF:0,WMGK - Philadelphia's Classic Rock 102.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAAC.aac
+#EXTINF:0,WMLT 96.9 The Buzz
+https://ice64.securenetsystems.net/WMLT
 #EXTINF:0,WMOS 102.3 FM The Wolf
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMOSFMAAC_SC
 #EXTINF:0,WMPH - Super 91.7 FM

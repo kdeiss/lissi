@@ -107,6 +107,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_CHILLO
 https://streamingp.shoutcast.com/Ambiance-Lounge
 #EXTINF:0,Ambient Art Sound
 https://ambientartsound.skydesignltd.com:8000/radio.mp3
+#EXTINF:0,Ambiento
+https://strw3.openstream.co/390
 #EXTINF:0,AmbientRadio (MRG.fm)
 http://62.149.196.16:8888/stream2
 #EXTINF:0,AmbientRadio.net
@@ -269,6 +271,10 @@ https://frontend.streamonkey.net/fhn-986charivarichillout?aggregator=radiode
 https://live.stream.charivari.de/955charivari-lounge?aggregator=radio.de
 #EXTINF:0,charivari Relax
 https://frontend.streamonkey.net/charivaristream-relax?aggregator=radiode
+#EXTINF:0,CHERIE 2024 FEEL GOOD
+https://scdn.nrjaudio.fm/adwz1/fr/58797/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-2024-FEEL-GOOD
+#EXTINF:0,CHERIE BEST OF 2023
+https://scdn.nrjaudio.fm/adwz1/fr/58782/mp3_128.mp3?origine=radio.net&aw_0_1st.station=Cherie-Best-Of-2023
 #EXTINF:0,CHERIE SWEET HOME
 https://scdn.nrjaudio.fm/adwz1/fr/30289/mp3_128.mp3?origine=radio.net&aw_0_1st.station=CHERIE-SWEET-HOME
 #EXTINF:0,CHERIE ZEN
@@ -546,19 +552,19 @@ http://uk4-vn.webcast-server.net:9270/stream/1/
 #EXTINF:0,Anima Radio
 https://channels.fluxfm.de/anima-radio/radiode/stream.aac
 #EXTINF:0,Berlin Beach House Radio
-https://streams.fluxfm.de/bbeachhouse/mp3-128/radiode/
-#EXTINF:0,Chillhop
-https://streams.fluxfm.de/Chillhop/mp3-128/radiode/
-#EXTINF:0,Chillout Radio
-https://streams.fluxfm.de/chillout/mp3-128/radiode/
+https://channels.fluxfm.de/berlin-beach-house/radiode/stream.mp3
+#EXTINF:0,ChillHop
+https://channels.fluxfm.de/chillhop/radiode/stream.aac
+#EXTINF:0,ChillOut
+https://channels.fluxfm.de/chillout-radio/radiode/stream.mp3
 #EXTINF:0,Hippie Trippy Garden Pretty
-https://streams.fluxfm.de/event02/mp3-128/radiode/
+https://channels.fluxfm.de/htgp/radiode/stream.aac
 #EXTINF:0,Electronic Chillout
 http://channels.fluxfm.de/electronic-chillout/radiode/stream.mp3
 #EXTINF:0,FluxLounge
-https://streams.fluxfm.de/lounge/mp3-320/radiode/
+https://channels.fluxfm.de/flux-lounge/radiode/stream.mp3
 #EXTINF:0,Yoga Sounds
-https://fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162
+https://channels.fluxfm.de/yoga-sounds/radiode/stream.aac
 #EXTINF:0,FM104
 https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:0,Francophonie Express
@@ -1177,6 +1183,8 @@ https://listen.radioking.com/radio/100408/stream/139171
 https://nordicbeatradio.radioca.st/stream/1/
 #EXTINF:0,Nordic Lodge Copenhagen
 http://radio.streemlion.com:1160/stream/1/
+#EXTINF:0,North Shore Music FM
+https://server35795.streamplus.de/stream.mp3
 #EXTINF:0,NRJ CHILL
 https://scdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Chill
 #EXTINF:0,NRJ DEEP
@@ -1369,6 +1377,8 @@ http://node-06.zeno.fm/681eeuu34hhvv?zs=9ZdDLJq5QWGHn6hb23w5XA&rj-tok=AAABgT1-hO
 https://s5.radio.co/s0510b1e79/listen
 #EXTINF:0,Radio Duisburg - Dein Lounge Radio
 https://stream.lokalradio.nrw/4453h56
+#EXTINF:0,RADIO EFFE
+http://philae.shoutca.st:8173/stream
 #EXTINF:0,Radio Elim Air
 http://91.213.11.102:8011/stream
 #EXTINF:0,Radio Ennepe Ruhr - Dein Lounge Radio
@@ -1589,8 +1599,6 @@ https://psn3.prostreaming.net/proxy/seeburg/stream
 https://listen5.myradio24.com/seethesea
 #EXTINF:0,SKGLOBE.NET | Senses
 https://audio-edge-3mayu.fra.h.radiomast.io/086f484f-945e-4976-a18d-057e93a6808e
-#EXTINF:0,Sensual Lounge 
-https://stream.zeno.fm/rshwzxlnfb9tv
 #EXTINF:0,SF 10-33
 https://ice2.somafm.com/sf1033-128-mp3
 #EXTINF:0,Shirley & Spinoza Radio

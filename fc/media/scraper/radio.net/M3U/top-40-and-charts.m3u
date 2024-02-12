@@ -481,6 +481,8 @@ http://radios.topymedia.com:8000/stream/1/
 https://liverdatlbeiramar.rbsdirect.com.br/primary/atl_tra.sdp/playlist.m3u8
 #EXTINF:0,Radio Attitude
 http://178.32.222.164:8002/;stream.mp3
+#EXTINF:0,AudioPulse
+https://stream01.script24.net:9072/stream1
 #EXTINF:0,Australian Made Music
 https://listen10.as.amplifystreaming.com/listen/australian_made_music/amm_128.aac
 #EXTINF:0,Auszeit FM
@@ -489,8 +491,6 @@ https://player.ffn.de/auszeitFM.mp3
 https://solid41.streamupsolutions.com/proxy/catidbxp?mp=/;type=mp3
 #EXTINF:0,Splendid Radio Maine
 https://stream.zeno.fm/b2ucqucfb6suv
-#EXTINF:0,BA1 Radio
-https://stream.ba1radio.live/radio/8000/live
 #EXTINF:0,BackLive
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFM_SC
 #EXTINF:0,Radio-Backstube
@@ -1694,7 +1694,7 @@ http://onair18.xdevel.com:8098/;
 #EXTINF:0,Gay-Live-Radio
 https://stream.laut.fm/gay-live?ref=radiode
 #EXTINF:0,Generation-Mixed.de
-https://sonicpanel.f-irrgang.de/8004/;
+https://mediacp.it-webservice.com:2020/stream/generation-mixedde
 #EXTINF:0,Gente de Radio El Colorado Formosa
 https://radios.solumedia.com/6254/stream
 #EXTINF:0,Geração Raiz
@@ -1899,6 +1899,8 @@ https://radio.stream.smcdn.pl/icradio-p/6140-1.aac/playlist.m3u8
 https://ais-sa2.cdnstream1.com/2102_128.mp3
 #EXTINF:0,HitzConnect Radio
 https://stream.hitzconnect.com/hitzc
+#EXTINF:0,Hitz FM - Pop
+https://stream-150.zeno.fm/fusrya3qsfbvv
 #EXTINF:0,Splendid Radio Florida
 https://stream.zeno.fm/hlkkokpmu9jtv
 #EXTINF:0,Splendid Radio Nevada
@@ -2225,6 +2227,8 @@ https://prod-54-227-152-147.amperwave.net/alphacorporate-kbfffmaac-ibc4
 https://ice9.securenetsystems.net/KBLQ
 #EXTINF:0,KBNZ - Now 97.9 FM
 https://ais-sa3.cdnstream1.com/2283_96.aac?
+#EXTINF:0,KCDU - The Beach 101.7 FM
+https://ice9.securenetsystems.net/KCDU
 #EXTINF:0,KCRS 103.3 Kiss FM
 https://ice5.securenetsystems.net/KCRSFM
 #EXTINF:0,KCVR Fuego 103.5 & 98.9
@@ -4401,8 +4405,10 @@ https://scdn.nrjaudio.fm/adwz1/fr/58524/mp3_128.mp3?origine=radio.net&aw_0_1st.s
 https://scdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3?origine=radio.net
 #EXTINF:0,NRJ Sweden
 https://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3
-#EXTINF:0,NRJ TOP HITS 2023
-https://scdn.nrjaudio.fm/adwz1/fr/58540/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Top-Hits-2023
+#EXTINF:0,NRJ TOP HITS 2024
+https://scdn.nrjaudio.fm/adwz1/fr/58540/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Top-Hits-2024
+#EXTINF:0,NRJ TOUT SCHUSS
+https://scdn.nrjaudio.fm/adwz1/fr/58069/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Tout-Schuss
 #EXTINF:0,NRJ Ukraine
 https://cast.mediaonline.net.ua/nrj320
 #EXTINF:0,NRK P3
@@ -4595,6 +4601,8 @@ https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8
 https://livefastly-webs.ondacero.es/zamora-pull/audio/master.m3u8
 #EXTINF:0,Onda Cero Zaragoza
 https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8
+#EXTINF:0,Onda Loja Radio 107.9 FM
+http://5.196.73.188:8008/stream/1/
 #EXTINF:0,Onda Mancha FM
 http://5.135.183.124:8071/stream
 #EXTINF:0,Onda Radio Sicilia
@@ -4793,8 +4801,6 @@ https://tuner.m1.fm/charts.mp3?ref=202102/radioDE/
 https://stream192.poprockfm.com:7000/stream.mp3
 #EXTINF:0,Pornic Radio
 https://radio10.pro-fhi.net/listen/qpixglcw/stream.mp3
-#EXTINF:0,Power 361
-https://cleo.shoutca.st/radio/8130/stream
 #EXTINF:0,Power 91
 https://streaming.live365.com/a01529
 #EXTINF:0,Power 963.net
@@ -4941,8 +4947,6 @@ https://chmedia.streamabc.net/79-r24-mp3-192-6659699
 https://us.everestcast.com:1155/stream
 #EXTINF:0,Radio 3 Bodø
 https://stream.radio3.no/Radio3Bodo
-#EXTINF:0,Radio 3i
-https://radio3i.ice.infomaniak.ch/radio3i-128.mp3
 #EXTINF:0,Radio 3 Network
 https://streaming.radio3.net/listen
 #EXTINF:0,Radio 5 Ełk
@@ -5082,7 +5086,7 @@ https://hts03.kshost.com.br:11680/live
 #EXTINF:0,Rádio Cultura 1140 AM
 https://r13.ciclano.io:15137/stream
 #EXTINF:0,Radio Dalmacija 
-http://shoutcast.pondi.hr:8000/stream/1/
+https://shoutcast.pondi.hr:9000/;stream/1
 #EXTINF:0,Radio Dedal 88.1 FM
 http://dedal96-naxinacional.streaming.rs:8570/;
 #EXTINF:0,Radio Deejays
@@ -5741,8 +5745,6 @@ https://stream2.rockfm.at:8000/rockfm
 https://radio.daemon.nu/radio/8020/mq
 #EXTINF:0,Rother Radio
 https://streaming06.liveboxstream.uk/proxy/hitmusic?mp=/stream
-#EXTINF:0,Radio Peduli Parepare 96.9 FM
-https://stream.zeno.fm/zkzf6x69gfhvv.pls
 #EXTINF:0,RPT-FM - Welcome to the Club!
 http://radioptfm.de:8000/stream/
 #EXTINF:0,rs2 90er Hits
@@ -5893,8 +5895,6 @@ https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
 https://stream-149.zeno.fm/ihiozkmnkfvtv
 #EXTINF:0,Soundcity Radio 98.5
 https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
-#EXTINF:0,Hitz FM - Pop
-https://stream.zeno.fm/mtnzfojq64lvv
 #EXTINF:0,soundlarge – Wir lieben Musik.
 https://www.soundlarge.at/wirliebenmusik/stream
 #EXTINF:0,Sound of Base
@@ -6231,10 +6231,14 @@ http://stream.ufmradio.com:8000/stream/1/
 https://zeno.fm/radio/splendid-radio-connecticut/
 #EXTINF:0,Ukrainian Radio Mix
 http://91.121.164.210:8388/stream/1/
+#EXTINF:0,ULTRA 93.7
+https://rstream.hostdime.com/proxy/ultra937?mp=/8880
 #EXTINF:0,Ultra FM 98.3
 http://radio.promosat.com:8104/;
 #EXTINF:0,Ultra Radio Puebla
 https://sp3.servidorrprivado.com/8100/stream
+#EXTINF:0,Ulusal Radyo
+https://radio.guventechnology.com/9302/stream
 #EXTINF:0,Umfrage
 http://tuner.m1.fm/charts.mp3?umfrage
 #EXTINF:0,Unika FM Pamplona
@@ -6293,6 +6297,8 @@ https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance
 http://178.32.111.41:8030/stream-128kmp3-Dancefloor
 #EXTINF:0,Party Dance Radio
 https://radio4.vip-radios.fm:18042/stream-128kmp3-PartyDance
+#EXTINF:0,Viral FM
+https://transmitter.ttech.fun:8200/schstdirectory1.mp3
 #EXTINF:0,Virgin Radio Lebanon
 https://stream.zeno.fm/dwxw3p9vea0uv
 #EXTINF:0,Virgin Radio Oman 

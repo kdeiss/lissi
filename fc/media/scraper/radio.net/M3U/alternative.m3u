@@ -450,7 +450,7 @@ https://radio.rtbf.be/c21-under/mp3-128/rf
 #EXTINF:0,Coast Rock FM
 https://www.coastrockfm.com.au/live
 #EXTINF:0,coloRadio
-http://streaming.fueralle.org:8000/coloradio_56.mp3
+http://streaming.fueralle.org:80/coloradio_160.mp3
 #EXTINF:0,Conexion Acustica
 https://stream.zeno.fm/81m8p8m47bruv
 #EXTINF:0,Radio Corax 
@@ -633,8 +633,8 @@ https://audio-edge-3mayu.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 https://audio-edge-5bkfj.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 #EXTINF:0,Flr1plus
 https://stream.hoerfunkbundstream.de:35102/stream
-#EXTINF:0,FluxFM Livestream
-https://streams.fluxfm.de/live/mp3-128/radiode/
+#EXTINF:0,FluxFM
+https://streams.fluxfm.de/live/mp3-320/radiode/play.m3u
 #EXTINF:0,Alternative
 https://streams.fluxfm.de/radioalt/mp3-128/radiode/
 #EXTINF:0,Radio Alternative
@@ -983,8 +983,6 @@ https://stream.zeno.fm/av8m1adpxs8uv
 https://streaming01.shockmedia.com.ar:10624/stream?icy=http
 #EXTINF:0,La Rocka 90
 https://streaming01.shockmedia.com.ar:10624/stream?icy=http
-#EXTINF:0,lastFMpirate
-https://stream.lastfmpirate.com:8000/radio.mp3
 #EXTINF:0,Latin_Mania
 https://mx.hdaudiostreaming.com/8030/stream
 #EXTINF:0,LatitudeRadio
@@ -1569,6 +1567,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC135_SC
 https://cdn2.cloudrad.io/moozradio/stream/listen.m3u
 #EXTINF:0,More Bounce To The Ounce
 https://streaming.coollective.nl:8443/MoBounce
+#EXTINF:0,Mpungu Radio
+http://c34.radioboss.fm:8543/stream
 #EXTINF:0,MR2 Petöfi Rádió
 http://stream001.radio.hu:8080/mr2.mp3
 #EXTINF:0,Mersey Retro Radio UK
@@ -1894,7 +1894,7 @@ https://play10.tikast.com:20094/stream
 #EXTINF:0,Radio Jehova es Mi Pastor
 https://stream.zeno.fm/328q7yevfa0uv
 #EXTINF:0,Radio Kaiseregg
-http://kaiseregg.ice.infomaniak.ch:80/stream128k.mp3
+https://kaiseregg.ice.infomaniak.ch/stream128k.mp3
 #EXTINF:0,Radio Kampus 97,1 FM
 https://stream.open.fm/337
 #EXTINF:0,Radio Kandela Online
@@ -2007,8 +2007,6 @@ https://sr11.inmystream.it/proxy/roberto?mp=/stream
 https://rdsp.out.airtime.pro:8000/rdsp_a
 #EXTINF:0,Radio Spettacolo
 https://stream.zeno.fm/mydnd5zqkkhvv
-#EXTINF:0,Radio Station Essence
-https://listen.radioking.com/radio/120313/stream/159811
 #EXTINF:0,Radiostreaming
 https://laut.fm/radio-dragon-beat
 #EXTINF:0,Radio Studio Cantabria
@@ -2413,8 +2411,6 @@ http://s2.voscast.com:11834/stream
 https://ice42.securenetsystems.net/RVLT
 #EXTINF:0,The Voice Of Doom
 https://streaming.galaxywebsolutions.com:9046/stream
-#EXTINF:0,The Void
-http://thevoidrad.io:8000/stream320
 #EXTINF:0,The Zone
 http://uk1.internet-radio.com:8355/stream/1/
 #EXTINF:0,Tinder Radio - Beach Party
