@@ -551,8 +551,6 @@ http://puma.streemlion.com:1050/stream
 https://streams.egofm.de/egoRAP-hq?ar-distributor=f0a2
 #EXTINF:0,ehr Urban
 http://stream.ehrhiti.lv:8000/Stream_11.aac
-#EXTINF:0,El Bloke Radio 
-https://streaming.radio.co/sd8f1e3a16/listen
 #EXTINF:0,ElectroMagnetic Radio
 https://s5.radio.co/s7b616a338/listen
 #EXTINF:0,ElectroMix68
@@ -623,8 +621,8 @@ https://newcap.leanstream.co/CFXJFM
 https://ice2.somafm.com/fluid-128-mp3
 #EXTINF:0,BoomFM Classics
 https://channels.fluxfm.de/boom-fm-classics/radiode/stream.mp3
-#EXTINF:0,Chillhop
-https://streams.fluxfm.de/Chillhop/mp3-128/radiode/
+#EXTINF:0,ChillHop
+https://channels.fluxfm.de/chillhop/radiode/stream.aac
 #EXTINF:0,John Reed Radio
 https://streams.fluxfm.de/john-reed/mp3-128/radiode/
 #EXTINF:0,Fly Dialogue
@@ -1043,6 +1041,8 @@ https://listen.openstream.co/6529/audio
 http://streamingned.com:7292/stream
 #EXTINF:0,Lampsi FM 92.3 
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:0,La Nueva Mega
+https://lamega.out.airtime.pro/lamega_a
 #EXTINF:0,La Peor Radio
 https://streamingv2.shoutcast.com/LapeorRadio
 #EXTINF:0,La Playroom
@@ -1793,6 +1793,8 @@ https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
 https://s9.myradiostream.com/:14296/;
 #EXTINF:0,ONE Station
 https://stream.onestation.net/onestation-128.mp3
+#EXTINF:0,On Radio Black Music
+http://radio2.suaradionanet.net:8060/stream
 #EXTINF:0,ON STREET RADIO
 https://streamingv2.shoutcast.com/ONSTREET
 #EXTINF:0,On Top FM

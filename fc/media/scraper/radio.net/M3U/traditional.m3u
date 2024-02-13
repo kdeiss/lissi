@@ -94,7 +94,7 @@ http://5230.cloudrad.io:8354/live
 #EXTINF:0,Benedita 88.1 FM
 https://centova.radio.com.pt/proxy/446?mp=/stream
 #EXTINF:0,Radio Bercik - Silesia
-https://s3.slotex.pl/shoutcast/7770/listen.xtl?sid=1
+https://s3.slotex.pl:7770/stream/1/?sid=1
 #EXTINF:0,BETA RADIO - Hráme Jubilantom
 http://109.71.67.102:8000/beta_jubilanti.mp3
 #EXTINF:0,BG Estrada
@@ -275,8 +275,6 @@ https://manager6.streamradio.fr/folk57
 https://stream.zenolive.com/vn4r1hp339duv
 #EXTINF:0,Radio Frequenza Nostra
 https://listen.radioking.com/radio/163636/stream/204673
-#EXTINF:0,FM Frontera
-http://190.30.170.201:8000/frontera@977
 #EXTINF:0,Radio Gjakova
 http://37.26.69.30:8080/;
 #EXTINF:0,Radio Glas Drine
@@ -491,8 +489,6 @@ https://ssl.stmxp.net:7000/stream/1/
 https://cast3.my-control-panel.com/proxy/xekl?mp=/stream
 #EXTINF:0,Mag Radio
 https://radio.elmag.me/mag.mp3
-#EXTINF:0,Mamas FM Turku Radyosu
-https://mamasfm.com:9984/stream/1/
 #EXTINF:0,Radio Manele Vechi 
 http://asculta.radioxnet.ro:8888/stream/1/
 #EXTINF:0,Matariki FM
@@ -700,7 +696,7 @@ https://stream.zeno.fm/24nmttsb7zhvv
 #EXTINF:0,Radio Naoned
 http://radionaoned.ice.infomaniak.ch/radionaoned-128.mp3
 #EXTINF:0,Radio Noroc
-http://live.noroc.tv:8000/radionoroc.mp3
+https://stream.noroc.tv/radionoroc_128
 #EXTINF:0,Rádio Ovos Moles
 https://sp0.redeaudio.com/9330/;
 #EXTINF:0,Radio Poitou
@@ -848,7 +844,7 @@ https://i8.streams.ovh/sc/radiostournareika/stream
 #EXTINF:0,Süper 2 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2.mp3
 #EXTINF:0,Super Radio 
-http://s3.vinhostmedia.com:9306/;
+https://void.idserverhost.com:8026/stream?type=.mp3
 #EXTINF:0,Super Tejano Radio
 http://51.81.49.98:8212/stream/1/
 #EXTINF:0,Surya FM Ngantang

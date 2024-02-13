@@ -125,6 +125,8 @@ http://audio.joy.org.au:8000/onair
 https://servidor.40200radiovilla.com/40200radiovilla/stream
 #EXTINF:0,4Life Radio | International Channel
 https://cast2.radiohost.ovh:2200/proxy/fourlife2?mp=/stream
+#EXTINF:0,4MET Radio Metro 105.7 FM
+http://stream.radiometro.com.au:7777
 #EXTINF:0,4 The Music
 https://ec2.yesstreaming.net:1385/stream
 #EXTINF:0,4 The Music
@@ -5613,8 +5615,6 @@ http://s1.slotex.pl:7358/stream/1/
 https://stream.zeno.fm/e29cpr0p168uv
 #EXTINF:0,Radio Victoria
 http://stream.v4.radiovictoria.pl:8176/stream/1/
-#EXTINF:0,Radio Virgo
-https://secure.streaming01.dwservers.net/8200/stream/1/
 #EXTINF:0,Radio Virtual FM
 https://stream-41.zeno.fm/nrmw40y0h3quv?zs=qYvZ1znzTZawaZEqSlHWIQ
 #EXTINF:0,Radio VJ Online
@@ -6029,8 +6029,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_MP3.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
 #EXTINF:0,SLAY Radio
 http://relay4.slayradio.org:8000
-#EXTINF:0,SLYRADIO
-https://ecmanager5.pro-fhi.net:2305/stream
 #EXTINF:0,SMART RADIO
 http://stream.glueckserver.de:8000/smartradio.mp3
 #EXTINF:0,Smooth Lounge Radio Channel
@@ -6339,6 +6337,8 @@ https://s12.myradiostream.com/:17550/listen.mp3
 https://stream.zeno.fm/64h3nxg0rvduv
 #EXTINF:0,Radio Teide
 https://c01.lexycast.de:5070/stream/1/
+#EXTINF:0,Tempo-Radio
+http://stream.tempo-radio.com:8730/320
 #EXTINF:0,Radio Garda Fm - Tendenzia
 http://stream.webradio.bz:8000/tendenzia2.m3u
 #EXTINF:0,tenerife music radio
@@ -6779,8 +6779,6 @@ https://broadcast.wssr.stream/radio/8000/radio.mp3
 http://mp3.wunschradio.de/wunschradio-dance.mp3
 #EXTINF:0,WWRX - Jammin 107.7 FM
 https://crystalout.surfernetwork.com:8001/WWRX_MP3
-#EXTINF:0,X1 POP Radio
-http://x1.xsminternet.com:58090/stream/1/
 #EXTINF:0,X-Clusief FM
 https://linux26.live-streams.nl:18000/
 #EXTINF:0,XDJM RADIO | ADDICTIVE MUSIC 24/7
@@ -6857,6 +6855,8 @@ http://stream.laut.fm/zocker-freaks-radio
 http://81.169.218.25:8000/;
 #EXTINF:0,ZonaDance FM
 https://stream.zeno.fm/b2sq1rmg0eruv
+#EXTINF:0,Zonahits
+https://stream.zeno.fm/owicwvgh2zmtv
 #EXTINF:0,Zona Oculta Radio
 http://server-uk1.radioseninternet.net:8016/;stream/1
 #EXTINF:0,ZOOM Radio

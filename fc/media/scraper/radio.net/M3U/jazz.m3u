@@ -171,8 +171,6 @@ https://s3.radio.co/sc8d895604/listen
 https://cast1.my-control-panel.com/proxy/bakizrwet/stream
 #EXTINF:0,Atlantis FM
 https://atlantisfm.radionetz.de/atlantisfm.mp3
-#EXTINF:0,AUKRADIO
-https://streaming.broadcastradio.com:8785/aukradio2
 #EXTINF:0,Auto Pilot Radio Station
 https://listen.radionomy.com/autopilotradiostation.m3u
 #EXTINF:0,En la Ruta LR
@@ -199,7 +197,7 @@ https://dispatcher.rndfnk.com/br/br2/nord/aac/low?aggregator=radio-de
 https://dispatcher.rndfnk.com/br/br2/sued/aac/low?aggregator=radio-de
 #EXTINF:0,Bayou Blue Radio
 https://bayoublueplayer.com:8000/radio.mp3
-#EXTINF:0,Bayshore Radio
+#EXTINF:0,WBRJ-DB Bayshore Radio
 https://ais-sa2.cdnstream1.com/1700_128
 #EXTINF:0,Bay Smooth Jazz
 https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
@@ -491,8 +489,6 @@ http://streams.crooze.fm:8000/stream64
 http://streams.crooze.fm:8014/stream/1/
 #EXTINF:0,easy CROOZE
 http://streams.crooze.fm:8012/stream/1/
-#EXTINF:0,jazz CROOZE
-https://streaming.shoutcast.com/xmas-crooze-mp3-128
 #EXTINF:0,smooth jazz CROOZE
 http://streams.crooze.fm:8010/stream/1/
 #EXTINF:0,Cruz Inc Radio 102.8
@@ -694,9 +690,9 @@ https://stream.zeno.fm/5k7g2w3gtkeuv
 #EXTINF:0,Firza Radio TAPSEL
 https://stream.zeno.fm/v4e4p4uh55quv
 #EXTINF:0,Jazzradio Schwarzenstein
-https://streams.fluxfm.de/jazzschwarz/mp3-128/radiode/
-#EXTINF:0,XJAZZ
-https://streams.fluxfm.de/xjazz/mp3-320/radiode/play.pls
+https://channels.fluxfm.de/jazz-schwarzenstein/radiode/stream.aac
+#EXTINF:0,Xjazz!
+https://channels.fluxfm.de/x-jazz/radiode/stream.aac
 #EXTINF:0,Fly RadioTv
 http://play.flyradiotv.net:9051/stream/
 #EXTINF:0,2AAA - 107.1 FM
@@ -1179,8 +1175,6 @@ https://ice5.securenetsystems.net/KCSM
 https://stream.kedm.org/listen
 #EXTINF:0,Keepin it real - Underground Radio
 https://cast4.asurahosting.com/proxy/keepinit/stream
-#EXTINF:0,KeithNgesiRadio
-https://keithngesiradio.radioca.st/stream/1/
 #EXTINF:0,97.5 Kemet FM
 https://hello.citrus3.com:8022/stream
 #EXTINF:0,KEWU - Jazz 89.5 FM
@@ -1859,14 +1853,10 @@ http://node-06.zeno.fm/681eeuu34hhvv?zs=9ZdDLJq5QWGHn6hb23w5XA&rj-tok=AAABgT1-hO
 http://stream1.early1900s.org:8080
 #EXTINF:0,Radio d'Oc
 https://radiodoc.ice.infomaniak.ch/radiodoc-128.mp3
-#EXTINF:0,Radio Earn
-https://teamradioearn.radioca.st/stream/1/
 #EXTINF:0,Radio Eco Sud 
 http://178.32.140.82:9577/;
 #EXTINF:0,Rádio Elétrica
 https://servidor26.brlogic.com:8040/live
-#EXTINF:0,Radio en oración
-https://stream.zeno.fm/kadyhliaaawtv
 #EXTINF:0,Radio Esperantia
 https://liveradio.com.es:8062/stream
 #EXTINF:0,RADIO FAUSTEX ORCHESTRES 2

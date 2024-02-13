@@ -217,8 +217,6 @@ https://ice2.somafm.com/covers-128-mp3
 https://usa2.fastcast4u.com/proxy/cruisincountry?mp=/stream
 #EXTINF:0,Cuántica Estéreo radio
 https://cast4.asurahosting.com:2199/start/cuantica
-#EXTINF:0,Curry Bun Radio
-https://streaming.shoutcast.com/curry-bun-radio
 #EXTINF:0,CyberFM Country
 https://stream.zeno.fm/0665epqgvceuv
 #EXTINF:0,CyberFM Streetz
@@ -303,13 +301,13 @@ https://puma.streemlion.com:1225/stream
 https://flashradioserver.es/listen/flash/radio.mp3
 #EXTINF:0,FLOOD FM
 https://streaming.live365.com/a78844
-#EXTINF:0,FluxFM Livestream
-https://streams.fluxfm.de/live/mp3-128/radiode/
+#EXTINF:0,FluxFM
+https://streams.fluxfm.de/live/mp3-320/radiode/play.m3u
 #EXTINF:0,ElektroFlux
-https://channels.fluxfm.de/elektro-flux/stream.aac
-#EXTINF:0,FluxFM Indie Disco
-https://streams.fluxfm.de/indiedisco/aac-64/streams.fluxfm.de/
-#EXTINF:0,Mini Flux
+https://channels.fluxfm.de/elektro-flux/radiode/stream.mp3
+#EXTINF:0,Indie Disco
+https://channels.fluxfm.de/indiedisco/radiode/stream.mp3
+#EXTINF:0,MiniFlux
 https://channels.fluxfm.de/mini-flux/radiode/stream.mp3
 #EXTINF:0,Santa Flux
 https://streams.fluxfm.de/event04/mp3-320/rdaio.de/
@@ -749,6 +747,8 @@ https://www.lemellotron.com/stream
 https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio
 #EXTINF:0,LifeGate International
 https://stream7.xdevel.com/audio2s975809-436/stream/icecast.audio
+#EXTINF:0,LifeGate Radio Torino for Green Pea
+https://stream3.xdevel.com/audio0s975809-424/stream/icecast.audio
 #EXTINF:0,Life Radio Alternative
 https://stream.liferadio.at/alternative/mp3-192/radioat/
 #EXTINF:0,Like Alt
@@ -885,6 +885,8 @@ https://stream.open.fm/34
 https://stream.open.fm/43
 #EXTINF:0,Orinoco Radio
 http://185.87.186.220:8000/orinoco
+#EXTINF:0,Oxide - Oxford University Student Radio
+https://s2.radio.co:80/sb9bbd0dfa/listen
 #EXTINF:0,OZ Radio Bandung
 http://45.64.97.211:1031/;
 #EXTINF:0,Pagan Radio
@@ -1113,6 +1115,8 @@ https://rs6-krk2.rmfstream.pl/ALTERNATYWA
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
 #EXTINF:0,RadioArt: Rock and Indie
 https://live.radioart.com/fRock_and_indie.mp3
+#EXTINF:0,Rock93X
+https://stream.rcast.net/70157
 #EXTINF:0,Radio Rock Bauru
 http://streaming20.hstbr.net:8218/live
 #EXTINF:0,Rock And More
