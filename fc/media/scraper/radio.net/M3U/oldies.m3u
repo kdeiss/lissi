@@ -23,6 +23,8 @@ https://ice23.securenetsystems.net/CIYM
 https://pub0102.101.ru:8443/stream/trust/mp3/128/55
 #EXTINF:0,101TheVibeFM
 https://streaming.radio.co/s188e71c13/listen
+#EXTINF:0,105.3 Zack FM
+https://eastlondonradio.co.uk:8702/zack.mp3
 #EXTINF:0,Spreeradio Weihnachtsradio
 https://stream.spreeradio.de/spree-event/mp3-128/radioDE/
 #EXTINF:0,Radio 105 Retro
@@ -273,8 +275,6 @@ https://stream-44.zeno.fm/v6ay1m67gwzuv?zs=u3dyTTOTQayftgvhdwmcRg
 https://securestreams.autopo.st:1174/stream
 #EXTINF:0,ADDICTED 2 OLDIES MUSIC RADIO
 http://listen.radionomy.com/addicted2oldiesmusicradio
-#EXTINF:0,Radio Addictive 70s
-https://listen.radionomy.com/addictive-70s.m3u
 #EXTINF:0,Adult Contemporary Music Relaxing
 https://stream-62.zeno.fm/7evvcp3u0p8uv?zs=kT1RpGgERN2RjwLd98bRXw
 #EXTINF:0,Afya Radio FM
@@ -1379,8 +1379,6 @@ https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3
 https://ice42.securenetsystems.net/HO66
 #EXTINF:0,50s 60s Hits - HitsRadio
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_OLDIES.mp3
-#EXTINF:0,HitTrAp Radio Old School
-https://radio.hittrap.com:1025/;
 #EXTINF:0,Hit West 80s
 https://hitwestrennes.ice.infomaniak.ch/hitwest-rennes-128.aac
 #EXTINF:0,Hvidovre Naer Radio 95,2 
@@ -2703,6 +2701,8 @@ https://www.radioking.com/play/otradio/584704
 https://s1.voscast.com:10237/stream
 #EXTINF:0,LMD Radio
 https://lmdradio.on-the-web.tv/radio/8010/radio.mp3
+#EXTINF:0,LM Radio 87.8 FM
+https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:0,Loca Fm House Deluxe 
 https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:0,Lola Fm
@@ -3245,6 +3245,8 @@ http://stream.collectorradio.fr/collector-128.mp3
 http://82.223.29.65:8080/vcbm_siradio
 #EXTINF:0,Out of Time
 https://stream.zeno.fm/pr8f088x1f8uv
+#EXTINF:0,Oxide - Oxford University Student Radio
+https://s2.radio.co:80/sb9bbd0dfa/listen
 #EXTINF:0,OyeLaRadio
 https://radio5.domint.net:8166/stream
 #EXTINF:0,Oz Arab Radio
@@ -3421,8 +3423,6 @@ https://dl1.dstr.nl/radio/radio0511
 https://nl.digitalrm.pt:8012/stream
 #EXTINF:0,Radio 105 - Classics
 https://icy.unitedradio.it/105Classics.mp3?amsparams=playerid:208f105web;skey:1448012674&listenerid=3dfc1ce4c61bf4caef1eba8852b9e134&awparams=companionAds%3Atrue
-#EXTINF:0,Radio10
-http://server7.streamserver24.com:12498/;
 #EXTINF:0,Radio 13
 http://stream2.mfmstreaming.nl:8040/live
 #EXTINF:0,Radio181 - Golden Classics
@@ -3775,8 +3775,6 @@ https://stream.radio-matchbox.de/listen/matchbox/radio.mp3
 http://192.99.83.154:8006/stream
 #EXTINF:0,MDM Radio
 https://stream.radio-mdm.fr:8443/stream.mp3
-#EXTINF:0,radiomediona
-https://s2.free-shoutcast.com/stream/18000/;stream.mp3?037cf3
 #EXTINF:0,Radio Melody
 https://stream.streambase.ch/rm/mp3-192/radiode/
 #EXTINF:0,Radio M Evergreen
@@ -4153,6 +4151,8 @@ https://listentomystream.com:8084/stream
 http://icecast1.play.cz/retrodjradio.mp3
 #EXTINF:0,Retro FM 103.1
 https://stream.zeno.fm/4swephmc4p8uv
+#EXTINF:0,Retro FM 89.5
+https://k100straumar.mbl.is/retromobile
 #EXTINF:0,Retro FM Russia Петро FM
 https://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTINF:0,Retro FM Skåne
@@ -4628,7 +4628,7 @@ https://s5.citrus3.com:8290/stream
 #EXTINF:0,ANTENNE THÜRINGEN –Charts
 https://frontend.streamonkey.net/antthue-charts?aggregator=radiode
 #EXTINF:0,ANTENNE THÜRINGEN - Yesterhits
-https://stream.antennethueringen.de/yesterhits/mp3-192/radiode/
+https://frontend.streamonkey.net/antthue-yesterhits?aggregator=radiode
 #EXTINF:0,Tiempos de Videoclub
 https://www.ivoox.com/podcast-tiempos-videoclub_sq_f11476931_1.html
 #EXTINF:0,Radio Tijdloos
@@ -4979,8 +4979,6 @@ https://stream.zeno.fm/716zqgn0uk8uv
 https://rocket.surfernetwork.com:10001/live/wheo-am_aac/playlist.m3u8
 #EXTINF:0,WHIP 1350 AM
 http://192.111.140.11:8612/stream
-#EXTINF:0,white-black-puma-radio.de
-https://stream.white-black-puma-radio.de:8002/listen
 #EXTINF:0,WHN 1050 Gold airchecks
 https://sonic-ca.instainternet.com:8024/stream/1/
 #EXTINF:0,WHRY Oldies 95.3 & 102.9

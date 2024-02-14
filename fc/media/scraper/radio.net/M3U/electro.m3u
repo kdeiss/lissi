@@ -334,7 +334,7 @@ https://live.antenne.at/ost
 #EXTINF:0,Antenne Steiermark
 https://live.antenne.at/as
 #EXTINF:0,DORFKIND RADIO
-https://stream.antennethueringen.de/dorfkind/mp3-128/radiode/
+https://frontend.streamonkey.net/antthue-dorfkindradio?aggregator=radiode
 #EXTINF:0,Antipodes Radio
 https://a1.asurahosting.com:9920/radio.mp3
 #EXTINF:0,AntitheseRadio
@@ -803,6 +803,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CJOIFM.mp3
 https://charlekingradio.ice.infomaniak.ch/ckmobile.aac
 #EXTINF:0,Classic Dance Hits
 https://stream.zeno.fm/7z9dmhaens8uv
+#EXTINF:0,Classic Videogames RADIO
+https://lead-server.de:1551/stream/2/
 #EXTINF:0,cliqhop idm
 https://ice2.somafm.com/cliqhop-128-mp3
 #EXTINF:0,CLN RADIO
@@ -1825,6 +1827,8 @@ http://falcon.shoutca.st:8762/stream/1/
 https://streams.radio.co/s14193ab17/listen
 #EXTINF:0,GrooveWave Dance
 http://stm1.srvif.com:7498/stream/1/
+#EXTINF:0,GTI Radio
+https://listen.gtiradio.ru/radiomid
 #EXTINF:0,Guareber Recordings Live Radio
 https://max.miradio.in/proxy/guareber/stream
 #EXTINF:0,Guerrilla Radio
@@ -4019,8 +4023,6 @@ https://radio.lradiostation.com/live
 http://server2.lradio.ru:8000/lradio64.aac
 #EXTINF:0,LRdR
 https://listen.radioking.com/radio/12444/stream/24233
-#EXTINF:0,LTB-Limmattalbeats
-https://server7.streamserver24.com:61430/stream/1/
 #EXTINF:0,luburadio
 http://stream.laut.fm/luburadio
 #EXTINF:0,Lucid Dreams
@@ -5953,8 +5955,6 @@ http://carol.epichosts.co.uk:8270/live.mp3
 https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac
 #EXTINF:0,Scorpion entertainment
 https://usa11.fastcast4u.com/proxy/wpibgrco?mp=/1
-#EXTINF:0,Radio-SD1
-http://85.214.204.189:8000/live
 #EXTINF:0,SDX synthetic experience
 http://radio.dawnshadow.se:8000/stream
 #EXTINF:0,Seaside Radio Blackpool
@@ -6241,6 +6241,8 @@ https://sunsl.streamabc.net/sunsl-playlist2-mp3-192-4542868
 https://sunsl.streamabc.net/sunsl-techhouse-mp3-192-9113798
 #EXTINF:0,sunshine live - Trance
 https://stream.sunshine-live.de/trance/mp3-128/radiode/
+#EXTINF:0,Super Estereo 94.7 HD
+https://s01.digitalserver.org:7025/;stream.nsv
 #EXTINF:0,Superhitradio
 http://server7.streamserver24.com:23450/;stream
 #EXTINF:0,Radio SuperVIP
@@ -6411,6 +6413,8 @@ http://185.80.220.12:8054/stream/1/
 https://hillchill.net/
 #EXTINF:0,The Trip
 https://ice2.somafm.com/thetrip-128-mp3
+#EXTINF:0,The VIBE - Dancefloor Radio 
+https://proxy-audio.ptisp.com:8046/stream
 #EXTINF:0,THNX Radio
 http://radio.streamings.gr:8105/stream
 #EXTINF:0,Tinder Radio - Club
@@ -6779,6 +6783,8 @@ https://broadcast.wssr.stream/radio/8000/radio.mp3
 http://mp3.wunschradio.de/wunschradio-dance.mp3
 #EXTINF:0,WWRX - Jammin 107.7 FM
 https://crystalout.surfernetwork.com:8001/WWRX_MP3
+#EXTINF:0,X1 POP Radio
+http://x1.xsminternet.com:58090/stream/1/
 #EXTINF:0,X-Clusief FM
 https://linux26.live-streams.nl:18000/
 #EXTINF:0,XDJM RADIO | ADDICTIVE MUSIC 24/7

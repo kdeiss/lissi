@@ -155,8 +155,6 @@ https://tx.planetradio.co.uk/icecast.php?i=absolute70s.mp3
 https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics
 #EXTINF:0,AceRadio-The Super 70s Channel
 https://bigrradio.cdnstream1.com/5125_128
-#EXTINF:0,Radio Addictive 70s
-https://listen.radionomy.com/addictive-70s.m3u
 #EXTINF:0,AEROSTEREO
 https://panel.aerostereo.com/listen/aerostereo/radio.mp3
 #EXTINF:0,Affinity Radio
@@ -455,8 +453,6 @@ http://99.198.118.250:8329/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFM_SC
 #EXTINF:0,c
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106_SC.mp3
-#EXTINF:0,Classic Gold
-https://cast1.torontocast.com:3365/stream
 #EXTINF:0,Classic Hits 104.7
 https://ice41.securenetsystems.net/WITGLP
 #EXTINF:0,Classic Hits 109 - The 70s
@@ -2490,7 +2486,7 @@ https://frontend.streamonkey.net/antthue-charts?aggregator=radiode
 #EXTINF:0,ANTENNE THÜRINGEN - Classic Rock
 https://frontend.streamonkey.net/antthue-classicsrock?aggregator=radiode
 #EXTINF:0,ANTENNE THÜRINGEN - Yesterhits
-https://stream.antennethueringen.de/yesterhits/mp3-192/radiode/
+https://frontend.streamonkey.net/antthue-yesterhits?aggregator=radiode
 #EXTINF:0,Tiempos de Videoclub
 https://www.ivoox.com/podcast-tiempos-videoclub_sq_f11476931_1.html
 #EXTINF:0,The Time Machine 
@@ -2649,6 +2645,8 @@ https://ice64.securenetsystems.net/WGNYFM
 https://streaming.live365.com/a24197
 #EXTINF:0,Who Magoo *Music Review*
 http://ais-edge07-live365-dal02.cdnstream.com/a58073
+#EXTINF:0,WIXY1260Online
+http://ice23.securenetsystems.net/WIXY1260
 #EXTINF:0,WJKZ Jukebox Radio
 http://stream.radiojar.com/7h6fwkn7g6hvv
 #EXTINF:0,WJMF-LP The Bridge 87.7 FM

@@ -77,8 +77,6 @@ http://usa15.ciudaddigital.com.uy:8140/ElLugarFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3
 #EXTINF:0,Emisora Colon FM
 http://200.58.112.14:11955/
-#EXTINF:0,Emisoras ABC
-http://174.127.75.88:8190/stream
 #EXTINF:0,Radio En Ba Mango
 http://s10.myradiostream.com:4212/stream/1/
 #EXTINF:0,Radio Enlace 107.5 FM
@@ -183,8 +181,6 @@ https://server-28.stream-server.nl:8872/stream
 https://miestacion.turadioonline.com.ar/8022/stream
 #EXTINF:0,FM de la Ciudad
 https://stream01.server-inside.com.ar:9658/ciudadpigue
-#EXTINF:0,FM Espacio 89.7
-http://servidor.i-live.com.ar:8654/;
 #EXTINF:0,FM Gente 107.1 FM
 https://cast1.my-control-panel.com/proxy/luis1/stream
 #EXTINF:0,FM Hime エフエムひめ（淀川bousaiラジオ）
@@ -1467,14 +1463,20 @@ https://streamingv2.shoutcast.com/RadioMessaggioEvangelico
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
 #EXTINF:0,Metrópole - Santos
 https://stream.zeno.fm/56zh7wgfay8uv
+#EXTINF:0,Radio Metropolitana Cusco
+https://listen.openstream.co/3972/audio
 #EXTINF:0,FM Metropolitana Tucumán
 https://radio13.servidorderadio.net/8190/stream
+#EXTINF:0,MFM RADIO
+https://stream.bodkas.com/playlist?id=mfmradio
 #EXTINF:0,Michigan Roar Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM_SC
 #EXTINF:0,MICROSSILON RADIO TV NJ
 http://s43.myradiostream.com:21790/;
 #EXTINF:0,Middle East Radio Melbourne 87.6 FM
 http://hyades.shoutca.st:8998/live
+#EXTINF:0,Mild Sauce
+https://streaming.radio.co/sc042534a3/listen
 #EXTINF:0,MILENIO NOTICIAS 1090 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEAUAMMP3_SC.mp3
 #EXTINF:0,Milenium FM
@@ -1929,6 +1931,8 @@ http://emisiones.com.uy:8085/arapey
 https://stream.ouveai.com.br/proxy/radioararifm?mp=/stream
 #EXTINF:0,Radio Arcoiris Napo
 https://securestream.radioshd.info:7073/stream/1/
+#EXTINF:0,Rádio Assembleia Minas Gerais
+http://radio.almg.gov.br/radio
 #EXTINF:0,Radio Audio 106.3 FM
 https://stream.zeno.fm/2w81t82wx3duv
 #EXTINF:0,radioava.global
@@ -2370,7 +2374,7 @@ https://stream.zenolive.com/3xk17bzdd3quv
 #EXTINF:0,Radiorizzonti inBlu
 http://stream.wide-net.org:80/orizzonti
 #EXTINF:0,Radio Robines
-http://37.59.121.120:9510/stream
+https://eu1.lhdserver.es:8043/stream
 #EXTINF:0,SRR Radio Romania Cultural
 https://www.radioromaniacultural.ro/asculta.m3u
 #EXTINF:0,Radio Rooz
@@ -2615,6 +2619,8 @@ https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 https://stream.zenolive.com/hadhth3y62quv
 #EXTINF:0,RRI Pro 1 Makassar
 https://stream.streamaudio.de:8000/teststream3
+#EXTINF:0,RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
 #EXTINF:0,RTÉ Radio 1 Extra
 https://www.rte.ie/manifests/radio1extra.m3u8
 #EXTINF:0,RTÉ Raidió Na Gaeltachta
@@ -2695,8 +2701,6 @@ https://stream.zeno.fm/cxpsu3rs0uhvv
 http://stream.zenolive.com/845mwpfnhvduv
 #EXTINF:0,Shih Hsin Radio SHRS 729 AM
 https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8
-#EXTINF:0,Sidelines
-http://70.32.30.25:8000/stream
 #EXTINF:0,Radio Simphony 91.3 FM
 http://cdn.instream.audio:8129/stream
 #EXTINF:0,Simplesmente Adriana
@@ -2877,8 +2881,6 @@ https://s6.reliastream.com/proxy/lastfrequency?mp=/stream
 http://dione.shoutca.st:8548/stream/1/
 #EXTINF:0,The Mechanics FOR DUMMIES Radio
 https://stream.zeno.fm/qeik9t9dbjyuv
-#EXTINF:0,The Mix Radio
-https://tmr80s.radioca.st/stream.mp3
 #EXTINF:0,The Patriot KEIB AM 1150
 https://stream.revma.ihrhls.com/zc197
 #EXTINF:0,The Sir Classic Show
@@ -3626,7 +3628,7 @@ http://71.203.74.211:8050/stream/1/
 #EXTINF:0,WKZO AM 590
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKZOAMAAC_SC
 #EXTINF:0,WLAG - Eagle 1240 AM
-https://streaming.live365.com/a15697
+http://162.251.24.112:88/broadwave.mp3
 #EXTINF:0,WLAQ - TalkRadio 1410 AM 
 https://ice64.securenetsystems.net/WLAQ
 #EXTINF:0,WLBB - News Talk 1330 AM

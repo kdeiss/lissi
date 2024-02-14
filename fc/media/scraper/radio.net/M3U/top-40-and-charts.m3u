@@ -137,6 +137,8 @@ https://legacy.scahw.com.au/4bbb_128
 https://wz4liw.scahw.com.au/live/4rok_128.stream/playlist.m3u8
 #EXTINF:0,4HTB Hot Tomato 102.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC
+#EXTINF:0,4MET Radio Metro 105.7 FM
+http://stream.radiometro.com.au:7777
 #EXTINF:0,hit Mackay 100.3 FM 4MKY 
 https://wz4liw.scahw.com.au/live/4mky_128.stream/playlist.m3u8
 #EXTINF:0,hit 100.7 Darling Downs
@@ -927,6 +929,8 @@ https://ais-sa1.streamon.fm/7237_128k.aac/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKBCFMAAC_SC
 #EXTINF:0,CKBD 98.1 2day FM
 https://vistaradio.streamb.live/SB00094
+#EXTINF:0,CKDQ Q91 Country 910 AM
+https://newcap.leanstream.co/CKDQAM?
 #EXTINF:0,CKFM 99.9 Virgin Radio Toronto
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC_SC
 #EXTINF:0,CKIA FM 88,3
@@ -1185,6 +1189,8 @@ https://discosuave.radioca.st/;
 https://node-27.zeno.fm/xn0pf8cr9mruv?rj-ttl=5&rj-tok=AAABcYySSwYA1Bgtq_QKL7fKtA
 #EXTINF:0,Diva 91.6 FM
 http://s17.myradiostream.com:6404/strem/1/stream/1/
+#EXTINF:0,DJFM Surabaya 
+https://svara-stream.radioddns.net:8443/surabaya_djfm_
 #EXTINF:0,DJ Mag Germany Radio by iloveradio.de
 https://stream02.iloveradio.de/iloveradio4.mp3
 #EXTINF:0,DJ Pflow Radio
@@ -2131,8 +2137,6 @@ https://r10.ciclano.io:15033/stream
 https://shout35.crossradio.com.br:18038/1
 #EXTINF:0,Jovem Pan FM Ipatinga
 http://radio3.logicahost.com.br:9130/stream/1/
-#EXTINF:0,Jovem Pan FM Maceió
-http://radios.cabreuvoip.com.br:7054/stream
 #EXTINF:0,Jovem Pan FM Manaus
 https://shout25.crossradio.com.br:18022/1
 #EXTINF:0,Jovem Pan FM Maringá
@@ -5179,8 +5183,6 @@ https://stream.lokalradio.nrw/44525hp
 http://c02.lexycast.de:4420/stream
 #EXTINF:0,Radio Herne - Dein Top40 Radio
 https://stream.lokalradio.nrw/44525px
-#EXTINF:0,Radio-Stardisco
-http://178.33.39.122:8105/stream/1/
 #EXTINF:0,Radio heute
 https://www.radioking.com/play/radio-heute
 #EXTINF:0,Radio Hinterland Binasco
@@ -5285,6 +5287,8 @@ https://radioserver.dk/radiom
 http://158.69.62.98:8558/;
 #EXTINF:0,Радио МЕТРО
 http://stream.radiometro.ru:8230/;
+#EXTINF:0,Radio Metro 105.7
+https://stream.radiometro.com.au/
 #EXTINF:0,Radio Metropolitana Valencia
 https://ssl.painelcast.com:6916/;
 #EXTINF:0,Radio MFK
@@ -5475,6 +5479,8 @@ http://167.86.86.4:8028/stream
 https://stream.zeno.fm/mydnd5zqkkhvv
 #EXTINF:0,Radios Stereo Madriz
 https://stream-41.zeno.fm/n7ur3nfdft5tv?zs=lAuhNCyPTHqis9LQEPzbVA
+#EXTINF:0,Radio-Stardisco
+http://stream.tramp-cast.ch:8018/stream
 #EXTINF:0,Radio Star FM
 http://94.24.49.44:8400/;
 #EXTINF:0,RADIO STAR hitsradio
@@ -5765,6 +5771,8 @@ https://rt1.radio/thl60
 https://rt1.radio/gzfif
 #EXTINF:0,RTA Planet Italian Web Radio
 https://ice05.fluidstream.net/rta_planet.mp3
+#EXTINF:0,RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
 #EXTINF:0,RTÉ 2FM
 https://www.rte.ie/manifests/2fm.m3u8
 #EXTINF:0,RTL 102.5 BRO&SIS
@@ -5879,8 +5887,12 @@ https://stream.liferadio.at/sonnleitner/aac-64/
 http://185.224.91.193:8000/stream/1/
 #EXTINF:0,Soundcity Radio 88.5
 https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmnrb
+#EXTINF:0,Soundcity Radio 91.3
+https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
 #EXTINF:0,Soundcity Radio 96.3
 https://stream-149.zeno.fm/ihiozkmnkfvtv
+#EXTINF:0,Soundcity Radio 98.5
+https://cors-proxy.elfsight.com/http://stream.group8.africa:44001/soundcityfmlag
 #EXTINF:0,soundlarge – Wir lieben Musik.
 https://www.soundlarge.at/wirliebenmusik/stream
 #EXTINF:0,Sound of Base
@@ -6047,10 +6059,6 @@ http://janus.cdnstream.com:5579/dj
 http://uk7.internet-radio.com:8352/stream
 #EXTINF:0,The Hits
 https://listen.openstream.co/5254/audio
-#EXTINF:0,The Mix Radio
-https://tmr80s.radioca.st/stream.mp3
-#EXTINF:0,The Mix Radio 
-https://tmr80s.radioca.st/stream.mp3
 #EXTINF:0,The New Star 101.7 FM
 https://live.amperwave.net/manifest/townsquare-wqrrfmaac-hlsc3.m3u8
 #EXTINF:0,The pulse of sweden
@@ -6645,8 +6653,6 @@ https://ice6.securenetsystems.net/WXTQ
 https://ais-sa1.streamon.fm/7791_96k.aac/playlist.m3u8
 #EXTINF:0,WXZO - Planet 96.7 FM
 https://crystalout.surfernetwork.com:8001/WXZO_MP3
-#EXTINF:0,WYKS Kiss 105.3
-https://ice8.securenetsystems.net/WYKS
 #EXTINF:0,WYSS 99.5 Yes FM
 https://ice24.securenetsystems.net/WYSS
 #EXTINF:0,WYSX - Yes FM 96.7 FM
