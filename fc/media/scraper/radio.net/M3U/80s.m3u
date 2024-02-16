@@ -1025,6 +1025,8 @@ https://stream.zeno.fm/bp1pwy8mky8uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFM_SC
 #EXTINF:0,c
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106_SC.mp3
+#EXTINF:0,Classic Gold
+https://cast1.torontocast.com:3365/stream
 #EXTINF:0,Classic Hit 80s
 http://edge7.audioxi.com/HITSBITS
 #EXTINF:0,Classic Hits 104.7
@@ -1329,6 +1331,8 @@ https://stream9.mexiserver.com/8132/stream
 https://stream.zeno.fm/e8z59zarbrzuv
 #EXTINF:0,Eldoradio - 80's Channel
 http://shoutcast.rtl.lu/eldo80s
+#EXTINF:0,EldoRadio 80s
+https://stream.eldo.lu/data/live/radio/eldo80s/playlist.m3u8
 #EXTINF:0,El gouna radio
 http://82.201.132.237:8000/;
 #EXTINF:0,El Portal del Amor
@@ -1719,8 +1723,6 @@ https://stream.zeno.fm/1qz3f97q0wzuv
 https://stream.zeno.fm/26s4w13frwzuv
 #EXTINF:0,Grenslandradio.nl
 http://server-grenslandradio.nl:8032/;
-#EXTINF:0,Radio-Grimma
-http://server4.streamserver24.com:22000/stream/1/
 #EXTINF:0,GrooveMix 2
 http://centova2.euroti.com.br:8026/;
 #EXTINF:0,GT FM 87.8 Gulmarrad
@@ -1841,8 +1843,6 @@ https://streaming.live365.com/a51828
 https://quincy.torontocast.com:2695/stream
 #EXTINF:0,Hits4U
 https://listen.radionomy.com/hits4u.m3u
-#EXTINF:0,hits4you.fm
-https://stream01.script24.net:10020/stream/1/
 #EXTINF:0,Hits 70s 80s
 https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3
 #EXTINF:0,Hits 80s
@@ -1863,8 +1863,6 @@ https://streamingV2.shoutcast.com/Hitsof80and90
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3
 #EXTINF:0,HITz Digital
 http://loveradio.stream:8000/mytunerradio
-#EXTINF:0,Hitz Fm - Flashback
-https://stream-150.zeno.fm/yjblrvjcmu4uv
 #EXTINF:0,Hitzone 80s
 https://phoebe.streamerr.co:2280/stream
 #EXTINF:0,Hitz Radio Dublin
@@ -1981,6 +1979,8 @@ https://stream.radio.co/s14d3725f1/listen
 http://stream1.jenny.fm:8500/stream/1/
 #EXTINF:0,Jesus Nasareno Radio
 https://node-30.zeno.fm/rv36ft1unqzuv
+#EXTINF:0,Jetstream Radio
+https://streamer.radio.co/s429170c28/listen
 #EXTINF:0,JFM Radio
 https://c19.radioboss.fm:8123/stream
 #EXTINF:0,JG Radio Online
@@ -2389,6 +2389,8 @@ https://stream.laut.fm/blueline-fm_de?ref=radiode
 https://stream.laut.fm/bluemoonlagune?ref=radiode
 #EXTINF:0,bluewolf-radio
 https://stream.laut.fm/bluewolf-radio?ref=radiode
+#EXTINF:0,Boerde Radio
+https://stream.laut.fm/boerderadio?ref=radiode
 #EXTINF:0,Boomundspeed
 https://stream.laut.fm/boomundspeed?ref=radiode
 #EXTINF:0,Radio Breitenberg
@@ -2473,6 +2475,8 @@ https://stream.laut.fm/discoclassics80?ref=radiode
 https://stream.laut.fm/discosound-radio?ref=radiode
 #EXTINF:0,discoteam-phoenix
 https://stream.laut.fm/discoteam-phoenix?ref=radiode
+#EXTINF:0,Diskjockey Bernd
+https://stream.laut.fm/diskjockey-bernd?ref=radiode
 #EXTINF:0,divaradio
 https://stream.laut.fm/divaradio?ref=radiode
 #EXTINF:0,DJ RAIMUND Wuppertal
@@ -2563,6 +2567,8 @@ https://stream.laut.fm/gesundheitsradio?ref=radiode
 https://stream.laut.fm/ghosttrain-chemnitz?ref=radiode
 #EXTINF:0,Gigabeat FM
 https://stream.laut.fm/gigabeatfm?ref=radiode
+#EXTINF:0,glueck-auf-radio-kamp-lintfort
+https://stream.laut.fm/glueck-auf-radio-kamp-lintfort?ref=radiode
 #EXTINF:0,Gute Launeexpress
 https://stream.laut.fm/gutelaune-express?ref=radiode
 #EXTINF:0,Hangover Beach Club
@@ -2673,6 +2679,8 @@ https://stream.laut.fm/maxmusicfm?ref=radiode
 http://stream.laut.fm/megadiscoradio
 #EXTINF:0,Mein Herz Radio
 https://stream.laut.fm/mein-herz-radio?ref=radiode
+#EXTINF:0,meinradiofm
+https://stream.laut.fm/meinradiofm?ref=radiode
 #EXTINF:0,metalstation
 https://stream.laut.fm/metalstation?ref=radiode
 #EXTINF:0,mixitalo
@@ -2697,6 +2705,8 @@ https://stream.laut.fm/musikbox?ref=radiode
 https://stream.laut.fm/musikmatch-live?ref=radiode
 #EXTINF:0,Musikthatsmine 2000
 https://stream.laut.fm/musikthatsmine2000?ref=radiode
+#EXTINF:0,Musikwelle-Sachsen
+https://stream.laut.fm/musikwellesachsen?ref=radiode
 #EXTINF:0,My Hitradio24
 https://stream.laut.fm/myhitradio24?ref=radiode
 #EXTINF:0,NAM.FM
@@ -2847,6 +2857,8 @@ https://stream.laut.fm/radio-hausmannstaetten?ref=radiode
 https://stream.laut.fm/radio-hontes?ref=radiode
 #EXTINF:0,Radio Italia Stoccarda
 https://stream.laut.fm/radioitaliastoccarda?ref=radiode
+#EXTINF:0,radio-kamp-lintfort
+https://stream.laut.fm/radio-kamp-lintfort?ref=radiode
 #EXTINF:0,Radiolaluna
 https://stream.laut.fm/radiolaluna?ref=radiode
 #EXTINF:0,Radio LIG
@@ -2907,6 +2919,8 @@ https://stream.laut.fm/radiozollhaus?ref=radiode
 https://stream.laut.fm/rainbowfamilyradio?ref=radiode
 #EXTINF:0,Razorlight-Radio
 https://stream.laut.fm/razorlight-radio?ref=radiode
+#EXTINF:0,Reavfm 80er
+https://stream.laut.fm/reavfm80er?ref=radiode
 #EXTINF:0,Remember Radio 
 https://stream.laut.fm/remember-radio?ref=radiode
 #EXTINF:0,retro-kult-radio
@@ -2991,6 +3005,8 @@ https://stream.laut.fm/studiodance?ref=radiode
 https://stream.laut.fm/sunbeatsradio?ref=radiode
 #EXTINF:0,SunRadioLive
 https://stream.laut.fm/sunradiolive?ref=radiode
+#EXTINF:0,Sunshine-Beat-Disco-Radio
+https://stream.laut.fm/sunshine-beat-disco-radio?ref=radiode
 #EXTINF:0,Survived The 80s
 https://stream.laut.fm/survived_the_80s?ref=radiode
 #EXTINF:0,synexitfm80er
@@ -3003,8 +3019,12 @@ https://stream.laut.fm/synthpop?ref=radiode
 https://stream.laut.fm/syvo8?ref=radiode
 #EXTINF:0,Terra Music
 https://stream.laut.fm/terramusic?ref=radiode
+#EXTINF:0,Transistor FM – 80s90s
+https://stream.laut.fm/tfm-80s90s?ref=radiode
 #EXTINF:0,The Avengers Radio
 https://stream.laut.fm/the-avengers-radio?ref=radiode
+#EXTINF:0,the-blitz-kids
+https://stream.laut.fm/the-blitz-kids?ref=radiode
 #EXTINF:0,The Dawn
 https://stream.laut.fm/the-dawn?ref=radiode
 #EXTINF:0,The Vision
@@ -3099,8 +3119,6 @@ https://stream.lokalradio.nrw/445c37m
 https://stream2-alfacast-hosting.com/8110/stream
 #EXTINF:0,LITTORAL 80' 90'
 https://littoral8090.ice.infomaniak.ch/littoral8090-192.mp3
-#EXTINF:0,Radio Live Hits
-https://stream.zeno.fm/petbytb847zuv
 #EXTINF:0,LJ RADIO
 https://stream.zeno.fm/cmq521bkerruv
 #EXTINF:0,LMD Radio
@@ -3277,8 +3295,6 @@ https://stream.tramp-cast.ch:8028/stream
 https://radio.melodiestory.fr:8000/live.mp3
 #EXTINF:0,Melody-4-scorpion
 https://stream.tramp-cast.ch:8038/stream
-#EXTINF:0,Melody radio
-http://s6.onweb.gr:8512/stream
 #EXTINF:0,Melphis FM
 https://stm6.xcast.com.br:9836/stream
 #EXTINF:0,Memorial FM
@@ -3405,8 +3421,6 @@ http://radiolatina.info:9752/
 https://stream.radio.co/s45c829d4f/listen
 #EXTINF:0,Music80s Stereo
 https://stream.zeno.fm/qa29r0es1f8uv
-#EXTINF:0,Musica degli anni '80
-https://streamingV2.shoutcast.com/Musica-degli-anni--80
 #EXTINF:0,Musica en el Aire
 https://server-usa2.radioseninternet.net:7047/stream/1/
 #EXTINF:0,Radio Musicalisima 89.1
@@ -4849,8 +4863,6 @@ https://stream-41.zeno.fm/4mwx9mqstg0uv?zs=aWWRP5ZbQ2iidJllHNwLig
 https://saurus.streampanel.cloud:5720/stream
 #EXTINF:0,RADIO SCHWABEN
 https://s35.derstream.net/radioschwaben-aac.mp3
-#EXTINF:0,Radio Sedaie Ashena Stockholm FM 94.6
-http://213.113.64.188:88/broadwave.mp3?rate=1&src=1
 #EXTINF:0,Das neue Radio Seefunk - 80er pur
 http://webradio.radio-seefunk.de/80er
 #EXTINF:0,Radio Sepiol

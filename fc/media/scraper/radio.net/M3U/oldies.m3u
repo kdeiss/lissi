@@ -189,8 +189,6 @@ https://ice.studiopiu.net/607080.aac
 https://listen.radionomy.com/60schartbusters.m3u
 #EXTINF:0,60sRadio (MRG.fm)
 http://62.149.196.16:8020/stream/1/
-#EXTINF:0,60XL Radio
-https://strw1.openstream.co/749?aw_0_1st.collectionid%3D3312%26stationId%3D3312%26publisherId%3D773%26k%3D1666267764%26aw_0_azn.pcountry%3D%5B\US\%2C\IE\%2C\GB\%2C\DE\%2C\NL\%2C\RU\%2C\FR\%5D%26aw_0_azn.planguage%3D%5B\en\%2C\de\%2C\fr\%2C\es\%5D%26aw_0_azn.pgenre%3D%5B\Oldies\%5D
 #EXTINF:0,6IX 105.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3
 #EXTINF:0,6MM
@@ -401,6 +399,16 @@ https://web.radio.antennesachsen.de/antsa-vogtland?aggregator=radiode
 https://streams.antenne-sylt.de/sylt/mp3-128/radiode/
 #EXTINF:0,Antenne Sylt – Schleswig-Holstein
 https://streams.antenne-sylt.de/festland/mp3-128/radiode/
+#EXTINF:0,ANTENNE THÜRINGEN Nord
+https://frontend.streamonkey.net/antthue-nord?aggregator=radiode
+#EXTINF:0,ANTENNE THÜRINGEN OST 
+https://frontend.streamonkey.net/antthue-ost?aggregator=radiode
+#EXTINF:0,ANTENNE THÜRINGEN Süd
+https://frontend.streamonkey.net/antthue-sued?aggregator=radiode
+#EXTINF:0,ANTENNE THÜRINGEN West
+https://frontend.streamonkey.net/antthue-west?aggregator=radiode
+#EXTINF:0,ANTENNE THÜRINGEN Mitte
+https://frontend.streamonkey.net/antthue-mitte?aggregator=radiode
 #EXTINF:0,Antenne Unna - Dein Oldie Radio
 https://stream.lokalradio.nrw/44549hp
 #EXTINF:0,Antiguos, pero buenos
@@ -2701,8 +2709,6 @@ https://www.radioking.com/play/otradio/584704
 https://s1.voscast.com:10237/stream
 #EXTINF:0,LMD Radio
 https://lmdradio.on-the-web.tv/radio/8010/radio.mp3
-#EXTINF:0,LM Radio 87.8 FM
-https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:0,Loca Fm House Deluxe 
 https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:0,Lola Fm
@@ -2953,6 +2959,8 @@ https://radio.myhitmusic.de/Jukebox-Gold-aac.mp3
 https://radio.myhitmusic.de/Toms-Club70s-aac.mp3
 #EXTINF:0,My Kiss FM - Gold Coast Queensland Australia
 http://65.108.198.245:7134/stream
+#EXTINF:0,My-Radio-On-The-Beat
+https://bayern.streampanel.cloud:10910/stream/1/
 #EXTINF:0,Na Gwiazdkę Jazz & Classic
 https://stream.open.fm/88
 #EXTINF:0,Nasze Radio 92,1 FM
@@ -4152,7 +4160,7 @@ http://icecast1.play.cz/retrodjradio.mp3
 #EXTINF:0,Retro FM 103.1
 https://stream.zeno.fm/4swephmc4p8uv
 #EXTINF:0,Retro FM 89.5
-https://k100straumar.mbl.is/retromobile
+http://ice-11.spilarinn.is/retromobile
 #EXTINF:0,Retro FM Russia Петро FM
 https://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTINF:0,Retro FM Skåne
@@ -4979,6 +4987,8 @@ https://stream.zeno.fm/716zqgn0uk8uv
 https://rocket.surfernetwork.com:10001/live/wheo-am_aac/playlist.m3u8
 #EXTINF:0,WHIP 1350 AM
 http://192.111.140.11:8612/stream
+#EXTINF:0,white-black-puma-radio.de
+https://stream.white-black-puma-radio.de:8002/listen
 #EXTINF:0,WHN 1050 Gold airchecks
 https://sonic-ca.instainternet.com:8024/stream/1/
 #EXTINF:0,WHRY Oldies 95.3 & 102.9
@@ -5163,8 +5173,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM.mp3
 http://ice66.securenetsystems.net/WRSK
 #EXTINF:0,WRTZ 1410 AM
 https://www.streamvortex.com:8444/s/10090
-#EXTINF:0,WRUL 97.3 All Oldies 1460 WROY
-https://ice24.securenetsystems.net/WRUL
 #EXTINF:0,WSAT / WTIX Memories 1280
 https://ice9.securenetsystems.net/WSAT
 #EXTINF:0,WSBB AM 1230 and AM 1490
