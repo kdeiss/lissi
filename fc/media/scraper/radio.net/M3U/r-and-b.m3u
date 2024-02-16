@@ -461,8 +461,6 @@ https://visual.shoutca.st/stream/discology
 https://c3.radioboss.fm:18018/stream
 #EXTINF:0,Diverse FM
 https://icecast.mediaice.co.uk/DiverseMP3
-#EXTINF:0,Divinity radio
-https://s29.myradiostream.com/14850/listen.mp3
 #EXTINF:0,DJBLK
 http://s4.voscast.com:8370/;
 #EXTINF:0,DJ KIDNU
@@ -1037,6 +1035,8 @@ https://stream.laut.fm/blackbox?ref=radiode
 https://stream.laut.fm/blackbulls?ref=radiode
 #EXTINF:0,blackplanetradio
 https://stream.laut.fm/blackplanetradio?ref=radiode
+#EXTINF:0,CITYMUSIC FM
+http://stream.laut.fm/citymusicfm
 #EXTINF:0,dacorner
 https://stream.laut.fm/dacorner?ref=radiode
 #EXTINF:0,dead_or_allive
@@ -1103,12 +1103,16 @@ http://stream.playmusicfm.info:9000/
 https://stream.laut.fm/radio-ffw-black?ref=radiode
 #EXTINF:0,radio-ffw-girls
 https://stream.laut.fm/radio-ffw-girls?ref=radiode
+#EXTINF:0,Radiofourtyfour
+https://stream.laut.fm/radiofourtyfour?ref=radiode
 #EXTINF:0,Radiorelaxandchillradiograz FM
 https://stream.laut.fm/radiorelaxandchillradiograzfm?ref=radiode
 #EXTINF:0,radioSTOLBERG
 https://stream.laut.fm/radiostolberg?ref=radiode
 #EXTINF:0,Radio Surprise
 https://stream.laut.fm/radio-surprise?ref=radiode
+#EXTINF:0,RADIOWST
+https://stream.laut.fm/radiowst?ref=radiode
 #EXTINF:0,rap2soul
 https://stream.laut.fm/rap2soul?ref=radiode
 #EXTINF:0,Red Hot And Blue Radio
@@ -1499,8 +1503,6 @@ https://stream.radiobrocken.de/bestof/mp3-128/radiode/
 https://stm9.xcast.com.br:7988/stream/1/
 #EXTINF:0,RadioCity
 https://stream.zeno.fm/9puq6tnts0quv
-#EXTINF:0,RadioCity
-http://162.244.80.106:10853/stream
 #EXTINF:0,Radio Club Music
 https://sonic1-rbx.cloud-center.ro/8024/stream
 #EXTINF:0,Radio Contact R'n'B
@@ -2067,6 +2069,8 @@ http://c3.radioboss.fm:8248/stream
 https://server01.nkstreaming.com:8101/stream
 #EXTINF:0,WERUradio
 https://ice42.securenetsystems.net/WERUDB
+#EXTINF:0,WEUP 1700 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEUPAM_SC
 #EXTINF:0,WFXE - Foxie 105 - 104.9 FM
 https://crystalout.surfernetwork.com:8001/WFXE-FM_MP3
 #EXTINF:0,WFZX - 99.1 & 99.3 The Vibe
@@ -2179,8 +2183,6 @@ http://stream.sxmradio.com:8060/1043.mp3
 https://xclusive-mochaala.radioca.st/stream
 #EXTINF:0,Xezer 103 FM
 https://s40.myradiostream.com/22546/listen.mp3
-#EXTINF:0,Y97.9Fm - Takoradi
-https://atunwadigital.streamguys1.com/yfm979takoradi
 #EXTINF:0,YAKALA FM 
 https://yakalafm.ice.infomaniak.ch/yakalafm-32.aac
 #EXTINF:0,Z93 Chattanooga

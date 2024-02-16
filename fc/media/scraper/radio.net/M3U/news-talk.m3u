@@ -77,6 +77,8 @@ http://usa15.ciudaddigital.com.uy:8140/ElLugarFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3
 #EXTINF:0,Emisora Colon FM
 http://200.58.112.14:11955/
+#EXTINF:0,Emisoras ABC
+http://174.127.75.88:8190/stream
 #EXTINF:0,Radio En Ba Mango
 http://s10.myradiostream.com:4212/stream/1/
 #EXTINF:0,Radio Enlace 107.5 FM
@@ -727,6 +729,8 @@ https://stream.revma.ihrhls.com/zc377/hls.m3u8
 https://khpr-ice.streamguys1.com/khpr2
 #EXTINF:0,KICD - Full Service Radio 1240 AM
 https://live.amperwave.net/manifest/saga-kicdamaac-hlsc1.m3u8
+#EXTINF:0,KICS - ESPN Tri-Cities 1460 AM - 1550 AM
+https://platteradio.streamguys1.com/kxpn-aac
 #EXTINF:0,KID 590 AM
 https://ice24.securenetsystems.net/KIDAM
 #EXTINF:0,KID / KIDG / KIDJ / KWIK Newsradio 590 / 1240 AM & 92.1 / 106.3 FM
@@ -1757,6 +1761,8 @@ https://sr6.inmystream.it:18018/stream/1/
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8
 #EXTINF:0,Plexus Radio - Dark Matter
 http://stream.zeno.fm/hyguvedna9quv
+#EXTINF:0,Plus Radio Fortaleza
+http://179.127.4.122:8619/stream/1/
 #EXTINF:0,Progressive Mind Radio
 https://stream.zeno.fm/6vu8pug96ehvv
 #EXTINF:0,Rádio Pohádka
@@ -2427,8 +2433,6 @@ http://kruljo.radiostudent.si:8000/ehiq.m3u
 http://server1.dainusradio.com:2341/;
 #EXTINF:0,RSI Radio Sud Internationale
 https://www.radioking.com/play/rsi-radio-sud-internationale/124798
-#EXTINF:0,Radio Superandina
-http://186.67.72.69:8009/listen.pls
 #EXTINF:0,Radio Suquia 96.5 FM
 https://streaming01.shockmedia.com.ar:10945/;
 #EXTINF:0,Radio Svoboda 
@@ -2943,8 +2947,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC.aac
 https://www.tsn.ca/radio/ottawa-1200
 #EXTINF:0,CKGM TSN 690 Montreal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
-#EXTINF:0,Tsukure Radio
-https://media.streambrothers.com:8244/stream
 #EXTINF:0,Rádio Tucano 91.5 FM
 http://centova13.ciclanohost.com.br:8056/stream
 #EXTINF:0,TUDN 1200 AM
@@ -3275,8 +3277,6 @@ https://ice25.securenetsystems.net/WDWS
 http://listen.djcmedia.com/dolphinradiohigh
 #EXTINF:0,WDXY 1240 AM
 https://cb.streamguys1.com/wdxy.aac
-#EXTINF:0,WDZ - 1050 AM ESPN Decatur
-https://playerservices.streamtheworld.com/api/livestream-redirect/WSOYAMAAC.aac
 #EXTINF:0,WEAN-FM - News-Talk 99.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPROAM.mp3
 #EXTINF:0,Web Rádio Aviva
@@ -3597,6 +3597,8 @@ https://ais-sa3.cdnstream1.com/2641_64.aac
 https://ice24.securenetsystems.net/WPIN
 #EXTINF:0,WKJB 710 AM
 https://stream.eleden.com:8280/wkjb.mp3
+#EXTINF:0,WKJG - ESPN 1380 AM
+http://52.91.189.53/espn-networkmp3-48
 #EXTINF:0,WKMI - Talk Radio 1360 AM
 http://stream.abacast.net/direct/townsquare-wkmiamaac-ibc3
 #EXTINF:0,WKND 1480
