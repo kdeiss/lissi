@@ -29,6 +29,8 @@ https://stream.89.0rtl.de/flashback/mp3-128/radiode/
 https://live.stream.charivari.de/955charivari-maedelsabend?aggregator=radiode
 #EXTINF:0,Sonshine
 https://stream2.cnmns.net/sfm
+#EXTINF:0,AAFM
+http://stream.aafm.nl:8000/aafm.m3u
 #EXTINF:0,AEROSTEREO
 https://panel.aerostereo.com/listen/aerostereo/radio.mp3
 #EXTINF:0,allonefm
@@ -43,18 +45,12 @@ http://stream.zeno.fm/ewuo8mhb9zyvv
 https://stream.lokalradio.nrw/4456xbc
 #EXTINF:0,Antenne AC - Dein 2000er Radio
 https://stream.antenneac.de/4456whk
-#EXTINF:0,Antenne Düsseldorf - Dein 2000er Radio
-https://stream.antenneduesseldorf.de/4456vtx
 #EXTINF:0,Antenne Niederrhein - Dein 2000er Radio
 https://stream.antenneniederrhein.de/4456wqs
 #EXTINF:0,ANTENNE THÜRINGEN
-https://frontend.streamonkey.net/antthue-mitte?aggregator=radiode
+https://frontend.streamonkey.net/antthue-mitte/stream/aacp?aggregator=radiode
 #EXTINF:0,Antenne Unna - Dein 2000er Radio
 https://stream.lokalradio.nrw/4456xwx
-#EXTINF:0,ASERIEVISCOM
-https://capitallive.radioca.st/;
-#EXTINF:0,BDR POLSKA
-https://bdr-polska.stream.laut.fm/bdr-polska
 #EXTINF:0,Beat 98 Radio
 https://stream.zeno.fm/c8gzhyziv8xvv
 #EXTINF:0,Berry FM
@@ -69,8 +65,6 @@ https://stream.mediasector.es/radio/8030/bikinifm-valencia.mp3
 https://stream.mediasector.es/radio/8030/bikinifm.mp3
 #EXTINF:0,Bikini FM Murcia
 https://stream.mediasector.es/radio/8030/bikinifm.mp3
-#EXTINF:0,Bikini FM Torrevieja y Vega Baja
-https://stream.mediasector.es/radio/8030/bikinifm-torrevieja.mp3
 #EXTINF:0,Boomerang 00's
 https://drive.uber.radio/uber/boomerang2000s/icecast.audio
 #EXTINF:0,BPM MANTES
@@ -83,12 +77,8 @@ https://stream20.usastreams.com/8112/stream
 https://cevenone.ice.infomaniak.ch/cevenone-128.mp3
 #EXTINF:0,Central Radio
 https://stream.central.radio/listen/web/high
-#EXTINF:0,Grand Falls' BOUNCE 93
-https://playerservices.streamtheworld.com/api/livestream-redirect/CIKXFM.mp3
 #EXTINF:0,CITYSOUNDZ R&B
 http://s10.citrus3.com:8374/stream
-#EXTINF:0,Classic Hits 104.7
-https://ice41.securenetsystems.net/WITGLP
 #EXTINF:0,Classic Hits WBLE
 http://stream.radiojar.com/rwaectdpd5uvv
 #EXTINF:0,Cocktail Music Mix Radio
@@ -119,6 +109,8 @@ https://wr.lmn.fm/vr-wr13.aac?aw_0_1st.playerid=lgrdnwsDeezer
 https://stream.zeno.fm/yq1ne9m9zritv
 #EXTINF:0,2000er
 https://channels.fluxfm.de/2000er/radiode/stream.aac
+#EXTINF:0,FMM Radio
+https://media.fmmradio.com/listen/todays_hits/radio.mp3
 #EXTINF:0,Forever FM
 https://ec5.yesstreaming.net:2305/stream
 #EXTINF:0,FOREVER la radio
@@ -209,8 +201,6 @@ https://stream.laut.fm/radiorrs?ref=radiode
 https://stream.laut.fm/schooeni?ref=radiode
 #EXTINF:0,Sechsperten Radio
 https://stream.laut.fm/sechsperten-radio?ref=radiode
-#EXTINF:0,Lion FM
-http://stream.zeno.fm/f95xc78ah0hvv
 #EXTINF:0,Radio Lippewelle Hamm - Dein 2000er Radio
 https://stream.lokalradio.nrw/4456x23
 #EXTINF:0,LN Radio 2000
@@ -407,6 +397,8 @@ https://stream.sistemaultra.com.ar:18050/stream/1/
 https://stream-150.zeno.fm/jyskr94xdg7vv
 #EXTINF:0,Sportify - 00's Throwbacks
 https://drive.uber.radio/uber/sportifythrowbacks00s/icecast.audio
+#EXTINF:0,STTOPFM
+https://paineldj.com.br:20152/stream
 #EXTINF:0,Sunshine fl Maat
 https://stream-150.zeno.fm/6fv9gscnsv8uv
 #EXTINF:0,Sunshine-radio.eu
