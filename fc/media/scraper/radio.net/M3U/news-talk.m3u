@@ -119,8 +119,6 @@ https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.m
 https://libertaddigital-radio-live3.flumotion.com/libertaddigital/ld-live3-low.mp3
 #EXTINF:0,Estacion del Siglo
 https://streamall.alsolnet.com/estaciondelsigloaudio
-#EXTINF:0,Estación Sur
-http://88.198.9.174:8196/live
 #EXTINF:0,Ràdio Estel 106.6 FM
 https://srv6021.dns-lcinternet.com:10244/stream
 #EXTINF:0,Estéreo G La Grande
@@ -425,8 +423,6 @@ http://stream-43.zeno.fm/d4q842qbd2zuv?zs=Stik-xOcQ-Sc95D4w-ihPQ
 http://server8.20comunicacion.com:8200/;
 #EXTINF:0,Intuicion Radio
 http://icecasthd.net:8425/live
-#EXTINF:0,Íris FM
-http://centova.radio.com.pt:8529/stream/1/
 #EXTINF:0,Isekai Anime Radio
 https://cast.isekaianimeradio.net/radio/8000/radio.mp3
 #EXTINF:0,Isle of Wight Radio
@@ -537,8 +533,6 @@ https://nis.stream.publicradio.org/nis.mp3
 http://tektite.streamguys1.com:5340/live
 #EXTINF:0,KBSQ Boise State Public Radio 90.7 FM
 https://boisestate.streamguys1.com/Music1-aac-128k-icy?uuid=2lhdtt6n
-#EXTINF:0,KBSS - Boise State Public Radio Jazz 91.1 FM
-http://66.193.105.58:8000/stream
 #EXTINF:0,KBSX - Boise State Public Radio 91.5 FM
 https://boisestate.streamguys1.com/News1-aac-96k-icy?
 #EXTINF:0,KBUF
@@ -629,14 +623,12 @@ https://ice23.securenetsystems.net/KEND?playSessionID=0A45078A-A100-844D-2164D11
 http://66.135.55.19:8170/;
 #EXTINF:0,Kera 90.1
 https://kera-ice.streamguys1.com/keralive
-#EXTINF:0,KESJ - ESPN St. Joseph 1550 AM
-http://stream.abacast.net/direct/eagleradio-kesjammp3-ibc4
 #EXTINF:0,KESQ La Poderosa 96.7
 https://ice5.securenetsystems.net/KUNA
 #EXTINF:0,KETR 88.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KETRFM.mp3
 #EXTINF:0,KEYE 93-7 MY FM
-https://ice5.securenetsystems.net:80/KEYEAM
+http://ice5.securenetsystems.net:80/KEYEAM
 #EXTINF:0,Key Radio KEYK
 https://s3.radio.co/s8062c8ff1/listen
 #EXTINF:0,KFAI - Fresh Air Radio 90.3 FM
@@ -729,8 +721,6 @@ https://stream.revma.ihrhls.com/zc377/hls.m3u8
 https://khpr-ice.streamguys1.com/khpr2
 #EXTINF:0,KICD - Full Service Radio 1240 AM
 https://live.amperwave.net/manifest/saga-kicdamaac-hlsc1.m3u8
-#EXTINF:0,KICS - ESPN Tri-Cities 1460 AM - 1550 AM
-https://platteradio.streamguys1.com/kxpn-aac
 #EXTINF:0,KID 590 AM
 https://ice24.securenetsystems.net/KIDAM
 #EXTINF:0,KID / KIDG / KIDJ / KWIK Newsradio 590 / 1240 AM & 92.1 / 106.3 FM
@@ -1111,6 +1101,8 @@ http://14111.cloudrad.io:9234/live
 http://s3.voscast.com:7204/;stream0.775785576086491.mp3
 #EXTINF:0,KTLR 890 AM
 https://crystalout.surfernetwork.com:8001/KTLR_MP3
+#EXTINF:0,KTNQ - Univision America 1020
+http://stream.abacast.net/direct/univision-ktnqamaac-ibc2
 #EXTINF:0,KTOO News 104.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTOOFMAAC_SC?pname=TDSdk
 #EXTINF:0,KTOX K-Talks 1340 AM
@@ -1435,6 +1427,8 @@ https://icast.connectmedia.hu/4780/live.mp3
 http://stm21.betelhost.com.br:8398/stream/1/
 #EXTINF:0,Mariachi Radio
 https://stream.zeno.fm/1areq0m4enruv
+#EXTINF:0,Marpla Radio
+http://audio.questreaming.com:20034/;
 #EXTINF:0,MARSANARYAS
 https://cast4.asurahosting.com/proxy/marsanaryas/stream
 #EXTINF:0,Maskandi Radio
@@ -1507,6 +1501,8 @@ http://sr2.inmystream.info:8052/stream
 https://monfm.radioca.st/MonFM
 #EXTINF:0,Rádio Montecarlo FM
 https://rrdns-rcr.webnow.com.br/mtecarloc.aac
+#EXTINF:0,MoodFoodRadio.com
+https://s3.radio.co/s68b35c1e5/listen
 #EXTINF:0,Motherland FM NG
 https://s5.citrus3.com:8160/stream
 #EXTINF:0,Mousiko Kanali
@@ -1597,8 +1593,6 @@ https://ais-nzme.streamguys1.com/nz_002_aac
 https://ais-nzme.streamguys1.com/nz_003_aac
 #EXTINF:0,Newstalk ZB Wellington
 https://ais-nzme.streamguys1.com/nz_004_aac
-#EXTINF:0,NFM Radio
-https://uksoutha.streaming.broadcast.radio/nfmradio
 #EXTINF:0,RADIO NGOMA 90.7FM
 https://node-29.zeno.fm/rb5umr1wu38uv?rj-ttl=5&rj-tok=AAABft-2JDEACrw6PzhQ41Dbvg
 #EXTINF:0,NHK Radio 1
@@ -1999,8 +1993,6 @@ https://radio.yoemito.net:8034/stream
 https://radio.yoemito.net:8004/stream
 #EXTINF:0,Radio Centro y El Fonógrafo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC
-#EXTINF:0,Radio Chaco Boreal
-https://rds3.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8
 #EXTINF:0,Rádio Charrua AM
 https://cast.youngtech.radio.br/radio/8780/am
 #EXTINF:0,Radio Chiriqui 106.9 FM
@@ -2091,6 +2083,8 @@ http://stream1.305stream.com:8394/live
 http://c22.radioboss.fm:8100/stream
 #EXTINF:0,Radio Fisherton - CNN 89.5 FM
 http://23.111.184.195:8140/radio.mp3
+#EXTINF:0,Radio FM Oasis 95.7
+http://s1.radiosnethosting.com:9732/;
 #EXTINF:0,Radio Fórmula 103.3 FM
 https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
 #EXTINF:0,Radio Fórmula 104.1 FM
@@ -2463,6 +2457,8 @@ https://radiotokpa.info/liveradio
 https://solid55.streamupsolutions.com/proxy/ddujbxhv?mp=%2Fstream2
 #EXTINF:0,Radio Tradición 1580 AM
 https://server.laradio.online/proxy/francisco_ballesta?mp=%2Fstream
+#EXTINF:0,Rádio Tropical 830 AM
+https://ssl.xcast.com.br:9810/stream/1/stream/1/
 #EXTINF:0,Radio Tropical Inter
 https://stream-59.zeno.fm/n4eah9sf5heuv?zs=IPHoCxUnSaGeAUJ28GxnDA
 #EXTINF:0,Radio Tua
@@ -2925,6 +2921,8 @@ https://radiostream.pl/tuba10-1.mp3
 https://s48.radiolize.com/radio/8100/radio.mp3
 #EXTINF:0,Radio Tordera 107.1 FM
 https://enacast.com/radiotordera/streams/HD
+#EXTINF:0,TransAfricaRadio
+http://iceant.antfarm.co.za:8000/TransAfricaRadio
 #EXTINF:0,Radio 7
 http://api.play.cz/radio/radio7-128.mp3.m3u
 #EXTINF:0,Trión 90.1 FM
@@ -2947,12 +2945,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC.aac
 https://www.tsn.ca/radio/ottawa-1200
 #EXTINF:0,CKGM TSN 690 Montreal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
+#EXTINF:0,Tsukure Radio
+https://media.streambrothers.com:8244/stream
 #EXTINF:0,Rádio Tucano 91.5 FM
 http://centova13.ciclanohost.com.br:8056/stream
 #EXTINF:0,TUDN 1200 AM
 https://tu.streamguys1.com/tudnradio/playlist.m3u8
-#EXTINF:0,Ouvir a Rádio Tupi 104.1 FM
-https://stm5.voxhd.com.br:7386/stream
 #EXTINF:0,TWR - UK
 https://icy-e-03-boh.sharp-stream.com/twruk.mp3
 #EXTINF:0,Tyresö Radion 91,4
@@ -3043,6 +3041,8 @@ https://ice42.securenetsystems.net/VOXFM
 http://vpr.streamguys.net/vpr96.mp3
 #EXTINF:0,WA12 Community Radio
 https://communityradio.stream.laut.fm/communityradio
+#EXTINF:0,WA2XPA - WAPA Radio 680 AM
+http://unoredradio.com:9658/;stream.mp3
 #EXTINF:0,WAAM - Talk 1600 AM
 https://ic2.sslstream.com/waam-am
 #EXTINF:0,WAAV 980 The Wave
@@ -3597,8 +3597,6 @@ https://ais-sa3.cdnstream1.com/2641_64.aac
 https://ice24.securenetsystems.net/WPIN
 #EXTINF:0,WKJB 710 AM
 https://stream.eleden.com:8280/wkjb.mp3
-#EXTINF:0,WKJG - ESPN 1380 AM
-http://52.91.189.53/espn-networkmp3-48
 #EXTINF:0,WKMI - Talk Radio 1360 AM
 http://stream.abacast.net/direct/townsquare-wkmiamaac-ibc3
 #EXTINF:0,WKND 1480
@@ -4283,5 +4281,3 @@ https://stream.zeno.fm/sa7v036wpqzuv
 http://streaming.promomedios.com:8006/;
 #EXTINF:0,The Zone Sports Radio
 https://streamdb7web.securenetsystems.net/v5/ZONE1150
-#EXTINF:0,ZSPORTS3.COM
-https://ic1.sslstream.com/zsportslive?

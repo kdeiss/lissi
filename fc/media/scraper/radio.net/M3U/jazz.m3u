@@ -173,16 +173,12 @@ https://cast1.my-control-panel.com/proxy/bakizrwet/stream
 https://atlantisfm.radionetz.de/atlantisfm.mp3
 #EXTINF:0,AUKRADIO
 https://streaming.broadcastradio.com:8785/aukradio2
-#EXTINF:0,Auroville radio
-http://aurovilleradio.org:8000/av-radio-128.mp3
 #EXTINF:0,Auto Pilot Radio Station
 https://listen.radionomy.com/autopilotradiostation.m3u
 #EXTINF:0,En la Ruta LR
 http://node-01.zeno.fm/y9nn7kysfy8uv?zs=2k0Xmg6xTpa39lJQU5doqA&rj-ttl=3&rj-tok=AAABgT2I4gMAkKOWhY4jgUGLgQ
 #EXTINF:0,AXR Manila
 https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3
-#EXTINF:0,Azimouthio Yachting Radio
-http://s41.myradiostream.com:27586/stream/1/
 #EXTINF:0,babaradio
 https://stream.zeno.fm/v2tmu4q4pf9uv?
 #EXTINF:0,J-Club Bandstand Radio
@@ -343,6 +339,8 @@ http://79.111.14.76:8000/souljazz
 http://79.120.39.202:8000/vocaljazz
 #EXTINF:0,Casa Bertallot
 https://nr7.newradio.it/proxy/abertall?mp=/stream
+#EXTINF:0,Caspian Jazz
+http://caspian.hopto.org:8000/;
 #EXTINF:0,Cáspita Radio Experimental
 https://stream.zeno.fm/x3fy171xt4zuv
 #EXTINF:0,CBFX Ici Musique Montreal 100.7 FM
@@ -680,7 +678,7 @@ https://edge.iono.fm/xice/fmr_live_medium.aac
 #EXTINF:0,FIP
 https://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:0,FIP autour du jazz
-https://direct.fipradio.fr/live/fip-webradio2.mp3?ID=pd569ib97j
+https://icecast.radiofrance.fr/fipjazz-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,FIP Bordeaux
 https://direct.fipradio.fr/live/fipbordeaux-midfi.mp3?ID=pd569ib97j
 #EXTINF:0,FIP Nantes
@@ -907,6 +905,8 @@ https://listen.radionomy.com/jazz-in-bolz
 https://ice3.abradio.cz/jazzinec64.mp3
 #EXTINF:0,JAZZINEC
 http://ice3.abradio.cz/jazzinec128.mp3
+#EXTINF:0,Jazz is Dead
+http://stream.tilos.hu:8000/jazzisdead
 #EXTINF:0,JAZZKULTURA
 https://stream.radio.co/s1136b59f3/listen
 #EXTINF:0,Jazz London Radio
@@ -1865,6 +1865,8 @@ https://radiodoc.ice.infomaniak.ch/radiodoc-128.mp3
 http://178.32.140.82:9577/;
 #EXTINF:0,Rádio Elétrica
 https://servidor26.brlogic.com:8040/live
+#EXTINF:0,Radio en oración
+https://stream.zeno.fm/kadyhliaaawtv
 #EXTINF:0,Radio Esperantia
 https://liveradio.com.es:8062/stream
 #EXTINF:0,RADIO FAUSTEX ORCHESTRES 2
