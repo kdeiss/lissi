@@ -221,8 +221,6 @@ https://ice42.securenetsystems.net/KASN
 https://stream.revma.ihrhls.com/zc4732/hls.m3u8
 #EXTINF:0,France Culture
 https://icecast.radiofrance.fr/franceculture-hifi.aac
-#EXTINF:0,France Inter
-https://icecast.radiofrance.fr/franceinter-midfi.mp3
 #EXTINF:0,FranceMaghreb2
 https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
 #EXTINF:0,Freedom Experience Radio
@@ -383,6 +381,8 @@ http://mexicali.radio.wnsol.com:8340/;
 http://puebla.radio.wnsol.com:8280/;
 #EXTINF:0,Imagen Querétaro 94.7 FM
 http://radio.wnsol.com:8070/;stream.mp3
+#EXTINF:0,Independent Calvary Chapel
+https://az10.yesstreaming.net:8260/radio.mp3
 #EXTINF:0,Independente
 http://r18.ciclano.io:9630/stream
 #EXTINF:0,Indiana Talks
@@ -627,8 +627,6 @@ https://kera-ice.streamguys1.com/keralive
 https://ice5.securenetsystems.net/KUNA
 #EXTINF:0,KETR 88.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KETRFM.mp3
-#EXTINF:0,KEYE 93-7 MY FM
-http://ice5.securenetsystems.net:80/KEYEAM
 #EXTINF:0,Key Radio KEYK
 https://s3.radio.co/s8062c8ff1/listen
 #EXTINF:0,KFAI - Fresh Air Radio 90.3 FM
@@ -1703,6 +1701,8 @@ https://securestream.radioshd.info:7010/stream/1/
 http://omegaradio.primcast.com:4416/stream/1/
 #EXTINF:0,Omroep Castricum
 http://omroepcastricum.ddns.net:8000/96AAC
+#EXTINF:0,Onda Madrid
+https://ondamadrid-1-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF:0,Onda Paz 93.3 FM
 https://srv7021.dns-lcinternet.com/8064/stream
 #EXTINF:0,Onda Punta Radio
@@ -1813,8 +1813,6 @@ https://live.datamatix.at:9030/stream/1/
 https://streams.radiopsr.de/sinnlostelefon/mp3-128/radiode/
 #EXTINF:0,Pudahuel 90.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL.mp3
-#EXTINF:0,Pure Advanced Radio
-https://icecast.livemasjid.com/annoor-relay
 #EXTINF:0,PxR Radio
 https://sonic.cloudstreaming.eu/8058/stream
 #EXTINF:0,Q'hubo Radio 830 AM
@@ -2349,8 +2347,6 @@ http://usa15.ciudaddigital.com.uy:8058/RbcAM
 http://centova.radio.com.pt:8445/stream/1/
 #EXTINF:0,Radio Realite FM 95.1
 https://stream.zeno.fm/rym54euk3qzuv
-#EXTINF:0,Rádio Real News
-https://ssl.xcast.com.br:9770/stream/1/stream/1/
 #EXTINF:0,Radio Redhill
 https://radioredhill.uk/stream/live.mp3
 #EXTINF:0,Radio Reforma
@@ -3157,8 +3153,6 @@ http://wbur-sc.streamguys.com/
 http://wbur-sc.streamguys.com/
 #EXTINF:0,WBUR 90.9 FM
 https://icecast-stream.wbur.org/wbur_www
-#EXTINF:0,WBUZ95
-http://procyon.shoutca.st:8212/stream/1/
 #EXTINF:0,WBVP and WMBA Radio
 https://ice23.securenetsystems.net/WBVP
 #EXTINF:0,WBZ - NewsRadio 1030
