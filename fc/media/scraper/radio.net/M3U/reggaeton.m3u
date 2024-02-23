@@ -29,6 +29,8 @@ https://stream.zeno.fm/898ysrqz24zuv?rj-tok=AAABeKv-8okA6WofApg5Hh91PA&rj-ttl=5
 https://emisorasvirtuales.com.co:9315/live
 #EXTINF:0,Antena3 Bolivia
 http://stream.zeno.fm/cvq6bx2h4nhvv.m3u
+#EXTINF:0,AntenaMix
+http://stm6.xcast.com.br:9830/;stream.nsv
 #EXTINF:0,ANTENNE BAYERN - Sommer Hits
 https://stream.antenne.de/sommer-hits/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Atlantica Soleil
@@ -37,8 +39,6 @@ http://radios.topymedia.com:8054/stream/1/
 http://stream.zeno.fm/6hsf9h3pvs8uv
 #EXTINF:0,Audio Juvenil Cristiano
 http://stream-59.zeno.fm/fgc3v3kwt98uv?zs=gnk62vI7QWKJAb6pvmYtkw
-#EXTINF:0,AUDIORAMA FM STEREO
-https://node-22.zeno.fm/s2ppvwpys5quv.aac
 #EXTINF:0,Musica de Bad Bunny Radio
 http://stream.zeno.fm/rebfuhvwcuhvv
 #EXTINF:0,Bahía Fm
@@ -87,8 +87,6 @@ https://stream.zeno.fm/3wxxxfz0ttbvv
 https://app.radionlin.com/radio/8010/carnaval
 #EXTINF:0,Radio Carolina 99.3
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86/playlist.m3u8
-#EXTINF:0,Radio Casera SV
-https://Whmsonic.playerfullhd.com/8014/stream
 #EXTINF:0,CEUTA FM
 https://streamingv2.shoutcast.com/CEUTAFM
 #EXTINF:0,Chicago Youth Radio
@@ -129,8 +127,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMA
 https://24153.live.streamtheworld.com/DISNEY_URY_MVAAC/HLS/playlist.m3u8
 #EXTINF:0,Dj Alonso Ramírez
 https://stream.zeno.fm/52bpb73aec9uv
-#EXTINF:0,DJ Donny Warrior Man de la Noche
-http://stream-57.zeno.fm/4d66zytw9vzuv?zs=ulYW-crVQ_e3FfBSMhdqpA
 #EXTINF:0,Dj Edwin Radio
 https://stream.zeno.fm/vzkaq8tsvtzuv
 #EXTINF:0,Dj Starman
@@ -173,8 +169,6 @@ https://streamingenmexico.com:7097/stream
 http://stream-64.zeno.fm/4zg94ge23hhvv?zs=n7OydnTBTxGNuWJBH6rh3w
 #EXTINF:0,Extremo 98.5 FM
 https://sp.sintonizapp.com:7006/stream/1/
-#EXTINF:0,Fabulosa 96.7 FM
-https://bostonstreaminge.net/8006/stream
 #EXTINF:0,Fayals Radio
 https://stream-50.zeno.fm/a0gkbhvbam8uv?zs=fTG3HcirTU-WQIVqK-ql5A
 #EXTINF:0,Fiebre Latina Radio 92.2 FM 
@@ -191,10 +185,14 @@ http://s1.radiosnethosting.com:9858/stream/1/
 https://stream.zeno.fm/yrkc3fn52mzuv
 #EXTINF:0,FM Compacto 103.3
 https://server4.hostradios.com/8852/;
+#EXTINF:0,Fm Kitsch
+https://fmkitsch.cl/wp-content/uploads/2020/06/0630.mp4
 #EXTINF:0,Radio FM Latina Chile
 https://app.sonicpanelradio.com/radiofmlatina/stream
 #EXTINF:0,FM OKEY
 http://streaming.fmokey.cl/moviles.aac
+#EXTINF:0,Fr3cuencia OK
+http://streaming.radionomy.com/Fr3cuenciaOK
 #EXTINF:0,Fresh Radio
 https://stream.zenolive.com/gzaf75yevceuv.mp3
 #EXTINF:0,Full Musica
@@ -247,8 +245,6 @@ https://s2.stationplaylist.com:7064/listen2.mp3
 https://stream.zeno.fm/x9ehw4r2qf9uv
 #EXTINF:0,Ke Buena Spain
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA.mp3
-#EXTINF:0,Ke Pop
-https://stream.zeno.fm/dthd9cuvkxquv
 #EXTINF:0,KLLI Cali 93.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC_SC
 #EXTINF:0,Konecta-2
@@ -295,6 +291,8 @@ https://stream20.usastreams.com/8126/stream
 https://streamingv2.shoutcast.com/LapeorRadio
 #EXTINF:0,LaPerronaMX
 https://stream9.mexiserver.com/8098/stream
+#EXTINF:0,Radio La Plena FM
+https://node-11.zeno.fm/fp71ka5uqv8uv?rj-ttl=5&rj-tok=AAABe-4C4FQAzRHpbHWKfrhJQw
 #EXTINF:0,La Poderosa 103
 https://radio.streamingcpanel.com/8030/stream
 #EXTINF:0,La Preferida 98.8 FM
@@ -367,8 +365,6 @@ https://sonicpanel.tmcreativos.com/8056/stream
 http://s5.myradiostream.com:40086/listen.mp3
 #EXTINF:0,Los 40 Principales Argentina
 https://sigma.radioplayer.com.ar/stream/los40
-#EXTINF:0,Los 40 Principales - HIT 101.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE.mp3
 #EXTINF:0,Los 40 Principales Ecuador
 https://streamingecuador.com:7051/stream?dist=los40-web-live_streaming_play
 #EXTINF:0,LOS 40 GUADIX
@@ -421,6 +417,8 @@ https://stream.zeno.fm/m54tfza6wqzuv
 https://stream.radiolive.com.co/listen/musical_radio_digital/radio.mp3
 #EXTINF:0,Music Okey
 https://mpc1.mediacp.eu:8902/stream
+#EXTINF:0,Music Waves Radio
+https://stream.zeno.fm/zc8iso8ekq3uv
 #EXTINF:0,my105 RITMO LATINO
 https://my105-stream14.radiohost.de/my105-ritmolatino_mp3-192
 #EXTINF:0,Nirearo Radio
@@ -463,6 +461,10 @@ https://servidor15-3.brlogic.com:7328/live
 https://stream.zeno.fm/xfgqua4kpxquv
 #EXTINF:0,Perriando-Caliente-Remixs-Non-Stop
 http://player.xcast.com.br/proxy/6990
+#EXTINF:0,PeruTV-Radio
+https://servidor21.brlogic.com:7556/live
+#EXTINF:0,Piruwton Radio
+http://stream-51.zeno.fm/9ppgme10dtzuv?zs=dvERsXgKT7Wrjr3-5ZagXg
 #EXTINF:0,PISTA BRASIL
 https://stream.zeno.fm/r2p66gwv6bhvv
 #EXTINF:0,PlaNeta UrbaNo
@@ -561,8 +563,6 @@ https://rss3.domint.net:8290/stream
 https://streaming12.elitecomunicacion.es:8256/stream
 #EXTINF:0,Radio Máxima CL
 https://stream.zeno.fm/1gqtfbrtp18uv
-#EXTINF:0,Radio Máxima CL (Urbana)
-http://stream-40.zeno.fm/st7u0msu868uv?zs=YaYTAJicQjy06LvjczW5hA
 #EXTINF:0,RADIO MAXIMA STEREO
 https://stream.zeno.fm/1us4tu0y0bdtv
 #EXTINF:0,Radio Max Online
@@ -677,6 +677,8 @@ https://icecast8.play.cz/samsonfm128.mp3
 https://stream.zenolive.com/10gxyp40dnzuv.aac
 #EXTINF:0,SING Party
 https://stream.zeno.fm/mwz0c5wstf9uv
+#EXTINF:0,Sobre Ruedas Radio
+https://stream.zeno.fm/cq777w3k1qzuv
 #EXTINF:0,Sonido Urbano Radio
 http://procyon.shoutca.st:8174/stream
 #EXTINF:0,Lima

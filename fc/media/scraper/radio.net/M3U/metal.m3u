@@ -3,6 +3,8 @@
 https://stream.0nlineradio.com/metal?ref=radiode
 #EXTINF:0,Heavy Metal - 100hitz
 https://pureplay.cdnstream1.com/6015_64.aac/playlist.m3u8
+#EXTINF:0,100hitz - Metal
+http://206.217.213.236:9100/;
 #EXTINF:0,101% ROCK
 https://streamingV2.shoutcast.com/101-ROCK
 #EXTINF:0,113.fm Free Bird
@@ -87,6 +89,8 @@ https://bigrradio.cdnstream1.com/5135_128
 http://n12.radiojar.com/6g9br3qxnv8uv?rj-ttl=4&rj-tok=AAABgT2Eos8A0EelPNotevUv8Q
 #EXTINF:0,BeGoodRadio - 80s Metal
 https://bigrradio.cdnstream1.com/5212_128
+#EXTINF:0,Radio Bellissima Metal
+https://strw3.openstream.co/211
 #EXTINF:0,Metallica | Best of Rock.FM
 https://bestofrockfm.stream.vip/metallica/mp3-128/radiode/
 #EXTINF:0,Nonstop Metal | Best of Rock.FM
@@ -199,8 +203,6 @@ http://79.120.77.11:8000/thrashmetal
 http://79.111.14.76:8000/vikingmetal
 #EXTINF:0,Cathedral 13
 https://usa15.fastcast4u.com/proxy/tstamate?mp=%2Fstream%3Flang%3Den-us
-#EXTINF:0,Canada's Extreme Metal Radio
-https://node-15.zeno.fm/c3m0322nwtzuv?zs=A60VTakJRWCWXjxSSyBilQ&rj-tok=AAABgKUiUxMAkN6XlV1jQXZ2EA&rj-ttl=5
 #EXTINF:0,CFBR The Bear 100.3 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFM.mp3
 #EXTINF:0,CHOM 97.7
@@ -313,8 +315,6 @@ https://stream.zeno.fm/e1ammqewkc9uv
 https://streaming.live365.com/a11381
 #EXTINF:0,Radio Glarissimo
 https://fridolin.ice.infomaniak.ch/fridolin-192.mp3
-#EXTINF:0,Gothic Girl Magazine Radio
-https://stream.zeno.fm/3uhy5my7echvv?
 #EXTINF:0,GotRadio - Metal Madness
 https://pureplay.cdnstream1.com/6014_64.aac/playlist.m3u8
 #EXTINF:0,Greater Manchester Rock Radio
@@ -361,6 +361,8 @@ https://s9.voscast.com:9423/live
 https://radio.streemlion.com:3620/stream
 #EXTINF:0,jack house radio
 http://stream.zeno.fm/5966xykba48uv
+#EXTINF:0,Jake Radio
+http://camera.jakebriggs.com/jakemusic
 #EXTINF:0,K4CO Radio
 https://stream.radio.co/s496aa7b73/listen
 #EXTINF:0,KCOS Digital
@@ -405,14 +407,14 @@ https://stream.laut.fm/area-obscura?ref=radiode
 https://stream.laut.fm/beastybasti?ref=radiode
 #EXTINF:0,bergwerk-echo
 https://stream.laut.fm/bergwerk-echo?ref=radiode
+#EXTINF:0,bizarre-radio
+https://stream.laut.fm/bizarre-radio?ref=radiode
 #EXTINF:0,Black 666 Guitar
 https://stream.laut.fm/black666-guitar?ref=radiode
 #EXTINF:0,Boarischguad Metal
 https://stream.laut.fm/boarischguad_metal?ref=radiode
 #EXTINF:0,Boehse Fuers Leben
 https://stream.laut.fm/boehse_fuers_leben?ref=radiode
-#EXTINF:0,born79
-https://stream.laut.fm/born79?ref=radiode
 #EXTINF:0,Broken Buddies
 https://stream.laut.fm/broken_buddies?ref=radiode
 #EXTINF:0,Brunswiek FM
@@ -449,8 +451,12 @@ https://stream.laut.fm/dark-metal-radio?ref=radiode
 https://stream.laut.fm/darkmuzic?ref=radiode
 #EXTINF:0,Darkrave Radio
 https://stream.laut.fm/darkrave_radio?ref=radiode
+#EXTINF:0,DARK TEMPTATION RADIO
+https://stream.laut.fm/dark-temptation-radio?ref=radiode
 #EXTINF:0,Dark Wave Sounds
 https://stream.laut.fm/darkwave-sounds?ref=radiode
+#EXTINF:0,Demians_Abyss
+https://stream.laut.fm/demians_abyss?ref=radiode
 #EXTINF:0,diabolicmetalbox
 https://stream.laut.fm/diabolicmetalbox?ref=radiode
 #EXTINF:0,dj666geordieblackcore
@@ -537,8 +543,6 @@ https://stream.laut.fm/metalearth?ref=radiode
 https://stream.laut.fm/metal-fm-com?ref=radiode
 #EXTINF:0,metalgeneration
 https://stream.laut.fm/metalgeneration?ref=radiode
-#EXTINF:0,metal-hammer
-https://stream.laut.fm/metal-hammer?ref=radiode
 #EXTINF:0,Metalhead
 https://stream.laut.fm/metalhead?ref=radiode
 #EXTINF:0,Metalheads
@@ -563,8 +567,6 @@ https://stream.laut.fm/metalrules?ref=radiode
 https://stream.laut.fm/metalstation?ref=radiode
 #EXTINF:0,Metal Thunder
 https://stream.laut.fm/metal-thunder?ref=radiode
-#EXTINF:0,metaltime
-https://stream.laut.fm/metaltime?ref=radiode
 #EXTINF:0,Metal TV Radio
 https://stream.laut.fm/metaltvradio?ref=radiode
 #EXTINF:0,metal-up-your-ass
@@ -583,6 +585,8 @@ https://stream.laut.fm/modernrock?ref=radiode
 https://stream.laut.fm/motorbreath?ref=radiode
 #EXTINF:0,Multispektralradio
 https://stream.laut.fm/multispektralradio?ref=radiode
+#EXTINF:0,Music-is-my-life
+https://stream.laut.fm/music-is-my-life?ref=radiode
 #EXTINF:0,musiksender-reckenfeld
 https://stream.laut.fm/musiksender-reckenfeld?ref=radiode
 #EXTINF:0,nachtfalter
@@ -619,12 +623,12 @@ https://stream.laut.fm/pit-mosh?ref=radiode
 https://stream.laut.fm/pommesbude?ref=radiode
 #EXTINF:0,Power Plant Radio
 https://stream.laut.fm/powerplantradio?ref=radiode
+#EXTINF:0,Prog Alley
+https://stream.laut.fm/progalley?ref=radiode
 #EXTINF:0,promofabrik-radio
 https://stream.laut.fm/promofabrik-radio?ref=radiode
 #EXTINF:0,punk4all
 https://stream.laut.fm/punk4all?ref=radiode
-#EXTINF:0,Radicals FM
-https://stream.laut.fm/radicals-fm?ref=radiode
 #EXTINF:0,radioeuro
 https://stream.laut.fm/radioeuro?ref=radiode
 #EXTINF:0,radio-m
@@ -633,8 +637,6 @@ https://stream.laut.fm/radio-m?ref=radiode
 https://stream.laut.fm/radiometal?ref=radiode
 #EXTINF:0,radio-metalkultur
 https://stream.laut.fm/radio-metalkultur?ref=radiode
-#EXTINF:0,RadioOfDevils
-https://stream.laut.fm/radioofdevils?ref=radiode
 #EXTINF:0,radio-ozwald
 https://stream.laut.fm/radio-ozwald?ref=radiode
 #EXTINF:0,radio-schwarzeseele
@@ -705,8 +707,6 @@ https://stream.laut.fm/sound_eff-3kt-_-mix?ref=radiode
 https://stream.laut.fm/sprengiesworldfm?ref=radiode
 #EXTINF:0,Steelfactory
 https://stream.laut.fm/steelfactory?ref=radiode
-#EXTINF:0,STOCKSEN
-https://stream.laut.fm/stocksen?ref=radiode
 #EXTINF:0,streetfighter
 https://stream.laut.fm/streetfighter?ref=radiode
 #EXTINF:0,telecaster
@@ -727,8 +727,6 @@ https://stream.laut.fm/untot?ref=radiode
 https://stream.laut.fm/up_the_irons?ref=radiode
 #EXTINF:0,vier
 https://stream.laut.fm/vier?ref=radiode
-#EXTINF:0,wacken
-https://stream.laut.fm/wacken?ref=radiode
 #EXTINF:0,wgm
 https://stream.laut.fm/wgm?ref=radiode
 #EXTINF:0,Wild Phil
@@ -777,6 +775,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC275_SC
 https://ice6.somafm.com/metal-128-mp3
 #EXTINF:0,Metal Devastation Radio
 https://c13.radioboss.fm/stream/99
+#EXTINF:0,Metal Express Radio
+https://s39.myradiostream.com/:11590/;?
 #EXTINF:0,MetalFlames Radio
 https://stream.zeno.fm/rb354pruvs8uv
 #EXTINF:0,METAL FM
@@ -825,8 +825,6 @@ https://quincy.torontocast.com:1505/stream
 https://neos.win:48282/stream
 #EXTINF:0,Metaradio
 https://s2.metaradio.ru/mradio.ranet
-#EXTINF:0,Midnight Madness Metal e-radio
-http://midnight-madness.eradioweb.com:8000/live
 #EXTINF:0,MIX ROCK METAL RADIO
 http://s3.myradiostream.com:4202/stream/1/
 #EXTINF:0,Moose Jaw's Rock Station, The Buzz
@@ -847,8 +845,6 @@ https://radio.myhitmusic.de/Jeff-Rocks-aac.mp3
 https://server26265.streamplus.de/stream/1/
 #EXTINF:0,Radio No Rest
 http://server7.streamserver24.com:31504/stream/1/
-#EXTINF:0,Northern Metal Radio
-https://dc5.serverse.com/proxy/lvzgnvcj/stream
 #EXTINF:0,No Todo Es Perfecto
 http://streaming01.shockmedia.com.ar:8960/stream
 #EXTINF:0,NRJ METAL
@@ -937,6 +933,8 @@ https://streams.radiobob.de/deathmetal/mp3-192/radiode/
 https://streams.radiobob.de/bob-hardrock/mp3-128/radiode/
 #EXTINF:0,RADIO BOB! BOBs Harte Saite
 https://streams.radiobob.de/bob-hartesaite/aac-64/radiode/
+#EXTINF:0,RADIO BOB! BOBs Metal
+https://streams.radiobob.de/bob-metal/mp3-128/radiode/
 #EXTINF:0,RADIO BOB! BOBs Metalcore
 https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267
 #EXTINF:0,RADIO BOB! Metallica
@@ -1013,6 +1011,8 @@ https://streamingp.shoutcast.com/JamendoLounge
 https://stream.laut.fm/rddradio?ref=radiode
 #EXTINF:0,Real Rebel Radio
 https://halo.streamerr.co/listen/real_rebel_radio/radio.mp3
+#EXTINF:0,REGENBOGEN 2 Guns N' Roses
+https://stream.regenbogen2.de/gunsnroses/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Metal
 https://stream.regenbogen2.de/metal/mp3-128/radiode
 #EXTINF:0,REGENBOGEN 2 Metallica
@@ -1077,6 +1077,8 @@ https://listen.rocknowradio.ro
 http://109.169.23.124:10837/stream
 #EXTINF:0,Rock On - Online Radio Panamá
 https://stream.zeno.fm/55vpetz081zuv
+#EXTINF:0,Rock On The Rise Radio
+http://199.180.75.2:9383/;
 #EXTINF:0,Rock radio
 https://cast2.my-control-panel.com/proxy/vladas/stream
 #EXTINF:0,Rock Radio Online Mexico
@@ -1109,8 +1111,6 @@ https://listen.rustradio.co.uk:8443/stream
 http://stream.zeno.fm/xg7m7t61x1zuv
 #EXTINF:0,Sanctuary of Rock
 http://sor.digistream.info:10206/;
-#EXTINF:0,Savage Radio
-https://streaming.live365.com/a68405
 #EXTINF:0,SAVAGE RADIO - The Rock N Roll Animal
 https://edge1-b.exa.live365.net/a68405
 #EXTINF:0,Radio Schattenwelt
@@ -1131,6 +1131,8 @@ https://stream-55.zeno.fm/1q7md65ubseuv?zs=II8R50IcQeaxma4kqm8PCQ
 https://stream.zenolive.com/1q7md65ubseuv
 #EXTINF:0,Sportify - Metal Workout
 https://drive.uber.radio/uber/sportifymetal/icecast.audio
+#EXTINF:0,Stahlradio
+https://saurus.streampanel.cloud:5280/stream
 #EXTINF:0,STAR FM Festival Radio
 https://stream.starfm.de/festival/mp3-192/radiode
 #EXTINF:0,STAR FM Hard Rock
