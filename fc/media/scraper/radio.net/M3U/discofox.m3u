@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:0,0nlineradio SCHLAGER
 https://stream.0nlineradio.com/schlager?ref=radiode
-#EXTINF:0,100% Discofox von Schlagerplanet Radio
-https://streams.schlagerplanetradio.com/discofox/mp3-192/radiode/
 #EXTINF:0,1A Party
 https://1a-party.radionetz.de/1a-party.mp3
-#EXTINF:0,1A Partyhits
-https://stream.1a-webradio.de/saw-party/mp3-128/radiode-1A/stream.mp3
 #EXTINF:0,1A Partyschlager
 https://stream.1a-webradio.de/saw-partyschlager/mp3-128/radiode
 #EXTINF:0,1A Schlager
@@ -249,6 +245,8 @@ https://stream.laut.fm/radio-l?ref=radiode
 https://stream.laut.fm/radiomusikmomente?ref=radiode
 #EXTINF:0,radio-musikmomente1
 https://stream.laut.fm/radio-musikmomente1?ref=radiode
+#EXTINF:0,Radio Pader Melodie 
+https://stream.laut.fm/radio-pader-melodie?radiode
 #EXTINF:0,radiopartywelle
 https://stream.laut.fm/radiopartywelle?ref=radiode
 #EXTINF:0,Radio Plettenberg
@@ -365,6 +363,8 @@ http://85.215.43.3:8000/stream
 https://stream2-alfacast-hosting.com/8110/;
 #EXTINF:0,Radio Fox4You
 http://85.25.217.22:8100/;
+#EXTINF:0,Radiofoxgarden
+https://www.radiofoxgarden.de/listen.pls
 #EXTINF:0,Radio Funky Town
 http://stream04.stream-webradiotechnik.de:18800/listen1
 #EXTINF:0,Radio La Luna

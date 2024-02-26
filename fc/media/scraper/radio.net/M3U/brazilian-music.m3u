@@ -17,6 +17,8 @@ https://liverd92fm.rbsdirect.com.br/primary/92fm.sdp/playlist.m3u8
 https://ssl1.transmissaodigital.com:2490/stream/;
 #EXTINF:0,94 FM - Rádio Cidade
 http://cast61.sitehosting.com.br:8510/live
+#EXTINF:0,Agreste FM
+http://hts01.kshost.com.br:8464/live
 #EXTINF:0,Alternativa FM 98.5
 https://player.xcast.com.br/proxy/8876
 #EXTINF:0,América Pop Club
@@ -137,8 +139,6 @@ http://svrstream2.svreua.com:8402/stream/1/
 https://s28.maxcast.com.br:8060/live
 #EXTINF:0,Forquilha FM
 https://player.srvaudio.com.br/player-ssl/9666/stream/1/
-#EXTINF:0,ForroWeb.com
-https://paineldj.com.br:20120/stream
 #EXTINF:0,FUBU BRAZIL
 http://stream.zeno.fm/1c8aeyfhsieuv
 #EXTINF:0,Gazeta FM Arapiraca
@@ -177,6 +177,8 @@ http://wz1.dnip.com.br/jacobinafm/jacobinafm.stream/playlist.m3u8
 https://stream.zeno.fm/3ar8d8k162quv
 #EXTINF:0,Jornal FM 96.5
 https://s41.maxcast.com.br:8158/live?id=1573576356198
+#EXTINF:0,Jornalistas de Brasília
+http://stm3.xcast.com.br:6810/stream/1/
 #EXTINF:0,JOVEM CAPOEIRAS FM 104.9
 https://player.xcast.com.br/proxy/13040
 #EXTINF:0,Jovem FM Palmas 104.7
@@ -185,8 +187,6 @@ http://wz3.dnip.com.br/aycomau1/aycomau1.stream/playlist.m3u8
 https://cc6.streammaximum.com/proxy/stream1243/stream
 #EXTINF:0,Jovem Pan FM João Pessoa
 https://servidor17.brlogic.com:8262/live
-#EXTINF:0,Kairós 88.9 FM
-http://stm8.srvaudio.com.br:10208/stream/1/
 #EXTINF:0,Kboing FM Sao Jose do Rio Preto
 https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:0,K L Radio - IN THE MIX
@@ -273,8 +273,6 @@ https://server6.hostradios.com/8246/stream
 https://stream.zeno.fm/wavv4kvvz68uv
 #EXTINF:0,Rádio 103 FM Itaperuna
 https://r13.ciclano.io:15077/stream
-#EXTINF:0,Rádio 103 FM Sāo Miguel do Oeste
-https://streaming.voxsis.com.br/radio/8070/103fm.mp3
 #EXTINF:0,Rádio 104 FM Goioerê
 https://8727.omegastreaming.com.br/stream
 #EXTINF:0,Rádio 1News
@@ -463,6 +461,8 @@ https://jvcs2dtro0.zoeweb.tv/fm93/stream/playlist.m3u8
 http://midia.princesafm.infonet.com.br:1941/live/princesafm/playlist.m3u8
 #EXTINF:0,Radio Formosa FM
 https://servidor37-5.brlogic.com:8056/live
+#EXTINF:0,Radio Fortmax
+http://srv1.stmip.com:7048/;
 #EXTINF:0,Rádio Gazeta 93.3 FM
 http://centova5.acresites.com.br:8101/stream?type=mp3
 #EXTINF:0,Radio Gazeta Online
@@ -589,6 +589,8 @@ https://slrp.sambavideos.sambatech.com/radio/pajucara4_7fbed8aac5d5d915877e6ec61
 http://centova.svdns.com.br:25270/stream/1/
 #EXTINF:0,Radio Palavra de Fe
 https://stm20.xcast.com.br:8334/;stream.nsv
+#EXTINF:0,Rádio Panorâmica FM 97.3
+http://live.panoramica.fm.br:10002/live
 #EXTINF:0,Rádio Paraná Clube
 https://livecasthd.com.br/play.php?porta=27892
 #EXTINF:0,Radio Pentecostes
@@ -605,8 +607,6 @@ http://server03.stmsg.com.br:6678/stream
 https://live.stream.primavera24.de/primavera24-radioprimavera
 #EXTINF:0,Radio Putzgrila
 http://stream04.ouveai.com.br:5041/live
-#EXTINF:0,Radio Queluz 99.5 FM
-https://s09.w3bserver.com/radio/8020/radio.mp3
 #EXTINF:0,Rádio Quissamã FM 87.9
 http://sceua.softhost.com.br:8026/stream/1/
 #EXTINF:0,Radio Quixelô FM 104.9
@@ -679,8 +679,6 @@ http://186.193.32.62:8911/listen.mp3;
 https://player.painel-stm.com/proxy/6760
 #EXTINF:0,Radio Ubaense
 https://servidor38-4.brlogic.com:8202/live
-#EXTINF:0,Rádio União 99.9 FM
-https://stream.ouveai.com.br/proxy/uniaopelo?mp=%2Fstream
 #EXTINF:0,Rádio UNIDEV FM
 https://servidor17.brlogic.com:7618/live
 #EXTINF:0,Rádio Unirb
@@ -767,8 +765,12 @@ http://stream.radiojar.com/gtu4mhk0ga5tv
 https://8038.brasilstream.com.br/stream
 #EXTINF:0,SupeR HitS
 http://stm8.xcast.com.br:7068/stream
+#EXTINF:0,Super Radiopatos
+http://10.stmip.net:8794/;stream/1
 #EXTINF:0,Super Rádio Mandu
 https://stream.zeno.fm/vpztxt2qbrzuv
+#EXTINF:0,Terra FM 87,9 Formosa
+https://livecasthd.com.br/play.php?porta=28376
 #EXTINF:0,Terra FM 94.7 FM
 https://ice.fabricahost.com.br/terrafm94
 #EXTINF:0,Terra HD 95.3
@@ -805,8 +807,6 @@ https://centova.svdns.com.br:20018/stream
 https://stream.zenolive.com/v4u806dyr0quv
 #EXTINF:0,Web Radio Amiga
 http://stm1.streaminghd.net.br:8818/stream/1/
-#EXTINF:0,Web Radio Cafe Com Noticia
-https://stm4.voxhd.com.br:8886/stream
 #EXTINF:0,Web Rádio Nic Hits
 https://stm.roxcast.com.br:6714/stream
 #EXTINF:0,Web Radio Nova Alianca

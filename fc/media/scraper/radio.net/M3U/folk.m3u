@@ -55,6 +55,8 @@ https://azuracast.spollin.net:8010/radio.mp3
 https://cast1.torontocast.com:4355/stream
 #EXTINF:0,Country Radio
 https://a5.asurahosting.com:6670/radio.mp3
+#EXTINF:0,Dansbandsfavoriter
+https://wr15-ice.stream.khz.se/wr15_mp3
 #EXTINF:0,Daz In The Hat Radio
 https://stream1.hippynet.co.uk/stream/dazinthehatcom/stream
 #EXTINF:0,De Beste Piratenhits
@@ -73,8 +75,6 @@ https://ascl.denial.cl:2020/stream/8006
 https://whmsonic.playerfullhd.com/8098/stream
 #EXTINF:0,FluxFM
 https://streams.fluxfm.de/live/mp3-320/radiode/play.m3u
-#EXTINF:0,FM Trujui 90.1 FM
-https://masstreaming.online/8376/stream
 #EXTINF:0,Folk Radio Kneginec
 http://node-29.zeno.fm/yetzdv442k8uv?zs=7-nVKIgjQ_SNvSxTajF91g&rj-tok=AAABgT1-Q00AMQ8NS9Cz3NMqhQ&rj-ttl=5
 #EXTINF:0,Folks Radio
@@ -209,8 +209,6 @@ https://streams.radiobob.de/folkrock/mp3-192/radiode/
 http://corporacionlatina.com:8000/stream/1/
 #EXTINF:0,Radio Caramelo Angol
 https://sonando-us.digitalproserver.com/caramelo_angol.mp3
-#EXTINF:0,Radio Caramelo Arauco
-https://sonando-us.digitalproserver.com/caramelo_arauco.mp3
 #EXTINF:0,Radio CK - Chardi Kala
 http://s5.voscast.com:7070/;
 #EXTINF:0,Radio Core de Roma
@@ -223,8 +221,6 @@ http://live.radiodoina.ro:8000/radiodoina.mp3
 https://d3vbm02trh7zmp.cloudfront.net/icecast/rtvdrenthe/radio-dreents
 #EXTINF:0,Radio Exito 1060 AM
 http://67.212.179.138:7200/stream/1
-#EXTINF:0,Radio Expansie
-https://radio-expansie.nl/interessante-websites/
 #EXTINF:0,Radio Flamenca Huelva
 http://antenahuelva.dyndns.org:8000/rflamenca.mp3
 #EXTINF:0,Radio Folclorisimo 1410 AM
@@ -337,6 +333,8 @@ https://eu10.fastcast4u.com:8900/stream/3/
 https://i8.streams.ovh/sc/radiostournareika/stream
 #EXTINF:0,Radio Surace
 https://stream.zeno.fm/xmwpdpyrks8uv
+#EXTINF:0,Radio Trueno
+http://184.154.28.210:8400/stream/1/
 #EXTINF:0,Radio Twentestad
 https://ex52.voordeligstreamen.nl/radiotwentestad/stream
 #EXTINF:0,Radio V
@@ -397,6 +395,8 @@ https://www.radioking.com/play/svoboda-fm
 http://stream.zeno.fm/u4cgmt6pq0hvv
 #EXTINF:0,SAMANDAĞ TEMPO RADYO
 https://sslyayin.netyayin.net/tempo/stream
+#EXTINF:0,The Jukebox Graduate
+https://streaming.live365.com/a45215
 #EXTINF:0,The SBBRadio Network
 http://s7.voscast.com:10664/;stream1546946507806/1
 #EXTINF:0,The WOLF - Deutschland Country Radio für das Alte Land
@@ -445,8 +445,6 @@ http://luister.vinylteam.nl:8010/stream
 https://ice66.securenetsystems.net/WBFY
 #EXTINF:0,WRPO - Web Rádio Portugal Online
 https://sp0.redeaudio.com/9838/stream
-#EXTINF:0,WTVK 99.2 Big Country
-http://173.249.21.17:8072/;
 #EXTINF:0,WUMT 91.7 / WUMB
 http://wumb.streamguys1.com/wumb919
 #EXTINF:0,WVWB 105.1 The Wolf

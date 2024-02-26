@@ -25,6 +25,8 @@ https://streams.schlagerplanetradio.com/deutsch/mp3-192/radiode/
 https://pub0301.101.ru:8443/stream/pro/aac/64/26
 #EXTINF:0,101.ru: Instrumental
 https://pub0301.101.ru:8443/stream/pro/aac/64/28
+#EXTINF:0,101 Smooth Jazz
+https://101smoothjazz.cdnstream1.com/b22139_128mp3
 #EXTINF:0,101 Smooth Jazz Mellow Mix
 https://streaming.live365.com/b48071_128mp3
 #EXTINF:0,104.6 RTL Acoustic Hits
@@ -55,12 +57,16 @@ https://strm112.1.fm/spa_mobile_mp3
 https://live365.com/station/24-7-The-Sail-a25504
 #EXTINF:0,2CCC - Coast 96.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKNLFMAAC.aac
+#EXTINF:0,2NUR - University of Newcastle 103.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3
 #EXTINF:0,2SEA Community Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/2SEA_EDEN.mp3
 #EXTINF:0,360 Brain Radio
 http://streaming.radionomy.com/360BrainMusic
 #EXTINF:0,3GCR Gippsland 104.7 FM
 https://21423.live.streamtheworld.com/3GCRAAC.aac
+#EXTINF:0,432Hz Radio 
+https://stream.zeno.fm/er3nkny6fd0uv
 #EXTINF:0,4BRZ Breeze FM 100.6
 https://s8.yesstreaming.net:17065/BrzGC
 #EXTINF:0,4CRB 89.3 FM
@@ -81,8 +87,6 @@ http://radio.canstream.co.uk:8031/live.mp3
 https://listen.radionomy.com/999.m3u
 #EXTINF:0,ABC Lounge
 https://listen.openstream.co/3139/audio
-#EXTINF:0,ABF Love
-https://abf.net-radio.fr/abflove.mp3
 #EXTINF:0,AfterPM
 https://afterpm.eu:8443/afterpm
 #EXTINF:0,Air Lounge Radio
@@ -173,8 +177,6 @@ https://boxstream.danceradiouk.com/stream/1/
 https://ec5.yesstreaming.net:1915/stream
 #EXTINF:0,The Breeze Auckland
 https://digitalstreams.mediaworks.nz/breeze_net/playlist.m3u8
-#EXTINF:0,Breeze Easy
-https://ec5.yesstreaming.net:2805/stream
 #EXTINF:0,The Breeze Waikato 99.4
 https://digitalstreams3.mediaworks.nz/breeze-HAM-high/playlist.m3u8
 #EXTINF:0,Breeze Radio
@@ -211,8 +213,6 @@ https://stream.zeno.fm/9ca113gfgrruv
 https://radio2.vip-radios.fm:18068/stream-128kmp3-CafeSoulside
 #EXTINF:0,Chillofi radio 
 https://chillofi-radio.dez.ovh/fwdstream/
-#EXTINF:0,Chilltrax
-https://streamssl2.chilltrax.com/index.html?sid=1
 #EXTINF:0,CHPQ The Lounge 99.9
 https://stream.jpbgdigital.com/CHPQ/HEAAC/48k/playlist.m3u8
 #EXTINF:0,Costa Hit Radio NL
@@ -367,8 +367,6 @@ https://stream.rcs.revma.com/ffynknv9n98uv
 https://stream.rcs.revma.com/w33p2cfap98uv
 #EXTINF:0,Fm General Paz 96.3
 http://streaming2.locucionar.com:8922/stream
-#EXTINF:0,FM Kortrijk
-http://stream.twinmedia.be:8100/stream/1/
 #EXTINF:0,Radio Fm Lima
 https://stream.zeno.fm/5yk23mppw2hvv.aac
 #EXTINF:0,Fourtyfive
@@ -587,12 +585,12 @@ http://server-51.stream-server.nl:8354/stream/1/
 https://playoutonestreaming.com/proxy/lymm?mp=%2Fstream
 #EXTINF:0,Magic 87.6
 https://syd02.sdn.dhcmedia.com.au/radio/8010/magic876
+#EXTINF:0,Magic of the Mouse Radio
+https://streaming.live365.com/a07079
 #EXTINF:0,Magic of the Mouse Radio - Disney's Best
 https://streaming.live365.com/a07079
 #EXTINF:0,Makradio Radiocafe
 https://makkirus.amgradio.ru/makkirus
-#EXTINF:0,Maretimo Chill Radio
-https://s35.derstream.net/chillradio.mp3
 #EXTINF:0,Maretimo Lounge Radio
 https://s35.derstream.net/lounge.mp3
 #EXTINF:0,Marry-U
@@ -681,8 +679,6 @@ https://0n-relax.radionetz.de/0n-relax.mp3
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
 #EXTINF:0,ONSRADIO
 http://stream.radiojar.com/k6rpztrkwxhvv
-#EXTINF:0,OpenFM - ALT Café
-https://stream.open.fm/34
 #EXTINF:0,OpenFM - Crema Café
 https://stream.open.fm/76
 #EXTINF:0,Radio Pasja Relaks
@@ -713,10 +709,10 @@ https://live.powerhitz.com/lovesongs?aw_0_req.gdpr=true
 https://stream.zeno.fm/1m4vshftgy8uv
 #EXTINF:0,Positively Easy
 https://streaming.positivity.radio/pr/posieasy/icecast.audio
+#EXTINF:0,Positively Love
+https://streaming.positivity.radio/pr/posilove/icecast.audio
 #EXTINF:0,Positively Tranquil
 https://streaming.positivity.radio/pr/positranquil/icecast.audio
-#EXTINF:0,RADIO PSR Sommerhits
-https://streams.radiopsr.de/sommerhits/mp3-128/radiode/
 #EXTINF:0,Radio Public Santé - Détente
 https://publicsantedetente.ice.infomaniak.ch/publicsantedetente-192.mp3
 #EXTINF:0,Radio1 Lounge
@@ -765,8 +761,6 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio/601dd58c5fcd44672749652a/
 https://sphera.fluidstream.eu/ceasy.aac?FLID=6
 #EXTINF:0,RADIO CRISPRO941
 https://panelradio.online:19008/aac
-#EXTINF:0,RADIO CUSCO LEGAL
-https://stream-35.zeno.fm/v5aa9hus0wzuv?zs=uwnJeHlSTtuVRHX76xOoTg
 #EXTINF:0,Rádio DD
 https://sp0.redeaudio.com/8238/stream
 #EXTINF:0,Radio Del Amor Romantica
@@ -883,6 +877,8 @@ https://server7.hostradios.com/8170/stream
 http://sol.anw.at:8023/slow
 #EXTINF:0,Radio Technis
 https://lofos.win:48500/stream
+#EXTINF:0,Radyo Ayvalık
+https://radyo1.radyo-dinle.tc/8006/stream
 #EXTINF:0,Radyo Ilef
 http://radyo.cc.ankara.edu.tr:8089/;
 #EXTINF:0,Rafa Bible Radio English
@@ -931,6 +927,10 @@ https://stream.liferadio.tirol/ruetz/mp3-192/Ruetz
 https://a1.asurahosting.com:8190/rzn.mp3
 #EXTINF:0,Sami Swoi Radio
 https://s2.radio.co/s0dc6b5c9b/listen
+#EXTINF:0,Schiller Mystery
+https://stream-43.zeno.fm/dc5uffqz77zuv?zs=WSwTzbXSTW2T3Vdqz8dqNg
+#EXTINF:0,Sensual Lounge 
+https://stream.zeno.fm/rshwzxlnfb9tv
 #EXTINF:0,Serenade Radio
 https://rbx2.hnux.com/http://149.202.22.75:8284/stream/1/
 #EXTINF:0,Serene
@@ -941,8 +941,6 @@ https://streams.radio.co/sbd6c1fdfe/listen
 https://streamingv2.shoutcast.com/Sitis
 #EXTINF:0,60 North
 https://r3.zetcast.net/stream
-#EXTINF:0,Sleepbot Environmental Broadcast
-http://sleepbot.com/ambience/cgi/listen.m3u
 #EXTINF:0,Sleep Radio
 https://cast4.my-control-panel.com/proxy/sleeprad/stream
 #EXTINF:0,Slowly Radio
@@ -951,6 +949,8 @@ https://www.radioking.com/play/slowlyradio
 https://cast1.my-control-panel.com/proxy/smilerad/stream
 #EXTINF:0,smoothfm 95.3 Brisbane
 https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac
+#EXTINF:0,Smooth FM Live
+https://s4.radio.co/sb7c6c6e8c/listen
 #EXTINF:0,Smooth Gold Radio Ireland
 https://az11.yesstreaming.net:8060/radio.mp3
 #EXTINF:0,SMOOTH JAZZ DELUXE
@@ -995,8 +995,6 @@ https://ais-sa2.cdnstream1.com/2345_128.mp3
 https://ais-sa2.cdnstream1.com/2346_128.mp3
 #EXTINF:0,SPLASH Lounge
 https://ais-sa2.cdnstream1.com/2209_128.mp3
-#EXTINF:0,SPLASH Love
-https://ais-sa2.cdnstream1.com/2210_128.mp3
 #EXTINF:0,SPLASH Spa
 https://ais-sa2.cdnstream1.com/2347_128.mp3
 #EXTINF:0,Spokoinoe Radio Russia
@@ -1039,6 +1037,8 @@ https://c16.radioboss.fm/stream/26
 https://streaming.live365.com/a99795
 #EXTINF:0,The Great American Songbook Radio Station
 https://remote.selfip.net:8030/1
+#EXTINF:0,THEMA 103.1
+http://dione.shoutca.st:8548/stream/1/
 #EXTINF:0,The Oasis
 https://stream.rcast.net/66097
 #EXTINF:0,The River of Calm - Music to Soothe Your Soul™

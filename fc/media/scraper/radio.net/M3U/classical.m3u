@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,0nlineradio BACH
-https://stream.0nlineradio.com/bach?ref=radiode
 #EXTINF:0,0nlineradio BEETHOVEN
 https://stream.0nlineradio.com/beethoven?ref=radiode
 #EXTINF:0,0nlineradio BRAHMS
@@ -63,8 +61,6 @@ https://stream01.sigile.net/5mbs-128-mp3
 https://stm18.xcast.com.br:12162/stream/1/
 #EXTINF:0,89.5 FM KNCJ
 https://kncjstream.com:8443/live
-#EXTINF:0,90.7 Wmfe
-https://wmfe-iad.streamguys1.com/wmfe
 #EXTINF:0,98.9 Radio Crossover
 https://stream.zeno.fm/byy8znpx87zuv
 #EXTINF:0,99.5 WCRB All Classical
@@ -105,8 +101,6 @@ https://dattavolt.com/8310/stream
 https://stream.zeno.fm/bc1xq9y8u68uv
 #EXTINF:0,All Classical
 https://allclassical.streamguys1.com/ac128kmp3
-#EXTINF:0,All Classic Radio
-http://kos.broadstreamer.com:9200/;listen&ext=.mp3
 #EXTINF:0,All Piano Radio
 https://listen.radionomy.com/all-piano-radio.m3u
 #EXTINF:0,All Relaxing Classics
@@ -149,6 +143,8 @@ https://stream-41.zeno.fm/ua42xmtka8zuv?zs=16REyelZS0S2e_ibYjf2LA
 https://live.radioart.com/fVivaldi.mp3
 #EXTINF:0,RadioArt: Ballet Music
 https://live.radioart.com/fBallet_music.mp3
+#EXTINF:0,RadioArt: Baroque
+https://live.radioart.com/fBaroque.mp3
 #EXTINF:0,Bartok Radio
 http://mr-stream.mediaconnect.hu/4739/mr3.aac
 #EXTINF:0,Bayrak Klasik
@@ -231,6 +227,8 @@ https://streams.calmradio.com:2728/stream/1/
 https://streams.calmradio.com:2828/stream/1/
 #EXTINF:0,CALM RADIO - Claudio Monteverdi
 https://streams.calmradio.com:15028/stream/1/
+#EXTINF:0,CALM RADIO - Concertos
+https://streams.calmradio.com:9328/stream/1/
 #EXTINF:0,CALM RADIO - Debussy
 https://streams.calmradio.com:10228/stream/1/
 #EXTINF:0,CALM RADIO - Domenico Scarlatti
@@ -261,12 +259,8 @@ https://streams.calmradio.com:14828/stream/1/
 https://streams.calmradio.com:8428/stream/1/
 #EXTINF:0,CALM RADIO - Girolamo Frescobaldi
 https://streams.calmradio.com:9428/stream/1/
-#EXTINF:0,CALM RADIO - Giacomo Puccini
-https://streams.calmradio.com:13028/stream/1/
 #EXTINF:0,CALM RADIO - Gioachino Rossini
 https://streams.calmradio.com:14128/stream/1/
-#EXTINF:0,CALM RADIO - Giuseppe Verdi
-https://streams.calmradio.com:11528/stream/1/
 #EXTINF:0,CALM RADIO - Georg Philipp Telemann
 https://streams.calmradio.com:8828/stream/1/
 #EXTINF:0,CALM RADIO - Gregorian Chant
@@ -323,6 +317,8 @@ https://streams.calmradio.com:12428/stream
 https://streams.calmradio.com:14128/stream
 #EXTINF:0,CalmRadio.com - Tchaikovsky
 https://streams.calmradio.com:8728/stream/1/
+#EXTINF:0,CALM RADIO - Renaissance
+https://streams.calmradio.com:25828/stream/1/
 #EXTINF:0,CALM RADIO - Richard Strauss
 https://streams.calmradio.com:19328/stream/1/
 #EXTINF:0,CALM RADIO - Sarabande
@@ -369,10 +365,10 @@ https://stream.zeno.fm/vm4b4zk8yy8uv
 https://stream.zeno.fm/y7xaqfmuz08uv
 #EXTINF:0,Candid Radio Kansas
 https://stream.zeno.fm/y370c7muz08uv
+#EXTINF:0,Candid Radio Kentucky
+https://stream.zeno.fm/p1r35knuz08uv
 #EXTINF:0,Candid Radio Louisiana
 https://stream.zeno.fm/ahqmfznuz08uv
-#EXTINF:0,Candid Radio Maine
-https://stream.zeno.fm/t8crqmhvz08uv
 #EXTINF:0,Candid Radio Massachusetts
 https://stream.zeno.fm/h4m15k6r008uv
 #EXTINF:0,Candid Radio Minnesota
@@ -413,15 +409,15 @@ http://79.120.39.202:8000/opera
 http://79.120.77.11:8000/organ
 #EXTINF:0,Radio Caprice - Strings
 http://79.120.39.202:8000/strings
-#EXTINF:0,Radio Caprice - Symphonic Music
-http://79.120.77.11:8000/classical
+#EXTINF:0,Radio Caprice - Symphony
+http://79.111.14.76:8000/symphony
 #EXTINF:0,Catalunya Música
 https://directes-radio-int.ccma.cat/live-content/catalunya-musica-hls/master.m3u8
 #EXTINF:0,CBC Radio 2 Canadian Composers
 https://cbcradiolive.akamaized.net/hls/live/2037435/ES_R1NSN/adaptive_192/chunklist_ao.m3u8
-#EXTINF:0,CBUX Ici Musique Colombrie-Britannique 88.9 FM
+#EXTINF:0,CBFX Ici Musique Montreal 100.7 FM
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
-#EXTINF:0,CBVX Ici Musique Québec 95.3 FM
+#EXTINF:0,CBUX Ici Musique Colombrie-Britannique 88.9 FM
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
 #EXTINF:0,RadioArt: Cello Works
 https://live.radioart.com/fCello_works.mp3
@@ -451,12 +447,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CICZFM.mp3
 http://luradio-server.lakeheadu.ca:8000/stereo128
 #EXTINF:0,CINA 1650 AM
 https://ice8.securenetsystems.net/CINA
-#EXTINF:0,CINEMUSIC Radio
-https://listen.radioking.com/radio/422/stream/62785
 #EXTINF:0,CiQi FM 903
 https://stream.statsradio.com:8044/stream
-#EXTINF:0,CJBC Ici Musique Toronto 90.3 FM
-https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
 #EXTINF:0,CJPX Radio Classique Montreal 99.5 FM
 https://www.radioking.com/play/radio-classique
 #EXTINF:0,CJRT JAZZ.FM91
@@ -553,6 +545,8 @@ https://drive.uber.radio/uber/crjulianlloydwebber/icecast.audio
 https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio
 #EXTINF:0,Classical Radio - Lang Lang (Piano)
 https://drive.uber.radio/uber/crlanglang/icecast.audio
+#EXTINF:0,Classical Radio - Liszt
+https://drive.uber.radio/uber/crliszt/icecast.audio
 #EXTINF:0,Classical Radio - London Symphony Orchestra
 https://drive.uber.radio/uber/crlso/icecast.audio
 #EXTINF:0,Classical Radio - Lorin Maazel
@@ -659,8 +653,6 @@ https://classic.nl/streams/?s=main
 https://classic.nl/streams/?s=opera
 #EXTINF:0,Classic Praha
 https://icecast8.play.cz/classic128.mp3
-#EXTINF:0,CLAZZ Radio
-https://str0.creacast.com/clazz_hq.mp3
 #EXTINF:0,Classically
 http://sl-2396.cdnstream.com/1485_128
 #EXTINF:0,Colosal Stereo Digital
@@ -707,8 +699,6 @@ http://kathy.torontocast.com:3300/stream
 http://kathy.torontocast.com:3300/stream
 #EXTINF:0,Radio Cristal
 https://radiocristal.ice.infomaniak.ch/radiocristal-high.mp3
-#EXTINF:0,classical CROOZE
-https://streaming.shoutcast.com/crooze-mp3
 #EXTINF:0,Radio Culture
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:0,Radio Cultura Musical Amadeus 104.9
@@ -741,8 +731,6 @@ https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=radio-de
 https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-320000.m3u8
 #EXTINF:0,Easy Jazz
 https://streaming.live365.com/a17629
-#EXTINF:0,El Cibernetico Rojas Radio
-https://sonic.radiostreaminglatino.com:10986/stream/1/
 #EXTINF:0,Energy Mediterránea Radio
 https://streaming.enacast.com/radioenergymediterraniaHD.mp3
 #EXTINF:0,EPIC CLASSICAL - Classical Background Music
@@ -767,6 +755,8 @@ https://stream.epic-classical.com/classical-love-music?ref=radiode
 https://stream.epic-classical.com/classical-meditation?ref=radiode
 #EXTINF:0,EPIC CLASSICAL - Classical Oldies
 https://stream.epic-classical.com/classical-oldies?ref=radiode
+#EXTINF:0,EPIC CLASSICAL - Classical Orchestral
+https://stream.epic-classical.com/classical-orchestral?ref=radiode
 #EXTINF:0,EPIC CLASSICAL - Classical Pan Flute
 https://stream.epic-classical.com/classical-pan-flute?ref=radiode
 #EXTINF:0,EPIC CLASSICAL - Classical Piano
@@ -795,8 +785,6 @@ https://stream.epic-lounge.com/piano-jazz-bar?ref=radiode
 https://stream.epic-piano.com/chillout-piano?ref=radiode
 #EXTINF:0,CHOPIN by Epic Piano
 https://stream.epic-piano.com/chopin?ref=radiode
-#EXTINF:0,CHRISTMAS PIANO by Epic Piano
-https://stream.epic-piano.com/christmas-piano?ref=radiode
 #EXTINF:0,GREAT PIANO CONCERTS by Epic Piano
 https://stream.epic-piano.com/great-piano-concerts?ref=radiode
 #EXTINF:0,GRIEG by Epic Piano
@@ -875,14 +863,14 @@ https://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3?ID=pd56
 https://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3?ID=pd569ib97j
 #EXTINF:0,Freies Radio für Stuttgart
 http://streaming.fueralle.org:8000/frs-hi.mp3
+#EXTINF:0,Freies Radio Innsbruck FREIRAD 
+http://stream.freirad.at:8002/live.mp3
 #EXTINF:0,FRESH FM
 https://radio12.shoutcast.net.au:2020/stream/8044/stream
 #EXTINF:0,Radio Freundes-Dienst 
 https://radiofd.ice.infomaniak.ch/radiofd.mp3
 #EXTINF:0,RadioArt: F. Schubert
 https://live.radioart.com/fFranz_schubert.mp3
-#EXTINF:0,Gem Dance
-https://ec5.yesstreaming.net:1595/stream
 #EXTINF:0,RadioArt: G. Handel
 https://live.radioart.com/fGeorge_handel.mp3
 #EXTINF:0,Gimnasio Moderno
@@ -1057,8 +1045,6 @@ https://news-stream.iowapublicradio.org/News.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC.mp3
 #EXTINF:0,NWPB Classical
 https://nwpb.streamguys1.com/nwprclassical-aac-128-icy
-#EXTINF:0,KHPR Hawaii Public Radio 88.1 FM
-https://khpr-ice.streamguys1.com/khpr2
 #EXTINF:0,KICJ - Todays Best Country 88.9 FM
 http://stream.abacast.net/direct/townsquare-kickfmaac-ibc3
 #EXTINF:0,KIDD K-Mozart 88.1 FM
@@ -1083,6 +1069,8 @@ https://khpr-ice.streamguys1.com/khpr2
 http://icecast.vrtcdn.be/klara-high.mp3
 #EXTINF:0,Klara Continuo
 https://radio.vrtcdn.be/vrt/klara-continuo/live.m3u8
+#EXTINF:0,Klassik1
+https://icepool.silvacast.com/KLASSIK1.mp3
 #EXTINF:0,Klassika Raadio
 http://icecast.err.ee:80/klassikaraadio.mp3
 #EXTINF:0,Klassik Radio Live
@@ -1211,6 +1199,8 @@ https://stream1.cprnetwork.org/cpr2_lo
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVPR_CLASSICALAAC.aac
 #EXTINF:0,KWRV 91.9 FM
 https://cms.stream.publicradio.org/cms.mp3
+#EXTINF:0,Classical 88.7 - KWTU HD1
+https://utulsa.streamguys1.com/KWTUHD1-MP3
 #EXTINF:0,KXPR - Capital Public Radio CLASSICAL
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICALSTREAM.mp3
 #EXTINF:0,KZFX-HD-2 Cactus Country Classics
@@ -1309,6 +1299,8 @@ https://stream.laut.fm/neue-musik?ref=radiode
 https://stream.laut.fm/ohrmuschel?ref=radiode
 #EXTINF:0,openclassics
 https://stream.laut.fm/openclassics?ref=radiode
+#EXTINF:0,Radio Akkord
+https://stream.laut.fm/radio-akkord?ref=radiode
 #EXTINF:0,radioalexfmmystic
 https://stream.laut.fm/radioalexfmmystic?ref=radiode
 #EXTINF:0,Radio Big One
@@ -1439,6 +1431,10 @@ https://radio.rtbf.be/musiq3/mp3-320/rf
 https://stream.zeno.fm/dhgdzfqahv8uv
 #EXTINF:0,Mzansi Joburg City FM
 http://stream.zeno.fm/y42u4pmnqwzuv
+#EXTINF:0,Radio Nacional Clásica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
+#EXTINF:0,Na Gwiazdkę Jazz & Classic
+https://stream.open.fm/88
 #EXTINF:0,Naxi Classic Radio
 http://naxidigital-classic128.streaming.rs:8030/;
 #EXTINF:0,NCPR - PRX Remix
@@ -1595,8 +1591,6 @@ https://jfm1.hostingradio.ru:14536/rcstream.mp3
 https://jfm1.hostingradio.ru:14536/ecstream.mp3
 #EXTINF:0,Radio Classic - Gold
 https://jfm1.hostingradio.ru:14536/gcstream.mp3
-#EXTINF:0,Radio Classic - Поэзия
-http://jfm1.hostingradio.ru:14536/pcstream.mp3
 #EXTINF:0,Radio Classic - Vocals
 https://jfm1.hostingradio.ru:14536/cvstream.mp3
 #EXTINF:0,Radio Classique
@@ -1655,6 +1649,8 @@ https://sv2.globalhostlive.com/proxy/lider/stream
 http://163.172.209.91:7149/stream
 #EXTINF:0,Radio Love-it 
 http://uk5.internet-radio.com:8208/stream/1/
+#EXTINF:0,Rádio Love Line
+http://stream.zeno.fm/vuecbgynb8zuv
 #EXTINF:0,Rádio Mais Cuiabá
 http://hts08.kshost.com.br:12102/live
 #EXTINF:0,Radio Delhi Malayalam
@@ -1731,8 +1727,6 @@ http://stream.radiojar.com/atdbyqwr8vuvv
 https://stream.zeno.fm/3q760dnbofsvv
 #EXTINF:0,Radio Shang-A-Lang
 https://s3.radio.co/sfefabbd16/listen
-#EXTINF:0,Retro Radio Singjaal
-https://i2.cdn.jetstre.am:8001/sz=radiosingjaal=radiostream?token=f8ff040fe147fe46c65ef00beed82102&time=6304dbd6
 #EXTINF:0,Radio Symphony
 https://streaming.radiostreamlive.com/radiosymphony_devices
 #EXTINF:0,CIVR-FM Radio Taïga
@@ -1845,6 +1839,8 @@ http://stm1.rthk.hk/radio5
 https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8
 #EXTINF:0,RTVS Rádio Devín
 https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:0,RTVS Rádio Pyramída
+https://icecast.stv.livebox.sk/klasika_128.mp3
 #EXTINF:0,SabaraGamuwa RADIO
 https://centova32.instainternet.com/proxy/ddtradio?mp=/stream
 #EXTINF:0,Sanfurgo
@@ -1873,6 +1869,8 @@ http://stream.zeno.fm/28pqnd6drchvv
 https://pianosolo.streamguys1.com/live
 #EXTINF:0,Sonatica™ Classical Radio Online
 http://148.251.43.231:8742/160;.mp3
+#EXTINF:0,RadioArt: Songs & Lieder
+https://live.radioart.com/fSongs_and_Lieder.mp3
 #EXTINF:0,Sounds Of Brass
 https://stream4.hippynet.co.uk/stream/soundsofbrass
 #EXTINF:0,South Wales ONE
@@ -1933,10 +1931,6 @@ https://liveradio.swr.de/rddez3a/swr4rp/
 https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924.mp3
 #EXTINF:0,Symphony Radio
 https://christmasfm.cdnstream1.com/2551_128.mp3
-#EXTINF:0,Tallinn Pereraadio
-http://icecast.pereraadio.ee:8000/Tallinn
-#EXTINF:0,Tango solo Guitarra
-http://ample-zeno-18.radiojar.com/5wtaumx2dpeuv
 #EXTINF:0,The Angel Classic Rock Mix No Commercials &amp; Live From Taylor Michigan
 http://nap.casthost.net:8287/stream
 #EXTINF:0,The Classical Station
@@ -2021,6 +2015,8 @@ http://rwb1.out.airtime.pro:8000/rwb1_a
 http://nyc01.egihosting.com:2730/
 #EXTINF:0,WAPJ 89.9
 http://stream2724.egihosting.com:8000/;
+#EXTINF:0,91 Classical Nashville's Classical Radio
+https://wpln.streamguys1.com/wfclfm.mp3
 #EXTINF:0,WBAA-FM - Public Radio From Purdue 101.3 FM
 https://purdue.streamguys1.com/wbaa-news
 #EXTINF:0,Boston's Best Radio
@@ -2045,6 +2041,8 @@ https://ais-edge102-live365-dal02.cdnstream.com/a11515?listenerId=Live365-AdBloc
 http://audio1.ideastream.org/wclv.mp3
 #EXTINF:0,WCLV Classical 104.9 FM
 http://audio1.ideastream.org/wclv.mp3
+#EXTINF:0,WCNH - Classical NH 91.5 FM
+https://nhpr.streamguys1.com/classical
 #EXTINF:0,WCNY Classical
 http://wcny-ice.streamguys1.com/classical-fm-hq
 #EXTINF:0,WCPE - The Classical Station 89.7 FM
@@ -2193,8 +2191,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDFM_SC
 https://gpb.streamguys1.com/gpb-atlanta-aac-website
 #EXTINF:0,WNIU - Northern Public Radio 90.5 FM
 https://northernpr.streamguys1.com/WNIU
-#EXTINF:0,WNRK - Kent State University 90.7 FM
-http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 #EXTINF:0,WOSE - WOSU 91.1 FM
 https://wosu.streamguys1.com/NPR_128
 #EXTINF:0,WOSP - Classics Network 91.5 FM
@@ -2204,6 +2200,8 @@ https://wosu.streamguys1.com/Classical_128
 #EXTINF:0,WOTJ - Family Christian Radio 90.7 FM
 https://ice8.securenetsystems.net/WOTJ
 #EXTINF:0,WOUB-FM - Ohio University 91.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
+#EXTINF:0,WOUH-FM - WOUB 91.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 #EXTINF:0,WOUL-FM - WOUB Public Media 89.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
@@ -2249,6 +2247,8 @@ https://wshu-iad.streamguys1.com/wshu-air
 https://wshu-iad.streamguys1.com/wshu-classical
 #EXTINF:0,WSKG 88.7 FM
 https://wskg.streamguys1.com/wskg
+#EXTINF:0,WSMC 90.5 FM
+https://ais-sa1.streamon.fm/7079_32k.aac/playlist.m3u8
 #EXTINF:0,WSMC-FM 90.5
 https://ais-sa1.streamon.fm/7079_32k.aac/playlist.m3u8
 #EXTINF:0,WSMR 89.1 FM
@@ -2297,8 +2297,6 @@ https://wwfm.streamguys1.com/live
 https://tektite.streamguys1.com:5145/wwnoclassical-mp3
 #EXTINF:0,WXXI-FM - 91.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac
-#EXTINF:0,Classical Wyoming
-https://wyoming-public-ice.streamguys1.com/CLS128MP3
 #EXTINF:0,Wyoming Public Radio
 https://wyoming-public-ice.streamguys1.com/WPR128MP3
 #EXTINF:0,WYPR presents all classical HD3
