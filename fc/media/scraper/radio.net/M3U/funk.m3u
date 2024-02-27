@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Spreeradio Black
+https://stream.spreeradio.de/spree-black/mp3-128/radioDE
 #EXTINF:0,107.5 JAMZ
 http://hydra.cdnstream.com/1972_64
 #EXTINF:0,181.fm - Jammin 181
@@ -55,8 +57,6 @@ https://ec5.yesstreaming.net:1575/stream
 https://radio.streemlion.com:2405/stream
 #EXTINF:0,Black FM 
 https://blackblack.stream.laut.fm/blackblack
-#EXTINF:0,Blast.it Radio
-http://blast-station.ns0.it:8000/;stream/1
 #EXTINF:0,Blue-in-Green:RADIO
 http://stream.radio.co/s9e1625f13/listen
 #EXTINF:0,Radio BMG
@@ -85,6 +85,10 @@ http://79.111.119.111:8000/liquidfunk
 http://79.111.119.111:8000/neurofunk
 #EXTINF:0,Centro Italia Radio
 https://s2.free-shoutcast.com/stream/18044
+#EXTINF:0,Chez Watt
+http://37.187.77.45:9090/stream
+#EXTINF:0,Chicano Rap, TalkBox & Funk Radio
+https://listen.radionomy.com/chicanorap-talkbox-funkradio
 #EXTINF:0,Radio Chicureo
 http://ample-zeno-05.radiojar.com/bn03dmc1hrquv
 #EXTINF:0,Classic Funk
@@ -99,6 +103,8 @@ https://s2.streamingplus.net/8002/stream
 https://cheetah.streemlion.com:1270/stream
 #EXTINF:0,Coastline
 http://81.169.223.8/stream/1/
+#EXTINF:0,Radio Concord
+https://broadcast.miami/proxy/concord?mp=/stream/;
 #EXTINF:0,Radio Contact Italy Funky Soul Disco
 https://stream.laut.fm/radiocontactitaly?ref=radiode
 #EXTINF:0,Cool Cat Radio
@@ -107,6 +113,8 @@ https://stream.radiojar.com/tfmszuxk28nb
 http://pollux.shoutca.st:8616/stream/1/
 #EXTINF:0,Costa Del Mar - Funky
 https://radio4.cdm-radio.com:18008/stream-mp3-Funk
+#EXTINF:0,Radio Côte Varoise
+https://radiocotevaroise.ice.infomaniak.ch/radiocotevaroise-128.mp3
 #EXTINF:0,Crescendo Music
 http://stream.zeno.fm/sbkvch4tzwzuv
 #EXTINF:0,Cyber Soul Radio
@@ -129,6 +137,8 @@ http://streaming.radionomy.com/DanceSize?lang=en%2cde%3bq%3d0.7%2cen-US%3bq%3d0.
 http://streaming.live365.com/a26710
 #EXTINF:0,DASH What The Funk
 https://ice55.securenetsystems.net/DASH22
+#EXTINF:0,Def Beat Radio
+http://defbeatradio.de:65/;
 #EXTINF:0,Delite Radio
 http://stream.deliteonline.com:48000/live320
 #EXTINF:0,Disco Classic Radio
@@ -147,6 +157,8 @@ https://stream.deevaradio.net:10443/divaradiofunk
 https://streaming.diwanfm.net/stream
 #EXTINF:0,Drum and Bass Lounge
 http://198.15.94.34:8012/stream
+#EXTINF:0,Dynamite Radio Marseille
+https://radio.ready2play.fr/dynamiteradio
 #EXTINF:0,egoSOUL
 https://streams.egofm.de/egoSOUL-hq?ar-distributor=f0a2
 #EXTINF:0,El Búfalo Cardíaco
@@ -155,6 +167,8 @@ http://streaming.elitecomunicacion.es:8134
 https://scdn.nrjaudio.fm/adwz1/de/56856/aac_64.mp3?origine=radio.net
 #EXTINF:0,Energy Mediterránea Radio
 https://streaming.enacast.com/radioenergymediterraniaHD.mp3
+#EXTINF:0,Radio Espace Dancefloor
+https://espace-dancefloor.ice.infomaniak.ch/espace-dancefloor-high.mp3
 #EXTINF:0,RADIO ESTAÇÃO CARIOCA
 https://stream.zeno.fm/7rs5nah96p8uv
 #EXTINF:0,Eugeradio
@@ -171,8 +185,8 @@ https://server02.ouvir.radio.br:8060/stream
 https://rs18.stream24.net/radio-fairground.mp3
 #EXTINF:0,FG. disco funk.
 https://stream.rcs.revma.com/cpkhx08pq18uv
-#EXTINF:0,FIP autour du groove
-https://icecast.radiofrance.fr/fipgroove-midfi.mp3?ID=pd569ib97j
+#EXTINF:0,Fip : Groove
+https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8
 #EXTINF:0,Fishnet Radio
 https://stream.radio.co/s74e130a62/listen
 #EXTINF:0,Flava107.Com
@@ -188,11 +202,13 @@ https://folies_gruss_radio.ice.infomaniak.ch/foliesgrussradio-midfi.mp3
 #EXTINF:0,Freak31
 http://stream.freak31.com:8322/;stream.mp3
 #EXTINF:0,Frequence funk
-https://www.radioking.com/play/frequence-funk
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8451&type=s1
 #EXTINF:0,Fréquence K
 https://frequencek.ice.infomaniak.ch/frequencek-fm.mp3
 #EXTINF:0,Radio Fréquence Méditerranée
 https://frequencemediterranee.ice.infomaniak.ch/frequencemediterranee-128.mp3
+#EXTINF:0,Friscofunkparker
+https://listen.radionomy.com/ffp-friscofunkparker
 #EXTINF:0,Funk 101
 https://streaming.live365.com/a71465
 #EXTINF:0,Funk 42
@@ -225,10 +241,14 @@ https://ecmanager.pro-fhi.net/funxoul
 https://nr14.newradio.it:8759/Stream?ext=.mp3
 #EXTINF:0,Gaslight Square Funk and Soul
 https://stream.zeno.fm/qs8tasr6ag0uv
+#EXTINF:0,Générations - Funk
+https://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
 #EXTINF:0,Génération Soul Disco Funk Radio
 https://gestream.fr/;stream?sid=1
 #EXTINF:0,Geração Funk
 https://servidor.geracaoradios.com/radio/8040/stream
+#EXTINF:0,GFN SOUL NYC FM151
+https://servidor24.brlogic.com:7120/live
 #EXTINF:0,Global Funk Radio
 https://securestreams2.autopo.st:1148/;stream.mp3
 #EXTINF:0,GMusic - Planet Funk
@@ -269,6 +289,8 @@ https://sr10.inmystream.it/proxy/paolo?mp=/stream
 https://stream.zeno.fm/16pkzaws97zuv
 #EXTINF:0,Radio Indie Disco
 https://broadcast.miami/proxy/indiedisco?mp=/stream/;
+#EXTINF:0,Inspiration Funk 
+http://streaming.radionomy.com/InspirationFunk
 #EXTINF:0,Jammfm Radio Costa del Sol
 http://stream.jammfmradio.com:8075/stream/1/
 #EXTINF:0,Jamz Den Haag
@@ -323,18 +345,24 @@ https://stream.zeno.fm/h5skggtacm8uv
 https://mcp-1.streampanel.nl:8020/kxclassics_mp3
 #EXTINF:0,LANÇAMENTOS - FUNK E BATIDÃO
 http://stream.zeno.fm/wwdgk21qb2zuv
+#EXTINF:0,45-rpm
+https://stream.laut.fm/45-rpm?ref=radiode
 #EXTINF:0,54-funk-soul-dance
 https://stream.laut.fm/54-funk-soul-dance?ref=radiode
 #EXTINF:0,Abgefunkt
 https://stream.laut.fm/abgefunkt?ref=radiode
 #EXTINF:0,art-and-funk
 https://stream.laut.fm/art-and-funk?ref=radiode
+#EXTINF:0,berlinbeats
+https://stream.laut.fm/berlinbeats?ref=radiode
 #EXTINF:0,bestmix
 https://stream.laut.fm/bestmix?ref=radiode
 #EXTINF:0,betafm
 https://stream.laut.fm/betafm?ref=radiode
 #EXTINF:0,brodafunk
 https://stream.laut.fm/brodafunk?ref=radiode
+#EXTINF:0,Colorbox 80
+https://stream.laut.fm/colorbox80?ref=radiode
 #EXTINF:0,Dance Classics
 https://stream.laut.fm/danceclassics?ref=radiode
 #EXTINF:0,delasoul
@@ -347,6 +375,8 @@ https://stream.laut.fm/djgmcswiss?ref=radiode
 https://stream.laut.fm/eifelsucht?ref=radiode
 #EXTINF:0,fullmoon
 https://stream.laut.fm/fullmoon?ref=radiode
+#EXTINF:0,FUNK2DISCO
+https://stream.laut.fm/funk2disco?ref=radiode
 #EXTINF:0,funk4junks
 https://stream.laut.fm/funk4junks?ref=radiode
 #EXTINF:0,Funk Nrw
@@ -363,6 +393,8 @@ https://stream.laut.fm/funkytown?ref=radiode
 https://stream.laut.fm/galatticafm?ref=radiode
 #EXTINF:0,Groove_Classics
 https://stream.laut.fm/groove_classics?ref=radiode
+#EXTINF:0,Groovelounge
+https://stream.laut.fm/groovelounge?ref=radiode
 #EXTINF:0,JAZZCRUSADER
 https://stream.laut.fm/jazzcrusader?ref=radiode
 #EXTINF:0,JOY
@@ -379,6 +411,8 @@ https://stream.laut.fm/music?ref=radiode
 https://stream.laut.fm/newton?ref=radiode
 #EXTINF:0,odessa
 https://stream.laut.fm/odessa?ref=radiode
+#EXTINF:0,ohrenweide
+https://stream.laut.fm/ohrenweide?ref=radiode
 #EXTINF:0,pineapplejuice
 https://stream.laut.fm/pineapplejuice?ref=radiode
 #EXTINF:0,pinkyfm
@@ -469,6 +503,8 @@ http://79.8.227.117:8010/stream/1/
 https://ecmanager4.pro-fhi.net:1495/stream
 #EXTINF:0,More Bounce To The Ounce
 https://streaming.coollective.nl:8443/MoBounce
+#EXTINF:0,MRG Funk
+http://flux.radio-mrg.com:8888/Funk
 #EXTINF:0,Musical Venture Radio
 https://us3.internet-radio.com/proxy/dagilli2?mp=/MVR128
 #EXTINF:0,MUSICOLOR GROOVY RADIO
@@ -493,10 +529,14 @@ https://stream.zeno.fm/2spkyxtr0wzuv
 https://scdn.nrjaudio.fm/adwz1/fr/31035/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Funky
 #EXTINF:0,Ocean Ibiza Radio
 http://s3.sonicabroadcast.com:8915/stream/1/
+#EXTINF:0,Old Flame Radio
+https://streaming.live365.com/a22706
 #EXTINF:0,OLDIE ANTENNE Disco Fever
 https://stream.oldie-antenne.de/oldie-antenne-disco-fever/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,Olivasoa Radio 91Fm 
 https://rocket.streamradio.fr/stream/olivasoa
+#EXTINF:0,omodjo
+http://www.radioking.fr/play/omodjo
 #EXTINF:0,Onda Pasión
 https://streaming12.elitecomunicacion.es:8138/stream
 #EXTINF:0,ON Disco
@@ -525,6 +565,10 @@ https://ice66.securenetsystems.net/PFR
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591867_SC.mp3
 #EXTINF:0,Planète 80
 https://listen.radioking.com/radio/490508/stream/547361
+#EXTINF:0,Playradio Planet Dance
+http://streaming.radionomy.com/PlayradioPlanetDance
+#EXTINF:0,Point Blank FM
+http://pointblankradio.co.uk:8000/stream.mp3
 #EXTINF:0,Radio Polydor
 https://broadcast.miami/proxy/polydor?mp=/stream/;
 #EXTINF:0,Power Funk Radio
@@ -541,12 +585,18 @@ https://radio10.pro-fhi.net/listen/qpixglcw/stream.mp3
 https://stream.zeno.fm/0ph097rv3a0uv
 #EXTINF:0,QUANTUM STATION
 https://stream.zeno.fm/qv0pnyzvb1quv
+#EXTINF:0,Radio42
+http://www.radio42.eu/playHiFi.pls
 #EXTINF:0,Radio Alpha
 https://ecmanager2.pro-fhi.net/radioalpha
 #EXTINF:0,Rádio Aramba FM
 https://stream.zeno.fm/zbebcl98i25vv
 #EXTINF:0,Radio Atlantic
 https://broadcast.miami/proxy/atlantic?mp=/stream/;
+#EXTINF:0,radio béguin
+https://listen.radioking.com/radio/284398/stream/330307
+#EXTINF:0,Radio Bistro
+https://streamingv2.shoutcast.com/RadioBistro
 #EXTINF:0,RadioBlue 
 http://stream.radioblue.de:9000/;
 #EXTINF:0,RAdio BOOgie
@@ -563,6 +613,8 @@ https://ecmanager2.pro-fhi.net/radiodesmakes
 https://cdns-preview-7.dzcdn.net/stream/c-7f1dd0a10fe4a7deccfa677bc7dcb282-4.mp3
 #EXTINF:0,CJRR-DB Radio Echelon
 https://streams.radio.co/s803a15fe7/listen
+#EXTINF:0,Rádio Elétrica
+https://servidor26.brlogic.com:8040/live
 #EXTINF:0,Radio Epic
 https://broadcast.miami/proxy/epic?mp=/stream/
 #EXTINF:0,Radio Esperantia
@@ -577,12 +629,16 @@ https://s03.diazol.hu:35112/live.mp3
 https://stream-radioheatwave.creativedork.com/
 #EXTINF:0,Radio Italo Disco
 https://broadcast.miami/proxy/italodisco?mp=/stream/;
+#EXTINF:0,Radio Kibuț
+https://listen.radioking.com/radio/380248/stream/431281
 #EXTINF:0,Radio Krimi
 https://radio13.pro-fhi.net/flux-nwsimjda2/stream
 #EXTINF:0,Radio Meuh
 https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3
 #EXTINF:0,RADIO MILLENIUM
 https://listen.radioking.com/radio/7027/stream/16292
+#EXTINF:0,Radio M's
+https://www.radioking.com/play/radio-ms
 #EXTINF:0,RADIONOTE
 https://eu.publicssl.net/7008/.m3u
 #EXTINF:0,Radio Nova
@@ -619,12 +675,16 @@ https://share.xdevel.com/player/1955
 https://ec6.yesstreaming.net:1345/stream
 #EXTINF:0,Radio Roža
 https://stream.radio-roza.org/live.mp3
+#EXTINF:0,Radio Show
+https://www.radioking.com/play/radio-show
 #EXTINF:0,Radio Ton – 80er Funky Friday
 https://live.radioton.de/radioton-80er_funky_Friday?ref=radiode
 #EXTINF:0,Radio Top Side 
 https://www.radioking.com/play/radio-top-side
 #EXTINF:0,Radio Veronica
 https://shoutcast.k-planet.eu/8004/stream
+#EXTINF:0,Radio Z
+http://snd.radio-z.net:8000/Radio-Z
 #EXTINF:0,RAP ON AIR 24H 
 https://streamingV2.shoutcast.com/RAP-ON-AIR-RADIO
 #EXTINF:0,Radio RCA
@@ -679,6 +739,8 @@ https://stm20.xcast.com.br:9662/stream
 https://listen.myrh.ru/sk-radio
 #EXTINF:0,Skylegend
 http://webradiostream.eu:8170/stream
+#EXTINF:0,Skyline Radio & Soul
+https://rblive80.it/radiobrand2/8342
 #EXTINF:0,So Funk
 http://51.91.58.205:8000/sofunk.m4a
 #EXTINF:0,Solar Fm Radio
@@ -715,10 +777,14 @@ https://stream.zeno.fm/wczwwern1wzuv
 http://stream.radiojar.com/gtu4mhk0ga5tv
 #EXTINF:0,SSRadio Deep and Soulful
 https://ssradiol.radioca.st/listen.mp3
+#EXTINF:0,SSRadio Funk & Disco
+https://ssradiol.radioca.st/listen.mp3
 #EXTINF:0,STARDANCE RADIO
 https://www.radioking.com/play/stardance-radio/512795
 #EXTINF:0,Star People
 http://2.139.144.101:8020/2/stream/1/
+#EXTINF:0,Radio Star Réunion
+https://cdnradio.streamakaci.com/radiostar.mp3
 #EXTINF:0,STATIC: FUNK
 https://streamingV2.shoutcast.com/Static-Funk
 #EXTINF:0,Stazione41
@@ -729,6 +795,8 @@ https://live.streamd.de/streamd-live/mp3-192/?ref=radiode
 https://heimat.streamd.de/streamd-heimat/mp3-192/?ref=radiode
 #EXTINF:0,Streetsounds Radio
 https://streaming.broadcastradio.com:10525/streetsd
+#EXTINF:0,Sunset to sunrise
+https://streamingv2.shoutcast.com/Sunsettosunrise
 #EXTINF:0,Radio Superfly
 https://stream01.superfly.fm/live
 #EXTINF:0,Rádio Super Funk Melody
@@ -821,6 +889,8 @@ http://stream.zeno.fm/kpm2ghgfnxhvv
 http://s-09.wefunkradio.com:81/wefunk64.mp3
 #EXTINF:0,Wild1 Radio
 http://wildone.out.airtime.pro:8000/wildone_b
+#EXTINF:0,WLXC - Kiss 98.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLXCFM.mp3
 #EXTINF:0,Woofer Radio
 https://s6.voscast.com:7787/stream
 #EXTINF:0,Yes Radio
