@@ -15,8 +15,6 @@ http://tess.fast-serv.com:8570/;
 http://sc-blues.1.fm:8030/;
 #EXTINF:0,2RRR
 https://playerservices.streamtheworld.com/api/livestream-redirect/2RRRAAC_SC
-#EXTINF:0,318 LIVE FM
-https://ais-edge104-live365-dal02.cdnstream.com/a69830
 #EXTINF:0,3FM 92.7
 https://3fm-atunwadigital.streamguys1.com/3fm
 #EXTINF:0,40UP Radio
@@ -99,6 +97,8 @@ http://radio.bigblueswing.com:8002/;
 https://s5.radio.co/sb22756fa8/listen
 #EXTINF:0,Bikers Hangout Radio
 https://stream.radio.co/s803057ca0/listen
+#EXTINF:0,Blast.it Radio
+http://blast-station.ns0.it:8000/;stream/1
 #EXTINF:0,Bluegrass Planet Radio
 https://quincy.torontocast.com:2475/stream
 #EXTINF:0,Blues Café Radio
@@ -209,8 +209,6 @@ https://stream1.hippynet.co.uk/stream/dazinthehatcom/stream
 https://s2.radio.co/sa44aa697f/listen
 #EXTINF:0,debluesradio.com
 http://streamingv2.shoutcast.com/DeBluesRadio
-#EXTINF:0,DeBluesRadio
-http://streaming.radionomy.com/JamendoLounge
 #EXTINF:0,Radio Deja Vu
 https://www.radioking.com/api/radio/radio-deja-vu.m3u
 #EXTINF:0,Dirty Water Radio
@@ -247,8 +245,6 @@ https://streaming.exclusive.radio/er/buddyguy/icecast.audio
 https://streaming.exclusive.radio/er/derekandsusantrucks/icecast.audio
 #EXTINF:0,Exclusively Eric Clapton
 https://streaming.exclusive.radio/er/ericclapton/icecast.audio
-#EXTINF:0,Exclusively Etta James
-https://streaming.exclusive.radio/er/ettajames/icecast.audio
 #EXTINF:0,Exclusively Gary Moore
 https://streaming.exclusive.radio/er/garymoore/icecast.audio
 #EXTINF:0,Exclusively Howlin Wolf
@@ -397,8 +393,6 @@ https://wbrh.streamguys1.com/kbrh-aac
 http://s1.phx.icastcenter.com/tunein/kcor.pls
 #EXTINF:0,KCOS Digital
 https://www.radioking.com/play/kcosdigitalmedia/60019
-#EXTINF:0,KCSS - 91.9 FM
-http://kcss.streamguys1.com/live
 #EXTINF:0,Khaelitsha FM
 https://stream.zeno.fm/xx27nfpk9k8uv
 #EXTINF:0,KHAM Radio
@@ -425,8 +419,6 @@ https://streams.radio.co/s8d74328ae/listen.m3u
 https://streaming.live365.com/a77618
 #EXTINF:0,KSSR Southern Soul Radio
 https://stream.zeno.fm/7497bwkvpwzuv
-#EXTINF:0,KSUN66
-http://37.187.77.45:9072/stream/1/
 #EXTINF:0,KVPI Classic Hits 92.5 FM
 https://ice7.securenetsystems.net/KVPIFM
 #EXTINF:0,KVSC - 88.1 FM
@@ -441,8 +433,6 @@ https://radio.netyco.com:18848/stream/1/
 https://stream.zeno.fm/0d8wnc2mws8uv
 #EXTINF:0,10secondstorock
 https://stream.laut.fm/10secondstorock?ref=radiode
-#EXTINF:0,889fm-gbcarchery
-https://stream.laut.fm/889fm-gbcarchery?ref=radiode
 #EXTINF:0,889fmnewyork
 https://stream.laut.fm/889fmnewyork?ref=radiode
 #EXTINF:0,Bavayote
@@ -571,10 +561,6 @@ https://stream.laut.fm/rockingdutchman?ref=radiode
 https://stream.laut.fm/rocknblues?ref=radiode
 #EXTINF:0,rocknroll-philosophy
 https://stream.laut.fm/rocknroll-philosophy?ref=radiode
-#EXTINF:0,ROCK-THE-BLUES
-https://stream.laut.fm/rock-the-blues?ref=radiode
-#EXTINF:0,Rock This House
-https://stream.laut.fm/rock-this-house?ref=radiode
 #EXTINF:0,Schlagermeile
 https://stream.laut.fm/schlagermeile?ref=radiode
 #EXTINF:0,soundmania
@@ -621,6 +607,8 @@ https://mandela-radio.ice.infomaniak.ch/mandela-radio.mp3
 https://strw1.openstream.co/385?aw_0_1st.collectionid%3D6439%26stationId%3D6439%26publisherId%3D205%26k%3D1654592866%26aw_0_azn.pcountry%3D%5B\CA\%5D%26aw_0_azn.planguage%3D%5B\en\%5D%26aw_0_azn.pgenre%3D%5B\Jazz\%2C\Music\%2C\Blues\%5D
 #EXTINF:0,Manhattan Jazz Club
 https://listen.openstream.co/6439/audio
+#EXTINF:0,Manzanita Radio
+https://streaming.live365.com/a78865
 #EXTINF:0,Marimba de Guatemala Radio
 https://jm8n.net/8066/stream
 #EXTINF:0,MATURI FM
@@ -775,8 +763,6 @@ https://jm8n.com/8004/stream.acc
 https://stream.zeno.fm/ta3kttwu88quv
 #EXTINF:0,U Ràdio
 https://streaming.enacast.com/radioulldecona128.mp3
-#EXTINF:0,RADIO VIRTUAL MUSIC
-https://a1.asurahosting.com:8230/radio.mp3
 #EXTINF:0,Radio Vox 102.9
 https://streaming01.shockmedia.com.ar:10636/stream?icy=http
 #EXTINF:0,Radiowapa
@@ -873,8 +859,6 @@ https://cast1.asurahosting.com/proxy/smilerad/stream
 https://radio.streamgates.net/stream/sol
 #EXTINF:0,SOM-Factory - The Sound Of Music Factory
 http://som-factory.eu/streambox/listen_256.pls
-#EXTINF:0,Southern Soul Blues
-https://everestcast.onlineradiostation.co:1870/stream/1/
 #EXTINF:0,Southern Soul Radio
 http://server1.fleetradionetwork.com:8170/;
 #EXTINF:0,Spirit FM
@@ -973,8 +957,6 @@ https://radio.saopaulo01.com.br/8042/mp3
 https://radio.saopaulo01.com.br/8060/mp3
 #EXTINF:0,WEMU 89.1
 http://wemump3.emich.edu:8000/broadband.mp3
-#EXTINF:0,West Norfolk Radio
-http://178.33.135.246:5930/stream
 #EXTINF:0,WHFC 91.1 FM
 https://s36.myradiostream.com/:18688/;
 #EXTINF:0,WHIP Blues Radio
