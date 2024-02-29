@@ -111,6 +111,8 @@ http://stream11.shoutcastsolutions.com:8391/stream/1/
 https://ams-pioneer02.dedicateware.com:1145/stream
 #EXTINF:0,CYBERStacja
 http://sc.cyberstacja.pl:8000/radio.mp3
+#EXTINF:0,Dance247
+https://transmitter.ttech.fun:8260/live?icy=https
 #EXTINF:0,Dance Classics
 https://stream3.jdsnet.co.uk/danceclassics
 #EXTINF:0,DANCEFMLIVE TRANCE
@@ -175,8 +177,6 @@ https://www.energyfm.co.uk/classics.pls
 http://entranced.fm/modules/Listen/MP3-hi.pls
 #EXTINF:0,DANCE ONE
 https://stream.rcs.revma.com/hmnxgw5cu5hvv
-#EXTINF:0,FG. Underground 
-https://radiofg.impek.com/ufg.mp3
 #EXTINF:0,Fireradio
 https://radio.fireradio.fm:8080/live
 #EXTINF:0,FireSpeedRadio
@@ -191,8 +191,6 @@ http://148.251.82.234:27000/;
 http://play.radioftb.net:8028/stream/1/
 #EXTINF:0,GalacticFM - Goa, Psy &amp; Progressive Psy Trance
 https://eu1.reliastream.com:2199/tunein/bonz.pls
-#EXTINF:0,Generation Dance
-https://generationdance.lu/radio/8030/hd
 #EXTINF:0,Radio Glarissimo
 https://fridolin.ice.infomaniak.ch/fridolin-192.mp3
 #EXTINF:0,globalbeats green channel
@@ -243,8 +241,6 @@ http://icecast.kickfm.eu:8000/mp3-high
 https://klradiointhemix.out.airtime.pro/klradiointhemix_a?_ga=2.49756198.1018540026.1655901460-1493133427.1640856923
 #EXTINF:0,La-Familia Radio
 https://video.mediawebchile.com:2000/stream/8200/stream
-#EXTINF:0,LagoonFm
-https://s1.slotex.pl/shoutcast/7828/stream?sid=1
 #EXTINF:0,999
 https://stream.laut.fm/999?ref=radiode
 #EXTINF:0,Achimer-Party-Radio
@@ -279,8 +275,6 @@ https://stream.laut.fm/clubbeats?ref=radiode
 https://stream.laut.fm/daddykwhv?ref=radiode
 #EXTINF:0,Dance Alarm
 https://stream.laut.fm/dancealarm?ref=radiode
-#EXTINF:0,Dance Club Radio
-https://stream.laut.fm/danceclubradio?ref=radiode
 #EXTINF:0,Dance Party Radio
 https://stream.laut.fm/dancepartyradio?ref=radiode
 #EXTINF:0,Defectedmusic Radio
@@ -341,8 +335,6 @@ https://stream.laut.fm/la_casa_de_wegeh?ref=radiode
 https://stream.laut.fm/liftedtrancemusicradio?ref=radiode
 #EXTINF:0,Light and Storm Music
 https://stream.laut.fm/light-and-storm-music?ref=radiode
-#EXTINF:0,Mike Van Revos
-https://stream.laut.fm/mike-van-revos?ref=radiode
 #EXTINF:0,Millennial Vinyl DJ
 https://stream.laut.fm/millennial-vinyl-dj?ref=radiode
 #EXTINF:0,MountainBase - Cruisin' Music Radio
@@ -469,8 +461,6 @@ https://mangialsonic.com.ar/chm.mp3
 http://stream.mastermixersatwork.com:9075/stream/1/
 #EXTINF:0,Millenium FM
 https://radio7.pro-fhi.net:19141/milleniumfm.mp3
-#EXTINF:0,Misfits Radio
-https://streaming.live365.com/a94544
 #EXTINF:0,Mix3r Radio
 https://mcp1.autopo.st:9508/stream
 #EXTINF:0,Mixaradio Electro Paradise
@@ -567,8 +557,6 @@ http://str20.creacast.com/bpm
 https://radio.streaminghires.cl/8004/stream
 #EXTINF:0,radiocrétinacé
 http://radio4.pro-fhi.net:9056/stream/1/
-#EXTINF:0,Radio Dance EDT
-https://secure.tempo-radio.com:1090/stream
 #EXTINF:0,RADIODINARAMA
 https://cloudstream2034.conectarhosting.com/8096/stream
 #EXTINF:0,Radio Dreamers
@@ -585,8 +573,6 @@ http://cast1.asurahosting.com:7709/listen.mp3
 https://edge2-a.exa.live365.net/a03054
 #EXTINF:0,Radio Löwenkeller
 https://c02.lexycast.de:3690/;?type=http&nocache=40
-#EXTINF:0,Radionoise
-http://91.134.147.168:9606/radionoise.mp3
 #EXTINF:0,RadioParty Trance
 https://s2.radioparty.pl:8015/trance
 #EXTINF:0,RadioParty Vocal Trance
@@ -683,14 +669,10 @@ https://stream.technolovers.fm/psytrance?ref=radiode
 https://stream.technolovers.fm/trance?ref=radiode
 #EXTINF:0,Technolovers UPLIFTING TRANCE
 https://stream.technolovers.fm/uplifting-trance?ref=radiode
-#EXTINF:0,Technolovers VOCAL TRANCE
-https://stream.technolovers.fm/vocal-trance?ref=radiode
 #EXTINF:0,TechRadioDublin
 https://cast1.my-control-panel.com/proxy/winston/stream
 #EXTINF:0,TEC RADIO
 https://stream.zeno.fm/64h3nxg0rvduv
-#EXTINF:0,Tempo-Radio
-https://stream.zeno.fm/zkhe14awpfhvv
 #EXTINF:0,The-Best-Sound-House-Radio
 https://stream2-alfacast-hosting.com/8004/stream
 #EXTINF:0,The English 909 Radio
