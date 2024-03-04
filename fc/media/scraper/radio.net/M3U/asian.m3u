@@ -79,6 +79,8 @@ https://i.klikhost.com/9000/stream
 https://my4.radiolize.com/radio/8110/radio.mp3
 #EXTINF:0,DilSe Radio
 https://streaming.broadcast.radio/dilseradio
+#EXTINF:0,Djati FM 103.6
+https://svara-stream.radioddns.net:8443/bandaaceh_djatifm_mp3
 #EXTINF:0,East FM
 http://eastfm-atunwadigital.streamguys1.com/eastfm
 #EXTINF:0,El John FM 95.9 Palembang
@@ -87,8 +89,6 @@ http://103.28.149.117:8032/stream
 http://scg.streamingmurah.com:8194/stream
 #EXTINF:0,GBS Vancouver
 https://cdsaws.s3-us-west-2.amazonaws.com/GBS_files/702/1607310250.mp3
-#EXTINF:0,GTR.FM - Gokulam Tamil Radio
-http://eu4.fastcast4u.com:5252/;stream.mp3&13202692901
 #EXTINF:0,Hamara Radio
 https://radio.adeeltek.com/listen/hamara/radio.mp3
 #EXTINF:0,icprm radio 
@@ -141,8 +141,6 @@ https://stream9.mexiserver.com/8046/stream
 http://mobilekmrb.serverroom.us:6916/;stream.nsv
 #EXTINF:0,KODAIRAGAM FM
 https://sp.radiotamilonline.com/8006/stream
-#EXTINF:0,radio kotaperak Yogyakarta 94.6 FM
-http://203.30.236.2:9460/;
 #EXTINF:0,K-POP Love Radio
 http://node-14.zeno.fm/psx4yr2rsf9uv.aac?zs=OR1mj1KQRQ2cXN4mElkA2g&rj-tok=AAABgT1-A9UAaIk6cJxyKHq_7w&rj-ttl=5
 #EXTINF:0,KRPI 1550 AM
@@ -167,28 +165,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFMAAC.aac
 https://listen-lycaradio.sharp-stream.com/1458.mp3
 #EXTINF:0,Mai Radio
 http://listen.radionomy.com/mairadio
-#EXTINF:0,Matrix 93.2 FM
-http://live.radiomatrixfm.com:8000/;
 #EXTINF:0,MBS 92.7 FM
 http://51.79.167.17:7000/airtime_128
-#EXTINF:0,MCOT Chumphon
-http://rstream.mcot.net:9014/;
 #EXTINF:0,MCOT Kamphaeng Phet
 http://rstream.mcot.net:9002/
-#EXTINF:0,MCOT Kanchanaburi
-http://rstream.mcot.net:9010/;
-#EXTINF:0,MCOT Lang Suan
-http://rstream.mcot.net:9018/;
-#EXTINF:0,MCOT Phichit
-http://rstream.mcot.net:9004/;
-#EXTINF:0,MCOT Prachuap Khiri Khan
-http://rstream.mcot.net:9012/;
 #EXTINF:0,MCOT Ranong
 http://rstream.mcot.net:9016/
-#EXTINF:0,MCOT Sing Buri
-http://rstream.mcot.net:9006/;
-#EXTINF:0,MCOT Surat Thani 102.0 FM
-http://rstream.mcot.net:9090/;
 #EXTINF:0,MCOT Uthai Thani
 http://rstream.mcot.net:9008/
 #EXTINF:0,MCOT Yala
@@ -209,8 +191,6 @@ http://45.64.97.211:1031/;
 https://streaming.ozradiojakarta.com:8443/ozjakarta
 #EXTINF:0,Pamir Radio
 http://stream.pamirradio.com:8000/live
-#EXTINF:0,paramita fm
-http://s5.alhastream.com/radio/8210/radio
 #EXTINF:0,Pimas FM 97.7
 http://i.klikhost.com:8856/stream/1/
 #EXTINF:0,Pyongyang FM
@@ -251,12 +231,12 @@ https://streaming.classynetradio.com:8040/rpkfm
 https://stream.pamula.xyz/listen/rtc_ui/radio.mp3
 #EXTINF:0,Ruta Citypop
 http://stream-149.zeno.fm/uenn4pspky8uv
-#EXTINF:0,Radio Sagarmatha 102.4
-http://streaming.hamropatro.com:8004/listen.pls
 #EXTINF:0,Radio Sawa Gulf 92.6 FM
 https://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01
 #EXTINF:0,SBS PopAsia
 https://sbs-ice.streamguys1.com/sbs-popasia
+#EXTINF:0,Serambi FM 90.2
+http://live.serambifm.com:8902/stream/1/
 #EXTINF:0,Serumpun Radio 91.7 FM
 http://a2.siar.us:8020/radio.mp3
 #EXTINF:0,Sindo Trijaya Jakarta 104.6 FM 
@@ -275,8 +255,6 @@ http://sriwijaya.onlivestreaming.net:9430/stream
 https://direct.sharp-stream.com/sunriseradio.mp3
 #EXTINF:0,SwissTamilRadio
 https://usa19.fastcast4u.com/swiss
-#EXTINF:0,Tamil Beatz
-https://stream.zeno.fm/wghr4hh9r4pvv
 #EXTINF:0,THAI MUSIC 
 https://listen.thai-radio.net/trhq
 #EXTINF:0,Tune India Radio
@@ -293,6 +271,8 @@ https://s7.yesstreaming.net:9000/stream
 https://ice66.securenetsystems.net/WVDESI
 #EXTINF:0,WDCT - Washington Radio 1310 AM
 http://173.79.89.14/broadwave.mp3?
+#EXTINF:0,WreckinDaGameRadioakaTheDream
+https://s8.citrus3.com:8440/stream
 #EXTINF:0,WOWCCM
 http://wowccm.iptime.org:8000/;
 #EXTINF:0,Web Rádio Cajá
@@ -301,5 +281,3 @@ https://stream.zeno.fm/mv2v0rh90xhvv
 https://ice7.securenetsystems.net/WWTR
 #EXTINF:0,Yazhpanam Web Radio
 https://strl1.openstream.co/789
-#EXTINF:0,Yildiz FM 105.3
-http://live.radyotvonline.com:8150/;
