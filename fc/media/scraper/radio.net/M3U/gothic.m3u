@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,0zero0 Radio Station
+https://stream.laut.fm/0zero0?ref=radiode
 #EXTINF:0,80s80s DARK WAVE
 https://streams.80s80s.de/darkwave/mp3-192/radiode/
 #EXTINF:0,80s80s Wave
@@ -13,6 +15,8 @@ http://91.121.59.45:8035/stream
 https://server4.streamserver24.com:8080/proxy/crazypoi?mp=/stream
 #EXTINF:0,Balus-Musikkiste
 http://stream04.stream-webradiotechnik.de:8750/stream/1/
+#EXTINF:0,Bannyradio
+https://bannystreams.de:7800/stream
 #EXTINF:0,Blue Dragon Radio
 https://server33463.streamplus.de/stream/1/
 #EXTINF:0,Blue-Radio-Balboa
@@ -21,30 +25,24 @@ https://stream.laut.fm/blue-radio-balboa?ref=radiode
 http://79.111.14.76:8000/gothicrock
 #EXTINF:0,Radio Caprice - Gothic Metal
 http://79.120.77.11:8000/gothicmetal
-#EXTINF:0,Club-Red-Hell
-http://club-red-hell.radio-club-titania.net:8200/;
 #EXTINF:0,Club Zero Radio
 https://music.clubzeroradio.com:8443/live
 #EXTINF:0,Dark Asylum
-http://91.121.165.137:8020/stream/1/
+http://94.23.218.80:8020/stream
 #EXTINF:0,EBM Radio
 http://www.ebm-radio.org:7000/;537270416216132stream.nsv
 #EXTINF:0,Radio DarkFire
 http://37.59.82.8:8344/stream/1/
 #EXTINF:0,Darkradio
 http://138.201.234.215:11050/stream/1/
-#EXTINF:0,Dark Rain
-http://stream.radio-darkrain.de:8070/stream/1/
 #EXTINF:0,DASH Subdustrial
 https://ice55.securenetsystems.net/DASH25
 #EXTINF:0,DunkelLaut.de
 https://dunkellaut.site/radio/8015/radio.mp3
 #EXTINF:0,Radio Dunkle Welle
-https://hope.streampanel.net/rjmvggsr?mp=/stream
+https://saurus.streampanel.net/rjmvggsr?mp=/stream
 #EXTINF:0,Radio Eigengrau
 https://stream.laut.fm/eigengrau?ref=radiode
-#EXTINF:0,Galaxy of Sound
-https://azura.galaxyofsound.de:18443/radio/8000/stream
 #EXTINF:0,Gothic Girl Magazine Radio
 https://stream.zeno.fm/3uhy5my7echvv?
 #EXTINF:0,GothVille
@@ -55,18 +53,16 @@ http://hazzardstream.de:7777/stream/1/
 http://HearMe.fm:8056/stream
 #EXTINF:0,Heavy Music Atmospheric Radio
 https://stream.heavy-music.net:8107/stream
+#EXTINF:0,Heidis-Dudelkasten
+https://stream2-alfacast-hosting.com/8034/stream
 #EXTINF:0,HorrorAndHalloweenRadio.com
 http://s2.voscast.com:11034/;stream1634719277384/1
-#EXTINF:0,Radio H Punkt
-http://81.169.204.222:8001/;
 #EXTINF:0,Illusion-Castle
 https://stream.laut.fm/illusion-castle?ref=radiode
 #EXTINF:0,Klangwald Radio
 http://klangwald-radio.de:8000/stream1
 #EXTINF:0,Krutatko
 http://streaming.radionomy.com/krutatko
-#EXTINF:0,KULTRA-FM
-http://streamplus20.leonex.de:16010/;
 #EXTINF:0,666 Darksociety 666
 https://stream.laut.fm/666darksociety666?ref=radiode
 #EXTINF:0,80er-zone
@@ -79,8 +75,6 @@ https://stream.laut.fm/anderswelt?ref=radiode
 https://stream.laut.fm/arie_of_the_raven?ref=radiode
 #EXTINF:0,best-mix-radio
 https://stream.laut.fm/best-mix-radio?ref=radiode
-#EXTINF:0,black666
-https://stream.laut.fm/black666?ref=radiode
 #EXTINF:0,Black-Neon-Radio
 https://stream.laut.fm/blackneonradio?ref=radiode
 #EXTINF:0,Black Raven
@@ -97,6 +91,8 @@ https://stream.laut.fm/cia-radio?ref=radiode
 https://stream.laut.fm/cia-rock?ref=radiode
 #EXTINF:0,CrazyFire-Radio
 https://stream.laut.fm/crazyfire-radio?ref=radiode
+#EXTINF:0,crossfire
+https://stream.laut.fm/crossfire?ref=radiode
 #EXTINF:0,Dansemacabre
 https://stream.laut.fm/dansemacabre?ref=radiode
 #EXTINF:0,dark-bites
@@ -241,6 +237,8 @@ https://stream.laut.fm/silent-darkangel?ref=radiode
 https://stream.laut.fm/sinnflut?ref=radiode
 #EXTINF:0,Soundwelten
 https://stream.laut.fm/soundwelten?ref=radiode
+#EXTINF:0,Spontis
+http://stream.laut.fm/spontis?ref=radiode
 #EXTINF:0,thedarkbluhell
 https://stream.laut.fm/thedarkbluhell?ref=radiode
 #EXTINF:0,thedarknight
@@ -261,36 +259,28 @@ https://meralunafm.radionetz.de:8001/meralunafm.mp3
 http://fr.radio-streamhosting.com:8000/metalheartradio128mp3
 #EXTINF:0,Metal Rock Radio
 https://kathy.torontocast.com:2800/stream/1/
-#EXTINF:0,Radio Metropolis One
-http://144.76.84.153:21832/stream/1/
 #EXTINF:0,Radio Nachtflug
 https://server26265.streamplus.de/stream/1/
-#EXTINF:0,Radio Metronom
-http://server3.streamserver24.com:23902/stream/1/
+#EXTINF:0,NameSake Radio
+https://securestreams6.autopo.st:2246/stream
 #EXTINF:0,Radio No Rest
 http://server7.streamserver24.com:31504/stream/1/
 #EXTINF:0,ON Gothic
 https://0n-gothic.radionetz.de/0n-gothic.mp3
 #EXTINF:0,Oroya Wave
 https://streamingv2.shoutcast.com/oroyawave
-#EXTINF:0,Radio Paranoid
-https://radio-paranoid.net/onair/listen.pls
 #EXTINF:0,RADIO BOB! BOBs Gothic Rock
 https://streams.radiobob.de/gothic/mp3-192/radiode/
 #EXTINF:0,Radio Darkitalia
 https://darkitalia.radioca.st/autodj
-#EXTINF:0,Radio Dark Tunnel 
-https://s2.ssl-stream.com/listen/radio_dark_tunnel/rdt.mp3
 #EXTINF:0,Radio Fun and more
 https://stream.rcast.net/68115
 #EXTINF:0,Radio Kingdom of Darkness
 https://stream.laut.fm/radio-kingdom-of-darkness?ref=radiode
 #EXTINF:0,Radio Obozrevatel Gothic
 https://radio-stream-0.obozrevatel.com/Gothic128.mp3
-#EXTINF:0,Radio Redstone - Einfach Besser
-http://144.76.84.153:21448/stream
-#EXTINF:0,Radio Revierpower
-http://stream04.stream-webradiotechnik.de:7012/;
+#EXTINF:0,Radio Redstone
+http://server4.streamserver24.com:21448/stream
 #EXTINF:0,ROCK ANTENNE - Gothic
 https://stream.rockantenne.de/gothic/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,RockYou.fm
@@ -308,9 +298,11 @@ http://listen.radionomy.com/sblizeni
 #EXTINF:0,Radio Schattenwelt
 https://stream.laut.fm/radiopuettlingen?ref=radiode
 #EXTINF:0,Silence of Blue Ozean
-https://stream.laut.fm/silence-of-blue-ozean?ref=radiode
-#EXTINF:0,Stahlsender Webradio
-https://mpc2.mediacp.eu/stream/stahlsender
+https://stream.silence-of-blue-ozean.com:8002/listen1
+#EXTINF:0,Terra Relicta
+https://a3.asurahosting.com:7050/radio.mp3
+#EXTINF:0,test2300802
+https://stream.laut.fm/freenoize?ref=radiode
 #EXTINF:0,The Dark Blue Hell
 http://apollo.rserve.de:8018/;
 #EXTINF:0,Radio Thunder UK
@@ -319,9 +311,5 @@ http://streaming.radionomy.com/Radio-Thunder-UK
 http://cp11.serverse.com:7242/stream/1/
 #EXTINF:0,UP&DOWN TOP ROCK RADIO 
 http://listen.radionomy.com/up-downtoprockradio
-#EXTINF:0,Witches Radio
-https://radio10.pro-fhi.net/live/WitchesRadio
-#EXTINF:0,X13 Radio - Gothic Music HD
-https://x13.streamguys1.com/x13-gothicmusic
 #EXTINF:0,Zwischen-Welten Radio
 https://radio.zwischen-welten.info/midd.mp3?type=http

@@ -28,7 +28,7 @@ ADB="/usr/bin/adb"
 PINGHOST="web.de"
 let CTR=0
 let MAX=55
-let DEBUG=2
+let DEBUG=3
 #let DEBUG=5
 
 
@@ -148,7 +148,9 @@ do
 	do
     	    fe=`echo $entry | cut -f 1 -d ";" `
     	    se=`echo $entry | cut -f 2 -d ";" `
-	    #echo "ENTRY: $fe / $se" >> $LOG
+	    if [ $DEBUG -gt 2 ];then
+		echo "ENTRY: $entry / $fe / $se" >> $LOG
+	    fi
 	    echo $line | grep "$fe">/dev/null
 	    if [ $? -eq 0 ];then
 		echo "`date` INF line $line requires action: $se" >> $LOG
@@ -307,4 +309,5 @@ if [ $DEBUG -gt 0 ];then
     echo "`date` INF stop $0 ($CTR)" >> $LOG
 fi
 
+echo "" >> $LOG
 rm -f $LOCKFILE

@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:0,Afri Radio 
-http://s6.mediastreaming.it:9056/;
 #EXTINF:0,Blackbox Kizomba
 https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 #EXTINF:0,Caboradio
 https://www.radioking.com/play/caboradio
 #EXTINF:0,Radio Génération Tuga
 https://stream.vestaradio.com/rg33
-#EXTINF:0,KIZOMBA - Radio Kuia Bué FM
-http://hts03.kshost.com.br:9126/live?radiode
 #EXTINF:0,Jobs & Musik Kizomba
 https://listen.radionomy.com/kizombamusic
 #EXTINF:0,Radio Kuia Bué FM
@@ -16,14 +12,16 @@ http://hts03.kshost.com.br:9126/live
 #EXTINF:0,LATINA KIZOMBA
 https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
 #EXTINF:0,Musifesta
-https://listen.radionomy.com/Musifesta-.m3u
+http://listen.radionomy.com:80/Musifesta-
 #EXTINF:0,NRJ KIZOMBA
-https://scdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3?origine=radio.net
+https://scdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3?origine=radio.net&aw_0_1st.station=NRJ-Kizomba
 #EXTINF:0,Our Salsa Soul
 https://streamer.radio.co/s37b243eaa/listen
 #EXTINF:0,Perfect Kizomba
 https://stream.radiojar.com/2fhqye2ez2hvv
 #EXTINF:0,Rádio Atlântico
-https://painel.radioatlantico.net:8000/radiohd
+https://stream.cvhosting.uk:8000/radio.mp3
+#EXTINF:0,Rádio Lumena
+http://rs2.ptservidor.com:8047/stream
 #EXTINF:0,TugaFm | Radio A Tua Medida
 https://stream.laut.fm/tugafm?ref=radiode

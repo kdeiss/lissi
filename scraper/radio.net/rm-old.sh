@@ -36,7 +36,7 @@ HTMLAGE="+43200" 	# 30 days
 function rmold-lastseen()
 {
 echo "`find . -type f |grep ".lastseen" |wc -l` lastseen files total." | tee -a $LOG
-let MAXDELETIONS=10
+let MAXDELETIONS=15
 OIFS="$IFS"
 IFS=$'\n'
 let ctr=0

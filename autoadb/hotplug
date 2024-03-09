@@ -1,18 +1,18 @@
 #!/bin/sh
 # this script is invoked by system hotplug event
 
-echo "" >> /tmp/hotplug.log
-echo "`date`" >> /tmp/hotplug.log
-echo "<ACTION:$ACTION>" >> /tmp/hotplug.log
+echo "" >> /tmp/hotplugd.log
+echo "`date`" >> /tmp/hotplugd.log
+echo "<ACTION:$ACTION>" >> /tmp/hotplugd.log
 
 if [ "$ACTION" = "bind" ];then
-    echo "ACTION:$ACTION" >> /tmp/hotplug.log
-    echo "DRIVER:$DRIVER" >> /tmp/hotplug.log
-    echo "DEVPATH:$DEVPATH" >> /tmp/hotplug.log
-    echo "PRODUCT:VID/PID/BCD: $PRODUCT" >> /tmp/hotplug.log
-    echo "TYPE:$TYPE" >> /tmp/hotplug.log
-    echo "INTERFACE: $INTERFACE" >> /tmp/hotplug.log
-    echo "SUBSYSTEM:$SUBSYSTEM" >> /tmp/hotplug.log
+    echo "ACTION:$ACTION" >> /tmp/hotplugd.log
+    echo "DRIVER:$DRIVER" >> /tmp/hotplugd.log
+    echo "DEVPATH:$DEVPATH" >> /tmp/hotplugd.log
+    echo "PRODUCT:VID/PID/BCD: $PRODUCT" >> /tmp/hotplugd.log
+    echo "TYPE:$TYPE" >> /tmp/hotplugd.log
+    echo "INTERFACE: $INTERFACE" >> /tmp/hotplugd.log
+    echo "SUBSYSTEM:$SUBSYSTEM" >> /tmp/hotplugd.log
     echo "START" > /tmp/hotplug.sem
-    echo "sem file written!" >> /tmp/hotplug.log
+    echo "sem file written!" >> /tmp/hotplugd.log
 fi
